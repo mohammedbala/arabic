@@ -3,7 +3,7 @@ import { fileURLToPath } from 'node:url';
 import { openDb } from './db.js';
 import { loadVocab } from './vocab.js';
 import { createApp } from './app.js';
-import { pruneSessions } from './auth.js';
+import { pruneSessions } from './core/api.js';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const dbFile = process.env.DB_FILE || join(root, 'data', 'app.db');

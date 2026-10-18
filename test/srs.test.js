@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { schedule, newCardState, retrievability, intervalFor, formatInterval } from '../server/srs.js';
-import { buildPlan, LESSONS } from '../server/curriculum.js';
+import { schedule, newCardState, retrievability, intervalFor, formatInterval } from '../server/core/srs.js';
+import { buildPlan, LESSONS } from '../server/core/curriculum.js';
 
 const DAY = 86_400_000;
 const MIN = 60_000;

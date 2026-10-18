@@ -31,6 +31,21 @@ Requires Node ≥ 22.13. It uses the built-in `node:sqlite`, so there are no nat
 | `DB_FILE`        | `data/app.db`   | SQLite database path                     |
 | `SECURE_COOKIES` | unset           | set to `1` when served over HTTPS        |
 
+## GitHub Pages (static version)
+
+The app also runs with **no server**. `npm run build:pages` builds `dist/`, in which the same API
+code (`server/core/`) runs in the browser on SQLite compiled to WebAssembly (sql.js), and data is
+stored in IndexedDB. Pushes to `main` deploy it automatically (`.github/workflows/pages.yml` → `gh-pages`
+branch → https://mohammedbala.github.io/arabic/).
+
+In the static version, accounts and progress are stored **in each visitor's browser**. Profiles,
+follows and the leaderboard only include accounts created on that device. For shared accounts
+across devices, run the Node server (`npm start`) on any Node host.
+
+```bash
+npm run build:pages && npm run serve:pages   # preview at http://localhost:4000/arabic/
+```
+
 ## How the learning works
 
 | Principle | Implementation |
@@ -49,14 +64,18 @@ Requires Node ≥ 22.13. It uses the built-in `node:sqlite`, so there are no nat
 ```
 server/
   index.js        entry point
-  app.js          Express routes (auth, study, lessons, drills, profiles, social)
-  srs.js          FSRS scheduler
-  study.js        queues, grading, XP, streaks, stats, achievements
-  curriculum.js   6-week path, grammar lessons, daily-quota planner
-  auth.js         scrypt password hashing, hashed session tokens, rate limiting
-  db.js           SQLite schema
-  vocab.js        deck loader
+  app.js          Express adapter (cookies, CSRF check, static files)
+  auth.js         scrypt password hashing (Node)
+  db.js, vocab.js Node SQLite + deck loading
+  core/           browser-safe modules shared with the static build:
+    api.js          every API route (auth, study, lessons, drills, profiles, social)
+    srs.js          FSRS scheduler
+    study.js        queues, grading, XP, streaks, stats, achievements
+    curriculum.js   6-week path, grammar lessons, daily-quota planner
+    schema.js       SQLite schema
 public/           single-page frontend (vanilla JS, no build step)
+  local/backend.js  in-browser backend for the static build (sql.js + IndexedDB + WebCrypto)
+scripts/          vocab build, Pages build, local Pages preview server
 data/vocab/       source vocabulary (part*.json) + SPEC.md
 data/vocab.json   built deck (npm run build:vocab)
 test/             node:test suites

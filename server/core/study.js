@@ -1,7 +1,7 @@
-import { tx } from './db.js';
+import { tx } from './schema.js';
 import { schedule, newCardState, previewIntervals, KNOWN_STABILITY_DAYS, MATURE_STABILITY_DAYS } from './srs.js';
 import { buildPlan, LESSONS, lessonById } from './curriculum.js';
-import { present } from './vocab.js';
+import { present } from './vocab-core.js';
 
 const DAY = 86_400_000;
 // Learning-step cards due within this window are shown now rather than making

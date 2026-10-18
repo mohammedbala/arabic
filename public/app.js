@@ -17,7 +17,24 @@ const state = {
 const esc = (s) =>
   String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 
+// Static mode (GitHub Pages build): no server — the API runs in the browser
+// and BASE is the site's sub-path (e.g. /arabic). Server mode: BASE is ''.
+const STATIC = document.documentElement.dataset.static === '1';
+const BASE = new URL(document.baseURI).pathname.replace(/\/$/, '');
+const appPath = (p) => (BASE && p.startsWith(BASE) ? p.slice(BASE.length) || '/' : p);
+let backend = null;
+
 async function api(path, { method = 'GET', body } = {}) {
+  if (STATIC) {
+    backend ??= import('./local/backend.js');
+    const { status, json } = await (await backend).request(path, { method, body });
+    if (status >= 400) {
+      const err = new Error(json?.error || `Request failed (${status})`);
+      err.status = status;
+      throw err;
+    }
+    return json;
+  }
   const res = await fetch(path, {
     method,
     headers: body !== undefined ? { 'Content-Type': 'application/json' } : {},
@@ -265,23 +282,38 @@ const route = (pattern, view, opts = {}) => routes.push({ pattern, view, ...opts
 let cleanup = null;
 
 function navigate(path, replace = false) {
-  if (replace) history.replaceState({}, '', path);
-  else history.pushState({}, '', path);
+  if (replace) history.replaceState({}, '', BASE + path);
+  else history.pushState({}, '', BASE + path);
   render();
 }
 document.addEventListener('click', (e) => {
   const a = e.target.closest('a[data-link]');
   if (!a || e.metaKey || e.ctrlKey || e.shiftKey || a.target === '_blank') return;
   e.preventDefault();
-  navigate(a.getAttribute('href'));
+  navigate(appPath(a.pathname) + a.search);
 });
+// Under a sub-path, rewrite in-app links ("/dashboard") to real URLs
+// ("/arabic/dashboard") so open-in-new-tab and copy-link work.
+if (BASE) {
+  const fixLinks = (root) => {
+    for (const a of root.querySelectorAll?.('a[data-link]') ?? []) {
+      const h = a.getAttribute('href');
+      if (h?.startsWith('/') && !h.startsWith(BASE + '/') && h !== BASE) a.setAttribute('href', BASE + h);
+    }
+  };
+  fixLinks(document);
+  new MutationObserver((muts) => muts.forEach((m) => m.addedNodes.forEach((n) => n.nodeType === 1 && fixLinks(n.parentNode ?? n)))).observe(document.body, {
+    childList: true,
+    subtree: true,
+  });
+}
 window.addEventListener('popstate', render);
 
 async function render() {
   if (cleanup) { cleanup(); cleanup = null; }
   dubbi.hide();
   dubbi.setMood('happy');
-  const path = location.pathname;
+  const path = appPath(location.pathname);
   for (const r of routes) {
     const m = path.match(r.pattern);
     if (!m) continue;
@@ -305,7 +337,7 @@ async function render() {
 }
 
 function renderNav() {
-  const p = location.pathname;
+  const p = appPath(location.pathname);
   const link = (href, label) => `<a href="${href}" data-link class="${p === href || (href !== '/' && p.startsWith(href)) ? 'active' : ''}">${label}</a>`;
   if (state.user) {
     $nav.innerHTML = [
@@ -406,6 +438,7 @@ function authForm(mode) {
               <div class="field"><label for="targetDays">Target</label><select id="targetDays" name="targetDays"><option value="21">3 weeks (intense)</option><option value="42" selected>6 weeks</option><option value="56">8 weeks</option><option value="84">12 weeks (relaxed)</option></select></div>
             </div>`
           : ''}
+        ${STATIC ? '<p class="small muted">🔒 This version runs entirely in your browser: your account and progress are saved on this device only.</p>' : ''}
         <div class="error" id="err"></div>
         <button class="btn primary block lg" type="submit">${isSignup ? 'Create account' : 'Log in'}</button>
       </form>
@@ -1199,6 +1232,9 @@ function applyTheme() {
   else delete document.documentElement.dataset.theme;
 }
 applyTheme();
+if (STATIC) {
+  document.querySelector('.footer span').textContent += ' · progress is saved in this browser';
+}
 
 (async () => {
   try {
