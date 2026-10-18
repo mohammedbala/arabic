@@ -321,15 +321,16 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
 
 /* ------------------------------------------------ Dubbi the mascot */
 .dubbi { display: block; overflow: visible; }
-.dubbi .o { stroke: #3f2614; stroke-width: 2.4; stroke-linejoin: round; }
-.dubbi .f-eye { fill: #3f2614; }
-.dubbi .f-line { stroke: #3f2614; stroke-width: 3; fill: none; stroke-linecap: round; }
+.dubbi .o { stroke: #4a1d2c; stroke-width: 2.8; stroke-linejoin: round; }
+.dubbi .o.thin { stroke-width: 2; }
+.dubbi .f-eye { fill: #4a1d2c; }
+.dubbi .f-line { stroke: #4a1d2c; stroke-width: 3.2; fill: none; stroke-linecap: round; }
 .dubbi .f-line.thin { stroke-width: 2; }
 .dubbi .f-z { fill: var(--muted); font: 700 14px var(--font); }
 .dubbi .f-z.small { font-size: 10px; }
 .dubbi .f-ear { transform-box: view-box; transition: transform 0.3s; }
-.dubbi .f-ear-l { transform-origin: 38px 32px; }
-.dubbi .f-ear-r { transform-origin: 82px 32px; }
+.dubbi .f-ear-l { transform-origin: 34px 31px; }
+.dubbi .f-ear-r { transform-origin: 86px 31px; }
 .dubbi .f-wave { transform-box: fill-box; transform-origin: 50% 0%; animation: dubbi-wave 1.6s ease-in-out infinite; }
 @keyframes dubbi-wave { 0%, 100% { rotate: 0deg; } 50% { rotate: 14deg; } }
 .dubbi-dock {
