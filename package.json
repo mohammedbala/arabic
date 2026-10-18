@@ -1,0 +1,22 @@
+{
+  "name": "libyan-arabic-trainer",
+  "version": "1.0.0",
+  "description": "Darija Libya — a spaced-repetition Arabic training system (Libyan Arabic by default) with accounts and GitHub-style progress tracking.",
+  "type": "module",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server/index.js",
+    "dev": "node --disable-warning=ExperimentalWarning --watch server/index.js",
+    "test": "node --disable-warning=ExperimentalWarning --test test/*.test.js",
+    "build:vocab": "node scripts/build-vocab.js",
+    "check:vocab": "node scripts/build-vocab.js --check"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.3.0"
+  }
+}
