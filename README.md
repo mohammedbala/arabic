@@ -8,6 +8,9 @@ aimed at conversational fluency in a few weeks.
   English, the MSA equivalent, a Libyan example sentence, and notes (verb conjugations, plurals,
   loanword origins).
 - **A 6-week fluency path** (2 weeks to a year, set per user) with 17 grammar lessons, each ending in a retrieval quiz.
+- **Fenni the fennec fox 🦊**, a mascot who cheers you on in Libyan Arabic, comforts you after
+  mistakes, celebrates streaks and achievements, shares memory tips, and dozes off if you leave
+  reviews waiting. Click him for a phrase with audio, or turn him off in settings.
 - **Spaced repetition** with the FSRS memory model, learning steps, and recognition → production cards.
 - **Accounts and progress tracking:** contribution heatmap, streaks, achievements, activity feed,
   public profiles at `/u/<username>`, follows, and a weekly leaderboard.

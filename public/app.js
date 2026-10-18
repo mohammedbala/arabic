@@ -1,4 +1,5 @@
 // Darija Libya — single-page frontend. No build step; plain ES modules.
+import { createMascot, fenniSVG } from './mascot.js';
 
 const $app = document.getElementById('app');
 const $nav = document.getElementById('nav');
@@ -147,6 +148,13 @@ function speak(text, force = false) {
   u.rate = 0.85;
   speechSynthesis.speak(u);
 }
+const fenni = createMascot({ onSpeak: (t) => speak(t, true) });
+document.body.classList.toggle('has-fenni', fenni.enabled);
+const greetingAr = () => {
+  const h = new Date().getHours();
+  return h < 12 ? ['صباح الخير!', 'ṣbā7 ilkhēr!', 'Good morning!'] : ['مساء الخير!', 'masā ilkhēr!', 'Good evening!'];
+};
+
 const speakBtn = (text) =>
   `<button class="btn speak" data-speak="${esc(text)}" title="Listen (S)" aria-label="Listen">🔊</button>`;
 document.addEventListener('click', (e) => {
@@ -271,6 +279,8 @@ window.addEventListener('popstate', render);
 
 async function render() {
   if (cleanup) { cleanup(); cleanup = null; }
+  fenni.hide();
+  fenni.setMood('happy');
   const path = location.pathname;
   for (const r of routes) {
     const m = path.match(r.pattern);
@@ -339,12 +349,14 @@ route(/^\/$/, async () => {
         </div>
       </div>
       <div class="card pad-lg center">
+        ${fenniSVG('happy', 'fenni-hero')}
         <div class="hero-ar">شن حوالك؟</div>
         <div class="tr" style="font-size:1.2rem">shin 7wālik?</div>
         <p class="muted">How are you? — the Libyan way</p>
         ${speakBtn('شن حوالك؟')}
       </div>
     </section>
+    <div class="card fenni-intro" style="margin-top:24px">${fenniSVG('cheer')}<div><h3 style="margin:0">Meet Fenni, your study buddy</h3><p class="muted" style="margin:0">A fennec fox from the Libyan desert. Fenni cheers you on in Libyan Arabic, picks you up after mistakes, and shares tips on how memory works. Click him any time for a phrase.</p></div></div>
     <h2 style="margin-top:36px">Built on how memory actually works</h2>
     <div class="grid cols-4">${PRINCIPLES.map(([i, t, d]) => `<div class="card principle"><h3><span class="ico">${i}</span>${esc(t)}</h3><p class="muted small">${esc(d)}</p></div>`).join('')}</div>
     <div class="card pad-lg" style="margin-top:24px">
@@ -354,6 +366,10 @@ route(/^\/$/, async () => {
         <div><h3>3 · Use</h3><p class="muted">Grammar lessons each week connect the words into real Libyan sentences you can say today.</p></div>
       </div>
     </div>`;
+  if (!sessionStorage.getItem('fenniHi')) {
+    sessionStorage.setItem('fenniHi', '1');
+    setTimeout(() => fenni.say('<strong><span class="ar">أهلاً!</span> Ahlan!</strong> I\u2019m Fenni 🦊. Sign up and I\u2019ll take you from zero to chatting in Libyan Arabic, one day at a time.', { mood: 'cheer', anim: 'jump', ms: 8000 }), 600);
+  }
 });
 
 route(/^\/science$/, async () => {
@@ -408,7 +424,7 @@ function authForm(mode) {
       state.words = null;
       const next = new URLSearchParams(location.search).get('next');
       navigate(next && next.startsWith('/') && !next.startsWith('//') ? next : isSignup ? '/study' : '/dashboard', true);
-      if (isSignup) toast('Welcome! Your first words are ready — أهلاً وسهلاً');
+      if (isSignup) fenni.say(['أهلاً وسهلاً!', 'ahlan wa sahlan!', 'Welcome! Your first words are ready. Listen, say each one out loud, then test yourself.'], { mood: 'cheer', anim: 'jump', ms: 8000, speak: true });
     } catch (err) {
       document.getElementById('err').textContent = err.message;
       btn.disabled = false;
@@ -440,7 +456,7 @@ route(
       <div class="spread" style="margin-bottom:18px">
         <div><h1 style="margin:0">مرحبا, ${esc(state.user.displayName)} 👋</h1>
         <div class="muted">Day ${plan.dayIndex} of ${plan.targetDays} · Week ${plan.currentWeek}: <strong>${esc(week.title)}</strong></div></div>
-        <div class="row"><span class="badge orange">🔥 ${s.streak.current}-day streak</span><span class="badge blue">${esc(s.level.code)} · ${esc(s.level.label)}</span></div>
+        <div class="row"><span class="badge orange">${s.streak.current ? `🔥 ${s.streak.current}-day streak` : '🔥 Start a streak today'}</span><span class="badge blue">${esc(s.level.code)} · ${esc(s.level.label)}</span></div>
       </div>
       <div class="grid" style="grid-template-columns:minmax(0,2fr) minmax(0,1fr)">
         <div class="card pad-lg">
@@ -485,6 +501,25 @@ route(
           <div class="small muted" style="margin-top:6px">${plan.remaining ? `${plan.remaining} of the core ${plan.core} words left over ${plan.daysLeft} days → ${plan.newPerDay}/day.` : plan.deckLeft ? `Core ${plan.core} words done! The remaining ${plan.deckLeft} words arrive at ${plan.newPerDay}/day.` : 'Every word is introduced — keep up the reviews to make them permanent.'}</div>
         </div>
       </div>`;
+    const [gAr, gTr] = greetingAr();
+    const name = esc(state.user.displayName);
+    const msg =
+      s.today.xp >= s.today.goal
+        ? `Daily goal smashed, ${name}! 🎯 Anything extra today is a bonus.`
+        : !s.introduced
+          ? `Let\u2019s learn your very first Libyan words, ${name}! Press <strong>Start session</strong>.`
+          : todo
+            ? `${q.counts.due ? `${q.counts.due} review${q.counts.due === 1 ? ' is' : 's are'} waiting` : `${q.counts.new} new words are ready`}${s.streak.current > 1 ? ` — keep your 🔥${s.streak.current}-day streak alive` : ''}. Yalla!`
+            : `All caught up — try a drill or a grammar lesson.`;
+    fenni.say(`<div class="ar fb-ar">${gAr}</div><div class="tr small">${gTr}</div><div class="small" style="margin-top:4px">${msg}</div>`, {
+      mood: s.today.xp >= s.today.goal ? 'cheer' : 'happy',
+      anim: 'wiggle',
+      ms: 7000,
+    });
+    const idle = setTimeout(() => {
+      if (todo) fenni.say('Zzz… wake me up with a session? <a href="/study" data-link>يلا نقرو 📚</a>', { mood: 'sleepy', anim: 'wiggle', ms: 0 });
+    }, 60_000);
+    return () => clearTimeout(idle);
   },
   { auth: true },
 );
@@ -497,7 +532,8 @@ route(
     let data = await api('/api/study/queue?limit=80');
     let queue = data.items;
     const total0 = queue.length;
-    const session = { done: 0, correct: 0, xp: 0, start: Date.now(), achievements: [] };
+    const session = { done: 0, correct: 0, xp: 0, start: Date.now(), achievements: [], run: 0, newSeen: 0 };
+    fenni.setCompact(true);
     let current = null;
     let phase = null; // 'intro' | 'quiz' | 'front' | 'back'
     let shownAt = 0;
@@ -533,6 +569,7 @@ route(
       shownAt = Date.now();
       phase = current.kind === 'new' ? 'intro' : 'front';
       draw();
+      if (phase === 'intro' && (session.newSeen++ === 0 || Math.random() < 0.15)) fenni.react('newWord');
     }
 
     function draw() {
@@ -659,9 +696,15 @@ route(
         session.done++;
         if (g > 1) session.correct++;
         session.xp += res.xp;
+        // Fenni: always comfort after a miss, celebrate streaks, cheer some hits.
+        session.run = g > 1 ? session.run + 1 : 0;
+        if (g === 1) fenni.react('wrong');
+        else if (session.run > 0 && session.run % 5 === 0) fenni.say(`🔥 ${session.run} in a row!`, { mood: 'cheer', anim: 'jump', ms: 2600 });
+        else if (g >= 3 && Math.random() < 0.3) fenni.react('correct');
         for (const a of res.achievements) {
           session.achievements.push(a);
           toast(`${a.icon} Achievement unlocked: <strong>${esc(a.title)}</strong>`);
+          fenni.say(`${a.icon} <strong>${esc(a.title)}</strong> unlocked! ${esc(a.desc)}`, { mood: 'wow', anim: 'jump', ms: 4000 });
         }
         if (res.unlockedProduction) toast(`✍️ <span class="ar">${esc(it.word.ar)}</span> unlocked a production card`);
         // Same-session relearning: bring learning cards back after a few others.
@@ -687,8 +730,11 @@ route(
       const mins = Math.max(1, Math.round((Date.now() - session.start) / 60000));
       const acc = session.done ? Math.round((100 * session.correct) / session.done) : 0;
       const s = await api('/api/stats');
+      fenni.setCompact(false);
+      if (session.done) fenni.react('finish', { speak: true });
+      else fenni.tip();
       $app.innerHTML = `<div class="study-wrap"><div class="card pad-lg center">
-        <div style="font-size:3rem">${session.done ? '🎉' : '✅'}</div>
+        ${fenniSVG(session.done ? 'cheer' : 'happy', 'fenni-inline')}
         <h1>${session.done ? 'Session complete — برافو!' : 'Nothing due right now'}</h1>
         ${session.done
           ? `<div class="grid cols-4" style="margin:18px 0">
@@ -721,7 +767,10 @@ route(
 
     if (!total0) await finish();
     else show();
-    return () => document.removeEventListener('keydown', keyHandler);
+    return () => {
+      document.removeEventListener('keydown', keyHandler);
+      fenni.setCompact(false);
+    };
   },
   { auth: true },
 );
@@ -785,6 +834,8 @@ async function runDrill(mode, cat) {
     const q = questions[i];
     const ok = j === q.answer;
     if (ok) correct++;
+    if (!ok) fenni.react('wrong');
+    else if (Math.random() < 0.3) fenni.react('correct');
     document.querySelectorAll('[data-c]').forEach((b, k) => {
       if (k === q.answer) b.classList.add('correct');
       else if (k === j) b.classList.add('wrong');
@@ -800,7 +851,9 @@ async function runDrill(mode, cat) {
     document.removeEventListener('keydown', onKey);
     const res = await api('/api/drill/result', { method: 'POST', body: { correct, total: questions.length, msTaken: Date.now() - start } });
     for (const a of res.achievements) toast(`${a.icon} Achievement unlocked: <strong>${esc(a.title)}</strong>`);
-    $app.innerHTML = `<div class="study-wrap"><div class="card pad-lg center"><div style="font-size:3rem">${correct >= questions.length * 0.8 ? '🌟' : '💪'}</div>
+    const great = correct >= questions.length * 0.8;
+    fenni.react(great ? 'finish' : 'wrong');
+    $app.innerHTML = `<div class="study-wrap"><div class="card pad-lg center">${fenniSVG(great ? 'cheer' : 'happy', 'fenni-inline')}
       <h1>${correct} / ${questions.length}</h1><p>+${res.xp} XP</p>
       <div class="row" style="justify-content:center"><a href="/practice" data-link class="btn primary">Another drill</a><a href="/dashboard" data-link class="btn">Dashboard</a></div></div></div>`;
   }
@@ -813,7 +866,7 @@ route(
   async () => {
     const [{ lessons }, plan] = await Promise.all([api('/api/lessons'), api('/api/plan')]);
     $app.innerHTML = `
-      <h1>Your path to fluency</h1>
+      <div class="fenni-intro">${fenniSVG('think')}<div><h1 style="margin:0">Your path to fluency</h1><div class="muted small">Fenni says: one lesson a day alongside your cards is the sweet spot.</div></div></div>
       <p class="muted">${plan.targetDays}-day plan · you're on day ${plan.dayIndex} · ${plan.newPerDay} new words/day. Change the length in <a href="/settings" data-link>settings</a>.</p>
       <div class="stack" style="margin-top:20px">
       ${plan.weeks
@@ -853,6 +906,7 @@ route(
         <p class="muted small">Retrieval right after studying fixes the pattern in memory. Answer from memory, without scrolling up.</p>
         <div id="quiz"></div>
       </div>`;
+    fenni.say(`Read it, say the examples out loud, then do the quiz <em>without scrolling up</em>. That\u2019s the testing effect! 🧠`, { mood: 'think', ms: 6000 });
     const quiz = lesson.quiz.map((q) => {
       const order = shuffle(q.options.map((_, i) => i));
       return { ...q, order };
@@ -883,6 +937,8 @@ route(
     async function finishQuiz() {
       const res = await api(`/api/lessons/${encodeURIComponent(id)}/complete`, { method: 'POST', body: { score } });
       for (const a of res.achievements) toast(`${a.icon} Achievement unlocked: <strong>${esc(a.title)}</strong>`);
+      if (score === quiz.length) fenni.react('finish');
+      else fenni.say(`${score}/${quiz.length}: ${score >= quiz.length / 2 ? 'good' : 'a start'}! Retrying a quiz later is how it sticks. 💪`, { mood: score >= quiz.length / 2 ? 'happy' : 'sad', ms: 5000 });
       box.innerHTML = `<div class="center"><h2>${score} / ${quiz.length}</h2>${res.xp ? `<p>+${res.xp} XP · lesson complete ✅</p>` : '<p class="muted">Lesson already completed — nice refresher.</p>'}
         <div class="row" style="justify-content:center"><button class="btn" id="retry">Retry quiz</button><a href="/path" data-link class="btn primary">Back to path</a><a href="/study" data-link class="btn">Study cards</a></div></div>`;
       document.getElementById('retry').addEventListener('click', () => { idx = 0; score = 0; drawQ(); });
@@ -1076,6 +1132,7 @@ route(
         <div class="card"><h2>Appearance & audio</h2>
           <div class="grid cols-2">
             <div class="field"><label for="theme">Theme</label><select id="theme"><option value="auto" ${theme === 'auto' ? 'selected' : ''}>System</option><option value="light" ${theme === 'light' ? 'selected' : ''}>Light</option><option value="dark" ${theme === 'dark' ? 'selected' : ''}>Dark</option></select></div>
+            <div class="field"><label><input type="checkbox" id="fenniOn" ${fenni.enabled ? 'checked' : ''}> Show Fenni the fennec 🦊</label><div class="hint">Your mascot: reactions, Libyan phrases and study tips.</div></div>
             <div class="field"><label><input type="checkbox" id="tts" ${state.tts ? 'checked' : ''}> Play audio automatically</label><div class="hint">${arVoice ? `Voice: ${esc(arVoice.name)} (${esc(arVoice.lang)})` : 'No Arabic voice found on this device. Install one in your OS speech settings.'}</div></div>
           </div>
         </div>
@@ -1098,6 +1155,11 @@ route(
       renderNav();
     });
     document.getElementById('theme').addEventListener('change', (e) => { localStorage.setItem('theme', e.target.value); applyTheme(); });
+    document.getElementById('fenniOn').addEventListener('change', (e) => {
+      fenni.setEnabled(e.target.checked);
+      document.body.classList.toggle('has-fenni', e.target.checked);
+      if (e.target.checked) fenni.say(['رجعت!', 'rja3t!', 'I\u2019m back!'], { mood: 'cheer', anim: 'jump' });
+    });
     document.getElementById('tts').addEventListener('change', (e) => { state.tts = e.target.checked; localStorage.setItem('tts', state.tts ? 'on' : 'off'); });
     document.getElementById('pw').addEventListener('submit', async (e) => {
       e.preventDefault();
