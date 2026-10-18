@@ -319,64 +319,64 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
 .center { text-align: center; }
 .btn.primary .kbd { color: rgba(255, 255, 255, 0.85); border-color: rgba(255, 255, 255, 0.5); }
 
-/* ------------------------------------------------ Fenni the mascot */
-.fenni { display: block; overflow: visible; }
-.fenni .f-eye { fill: #3b2414; }
-.fenni .f-line { stroke: #3b2414; stroke-width: 3; fill: none; stroke-linecap: round; }
-.fenni .f-line.thin { stroke-width: 2; }
-.fenni .f-z { fill: var(--muted); font: 700 14px var(--font); }
-.fenni .f-z.small { font-size: 10px; }
-.fenni .f-ear { transform-box: view-box; transition: transform 0.3s; }
-.fenni .f-ear-l { transform-origin: 40px 55px; }
-.fenni .f-ear-r { transform-origin: 80px 55px; }
-.fenni-dock {
+/* ------------------------------------------------ Dubbi the mascot */
+.dubbi { display: block; overflow: visible; }
+.dubbi .f-eye { fill: #3b2414; }
+.dubbi .f-line { stroke: #3b2414; stroke-width: 3; fill: none; stroke-linecap: round; }
+.dubbi .f-line.thin { stroke-width: 2; }
+.dubbi .f-z { fill: var(--muted); font: 700 14px var(--font); }
+.dubbi .f-z.small { font-size: 10px; }
+.dubbi .f-ear { transform-box: view-box; transition: transform 0.3s; }
+.dubbi .f-ear-l { transform-origin: 40px 46px; }
+.dubbi .f-ear-r { transform-origin: 80px 46px; }
+.dubbi-dock {
   position: fixed; left: 16px; bottom: 16px; z-index: 40; display: flex; align-items: flex-end; gap: 6px;
   flex-direction: column; align-items: flex-start; pointer-events: none;
 }
-.fenni-btn {
+.dubbi-btn {
   pointer-events: auto; width: 84px; height: 84px; padding: 4px; border-radius: 50%; cursor: pointer;
   background: var(--surface); border: 1px solid var(--border); box-shadow: var(--shadow);
-  animation: fenni-bob 3.2s ease-in-out infinite;
+  animation: dubbi-bob 3.2s ease-in-out infinite;
 }
-.fenni-btn:hover { transform: scale(1.06); }
-.fenni-btn .fenni { width: 100%; height: 100%; }
-.fenni-dock.compact .fenni-btn { width: 60px; height: 60px; }
-.fenni-bubble {
+.dubbi-btn:hover { transform: scale(1.06); }
+.dubbi-btn .dubbi { width: 100%; height: 100%; }
+.dubbi-dock.compact .dubbi-btn { width: 60px; height: 60px; }
+.dubbi-bubble {
   pointer-events: auto; position: relative; max-width: 260px; background: var(--surface); color: var(--text);
   border: 1px solid var(--border); border-radius: 14px; box-shadow: var(--shadow); padding: 10px 28px 10px 12px;
   transform-origin: bottom left; transform: scale(0.6) translateY(10px); opacity: 0; visibility: hidden;
   transition: transform 0.18s ease-out, opacity 0.18s, visibility 0.18s;
 }
-.fenni-bubble::after {
+.dubbi-bubble::after {
   content: ''; position: absolute; left: 30px; bottom: -8px; width: 14px; height: 14px; background: var(--surface);
   border-right: 1px solid var(--border); border-bottom: 1px solid var(--border); transform: rotate(45deg);
 }
-.fenni-dock.talking .fenni-bubble { transform: none; opacity: 1; visibility: visible; }
-.fenni-dock:not(.talking) .fenni-bubble { position: absolute; bottom: 100%; }
-.fenni-bubble .fb-ar { font-size: 1.35rem; font-weight: 600; line-height: 1.5; text-align: left; }
-.fenni-bubble .fb-close {
+.dubbi-dock.talking .dubbi-bubble { transform: none; opacity: 1; visibility: visible; }
+.dubbi-dock:not(.talking) .dubbi-bubble { position: absolute; bottom: 100%; }
+.dubbi-bubble .fb-ar { font-size: 1.35rem; font-weight: 600; line-height: 1.5; text-align: left; }
+.dubbi-bubble .fb-close {
   position: absolute; top: 4px; right: 6px; border: none; background: none; color: var(--muted);
   font-size: 1.1rem; cursor: pointer; line-height: 1;
 }
-.fenni-btn.jump { animation: fenni-jump 0.55s ease-out, fenni-bob 3.2s ease-in-out 0.55s infinite; }
-.fenni-btn.shake { animation: fenni-shake 0.5s ease-in-out, fenni-bob 3.2s ease-in-out 0.5s infinite; }
-.fenni-btn.wiggle { animation: fenni-wiggle 0.6s ease-in-out, fenni-bob 3.2s ease-in-out 0.6s infinite; }
-.fenni .f-spark { animation: fenni-twinkle 0.9s ease-in-out infinite alternate; transform-box: view-box; transform-origin: 60px 40px; }
-@keyframes fenni-bob { 0%, 100% { translate: 0 0; } 50% { translate: 0 -4px; } }
-@keyframes fenni-jump { 0% { translate: 0 0; } 35% { translate: 0 -22px; scale: 1.05 0.95; } 65% { translate: 0 0; scale: 1.08 0.9; } 100% { translate: 0 0; scale: 1; } }
-@keyframes fenni-shake { 0%, 100% { rotate: 0deg; } 20% { rotate: -10deg; } 40% { rotate: 9deg; } 60% { rotate: -6deg; } 80% { rotate: 4deg; } }
-@keyframes fenni-wiggle { 0%, 100% { rotate: 0deg; } 30% { rotate: 6deg; } 60% { rotate: -6deg; } }
-@keyframes fenni-twinkle { from { opacity: 0.4; scale: 0.9; } to { opacity: 1; scale: 1.05; } }
+.dubbi-btn.jump { animation: dubbi-jump 0.55s ease-out, dubbi-bob 3.2s ease-in-out 0.55s infinite; }
+.dubbi-btn.shake { animation: dubbi-shake 0.5s ease-in-out, dubbi-bob 3.2s ease-in-out 0.5s infinite; }
+.dubbi-btn.wiggle { animation: dubbi-wiggle 0.6s ease-in-out, dubbi-bob 3.2s ease-in-out 0.6s infinite; }
+.dubbi .f-spark { animation: dubbi-twinkle 0.9s ease-in-out infinite alternate; transform-box: view-box; transform-origin: 60px 40px; }
+@keyframes dubbi-bob { 0%, 100% { translate: 0 0; } 50% { translate: 0 -4px; } }
+@keyframes dubbi-jump { 0% { translate: 0 0; } 35% { translate: 0 -22px; scale: 1.05 0.95; } 65% { translate: 0 0; scale: 1.08 0.9; } 100% { translate: 0 0; scale: 1; } }
+@keyframes dubbi-shake { 0%, 100% { rotate: 0deg; } 20% { rotate: -10deg; } 40% { rotate: 9deg; } 60% { rotate: -6deg; } 80% { rotate: 4deg; } }
+@keyframes dubbi-wiggle { 0%, 100% { rotate: 0deg; } 30% { rotate: 6deg; } 60% { rotate: -6deg; } }
+@keyframes dubbi-twinkle { from { opacity: 0.4; scale: 0.9; } to { opacity: 1; scale: 1.05; } }
 @media (prefers-reduced-motion: reduce) {
-  .fenni-btn, .fenni-btn.jump, .fenni-btn.shake, .fenni-btn.wiggle, .fenni .f-spark { animation: none; }
+  .dubbi-btn, .dubbi-btn.jump, .dubbi-btn.shake, .dubbi-btn.wiggle, .dubbi .f-spark { animation: none; }
 }
 @media (max-width: 560px) {
-  .fenni-btn { width: 58px; height: 58px; }
-  .fenni-dock { left: 10px; bottom: 10px; }
-  .fenni-bubble { max-width: calc(100vw - 40px); }
+  .dubbi-btn { width: 58px; height: 58px; }
+  .dubbi-dock { left: 10px; bottom: 10px; }
+  .dubbi-bubble { max-width: calc(100vw - 40px); }
 }
-.fenni-hero { width: 160px; height: 160px; margin: 0 auto; }
-.fenni-inline { width: 96px; height: 96px; margin: 0 auto; }
-.fenni-intro { display: flex; gap: 14px; align-items: center; }
-.fenni-intro .fenni { width: 72px; height: 72px; flex: none; }
-body.has-fenni .footer { padding-left: max(116px, calc((100vw - 1180px) / 2)); }
+.dubbi-hero { width: 160px; height: 160px; margin: 0 auto; }
+.dubbi-inline { width: 96px; height: 96px; margin: 0 auto; }
+.dubbi-intro { display: flex; gap: 14px; align-items: center; }
+.dubbi-intro .dubbi { width: 72px; height: 72px; flex: none; }
+body.has-dubbi .footer { padding-left: max(116px, calc((100vw - 1180px) / 2)); }
