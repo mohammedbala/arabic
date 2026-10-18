@@ -356,7 +356,7 @@ route(/^\/$/, async () => {
         ${speakBtn('شن حوالك؟')}
       </div>
     </section>
-    <div class="card dubbi-intro" style="margin-top:24px">${dubbiSVG('cheer')}<div><h3 style="margin:0">Meet Dubbi, your study buddy</h3><p class="muted" style="margin:0">A friendly bear (دبّي, "little bear") dressed in traditional Libyan clothes: a red shenna cap, an embroidered farmla vest and a jard over the shoulder. Dubbi cheers you on in Libyan Arabic, picks you up after mistakes, and shares tips on how memory works. Click him any time for a phrase.</p></div></div>
+    <div class="card dubbi-intro" style="margin-top:24px">${dubbiSVG('cheer')}<div><h3 style="margin:0">Meet Dubbi, your study buddy</h3><p class="muted" style="margin:0">A friendly bear (دبّي, "little bear") dressed in a cream Libyan badla: gold-embroidered farmla vest, sirwal trousers and a waist sash, topped with a red shenna cap. Dubbi cheers you on in Libyan Arabic, picks you up after mistakes, and shares tips on how memory works. Click him any time for a phrase.</p></div></div>
     <h2 style="margin-top:36px">Built on how memory actually works</h2>
     <div class="grid cols-4">${PRINCIPLES.map(([i, t, d]) => `<div class="card principle"><h3><span class="ico">${i}</span>${esc(t)}</h3><p class="muted small">${esc(d)}</p></div>`).join('')}</div>
     <div class="card pad-lg" style="margin-top:24px">

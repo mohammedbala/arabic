@@ -1,79 +1,120 @@
-// Dubbi — the bear mascot, dressed in traditional Libyan men's clothing:
-// a red shenna cap with black tassel, white shirt, an embroidered farmla
-// vest and a cream jard wrap over the shoulder. Inline SVG with moods, a
-// speech bubble, and a library of Libyan phrases to cheer the learner on.
+// Dubbi — the bear mascot, standing full height in a cream Libyan badla:
+// red shenna cap with tassel, ivory shirt, gold-embroidered farmla vest,
+// waist sash and baggy sirwal trousers. Chibi style: big head, thick outlines,
+// flat colours. Inline SVG with moods, a speech bubble, and Libyan phrases.
 
 const MOODS = ['happy', 'cheer', 'think', 'sad', 'wow', 'sleepy'];
+
+const C = {
+  line: '#3f2614',
+  fur: '#b9824a',
+  furDark: '#9a6835',
+  innerEar: '#f2c9a0',
+  muzzle: '#f4dcb8',
+  shirt: '#fbf5e6',
+  vest: '#ecdcb8',
+  sirwal: '#e6d3ab',
+  sash: '#d6bb82',
+  gold: '#c8961a',
+  red: '#c8102e',
+};
+
+// Arm angles (degrees, rotating a downward-pointing arm around the shoulder):
+// positive swings the left arm outward, negative swings the right arm outward.
+const POSES = {
+  happy: { l: 18, r: -140, wave: 'r' },
+  cheer: { l: 145, r: -145 },
+  think: { l: 14, r: 111, front: 'r' }, // paw on chin, drawn over the face
+  sad: { l: 6, r: -6 },
+  wow: { l: 105, r: -105 },
+  sleepy: { l: 10, r: -10 },
+};
+
+function arm(x, y, angle, wave) {
+  return `<g transform="translate(${x} ${y}) rotate(${angle})"><g class="${wave ? 'f-wave' : ''}">
+    <rect x="-6.5" y="-3" width="13" height="25" rx="6.5" fill="${C.shirt}" class="o"/>
+    <path d="M-6.2 18 H6.2" stroke="${C.gold}" stroke-width="1.8"/>
+    <circle cx="0" cy="26" r="6.8" fill="${C.fur}" class="o"/>
+  </g></g>`;
+}
 
 /** Returns Dubbi's SVG for a mood. Pure markup, no state. */
 export function dubbiSVG(mood = 'happy', cls = '') {
   if (!MOODS.includes(mood)) mood = 'happy';
   const eyes = {
-    happy: `<circle cx="49" cy="57" r="4.6" class="f-eye"/><circle cx="71" cy="57" r="4.6" class="f-eye"/>
-            <circle cx="50.6" cy="55.4" r="1.5" fill="#fff"/><circle cx="72.6" cy="55.4" r="1.5" fill="#fff"/>`,
-    cheer: `<path d="M44 58 Q49 51 54 58" class="f-line"/><path d="M66 58 Q71 51 76 58" class="f-line"/>`,
-    think: `<circle cx="51" cy="55" r="4.2" class="f-eye"/><circle cx="73" cy="55" r="4.2" class="f-eye"/>
-            <circle cx="52.5" cy="53" r="1.4" fill="#fff"/><circle cx="74.5" cy="53" r="1.4" fill="#fff"/>
-            <path d="M44 47 L55 49" class="f-line thin"/><path d="M67 48 L78 45" class="f-line thin"/>`,
-    sad: `<circle cx="49" cy="59" r="4.2" class="f-eye"/><circle cx="71" cy="59" r="4.2" class="f-eye"/>
-          <circle cx="50.3" cy="57.4" r="1.4" fill="#fff"/><circle cx="72.3" cy="57.4" r="1.4" fill="#fff"/>
-          <path d="M42 53 L54 49" class="f-line thin"/><path d="M78 53 L66 49" class="f-line thin"/>`,
-    wow: `<circle cx="49" cy="56" r="6.2" fill="#fff" stroke="#2b170a" stroke-width="1.5"/><circle cx="71" cy="56" r="6.2" fill="#fff" stroke="#2b170a" stroke-width="1.5"/>
-          <circle cx="49" cy="56" r="3.4" class="f-eye"/><circle cx="71" cy="56" r="3.4" class="f-eye"/>`,
-    sleepy: `<path d="M44 58 Q49 62 54 58" class="f-line"/><path d="M66 58 Q71 62 76 58" class="f-line"/>`,
+    happy: `<ellipse cx="47" cy="50" rx="3.6" ry="4.4" class="f-eye"/><ellipse cx="73" cy="50" rx="3.6" ry="4.4" class="f-eye"/>
+            <circle cx="48.3" cy="48.3" r="1.4" fill="#fff"/><circle cx="74.3" cy="48.3" r="1.4" fill="#fff"/>`,
+    cheer: `<path d="M42 51 Q47 45 52 51" class="f-line"/><path d="M68 51 Q73 45 78 51" class="f-line"/>`,
+    think: `<ellipse cx="49" cy="48" rx="3.4" ry="4.2" class="f-eye"/><ellipse cx="75" cy="48" rx="3.4" ry="4.2" class="f-eye"/>
+            <circle cx="50.2" cy="46.4" r="1.3" fill="#fff"/><circle cx="76.2" cy="46.4" r="1.3" fill="#fff"/>
+            <path d="M42 40 L53 42" class="f-line thin"/><path d="M68 41 L79 38" class="f-line thin"/>`,
+    sad: `<ellipse cx="47" cy="52" rx="3.4" ry="4" class="f-eye"/><ellipse cx="73" cy="52" rx="3.4" ry="4" class="f-eye"/>
+          <circle cx="48.2" cy="50.6" r="1.3" fill="#fff"/><circle cx="74.2" cy="50.6" r="1.3" fill="#fff"/>
+          <path d="M40 46 L52 42" class="f-line thin"/><path d="M80 46 L68 42" class="f-line thin"/>`,
+    wow: `<circle cx="47" cy="50" r="6" fill="#fff" stroke="${C.line}" stroke-width="1.6"/><circle cx="73" cy="50" r="6" fill="#fff" stroke="${C.line}" stroke-width="1.6"/>
+          <circle cx="47" cy="50" r="3.3" class="f-eye"/><circle cx="73" cy="50" r="3.3" class="f-eye"/>`,
+    sleepy: `<path d="M42 51 Q47 55 52 51" class="f-line"/><path d="M68 51 Q73 55 78 51" class="f-line"/>`,
   }[mood];
   const mouth = {
-    happy: `<path d="M54 76 Q60 82 66 76" class="f-line"/>`,
-    cheer: `<path d="M52 75 Q60 89 68 75 Z" fill="#6b1f1f"/><path d="M56 81 Q60 85 64 81" fill="#e46a6a"/>`,
-    think: `<circle cx="64" cy="78" r="2.3" fill="#6b1f1f"/>`,
-    sad: `<path d="M54 80 Q60 74 66 80" class="f-line"/>`,
-    wow: `<ellipse cx="60" cy="79" rx="4" ry="5" fill="#6b1f1f"/>`,
-    sleepy: `<path d="M56 78 L64 78" class="f-line"/>`,
+    happy: `<path d="M60 64 V66.5 M54.5 66.5 Q57.2 70.5 60 66.5 Q62.8 70.5 65.5 66.5" class="f-line thin"/>`,
+    cheer: `<path d="M53 66 Q60 79 67 66 Z" fill="#6b1f1f" stroke="${C.line}" stroke-width="1.6" stroke-linejoin="round"/><path d="M56.5 73 Q60 76.5 63.5 73" fill="#e46a6a"/>`,
+    think: `<circle cx="66" cy="68.5" r="2" fill="#6b1f1f"/>`,
+    sad: `<path d="M54.5 71 Q60 66 65.5 71" class="f-line thin"/>`,
+    wow: `<ellipse cx="60" cy="70" rx="3.8" ry="4.6" fill="#6b1f1f"/>`,
+    sleepy: `<path d="M56 69 L64 69" class="f-line thin"/>`,
   }[mood];
   const extras = {
-    cheer: `<g class="f-spark"><path d="M12 40 l3 -7 l3 7 l7 3 l-7 3 l-3 7 l-3 -7 l-7 -3 z" fill="#f5b700"/><path d="M102 26 l2 -5 l2 5 l5 2 l-5 2 l-2 5 l-2 -5 l-5 -2 z" fill="#f5b700"/></g>`,
-    think: `<g class="f-bubbles"><circle cx="100" cy="40" r="3" fill="var(--muted)"/><circle cx="108" cy="30" r="4.5" fill="var(--muted)"/></g>`,
-    sleepy: `<text x="94" y="36" class="f-z">z</text><text x="104" y="24" class="f-z small">z</text>`,
-    wow: `<path d="M98 26 L102 14 M106 30 L116 24 M104 38 L116 40" class="f-line thin" style="stroke:#f5b700"/>`,
-    sad: `<path d="M77 63 q2 5 0 7 q-3 -2 0 -7z" fill="#6fb7e8"/>`,
+    cheer: `<g class="f-spark"><path d="M8 34 l3 -7 l3 7 l7 3 l-7 3 l-3 7 l-3 -7 l-7 -3 z" fill="#f5b700"/><path d="M106 22 l2 -5 l2 5 l5 2 l-5 2 l-2 5 l-2 -5 l-5 -2 z" fill="#f5b700"/></g>`,
+    think: `<g class="f-bubbles"><circle cx="104" cy="22" r="3" fill="var(--muted)"/><circle cx="112" cy="12" r="4.5" fill="var(--muted)"/></g>`,
+    sleepy: `<text x="96" y="22" class="f-z">z</text><text x="106" y="12" class="f-z small">z</text>`,
+    wow: `<path d="M100 18 L104 6 M108 22 L118 16 M106 30 L118 32" class="f-line thin" style="stroke:#f5b700"/>`,
+    sad: `<path d="M78 56 q2 5 0 7 q-3 -2 0 -7z" fill="#6fb7e8"/>`,
     happy: '',
   }[mood];
-  // Ears flop down when sad/sleepy and perk up when cheering.
   const earTilt = { sad: 16, sleepy: 10, cheer: -8, wow: -10, think: 0, happy: 0 }[mood];
-  const gold = '#d9a419';
-  return `<svg class="dubbi mood-${mood} ${cls}" viewBox="0 0 120 120" role="img" aria-label="Dubbi the bear in traditional Libyan clothes, looking ${mood}">
-    <!-- white shirt -->
-    <path d="M12 120 Q14 96 40 88 L80 88 Q106 96 108 120 Z" fill="#f7f3ea" stroke="#d8cfbd" stroke-width="1.5"/>
-    <!-- farmla vest with gold embroidery and buttons -->
-    <path d="M12 120 Q14 96 40 88 L50 90 Q49 106 55 120 Z" fill="#2b1420"/>
-    <path d="M108 120 Q106 96 80 88 L70 90 Q71 106 65 120 Z" fill="#2b1420"/>
-    <path d="M49 92 Q48 106 53 118" stroke="${gold}" stroke-width="1.8" fill="none"/>
-    <path d="M71 92 Q72 106 67 118" stroke="${gold}" stroke-width="1.8" fill="none"/>
-    <path d="M24 108 q6 -8 12 0 q-6 6 -12 0 M84 108 q6 -8 12 0 q-6 6 -12 0" stroke="${gold}" stroke-width="1.4" fill="none"/>
-    <g fill="${gold}"><circle cx="46" cy="98" r="1.4"/><circle cx="47" cy="104" r="1.4"/><circle cx="48.5" cy="110" r="1.4"/><circle cx="74" cy="98" r="1.4"/><circle cx="73" cy="104" r="1.4"/><circle cx="71.5" cy="110" r="1.4"/></g>
-    <!-- jard: cream wool wrap over the left shoulder -->
-    <path d="M12 120 Q12 98 34 89 Q44 86 48 89 Q30 98 28 120 Z" fill="#efe4c8" stroke="#cdbd96" stroke-width="1.5"/>
-    <path d="M18 116 Q20 100 36 92" stroke="#cdbd96" stroke-width="1.2" fill="none"/>
+  const pose = POSES[mood];
+  return `<svg class="dubbi mood-${mood} ${cls}" viewBox="0 0 120 150" role="img" aria-label="Dubbi the bear in a cream Libyan badla, looking ${mood}">
+    <!-- feet -->
+    <ellipse cx="47" cy="143" rx="10.5" ry="5.6" fill="${C.fur}" class="o"/>
+    <ellipse cx="73" cy="143" rx="10.5" ry="5.6" fill="${C.fur}" class="o"/>
+    <!-- sirwal (baggy trousers) -->
+    <path d="M37 115 Q31 131 37.5 141 L56 141 Q57 129 60 125 Q63 129 64 141 L82.5 141 Q89 131 83 115 Z" fill="${C.sirwal}" class="o"/>
+    <path d="M44 122 Q42 131 45 139 M76 122 Q78 131 75 139" stroke="#cdb684" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    <!-- shirt + farmla vest -->
+    <path d="M40 80 Q60 72 80 80 Q86 97 84 116 L36 116 Q34 97 40 80 Z" fill="${C.shirt}" class="o"/>
+    <path d="M40 80 Q35 97 36 116 L53.5 116 Q51 99 52.5 77 Z" fill="${C.vest}" class="o"/>
+    <path d="M80 80 Q85 97 84 116 L66.5 116 Q69 99 67.5 77 Z" fill="${C.vest}" class="o"/>
+    <path d="M51 80 Q49.5 99 51.8 114 M69 80 Q70.5 99 68.2 114" stroke="${C.gold}" stroke-width="1.8" fill="none"/>
+    <path d="M39.5 100 q5 -7 10 0 q-5 5 -10 0 M70.5 100 q5 -7 10 0 q-5 5 -10 0" stroke="${C.gold}" stroke-width="1.4" fill="none"/>
+    <path d="M41 91 q3 -3 6 0 M73 91 q3 -3 6 0" stroke="${C.gold}" stroke-width="1.2" fill="none"/>
+    <g fill="${C.gold}"><circle cx="60" cy="86" r="1.4"/><circle cx="60" cy="93" r="1.4"/><circle cx="60" cy="100" r="1.4"/><circle cx="60" cy="107" r="1.4"/></g>
+    <!-- sash (hizam) -->
+    <rect x="35" y="111" width="50" height="8" rx="4" fill="${C.sash}" class="o"/>
+    <path d="M39 115 H81" stroke="${C.gold}" stroke-width="1.2" stroke-dasharray="2 2.5"/>
+    <!-- arms -->
+    ${pose.front === 'l' ? '' : arm(40, 85, pose.l, pose.wave === 'l')}
+    ${pose.front === 'r' ? '' : arm(80, 85, pose.r, pose.wave === 'r')}
     <!-- ears -->
     <g class="f-ear f-ear-l" style="transform:rotate(${-earTilt}deg)">
-      <circle cx="35" cy="36" r="11.5" fill="#94602d" stroke="#5f3b18" stroke-width="2"/><circle cx="35" cy="36" r="6" fill="#d9a066"/>
+      <circle cx="32" cy="24" r="12" fill="${C.fur}" class="o"/><circle cx="32" cy="24" r="6.2" fill="${C.innerEar}"/>
     </g>
     <g class="f-ear f-ear-r" style="transform:rotate(${earTilt}deg)">
-      <circle cx="85" cy="36" r="11.5" fill="#94602d" stroke="#5f3b18" stroke-width="2"/><circle cx="85" cy="36" r="6" fill="#d9a066"/>
+      <circle cx="88" cy="24" r="12" fill="${C.fur}" class="o"/><circle cx="88" cy="24" r="6.2" fill="${C.innerEar}"/>
     </g>
     <!-- head -->
-    <circle cx="60" cy="61" r="31" fill="#a46d34" stroke="#5f3b18" stroke-width="2"/>
-    <ellipse cx="60" cy="74" rx="15.5" ry="12" fill="#e9c79e"/>
+    <circle cx="60" cy="50" r="33" fill="${C.fur}" class="o"/>
+    <ellipse cx="60" cy="64" rx="14.5" ry="11" fill="${C.muzzle}"/>
     <!-- shenna: red felt cap with black tassel -->
     <g class="f-hat">
-      <path d="M41 39 Q42 24 60 23 Q78 24 79 39 Q60 34 41 39 Z" fill="#c8102e" stroke="#8e0b20" stroke-width="1.5"/>
-      <path d="M60 23 q10 -5 15 4" stroke="#1b1b1b" stroke-width="2.2" fill="none" stroke-linecap="round"/>
-      <path d="M75 27 l-2 8 M75 27 l1 8 M75 27 l3 7" stroke="#1b1b1b" stroke-width="1.4" stroke-linecap="round"/>
+      <path d="M42 25 Q43 6 60 5 Q77 6 78 25 Q60 17 42 25 Z" fill="${C.red}" class="o"/>
+      <path d="M60 5.5 q11 -4 15 6" stroke="#1b1b1b" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+      <path d="M75 11 l-2 8 M75 11 l1 8 M75 11 l3 7" stroke="#1b1b1b" stroke-width="1.4" stroke-linecap="round"/>
     </g>
     ${eyes}
-    <ellipse cx="40" cy="68" rx="5" ry="3" fill="#f39b8f" opacity="0.5"/><ellipse cx="80" cy="68" rx="5" ry="3" fill="#f39b8f" opacity="0.5"/>
-    <path d="M54.5 66 Q60 63 65.5 66 Q63 72 60 72 Q57 72 54.5 66 Z" fill="#2b170a"/>
+    <ellipse cx="37" cy="61" rx="5" ry="3" fill="#f39b8f" opacity="0.55"/><ellipse cx="83" cy="61" rx="5" ry="3" fill="#f39b8f" opacity="0.55"/>
+    <path d="M54.5 59 Q60 56 65.5 59 Q63 64.5 60 64.5 Q57 64.5 54.5 59 Z" fill="${C.line}"/>
     ${mouth}
+    ${pose.front === 'l' ? arm(40, 85, pose.l) : pose.front === 'r' ? arm(80, 85, pose.r) : ''}
     ${extras}
   </svg>`;
 }
