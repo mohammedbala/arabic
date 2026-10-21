@@ -722,31 +722,6 @@
   ]
  },
  {
-  "ar": "عنده",
-  "tr": "3anda",
-  "en": "he has",
-  "msa": "لديه",
-  "pos": "phrase",
-  "cat": "prepositions",
-  "freq": 1,
-  "usage": 86,
-  "ex_ar": "عنده سيارة جديدة.",
-  "ex_tr": "3anda sayyāra jdīda.",
-  "ex_en": "He has a new car.",
-  "phrases": [
-   {
-    "ar": "عنده الحق",
-    "tr": "3anda il7agg",
-    "en": "he's right"
-   },
-   {
-    "ar": "ما عندهش فلوس",
-    "tr": "ma 3andahsh flūs",
-    "en": "he has no money"
-   }
-  ]
- },
- {
   "ar": "عندنا",
   "tr": "3andna",
   "en": "we have; at our place",
@@ -1745,6 +1720,7156 @@
     "ar": "كيف ما جات باهية",
     "tr": "kīf ma jāt bāhya",
     "en": "it's fine either way"
+   }
+  ]
+ },
+ {
+  "ar": "مرة ثانية",
+  "tr": "marra thānya",
+  "en": "again; once more; next time",
+  "msa": "مرة أخرى",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 2,
+  "usage": 70,
+  "ex_ar": "عاود مرة ثانية.",
+  "ex_tr": "3āwid marra thānya.",
+  "ex_en": "Do it again.",
+  "phrases": [
+   {
+    "ar": "مرة ثانية إن شاء الله",
+    "tr": "marra thānya inshallah",
+    "en": "next time, God willing"
+   },
+   {
+    "ar": "ما نعاودهاش مرة ثانية",
+    "tr": "ma n3āwidhāsh marra thānya",
+    "en": "I won't do it again"
+   }
+  ]
+ },
+ {
+  "ar": "أول مرة",
+  "tr": "awwil marra",
+  "en": "the first time; for the first time",
+  "msa": "أول مرة",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 64,
+  "ex_ar": "هذي أول مرة نجي لطرابلس.",
+  "ex_tr": "hādhi awwil marra nji l-Trābulus.",
+  "ex_en": "This is the first time I come to Tripoli.",
+  "phrases": [
+   {
+    "ar": "من أول مرة",
+    "tr": "min awwil marra",
+    "en": "from the first time"
+   },
+   {
+    "ar": "أول مرة نسمع",
+    "tr": "awwil marra nisma3",
+    "en": "first time I've heard it"
+   }
+  ]
+ },
+ {
+  "ar": "آخر مرة",
+  "tr": "ākhir marra",
+  "en": "the last time",
+  "msa": "آخر مرة",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "آخر مرة شفته كان مريض.",
+  "ex_tr": "ākhir marra shuftah kān marīD.",
+  "ex_en": "The last time I saw him he was ill.",
+  "phrases": [
+   {
+    "ar": "هذي آخر مرة",
+    "tr": "hādhi ākhir marra",
+    "en": "this is the last time"
+   },
+   {
+    "ar": "وقتاش آخر مرة؟",
+    "tr": "waktāsh ākhir marra?",
+    "en": "when was the last time?"
+   }
+  ]
+ },
+ {
+  "ar": "المرة الجاية",
+  "tr": "ilmarra ijjāya",
+  "en": "next time",
+  "msa": "المرة القادمة",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "المرة الجاية نعزمك أنا.",
+  "ex_tr": "ilmarra ijjāya n3azmik āna.",
+  "ex_en": "Next time I'll treat you.",
+  "phrases": [
+   {
+    "ar": "خليها للمرة الجاية",
+    "tr": "khallīha lilmarra ijjāya",
+    "en": "leave it for next time"
+   },
+   {
+    "ar": "المرة الجاية تعال بكري",
+    "tr": "ilmarra ijjāya ta3āl bakri",
+    "en": "next time come early"
+   }
+  ]
+ },
+ {
+  "ar": "هذي المرة",
+  "tr": "hādhi ilmarra",
+  "en": "this time",
+  "msa": "هذه المرة",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "هذي المرة نسامحك.",
+  "ex_tr": "hādhi ilmarra nsām7ik.",
+  "ex_en": "This time I'll forgive you.",
+  "phrases": [
+   {
+    "ar": "هذي المرة بس",
+    "tr": "hādhi ilmarra bass",
+    "en": "just this once"
+   },
+   {
+    "ar": "هذي المرة غير",
+    "tr": "hādhi ilmarra ghēr",
+    "en": "this time it's different"
+   }
+  ]
+ },
+ {
+  "ar": "مرة مرة",
+  "tr": "marra marra",
+  "en": "once in a while; occasionally",
+  "msa": "من حين لآخر",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "نمشي للبحر مرة مرة.",
+  "ex_tr": "nimshi lil-ba7r marra marra.",
+  "ex_en": "I go to the sea once in a while.",
+  "phrases": [
+   {
+    "ar": "يجي مرة مرة",
+    "tr": "yiji marra marra",
+    "en": "he comes now and then"
+   },
+   {
+    "ar": "مرة مرة باهي",
+    "tr": "marra marra bāhi",
+    "en": "now and then is fine"
+   }
+  ]
+ },
+ {
+  "ar": "مرة وحدة",
+  "tr": "marra wa7da",
+  "en": "all at once; at one go; once",
+  "msa": "مرة واحدة",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "ما تاكلهمش مرة وحدة.",
+  "ex_tr": "ma tākulhumsh marra wa7da.",
+  "ex_en": "Don't eat them all at once.",
+  "phrases": [
+   {
+    "ar": "جو مرة وحدة",
+    "tr": "jaw marra wa7da",
+    "en": "they came all at once"
+   },
+   {
+    "ar": "مرة وحدة في العام",
+    "tr": "marra wa7da fil-3ām",
+    "en": "once a year"
+   }
+  ]
+ },
+ {
+  "ar": "شوية شوية",
+  "tr": "shwayya shwayya",
+  "en": "little by little; gradually",
+  "msa": "شيئاً فشيئاً",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "شوية شوية تتعلم.",
+  "ex_tr": "shwayya shwayya tit3allam.",
+  "ex_en": "Little by little you'll learn.",
+  "phrases": [
+   {
+    "ar": "سوق شوية شوية",
+    "tr": "sūg shwayya shwayya",
+    "en": "drive slowly"
+   },
+   {
+    "ar": "شوية شوية على روحك",
+    "tr": "shwayya shwayya 3la rū7ik",
+    "en": "take it easy on yourself"
+   }
+  ]
+ },
+ {
+  "ar": "خطوة خطوة",
+  "tr": "khaTwa khaTwa",
+  "en": "step by step",
+  "msa": "خطوة بخطوة",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "نمشوا خطوة خطوة.",
+  "ex_tr": "nimshu khaTwa khaTwa.",
+  "ex_en": "We'll go step by step.",
+  "phrases": [
+   {
+    "ar": "فهمني خطوة خطوة",
+    "tr": "fahhimni khaTwa khaTwa",
+    "en": "explain it to me step by step"
+   },
+   {
+    "ar": "خطوة خطوة توصل",
+    "tr": "khaTwa khaTwa tūSil",
+    "en": "step by step you'll get there"
+   }
+  ]
+ },
+ {
+  "ar": "واحد واحد",
+  "tr": "wā7id wā7id",
+  "en": "one by one; one at a time",
+  "msa": "واحداً واحداً",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "ادخلوا واحد واحد.",
+  "ex_tr": "udkhulu wā7id wā7id.",
+  "ex_en": "Come in one at a time.",
+  "phrases": [
+   {
+    "ar": "عدهم واحد واحد",
+    "tr": "3iddhum wā7id wā7id",
+    "en": "count them one by one"
+   },
+   {
+    "ar": "واحد واحد يا جماعة",
+    "tr": "wā7id wā7id ya jmā3a",
+    "en": "one at a time, guys"
+   }
+  ]
+ },
+ {
+  "ar": "بالدور",
+  "tr": "biddōr",
+  "en": "in turn; taking turns",
+  "msa": "بالدور",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "كل حد بالدور.",
+  "ex_tr": "kull 7add biddōr.",
+  "ex_en": "Everyone in turn.",
+  "phrases": [
+   {
+    "ar": "استنى بالدور",
+    "tr": "istanna biddōr",
+    "en": "wait your turn"
+   },
+   {
+    "ar": "نخدموا بالدور",
+    "tr": "nikhdmu biddōr",
+    "en": "we work in shifts/turns"
+   }
+  ]
+ },
+ {
+  "ar": "بسرعة",
+  "tr": "bsur3a",
+  "en": "quickly; fast; hurry",
+  "msa": "بسرعة",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 2,
+  "usage": 72,
+  "ex_ar": "تعال بسرعة!",
+  "ex_tr": "ta3āl bsur3a!",
+  "ex_en": "Come quickly!",
+  "phrases": [
+   {
+    "ar": "بسرعة بسرعة",
+    "tr": "bsur3a bsur3a",
+    "en": "hurry, hurry"
+   },
+   {
+    "ar": "كمل بسرعة",
+    "tr": "kammil bsur3a",
+    "en": "finish quickly"
+   }
+  ]
+ },
+ {
+  "ar": "على مهلك",
+  "tr": "3la mahlik",
+  "en": "slowly; take your time; easy",
+  "msa": "على مهلك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "على مهلك، ما فيش زربة.",
+  "ex_tr": "3la mahlik, ma fīsh zarba.",
+  "ex_en": "Take your time, there's no rush.",
+  "phrases": [
+   {
+    "ar": "سوق على مهلك",
+    "tr": "sūg 3la mahlik",
+    "en": "drive carefully"
+   },
+   {
+    "ar": "على مهلك عليا",
+    "tr": "3la mahlik 3layya",
+    "en": "go easy on me"
+   }
+  ]
+ },
+ {
+  "ar": "ما فيش زربة",
+  "tr": "ma fīsh zarba",
+  "en": "there's no hurry",
+  "msa": "لا داعي للعجلة",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "كمل قهوتك، ما فيش زربة.",
+  "ex_tr": "kammil gahwtik, ma fīsh zarba.",
+  "ex_en": "Finish your coffee, there's no hurry.",
+  "note": "زربة zarba = hurry (Libyan/Maghrebi)",
+  "phrases": [
+   {
+    "ar": "علاش الزربة؟",
+    "tr": "3lāsh izzarba?",
+    "en": "why the rush?"
+   },
+   {
+    "ar": "مزروب؟",
+    "tr": "mazrūb?",
+    "en": "are you in a hurry?"
+   }
+  ]
+ },
+ {
+  "ar": "دغري",
+  "tr": "dughri",
+  "en": "straight; directly; straight away",
+  "msa": "مباشرة",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "امشي دغري وبعدين على يمينك.",
+  "ex_tr": "imshi dughri w-ba3dēn 3la yimīnik.",
+  "ex_en": "Go straight and then to your right.",
+  "note": "Turkish loan (doğru)",
+  "phrases": [
+   {
+    "ar": "دغري للحوش",
+    "tr": "dughri lil7ōsh",
+    "en": "straight home"
+   },
+   {
+    "ar": "قاله دغري",
+    "tr": "gālah dughri",
+    "en": "he told him straight out"
+   }
+  ]
+ },
+ {
+  "ar": "حالاً",
+  "tr": "7ālan",
+  "en": "immediately; right away",
+  "msa": "حالاً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "نجيك حالاً.",
+  "ex_tr": "njīk 7ālan.",
+  "ex_en": "I'll be with you right away.",
+  "phrases": [
+   {
+    "ar": "حالاً حالاً",
+    "tr": "7ālan 7ālan",
+    "en": "this instant"
+   },
+   {
+    "ar": "لازم تمشي حالاً",
+    "tr": "lāzim timshi 7ālan",
+    "en": "you must go immediately"
+   }
+  ]
+ },
+ {
+  "ar": "لتوا",
+  "tr": "li-tawwa",
+  "en": "until now; so far; still",
+  "msa": "حتى الآن",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 62,
+  "ex_ar": "لتوا ما جاش.",
+  "ex_tr": "li-tawwa ma jāsh.",
+  "ex_en": "He still hasn't come.",
+  "phrases": [
+   {
+    "ar": "لتوا نستنى",
+    "tr": "li-tawwa nistanna",
+    "en": "I'm still waiting"
+   },
+   {
+    "ar": "من الصبح لتوا",
+    "tr": "min iSSba7 li-tawwa",
+    "en": "from morning till now"
+   }
+  ]
+ },
+ {
+  "ar": "من توا",
+  "tr": "min tawwa",
+  "en": "from now on; already (this early)",
+  "msa": "من الآن",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "من توا ما نعاودش.",
+  "ex_tr": "min tawwa ma n3āwidsh.",
+  "ex_en": "From now on I won't do it again.",
+  "phrases": [
+   {
+    "ar": "من توا تعبت؟",
+    "tr": "min tawwa ta3bit?",
+    "en": "tired already?"
+   },
+   {
+    "ar": "من توا لغدوة",
+    "tr": "min tawwa l-ghudwa",
+    "en": "from now until tomorrow"
+   }
+  ]
+ },
+ {
+  "ar": "من زمان",
+  "tr": "min zmān",
+  "en": "for a long time; long ago",
+  "msa": "منذ زمن",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 3,
+  "usage": 64,
+  "ex_ar": "نعرفه من زمان.",
+  "ex_tr": "na3rfa min zmān.",
+  "ex_en": "I've known him for a long time.",
+  "phrases": [
+   {
+    "ar": "من زمان ما شفتك",
+    "tr": "min zmān ma shuftik",
+    "en": "I haven't seen you for ages"
+   },
+   {
+    "ar": "هذا من زمان",
+    "tr": "hādha min zmān",
+    "en": "that was long ago"
+   }
+  ]
+ },
+ {
+  "ar": "من قبل",
+  "tr": "min gbal",
+  "en": "before; previously; already",
+  "msa": "من قبل",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 3,
+  "usage": 62,
+  "ex_ar": "شفت الفيلم هذا من قبل.",
+  "ex_tr": "shuft ilfilm hādha min gbal.",
+  "ex_en": "I've seen this film before.",
+  "phrases": [
+   {
+    "ar": "كيف من قبل",
+    "tr": "kīf min gbal",
+    "en": "like before"
+   },
+   {
+    "ar": "من قبل ما يجي",
+    "tr": "min gbal ma yiji",
+    "en": "before he came"
+   }
+  ]
+ },
+ {
+  "ar": "من بعد",
+  "tr": "min ba3d",
+  "en": "afterwards; after that; later on",
+  "msa": "فيما بعد",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "نتفاهموا من بعد.",
+  "ex_tr": "nitfāhmu min ba3d.",
+  "ex_en": "We'll sort it out afterwards.",
+  "phrases": [
+   {
+    "ar": "من بعد الصلاة",
+    "tr": "min ba3d iSSla",
+    "en": "after the prayer"
+   },
+   {
+    "ar": "من بعد ما مشى",
+    "tr": "min ba3d ma masha",
+    "en": "after he left"
+   }
+  ]
+ },
+ {
+  "ar": "في الأول",
+  "tr": "fil-awwil",
+  "en": "at first; in the beginning",
+  "msa": "في البداية",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "في الأول ما عجبنيش.",
+  "ex_tr": "fil-awwil ma 3ajabnīsh.",
+  "ex_en": "At first I didn't like it.",
+  "phrases": [
+   {
+    "ar": "في الأول وفي الآخر",
+    "tr": "fil-awwil w-fil-ākhir",
+    "en": "at the end of the day"
+   },
+   {
+    "ar": "قولها في الأول",
+    "tr": "gūlha fil-awwil",
+    "en": "say it first"
+   }
+  ]
+ },
+ {
+  "ar": "في الآخر",
+  "tr": "fil-ākhir",
+  "en": "in the end; finally; at last",
+  "msa": "في النهاية",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "في الآخر وافق.",
+  "ex_tr": "fil-ākhir wāfag.",
+  "ex_en": "In the end he agreed.",
+  "phrases": [
+   {
+    "ar": "في الآخر شن صار؟",
+    "tr": "fil-ākhir shin Sār?",
+    "en": "what happened in the end?"
+   },
+   {
+    "ar": "خليه في الآخر",
+    "tr": "khallīh fil-ākhir",
+    "en": "leave it till last"
+   }
+  ]
+ },
+ {
+  "ar": "أخيراً",
+  "tr": "akhīran",
+  "en": "finally; at last",
+  "msa": "أخيراً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "أخيراً جيت!",
+  "ex_tr": "akhīran jīt!",
+  "ex_en": "Finally you came!",
+  "phrases": [
+   {
+    "ar": "أخيراً خلصنا",
+    "tr": "akhīran khallaSna",
+    "en": "we finally finished"
+   },
+   {
+    "ar": "أخيراً لقيته",
+    "tr": "akhīran lgītah",
+    "en": "at last I found it"
+   }
+  ]
+ },
+ {
+  "ar": "ساعتها",
+  "tr": "sā3itha",
+  "en": "at that time; then; in that case",
+  "msa": "حينها",
+  "pos": "adv",
+  "cat": "time",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "ساعتها ما كنتش هني.",
+  "ex_tr": "sā3itha ma kuntsh hni.",
+  "ex_en": "At that time I wasn't here.",
+  "phrases": [
+   {
+    "ar": "لو جا ساعتها نمشوا",
+    "tr": "lu ja sā3itha nimshu",
+    "en": "if he comes, then we'll go"
+   },
+   {
+    "ar": "من ساعتها",
+    "tr": "min sā3itha",
+    "en": "since that moment"
+   }
+  ]
+ },
+ {
+  "ar": "وقتها",
+  "tr": "wagtha",
+  "en": "at that time; back then",
+  "msa": "وقتها",
+  "pos": "adv",
+  "cat": "time",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "وقتها كنت صغير.",
+  "ex_tr": "wagtha kunt Sghīr.",
+  "ex_en": "Back then I was young.",
+  "phrases": [
+   {
+    "ar": "وقتها فهمت",
+    "tr": "wagtha fhimt",
+    "en": "that's when I understood"
+   },
+   {
+    "ar": "كل حاجة في وقتها",
+    "tr": "kull 7āja fi wagtha",
+    "en": "everything in its time"
+   }
+  ]
+ },
+ {
+  "ar": "من وقتها",
+  "tr": "min wagtha",
+  "en": "since then; ever since",
+  "msa": "منذ ذلك الحين",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "من وقتها ما شفتاش.",
+  "ex_tr": "min wagtha ma shuftāsh.",
+  "ex_en": "I haven't seen him since then.",
+  "phrases": [
+   {
+    "ar": "من وقتها تبدل",
+    "tr": "min wagtha tbaddal",
+    "en": "he's changed since then"
+   },
+   {
+    "ar": "من وقتها وهو ساكت",
+    "tr": "min wagtha w-huwa sākit",
+    "en": "he's been silent ever since"
+   }
+  ]
+ },
+ {
+  "ar": "بعدها",
+  "tr": "ba3dha",
+  "en": "after that; afterwards",
+  "msa": "بعد ذلك",
+  "pos": "adv",
+  "cat": "time",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "كلينا وبعدها مشينا للبحر.",
+  "ex_tr": "kalīna w-ba3dha mshīna lil-ba7r.",
+  "ex_en": "We ate and after that went to the beach.",
+  "phrases": [
+   {
+    "ar": "وبعدها؟",
+    "tr": "w-ba3dha?",
+    "en": "and after that?"
+   },
+   {
+    "ar": "بعدها بشوية",
+    "tr": "ba3dha bshwayya",
+    "en": "a little after that"
+   }
+  ]
+ },
+ {
+  "ar": "قبلها",
+  "tr": "gbalha",
+  "en": "before that; beforehand",
+  "msa": "قبل ذلك",
+  "pos": "adv",
+  "cat": "time",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "قبلها بيوم كان مريض.",
+  "ex_tr": "gbalha b-yōm kān marīD.",
+  "ex_en": "The day before that he was ill.",
+  "phrases": [
+   {
+    "ar": "كلمني قبلها",
+    "tr": "kallimni gbalha",
+    "en": "call me beforehand"
+   },
+   {
+    "ar": "قبلها بساعة",
+    "tr": "gbalha b-sā3a",
+    "en": "an hour before that"
+   }
+  ]
+ },
+ {
+  "ar": "في نفس الوقت",
+  "tr": "fi nafs ilwagt",
+  "en": "at the same time",
+  "msa": "في نفس الوقت",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "وصلنا في نفس الوقت.",
+  "ex_tr": "waSalna fi nafs ilwagt.",
+  "ex_en": "We arrived at the same time.",
+  "phrases": [
+   {
+    "ar": "يتكلم ويكل في نفس الوقت",
+    "tr": "yitkallam w-yākul fi nafs ilwagt",
+    "en": "he talks and eats at the same time"
+   },
+   {
+    "ar": "وفي نفس الوقت…",
+    "tr": "w-fi nafs ilwagt…",
+    "en": "and at the same time…"
+   }
+  ]
+ },
+ {
+  "ar": "مع الوقت",
+  "tr": "ma3 ilwagt",
+  "en": "with time; eventually; over time",
+  "msa": "مع الوقت",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "مع الوقت تتعود.",
+  "ex_tr": "ma3 ilwagt tit3awwad.",
+  "ex_en": "With time you'll get used to it.",
+  "phrases": [
+   {
+    "ar": "مع الوقت تنسى",
+    "tr": "ma3 ilwagt tinsa",
+    "en": "with time you forget"
+   },
+   {
+    "ar": "كل شي يتصلح مع الوقت",
+    "tr": "kull shay yitSalla7 ma3 ilwagt",
+    "en": "everything gets fixed with time"
+   }
+  ]
+ },
+ {
+  "ar": "في الوقت",
+  "tr": "fil-wagt",
+  "en": "on time; in time",
+  "msa": "في الموعد",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "لازم تكون في الوقت.",
+  "ex_tr": "lāzim tkūn fil-wagt.",
+  "ex_en": "You must be on time.",
+  "phrases": [
+   {
+    "ar": "وصلت في الوقت",
+    "tr": "waSalt fil-wagt",
+    "en": "I arrived on time"
+   },
+   {
+    "ar": "مش في الوقت",
+    "tr": "mush fil-wagt",
+    "en": "not on time"
+   }
+  ]
+ },
+ {
+  "ar": "من وقت لوقت",
+  "tr": "min wagt l-wagt",
+  "en": "from time to time",
+  "msa": "من وقت لآخر",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "نزوروا جدي من وقت لوقت.",
+  "ex_tr": "nzūru jiddi min wagt l-wagt.",
+  "ex_en": "We visit my grandfather from time to time.",
+  "phrases": [
+   {
+    "ar": "يتصل من وقت لوقت",
+    "tr": "yittaSil min wagt l-wagt",
+    "en": "he calls from time to time"
+   },
+   {
+    "ar": "من وقت لوقت باهي",
+    "tr": "min wagt l-wagt bāhi",
+    "en": "from time to time is fine"
+   }
+  ]
+ },
+ {
+  "ar": "كل شوية",
+  "tr": "kull shwayya",
+  "en": "every little while; constantly",
+  "msa": "كل قليل",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "كل شوية يتصل بيا.",
+  "ex_tr": "kull shwayya yittaSil bīya.",
+  "ex_en": "He calls me every five minutes.",
+  "phrases": [
+   {
+    "ar": "كل شوية تسأل",
+    "tr": "kull shwayya tis'al",
+    "en": "you keep asking"
+   },
+   {
+    "ar": "كل شوية ينقطع الضي",
+    "tr": "kull shwayya yingiTa3 iDDaw",
+    "en": "the power keeps cutting out"
+   }
+  ]
+ },
+ {
+  "ar": "طول النهار",
+  "tr": "Tūl innhār",
+  "en": "all day long",
+  "msa": "طوال النهار",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "قعد راقد طول النهار.",
+  "ex_tr": "g3ad rāgid Tūl innhār.",
+  "ex_en": "He stayed asleep all day long.",
+  "phrases": [
+   {
+    "ar": "طول النهار في الخدمة",
+    "tr": "Tūl innhār fil-khidma",
+    "en": "at work all day"
+   },
+   {
+    "ar": "طول النهار يحكي",
+    "tr": "Tūl innhār yi7ki",
+    "en": "he talks all day long"
+   }
+  ]
+ },
+ {
+  "ar": "طول الليل",
+  "tr": "Tūl illēl",
+  "en": "all night long",
+  "msa": "طوال الليل",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "ما رقدتش طول الليل.",
+  "ex_tr": "ma ragadtsh Tūl illēl.",
+  "ex_en": "I didn't sleep all night.",
+  "phrases": [
+   {
+    "ar": "طول الليل يبكي",
+    "tr": "Tūl illēl yibki",
+    "en": "crying all night"
+   },
+   {
+    "ar": "سهرنا طول الليل",
+    "tr": "sharna Tūl illēl",
+    "en": "we stayed up all night"
+   }
+  ]
+ },
+ {
+  "ar": "طول عمري",
+  "tr": "Tūl 3umri",
+  "en": "all my life; always",
+  "msa": "طوال عمري",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "طول عمري نحب البحر.",
+  "ex_tr": "Tūl 3umri n7ibb ilba7r.",
+  "ex_en": "I've loved the sea all my life.",
+  "phrases": [
+   {
+    "ar": "طول عمره هكي",
+    "tr": "Tūl 3umra hakki",
+    "en": "he's always been like this"
+   },
+   {
+    "ar": "ما شفتش هكي طول عمري",
+    "tr": "ma shuftsh hakki Tūl 3umri",
+    "en": "never seen this in my life"
+   }
+  ]
+ },
+ {
+  "ar": "عمري ما",
+  "tr": "3umri ma",
+  "en": "I've never (ever)",
+  "msa": "لم … أبداً",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "عمري ما شفت البحر هكي.",
+  "ex_tr": "3umri ma shuft ilba7r hakki.",
+  "ex_en": "I've never seen the sea like this.",
+  "phrases": [
+   {
+    "ar": "عمري ما نكذب عليك",
+    "tr": "3umri ma nikdhib 3alēk",
+    "en": "I'd never lie to you"
+   },
+   {
+    "ar": "عمره ما جا",
+    "tr": "3umra ma ja",
+    "en": "he never once came"
+   }
+  ]
+ },
+ {
+  "ar": "من صغري",
+  "tr": "min Sughri",
+  "en": "since I was little; since childhood",
+  "msa": "منذ صغري",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "نعرفه من صغري.",
+  "ex_tr": "na3rfa min Sughri.",
+  "ex_en": "I've known him since I was little.",
+  "phrases": [
+   {
+    "ar": "من صغره يحب الكورة",
+    "tr": "min Sughra y7ibb ilkōra",
+    "en": "he's loved football since childhood"
+   },
+   {
+    "ar": "من صغرنا مع بعض",
+    "tr": "min Sughurna ma3 ba3D",
+    "en": "together since we were kids"
+   }
+  ]
+ },
+ {
+  "ar": "نص النهار",
+  "tr": "nuSS innhār",
+  "en": "midday; noon",
+  "msa": "منتصف النهار",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "نتلاقوا نص النهار.",
+  "ex_tr": "nitlāgu nuSS innhār.",
+  "ex_en": "We'll meet at midday.",
+  "phrases": [
+   {
+    "ar": "في نص النهار",
+    "tr": "fi nuSS innhār",
+    "en": "in the middle of the day"
+   },
+   {
+    "ar": "حر نص النهار",
+    "tr": "7arr nuSS innhār",
+    "en": "midday heat"
+   }
+  ]
+ },
+ {
+  "ar": "اليوم الصبح",
+  "tr": "ilyōm iSSba7",
+  "en": "this morning",
+  "msa": "هذا الصباح",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "اليوم الصبح كان فيه ضباب.",
+  "ex_tr": "ilyōm iSSba7 kān fīh Dbāb.",
+  "ex_en": "This morning there was fog.",
+  "phrases": [
+   {
+    "ar": "شفته اليوم الصبح",
+    "tr": "shuftah ilyōm iSSba7",
+    "en": "I saw him this morning"
+   },
+   {
+    "ar": "من اليوم الصبح",
+    "tr": "min ilyōm iSSba7",
+    "en": "since this morning"
+   }
+  ]
+ },
+ {
+  "ar": "البارح في الليل",
+  "tr": "ilbār7a fillēl",
+  "en": "last night",
+  "msa": "ليلة أمس",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "البارح في الليل ما رقدتش.",
+  "ex_tr": "ilbār7a fillēl ma ragadtsh.",
+  "ex_en": "Last night I didn't sleep.",
+  "phrases": [
+   {
+    "ar": "شن صار البارح في الليل؟",
+    "tr": "shin Sār ilbār7a fillēl?",
+    "en": "what happened last night?"
+   },
+   {
+    "ar": "جا البارح في الليل",
+    "tr": "ja ilbār7a fillēl",
+    "en": "he came last night"
+   }
+  ]
+ },
+ {
+  "ar": "غدوة الصبح",
+  "tr": "ghudwa iSSba7",
+  "en": "tomorrow morning",
+  "msa": "صباح الغد",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "نمشي غدوة الصبح بكري.",
+  "ex_tr": "nimshi ghudwa iSSba7 bakri.",
+  "ex_en": "I'll go early tomorrow morning.",
+  "phrases": [
+   {
+    "ar": "نكلمك غدوة الصبح",
+    "tr": "nkallmik ghudwa iSSba7",
+    "en": "I'll call you tomorrow morning"
+   },
+   {
+    "ar": "لين غدوة الصبح",
+    "tr": "līn ghudwa iSSba7",
+    "en": "until tomorrow morning"
+   }
+  ]
+ },
+ {
+  "ar": "هذا العام",
+  "tr": "hādha il3ām",
+  "en": "this year",
+  "msa": "هذا العام",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "هذا العام ما سافرناش.",
+  "ex_tr": "hādha il3ām ma sāfarnāsh.",
+  "ex_en": "This year we didn't travel.",
+  "phrases": [
+   {
+    "ar": "في الصيف هذا العام",
+    "tr": "fiSSēf hādha il3ām",
+    "en": "this summer"
+   },
+   {
+    "ar": "العام هذا صعيب",
+    "tr": "il3ām hādha Sa3īb",
+    "en": "this year is hard"
+   }
+  ]
+ },
+ {
+  "ar": "الجمعة هذي",
+  "tr": "ijjum3a hādhi",
+  "en": "this week",
+  "msa": "هذا الأسبوع",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "الجمعة هذي عندي امتحانات.",
+  "ex_tr": "ijjum3a hādhi 3andi imti7ānāt.",
+  "ex_en": "This week I have exams.",
+  "note": "جمعة = week in Libyan",
+  "phrases": [
+   {
+    "ar": "آخر الجمعة هذي",
+    "tr": "ākhir ijjum3a hādhi",
+    "en": "at the end of this week"
+   },
+   {
+    "ar": "مش الجمعة هذي",
+    "tr": "mush ijjum3a hādhi",
+    "en": "not this week"
+   }
+  ]
+ },
+ {
+  "ar": "آخر الشهر",
+  "tr": "ākhir ishshahr",
+  "en": "end of the month",
+  "msa": "آخر الشهر",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "المرتب ينزل آخر الشهر.",
+  "ex_tr": "ilmurattab yinzil ākhir ishshahr.",
+  "ex_en": "The salary comes at the end of the month.",
+  "phrases": [
+   {
+    "ar": "لين آخر الشهر",
+    "tr": "līn ākhir ishshahr",
+    "en": "until the end of the month"
+   },
+   {
+    "ar": "آخر الشهر ما فيش فلوس",
+    "tr": "ākhir ishshahr ma fīsh flūs",
+    "en": "no money at the end of the month"
+   }
+  ]
+ },
+ {
+  "ar": "أول الشهر",
+  "tr": "awwil ishshahr",
+  "en": "the beginning of the month",
+  "msa": "أول الشهر",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "نخلص الكرا أول الشهر.",
+  "ex_tr": "nkhalliS ilkra awwil ishshahr.",
+  "ex_en": "I pay the rent at the beginning of the month.",
+  "phrases": [
+   {
+    "ar": "من أول الشهر",
+    "tr": "min awwil ishshahr",
+    "en": "since the start of the month"
+   },
+   {
+    "ar": "أول الشهر الجاي",
+    "tr": "awwil ishshahr ijjāy",
+    "en": "early next month"
+   }
+  ]
+ },
+ {
+  "ar": "كل ليلة",
+  "tr": "kull lēla",
+  "en": "every night",
+  "msa": "كل ليلة",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "كل ليلة نقرا شوية.",
+  "ex_tr": "kull lēla nagra shwayya.",
+  "ex_en": "Every night I read a little.",
+  "phrases": [
+   {
+    "ar": "كل ليلة نفس القصة",
+    "tr": "kull lēla nafs ilgiSSa",
+    "en": "every night the same story"
+   },
+   {
+    "ar": "يسهر كل ليلة",
+    "tr": "yishar kull lēla",
+    "en": "he stays up every night"
+   }
+  ]
+ },
+ {
+  "ar": "كل جمعة",
+  "tr": "kull jum3a",
+  "en": "every week; every Friday",
+  "msa": "كل أسبوع",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "نكلم أمي كل جمعة.",
+  "ex_tr": "nkallim ummi kull jum3a.",
+  "ex_en": "I call my mother every week.",
+  "phrases": [
+   {
+    "ar": "مرة كل جمعة",
+    "tr": "marra kull jum3a",
+    "en": "once every week"
+   },
+   {
+    "ar": "كل جمعة نمشوا للبحر",
+    "tr": "kull jum3a nimshu lil-ba7r",
+    "en": "every Friday we go to the beach"
+   }
+  ]
+ },
+ {
+  "ar": "حالياً",
+  "tr": "7āliyyan",
+  "en": "currently; at the moment",
+  "msa": "حالياً",
+  "pos": "adv",
+  "cat": "time",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "حالياً ما نخدمش.",
+  "ex_tr": "7āliyyan ma nikhdimsh.",
+  "ex_en": "At the moment I'm not working.",
+  "phrases": [
+   {
+    "ar": "حالياً مسكر",
+    "tr": "7āliyyan msakkar",
+    "en": "currently closed"
+   },
+   {
+    "ar": "حالياً ساكن في بنغازي",
+    "tr": "7āliyyan sākin fi binghāzi",
+    "en": "currently living in Benghazi"
+   }
+  ]
+ },
+ {
+  "ar": "قريباً",
+  "tr": "garīban",
+  "en": "soon",
+  "msa": "قريباً",
+  "pos": "adv",
+  "cat": "time",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "قريباً يفتحوا المحل.",
+  "ex_tr": "garīban yiftu7u ilma7all.",
+  "ex_en": "Soon they'll open the shop.",
+  "phrases": [
+   {
+    "ar": "قريباً إن شاء الله",
+    "tr": "garīban inshallah",
+    "en": "soon, God willing"
+   },
+   {
+    "ar": "نشوفك قريباً",
+    "tr": "nshūfik garīban",
+    "en": "see you soon"
+   }
+  ]
+ },
+ {
+  "ar": "غالباً",
+  "tr": "ghāliban",
+  "en": "usually; most likely; probably",
+  "msa": "غالباً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "غالباً ما يجيش اليوم.",
+  "ex_tr": "ghāliban ma yjīsh ilyōm.",
+  "ex_en": "He probably won't come today.",
+  "phrases": [
+   {
+    "ar": "غالباً الصبح",
+    "tr": "ghāliban iSSba7",
+    "en": "usually in the morning"
+   },
+   {
+    "ar": "غالباً هكي",
+    "tr": "ghāliban hakki",
+    "en": "most likely so"
+   }
+  ]
+ },
+ {
+  "ar": "عادةً",
+  "tr": "3ādatan",
+  "en": "usually; normally",
+  "msa": "عادةً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "عادةً نرقد بكري.",
+  "ex_tr": "3ādatan nargud bakri.",
+  "ex_en": "I usually go to bed early.",
+  "phrases": [
+   {
+    "ar": "مش كيف العادة",
+    "tr": "mush kīf il3āda",
+    "en": "not like usual"
+   },
+   {
+    "ar": "كيف العادة",
+    "tr": "kīf il3āda",
+    "en": "as usual"
+   }
+  ]
+ },
+ {
+  "ar": "أحياناً",
+  "tr": "a7yānan",
+  "en": "sometimes",
+  "msa": "أحياناً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "أحياناً نمشي على كرعيا.",
+  "ex_tr": "a7yānan nimshi 3la kra3ayya.",
+  "ex_en": "Sometimes I walk on foot.",
+  "phrases": [
+   {
+    "ar": "أحياناً يصير",
+    "tr": "a7yānan ySīr",
+    "en": "it sometimes happens"
+   },
+   {
+    "ar": "أحياناً نعم، أحياناً لا",
+    "tr": "a7yānan na3am, a7yānan lā",
+    "en": "sometimes yes, sometimes no"
+   }
+  ]
+ },
+ {
+  "ar": "نادراً",
+  "tr": "nādiran",
+  "en": "rarely; seldom",
+  "msa": "نادراً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "نادراً ما نشوفه.",
+  "ex_tr": "nādiran ma nshūfa.",
+  "ex_en": "I rarely see him.",
+  "phrases": [
+   {
+    "ar": "نادراً يصير هكي",
+    "tr": "nādiran ySīr hakki",
+    "en": "it rarely happens like this"
+   },
+   {
+    "ar": "نادراً جداً",
+    "tr": "nādiran jiddan",
+    "en": "very rarely"
+   }
+  ]
+ },
+ {
+  "ar": "بالمرة",
+  "tr": "bilmarra",
+  "en": "completely; at all (with neg.); while at it",
+  "msa": "بالمرة",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "ما عجبنيش بالمرة.",
+  "ex_tr": "ma 3ajabnīsh bilmarra.",
+  "ex_en": "I didn't like it at all.",
+  "phrases": [
+   {
+    "ar": "وجيب الخبزة بالمرة",
+    "tr": "w-jīb ilkhubza bilmarra",
+    "en": "and bring the bread while you're at it"
+   },
+   {
+    "ar": "نسيته بالمرة",
+    "tr": "nsītah bilmarra",
+    "en": "I forgot it completely"
+   }
+  ]
+ },
+ {
+  "ar": "نهائياً",
+  "tr": "nihā'iyyan",
+  "en": "at all; absolutely (not); for good",
+  "msa": "نهائياً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "ما نبيش نهائياً.",
+  "ex_tr": "ma nibbīsh nihā'iyyan.",
+  "ex_en": "I don't want it at all.",
+  "phrases": [
+   {
+    "ar": "سكر نهائياً",
+    "tr": "sakkar nihā'iyyan",
+    "en": "closed for good"
+   },
+   {
+    "ar": "لا، نهائياً",
+    "tr": "lā, nihā'iyyan",
+    "en": "no, absolutely not"
+   }
+  ]
+ },
+ {
+  "ar": "تماماً",
+  "tr": "tamāman",
+  "en": "completely; exactly",
+  "msa": "تماماً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "نسيت تماماً.",
+  "ex_tr": "nsīt tamāman.",
+  "ex_en": "I completely forgot.",
+  "phrases": [
+   {
+    "ar": "صح تماماً",
+    "tr": "Sa77 tamāman",
+    "en": "exactly right"
+   },
+   {
+    "ar": "تماماً كيف قلتلك",
+    "tr": "tamāman kīf gultlik",
+    "en": "exactly as I told you"
+   }
+  ]
+ },
+ {
+  "ar": "بالقصد",
+  "tr": "bilgaSd",
+  "en": "on purpose; deliberately",
+  "msa": "عمداً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "داره بالقصد.",
+  "ex_tr": "dārah bilgaSd.",
+  "ex_en": "He did it on purpose.",
+  "phrases": [
+   {
+    "ar": "مش بالقصد",
+    "tr": "mush bilgaSd",
+    "en": "not on purpose"
+   },
+   {
+    "ar": "بالقصد ولا بالغلط؟",
+    "tr": "bilgaSd walla bilghalaT?",
+    "en": "on purpose or by mistake?"
+   }
+  ]
+ },
+ {
+  "ar": "بالعاني",
+  "tr": "bil3āni",
+  "en": "deliberately; on purpose",
+  "msa": "عمداً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "هو يديرها بالعاني باش يقهرني.",
+  "ex_tr": "huwa ydīrha bil3āni bāsh yigharni.",
+  "ex_en": "He does it deliberately to annoy me.",
+  "note": "Libyan/Tunisian synonym of بالقصد",
+  "phrases": [
+   {
+    "ar": "بالعاني ولا لا؟",
+    "tr": "bil3āni walla lā?",
+    "en": "on purpose or not?"
+   },
+   {
+    "ar": "ما كانش بالعاني",
+    "tr": "ma kānsh bil3āni",
+    "en": "it wasn't intentional"
+   }
+  ]
+ },
+ {
+  "ar": "بالغلط",
+  "tr": "bilghalaT",
+  "en": "by mistake; accidentally",
+  "msa": "خطأً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "كسرتها بالغلط، سامحني.",
+  "ex_tr": "kassartha bilghalaT, sām7ni.",
+  "ex_en": "I broke it by mistake, sorry.",
+  "phrases": [
+   {
+    "ar": "رنيت بالغلط",
+    "tr": "rannēt bilghalaT",
+    "en": "I called by mistake"
+   },
+   {
+    "ar": "خذا شنطتي بالغلط",
+    "tr": "khdha shanTti bilghalaT",
+    "en": "he took my bag by mistake"
+   }
+  ]
+ },
+ {
+  "ar": "بالعكس",
+  "tr": "bil3aks",
+  "en": "on the contrary; the other way round",
+  "msa": "بالعكس",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "مش زعلان، بالعكس فرحان.",
+  "ex_tr": "mush za3lān, bil3aks fer7ān.",
+  "ex_en": "I'm not upset — on the contrary, I'm happy.",
+  "phrases": [
+   {
+    "ar": "لا، بالعكس",
+    "tr": "lā, bil3aks",
+    "en": "no, quite the opposite"
+   },
+   {
+    "ar": "لبسته بالعكس",
+    "tr": "libstah bil3aks",
+    "en": "I put it on the wrong way round"
+   }
+  ]
+ },
+ {
+  "ar": "بالمقلوب",
+  "tr": "bilmaglūb",
+  "en": "upside down; inside out; backwards",
+  "msa": "مقلوباً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "لابس السورية بالمقلوب.",
+  "ex_tr": "lābis issūriyya bilmaglūb.",
+  "ex_en": "You're wearing your shirt inside out.",
+  "phrases": [
+   {
+    "ar": "حطها بالمقلوب",
+    "tr": "7aTTha bilmaglūb",
+    "en": "he put it upside down"
+   },
+   {
+    "ar": "فهمها بالمقلوب",
+    "tr": "fihimha bilmaglūb",
+    "en": "he understood it backwards"
+   }
+  ]
+ },
+ {
+  "ar": "بالسرقة",
+  "tr": "bissirga",
+  "en": "secretly; on the sly",
+  "msa": "خِلسةً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "خرج بالسرقة من غير ما يقول.",
+  "ex_tr": "khraj bissirga min ghēr ma ygūl.",
+  "ex_en": "He slipped out without saying anything.",
+  "phrases": [
+   {
+    "ar": "ياكل بالسرقة",
+    "tr": "yākul bissirga",
+    "en": "he eats on the sly"
+   },
+   {
+    "ar": "شافها بالسرقة",
+    "tr": "shāfha bissirga",
+    "en": "he peeked at it"
+   }
+  ]
+ },
+ {
+  "ar": "بالسيف",
+  "tr": "bissēf",
+  "en": "forcibly; you have no choice (Libyan)",
+  "msa": "بالقوة",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "بالسيف عليك تجي معانا.",
+  "ex_tr": "bissēf 3alēk tiji m3āna.",
+  "ex_en": "You've got no choice — you're coming with us.",
+  "note": "lit. 'by the sword'; very Libyan for 'whether you like it or not'",
+  "phrases": [
+   {
+    "ar": "خشيت بالسيف",
+    "tr": "khashsht bissēf",
+    "en": "I got in by force"
+   },
+   {
+    "ar": "بالسيف عليه يخلص",
+    "tr": "bissēf 3alēh ykhalliS",
+    "en": "he has to pay, like it or not"
+   }
+  ]
+ },
+ {
+  "ar": "غصبن عليه",
+  "tr": "ghaSbin 3alēh",
+  "en": "against his will; whether he likes it or not",
+  "msa": "رغماً عنه",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "جا غصبن عليه.",
+  "ex_tr": "ja ghaSbin 3alēh.",
+  "ex_en": "He came against his will.",
+  "phrases": [
+   {
+    "ar": "غصبن عليك",
+    "tr": "ghaSbin 3alēk",
+    "en": "whether you like it or not"
+   },
+   {
+    "ar": "كليتها غصبن عليا",
+    "tr": "kalītha ghaSbin 3layya",
+    "en": "I ate it reluctantly"
+   }
+  ]
+ },
+ {
+  "ar": "مش بكيفي",
+  "tr": "mush b-kēfi",
+  "en": "not by choice; I can't help it",
+  "msa": "ليس باختياري",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "تأخرت مش بكيفي، الزحمة.",
+  "ex_tr": "t'akhkhart mush b-kēfi, izza7ma.",
+  "ex_en": "I was late through no fault of mine — the traffic.",
+  "phrases": [
+   {
+    "ar": "والله مش بكيفي",
+    "tr": "walla mush b-kēfi",
+    "en": "honestly, it's not my choice"
+   },
+   {
+    "ar": "بكيفي ولا مش بكيفي",
+    "tr": "b-kēfi walla mush b-kēfi",
+    "en": "like it or not"
+   }
+  ]
+ },
+ {
+  "ar": "غير هكي",
+  "tr": "ghēr hakki",
+  "en": "just like that; for no reason",
+  "msa": "هكذا فقط",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "علاش؟ — غير هكي.",
+  "ex_tr": "3lāsh? — ghēr hakki.",
+  "ex_en": "Why? — Just because.",
+  "phrases": [
+   {
+    "ar": "ضحك غير هكي",
+    "tr": "Di7ik ghēr hakki",
+    "en": "he laughed for no reason"
+   },
+   {
+    "ar": "نسأل غير هكي",
+    "tr": "nis'al ghēr hakki",
+    "en": "I'm just asking"
+   }
+  ]
+ },
+ {
+  "ar": "المهم",
+  "tr": "ilmuhimm",
+  "en": "anyway; the main thing is",
+  "msa": "المهم",
+  "pos": "phrase",
+  "cat": "conjunctions",
+  "freq": 2,
+  "usage": 78,
+  "ex_ar": "المهم، وصلنا بالسلامة.",
+  "ex_tr": "ilmuhimm, waSalna bisslāma.",
+  "ex_en": "Anyway, we arrived safely.",
+  "phrases": [
+   {
+    "ar": "المهم الصحة",
+    "tr": "ilmuhimm iSSa77a",
+    "en": "health is what matters"
+   },
+   {
+    "ar": "المهم إنك جيت",
+    "tr": "ilmuhimm innik jīt",
+    "en": "the main thing is you came"
+   },
+   {
+    "ar": "المهم، شن قلنا؟",
+    "tr": "ilmuhimm, shin gulna?",
+    "en": "anyway, where were we?"
+   }
+  ]
+ },
+ {
+  "ar": "أصلاً",
+  "tr": "aSlan",
+  "en": "actually; in the first place; anyway",
+  "msa": "أصلاً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 2,
+  "usage": 70,
+  "ex_ar": "أصلاً ما كنتش نبي نمشي.",
+  "ex_tr": "aSlan ma kuntsh nibbi nimshi.",
+  "ex_en": "I didn't even want to go in the first place.",
+  "phrases": [
+   {
+    "ar": "هو أصلاً مش هني",
+    "tr": "huwa aSlan mush hni",
+    "en": "he's not even here anyway"
+   },
+   {
+    "ar": "أصلاً من طرابلس",
+    "tr": "aSlan min Trābulus",
+    "en": "originally from Tripoli"
+   }
+  ]
+ },
+ {
+  "ar": "مثلاً",
+  "tr": "mathalan",
+  "en": "for example; for instance",
+  "msa": "مثلاً",
+  "pos": "adv",
+  "cat": "conjunctions",
+  "freq": 2,
+  "usage": 70,
+  "ex_ar": "خوذ فاكهة، مثلاً تفاح.",
+  "ex_tr": "khūdh fākha, mathalan tiffā7.",
+  "ex_en": "Take some fruit, for example apples.",
+  "phrases": [
+   {
+    "ar": "كيف مثلاً؟",
+    "tr": "kīf mathalan?",
+    "en": "like what, for example?"
+   },
+   {
+    "ar": "مثلاً غدوة",
+    "tr": "mathalan ghudwa",
+    "en": "say, tomorrow"
+   }
+  ]
+ },
+ {
+  "ar": "بصراحة",
+  "tr": "bSarā7a",
+  "en": "frankly; honestly; to be honest",
+  "msa": "بصراحة",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 2,
+  "usage": 70,
+  "ex_ar": "بصراحة الماكلة ما عجبتنيش.",
+  "ex_tr": "bSarā7a ilmākla ma 3ajbatnīsh.",
+  "ex_en": "Honestly, I didn't like the food.",
+  "phrases": [
+   {
+    "ar": "قولي بصراحة",
+    "tr": "gūli bSarā7a",
+    "en": "tell me honestly"
+   },
+   {
+    "ar": "بصراحة تعبت",
+    "tr": "bSarā7a ta3bit",
+    "en": "to be honest, I'm tired"
+   }
+  ]
+ },
+ {
+  "ar": "بالنسبة لي",
+  "tr": "binnisba-li",
+  "en": "as for me; in my opinion",
+  "msa": "بالنسبة لي",
+  "pos": "phrase",
+  "cat": "conjunctions",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "بالنسبة لي، البحر أحسن.",
+  "ex_tr": "binnisba-li, ilba7r a7san.",
+  "ex_en": "As for me, the beach is better.",
+  "phrases": [
+   {
+    "ar": "بالنسبة ليك؟",
+    "tr": "binnisba-lik?",
+    "en": "and for you?"
+   },
+   {
+    "ar": "بالنسبة للخدمة",
+    "tr": "binnisba lil-khidma",
+    "en": "as for the work"
+   }
+  ]
+ },
+ {
+  "ar": "حسب",
+  "tr": "7asab",
+  "en": "according to; depending on",
+  "msa": "حسب",
+  "pos": "prep",
+  "cat": "prepositions",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "السوم حسب الحجم.",
+  "ex_tr": "issōm 7asab il7ajm.",
+  "ex_en": "The price depends on the size.",
+  "phrases": [
+   {
+    "ar": "حسب الظروف",
+    "tr": "7asab iDHDHurūf",
+    "en": "depending on circumstances"
+   },
+   {
+    "ar": "حسب كلامه",
+    "tr": "7asab klāma",
+    "en": "according to him"
+   }
+  ]
+ },
+ {
+  "ar": "على حسب",
+  "tr": "3la 7asab",
+  "en": "it depends; depending on",
+  "msa": "حسب",
+  "pos": "phrase",
+  "cat": "conjunctions",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "تجي غدوة؟ — على حسب.",
+  "ex_tr": "tiji ghudwa? — 3la 7asab.",
+  "ex_en": "Are you coming tomorrow? — It depends.",
+  "phrases": [
+   {
+    "ar": "على حسب الوقت",
+    "tr": "3la 7asab ilwagt",
+    "en": "depending on time"
+   },
+   {
+    "ar": "على حسب شن تبي",
+    "tr": "3la 7asab shin tibbi",
+    "en": "depending on what you want"
+   }
+  ]
+ },
+ {
+  "ar": "خاصةً",
+  "tr": "khāSSatan",
+  "en": "especially; particularly",
+  "msa": "خاصةً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "نحب الحلو، خاصةً البقلاوة.",
+  "ex_tr": "n7ibb il7ilu, khāSSatan ilbaglāwa.",
+  "ex_en": "I love sweets, especially baklava.",
+  "phrases": [
+   {
+    "ar": "خاصةً في الصيف",
+    "tr": "khāSSatan fiSSēf",
+    "en": "especially in summer"
+   },
+   {
+    "ar": "خاصةً إنت",
+    "tr": "khāSSatan inta",
+    "en": "especially you"
+   }
+  ]
+ },
+ {
+  "ar": "بالذات",
+  "tr": "bidhdhāt",
+  "en": "specifically; in particular; exactly",
+  "msa": "بالذات",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "نبي هذا بالذات.",
+  "ex_tr": "nibbi hādha bidhdhāt.",
+  "ex_en": "I want this one specifically.",
+  "phrases": [
+   {
+    "ar": "ليش إنت بالذات؟",
+    "tr": "lēsh inta bidhdhāt?",
+    "en": "why you of all people?"
+   },
+   {
+    "ar": "اليوم بالذات",
+    "tr": "ilyōm bidhdhāt",
+    "en": "today of all days"
+   }
+  ]
+ },
+ {
+  "ar": "على فكرة",
+  "tr": "3la fikra",
+  "en": "by the way",
+  "msa": "بالمناسبة",
+  "pos": "phrase",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "على فكرة، خوك سأل عليك.",
+  "ex_tr": "3la fikra, khūk sa'al 3alēk.",
+  "ex_en": "By the way, your brother asked about you.",
+  "phrases": [
+   {
+    "ar": "على فكرة، نسيت…",
+    "tr": "3la fikra, nsīt…",
+    "en": "by the way, I forgot…"
+   },
+   {
+    "ar": "وعلى فكرة",
+    "tr": "w-3la fikra",
+    "en": "and by the way"
+   }
+  ]
+ },
+ {
+  "ar": "بالمناسبة",
+  "tr": "bilmunāsaba",
+  "en": "by the way; on the occasion",
+  "msa": "بالمناسبة",
+  "pos": "adv",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "بالمناسبة، مبروك على الخدمة.",
+  "ex_tr": "bilmunāsaba, mabrūk 3al-khidma.",
+  "ex_en": "By the way, congratulations on the job.",
+  "phrases": [
+   {
+    "ar": "وبالمناسبة",
+    "tr": "w-bilmunāsaba",
+    "en": "and by the way"
+   },
+   {
+    "ar": "هدية بالمناسبة",
+    "tr": "hadiyya bilmunāsaba",
+    "en": "a gift for the occasion"
+   }
+  ]
+ },
+ {
+  "ar": "معناها",
+  "tr": "ma3nāha",
+  "en": "that means; so; in that case",
+  "msa": "معنى ذلك",
+  "pos": "phrase",
+  "cat": "conjunctions",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "ما جاش؟ معناها مريض.",
+  "ex_tr": "ma jāsh? ma3nāha marīD.",
+  "ex_en": "He didn't come? That means he's ill.",
+  "phrases": [
+   {
+    "ar": "معناها نمشوا بروحنا",
+    "tr": "ma3nāha nimshu b-rū7na",
+    "en": "so we go on our own"
+   },
+   {
+    "ar": "شن معناها؟",
+    "tr": "shin ma3nāha?",
+    "en": "what does it mean?"
+   }
+  ]
+ },
+ {
+  "ar": "يعني شن",
+  "tr": "ya3ni shin",
+  "en": "meaning what?; so what?",
+  "msa": "ماذا تعني",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "تأخرت. — يعني شن؟",
+  "ex_tr": "t'akhkhart. — ya3ni shin?",
+  "ex_en": "You're late. — So what?",
+  "phrases": [
+   {
+    "ar": "يعني شن نديروا؟",
+    "tr": "ya3ni shin ndīru?",
+    "en": "so what do we do?"
+   },
+   {
+    "ar": "يعني شن قصدك؟",
+    "tr": "ya3ni shin gaSdik?",
+    "en": "meaning what exactly?"
+   }
+  ]
+ },
+ {
+  "ar": "وبعدين",
+  "tr": "w-ba3dēn",
+  "en": "and then?; so what now?; come on!",
+  "msa": "ثم ماذا",
+  "pos": "phrase",
+  "cat": "conjunctions",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "وبعدين؟ كمل الحكاية.",
+  "ex_tr": "w-ba3dēn? kammil il7kāya.",
+  "ex_en": "And then? Finish the story.",
+  "phrases": [
+   {
+    "ar": "وبعدين معاك؟",
+    "tr": "w-ba3dēn m3āk?",
+    "en": "what am I going to do with you?"
+   },
+   {
+    "ar": "وبعدين يا راجل",
+    "tr": "w-ba3dēn ya rājil",
+    "en": "come on, man, enough"
+   }
+  ]
+ },
+ {
+  "ar": "الحاصل",
+  "tr": "il7āSil",
+  "en": "in short; anyway; to cut a long story short",
+  "msa": "الخلاصة",
+  "pos": "phrase",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "الحاصل، ما لقيناش بلاصة.",
+  "ex_tr": "il7āSil, ma lgīnāsh blāSa.",
+  "ex_en": "Anyway, we didn't find a place.",
+  "note": "Maghrebi discourse marker, common in Libya",
+  "phrases": [
+   {
+    "ar": "الحاصل شن قالك؟",
+    "tr": "il7āSil shin gālik?",
+    "en": "so in short, what did he tell you?"
+   },
+   {
+    "ar": "والحاصل…",
+    "tr": "wil7āSil…",
+    "en": "and so, in the end…"
+   }
+  ]
+ },
+ {
+  "ar": "على هكي",
+  "tr": "3la hakki",
+  "en": "that's why; so; for that reason",
+  "msa": "لذلك",
+  "pos": "phrase",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "كان تعبان، على هكي ما جاش.",
+  "ex_tr": "kān ta3bān, 3la hakki ma jāsh.",
+  "ex_en": "He was tired, that's why he didn't come.",
+  "phrases": [
+   {
+    "ar": "على هكي قلتلك",
+    "tr": "3la hakki gultlik",
+    "en": "that's why I told you"
+   },
+   {
+    "ar": "آه، على هكي!",
+    "tr": "āh, 3la hakki!",
+    "en": "oh, so that's why!"
+   }
+  ]
+ },
+ {
+  "ar": "ولهذا",
+  "tr": "w-lihādha",
+  "en": "and so; therefore",
+  "msa": "ولهذا",
+  "pos": "conj",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "ما عنديش وقت، ولهذا ما جيتش.",
+  "ex_tr": "ma 3andīsh wagt, w-lihādha ma jītsh.",
+  "ex_en": "I didn't have time, and so I didn't come.",
+  "phrases": [
+   {
+    "ar": "ولهذا السبب",
+    "tr": "w-lihādha issabab",
+    "en": "and for this reason"
+   },
+   {
+    "ar": "ولهذا زعل",
+    "tr": "w-lihādha z3al",
+    "en": "and that's why he got upset"
+   }
+  ]
+ },
+ {
+  "ar": "برغم",
+  "tr": "birghum",
+  "en": "despite; in spite of",
+  "msa": "رغم",
+  "pos": "prep",
+  "cat": "prepositions",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "جا برغم المطر.",
+  "ex_tr": "ja birghum ilmaTar.",
+  "ex_en": "He came despite the rain.",
+  "phrases": [
+   {
+    "ar": "برغم كل شي",
+    "tr": "birghum kull shay",
+    "en": "despite everything"
+   },
+   {
+    "ar": "برغم إنه تعبان",
+    "tr": "birghum inna ta3bān",
+    "en": "even though he's tired"
+   }
+  ]
+ },
+ {
+  "ar": "لأنّ",
+  "tr": "li'ann",
+  "en": "because",
+  "msa": "لأن",
+  "pos": "conj",
+  "cat": "conjunctions",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "ما جيتش لأنّ كنت مريض.",
+  "ex_tr": "ma jītsh li'ann kunt marīD.",
+  "ex_en": "I didn't come because I was ill.",
+  "note": "more formal than على خاطر",
+  "phrases": [
+   {
+    "ar": "لأنّه تأخر",
+    "tr": "li'annah t'akhkhar",
+    "en": "because he was late"
+   },
+   {
+    "ar": "لأنّي نحبك",
+    "tr": "li'anni n7ibbik",
+    "en": "because I love you"
+   }
+  ]
+ },
+ {
+  "ar": "بسبب",
+  "tr": "bsabab",
+  "en": "because of; due to",
+  "msa": "بسبب",
+  "pos": "prep",
+  "cat": "prepositions",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "تأخرنا بسبب الزحمة.",
+  "ex_tr": "t'akhkharna bsabab izza7ma.",
+  "ex_en": "We were late because of the traffic.",
+  "phrases": [
+   {
+    "ar": "بسببك",
+    "tr": "bsababik",
+    "en": "because of you"
+   },
+   {
+    "ar": "بسبب شن؟",
+    "tr": "bsabab shin?",
+    "en": "because of what?"
+   }
+  ]
+ },
+ {
+  "ar": "أو",
+  "tr": "aw",
+  "en": "or",
+  "msa": "أو",
+  "pos": "conj",
+  "cat": "conjunctions",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "نجي اليوم أو غدوة.",
+  "ex_tr": "nji ilyōm aw ghudwa.",
+  "ex_en": "I'll come today or tomorrow.",
+  "note": "in statements; in questions Libyans prefer ولا walla",
+  "phrases": [
+   {
+    "ar": "واحد أو زوز",
+    "tr": "wā7id aw zūz",
+    "en": "one or two"
+   },
+   {
+    "ar": "شاهي أو قهوة؟",
+    "tr": "shāhi aw gahwa?",
+    "en": "tea or coffee?"
+   }
+  ]
+ },
+ {
+  "ar": "إذا",
+  "tr": "idha",
+  "en": "if",
+  "msa": "إذا",
+  "pos": "conj",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "إذا تبي، نجيك.",
+  "ex_tr": "idha tibbi, njīk.",
+  "ex_en": "If you want, I'll come to you.",
+  "note": "Tripoli speech often uses كان kān for 'if'",
+  "phrases": [
+   {
+    "ar": "إذا ممكن",
+    "tr": "idha mumkin",
+    "en": "if possible"
+   },
+   {
+    "ar": "إذا ما فيش مانع",
+    "tr": "idha ma fīsh māni3",
+    "en": "if there's no objection"
+   }
+  ]
+ },
+ {
+  "ar": "لو كان",
+  "tr": "lu kān",
+  "en": "if (only); if it were",
+  "msa": "لو كان",
+  "pos": "conj",
+  "cat": "conjunctions",
+  "freq": 3,
+  "usage": 55,
+  "ex_ar": "لو كان عندي فلوس نشريها.",
+  "ex_tr": "lu kān 3andi flūs nishrīha.",
+  "ex_en": "If I had money I'd buy it.",
+  "phrases": [
+   {
+    "ar": "لو كان نعرف",
+    "tr": "lu kān na3rif",
+    "en": "if I had known"
+   },
+   {
+    "ar": "لو كان جيت بكري",
+    "tr": "lu kān jīt bakri",
+    "en": "if you had come early"
+   }
+  ]
+ },
+ {
+  "ar": "لولا",
+  "tr": "lūla",
+  "en": "if it weren't for; but for",
+  "msa": "لولا",
+  "pos": "conj",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "لولاك ما نجحتش.",
+  "ex_tr": "lūlāk ma nja7tsh.",
+  "ex_en": "If it weren't for you I wouldn't have passed.",
+  "phrases": [
+   {
+    "ar": "لولا ربي",
+    "tr": "lūla rabbi",
+    "en": "if not for God"
+   },
+   {
+    "ar": "لولا المطر",
+    "tr": "lūla ilmaTar",
+    "en": "if it weren't for the rain"
+   }
+  ]
+ },
+ {
+  "ar": "كل ما في الأمر",
+  "tr": "kull ma fil-amr",
+  "en": "all there is to it; it's just that",
+  "msa": "كل ما في الأمر",
+  "pos": "phrase",
+  "cat": "conjunctions",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "كل ما في الأمر إني تعبان.",
+  "ex_tr": "kull ma fil-amr inni ta3bān.",
+  "ex_en": "It's just that I'm tired.",
+  "phrases": [
+   {
+    "ar": "هذا كل ما في الأمر",
+    "tr": "hādha kull ma fil-amr",
+    "en": "that's all there is to it"
+   },
+   {
+    "ar": "كل ما في الأمر سؤال",
+    "tr": "kull ma fil-amr su'āl",
+    "en": "it's just a question"
+   }
+  ]
+ },
+ {
+  "ar": "من غير ما",
+  "tr": "min ghēr ma",
+  "en": "without (doing)",
+  "msa": "دون أن",
+  "pos": "conj",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "مشى من غير ما يسلم.",
+  "ex_tr": "masha min ghēr ma ysallim.",
+  "ex_en": "He left without saying goodbye.",
+  "phrases": [
+   {
+    "ar": "من غير ما تحس",
+    "tr": "min ghēr ma t7iss",
+    "en": "without you noticing"
+   },
+   {
+    "ar": "من غير ما نقولك",
+    "tr": "min ghēr ma ngullik",
+    "en": "without my telling you"
+   }
+  ]
+ },
+ {
+  "ar": "لين ما",
+  "tr": "līn ma",
+  "en": "until (+ verb)",
+  "msa": "حتى",
+  "pos": "conj",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "استنى لين ما نجي.",
+  "ex_tr": "istanna līn ma nji.",
+  "ex_en": "Wait until I come.",
+  "phrases": [
+   {
+    "ar": "لين ما يكمل",
+    "tr": "līn ma ykammil",
+    "en": "until he finishes"
+   },
+   {
+    "ar": "لين ما تبرد",
+    "tr": "līn ma tibrid",
+    "en": "until it cools down"
+   }
+  ]
+ },
+ {
+  "ar": "قد ما",
+  "tr": "gadd ma",
+  "en": "as much as; however much",
+  "msa": "بقدر ما",
+  "pos": "conj",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "كول قد ما تبي.",
+  "ex_tr": "kūl gadd ma tibbi.",
+  "ex_en": "Eat as much as you like.",
+  "phrases": [
+   {
+    "ar": "قد ما تقدر",
+    "tr": "gadd ma tigdar",
+    "en": "as much as you can"
+   },
+   {
+    "ar": "قد ما نحاول",
+    "tr": "gadd ma n7āwil",
+    "en": "however hard I try"
+   }
+  ]
+ },
+ {
+  "ar": "بلكي",
+  "tr": "balki",
+  "en": "maybe; perhaps; hopefully",
+  "msa": "ربما",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "بلكي يجي الليلة.",
+  "ex_tr": "balki yiji illēla.",
+  "ex_en": "Maybe he'll come tonight.",
+  "note": "Turkish/Persian loan, heard in Libya, Iraq and the Levant",
+  "phrases": [
+   {
+    "ar": "بلكي خير",
+    "tr": "balki khēr",
+    "en": "maybe it's for the best"
+   },
+   {
+    "ar": "بلكي نلقاه",
+    "tr": "balki nilgāh",
+    "en": "perhaps I'll find it"
+   }
+  ]
+ },
+ {
+  "ar": "ربما",
+  "tr": "rubbama",
+  "en": "perhaps; maybe",
+  "msa": "ربما",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "ربما نسافر في الصيف.",
+  "ex_tr": "rubbama nsāfir fiSSēf.",
+  "ex_en": "Perhaps I'll travel in the summer.",
+  "phrases": [
+   {
+    "ar": "ربما بعدين",
+    "tr": "rubbama ba3dēn",
+    "en": "perhaps later"
+   },
+   {
+    "ar": "ربما عنده حق",
+    "tr": "rubbama 3anda 7agg",
+    "en": "maybe he's right"
+   }
+  ]
+ },
+ {
+  "ar": "شوف",
+  "tr": "shūf",
+  "en": "look; listen; you see (discourse)",
+  "msa": "انظر",
+  "pos": "interj",
+  "cat": "adverbs",
+  "freq": 2,
+  "usage": 76,
+  "ex_ar": "شوف، خليني نفهمك.",
+  "ex_tr": "shūf, khallīni nfahhmik.",
+  "ex_en": "Look, let me explain to you.",
+  "phrases": [
+   {
+    "ar": "شوف شوف",
+    "tr": "shūf shūf",
+    "en": "look, look"
+   },
+   {
+    "ar": "شوفي يا أختي",
+    "tr": "shūfi ya ukhti",
+    "en": "look, sister"
+   }
+  ]
+ },
+ {
+  "ar": "اسمع",
+  "tr": "isma3",
+  "en": "listen; hey listen",
+  "msa": "اسمع",
+  "pos": "interj",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 68,
+  "ex_ar": "اسمع، عندي خبر.",
+  "ex_tr": "isma3, 3andi khbar.",
+  "ex_en": "Listen, I've got news.",
+  "phrases": [
+   {
+    "ar": "اسمعني مليح",
+    "tr": "isma3ni mlī7",
+    "en": "listen to me carefully"
+   },
+   {
+    "ar": "اسمعي",
+    "tr": "isma3i",
+    "en": "listen (to a woman)"
+   }
+  ]
+ },
+ {
+  "ar": "نقولك",
+  "tr": "ngullik",
+  "en": "let me tell you; listen; I'll tell you what",
+  "msa": "سأقول لك",
+  "pos": "phrase",
+  "cat": "conjunctions",
+  "freq": 3,
+  "usage": 62,
+  "ex_ar": "نقولك، نمشوا غدوة.",
+  "ex_tr": "ngullik, nimshu ghudwa.",
+  "ex_en": "Tell you what, let's go tomorrow.",
+  "phrases": [
+   {
+    "ar": "نقولك حاجة؟",
+    "tr": "ngullik 7āja?",
+    "en": "can I tell you something?"
+   },
+   {
+    "ar": "نقولك الحق",
+    "tr": "ngullik il7agg",
+    "en": "to tell you the truth"
+   }
+  ]
+ },
+ {
+  "ar": "تعرف شن",
+  "tr": "ta3rif shin",
+  "en": "you know what?",
+  "msa": "أتعرف ماذا",
+  "pos": "phrase",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "تعرف شن؟ خليها.",
+  "ex_tr": "ta3rif shin? khallīha.",
+  "ex_en": "You know what? Forget it.",
+  "phrases": [
+   {
+    "ar": "تعرفي شن صار؟",
+    "tr": "ta3rfi shin Sār?",
+    "en": "do you know what happened?"
+   },
+   {
+    "ar": "تعرف شن نبي؟",
+    "tr": "ta3rif shin nibbi?",
+    "en": "you know what I want?"
+   }
+  ]
+ },
+ {
+  "ar": "شن نقولك",
+  "tr": "shin ngullik",
+  "en": "what can I say; what can I tell you",
+  "msa": "ماذا أقول لك",
+  "pos": "phrase",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "شن نقولك، الدنيا هكي.",
+  "ex_tr": "shin ngullik, iddunya hakki.",
+  "ex_en": "What can I say, that's life.",
+  "phrases": [
+   {
+    "ar": "والله ما نعرف شن نقولك",
+    "tr": "walla ma na3rif shin ngullik",
+    "en": "honestly I don't know what to tell you"
+   },
+   {
+    "ar": "شن نقولك يا خوي",
+    "tr": "shin ngullik ya khūy",
+    "en": "what can I tell you, bro"
+   }
+  ]
+ },
+ {
+  "ar": "صدقني",
+  "tr": "Saddigni",
+  "en": "believe me",
+  "msa": "صدقني",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "صدقني، ما كنتش نعرف.",
+  "ex_tr": "Saddigni, ma kuntsh na3rif.",
+  "ex_en": "Believe me, I didn't know.",
+  "phrases": [
+   {
+    "ar": "صدقيني",
+    "tr": "Saddgīni",
+    "en": "believe me (to a woman)"
+   },
+   {
+    "ar": "ما تصدقنيش؟",
+    "tr": "ma tSaddignīsh?",
+    "en": "you don't believe me?"
+   }
+  ]
+ },
+ {
+  "ar": "بيني وبينك",
+  "tr": "bīni w-bīnik",
+  "en": "between you and me",
+  "msa": "بيني وبينك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "بيني وبينك، ما يعجبنيش.",
+  "ex_tr": "bīni w-bīnik, ma y3ajibnīsh.",
+  "ex_en": "Between you and me, I don't like him.",
+  "phrases": [
+   {
+    "ar": "خليها بيني وبينك",
+    "tr": "khallīha bīni w-bīnik",
+    "en": "keep it between us"
+   },
+   {
+    "ar": "سر بيني وبينك",
+    "tr": "sirr bīni w-bīnik",
+    "en": "a secret between us"
+   }
+  ]
+ },
+ {
+  "ar": "بالذمة",
+  "tr": "biddhimma",
+  "en": "honestly?; on your conscience",
+  "msa": "بذمتك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "بالذمة هذا سومه؟",
+  "ex_tr": "biddhimma hādha sōma?",
+  "ex_en": "Honestly, is this its price?",
+  "phrases": [
+   {
+    "ar": "بذمتك؟",
+    "tr": "bdhimmtik?",
+    "en": "on your honour?"
+   },
+   {
+    "ar": "قول بالذمة",
+    "tr": "gūl biddhimma",
+    "en": "tell me honestly"
+   }
+  ]
+ },
+ {
+  "ar": "وربي",
+  "tr": "w-rabbi",
+  "en": "I swear by God; really",
+  "msa": "وربي",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "وربي ما شفته.",
+  "ex_tr": "w-rabbi ma shuftah.",
+  "ex_en": "I swear I didn't see him.",
+  "phrases": [
+   {
+    "ar": "وربي صح",
+    "tr": "w-rabbi Sa77",
+    "en": "I swear it's true"
+   },
+   {
+    "ar": "لا وربي",
+    "tr": "lā w-rabbi",
+    "en": "no, I swear"
+   }
+  ]
+ },
+ {
+  "ar": "والله العظيم",
+  "tr": "walla il3aDHīm",
+  "en": "I swear by Almighty God",
+  "msa": "والله العظيم",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "والله العظيم ما نعرف.",
+  "ex_tr": "walla il3aDHīm ma na3rif.",
+  "ex_en": "I swear by God I don't know.",
+  "phrases": [
+   {
+    "ar": "والله العظيم صادق",
+    "tr": "walla il3aDHīm Sādig",
+    "en": "I swear I'm telling the truth"
+   },
+   {
+    "ar": "قسماً بالله",
+    "tr": "gasaman billāh",
+    "en": "I swear by God"
+   }
+  ]
+ },
+ {
+  "ar": "والنبي",
+  "tr": "winnabi",
+  "en": "please; I beg you (lit. by the Prophet)",
+  "msa": "بحق النبي",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "والنبي جيبلي مية.",
+  "ex_tr": "winnabi jībli mayya.",
+  "ex_en": "Please bring me some water.",
+  "phrases": [
+   {
+    "ar": "والنبي سامحني",
+    "tr": "winnabi sām7ni",
+    "en": "please forgive me"
+   },
+   {
+    "ar": "والنبي لا",
+    "tr": "winnabi lā",
+    "en": "please, no"
+   }
+  ]
+ },
+ {
+  "ar": "بالله عليك",
+  "tr": "billāh 3alēk",
+  "en": "please, I beg you; seriously?",
+  "msa": "بالله عليك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "بالله عليك عاوني.",
+  "ex_tr": "billāh 3alēk 3āwinni.",
+  "ex_en": "Please, help me.",
+  "phrases": [
+   {
+    "ar": "بالله عليك صح؟",
+    "tr": "billāh 3alēk Sa77?",
+    "en": "seriously, is it true?"
+   },
+   {
+    "ar": "بالله عليك سيبني",
+    "tr": "billāh 3alēk sībni",
+    "en": "please, leave me alone"
+   }
+  ]
+ },
+ {
+  "ar": "نقولك الحق",
+  "tr": "ngullik il7agg",
+  "en": "to tell you the truth",
+  "msa": "سأقول لك الحقيقة",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "نقولك الحق، نسيت.",
+  "ex_tr": "ngullik il7agg, nsīt.",
+  "ex_en": "To tell you the truth, I forgot.",
+  "phrases": [
+   {
+    "ar": "قولي الحق",
+    "tr": "gūli il7agg",
+    "en": "tell me the truth"
+   },
+   {
+    "ar": "الحق يتقال",
+    "tr": "il7agg yitgāl",
+    "en": "truth be told"
+   }
+  ]
+ },
+ {
+  "ar": "إيه",
+  "tr": "īh",
+  "en": "yeah; yes",
+  "msa": "نعم",
+  "pos": "interj",
+  "cat": "adverbs",
+  "freq": 2,
+  "usage": 76,
+  "ex_ar": "إيه، نعرفه.",
+  "ex_tr": "īh, na3rfa.",
+  "ex_en": "Yeah, I know him.",
+  "phrases": [
+   {
+    "ar": "إيه والله",
+    "tr": "īh walla",
+    "en": "yes, really"
+   },
+   {
+    "ar": "إيه، صح",
+    "tr": "īh, Sa77",
+    "en": "yeah, right"
+   }
+  ]
+ },
+ {
+  "ar": "أوكي",
+  "tr": "ōkē",
+  "en": "OK; okay",
+  "msa": "حسناً",
+  "pos": "interj",
+  "cat": "adverbs",
+  "freq": 2,
+  "usage": 70,
+  "ex_ar": "أوكي، نتلاقوا غدوة.",
+  "ex_tr": "ōkē, nitlāgu ghudwa.",
+  "ex_en": "OK, see you tomorrow.",
+  "phrases": [
+   {
+    "ar": "أوكي باهي",
+    "tr": "ōkē bāhi",
+    "en": "OK, fine"
+   },
+   {
+    "ar": "كله أوكي؟",
+    "tr": "kulla ōkē?",
+    "en": "is everything OK?"
+   }
+  ]
+ },
+ {
+  "ar": "ياخي",
+  "tr": "yākhi",
+  "en": "come on, man!; for heaven's sake (exasperation)",
+  "msa": "يا أخي",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 2,
+  "usage": 70,
+  "ex_ar": "ياخي خليني نرتاح!",
+  "ex_tr": "yākhi khallīni nirtā7!",
+  "ex_en": "Come on, let me rest!",
+  "phrases": [
+   {
+    "ar": "ياخي شن بيك؟",
+    "tr": "yākhi shin bīk?",
+    "en": "come on, what's wrong with you?"
+   },
+   {
+    "ar": "ياخي والله غريب",
+    "tr": "yākhi walla gharīb",
+    "en": "man, that's really strange"
+   }
+  ]
+ },
+ {
+  "ar": "يزي",
+  "tr": "yizzi",
+  "en": "enough!; stop it!",
+  "msa": "كفى",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "يزي عاد، فهمنا!",
+  "ex_tr": "yizzi 3ād, fhimna!",
+  "ex_en": "Enough already, we got it!",
+  "phrases": [
+   {
+    "ar": "يزي من الهدرة",
+    "tr": "yizzi min il-hadra",
+    "en": "enough talking"
+   },
+   {
+    "ar": "يزي يا ولد",
+    "tr": "yizzi ya wild",
+    "en": "stop it, boy"
+   }
+  ]
+ },
+ {
+  "ar": "عاد",
+  "tr": "3ād",
+  "en": "then; come on; well (emphatic particle)",
+  "msa": "إذن",
+  "pos": "particle",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "ما تبيش؟ خلاص عاد.",
+  "ex_tr": "ma tibbīsh? khalāS 3ād.",
+  "ex_en": "You don't want it? Well, that's that then.",
+  "phrases": [
+   {
+    "ar": "يزي عاد",
+    "tr": "yizzi 3ād",
+    "en": "enough already"
+   },
+   {
+    "ar": "هيا عاد",
+    "tr": "hayya 3ād",
+    "en": "come on now"
+   }
+  ]
+ },
+ {
+  "ar": "آي",
+  "tr": "āy",
+  "en": "ouch; ow",
+  "msa": "آه",
+  "pos": "interj",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "آي! رجلي!",
+  "ex_tr": "āy! rijli!",
+  "ex_en": "Ouch! My foot!",
+  "phrases": [
+   {
+    "ar": "آي يوجعني",
+    "tr": "āy yūja3ni",
+    "en": "ow, it hurts"
+   },
+   {
+    "ar": "آي آي آي",
+    "tr": "āy āy āy",
+    "en": "ow ow ow"
+   }
+  ]
+ },
+ {
+  "ar": "أوف",
+  "tr": "ūf",
+  "en": "ugh; phew (annoyance, fatigue)",
+  "msa": "أف",
+  "pos": "interj",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "أوف، الحر اليوم!",
+  "ex_tr": "ūf, il7arr ilyōm!",
+  "ex_en": "Ugh, the heat today!",
+  "phrases": [
+   {
+    "ar": "أوف منك",
+    "tr": "ūf minnik",
+    "en": "ugh, you're annoying"
+   },
+   {
+    "ar": "أوف تعبت",
+    "tr": "ūf ta3bit",
+    "en": "phew, I'm tired"
+   }
+  ]
+ },
+ {
+  "ar": "واو",
+  "tr": "wāw",
+  "en": "wow",
+  "msa": "رائع",
+  "pos": "interj",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "واو، شن هالسيارة!",
+  "ex_tr": "wāw, shin hassayyāra!",
+  "ex_en": "Wow, what a car!",
+  "phrases": [
+   {
+    "ar": "واو، حلوة",
+    "tr": "wāw, 7ilwa",
+    "en": "wow, it's beautiful"
+   },
+   {
+    "ar": "واو بالحق؟",
+    "tr": "wāw bil7agg?",
+    "en": "wow, really?"
+   }
+  ]
+ },
+ {
+  "ar": "يا سلام",
+  "tr": "ya salām",
+  "en": "wow; how wonderful; (ironic) oh really!",
+  "msa": "يا سلام",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "يا سلام على هالماكلة!",
+  "ex_tr": "ya salām 3la halmākla!",
+  "ex_en": "Wow, what food!",
+  "phrases": [
+   {
+    "ar": "يا سلام عليك",
+    "tr": "ya salām 3alēk",
+    "en": "bravo to you"
+   },
+   {
+    "ar": "يا سلام! توا تقولي؟",
+    "tr": "ya salām! tawwa tgūli?",
+    "en": "oh really! you tell me now?"
+   }
+  ]
+ },
+ {
+  "ar": "يا الله",
+  "tr": "ya allāh",
+  "en": "oh God; come on, hurry",
+  "msa": "يا الله",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "يا الله، شن هالزحمة!",
+  "ex_tr": "ya allāh, shin hazza7ma!",
+  "ex_en": "Oh God, what traffic!",
+  "phrases": [
+   {
+    "ar": "يا الله نمشوا",
+    "tr": "ya allāh nimshu",
+    "en": "come on, let's go"
+   },
+   {
+    "ar": "يا الله يا ربي",
+    "tr": "ya allāh ya rabbi",
+    "en": "oh my God"
+   }
+  ]
+ },
+ {
+  "ar": "يا لطيف",
+  "tr": "ya laTīf",
+  "en": "good heavens; oh my goodness",
+  "msa": "يا لطيف",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "يا لطيف، شن صار؟",
+  "ex_tr": "ya laTīf, shin Sār?",
+  "ex_en": "Good heavens, what happened?",
+  "phrases": [
+   {
+    "ar": "يا لطيف الطف",
+    "tr": "ya laTīf ilTuf",
+    "en": "God, be gentle (have mercy)"
+   },
+   {
+    "ar": "يا لطيف على هالحر",
+    "tr": "ya laTīf 3la ha-l7arr",
+    "en": "good grief, this heat"
+   }
+  ]
+ },
+ {
+  "ar": "يا حسرة",
+  "tr": "ya 7asra",
+  "en": "alas; those were the days",
+  "msa": "يا حسرة",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "يا حسرة على أيام زمان.",
+  "ex_tr": "ya 7asra 3la iyyām zmān.",
+  "ex_en": "Ah, those were the days.",
+  "phrases": [
+   {
+    "ar": "يا حسرة عليه",
+    "tr": "ya 7asra 3alēh",
+    "en": "what a shame for him"
+   },
+   {
+    "ar": "يا حسرتي",
+    "tr": "ya 7asrti",
+    "en": "woe is me"
+   }
+  ]
+ },
+ {
+  "ar": "يا ويلي",
+  "tr": "ya wēli",
+  "en": "woe is me; oh no",
+  "msa": "يا ويلي",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "يا ويلي، نسيت الفرن شاعل!",
+  "ex_tr": "ya wēli, nsīt ilfarn shā3il!",
+  "ex_en": "Oh no, I left the oven on!",
+  "phrases": [
+   {
+    "ar": "يا ويلك",
+    "tr": "ya wēlik",
+    "en": "you're in trouble"
+   },
+   {
+    "ar": "يا ويلي منك",
+    "tr": "ya wēli minnik",
+    "en": "what am I to do with you"
+   }
+  ]
+ },
+ {
+  "ar": "يا عيني",
+  "tr": "ya 3ēni",
+  "en": "aww; poor thing; how lovely",
+  "msa": "يا عيني",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "يا عيني عليه، مسكين.",
+  "ex_tr": "ya 3ēni 3alēh, miskīn.",
+  "ex_en": "Aww, the poor thing.",
+  "phrases": [
+   {
+    "ar": "يا عيني على الصغار",
+    "tr": "ya 3ēni 3la iSSghār",
+    "en": "how sweet the little ones are"
+   },
+   {
+    "ar": "يا عيني يا ليل",
+    "tr": "ya 3ēni ya lēl",
+    "en": "oh my eyes, oh night (song refrain)"
+   }
+  ]
+ },
+ {
+  "ar": "مش معقول",
+  "tr": "mush ma3gūl",
+  "en": "unbelievable; no way",
+  "msa": "غير معقول",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "مش معقول! نجحت؟",
+  "ex_tr": "mush ma3gūl! nja7t?",
+  "ex_en": "No way! You passed?",
+  "phrases": [
+   {
+    "ar": "السوم مش معقول",
+    "tr": "issōm mush ma3gūl",
+    "en": "the price is unbelievable"
+   },
+   {
+    "ar": "حاجة مش معقولة",
+    "tr": "7āja mush ma3gūla",
+    "en": "something unbelievable"
+   }
+  ]
+ },
+ {
+  "ar": "شي يضحك",
+  "tr": "shay yDa77ik",
+  "en": "how funny; ridiculous",
+  "msa": "شيء مضحك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "شي يضحك، ما فهمش.",
+  "ex_tr": "shay yDa77ik, ma fhimsh.",
+  "ex_en": "Ridiculous, he didn't understand.",
+  "phrases": [
+   {
+    "ar": "والله شي يضحك",
+    "tr": "walla shay yDa77ik",
+    "en": "honestly, it's laughable"
+   },
+   {
+    "ar": "مش شي يضحك",
+    "tr": "mush shay yDa77ik",
+    "en": "it's no laughing matter"
+   }
+  ]
+ },
+ {
+  "ar": "شي يقهر",
+  "tr": "shay yighar",
+  "en": "how infuriating; so frustrating",
+  "msa": "شيء يغيظ",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "شي يقهر، الضي طافي مرة ثانية.",
+  "ex_tr": "shay yighar, iDDaw Tāfi marra thānya.",
+  "ex_en": "So frustrating, the power's out again.",
+  "phrases": [
+   {
+    "ar": "والله شي يقهر",
+    "tr": "walla shay yighar",
+    "en": "honestly, it's infuriating"
+   },
+   {
+    "ar": "يقهر بالحق",
+    "tr": "yighar bil7agg",
+    "en": "it's really maddening"
+   }
+  ]
+ },
+ {
+  "ar": "حاجة تحشم",
+  "tr": "7āja t7ashshim",
+  "en": "how embarrassing; a disgrace",
+  "msa": "شيء مخجل",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "حاجة تحشم، ما سلمش علينا.",
+  "ex_tr": "7āja t7ashshim, ma sallamsh 3alēna.",
+  "ex_en": "How embarrassing, he didn't even greet us.",
+  "note": "حشم = to be ashamed (Libyan/Maghrebi)",
+  "phrases": [
+   {
+    "ar": "تحشم بالحق",
+    "tr": "t7ashshim bil7agg",
+    "en": "it's really embarrassing"
+   },
+   {
+    "ar": "ما تحشمش؟",
+    "tr": "ma ti7shimsh?",
+    "en": "aren't you ashamed?"
+   }
+  ]
+ },
+ {
+  "ar": "حرام عليك",
+  "tr": "7arām 3alēk",
+  "en": "shame on you; have a heart",
+  "msa": "حرام عليك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "حرام عليك، خليه يرتاح.",
+  "ex_tr": "7arām 3alēk, khallīh yirtā7.",
+  "ex_en": "Have a heart, let him rest.",
+  "phrases": [
+   {
+    "ar": "حرام عليكم",
+    "tr": "7arām 3alēkum",
+    "en": "shame on you (pl.)"
+   },
+   {
+    "ar": "حرام عليك هالسوم",
+    "tr": "7arām 3alēk hassōm",
+    "en": "this price is a crime"
+   }
+  ]
+ },
+ {
+  "ar": "عيب عليك",
+  "tr": "3ēb 3alēk",
+  "en": "shame on you; you should know better",
+  "msa": "عيب عليك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "عيب عليك تحكي هكي.",
+  "ex_tr": "3ēb 3alēk ti7ki hakki.",
+  "ex_en": "Shame on you for talking like that.",
+  "phrases": [
+   {
+    "ar": "عيب عليك يا ولد",
+    "tr": "3ēb 3alēk ya wild",
+    "en": "shame on you, boy"
+   },
+   {
+    "ar": "مش عيب عليك؟",
+    "tr": "mush 3ēb 3alēk?",
+    "en": "aren't you ashamed?"
+   }
+  ]
+ },
+ {
+  "ar": "حاشاك",
+  "tr": "7āshāk",
+  "en": "pardon the expression; excuse me (before mentioning something unclean)",
+  "msa": "حاشاك",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "الحمّام، حاشاك، وين؟",
+  "ex_tr": "il7ammām, 7āshāk, wīn?",
+  "ex_en": "Where's the toilet, pardon me?",
+  "phrases": [
+   {
+    "ar": "حاشاك الصباط",
+    "tr": "7āshāk iSSabbāT",
+    "en": "the shoe, pardon the mention"
+   },
+   {
+    "ar": "حاشاكم",
+    "tr": "7āshākum",
+    "en": "pardon me (to several)"
+   }
+  ]
+ },
+ {
+  "ar": "حاشا",
+  "tr": "7āsha",
+  "en": "God forbid; certainly not",
+  "msa": "حاشا",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "أنا نكذب؟ حاشا!",
+  "ex_tr": "āna nikdhib? 7āsha!",
+  "ex_en": "Me, lie? Certainly not!",
+  "phrases": [
+   {
+    "ar": "حاشا وكلا",
+    "tr": "7āsha w-kalla",
+    "en": "absolutely not"
+   },
+   {
+    "ar": "حاشا لله",
+    "tr": "7āsha lillāh",
+    "en": "God forbid"
+   }
+  ]
+ },
+ {
+  "ar": "شن هالكلام",
+  "tr": "shin ha-lklām",
+  "en": "what kind of talk is this?; how can you say that",
+  "msa": "ما هذا الكلام",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "شن هالكلام؟ إنت خوي!",
+  "ex_tr": "shin ha-lklām? inta khūy!",
+  "ex_en": "What are you saying? You're my brother!",
+  "phrases": [
+   {
+    "ar": "عيب هالكلام",
+    "tr": "3ēb ha-lklām",
+    "en": "such talk is shameful"
+   },
+   {
+    "ar": "منين جبت هالكلام؟",
+    "tr": "mnīn jibt ha-lklām?",
+    "en": "where did you get that from?"
+   }
+  ]
+ },
+ {
+  "ar": "كلام فارغ",
+  "tr": "klām fārigh",
+  "en": "nonsense; empty talk",
+  "msa": "كلام فارغ",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "هذا كلام فارغ.",
+  "ex_tr": "hādha klām fārigh.",
+  "ex_en": "That's nonsense.",
+  "phrases": [
+   {
+    "ar": "خلينا من الكلام الفارغ",
+    "tr": "khallīna min ilklām ilfārigh",
+    "en": "spare us the nonsense"
+   },
+   {
+    "ar": "كله كلام فارغ",
+    "tr": "kulla klām fārigh",
+    "en": "it's all hot air"
+   }
+  ]
+ },
+ {
+  "ar": "برافو",
+  "tr": "brāvo",
+  "en": "bravo; well done",
+  "msa": "أحسنت",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "برافو عليك، نجحت!",
+  "ex_tr": "brāvo 3alēk, nja7t!",
+  "ex_en": "Well done, you passed!",
+  "note": "Italian loanword",
+  "phrases": [
+   {
+    "ar": "برافو يا بطل",
+    "tr": "brāvo ya baTal",
+    "en": "bravo, champ"
+   },
+   {
+    "ar": "برافو عليكم",
+    "tr": "brāvo 3alēkum",
+    "en": "well done, all of you"
+   }
+  ]
+ },
+ {
+  "ar": "عفارم",
+  "tr": "3afārim",
+  "en": "well done; bravo",
+  "msa": "أحسنت",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "عفارم عليك، شاطر!",
+  "ex_tr": "3afārim 3alēk, shāTir!",
+  "ex_en": "Well done, clever boy!",
+  "note": "Turkish loan (aferin); a bit old-fashioned",
+  "phrases": [
+   {
+    "ar": "عفارم يا ولدي",
+    "tr": "3afārim ya wildi",
+    "en": "bravo, my son"
+   },
+   {
+    "ar": "عفارم عليها",
+    "tr": "3afārim 3alēha",
+    "en": "good for her"
+   }
+  ]
+ },
+ {
+  "ar": "يا بطل",
+  "tr": "ya baTal",
+  "en": "way to go, champ!; hey hero",
+  "msa": "يا بطل",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "أهلا يا بطل!",
+  "ex_tr": "ahlan ya baTal!",
+  "ex_en": "Hi there, champ!",
+  "phrases": [
+   {
+    "ar": "صحيت يا بطل",
+    "tr": "Sa77ēt ya baTal",
+    "en": "well done, champ"
+   },
+   {
+    "ar": "كيفك يا بطل؟",
+    "tr": "kīfik ya baTal?",
+    "en": "how are you, champ?"
+   }
+  ]
+ },
+ {
+  "ar": "تستاهل",
+  "tr": "tistāhil",
+  "en": "you deserve it",
+  "msa": "تستحق",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "مبروك، تستاهل كل خير.",
+  "ex_tr": "mabrūk, tistāhil kull khēr.",
+  "ex_en": "Congratulations, you deserve every good thing.",
+  "phrases": [
+   {
+    "ar": "تستاهل!",
+    "tr": "tistāhil!",
+    "en": "serves you right!"
+   },
+   {
+    "ar": "ما تستاهلش",
+    "tr": "ma tistāhilsh",
+    "en": "you don't deserve it"
+   }
+  ]
+ },
+ {
+  "ar": "البقية في حياتك",
+  "tr": "ilbagiyya fi 7yātik",
+  "en": "my condolences (lit. may the rest be in your life)",
+  "msa": "البقية في حياتك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "البقية في حياتك، الله يرحمه.",
+  "ex_tr": "ilbagiyya fi 7yātik, allah yir7ma.",
+  "ex_en": "My condolences, God rest his soul.",
+  "phrases": [
+   {
+    "ar": "البقية في حياتكم",
+    "tr": "ilbagiyya fi 7yātkum",
+    "en": "condolences to you all"
+   },
+   {
+    "ar": "وفي حياتك البقية",
+    "tr": "w-fi 7yātik ilbagiyya",
+    "en": "and to you (reply)"
+   }
+  ]
+ },
+ {
+  "ar": "إنا لله وإنا إليه راجعون",
+  "tr": "innā lillāh wa innā ilayhi rāji3ūn",
+  "en": "to God we belong and to Him we return (on hearing of a death)",
+  "msa": "إنا لله وإنا إليه راجعون",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "مات جارنا؟ إنا لله وإنا إليه راجعون.",
+  "ex_tr": "māt jārna? innā lillāh wa innā ilayhi rāji3ūn.",
+  "ex_en": "Our neighbour died? To God we belong and to Him we return.",
+  "phrases": [
+   {
+    "ar": "إنا لله",
+    "tr": "innā lillāh",
+    "en": "to God we belong (short form)"
+   },
+   {
+    "ar": "قال إنا لله وسكت",
+    "tr": "gāl innā lillāh w-sikit",
+    "en": "he said 'to God we belong' and fell silent"
+   }
+  ]
+ },
+ {
+  "ar": "الله يصبركم",
+  "tr": "allah ySabbirkum",
+  "en": "may God give you patience (condolence)",
+  "msa": "الله يصبركم",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "الله يصبركم ويرحمه.",
+  "ex_tr": "allah ySabbirkum w-yir7ma.",
+  "ex_en": "May God give you patience and have mercy on him.",
+  "phrases": [
+   {
+    "ar": "الله يصبرك",
+    "tr": "allah ySabbrik",
+    "en": "may God give you patience (sg.)"
+   },
+   {
+    "ar": "الله يصبر قلبك",
+    "tr": "allah ySabbir galbik",
+    "en": "may God give your heart patience"
+   }
+  ]
+ },
+ {
+  "ar": "شكر الله سعيكم",
+  "tr": "shakar allah sa3yakum",
+  "en": "thank you for coming (reply to condolences)",
+  "msa": "شكر الله سعيكم",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "شكر الله سعيكم وما تشوفوا شر.",
+  "ex_tr": "shakar allah sa3yakum w-ma tshūfu sharr.",
+  "ex_en": "Thank you for coming, may you see no harm.",
+  "phrases": [
+   {
+    "ar": "شكر الله سعيك",
+    "tr": "shakar allah sa3yak",
+    "en": "thank you for coming (sg.)"
+   },
+   {
+    "ar": "سعيكم مشكور",
+    "tr": "sa3yakum mashkūr",
+    "en": "your effort is appreciated"
+   }
+  ]
+ },
+ {
+  "ar": "ما تشوفش شر",
+  "tr": "ma tshūfsh sharr",
+  "en": "may you see no harm (reply to condolences/get-well)",
+  "msa": "لا أراك الله مكروهاً",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الله يعطيك الصحة وما تشوفش شر.",
+  "ex_tr": "allah ya3Tīk iSSa77a w-ma tshūfsh sharr.",
+  "ex_en": "Thank you, and may you see no harm.",
+  "phrases": [
+   {
+    "ar": "ما تشوفوا شر",
+    "tr": "ma tshūfu sharr",
+    "en": "may you all see no harm"
+   },
+   {
+    "ar": "ربي ما يوريك شر",
+    "tr": "rabbi ma ywarrīk sharr",
+    "en": "may God never show you harm"
+   }
+  ]
+ },
+ {
+  "ar": "الله يوسع عليه",
+  "tr": "allah ywassa3 3alēh",
+  "en": "may God make his grave spacious (for the dead)",
+  "msa": "الله يوسع عليه",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "جدي الله يرحمه ويوسع عليه.",
+  "ex_tr": "jiddi allah yir7ma w-ywassa3 3alēh.",
+  "ex_en": "My grandfather, God rest him and widen his grave.",
+  "phrases": [
+   {
+    "ar": "الله يوسع عليها",
+    "tr": "allah ywassa3 3alēha",
+    "en": "may God widen her grave"
+   },
+   {
+    "ar": "الله يغفرله",
+    "tr": "allah yighfirla",
+    "en": "may God forgive him"
+   }
+  ]
+ },
+ {
+  "ar": "سلامات",
+  "tr": "salāmāt",
+  "en": "get well soon; hello there",
+  "msa": "سلامات",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "سلامات! شن بيك؟",
+  "ex_tr": "salāmāt! shin bīk?",
+  "ex_en": "Get well soon! What's wrong?",
+  "phrases": [
+   {
+    "ar": "سلامات يا خوي",
+    "tr": "salāmāt ya khūy",
+    "en": "get well, bro"
+   },
+   {
+    "ar": "سلامات سلامات",
+    "tr": "salāmāt salāmāt",
+    "en": "well well, hello there"
+   }
+  ]
+ },
+ {
+  "ar": "ألف سلامة",
+  "tr": "alf salāma",
+  "en": "get well soon (lit. a thousand safeties)",
+  "msa": "ألف سلامة",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "ألف سلامة عليك.",
+  "ex_tr": "alf salāma 3alēk.",
+  "ex_en": "Get well soon.",
+  "phrases": [
+   {
+    "ar": "ألف سلامة، شن صار؟",
+    "tr": "alf salāma, shin Sār?",
+    "en": "get well soon, what happened?"
+   },
+   {
+    "ar": "الله يسلمك",
+    "tr": "allah ysallmik",
+    "en": "God keep you (reply)"
+   }
+  ]
+ },
+ {
+  "ar": "لا باس طهور",
+  "tr": "lā bās Tahūr",
+  "en": "nothing serious, it's a purification (to the sick)",
+  "msa": "لا بأس طهور",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "لا باس طهور إن شاء الله.",
+  "ex_tr": "lā bās Tahūr inshallah.",
+  "ex_en": "Nothing serious, God willing; it'll purify you.",
+  "phrases": [
+   {
+    "ar": "طهور إن شاء الله",
+    "tr": "Tahūr inshallah",
+    "en": "a purification, God willing"
+   },
+   {
+    "ar": "لا باس عليك، طهور",
+    "tr": "lā bās 3alēk, Tahūr",
+    "en": "you'll be fine, it's purification"
+   }
+  ]
+ },
+ {
+  "ar": "الله يعطيك العافية",
+  "tr": "allah ya3Tīk il3āfya",
+  "en": "God give you strength (to someone working); thanks",
+  "msa": "الله يعطيك العافية",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "الله يعطيك العافية يا معلم.",
+  "ex_tr": "allah ya3Tīk il3āfya ya m3allim.",
+  "ex_en": "God give you strength, boss.",
+  "phrases": [
+   {
+    "ar": "يعطيك العافية",
+    "tr": "ya3Tīk il3āfya",
+    "en": "well done, thanks"
+   },
+   {
+    "ar": "الله يعافيك",
+    "tr": "allah y3āfīk",
+    "en": "and you too (reply)"
+   }
+  ]
+ },
+ {
+  "ar": "ألف مبروك",
+  "tr": "alf mabrūk",
+  "en": "many congratulations",
+  "msa": "ألف مبروك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "ألف مبروك على الدار الجديدة!",
+  "ex_tr": "alf mabrūk 3la iddār ijjdīda!",
+  "ex_en": "Many congratulations on the new house!",
+  "phrases": [
+   {
+    "ar": "ألف مبروك يا عريس",
+    "tr": "alf mabrūk ya 3arīs",
+    "en": "congratulations, groom"
+   },
+   {
+    "ar": "ألف ألف مبروك",
+    "tr": "alf alf mabrūk",
+    "en": "a thousand congratulations"
+   }
+  ]
+ },
+ {
+  "ar": "عقبالك",
+  "tr": "3ugbālik",
+  "en": "may you be next; same to you (wishing a happy event)",
+  "msa": "عقبالك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "مبروك العرس، عقبالك!",
+  "ex_tr": "mabrūk il3ors, 3ugbālik!",
+  "ex_en": "Congratulations on the wedding — you next!",
+  "phrases": [
+   {
+    "ar": "عقبال عندك",
+    "tr": "3ugbāl 3andik",
+    "en": "may it happen to you too"
+   },
+   {
+    "ar": "عقبالكم",
+    "tr": "3ugbālkum",
+    "en": "may you all be next"
+   }
+  ]
+ },
+ {
+  "ar": "بالرفاه والبنين",
+  "tr": "birrafā' wilbanīn",
+  "en": "wedding wish: harmony and sons",
+  "msa": "بالرفاء والبنين",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "مبروك، بالرفاه والبنين.",
+  "ex_tr": "mabrūk, birrafā' wilbanīn.",
+  "ex_en": "Congratulations — harmony and children!",
+  "phrases": [
+   {
+    "ar": "ألف مبروك بالرفاه والبنين",
+    "tr": "alf mabrūk birrafā' wilbanīn",
+    "en": "many congratulations, harmony and sons"
+   },
+   {
+    "ar": "عرس مبروك",
+    "tr": "3ors mabrūk",
+    "en": "a blessed wedding"
+   }
+  ]
+ },
+ {
+  "ar": "مبروك ما جاك",
+  "tr": "mabrūk ma jāk",
+  "en": "congratulations on the new baby",
+  "msa": "مبارك المولود",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "مبروك ما جاك، يتربى في عزك.",
+  "ex_tr": "mabrūk ma jāk, yitrabba fi 3izzik.",
+  "ex_en": "Congratulations on the baby, may he grow up in your care.",
+  "phrases": [
+   {
+    "ar": "مبروك ما جاكم",
+    "tr": "mabrūk ma jākum",
+    "en": "congratulations on your new baby (pl.)"
+   },
+   {
+    "ar": "مبروك البيبي",
+    "tr": "mabrūk ilbēbi",
+    "en": "congrats on the baby"
+   }
+  ]
+ },
+ {
+  "ar": "يتربى في عزك",
+  "tr": "yitrabba fi 3izzik",
+  "en": "may he grow up in your care (new baby wish)",
+  "msa": "يتربى في عزك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "ولد؟ يتربى في عزك!",
+  "ex_tr": "wild? yitrabba fi 3izzik!",
+  "ex_en": "A boy? May he grow up in your care!",
+  "phrases": [
+   {
+    "ar": "تتربى في عزكم",
+    "tr": "titrabba fi 3izzkum",
+    "en": "may she grow up in your care (pl.)"
+   },
+   {
+    "ar": "يتربى في عزكم",
+    "tr": "yitrabba fi 3izzkum",
+    "en": "may he grow up in your care (pl.)"
+   }
+  ]
+ },
+ {
+  "ar": "الله يتمم بالخير",
+  "tr": "allah ytammim bilkhēr",
+  "en": "may God complete it well (engagement wish)",
+  "msa": "الله يتمم بالخير",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "مبروك الخطوبة، الله يتمم بالخير.",
+  "ex_tr": "mabrūk ilkhuTūba, allah ytammim bilkhēr.",
+  "ex_en": "Congrats on the engagement, may God complete it well.",
+  "phrases": [
+   {
+    "ar": "ربي يتمملكم على خير",
+    "tr": "rabbi ytammimlkum 3la khēr",
+    "en": "may God see it through for you"
+   },
+   {
+    "ar": "الله يكمل بالخير",
+    "tr": "allah ykammil bilkhēr",
+    "en": "may God finish it well"
+   }
+  ]
+ },
+ {
+  "ar": "حج مبرور",
+  "tr": "7ajj mabrūr",
+  "en": "may your pilgrimage be accepted",
+  "msa": "حج مبرور",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "حج مبرور وذنب مغفور.",
+  "ex_tr": "7ajj mabrūr w-dhanb maghfūr.",
+  "ex_en": "May your pilgrimage be accepted and your sins forgiven.",
+  "phrases": [
+   {
+    "ar": "حج مبرور يا حاج",
+    "tr": "7ajj mabrūr ya 7ājj",
+    "en": "blessed pilgrimage, Hajji"
+   },
+   {
+    "ar": "حمد الله على السلامة يا حاج",
+    "tr": "7amdilla 3la issalāma ya 7ājj",
+    "en": "welcome back, Hajji"
+   }
+  ]
+ },
+ {
+  "ar": "تقبل الله",
+  "tr": "taqabbal allah",
+  "en": "may God accept (your prayer/fasting)",
+  "msa": "تقبل الله",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "تقبل الله صيامكم.",
+  "ex_tr": "taqabbal allah Siyāmkum.",
+  "ex_en": "May God accept your fasting.",
+  "phrases": [
+   {
+    "ar": "تقبل الله منا ومنكم",
+    "tr": "taqabbal allah minna w-minkum",
+    "en": "may God accept from us and you"
+   },
+   {
+    "ar": "حرماً — تقبل الله",
+    "tr": "7arman — taqabbal allah",
+    "en": "(after prayer) may God accept"
+   }
+  ]
+ },
+ {
+  "ar": "حرماً",
+  "tr": "7arman",
+  "en": "may you pray in the Holy Mosque (said after prayer)",
+  "msa": "حرماً",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "حرماً يا حاج.",
+  "ex_tr": "7arman ya 7ājj.",
+  "ex_en": "May you pray in Mecca, Hajji.",
+  "phrases": [
+   {
+    "ar": "حرماً إن شاء الله",
+    "tr": "7arman inshallah",
+    "en": "in the Holy Mosque, God willing"
+   },
+   {
+    "ar": "جمعاً إن شاء الله",
+    "tr": "jam3an inshallah",
+    "en": "together, God willing (reply)"
+   }
+  ]
+ },
+ {
+  "ar": "الله أكرم",
+  "tr": "allah akram",
+  "en": "God is more generous (reply to 'Ramadan Karim')",
+  "msa": "الله أكرم",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "رمضان كريم! — الله أكرم.",
+  "ex_tr": "ramDān karīm! — allah akram.",
+  "ex_en": "Happy Ramadan! — God is more generous.",
+  "phrases": [
+   {
+    "ar": "الله أكرم علينا وعليكم",
+    "tr": "allah akram 3alēna w-3alēkum",
+    "en": "God is generous to us and you"
+   },
+   {
+    "ar": "الله أكرم يا خوي",
+    "tr": "allah akram ya khūy",
+    "en": "God is more generous, bro"
+   }
+  ]
+ },
+ {
+  "ar": "وانت بخير",
+  "tr": "w-inta bkhēr",
+  "en": "and you too (reply to holiday wishes)",
+  "msa": "وأنت بخير",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "كل عام وانت بخير! — وانت بخير.",
+  "ex_tr": "kull 3ām w-inta bkhēr! — w-inta bkhēr.",
+  "ex_en": "Happy holidays! — And to you.",
+  "phrases": [
+   {
+    "ar": "وانتي بخير",
+    "tr": "w-inti bkhēr",
+    "en": "and you too (to a woman)"
+   },
+   {
+    "ar": "وانتو بخير",
+    "tr": "w-intu bkhēr",
+    "en": "and you all too"
+   }
+  ]
+ },
+ {
+  "ar": "تسلم يدك",
+  "tr": "tislam īdik",
+  "en": "bless your hands (thanks for food or work)",
+  "msa": "سلمت يداك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "تسلم يدك، الكسكسي بنين!",
+  "ex_tr": "tislam īdik, ilkuskusi bnīn!",
+  "ex_en": "Bless your hands, the couscous is delicious!",
+  "phrases": [
+   {
+    "ar": "تسلم يدك يا أمي",
+    "tr": "tislam īdik ya ummi",
+    "en": "bless your hands, mum"
+   },
+   {
+    "ar": "تسلم إيديك",
+    "tr": "tislam īdēk",
+    "en": "bless your hands (both)"
+   }
+  ]
+ },
+ {
+  "ar": "هنيالك",
+  "tr": "hanyālik",
+  "en": "lucky you; good for you",
+  "msa": "هنيئاً لك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "مسافر لإيطاليا؟ هنيالك!",
+  "ex_tr": "msāfir l-iTālya? hanyālik!",
+  "ex_en": "Travelling to Italy? Lucky you!",
+  "phrases": [
+   {
+    "ar": "هنياله",
+    "tr": "hanyāla",
+    "en": "lucky him"
+   },
+   {
+    "ar": "هنيالكم",
+    "tr": "hanyālkum",
+    "en": "lucky you all"
+   }
+  ]
+ },
+ {
+  "ar": "الله يهنيك",
+  "tr": "allah yhannīk",
+  "en": "may God make you happy (reply to 'enjoy')",
+  "msa": "الله يهنيك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "بالصحة! — الله يهنيك.",
+  "ex_tr": "bisSa77a! — allah yhannīk.",
+  "ex_en": "Enjoy! — Thank you, may God bless you.",
+  "phrases": [
+   {
+    "ar": "الله يهنيكم",
+    "tr": "allah yhannīkum",
+    "en": "God bless you all"
+   },
+   {
+    "ar": "ربي يهنيك بيها",
+    "tr": "rabbi yhannīk bīha",
+    "en": "may you enjoy it"
+   }
+  ]
+ },
+ {
+  "ar": "الله يجازيك",
+  "tr": "allah yjāzīk",
+  "en": "may God reward you; thank you",
+  "msa": "جزاك الله",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "الله يجازيك بالخير على تعبك.",
+  "ex_tr": "allah yjāzīk bilkhēr 3la ta3bik.",
+  "ex_en": "May God reward you for your trouble.",
+  "phrases": [
+   {
+    "ar": "الله يجازيك بالخير",
+    "tr": "allah yjāzīk bilkhēr",
+    "en": "God reward you with good"
+   },
+   {
+    "ar": "الله يجازيكم",
+    "tr": "allah yjāzīkum",
+    "en": "God reward you all"
+   }
+  ]
+ },
+ {
+  "ar": "بارك الله فيك",
+  "tr": "bārak allah fīk",
+  "en": "God bless you; thank you",
+  "msa": "بارك الله فيك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "بارك الله فيك على المساعدة.",
+  "ex_tr": "bārak allah fīk 3al-musā3da.",
+  "ex_en": "God bless you for the help.",
+  "phrases": [
+   {
+    "ar": "وفيك بارك الله",
+    "tr": "w-fīk bārak allah",
+    "en": "and God bless you too (reply)"
+   },
+   {
+    "ar": "بارك الله فيكم",
+    "tr": "bārak allah fīkum",
+    "en": "God bless you all"
+   }
+  ]
+ },
+ {
+  "ar": "جزاك الله خير",
+  "tr": "jazāk allah khēr",
+  "en": "may God reward you with good; thanks",
+  "msa": "جزاك الله خيراً",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "جزاك الله خير يا شيخ.",
+  "ex_tr": "jazāk allah khēr ya shēkh.",
+  "ex_en": "May God reward you, sheikh.",
+  "phrases": [
+   {
+    "ar": "وإياك",
+    "tr": "w-iyyāk",
+    "en": "and you too (reply)"
+   },
+   {
+    "ar": "جزاكم الله خير",
+    "tr": "jazākum allah khēr",
+    "en": "God reward you all"
+   }
+  ]
+ },
+ {
+  "ar": "الله يكثر خيرك",
+  "tr": "allah ykaththir khērik",
+  "en": "thank you so much (lit. may God increase your goodness)",
+  "msa": "الله يكثر خيرك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "الله يكثر خيرك، ما قصرتش.",
+  "ex_tr": "allah ykaththir khērik, ma gaSSartsh.",
+  "ex_en": "Thank you so much, you've done more than enough.",
+  "phrases": [
+   {
+    "ar": "يكثر خيرك",
+    "tr": "ykaththir khērik",
+    "en": "thanks a lot"
+   },
+   {
+    "ar": "الله يكثر خيركم",
+    "tr": "allah ykaththir khērkum",
+    "en": "thanks so much (pl.)"
+   }
+  ]
+ },
+ {
+  "ar": "ما قصرتش",
+  "tr": "ma gaSSartsh",
+  "en": "you've done plenty; thank you (lit. you didn't fall short)",
+  "msa": "لم تقصر",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "شكرا يا خوي، ما قصرتش.",
+  "ex_tr": "shukran ya khūy, ma gaSSartsh.",
+  "ex_en": "Thanks bro, you did more than enough.",
+  "phrases": [
+   {
+    "ar": "ما قصرتوش",
+    "tr": "ma gaSSartūsh",
+    "en": "you all did plenty"
+   },
+   {
+    "ar": "والله ما قصرت",
+    "tr": "walla ma gaSSart",
+    "en": "honestly, you did a lot"
+   }
+  ]
+ },
+ {
+  "ar": "تعيش",
+  "tr": "t3īsh",
+  "en": "thanks; cheers (lit. may you live)",
+  "msa": "شكراً",
+  "pos": "interj",
+  "cat": "social",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "تعيش يا خوي.",
+  "ex_tr": "t3īsh ya khūy.",
+  "ex_en": "Thanks, bro.",
+  "note": "very common Libyan/Tunisian 'thank you'",
+  "phrases": [
+   {
+    "ar": "تعيشي",
+    "tr": "t3īshi",
+    "en": "thanks (to a woman)"
+   },
+   {
+    "ar": "تعيشوا",
+    "tr": "t3īshu",
+    "en": "thanks (to several)"
+   }
+  ]
+ },
+ {
+  "ar": "الله يرضى عليك",
+  "tr": "allah yarDa 3alēk",
+  "en": "God bless you (from parents/elders); please",
+  "msa": "رضي الله عنك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "الله يرضى عليك يا وليدي.",
+  "ex_tr": "allah yarDa 3alēk ya wlīdi.",
+  "ex_en": "God bless you, my son.",
+  "phrases": [
+   {
+    "ar": "الله يرضى عليك جيبلي مية",
+    "tr": "allah yarDa 3alēk jībli mayya",
+    "en": "bless you, bring me some water"
+   },
+   {
+    "ar": "الله يرضى عليكم",
+    "tr": "allah yarDa 3alēkum",
+    "en": "God bless you all"
+   }
+  ]
+ },
+ {
+  "ar": "الله يسعدك",
+  "tr": "allah yis3dik",
+  "en": "may God make you happy; thank you",
+  "msa": "أسعدك الله",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "الله يسعدك على الكلام الحلو.",
+  "ex_tr": "allah yis3dik 3al-klām il7ilu.",
+  "ex_en": "May God make you happy for those kind words.",
+  "phrases": [
+   {
+    "ar": "الله يسعدكم",
+    "tr": "allah yis3dkum",
+    "en": "may God make you all happy"
+   },
+   {
+    "ar": "الله يسعد أيامك",
+    "tr": "allah yis3id iyyāmik",
+    "en": "may God brighten your days"
+   }
+  ]
+ },
+ {
+  "ar": "الله يسترك",
+  "tr": "allah yustrik",
+  "en": "may God protect you (keep your honour)",
+  "msa": "سترك الله",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الله يسترك دنيا وآخرة.",
+  "ex_tr": "allah yustrik dunya w-ākhra.",
+  "ex_en": "May God protect you in this life and the next.",
+  "phrases": [
+   {
+    "ar": "الله يستر عليك",
+    "tr": "allah yustur 3alēk",
+    "en": "may God cover your faults"
+   },
+   {
+    "ar": "الله يسترها",
+    "tr": "allah yustur-ha",
+    "en": "may God keep it safe"
+   }
+  ]
+ },
+ {
+  "ar": "ربي يعينك",
+  "tr": "rabbi y3īnik",
+  "en": "may God help you (with a hard task)",
+  "msa": "أعانك الله",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "عندك امتحانات؟ ربي يعينك.",
+  "ex_tr": "3andik imti7ānāt? rabbi y3īnik.",
+  "ex_en": "You have exams? May God help you.",
+  "phrases": [
+   {
+    "ar": "ربي يعينكم",
+    "tr": "rabbi y3īnkum",
+    "en": "may God help you all"
+   },
+   {
+    "ar": "الله يعين",
+    "tr": "allah y3īn",
+    "en": "God help (us)"
+   }
+  ]
+ },
+ {
+  "ar": "ربي يسهل",
+  "tr": "rabbi ysahhil",
+  "en": "may God make it easy (also polite refusal to a beggar or seller)",
+  "msa": "الله ييسر",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "ما عنديش فكة، ربي يسهل.",
+  "ex_tr": "ma 3andīsh fakka, rabbi ysahhil.",
+  "ex_en": "I have no change, may God provide.",
+  "phrases": [
+   {
+    "ar": "ربي يسهل عليك",
+    "tr": "rabbi ysahhil 3alēk",
+    "en": "may God make it easy for you"
+   },
+   {
+    "ar": "ربي يسهل أمورك",
+    "tr": "rabbi ysahhil umūrik",
+    "en": "may God ease your affairs"
+   }
+  ]
+ },
+ {
+  "ar": "ربي يجيب الخير",
+  "tr": "rabbi yjīb ilkhēr",
+  "en": "hopefully it'll turn out well",
+  "msa": "عسى الله يأتي بالخير",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "الدنيا صعيبة، ربي يجيب الخير.",
+  "ex_tr": "iddunya Sa3ība, rabbi yjīb ilkhēr.",
+  "ex_en": "Times are hard, hopefully things will get better.",
+  "phrases": [
+   {
+    "ar": "إن شاء الله ربي يجيب الخير",
+    "tr": "inshallah rabbi yjīb ilkhēr",
+    "en": "God willing, good will come"
+   },
+   {
+    "ar": "ربي يجيب اللي فيه الخير",
+    "tr": "rabbi yjīb illi fīh ilkhēr",
+    "en": "may God bring what's best"
+   }
+  ]
+ },
+ {
+  "ar": "الله يسامحك",
+  "tr": "allah ysām7ik",
+  "en": "may God forgive you; (mild) how could you",
+  "msa": "سامحك الله",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "الله يسامحك، كسرت قلبي.",
+  "ex_tr": "allah ysām7ik, kassart galbi.",
+  "ex_en": "May God forgive you, you broke my heart.",
+  "phrases": [
+   {
+    "ar": "الله يسامحكم",
+    "tr": "allah ysām7kum",
+    "en": "may God forgive you all"
+   },
+   {
+    "ar": "مسامح، الله يسامحك",
+    "tr": "msāme7, allah ysām7ik",
+    "en": "forgiven, may God forgive you"
+   }
+  ]
+ },
+ {
+  "ar": "اسم الله عليك",
+  "tr": "ism allah 3alēk",
+  "en": "God protect you (when a child falls or to ward off the evil eye)",
+  "msa": "بسم الله عليك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "اسم الله عليك، طحت؟",
+  "ex_tr": "ism allah 3alēk, Ti7t?",
+  "ex_en": "God protect you, did you fall?",
+  "phrases": [
+   {
+    "ar": "اسم الله عليه",
+    "tr": "ism allah 3alēh",
+    "en": "God protect him"
+   },
+   {
+    "ar": "اسم الله عليها، كبرت",
+    "tr": "ism allah 3alēha, kibrat",
+    "en": "God bless her, she's grown"
+   }
+  ]
+ },
+ {
+  "ar": "الله يحفظه",
+  "tr": "allah ya7fDHa",
+  "en": "God protect him (praising a child, to avert the evil eye)",
+  "msa": "حفظه الله",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "ولدك شاطر، الله يحفظه.",
+  "ex_tr": "wildik shāTir, allah ya7fDHa.",
+  "ex_en": "Your son is clever, God protect him.",
+  "phrases": [
+   {
+    "ar": "الله يحفظهم",
+    "tr": "allah ya7fDHhum",
+    "en": "God protect them"
+   },
+   {
+    "ar": "الله يحفظها",
+    "tr": "allah ya7fDHha",
+    "en": "God protect her"
+   }
+  ]
+ },
+ {
+  "ar": "عين الحسود فيها عود",
+  "tr": "3ēn il7asūd fīha 3ūd",
+  "en": "may the envious eye get a stick in it (against envy)",
+  "msa": "عين الحاسد",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "ما شاء الله، عين الحسود فيها عود.",
+  "ex_tr": "mashallah, 3ēn il7asūd fīha 3ūd.",
+  "ex_en": "Wonderful — and may the envious eye be poked.",
+  "phrases": [
+   {
+    "ar": "من عين الحسود",
+    "tr": "min 3ēn il7asūd",
+    "en": "from the envious eye"
+   },
+   {
+    "ar": "الله يبعد عليك العين",
+    "tr": "allah yib3id 3alēk il3ēn",
+    "en": "may God keep the evil eye away from you"
+   }
+  ]
+ },
+ {
+  "ar": "لا حول ولا قوة إلا بالله",
+  "tr": "lā 7awla wa lā quwwata illā billāh",
+  "en": "there is no power but with God (dismay, patience)",
+  "msa": "لا حول ولا قوة إلا بالله",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "لا حول ولا قوة إلا بالله، الضي طاح مرة ثانية.",
+  "ex_tr": "lā 7awla wa lā quwwata illā billāh, iDDaw Tā7 marra thānya.",
+  "ex_en": "God give me strength, the power's gone again.",
+  "phrases": [
+   {
+    "ar": "لا حول الله",
+    "tr": "lā 7ōl allah",
+    "en": "God help us (short)"
+   },
+   {
+    "ar": "قال لا حول ولا قوة",
+    "tr": "gāl lā 7awla wa lā quwwa",
+    "en": "he sighed 'no power but God'"
+   }
+  ]
+ },
+ {
+  "ar": "حسبي الله ونعم الوكيل",
+  "tr": "7asbiya allah wa ni3ma ilwakīl",
+  "en": "God is enough for me (said when wronged)",
+  "msa": "حسبي الله ونعم الوكيل",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "سرقوا سيارتي، حسبي الله ونعم الوكيل.",
+  "ex_tr": "sargu sayyārti, 7asbiya allah wa ni3ma ilwakīl.",
+  "ex_en": "They stole my car — God is my recourse.",
+  "phrases": [
+   {
+    "ar": "حسبي الله عليه",
+    "tr": "7asbiya allah 3alēh",
+    "en": "God will deal with him"
+   },
+   {
+    "ar": "حسبنا الله",
+    "tr": "7asbuna allah",
+    "en": "God is enough for us"
+   }
+  ]
+ },
+ {
+  "ar": "توكل على الله",
+  "tr": "twakkal 3la allah",
+  "en": "go ahead, trust in God",
+  "msa": "توكل على الله",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "تبي تفتح محل؟ توكل على الله.",
+  "ex_tr": "tibbi tifta7 ma7all? twakkal 3la allah.",
+  "ex_en": "You want to open a shop? Go for it, trust God.",
+  "phrases": [
+   {
+    "ar": "توكلنا على الله",
+    "tr": "twakkalna 3la allah",
+    "en": "we put our trust in God (let's go)"
+   },
+   {
+    "ar": "توكلي على الله",
+    "tr": "twakkli 3la allah",
+    "en": "go ahead (to a woman)"
+   }
+  ]
+ },
+ {
+  "ar": "على بركة الله",
+  "tr": "3la barakat allah",
+  "en": "with God's blessing; let's get going",
+  "msa": "على بركة الله",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "يلا، على بركة الله.",
+  "ex_tr": "yalla, 3la barakat allah.",
+  "ex_en": "Come on, with God's blessing.",
+  "phrases": [
+   {
+    "ar": "نبدوا على بركة الله",
+    "tr": "nibdu 3la barakat allah",
+    "en": "let's start with God's blessing"
+   },
+   {
+    "ar": "امشي على بركة الله",
+    "tr": "imshi 3la barakat allah",
+    "en": "go, with God's blessing"
+   }
+  ]
+ },
+ {
+  "ar": "الله أكبر",
+  "tr": "allāhu akbar",
+  "en": "God is great (also: wow!, outrage)",
+  "msa": "الله أكبر",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "الله أكبر! جيبنا قول!",
+  "ex_tr": "allāhu akbar! jibna gōl!",
+  "ex_en": "God is great! We scored a goal!",
+  "phrases": [
+   {
+    "ar": "الله أكبر عليك",
+    "tr": "allāhu akbar 3alēk",
+    "en": "God is greater than you (anger)"
+   },
+   {
+    "ar": "الله أكبر، شن هالجمال",
+    "tr": "allāhu akbar, shin hajjamāl",
+    "en": "God is great, such beauty"
+   }
+  ]
+ },
+ {
+  "ar": "لا إله إلا الله",
+  "tr": "lā ilāha illa allah",
+  "en": "there is no god but God (exasperation, calming down)",
+  "msa": "لا إله إلا الله",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "لا إله إلا الله، شن هالمشكلة!",
+  "ex_tr": "lā ilāha illa allah, shin halmushkila!",
+  "ex_en": "Good grief, what a problem!",
+  "phrases": [
+   {
+    "ar": "وحّد الله",
+    "tr": "wa77id allah",
+    "en": "calm down (say 'God is one')"
+   },
+   {
+    "ar": "لا إله إلا الله محمد رسول الله",
+    "tr": "lā ilāha illa allah mu7ammad rasūl allah",
+    "en": "the declaration of faith"
+   }
+  ]
+ },
+ {
+  "ar": "صلي على النبي",
+  "tr": "Salli 3la innabi",
+  "en": "calm down (lit. pray upon the Prophet)",
+  "msa": "صلّ على النبي",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "صلي على النبي وما تزعلش.",
+  "ex_tr": "Salli 3la innabi w-ma tiz3alsh.",
+  "ex_en": "Calm down and don't get upset.",
+  "phrases": [
+   {
+    "ar": "عليه الصلاة والسلام",
+    "tr": "3alēh iSSalā wissalām",
+    "en": "peace be upon him (reply)"
+   },
+   {
+    "ar": "صلوا على النبي",
+    "tr": "Sallu 3la innabi",
+    "en": "calm down, everyone"
+   }
+  ]
+ },
+ {
+  "ar": "أعوذ بالله",
+  "tr": "a3ūdhu billāh",
+  "en": "God forbid; I seek refuge in God",
+  "msa": "أعوذ بالله",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "أعوذ بالله، شن هالريحة!",
+  "ex_tr": "a3ūdhu billāh, shin harrī7a!",
+  "ex_en": "God help us, what a smell!",
+  "phrases": [
+   {
+    "ar": "أعوذ بالله منك",
+    "tr": "a3ūdhu billāh minnik",
+    "en": "God save me from you"
+   },
+   {
+    "ar": "أعوذ بالله من الشيطان",
+    "tr": "a3ūdhu billāh min ishshēTān",
+    "en": "I seek refuge from Satan"
+   }
+  ]
+ },
+ {
+  "ar": "لا قدر الله",
+  "tr": "lā gaddar allah",
+  "en": "God forbid",
+  "msa": "لا قدر الله",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "لو صار شي، لا قدر الله، كلمني.",
+  "ex_tr": "lu Sār shay, lā gaddar allah, kallimni.",
+  "ex_en": "If anything happens, God forbid, call me.",
+  "phrases": [
+   {
+    "ar": "لا قدر الله ولا سمح",
+    "tr": "lā gaddar allah wala sma7",
+    "en": "God forbid and never allow it"
+   },
+   {
+    "ar": "مريض؟ لا قدر الله",
+    "tr": "marīD? lā gaddar allah",
+    "en": "ill? God forbid"
+   }
+  ]
+ },
+ {
+  "ar": "الله يستر",
+  "tr": "allah yustur",
+  "en": "God help us; let's hope nothing bad happens",
+  "msa": "الله يستر",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "الجو خايب، الله يستر.",
+  "ex_tr": "ijjaww khāyib, allah yustur.",
+  "ex_en": "The weather's bad, God help us.",
+  "phrases": [
+   {
+    "ar": "الله يستر من الجاي",
+    "tr": "allah yustur min ijjāy",
+    "en": "God protect us from what's coming"
+   },
+   {
+    "ar": "ربي يستر",
+    "tr": "rabbi yustur",
+    "en": "God keep us safe"
+   }
+  ]
+ },
+ {
+  "ar": "الله أعلم",
+  "tr": "allah a3lam",
+  "en": "God knows best; who knows",
+  "msa": "الله أعلم",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 62,
+  "ex_ar": "يجي ولا لا؟ الله أعلم.",
+  "ex_tr": "yiji walla lā? allah a3lam.",
+  "ex_en": "Will he come or not? Who knows.",
+  "phrases": [
+   {
+    "ar": "والله أعلم",
+    "tr": "wallah a3lam",
+    "en": "and God knows best"
+   },
+   {
+    "ar": "الله أعلم بحاله",
+    "tr": "allah a3lam b-7āla",
+    "en": "God knows what he's going through"
+   }
+  ]
+ },
+ {
+  "ar": "الحمد لله على كل حال",
+  "tr": "il7amdulillah 3la kull 7āl",
+  "en": "thank God in any case (accepting hardship)",
+  "msa": "الحمد لله على كل حال",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "الدنيا صعيبة، الحمد لله على كل حال.",
+  "ex_tr": "iddunya Sa3ība, il7amdulillah 3la kull 7āl.",
+  "ex_en": "Life's hard, but thank God for everything.",
+  "phrases": [
+   {
+    "ar": "نحمدوا الله على كل حال",
+    "tr": "ni7mdu allah 3la kull 7āl",
+    "en": "we thank God whatever happens"
+   },
+   {
+    "ar": "كيف الحال؟ الحمد لله على كل حال",
+    "tr": "kīf il7āl? il7amdulillah 3la kull 7āl",
+    "en": "how are you? thank God, all things considered"
+   }
+  ]
+ },
+ {
+  "ar": "قدر الله وما شاء فعل",
+  "tr": "qaddar allah wa ma shā' fa3al",
+  "en": "God decreed and did as He willed (accepting misfortune)",
+  "msa": "قدر الله وما شاء فعل",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "خسرنا، قدر الله وما شاء فعل.",
+  "ex_tr": "khsirna, qaddar allah wa ma shā' fa3al.",
+  "ex_en": "We lost — it was God's will.",
+  "phrases": [
+   {
+    "ar": "قدر الله",
+    "tr": "qaddar allah",
+    "en": "it was God's decree"
+   },
+   {
+    "ar": "هذا قدر الله",
+    "tr": "hādha gadar allah",
+    "en": "this is fate"
+   }
+  ]
+ },
+ {
+  "ar": "كل شي قسمة ونصيب",
+  "tr": "kull shay gisma w-naSīb",
+  "en": "everything is fate and destiny",
+  "msa": "كل شيء قسمة ونصيب",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "ما تزعلش، كل شي قسمة ونصيب.",
+  "ex_tr": "ma tiz3alsh, kull shay gisma w-naSīb.",
+  "ex_en": "Don't be sad, everything is destiny.",
+  "phrases": [
+   {
+    "ar": "قسمة ونصيب",
+    "tr": "gisma w-naSīb",
+    "en": "fate and destiny (often about marriage)"
+   },
+   {
+    "ar": "ما فيش نصيب",
+    "tr": "ma fīsh naSīb",
+    "en": "it wasn't meant to be"
+   }
+  ]
+ },
+ {
+  "ar": "لو سمحت",
+  "tr": "lu sma7t",
+  "en": "please; excuse me",
+  "msa": "لو سمحت",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 66,
+  "ex_ar": "لو سمحت، وين المحطة؟",
+  "ex_tr": "lu sma7t, wīn ilma7aTTa?",
+  "ex_en": "Excuse me, where's the station?",
+  "phrases": [
+   {
+    "ar": "لو سمحتي",
+    "tr": "lu sma7ti",
+    "en": "excuse me (to a woman)"
+   },
+   {
+    "ar": "وسع شوية لو سمحت",
+    "tr": "wassa3 shwayya lu sma7t",
+    "en": "make some room, please"
+   }
+  ]
+ },
+ {
+  "ar": "من فضلك",
+  "tr": "min faDlik",
+  "en": "please",
+  "msa": "من فضلك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "عطيني الملح من فضلك.",
+  "ex_tr": "3Tīni ilmal7 min faDlik.",
+  "ex_en": "Pass me the salt, please.",
+  "phrases": [
+   {
+    "ar": "من فضلكم",
+    "tr": "min faDlkum",
+    "en": "please (pl.)"
+   },
+   {
+    "ar": "استنى من فضلك",
+    "tr": "istanna min faDlik",
+    "en": "wait, please"
+   }
+  ]
+ },
+ {
+  "ar": "بعد إذنك",
+  "tr": "ba3d idhnik",
+  "en": "excuse me; with your permission",
+  "msa": "بعد إذنك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "بعد إذنك، نبي نعدي.",
+  "ex_tr": "ba3d idhnik, nibbi n3addi.",
+  "ex_en": "Excuse me, I'd like to get by.",
+  "phrases": [
+   {
+    "ar": "بعد إذنكم نمشي",
+    "tr": "ba3d idhnkum nimshi",
+    "en": "with your permission, I'll leave"
+   },
+   {
+    "ar": "عن إذنك",
+    "tr": "3an idhnik",
+    "en": "excuse me (leaving)"
+   }
+  ]
+ },
+ {
+  "ar": "اسمحلي",
+  "tr": "ismi7li",
+  "en": "excuse me; allow me; forgive me",
+  "msa": "اسمح لي",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "اسمحلي، ما فهمتش.",
+  "ex_tr": "ismi7li, ma fhimtsh.",
+  "ex_en": "Excuse me, I didn't understand.",
+  "phrases": [
+   {
+    "ar": "اسمحلي نقولك",
+    "tr": "ismi7li ngullik",
+    "en": "allow me to tell you"
+   },
+   {
+    "ar": "اسمحيلي",
+    "tr": "ismi7īli",
+    "en": "excuse me (to a woman)"
+   }
+  ]
+ },
+ {
+  "ar": "لا مؤاخذة",
+  "tr": "lā mu'ākhdha",
+  "en": "pardon me; no offence",
+  "msa": "لا مؤاخذة",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "لا مؤاخذة، تأخرت شوية.",
+  "ex_tr": "lā mu'ākhdha, t'akhkhart shwayya.",
+  "ex_en": "Pardon me, I'm a bit late.",
+  "phrases": [
+   {
+    "ar": "لا مؤاخذة على الإزعاج",
+    "tr": "lā mu'ākhdha 3al-iz3āj",
+    "en": "sorry for the bother"
+   },
+   {
+    "ar": "لا مؤاخذة يا حاج",
+    "tr": "lā mu'ākhdha ya 7ājj",
+    "en": "excuse me, sir"
+   }
+  ]
+ },
+ {
+  "ar": "آسف",
+  "tr": "āsif",
+  "en": "sorry",
+  "msa": "آسف",
+  "pos": "adj",
+  "cat": "social",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "آسف، ما شفتكش.",
+  "ex_tr": "āsif, ma shuftiksh.",
+  "ex_en": "Sorry, I didn't see you.",
+  "phrases": [
+   {
+    "ar": "آسفة",
+    "tr": "āsfa",
+    "en": "sorry (woman speaking)"
+   },
+   {
+    "ar": "آسف على التأخير",
+    "tr": "āsif 3at-ta'khīr",
+    "en": "sorry for the delay"
+   }
+  ]
+ },
+ {
+  "ar": "ما قصدتش",
+  "tr": "ma gaSadtsh",
+  "en": "I didn't mean it",
+  "msa": "لم أقصد",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "سامحني، ما قصدتش.",
+  "ex_tr": "sām7ni, ma gaSadtsh.",
+  "ex_en": "Forgive me, I didn't mean it.",
+  "phrases": [
+   {
+    "ar": "ما قصدتش نزعلك",
+    "tr": "ma gaSadtsh nza33lik",
+    "en": "I didn't mean to upset you"
+   },
+   {
+    "ar": "والله ما قصدتش",
+    "tr": "walla ma gaSadtsh",
+    "en": "I swear I didn't mean it"
+   }
+  ]
+ },
+ {
+  "ar": "تحت أمرك",
+  "tr": "ta7t amrik",
+  "en": "at your service; as you wish",
+  "msa": "تحت أمرك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "أي حاجة تبيها، تحت أمرك.",
+  "ex_tr": "ayy 7āja tibbīha, ta7t amrik.",
+  "ex_en": "Anything you want, I'm at your service.",
+  "phrases": [
+   {
+    "ar": "تحت أمركم",
+    "tr": "ta7t amrkum",
+    "en": "at your service (pl.)"
+   },
+   {
+    "ar": "أنا تحت أمرك",
+    "tr": "āna ta7t amrik",
+    "en": "I'm at your disposal"
+   }
+  ]
+ },
+ {
+  "ar": "في خدمتك",
+  "tr": "fi khidmtik",
+  "en": "at your service",
+  "msa": "في خدمتك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "شكرا! — في خدمتك.",
+  "ex_tr": "shukran! — fi khidmtik.",
+  "ex_en": "Thanks! — At your service.",
+  "phrases": [
+   {
+    "ar": "ديما في خدمتك",
+    "tr": "dīma fi khidmtik",
+    "en": "always at your service"
+   },
+   {
+    "ar": "في خدمتكم",
+    "tr": "fi khidmatkum",
+    "en": "at your service (pl.)"
+   }
+  ]
+ },
+ {
+  "ar": "لا شكراً",
+  "tr": "lā shukran",
+  "en": "no thank you",
+  "msa": "لا شكراً",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "تبي شاهي؟ — لا شكراً.",
+  "ex_tr": "tibbi shāhi? — lā shukran.",
+  "ex_en": "Want tea? — No thanks.",
+  "phrases": [
+   {
+    "ar": "لا شكراً، شبعت",
+    "tr": "lā shukran, shba3t",
+    "en": "no thanks, I'm full"
+   },
+   {
+    "ar": "لا شكراً، الله يخليك",
+    "tr": "lā shukran, allah ykhallīk",
+    "en": "no thanks, kind of you"
+   }
+  ]
+ },
+ {
+  "ar": "ما نبيش",
+  "tr": "ma nibbīsh",
+  "en": "I don't want (it); no thanks",
+  "msa": "لا أريد",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 2,
+  "usage": 72,
+  "ex_ar": "ما نبيش، شبعت.",
+  "ex_tr": "ma nibbīsh, shba3t.",
+  "ex_en": "I don't want any, I'm full.",
+  "phrases": [
+   {
+    "ar": "ما نبيش نمشي",
+    "tr": "ma nibbīsh nimshi",
+    "en": "I don't want to go"
+   },
+   {
+    "ar": "ما نبيش منك حاجة",
+    "tr": "ma nibbīsh minnik 7āja",
+    "en": "I want nothing from you"
+   }
+  ]
+ },
+ {
+  "ar": "مش لازم",
+  "tr": "mush lāzim",
+  "en": "not necessary; no need",
+  "msa": "ليس ضرورياً",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 64,
+  "ex_ar": "مش لازم تجي، نقدر بروحي.",
+  "ex_tr": "mush lāzim tiji, nigdar b-rū7i.",
+  "ex_en": "You don't need to come, I can manage.",
+  "phrases": [
+   {
+    "ar": "مش لازم اليوم",
+    "tr": "mush lāzim ilyōm",
+    "en": "not necessarily today"
+   },
+   {
+    "ar": "لا لا، مش لازم",
+    "tr": "lā lā, mush lāzim",
+    "en": "no no, no need"
+   }
+  ]
+ },
+ {
+  "ar": "ما فيش داعي",
+  "tr": "ma fīsh dā3i",
+  "en": "there's no need; don't bother",
+  "msa": "لا داعي",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "ما فيش داعي تتعب روحك.",
+  "ex_tr": "ma fīsh dā3i tit3ab rū7ik.",
+  "ex_en": "No need to trouble yourself.",
+  "phrases": [
+   {
+    "ar": "ما فيش داعي للزعل",
+    "tr": "ma fīsh dā3i lizza3al",
+    "en": "no need to be upset"
+   },
+   {
+    "ar": "لا، ما فيش داعي",
+    "tr": "lā, ma fīsh dā3i",
+    "en": "no, don't bother"
+   }
+  ]
+ },
+ {
+  "ar": "مرة أخرى إن شاء الله",
+  "tr": "marra ukhra inshallah",
+  "en": "maybe another time (polite refusal)",
+  "msa": "مرة أخرى إن شاء الله",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "اليوم ما نقدرش، مرة أخرى إن شاء الله.",
+  "ex_tr": "ilyōm ma nigdarsh, marra ukhra inshallah.",
+  "ex_en": "I can't today, another time God willing.",
+  "phrases": [
+   {
+    "ar": "خليها مرة أخرى",
+    "tr": "khallīha marra ukhra",
+    "en": "let's leave it for another time"
+   },
+   {
+    "ar": "مرة أخرى يا خوي",
+    "tr": "marra ukhra ya khūy",
+    "en": "another time, bro"
+   }
+  ]
+ },
+ {
+  "ar": "خليها على ربي",
+  "tr": "khallīha 3la rabbi",
+  "en": "leave it to God; let it go",
+  "msa": "دعها على الله",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "ما تفكرش، خليها على ربي.",
+  "ex_tr": "ma tfakkirsh, khallīha 3la rabbi.",
+  "ex_en": "Don't think about it, leave it to God.",
+  "phrases": [
+   {
+    "ar": "خليناها على ربي",
+    "tr": "khallīnāha 3la rabbi",
+    "en": "we left it to God"
+   },
+   {
+    "ar": "خليها على الله",
+    "tr": "khallīha 3la allah",
+    "en": "leave it in God's hands"
+   }
+  ]
+ },
+ {
+  "ar": "خليها عليا",
+  "tr": "khallīha 3layya",
+  "en": "leave it to me; it's on me (I'll pay)",
+  "msa": "دعها علي",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "خليها عليا، أنا نخلص.",
+  "ex_tr": "khallīha 3layya, āna nkhalliS.",
+  "ex_en": "Leave it to me, I'll pay.",
+  "phrases": [
+   {
+    "ar": "لا لا، خليها عليا المرة هذي",
+    "tr": "lā lā, khallīha 3layya ilmarra hādhi",
+    "en": "no no, this one's on me"
+   },
+   {
+    "ar": "خليها عليا نصلحها",
+    "tr": "khallīha 3layya nSalla7ha",
+    "en": "leave it to me, I'll fix it"
+   }
+  ]
+ },
+ {
+  "ar": "قداش تبي",
+  "tr": "gaddāsh tibbi",
+  "en": "how much do you want (for it)?",
+  "msa": "كم تريد",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "قداش تبي في السيارة؟",
+  "ex_tr": "gaddāsh tibbi fissayyāra?",
+  "ex_en": "How much do you want for the car?",
+  "phrases": [
+   {
+    "ar": "قداش تبي آخر حاجة؟",
+    "tr": "gaddāsh tibbi ākhir 7āja?",
+    "en": "what's your last price?"
+   },
+   {
+    "ar": "قداش تبي فيها؟",
+    "tr": "gaddāsh tibbi fīha?",
+    "en": "how much for it?"
+   }
+  ]
+ },
+ {
+  "ar": "آخر سوم",
+  "tr": "ākhir sōm",
+  "en": "final price; best price",
+  "msa": "آخر سعر",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "آخر سوم قداش؟",
+  "ex_tr": "ākhir sōm gaddāsh?",
+  "ex_en": "What's the final price?",
+  "phrases": [
+   {
+    "ar": "هذا آخر سوم",
+    "tr": "hādha ākhir sōm",
+    "en": "this is the final price"
+   },
+   {
+    "ar": "قولي آخر سوم",
+    "tr": "gūli ākhir sōm",
+    "en": "tell me your best price"
+   }
+  ]
+ },
+ {
+  "ar": "نقص شوية",
+  "tr": "naggiS shwayya",
+  "en": "lower it a bit; give me a discount",
+  "msa": "خفض قليلاً",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "غالي، نقص شوية.",
+  "ex_tr": "ghāli, naggiS shwayya.",
+  "ex_en": "It's expensive, bring it down a bit.",
+  "phrases": [
+   {
+    "ar": "ما تنقصش شوية؟",
+    "tr": "ma tnaggiSsh shwayya?",
+    "en": "can't you lower it a bit?"
+   },
+   {
+    "ar": "نقصلي عشرة",
+    "tr": "naggiSli 3ashra",
+    "en": "take ten off for me"
+   }
+  ]
+ },
+ {
+  "ar": "غالي هلبة",
+  "tr": "ghāli hallba",
+  "en": "too expensive; that's a lot",
+  "msa": "غالٍ جداً",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "خمسين دينار؟ غالي هلبة!",
+  "ex_tr": "khamsīn dīnār? ghāli hallba!",
+  "ex_en": "Fifty dinars? That's too expensive!",
+  "phrases": [
+   {
+    "ar": "لا، غالي هلبة عليا",
+    "tr": "lā, ghāli hallba 3layya",
+    "en": "no, that's too much for me"
+   },
+   {
+    "ar": "مش غالي هلبة",
+    "tr": "mush ghāli hallba",
+    "en": "not that expensive"
+   }
+  ]
+ },
+ {
+  "ar": "حلال عليك",
+  "tr": "7lāl 3alēk",
+  "en": "it's yours, enjoy it (fair deal / you deserve it)",
+  "msa": "حلال عليك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "خوذها، حلال عليك.",
+  "ex_tr": "khūdhha, 7lāl 3alēk.",
+  "ex_en": "Take it, it's all yours.",
+  "phrases": [
+   {
+    "ar": "حلال عليك يا خوي",
+    "tr": "7lāl 3alēk ya khūy",
+    "en": "you've earned it, bro"
+   },
+   {
+    "ar": "السوم حلال",
+    "tr": "issōm 7lāl",
+    "en": "the price is fair"
+   }
+  ]
+ },
+ {
+  "ar": "الله يربح",
+  "tr": "allah yarba7",
+  "en": "may God give you profit (no deal, said to a seller)",
+  "msa": "الله يرزقك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 36,
+  "ex_ar": "ما نشريش، الله يربح.",
+  "ex_tr": "ma nishrīsh, allah yarba7.",
+  "ex_en": "I won't buy, may God give you profit.",
+  "phrases": [
+   {
+    "ar": "الله يربحك",
+    "tr": "allah yarb7ik",
+    "en": "may God bring you profit"
+   },
+   {
+    "ar": "بالربح إن شاء الله",
+    "tr": "birrib7 inshallah",
+    "en": "with profit, God willing"
+   }
+  ]
+ },
+ {
+  "ar": "كيفك",
+  "tr": "kīfik",
+  "en": "how are you?",
+  "msa": "كيف حالك",
+  "pos": "phrase",
+  "cat": "greetings",
+  "freq": 1,
+  "usage": 86,
+  "ex_ar": "أهلا، كيفك؟",
+  "ex_tr": "ahlan, kīfik?",
+  "ex_en": "Hi, how are you?",
+  "phrases": [
+   {
+    "ar": "كيفك انتي؟",
+    "tr": "kīfik inti?",
+    "en": "how are you (to a woman)?"
+   },
+   {
+    "ar": "كيفكم؟",
+    "tr": "kīfkum?",
+    "en": "how are you all?"
+   },
+   {
+    "ar": "كيفك اليوم؟",
+    "tr": "kīfik ilyōm?",
+    "en": "how are you today?"
+   }
+  ]
+ },
+ {
+  "ar": "شن حالك",
+  "tr": "shin 7ālik",
+  "en": "how are you?",
+  "msa": "ما حالك",
+  "pos": "phrase",
+  "cat": "greetings",
+  "freq": 3,
+  "usage": 66,
+  "ex_ar": "شن حالك يا خوي؟",
+  "ex_tr": "shin 7ālik ya khūy?",
+  "ex_en": "How are you, bro?",
+  "phrases": [
+   {
+    "ar": "شن حالكم؟",
+    "tr": "shin 7ālkum?",
+    "en": "how are you all?"
+   },
+   {
+    "ar": "شن حال الوالدة؟",
+    "tr": "shin 7āl ilwālda?",
+    "en": "how's your mother?"
+   }
+  ]
+ },
+ {
+  "ar": "كيف الحال",
+  "tr": "kīf il7āl",
+  "en": "how's it going?",
+  "msa": "كيف الحال",
+  "pos": "phrase",
+  "cat": "greetings",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "السلام عليكم، كيف الحال؟",
+  "ex_tr": "issalām 3alēkum, kīf il7āl?",
+  "ex_en": "Hello, how's it going?",
+  "phrases": [
+   {
+    "ar": "كيف الحال معاك؟",
+    "tr": "kīf il7āl m3āk?",
+    "en": "how are things with you?"
+   },
+   {
+    "ar": "كيف الحال في الخدمة؟",
+    "tr": "kīf il7āl fil-khidma?",
+    "en": "how's work going?"
+   }
+  ]
+ },
+ {
+  "ar": "ماشي الحال",
+  "tr": "māshi il7āl",
+  "en": "getting by; so-so",
+  "msa": "الحال ماشٍ",
+  "pos": "phrase",
+  "cat": "greetings",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "كيفك؟ — ماشي الحال.",
+  "ex_tr": "kīfik? — māshi il7āl.",
+  "ex_en": "How are you? — Getting by.",
+  "phrases": [
+   {
+    "ar": "الحمد لله ماشي الحال",
+    "tr": "il7amdulillah māshi il7āl",
+    "en": "thank God, getting by"
+   },
+   {
+    "ar": "ماشي الحال، نشكروا ربي",
+    "tr": "māshi il7āl, nushkru rabbi",
+    "en": "getting by, thank God"
+   }
+  ]
+ },
+ {
+  "ar": "نحمدوا الله",
+  "tr": "ni7mdu allah",
+  "en": "we thank God (I'm fine)",
+  "msa": "نحمد الله",
+  "pos": "phrase",
+  "cat": "greetings",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "كيفكم؟ — نحمدوا الله.",
+  "ex_tr": "kīfkum? — ni7mdu allah.",
+  "ex_en": "How are you all? — Thank God, fine.",
+  "phrases": [
+   {
+    "ar": "نحمدوا الله على كل شي",
+    "tr": "ni7mdu allah 3la kull shay",
+    "en": "we thank God for everything"
+   },
+   {
+    "ar": "نشكروا ربي",
+    "tr": "nushkru rabbi",
+    "en": "we thank the Lord"
+   }
+  ]
+ },
+ {
+  "ar": "تمام التمام",
+  "tr": "tamām ittamām",
+  "en": "perfect; couldn't be better",
+  "msa": "على أتم ما يكون",
+  "pos": "phrase",
+  "cat": "greetings",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "كيف الخدمة؟ — تمام التمام.",
+  "ex_tr": "kīf ilkhidma? — tamām ittamām.",
+  "ex_en": "How's work? — Couldn't be better.",
+  "phrases": [
+   {
+    "ar": "كل شي تمام التمام",
+    "tr": "kull shay tamām ittamām",
+    "en": "everything's perfect"
+   },
+   {
+    "ar": "تمام التمام يا خوي",
+    "tr": "tamām ittamām ya khūy",
+    "en": "all perfect, bro"
+   }
+  ]
+ },
+ {
+  "ar": "يا مرحبا",
+  "tr": "ya mar7ba",
+  "en": "welcome!; you're very welcome here",
+  "msa": "يا مرحباً",
+  "pos": "phrase",
+  "cat": "greetings",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "يا مرحبا! تفضل ادخل.",
+  "ex_tr": "ya mar7ba! tfaDDal udkhul.",
+  "ex_en": "Welcome! Please come in.",
+  "phrases": [
+   {
+    "ar": "يا مرحبا بالضيف",
+    "tr": "ya mar7ba bidDēf",
+    "en": "welcome to the guest"
+   },
+   {
+    "ar": "يا مرحبا يا مرحبا",
+    "tr": "ya mar7ba ya mar7ba",
+    "en": "welcome, welcome"
+   }
+  ]
+ },
+ {
+  "ar": "تشرفنا",
+  "tr": "tsharrafna",
+  "en": "nice to meet you; we're honoured",
+  "msa": "تشرفنا",
+  "pos": "phrase",
+  "cat": "greetings",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "أنا محمد. — تشرفنا.",
+  "ex_tr": "āna m7ammad. — tsharrafna.",
+  "ex_en": "I'm Mohammed. — Nice to meet you.",
+  "phrases": [
+   {
+    "ar": "تشرفنا بيك",
+    "tr": "tsharrafna bīk",
+    "en": "honoured to meet you"
+   },
+   {
+    "ar": "تشرفنا بمعرفتك",
+    "tr": "tsharrafna b-ma3riftik",
+    "en": "pleased to make your acquaintance"
+   }
+  ]
+ },
+ {
+  "ar": "الشرف ليا",
+  "tr": "ishsharaf līya",
+  "en": "the honour is mine",
+  "msa": "الشرف لي",
+  "pos": "phrase",
+  "cat": "greetings",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "تشرفنا. — الشرف ليا.",
+  "ex_tr": "tsharrafna. — ishsharaf līya.",
+  "ex_en": "Nice to meet you. — The honour is mine.",
+  "phrases": [
+   {
+    "ar": "لا، الشرف ليا أنا",
+    "tr": "lā, ishsharaf līya āna",
+    "en": "no, the honour is all mine"
+   },
+   {
+    "ar": "الشرف لينا",
+    "tr": "ishsharaf līna",
+    "en": "the honour is ours"
+   }
+  ]
+ },
+ {
+  "ar": "فرصة سعيدة",
+  "tr": "furSa sa3īda",
+  "en": "nice to meet you (lit. a happy opportunity)",
+  "msa": "فرصة سعيدة",
+  "pos": "phrase",
+  "cat": "greetings",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "فرصة سعيدة، نشوفك قريب.",
+  "ex_tr": "furSa sa3īda, nshūfik grayyib.",
+  "ex_en": "Nice to meet you, see you soon.",
+  "phrases": [
+   {
+    "ar": "فرصة سعيدة يا أستاذ",
+    "tr": "furSa sa3īda ya ustādh",
+    "en": "nice to meet you, sir"
+   },
+   {
+    "ar": "وأنا أسعد",
+    "tr": "w-āna as3ad",
+    "en": "the pleasure is mine (reply)"
+   }
+  ]
+ },
+ {
+  "ar": "ربي معاك",
+  "tr": "rabbi m3āk",
+  "en": "God be with you (goodbye)",
+  "msa": "الله معك",
+  "pos": "phrase",
+  "cat": "greetings",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "يلا، ربي معاك.",
+  "ex_tr": "yalla, rabbi m3āk.",
+  "ex_en": "OK then, God be with you.",
+  "phrases": [
+   {
+    "ar": "ربي معاكم",
+    "tr": "rabbi m3ākum",
+    "en": "God be with you all"
+   },
+   {
+    "ar": "الله معاك يا خوي",
+    "tr": "allah m3āk ya khūy",
+    "en": "God be with you, bro"
+   }
+  ]
+ },
+ {
+  "ar": "توصل بالسلامة",
+  "tr": "tūSil bisslāma",
+  "en": "have a safe trip; arrive safely",
+  "msa": "تصل بالسلامة",
+  "pos": "phrase",
+  "cat": "greetings",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "سفرة باهية، توصل بالسلامة.",
+  "ex_tr": "safra bāhya, tūSil bisslāma.",
+  "ex_en": "Have a good trip, arrive safely.",
+  "phrases": [
+   {
+    "ar": "توصلي بالسلامة",
+    "tr": "tūSli bisslāma",
+    "en": "arrive safely (to a woman)"
+   },
+   {
+    "ar": "كلمني لما توصل",
+    "tr": "kallimni lamma tūSil",
+    "en": "call me when you arrive"
+   }
+  ]
+ },
+ {
+  "ar": "ترجع بالسلامة",
+  "tr": "tirja3 bisslāma",
+  "en": "come back safely",
+  "msa": "ترجع بالسلامة",
+  "pos": "phrase",
+  "cat": "greetings",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "مع السلامة، ترجع بالسلامة.",
+  "ex_tr": "ma3a issalāma, tirja3 bisslāma.",
+  "ex_en": "Goodbye, come back safely.",
+  "phrases": [
+   {
+    "ar": "ترجعوا بالسلامة",
+    "tr": "tirj3u bisslāma",
+    "en": "come back safely (pl.)"
+   },
+   {
+    "ar": "ربي يرجعك بالسلامة",
+    "tr": "rabbi yrajj3ik bisslāma",
+    "en": "may God bring you back safely"
+   }
+  ]
+ },
+ {
+  "ar": "رحلة سعيدة",
+  "tr": "ri7la sa3īda",
+  "en": "have a nice trip",
+  "msa": "رحلة سعيدة",
+  "pos": "phrase",
+  "cat": "greetings",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "رحلة سعيدة وما تنساناش.",
+  "ex_tr": "ri7la sa3īda w-ma tinsānāsh.",
+  "ex_en": "Have a nice trip and don't forget us.",
+  "phrases": [
+   {
+    "ar": "رحلة سعيدة يا جماعة",
+    "tr": "ri7la sa3īda ya jmā3a",
+    "en": "have a nice trip, guys"
+   },
+   {
+    "ar": "سفرة سعيدة",
+    "tr": "safra sa3īda",
+    "en": "have a good journey"
+   }
+  ]
+ },
+ {
+  "ar": "باي",
+  "tr": "bāy",
+  "en": "bye",
+  "msa": "وداعاً",
+  "pos": "interj",
+  "cat": "greetings",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "باي، نتلاقوا غدوة.",
+  "ex_tr": "bāy, nitlāgu ghudwa.",
+  "ex_en": "Bye, see you tomorrow.",
+  "phrases": [
+   {
+    "ar": "باي باي",
+    "tr": "bāy bāy",
+    "en": "bye-bye"
+   },
+   {
+    "ar": "يلا باي",
+    "tr": "yalla bāy",
+    "en": "OK, bye"
+   }
+  ]
+ },
+ {
+  "ar": "مين معايا",
+  "tr": "mīn m3āya",
+  "en": "who's this? (on the phone)",
+  "msa": "من المتكلم",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "ألو، مين معايا؟",
+  "ex_tr": "alō, mīn m3āya?",
+  "ex_en": "Hello, who's this?",
+  "phrases": [
+   {
+    "ar": "ألو، معاك أحمد",
+    "tr": "alō, m3āk a7mad",
+    "en": "hello, this is Ahmed"
+   },
+   {
+    "ar": "مين معايا لو سمحت؟",
+    "tr": "mīn m3āya lu sma7t?",
+    "en": "who's speaking, please?"
+   }
+  ]
+ },
+ {
+  "ar": "نسمع فيك",
+  "tr": "nisma3 fīk",
+  "en": "I can hear you; I'm listening",
+  "msa": "أسمعك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "ألو، نسمع فيك، تكلم.",
+  "ex_tr": "alō, nisma3 fīk, itkallam.",
+  "ex_en": "Hello, I can hear you, go ahead.",
+  "phrases": [
+   {
+    "ar": "ما نسمعش فيك",
+    "tr": "ma nisma3sh fīk",
+    "en": "I can't hear you"
+   },
+   {
+    "ar": "تسمع فيا؟",
+    "tr": "tisma3 fīya?",
+    "en": "can you hear me?"
+   }
+  ]
+ },
+ {
+  "ar": "نكلمك بعدين",
+  "tr": "nkallmik ba3dēn",
+  "en": "I'll call you later",
+  "msa": "سأكلمك لاحقاً",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "مشغول توا، نكلمك بعدين.",
+  "ex_tr": "mashghūl tawwa, nkallmik ba3dēn.",
+  "ex_en": "I'm busy now, I'll call you later.",
+  "phrases": [
+   {
+    "ar": "كلمني بعدين",
+    "tr": "kallimni ba3dēn",
+    "en": "call me later"
+   },
+   {
+    "ar": "نكلمك الليلة",
+    "tr": "nkallmik illēla",
+    "en": "I'll call you tonight"
+   }
+  ]
+ },
+ {
+  "ar": "رن عليا",
+  "tr": "rinn 3layya",
+  "en": "give me a ring; call me",
+  "msa": "اتصل بي",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "لما توصل رن عليا.",
+  "ex_tr": "lamma tūSil rinn 3layya.",
+  "ex_en": "When you arrive, give me a ring.",
+  "phrases": [
+   {
+    "ar": "رنيت عليك",
+    "tr": "rannēt 3alēk",
+    "en": "I called you"
+   },
+   {
+    "ar": "رن عليه مرة ثانية",
+    "tr": "rinn 3alēh marra thānya",
+    "en": "ring him again"
+   }
+  ]
+ },
+ {
+  "ar": "الخط مشغول",
+  "tr": "ilkhaTT mashghūl",
+  "en": "the line is busy",
+  "msa": "الخط مشغول",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "رنيت عليه والخط مشغول.",
+  "ex_tr": "rannēt 3alēh wilkhaTT mashghūl.",
+  "ex_en": "I called him and the line was busy.",
+  "phrases": [
+   {
+    "ar": "الخط يقطع",
+    "tr": "ilkhaTT yigTa3",
+    "en": "the line keeps cutting out"
+   },
+   {
+    "ar": "الخط طاح",
+    "tr": "ilkhaTT Tā7",
+    "en": "the call dropped"
+   }
+  ]
+ },
+ {
+  "ar": "لحظة",
+  "tr": "la7Dha",
+  "en": "one moment; just a second",
+  "msa": "لحظة",
+  "pos": "noun",
+  "cat": "time",
+  "freq": 3,
+  "usage": 62,
+  "ex_ar": "لحظة، نجيب القلم.",
+  "ex_tr": "la7Dha, njīb ilgalam.",
+  "ex_en": "One moment, I'll get the pen.",
+  "phrases": [
+   {
+    "ar": "لحظة من فضلك",
+    "tr": "la7Dha min faDlik",
+    "en": "one moment, please"
+   },
+   {
+    "ar": "في لحظة",
+    "tr": "fi la7Dha",
+    "en": "in an instant"
+   }
+  ]
+ },
+ {
+  "ar": "استنى شوية",
+  "tr": "istanna shwayya",
+  "en": "wait a bit; hold on",
+  "msa": "انتظر قليلاً",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 64,
+  "ex_ar": "استنى شوية، نجي معاك.",
+  "ex_tr": "istanna shwayya, nji m3āk.",
+  "ex_en": "Hold on, I'll come with you.",
+  "phrases": [
+   {
+    "ar": "استناني شوية",
+    "tr": "istannāni shwayya",
+    "en": "wait for me a bit"
+   },
+   {
+    "ar": "استنوا شوية",
+    "tr": "istannu shwayya",
+    "en": "wait a bit (pl.)"
+   }
+  ]
+ },
+ {
+  "ar": "عاود",
+  "tr": "3āwid",
+  "en": "say it again; repeat; again",
+  "msa": "أعد",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "ما سمعتش، عاود.",
+  "ex_tr": "ma sma3tsh, 3āwid.",
+  "ex_en": "I didn't hear, say it again.",
+  "phrases": [
+   {
+    "ar": "عاود من الأول",
+    "tr": "3āwid min il-awwil",
+    "en": "start again from the beginning"
+   },
+   {
+    "ar": "عاودها مرة ثانية",
+    "tr": "3āwidha marra thānya",
+    "en": "do it once more"
+   }
+  ]
+ },
+ {
+  "ar": "شن قاعد تدير",
+  "tr": "shin gā3id tdīr",
+  "en": "what are you doing?",
+  "msa": "ماذا تفعل",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 3,
+  "usage": 66,
+  "ex_ar": "شن قاعد تدير توا؟",
+  "ex_tr": "shin gā3id tdīr tawwa?",
+  "ex_en": "What are you doing right now?",
+  "phrases": [
+   {
+    "ar": "شن قاعدة تديري؟",
+    "tr": "shin gā3da tdīri?",
+    "en": "what are you doing (to a woman)?"
+   },
+   {
+    "ar": "شن قاعدين تديروا؟",
+    "tr": "shin gā3dīn tdīru?",
+    "en": "what are you all doing?"
+   }
+  ]
+ },
+ {
+  "ar": "شن تبي",
+  "tr": "shin tibbi",
+  "en": "what do you want?",
+  "msa": "ماذا تريد",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 2,
+  "usage": 76,
+  "ex_ar": "شن تبي تاكل؟",
+  "ex_tr": "shin tibbi tākul?",
+  "ex_en": "What do you want to eat?",
+  "phrases": [
+   {
+    "ar": "شن تبي مني؟",
+    "tr": "shin tibbi minni?",
+    "en": "what do you want from me?"
+   },
+   {
+    "ar": "شن تبي تشرب؟",
+    "tr": "shin tibbi tishrab?",
+    "en": "what would you like to drink?"
+   }
+  ]
+ },
+ {
+  "ar": "شن رايك",
+  "tr": "shin rāyik",
+  "en": "what do you think?",
+  "msa": "ما رأيك",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 2,
+  "usage": 70,
+  "ex_ar": "شن رايك نمشوا للبحر؟",
+  "ex_tr": "shin rāyik nimshu lil-ba7r?",
+  "ex_en": "What do you think, shall we go to the beach?",
+  "phrases": [
+   {
+    "ar": "شن رايك في الفستان؟",
+    "tr": "shin rāyik fil-fustān?",
+    "en": "what do you think of the dress?"
+   },
+   {
+    "ar": "شن رايكم؟",
+    "tr": "shin rāykum?",
+    "en": "what do you all think?"
+   }
+  ]
+ },
+ {
+  "ar": "شن فيه",
+  "tr": "shin fīh",
+  "en": "what's up?; what's the matter?",
+  "msa": "ماذا هناك",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 3,
+  "usage": 64,
+  "ex_ar": "شن فيه؟ علاش تجري؟",
+  "ex_tr": "shin fīh? 3lāsh tijri?",
+  "ex_en": "What's up? Why are you running?",
+  "phrases": [
+   {
+    "ar": "شن فيه جديد؟",
+    "tr": "shin fīh jdīd?",
+    "en": "what's new?"
+   },
+   {
+    "ar": "شن فيه في التلفزيون؟",
+    "tr": "shin fīh fittilivizyōn?",
+    "en": "what's on TV?"
+   }
+  ]
+ },
+ {
+  "ar": "شن الحكاية",
+  "tr": "shin il7kāya",
+  "en": "what's going on?; what's the story?",
+  "msa": "ما القصة",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "شن الحكاية؟ الكل هني!",
+  "ex_tr": "shin il7kāya? ilkull hni!",
+  "ex_en": "What's going on? Everyone's here!",
+  "phrases": [
+   {
+    "ar": "قولي شن الحكاية",
+    "tr": "gūli shin il7kāya",
+    "en": "tell me what's going on"
+   },
+   {
+    "ar": "الحكاية وما فيها",
+    "tr": "il7kāya w-ma fīha",
+    "en": "the whole story"
+   }
+  ]
+ },
+ {
+  "ar": "شن المشكلة",
+  "tr": "shin ilmushkila",
+  "en": "what's the problem?",
+  "msa": "ما المشكلة",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "شن المشكلة؟ نعاونك؟",
+  "ex_tr": "shin ilmushkila? n3āwnik?",
+  "ex_en": "What's the problem? Can I help?",
+  "phrases": [
+   {
+    "ar": "وين المشكلة؟",
+    "tr": "wīn ilmushkila?",
+    "en": "where's the problem? (so what?)"
+   },
+   {
+    "ar": "المشكلة إنه…",
+    "tr": "ilmushkila inna…",
+    "en": "the problem is that…"
+   }
+  ]
+ },
+ {
+  "ar": "شن دخلك",
+  "tr": "shin dakhlik",
+  "en": "what's it to you?; none of your business",
+  "msa": "ما شأنك",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "شن دخلك إنت؟",
+  "ex_tr": "shin dakhlik inta?",
+  "ex_en": "What's it to you?",
+  "phrases": [
+   {
+    "ar": "مش دخلك",
+    "tr": "mush dakhlik",
+    "en": "it's not your business"
+   },
+   {
+    "ar": "ما عنديش دخل",
+    "tr": "ma 3andīsh dakhl",
+    "en": "it's none of my business"
+   }
+  ]
+ },
+ {
+  "ar": "شن صاير",
+  "tr": "shin Sāyir",
+  "en": "what's happening?; what's going on?",
+  "msa": "ماذا يحدث",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "شن صاير برا؟ فيه حس.",
+  "ex_tr": "shin Sāyir barra? fīh 7iss.",
+  "ex_en": "What's happening outside? There's noise.",
+  "phrases": [
+   {
+    "ar": "شن صاير معاك؟",
+    "tr": "shin Sāyir m3āk?",
+    "en": "what's going on with you?"
+   },
+   {
+    "ar": "ما نعرفش شن صاير",
+    "tr": "ma na3rifsh shin Sāyir",
+    "en": "I don't know what's happening"
+   }
+  ]
+ },
+ {
+  "ar": "كيف صار",
+  "tr": "kīf Sār",
+  "en": "how did it happen?",
+  "msa": "كيف حدث",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "الحادث كيف صار؟",
+  "ex_tr": "il7ādith kīf Sār?",
+  "ex_en": "How did the accident happen?",
+  "phrases": [
+   {
+    "ar": "كيف صار هكي؟",
+    "tr": "kīf Sār hakki?",
+    "en": "how did it end up like this?"
+   },
+   {
+    "ar": "ما نعرفش كيف صار",
+    "tr": "ma na3rifsh kīf Sār",
+    "en": "I don't know how it happened"
+   }
+  ]
+ },
+ {
+  "ar": "علاش هكي",
+  "tr": "3lāsh hakki",
+  "en": "why so?; why like that?",
+  "msa": "لماذا هكذا",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "علاش هكي زعلان؟",
+  "ex_tr": "3lāsh hakki za3lān?",
+  "ex_en": "Why are you so upset?",
+  "phrases": [
+   {
+    "ar": "علاش هكي يا خوي؟",
+    "tr": "3lāsh hakki ya khūy?",
+    "en": "why like this, bro?"
+   },
+   {
+    "ar": "ما نعرفش علاش هكي",
+    "tr": "ma na3rifsh 3lāsh hakki",
+    "en": "I don't know why"
+   }
+  ]
+ },
+ {
+  "ar": "مين قالك",
+  "tr": "mīn gālik",
+  "en": "who told you?",
+  "msa": "من قال لك",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "مين قالك هالكلام؟",
+  "ex_tr": "mīn gālik ha-lklām?",
+  "ex_en": "Who told you that?",
+  "phrases": [
+   {
+    "ar": "مين قالك نبي؟",
+    "tr": "mīn gālik nibbi?",
+    "en": "who said I want to?"
+   },
+   {
+    "ar": "مين قالك هكي؟",
+    "tr": "mīn gālik hakki?",
+    "en": "who told you so?"
+   }
+  ]
+ },
+ {
+  "ar": "شن قصدك",
+  "tr": "shin gaSdik",
+  "en": "what do you mean?",
+  "msa": "ماذا تقصد",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "شن قصدك بهالكلام؟",
+  "ex_tr": "shin gaSdik b-ha-lklām?",
+  "ex_en": "What do you mean by that?",
+  "phrases": [
+   {
+    "ar": "مش قصدي",
+    "tr": "mush gaSdi",
+    "en": "that's not what I meant"
+   },
+   {
+    "ar": "قصدي…",
+    "tr": "gaSdi…",
+    "en": "I mean…"
+   }
+  ]
+ },
+ {
+  "ar": "كيف يعني",
+  "tr": "kīf ya3ni",
+  "en": "how so?; what do you mean?",
+  "msa": "كيف ذلك",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "ما نجيش. — كيف يعني؟",
+  "ex_tr": "ma njīsh. — kīf ya3ni?",
+  "ex_en": "I'm not coming. — What do you mean?",
+  "phrases": [
+   {
+    "ar": "كيف يعني ما تعرفش؟",
+    "tr": "kīf ya3ni ma ta3rifsh?",
+    "en": "what do you mean you don't know?"
+   },
+   {
+    "ar": "يعني كيف؟",
+    "tr": "ya3ni kīf?",
+    "en": "meaning how?"
+   }
+  ]
+ },
+ {
+  "ar": "شن ندير",
+  "tr": "shin ndīr",
+  "en": "what should I do?; what can I do?",
+  "msa": "ماذا أفعل",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "ضاع تلفوني، شن ندير؟",
+  "ex_tr": "Dā3 tilifōni, shin ndīr?",
+  "ex_en": "My phone's lost, what should I do?",
+  "phrases": [
+   {
+    "ar": "شن نديروا توا؟",
+    "tr": "shin ndīru tawwa?",
+    "en": "what do we do now?"
+   },
+   {
+    "ar": "شن ندير معاك؟",
+    "tr": "shin ndīr m3āk?",
+    "en": "what am I to do with you?"
+   }
+  ]
+ },
+ {
+  "ar": "شن الفايدة",
+  "tr": "shin ilfāyda",
+  "en": "what's the point?; what's the use?",
+  "msa": "ما الفائدة",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "شن الفايدة من الهدرة؟",
+  "ex_tr": "shin ilfāyda min il-hadra?",
+  "ex_en": "What's the point of talking?",
+  "phrases": [
+   {
+    "ar": "ما فيش فايدة",
+    "tr": "ma fīsh fāyda",
+    "en": "it's useless"
+   },
+   {
+    "ar": "شن الفايدة توا؟",
+    "tr": "shin ilfāyda tawwa?",
+    "en": "what's the use now?"
+   }
+  ]
+ },
+ {
+  "ar": "شن اسمك",
+  "tr": "shin ismik",
+  "en": "what's your name?",
+  "msa": "ما اسمك",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 3,
+  "usage": 68,
+  "ex_ar": "أهلا، شن اسمك؟",
+  "ex_tr": "ahlan, shin ismik?",
+  "ex_en": "Hi, what's your name?",
+  "phrases": [
+   {
+    "ar": "شن اسمه؟",
+    "tr": "shin isma?",
+    "en": "what's his name?"
+   },
+   {
+    "ar": "شن اسمها بالليبي؟",
+    "tr": "shin ismha billībi?",
+    "en": "what's it called in Libyan?"
+   }
+  ]
+ },
+ {
+  "ar": "منين انت",
+  "tr": "mnīn inta",
+  "en": "where are you from?",
+  "msa": "من أين أنت",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "منين انت؟ من طرابلس؟",
+  "ex_tr": "mnīn inta? min Trābulus?",
+  "ex_en": "Where are you from? Tripoli?",
+  "phrases": [
+   {
+    "ar": "منين انتي؟",
+    "tr": "mnīn inti?",
+    "en": "where are you from (to a woman)?"
+   },
+   {
+    "ar": "منين أصلك؟",
+    "tr": "mnīn aSlik?",
+    "en": "where are you originally from?"
+   }
+  ]
+ },
+ {
+  "ar": "شن تخدم",
+  "tr": "shin tikhdim",
+  "en": "what do you do (for work)?",
+  "msa": "ماذا تعمل",
+  "pos": "phrase",
+  "cat": "questions",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "شن تخدم توا؟",
+  "ex_tr": "shin tikhdim tawwa?",
+  "ex_en": "What do you do now?",
+  "phrases": [
+   {
+    "ar": "وين تخدم؟",
+    "tr": "wīn tikhdim?",
+    "en": "where do you work?"
+   },
+   {
+    "ar": "شن يخدم بوك؟",
+    "tr": "shin yikhdim būk?",
+    "en": "what does your father do?"
+   }
+  ]
+ },
+ {
+  "ar": "يا خوي",
+  "tr": "ya khūy",
+  "en": "bro; hey brother (address)",
+  "msa": "يا أخي",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 2,
+  "usage": 76,
+  "ex_ar": "وين ماشي يا خوي؟",
+  "ex_tr": "wīn māshi ya khūy?",
+  "ex_en": "Where are you going, bro?",
+  "phrases": [
+   {
+    "ar": "شكرا يا خوي",
+    "tr": "shukran ya khūy",
+    "en": "thanks, bro"
+   },
+   {
+    "ar": "اسمع يا خوي",
+    "tr": "isma3 ya khūy",
+    "en": "listen, bro"
+   }
+  ]
+ },
+ {
+  "ar": "يا ختي",
+  "tr": "ya ukhti",
+  "en": "sis; hey sister (address)",
+  "msa": "يا أختي",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "تفضلي يا ختي.",
+  "ex_tr": "tfaDDli ya ukhti.",
+  "ex_en": "Here you go, sister.",
+  "phrases": [
+   {
+    "ar": "كيفك يا ختي؟",
+    "tr": "kīfik ya ukhti?",
+    "en": "how are you, sis?"
+   },
+   {
+    "ar": "لا يا ختي",
+    "tr": "lā ya ukhti",
+    "en": "no, sister"
+   }
+  ]
+ },
+ {
+  "ar": "يا جماعة",
+  "tr": "ya jmā3a",
+  "en": "hey guys; everyone",
+  "msa": "يا جماعة",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 64,
+  "ex_ar": "يا جماعة، الماكلة جاهزة!",
+  "ex_tr": "ya jmā3a, ilmākla jāhza!",
+  "ex_en": "Guys, the food's ready!",
+  "phrases": [
+   {
+    "ar": "اسمعوا يا جماعة",
+    "tr": "isma3u ya jmā3a",
+    "en": "listen, everyone"
+   },
+   {
+    "ar": "يا جماعة الخير",
+    "tr": "ya jmā3t ilkhēr",
+    "en": "good people (polite address)"
+   }
+  ]
+ },
+ {
+  "ar": "يا شباب",
+  "tr": "ya shabāb",
+  "en": "guys; lads",
+  "msa": "يا شباب",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "يلا يا شباب، نمشوا.",
+  "ex_tr": "yalla ya shabāb, nimshu.",
+  "ex_en": "Come on, guys, let's go.",
+  "phrases": [
+   {
+    "ar": "السلام عليكم يا شباب",
+    "tr": "issalām 3alēkum ya shabāb",
+    "en": "hi guys"
+   },
+   {
+    "ar": "شن رايكم يا شباب؟",
+    "tr": "shin rāykum ya shabāb?",
+    "en": "what do you think, guys?"
+   }
+  ]
+ },
+ {
+  "ar": "يا حاج",
+  "tr": "ya 7ājj",
+  "en": "sir (respectful address to an older man)",
+  "msa": "يا حاج",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "تفضل يا حاج، اقعد.",
+  "ex_tr": "tfaDDal ya 7ājj, ug3ud.",
+  "ex_en": "Please, sir, sit down.",
+  "phrases": [
+   {
+    "ar": "كيفك يا حاج؟",
+    "tr": "kīfik ya 7ājj?",
+    "en": "how are you, sir?"
+   },
+   {
+    "ar": "يا حاجة",
+    "tr": "ya 7ājja",
+    "en": "ma'am (to an older woman)"
+   }
+  ]
+ },
+ {
+  "ar": "يا عمي",
+  "tr": "ya 3ammi",
+  "en": "uncle; sir (to an older man)",
+  "msa": "يا عمي",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "يا عمي، وين الجامع؟",
+  "ex_tr": "ya 3ammi, wīn ijjāmi3?",
+  "ex_en": "Excuse me, uncle, where's the mosque?",
+  "phrases": [
+   {
+    "ar": "شكرا يا عمي",
+    "tr": "shukran ya 3ammi",
+    "en": "thanks, uncle"
+   },
+   {
+    "ar": "يا عمي الحاج",
+    "tr": "ya 3ammi il7ājj",
+    "en": "dear sir"
+   }
+  ]
+ },
+ {
+  "ar": "يا خالتي",
+  "tr": "ya khālti",
+  "en": "auntie (to an older woman)",
+  "msa": "يا خالتي",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "تفضلي يا خالتي.",
+  "ex_tr": "tfaDDli ya khālti.",
+  "ex_en": "Here you go, auntie.",
+  "phrases": [
+   {
+    "ar": "كيفك يا خالتي؟",
+    "tr": "kīfik ya khālti?",
+    "en": "how are you, auntie?"
+   },
+   {
+    "ar": "الله يخليك يا خالتي",
+    "tr": "allah ykhallīk ya khālti",
+    "en": "thank you, auntie"
+   }
+  ]
+ },
+ {
+  "ar": "يا حبيبي",
+  "tr": "ya 7abībi",
+  "en": "my dear; buddy",
+  "msa": "يا حبيبي",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 64,
+  "ex_ar": "أهلا يا حبيبي، كيفك؟",
+  "ex_tr": "ahlan ya 7abībi, kīfik?",
+  "ex_en": "Hi, my dear, how are you?",
+  "phrases": [
+   {
+    "ar": "لا يا حبيبي",
+    "tr": "lā ya 7abībi",
+    "en": "no, my friend"
+   },
+   {
+    "ar": "يا حبيبتي",
+    "tr": "ya 7abībti",
+    "en": "my dear (to a woman)"
+   }
+  ]
+ },
+ {
+  "ar": "هاو",
+  "tr": "hāw",
+  "en": "here he/it is; there he is",
+  "msa": "ها هو",
+  "pos": "particle",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "هاو جا!",
+  "ex_tr": "hāw ja!",
+  "ex_en": "Here he comes!",
+  "phrases": [
+   {
+    "ar": "هاو هني",
+    "tr": "hāw hni",
+    "en": "here it is"
+   },
+   {
+    "ar": "هاي هي",
+    "tr": "hāy hiya",
+    "en": "here she is"
+   }
+  ]
+ },
+ {
+  "ar": "هاك",
+  "tr": "hāk",
+  "en": "here, take it",
+  "msa": "خذ",
+  "pos": "interj",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "هاك، هذا متاعك.",
+  "ex_tr": "hāk, hādha mtā3ik.",
+  "ex_en": "Here, take it, this is yours.",
+  "phrases": [
+   {
+    "ar": "هاكي",
+    "tr": "hāki",
+    "en": "here, take it (to a woman)"
+   },
+   {
+    "ar": "هاك المفتاح",
+    "tr": "hāk ilmuftā7",
+    "en": "here's the key"
+   }
+  ]
+ },
+ {
+  "ar": "اللي فات مات",
+  "tr": "illi fāt māt",
+  "en": "let bygones be bygones; what's past is dead",
+  "msa": "ما فات مات",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "خلاص، اللي فات مات.",
+  "ex_tr": "khalāS, illi fāt māt.",
+  "ex_en": "Enough, let bygones be bygones.",
+  "phrases": [
+   {
+    "ar": "انسى، اللي فات مات",
+    "tr": "insa, illi fāt māt",
+    "en": "forget it, the past is past"
+   },
+   {
+    "ar": "نقولوا اللي فات مات",
+    "tr": "ngūlu illi fāt māt",
+    "en": "let's say what's done is done"
+   }
+  ]
+ },
+ {
+  "ar": "الصبر مفتاح الفرج",
+  "tr": "iSSabr miftā7 ilfaraj",
+  "en": "patience is the key to relief",
+  "msa": "الصبر مفتاح الفرج",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "اصبر، الصبر مفتاح الفرج.",
+  "ex_tr": "iSbir, iSSabr miftā7 ilfaraj.",
+  "ex_en": "Be patient — patience is the key to relief.",
+  "phrases": [
+   {
+    "ar": "الصبر طيب",
+    "tr": "iSSabr Tayyib",
+    "en": "patience is good"
+   },
+   {
+    "ar": "ربي يصبرك، الصبر مفتاح الفرج",
+    "tr": "rabbi ySabbrik, iSSabr miftā7 ilfaraj",
+    "en": "may God give you patience, it's the key to relief"
+   }
+  ]
+ },
+ {
+  "ar": "الدنيا صغيرة",
+  "tr": "iddunya Sghīra",
+  "en": "it's a small world",
+  "msa": "العالم صغير",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "إنت تعرفه؟ الدنيا صغيرة!",
+  "ex_tr": "inta ta3rfa? iddunya Sghīra!",
+  "ex_en": "You know him? It's a small world!",
+  "phrases": [
+   {
+    "ar": "والله الدنيا صغيرة",
+    "tr": "walla iddunya Sghīra",
+    "en": "really, small world"
+   },
+   {
+    "ar": "الدنيا صغيرة هلبة",
+    "tr": "iddunya Sghīra hallba",
+    "en": "the world's so small"
+   }
+  ]
+ },
+ {
+  "ar": "الدنيا دوارة",
+  "tr": "iddunya dawwāra",
+  "en": "what goes around comes around; life turns",
+  "msa": "الدنيا دوّارة",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "ما تتكبرش، الدنيا دوارة.",
+  "ex_tr": "ma titkabbarsh, iddunya dawwāra.",
+  "ex_en": "Don't be arrogant, life turns.",
+  "phrases": [
+   {
+    "ar": "الدنيا دوارة يا خوي",
+    "tr": "iddunya dawwāra ya khūy",
+    "en": "life goes round, bro"
+   },
+   {
+    "ar": "يوم ليك ويوم عليك",
+    "tr": "yōm līk w-yōm 3alēk",
+    "en": "one day for you, one day against you"
+   }
+  ]
+ },
+ {
+  "ar": "يوم ليك ويوم عليك",
+  "tr": "yōm līk w-yōm 3alēk",
+  "en": "you win some, you lose some",
+  "msa": "يوم لك ويوم عليك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "خسرنا اليوم، يوم ليك ويوم عليك.",
+  "ex_tr": "khsirna ilyōm, yōm līk w-yōm 3alēk.",
+  "ex_en": "We lost today — you win some, you lose some.",
+  "phrases": [
+   {
+    "ar": "الدنيا يوم ليك ويوم عليك",
+    "tr": "iddunya yōm līk w-yōm 3alēk",
+    "en": "life is up and down"
+   },
+   {
+    "ar": "ما تزعلش، يوم ليك ويوم عليك",
+    "tr": "ma tiz3alsh, yōm līk w-yōm 3alēk",
+    "en": "don't be sad, it goes both ways"
+   }
+  ]
+ },
+ {
+  "ar": "على خاطرك",
+  "tr": "3la khāTrik",
+  "en": "for your sake; as you wish",
+  "msa": "من أجلك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "نجي على خاطرك بس.",
+  "ex_tr": "nji 3la khāTrik bass.",
+  "ex_en": "I'll come just for your sake.",
+  "phrases": [
+   {
+    "ar": "كله على خاطرك",
+    "tr": "kulla 3la khāTrik",
+    "en": "all for your sake"
+   },
+   {
+    "ar": "على خاطرك يا أمي",
+    "tr": "3la khāTrik ya ummi",
+    "en": "for you, mum"
+   }
+  ]
+ },
+ {
+  "ar": "حط في بالك",
+  "tr": "7oTT fi bālik",
+  "en": "keep in mind; bear in mind",
+  "msa": "ضع في بالك",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "حط في بالك، غدوة عطلة.",
+  "ex_tr": "7oTT fi bālik, ghudwa 3uTla.",
+  "ex_en": "Keep in mind, tomorrow is a holiday.",
+  "phrases": [
+   {
+    "ar": "خلي بالك",
+    "tr": "khalli bālik",
+    "en": "watch out; be careful"
+   },
+   {
+    "ar": "رد بالك",
+    "tr": "rudd bālik",
+    "en": "watch out"
+   }
+  ]
+ },
+ {
+  "ar": "رد بالك",
+  "tr": "rudd bālik",
+  "en": "watch out; be careful",
+  "msa": "انتبه",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 62,
+  "ex_ar": "رد بالك، الأرض زلقة!",
+  "ex_tr": "rudd bālik, il'arD zalga!",
+  "ex_en": "Watch out, the floor is slippery!",
+  "note": "very common Libyan/Maghrebi warning",
+  "phrases": [
+   {
+    "ar": "رد بالك على روحك",
+    "tr": "rudd bālik 3la rū7ik",
+    "en": "take care of yourself"
+   },
+   {
+    "ar": "ردي بالك",
+    "tr": "ruddi bālik",
+    "en": "be careful (to a woman)"
+   }
+  ]
+ },
+ {
+  "ar": "على حساب",
+  "tr": "3la 7sāb",
+  "en": "at the expense of; on (someone's) account",
+  "msa": "على حساب",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "خدم على حساب صحته.",
+  "ex_tr": "khdam 3la 7sāb Sa77ta.",
+  "ex_en": "He worked at the expense of his health.",
+  "phrases": [
+   {
+    "ar": "على حسابي",
+    "tr": "3la 7sābi",
+    "en": "on me; my treat"
+   },
+   {
+    "ar": "على حساب الشركة",
+    "tr": "3la 7sāb ishsharika",
+    "en": "on the company's account"
+   }
+  ]
+ },
+ {
+  "ar": "مثل",
+  "tr": "mithl",
+  "en": "like; such as",
+  "msa": "مثل",
+  "pos": "prep",
+  "cat": "prepositions",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "نبي واحد مثل هذا.",
+  "ex_tr": "nibbi wā7id mithl hādha.",
+  "ex_en": "I want one like this.",
+  "phrases": [
+   {
+    "ar": "مثل خوه",
+    "tr": "mithl khūh",
+    "en": "like his brother"
+   },
+   {
+    "ar": "مثل ما قلتلك",
+    "tr": "mithl ma gultlik",
+    "en": "as I told you"
+   }
+  ]
+ },
+ {
+  "ar": "بدون",
+  "tr": "bdūn",
+  "en": "without",
+  "msa": "بدون",
+  "pos": "prep",
+  "cat": "prepositions",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "قهوة بدون سكر.",
+  "ex_tr": "gahwa bdūn sukkar.",
+  "ex_en": "Coffee without sugar.",
+  "phrases": [
+   {
+    "ar": "بدون مشاكل",
+    "tr": "bdūn mashākil",
+    "en": "without problems"
+   },
+   {
+    "ar": "بدون ما تقول",
+    "tr": "bdūn ma tgūl",
+    "en": "without saying"
+   }
+  ]
+ },
+ {
+  "ar": "ما عدا",
+  "tr": "ma 3ada",
+  "en": "except; apart from",
+  "msa": "ما عدا",
+  "pos": "prep",
+  "cat": "prepositions",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الكل جا ما عدا خوك.",
+  "ex_tr": "ilkull ja ma 3ada khūk.",
+  "ex_en": "Everyone came except your brother.",
+  "phrases": [
+   {
+    "ar": "كل يوم ما عدا الجمعة",
+    "tr": "kull yōm ma 3ada ijjum3a",
+    "en": "every day except Friday"
+   },
+   {
+    "ar": "ما عدا هذا",
+    "tr": "ma 3ada hādha",
+    "en": "apart from this"
+   }
+  ]
+ },
+ {
+  "ar": "إلا",
+  "tr": "illa",
+  "en": "except; only; but",
+  "msa": "إلا",
+  "pos": "particle",
+  "cat": "prepositions",
+  "freq": 3,
+  "usage": 64,
+  "ex_ar": "ما عنديش إلا هذا.",
+  "ex_tr": "ma 3andīsh illa hādha.",
+  "ex_en": "I only have this.",
+  "phrases": [
+   {
+    "ar": "كل شي إلا هذا",
+    "tr": "kull shay illa hādha",
+    "en": "anything but this"
+   },
+   {
+    "ar": "ما بقى إلا شوية",
+    "tr": "ma bga illa shwayya",
+    "en": "only a little is left"
+   }
+  ]
+ },
+ {
+  "ar": "حوالي",
+  "tr": "7awāli",
+  "en": "about; approximately; around",
+  "msa": "حوالي",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "فيه حوالي عشرين واحد.",
+  "ex_tr": "fīh 7awāli 3ishrīn wā7id.",
+  "ex_en": "There are about twenty people.",
+  "phrases": [
+   {
+    "ar": "حوالي ساعة",
+    "tr": "7awāli sā3a",
+    "en": "about an hour"
+   },
+   {
+    "ar": "حوالي الخمسة",
+    "tr": "7awāli ilkhamsa",
+    "en": "around five o'clock"
+   }
+  ]
+ },
+ {
+  "ar": "خلال",
+  "tr": "khilāl",
+  "en": "during; within; through",
+  "msa": "خلال",
+  "pos": "prep",
+  "cat": "prepositions",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "نكمل خلال يومين.",
+  "ex_tr": "nkammil khilāl yōmēn.",
+  "ex_en": "I'll finish within two days.",
+  "phrases": [
+   {
+    "ar": "خلال الجمعة",
+    "tr": "khilāl ijjum3a",
+    "en": "during the week"
+   },
+   {
+    "ar": "من خلال",
+    "tr": "min khilāl",
+    "en": "through; by means of"
+   }
+  ]
+ },
+ {
+  "ar": "مقابل",
+  "tr": "mugābil",
+  "en": "in exchange for; opposite; in return",
+  "msa": "مقابل",
+  "pos": "prep",
+  "cat": "prepositions",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "خدم مقابل الماكلة.",
+  "ex_tr": "khdam mugābil ilmākla.",
+  "ex_en": "He worked in exchange for food.",
+  "phrases": [
+   {
+    "ar": "بدون مقابل",
+    "tr": "bdūn mugābil",
+    "en": "for free; in return for nothing"
+   },
+   {
+    "ar": "مقابل كم؟",
+    "tr": "mugābil kam?",
+    "en": "in return for how much?"
+   }
+  ]
+ },
+ {
+  "ar": "قد",
+  "tr": "gadd",
+  "en": "as big as; the size of; equal to",
+  "msa": "بقدر",
+  "pos": "prep",
+  "cat": "prepositions",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "ولده قده.",
+  "ex_tr": "wilda gadda.",
+  "ex_en": "His son is as tall as him.",
+  "phrases": [
+   {
+    "ar": "قد الحوش",
+    "tr": "gadd il7ōsh",
+    "en": "as big as the house"
+   },
+   {
+    "ar": "مش قده",
+    "tr": "mush gadda",
+    "en": "not up to it"
+   }
+  ]
+ },
+ {
+  "ar": "مع إنه",
+  "tr": "ma3 inna",
+  "en": "although; even though",
+  "msa": "مع أنه",
+  "pos": "phrase",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "جا مع إنه مريض.",
+  "ex_tr": "ja ma3 inna marīD.",
+  "ex_en": "He came even though he's ill.",
+  "phrases": [
+   {
+    "ar": "مع إنها غالية",
+    "tr": "ma3 innha ghālya",
+    "en": "although it's expensive"
+   },
+   {
+    "ar": "مع إني تعبان",
+    "tr": "ma3 inni ta3bān",
+    "en": "even though I'm tired"
+   }
+  ]
+ },
+ {
+  "ar": "على كل",
+  "tr": "3la kull",
+  "en": "anyway; anyhow",
+  "msa": "على كل حال",
+  "pos": "phrase",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "على كل، نتلاقوا غدوة.",
+  "ex_tr": "3la kull, nitlāgu ghudwa.",
+  "ex_en": "Anyway, see you tomorrow.",
+  "phrases": [
+   {
+    "ar": "على كل، شكرا",
+    "tr": "3la kull, shukran",
+    "en": "anyway, thanks"
+   },
+   {
+    "ar": "على كل، ما فيش مشكلة",
+    "tr": "3la kull, ma fīsh mushkila",
+    "en": "anyway, no problem"
    }
   ]
  }

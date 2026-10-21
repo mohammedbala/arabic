@@ -831,32 +831,6 @@
   ]
  },
  {
-  "ar": "تراكتور",
-  "tr": "trāktōr",
-  "en": "tractor",
-  "msa": "جرار",
-  "pos": "noun",
-  "cat": "cars",
-  "freq": 5,
-  "usage": 30,
-  "ex_ar": "الفلاح يحرث بالتراكتور.",
-  "ex_tr": "il-fallā7 yi7rith bit-trāktōr.",
-  "ex_en": "The farmer ploughs with the tractor.",
-  "note": "European loan; pl. تراكتورات",
-  "phrases": [
-   {
-    "ar": "تراكتور قديم",
-    "tr": "trāktōr gdīm",
-    "en": "an old tractor"
-   },
-   {
-    "ar": "سايق تراكتور",
-    "tr": "sāyig trāktōr",
-    "en": "driving a tractor"
-   }
-  ]
- },
- {
   "ar": "لوحة",
   "tr": "lō7a",
   "en": "number plate; licence plate",
@@ -985,31 +959,6 @@
   ]
  },
  {
-  "ar": "صيانة",
-  "tr": "Siyāna",
-  "en": "maintenance; servicing",
-  "msa": "صيانة",
-  "pos": "noun",
-  "cat": "cars",
-  "freq": 4,
-  "usage": 46,
-  "ex_ar": "الماكينة تبي صيانة كاملة.",
-  "ex_tr": "il-makīna tibbi Siyāna kāmla.",
-  "ex_en": "The car needs a full service.",
-  "phrases": [
-   {
-    "ar": "تحت الصيانة",
-    "tr": "ta7t iS-Siyāna",
-    "en": "under maintenance"
-   },
-   {
-    "ar": "صيانة دورية",
-    "tr": "Siyāna dawriyya",
-    "en": "regular maintenance"
-   }
-  ]
- },
- {
   "ar": "عطل",
   "tr": "3uTl",
   "en": "breakdown; fault",
@@ -1021,7 +970,7 @@
   "ex_ar": "فيه عطل في الموتور.",
   "ex_tr": "fīh 3uTl fil-mōtōr.",
   "ex_en": "There's a fault in the engine.",
-  "note": "pl. أعطال a3TāL; Libyans also say عطب 3aTab",
+  "note": "pl. أعطال a3Tāl; Libyans also say عطب 3aTab",
   "phrases": [
    {
     "ar": "عطل كهربا",
@@ -1289,32 +1238,6 @@
     "ar": "باع ماكينته في السوق.",
     "tr": "bā3 makīnatah fis-sūg.",
     "en": "He sold his car at the market."
-   }
-  ]
- },
- {
-  "ar": "دلّال",
-  "tr": "dallāl",
-  "en": "broker; auctioneer; middleman",
-  "msa": "سمسار",
-  "pos": "noun",
-  "cat": "cars",
-  "freq": 5,
-  "usage": 32,
-  "ex_ar": "الدلّال ياخذ نسبة.",
-  "ex_tr": "id-dallāl yākhudh nisba.",
-  "ex_en": "The broker takes a percentage.",
-  "note": "pl. دلّالة dallāla",
-  "phrases": [
-   {
-    "ar": "دلّال سيارات",
-    "tr": "dallāl sayyārāt",
-    "en": "car broker"
-   },
-   {
-    "ar": "ما تشريش من الدلّال.",
-    "tr": "ma tishrīsh min id-dallāl.",
-    "en": "Don't buy from the middleman."
    }
   ]
  },
@@ -1754,32 +1677,6 @@
   ]
  },
  {
-  "ar": "حفرة",
-  "tr": "7ufra",
-  "en": "pothole; hole; pit",
-  "msa": "حفرة",
-  "pos": "noun",
-  "cat": "cars",
-  "freq": 4,
-  "usage": 46,
-  "ex_ar": "الطريق كله حفر.",
-  "ex_tr": "iT-Trīg kullah 7ufar.",
-  "ex_en": "The road is full of potholes.",
-  "note": "pl. حفر 7ufar",
-  "phrases": [
-   {
-    "ar": "رد بالك من الحفرة!",
-    "tr": "rudd bālak min il-7ufra!",
-    "en": "Watch out for the pothole!"
-   },
-   {
-    "ar": "حفرة كبيرة",
-    "tr": "7ufra kbīra",
-    "en": "a big hole"
-   }
-  ]
- },
- {
   "ar": "زفت",
   "tr": "zift",
   "en": "asphalt; tarmac",
@@ -1933,32 +1830,6 @@
   ]
  },
  {
-  "ar": "حزام",
-  "tr": "7zām",
-  "en": "ring road",
-  "msa": "طريق دائري",
-  "pos": "noun",
-  "cat": "cars",
-  "freq": 5,
-  "usage": 24,
-  "ex_ar": "خذ الحزام وتوصل أسرع.",
-  "ex_tr": "khudh il-7zām w tūSal asra3.",
-  "ex_en": "Take the ring road and you'll get there faster.",
-  "note": "lit. belt; also الدائري id-dāyri",
-  "phrases": [
-   {
-    "ar": "الحزام الأخضر",
-    "tr": "il-7zām il-akhDar",
-    "en": "the green belt"
-   },
-   {
-    "ar": "الطريق الدائري الثاني",
-    "tr": "iT-Trīg id-dāyri th-thāni",
-    "en": "the second ring road"
-   }
-  ]
- },
- {
   "ar": "خط",
   "tr": "khaTT",
   "en": "lane; route; line",
@@ -2032,6 +1903,4807 @@
     "ar": "أجرة الطريق",
     "tr": "ujrit iT-Trīg",
     "en": "the travel fare"
+   }
+  ]
+ },
+ {
+  "ar": "نفق",
+  "tr": "nafag",
+  "en": "tunnel; underpass",
+  "msa": "نفق",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "خش من النفق وتطلع قدام الجامعة.",
+  "ex_tr": "khushsh min in-nafag w tiTla3 guddām ij-jām3a.",
+  "ex_en": "Go through the tunnel and you'll come out in front of the university.",
+  "note": "pl. أنفاق anfāg",
+  "phrases": [
+   {
+    "ar": "النفق مسكّر بالمية.",
+    "tr": "in-nafag msakkar bil-mayya.",
+    "en": "The underpass is flooded."
+   },
+   {
+    "ar": "نفق المشاة",
+    "tr": "nafag il-mushāh",
+    "en": "pedestrian underpass"
+   }
+  ]
+ },
+ {
+  "ar": "ساحة",
+  "tr": "sā7a",
+  "en": "square; open yard",
+  "msa": "ساحة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "تلاقينا في الساحة.",
+  "ex_tr": "tlāgēna fis-sā7a.",
+  "ex_en": "We met in the square.",
+  "note": "pl. ساحات sā7āt",
+  "phrases": [
+   {
+    "ar": "ساحة الشهدا",
+    "tr": "sā7at ish-shuhada",
+    "en": "Martyrs' Square (Tripoli)"
+   },
+   {
+    "ar": "ساحة المدرسة",
+    "tr": "sā7at il-madrasa",
+    "en": "the schoolyard"
+   }
+  ]
+ },
+ {
+  "ar": "المدينة القديمة",
+  "tr": "il-mdīna l-gdīma",
+  "en": "the old city; the medina",
+  "msa": "المدينة القديمة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الأسواق القديمة في المدينة القديمة.",
+  "ex_tr": "il-aswāg il-gdīma fil-mdīna l-gdīma.",
+  "ex_en": "The old markets are in the old city.",
+  "note": "Tripoli's walled medina",
+  "phrases": [
+   {
+    "ar": "نتمشوا في المدينة القديمة",
+    "tr": "nitmashshu fil-mdīna l-gdīma",
+    "en": "let's stroll in the old city"
+   },
+   {
+    "ar": "حوش في المدينة القديمة",
+    "tr": "7ōsh fil-mdīna l-gdīma",
+    "en": "a house in the old city"
+   }
+  ]
+ },
+ {
+  "ar": "السراي الحمرا",
+  "tr": "is-sarāy il-7amra",
+  "en": "the Red Castle (Tripoli)",
+  "msa": "السرايا الحمراء",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 25,
+  "ex_ar": "المتحف في السراي الحمرا.",
+  "ex_tr": "il-mat7af fis-sarāy il-7amra.",
+  "ex_en": "The museum is in the Red Castle.",
+  "note": "Turkish loan سراي (palace)",
+  "phrases": [
+   {
+    "ar": "قدام السراي الحمرا",
+    "tr": "guddām is-sarāy il-7amra",
+    "en": "in front of the Red Castle"
+   },
+   {
+    "ar": "سور السراي",
+    "tr": "sūr is-sarāy",
+    "en": "the castle wall"
+   }
+  ]
+ },
+ {
+  "ar": "متحف",
+  "tr": "mat7af",
+  "en": "museum",
+  "msa": "متحف",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "الصغار مشوا للمتحف مع المدرسة.",
+  "ex_tr": "iS-Sghār mshu lil-mat7af ma3a l-madrasa.",
+  "ex_en": "The kids went to the museum with school.",
+  "note": "pl. متاحف matā7if",
+  "phrases": [
+   {
+    "ar": "المتحف مسكّر من سنين.",
+    "tr": "il-mat7af msakkar min snīn.",
+    "en": "The museum has been closed for years."
+   },
+   {
+    "ar": "متحف طرابلس",
+    "tr": "mat7af Trābles",
+    "en": "the Tripoli museum"
+   }
+  ]
+ },
+ {
+  "ar": "سينما",
+  "tr": "sinima",
+  "en": "cinema",
+  "msa": "سينما",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "زمان كانت فيه سينمات هلبة في طرابلس.",
+  "ex_tr": "zamān kānat fīh sinimāt halba fi Trābles.",
+  "ex_en": "Long ago there were many cinemas in Tripoli.",
+  "note": "pl. سينمات sinimāt",
+  "phrases": [
+   {
+    "ar": "نمشوا للسينما",
+    "tr": "nimshu lis-sinima",
+    "en": "let's go to the cinema"
+   },
+   {
+    "ar": "فيلم في السينما",
+    "tr": "film fis-sinima",
+    "en": "a film at the cinema"
+   }
+  ]
+ },
+ {
+  "ar": "كنيسة",
+  "tr": "knīsa",
+  "en": "church",
+  "msa": "كنيسة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "فيه كنيسة قديمة في الظهرة.",
+  "ex_tr": "fīh knīsa gdīma fiDH-DHahra.",
+  "ex_en": "There's an old church in Dahra.",
+  "note": "pl. كنايس knāyis",
+  "phrases": [
+   {
+    "ar": "كنيسة طليانية",
+    "tr": "knīsa Talyāniyya",
+    "en": "an Italian church"
+   },
+   {
+    "ar": "قدام الكنيسة",
+    "tr": "guddām il-knīsa",
+    "en": "in front of the church"
+   }
+  ]
+ },
+ {
+  "ar": "قلعة",
+  "tr": "gal3a",
+  "en": "castle; fortress",
+  "msa": "قلعة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "القلعة على الجبل.",
+  "ex_tr": "il-gal3a 3ala j-jbal.",
+  "ex_en": "The fortress is on the hill.",
+  "note": "pl. قلاع glā3",
+  "phrases": [
+   {
+    "ar": "قلعة قديمة",
+    "tr": "gal3a gdīma",
+    "en": "an old fort"
+   },
+   {
+    "ar": "سور القلعة",
+    "tr": "sūr il-gal3a",
+    "en": "the fort wall"
+   }
+  ]
+ },
+ {
+  "ar": "سور",
+  "tr": "sūr",
+  "en": "wall (city or compound); fence wall",
+  "msa": "سور",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الحوش عنده سور عالي.",
+  "ex_tr": "il-7ōsh 3andah sūr 3āli.",
+  "ex_en": "The house has a high boundary wall.",
+  "note": "pl. أسوار aswār",
+  "phrases": [
+   {
+    "ar": "سور المدينة",
+    "tr": "sūr il-mdīna",
+    "en": "the city wall"
+   },
+   {
+    "ar": "سور المدرسة",
+    "tr": "sūr il-madrasa",
+    "en": "the school wall"
+   }
+  ]
+ },
+ {
+  "ar": "برج",
+  "tr": "burj",
+  "en": "tower",
+  "msa": "برج",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "الأبراج في ذات العماد.",
+  "ex_tr": "il-abrāj fi dhāt il-3imād.",
+  "ex_en": "The towers are at That al-Imad.",
+  "note": "pl. أبراج abrāj",
+  "phrases": [
+   {
+    "ar": "برج الساعة",
+    "tr": "burj is-sā3a",
+    "en": "the clock tower"
+   },
+   {
+    "ar": "برج الاتصالات",
+    "tr": "burj il-ittiSālāt",
+    "en": "telecom tower"
+   }
+  ]
+ },
+ {
+  "ar": "نافورة",
+  "tr": "nāfūra",
+  "en": "fountain",
+  "msa": "نافورة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 25,
+  "ex_ar": "الصغار يلعبوا قدام النافورة.",
+  "ex_tr": "iS-Sghār yil3bu guddām in-nāfūra.",
+  "ex_en": "The kids play in front of the fountain.",
+  "note": "pl. نوافير nawāfīr",
+  "phrases": [
+   {
+    "ar": "نافورة الساحة",
+    "tr": "nāfūrit is-sā7a",
+    "en": "the square's fountain"
+   },
+   {
+    "ar": "النافورة ما تخدمش.",
+    "tr": "in-nāfūra ma tikhdimsh.",
+    "en": "The fountain doesn't work."
+   }
+  ]
+ },
+ {
+  "ar": "تمثال",
+  "tr": "timthāl",
+  "en": "statue",
+  "msa": "تمثال",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "كان فيه تمثال في وسط الساحة.",
+  "ex_tr": "kān fīh timthāl fi wusT is-sā7a.",
+  "ex_en": "There was a statue in the middle of the square.",
+  "note": "pl. تماثيل tamāthīl",
+  "phrases": [
+   {
+    "ar": "تمثال الغزالة",
+    "tr": "timthāl il-ghazāla",
+    "en": "the Gazelle statue (Tripoli)"
+   },
+   {
+    "ar": "تماثيل رومانية",
+    "tr": "tamāthīl rōmāniyya",
+    "en": "Roman statues"
+   }
+  ]
+ },
+ {
+  "ar": "منطقة",
+  "tr": "manTga",
+  "en": "area; district; zone",
+  "msa": "منطقة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 3,
+  "usage": 62,
+  "ex_ar": "تسكن في أي منطقة؟",
+  "ex_tr": "tuskun fi ayy manTga?",
+  "ex_en": "Which area do you live in?",
+  "note": "pl. مناطق manāTig",
+  "phrases": [
+   {
+    "ar": "منطقة صناعية",
+    "tr": "manTga Sinā3iyya",
+    "en": "industrial zone"
+   },
+   {
+    "ar": "المنطقة هادية",
+    "tr": "il-manTga hādya",
+    "en": "the area is quiet"
+   }
+  ]
+ },
+ {
+  "ar": "حي",
+  "tr": "7ayy",
+  "en": "district; residential quarter",
+  "msa": "حي",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "ساكنين في حي الأندلس.",
+  "ex_tr": "sāknīn fi 7ayy il-andalus.",
+  "ex_en": "We live in Hay al-Andalus.",
+  "note": "pl. أحياء a7yā'; everyday word is حومة",
+  "phrases": [
+   {
+    "ar": "حي جديد",
+    "tr": "7ayy jdīd",
+    "en": "a new district"
+   },
+   {
+    "ar": "حي شعبي",
+    "tr": "7ayy sha3bi",
+    "en": "a working-class quarter"
+   }
+  ]
+ },
+ {
+  "ar": "محلة",
+  "tr": "ma7alla",
+  "en": "neighbourhood (administrative unit)",
+  "msa": "محلة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "مختار المحلة يعرف الناس كلهم.",
+  "ex_tr": "mukhtār il-ma7alla ya3raf in-nās kullhum.",
+  "ex_en": "The neighbourhood mukhtar knows everybody.",
+  "note": "Libyan local administrative unit; pl. محلات ma7allāt",
+  "phrases": [
+   {
+    "ar": "أي محلة؟",
+    "tr": "ayy ma7alla?",
+    "en": "which neighbourhood?"
+   },
+   {
+    "ar": "ورقة من المحلة",
+    "tr": "wurga min il-ma7alla",
+    "en": "a paper from the neighbourhood office"
+   }
+  ]
+ },
+ {
+  "ar": "ضاحية",
+  "tr": "Dā7ya",
+  "en": "suburb; outskirts",
+  "msa": "ضاحية",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "ساكنين في ضاحية برا البلاد.",
+  "ex_tr": "sāknīn fi Dā7ya barra l-blād.",
+  "ex_en": "They live in a suburb outside town.",
+  "note": "pl. ضواحي Dawā7i",
+  "phrases": [
+   {
+    "ar": "ضواحي طرابلس",
+    "tr": "Dawā7i Trābles",
+    "en": "the suburbs of Tripoli"
+   },
+   {
+    "ar": "ضاحية هادية",
+    "tr": "Dā7ya hādya",
+    "en": "a quiet suburb"
+   }
+  ]
+ },
+ {
+  "ar": "شارع رئيسي",
+  "tr": "shāri3 ra'īsi",
+  "en": "main road; main street",
+  "msa": "شارع رئيسي",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "المحل على الشارع الرئيسي.",
+  "ex_tr": "il-ma7all 3ala sh-shāri3 ir-ra'īsi.",
+  "ex_en": "The shop is on the main road.",
+  "phrases": [
+   {
+    "ar": "بعيد على الشارع الرئيسي",
+    "tr": "b3īd 3ala sh-shāri3 ir-ra'īsi",
+    "en": "far from the main road"
+   },
+   {
+    "ar": "زحمة في الشارع الرئيسي",
+    "tr": "za7ma fish-shāri3 ir-ra'īsi",
+    "en": "traffic on the main road"
+   }
+  ]
+ },
+ {
+  "ar": "مارشابيدي",
+  "tr": "marshapyēdi",
+  "en": "pavement; sidewalk",
+  "msa": "رصيف",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 25,
+  "ex_ar": "امشي على المارشابيدي.",
+  "ex_tr": "imshi 3ala l-marshapyēdi.",
+  "ex_en": "Walk on the pavement.",
+  "note": "Italian loan (marciapiede), older Tripoli usage; also رصيف",
+  "phrases": [
+   {
+    "ar": "طلع بالماكينة على المارشابيدي",
+    "tr": "Tla3 bil-makīna 3al-marshapyēdi",
+    "en": "he drove up onto the pavement"
+   },
+   {
+    "ar": "المارشابيدي مكسّر",
+    "tr": "il-marshapyēdi mkassar",
+    "en": "the pavement is broken"
+   }
+  ]
+ },
+ {
+  "ar": "عمود",
+  "tr": "3amūd",
+  "en": "pole; post; lamppost",
+  "msa": "عمود",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الماكينة ضربت في عمود.",
+  "ex_tr": "il-makīna Darbat fi 3amūd.",
+  "ex_en": "The car hit a pole.",
+  "note": "pl. أعمدة a3mida; عواميد 3awāmīd",
+  "phrases": [
+   {
+    "ar": "عمود الضي",
+    "tr": "3amūd iD-Dayy",
+    "en": "lamppost; electricity pole"
+   },
+   {
+    "ar": "عمود الكهربا طاح",
+    "tr": "3amūd il-kahraba Tā7",
+    "en": "the power pole fell down"
+   }
+  ]
+ },
+ {
+  "ar": "إنارة",
+  "tr": "ināra",
+  "en": "street lighting; lighting",
+  "msa": "إنارة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "الشارع ما فيهش إنارة.",
+  "ex_tr": "ish-shāri3 ma fīhsh ināra.",
+  "ex_en": "The street has no lighting.",
+  "phrases": [
+   {
+    "ar": "إنارة الشوارع",
+    "tr": "inārit ish-shawāri3",
+    "en": "street lighting"
+   },
+   {
+    "ar": "الإنارة طافية",
+    "tr": "il-ināra Tāfya",
+    "en": "the lights are off"
+   }
+  ]
+ },
+ {
+  "ar": "مدخل",
+  "tr": "madkhal",
+  "en": "entrance; way in",
+  "msa": "مدخل",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "المدخل من الجنب.",
+  "ex_tr": "il-madkhal min ij-jamb.",
+  "ex_en": "The entrance is at the side.",
+  "note": "pl. مداخل madākhil",
+  "phrases": [
+   {
+    "ar": "مدخل البلاد",
+    "tr": "madkhal il-blād",
+    "en": "the way into town"
+   },
+   {
+    "ar": "مدخل العمارة",
+    "tr": "madkhal il-3mara",
+    "en": "the building entrance"
+   }
+  ]
+ },
+ {
+  "ar": "مخرج",
+  "tr": "makhraj",
+  "en": "exit; way out",
+  "msa": "مخرج",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "وين المخرج؟",
+  "ex_tr": "wīn il-makhraj?",
+  "ex_en": "Where's the exit?",
+  "note": "pl. مخارج makhārij",
+  "phrases": [
+   {
+    "ar": "مخرج الطوارئ",
+    "tr": "makhraj iT-Tawāri'",
+    "en": "emergency exit"
+   },
+   {
+    "ar": "المخرج الجاي",
+    "tr": "il-makhraj ij-jāy",
+    "en": "the next exit"
+   }
+  ]
+ },
+ {
+  "ar": "مستودع",
+  "tr": "mustawda3",
+  "en": "depot; storage depot",
+  "msa": "مستودع",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "الشركة عندها مستودع في تاجوراء.",
+  "ex_tr": "ish-sharika 3andha mustawda3 fi tājūra.",
+  "ex_en": "The company has a depot in Tajoura.",
+  "note": "pl. مستودعات",
+  "phrases": [
+   {
+    "ar": "مستودع الأدوية",
+    "tr": "mustawda3 il-adwiya",
+    "en": "medicine depot"
+   },
+   {
+    "ar": "مستودع الوقود",
+    "tr": "mustawda3 il-wugūd",
+    "en": "fuel depot"
+   }
+  ]
+ },
+ {
+  "ar": "منطقة صناعية",
+  "tr": "manTga Sinā3iyya",
+  "en": "industrial area",
+  "msa": "منطقة صناعية",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "الورش كلها في المنطقة الصناعية.",
+  "ex_tr": "il-wirash kullha fil-manTga S-Sinā3iyya.",
+  "ex_en": "All the workshops are in the industrial area.",
+  "phrases": [
+   {
+    "ar": "خدمته في المنطقة الصناعية",
+    "tr": "khidmtah fil-manTga S-Sinā3iyya",
+    "en": "his job is in the industrial area"
+   },
+   {
+    "ar": "جنب المنطقة الصناعية",
+    "tr": "jamb il-manTga S-Sinā3iyya",
+    "en": "next to the industrial area"
+   }
+  ]
+ },
+ {
+  "ar": "خردة",
+  "tr": "khurda",
+  "en": "scrap; scrap metal",
+  "msa": "خردة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "باع الماكينة خردة.",
+  "ex_tr": "bā3 il-makīna khurda.",
+  "ex_en": "He sold the car for scrap.",
+  "phrases": [
+   {
+    "ar": "سوق الخردة",
+    "tr": "sūg il-khurda",
+    "en": "the scrap market"
+   },
+   {
+    "ar": "الماكينة ولّت خردة.",
+    "tr": "il-makīna wallat khurda.",
+    "en": "The car has become scrap."
+   }
+  ]
+ },
+ {
+  "ar": "كشك",
+  "tr": "kushk",
+  "en": "kiosk; booth",
+  "msa": "كشك",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "شريت الجريدة من الكشك.",
+  "ex_tr": "shrēt ij-jarīda min il-kushk.",
+  "ex_en": "I bought the paper from the kiosk.",
+  "note": "pl. أكشاك akshāk",
+  "phrases": [
+   {
+    "ar": "كشك سجاير",
+    "tr": "kushk sjāyir",
+    "en": "a cigarette kiosk"
+   },
+   {
+    "ar": "كشك كروت",
+    "tr": "kushk krūt",
+    "en": "a top-up card kiosk"
+   }
+  ]
+ },
+ {
+  "ar": "بسطة",
+  "tr": "basTa",
+  "en": "street stall; pitch",
+  "msa": "بسطة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "عنده بسطة في السوق.",
+  "ex_tr": "3andah basTa fis-sūg.",
+  "ex_en": "He has a stall in the market.",
+  "note": "pl. بسطات basTāt",
+  "phrases": [
+   {
+    "ar": "بسطة خضرة",
+    "tr": "basTit khuDra",
+    "en": "a vegetable stall"
+   },
+   {
+    "ar": "البلدية شالت البسطات",
+    "tr": "il-baladiyya shālat il-basTāt",
+    "en": "the municipality removed the stalls"
+   }
+  ]
+ },
+ {
+  "ar": "جمعية",
+  "tr": "jam3iyya",
+  "en": "cooperative store; association",
+  "msa": "جمعية",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "زمان نشروا من الجمعية.",
+  "ex_tr": "zamān nishru min ij-jam3iyya.",
+  "ex_en": "We used to buy from the co-op store.",
+  "note": "pl. جمعيات jam3iyyāt; Libyan state co-op shops",
+  "phrases": [
+   {
+    "ar": "جمعية خيرية",
+    "tr": "jam3iyya khayriyya",
+    "en": "a charity"
+   },
+   {
+    "ar": "الجمعية الاستهلاكية",
+    "tr": "ij-jam3iyya l-istihlākiyya",
+    "en": "the consumer co-op"
+   }
+  ]
+ },
+ {
+  "ar": "محل حلويات",
+  "tr": "ma7all 7alawiyyāt",
+  "en": "sweet shop; patisserie",
+  "msa": "محل حلويات",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "جيب تورتة من محل الحلويات.",
+  "ex_tr": "jīb torta min ma7all il-7alawiyyāt.",
+  "ex_en": "Bring a cake from the sweet shop.",
+  "phrases": [
+   {
+    "ar": "محل حلويات عربية",
+    "tr": "ma7all 7alawiyyāt 3arabiyya",
+    "en": "an Arabic-sweets shop"
+   },
+   {
+    "ar": "قدام محل الحلويات",
+    "tr": "guddām ma7all il-7alawiyyāt",
+    "en": "in front of the sweet shop"
+   }
+  ]
+ },
+ {
+  "ar": "صالون",
+  "tr": "Sālūn",
+  "en": "hair salon; barbershop",
+  "msa": "صالون",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "البنات مشن للصالون قبل العرس.",
+  "ex_tr": "il-banāt mshin liS-Sālūn gbal il-3ors.",
+  "ex_en": "The girls went to the salon before the wedding.",
+  "note": "French/Italian loan; pl. صالونات; also sitting room",
+  "phrases": [
+   {
+    "ar": "صالون حلاقة",
+    "tr": "Sālūn 7lāga",
+    "en": "barbershop"
+   },
+   {
+    "ar": "صالون نسائي",
+    "tr": "Sālūn nisā'i",
+    "en": "women's salon"
+   }
+  ]
+ },
+ {
+  "ar": "محل ذهب",
+  "tr": "ma7all dhahab",
+  "en": "jeweller's; gold shop",
+  "msa": "محل مجوهرات",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "شرت المحابس من محل ذهب.",
+  "ex_tr": "shrat il-ma7ābis min ma7all dhahab.",
+  "ex_en": "She bought the rings at a jeweller's.",
+  "phrases": [
+   {
+    "ar": "سوق الذهب",
+    "tr": "sūg idh-dhahab",
+    "en": "the gold market"
+   },
+   {
+    "ar": "صاحب محل الذهب",
+    "tr": "Sā7ib ma7all idh-dhahab",
+    "en": "the jeweller"
+   }
+  ]
+ },
+ {
+  "ar": "سوق المشير",
+  "tr": "sūg il-mushīr",
+  "en": "Souq al-Mushir (Tripoli old market)",
+  "msa": "سوق المشير",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 25,
+  "ex_ar": "شرينا البخور من سوق المشير.",
+  "ex_tr": "shrēna l-bukhūr min sūg il-mushīr.",
+  "ex_en": "We bought incense in Souq al-Mushir.",
+  "note": "named after an Ottoman marshal (Turkish مشير)",
+  "phrases": [
+   {
+    "ar": "نتمشوا في سوق المشير",
+    "tr": "nitmashshu fi sūg il-mushīr",
+    "en": "let's walk around Souq al-Mushir"
+   },
+   {
+    "ar": "الذهب في سوق المشير",
+    "tr": "idh-dhahab fi sūg il-mushīr",
+    "en": "the gold in Souq al-Mushir"
+   }
+  ]
+ },
+ {
+  "ar": "سوق الترك",
+  "tr": "sūg it-turk",
+  "en": "Souq al-Turk (Tripoli covered market)",
+  "msa": "سوق الترك",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 25,
+  "ex_ar": "سوق الترك فيه حوايج وعطور.",
+  "ex_tr": "sūg it-turk fīh 7wāyij w 3Tūr.",
+  "ex_en": "Souq al-Turk has clothes and perfumes.",
+  "note": "old covered market in the medina",
+  "phrases": [
+   {
+    "ar": "من سوق الترك",
+    "tr": "min sūg it-turk",
+    "en": "from Souq al-Turk"
+   },
+   {
+    "ar": "سوق الترك مزحوم",
+    "tr": "sūg it-turk maz7ūm",
+    "en": "Souq al-Turk is crowded"
+   }
+  ]
+ },
+ {
+  "ar": "سوق شعبي",
+  "tr": "sūg sha3bi",
+  "en": "popular market; flea market",
+  "msa": "سوق شعبي",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "في السوق الشعبي كل شي رخيص.",
+  "ex_tr": "fis-sūg ish-sha3bi kull shay rkhīS.",
+  "ex_en": "Everything is cheap in the popular market.",
+  "note": "pl. أسواق شعبية",
+  "phrases": [
+   {
+    "ar": "نهار السوق",
+    "tr": "nhār is-sūg",
+    "en": "market day"
+   },
+   {
+    "ar": "السوق الشعبي متاع الجمعة",
+    "tr": "is-sūg ish-sha3bi mtā3 ij-jum3a",
+    "en": "the Friday market"
+   }
+  ]
+ },
+ {
+  "ar": "سوق الجملة",
+  "tr": "sūg ij-jumla",
+  "en": "wholesale market",
+  "msa": "سوق الجملة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "التجار يشروا من سوق الجملة.",
+  "ex_tr": "it-tujjār yishru min sūg ij-jumla.",
+  "ex_en": "Traders buy from the wholesale market.",
+  "phrases": [
+   {
+    "ar": "سوق الجملة متاع الخضرة",
+    "tr": "sūg ij-jumla mtā3 il-khuDra",
+    "en": "the wholesale vegetable market"
+   },
+   {
+    "ar": "أسعار سوق الجملة",
+    "tr": "as3ār sūg ij-jumla",
+    "en": "wholesale market prices"
+   }
+  ]
+ },
+ {
+  "ar": "سوق الحيوانات",
+  "tr": "sūg il-7aywānāt",
+  "en": "livestock market",
+  "msa": "سوق المواشي",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "قبل العيد سوق الحيوانات مزحوم.",
+  "ex_tr": "gbal il-3īd sūg il-7aywānāt maz7ūm.",
+  "ex_en": "Before the Eid the livestock market is crowded.",
+  "note": "also سوق الغنم sūg il-ghnam",
+  "phrases": [
+   {
+    "ar": "شرينا الكبش من السوق",
+    "tr": "shrēna l-kabsh min is-sūg",
+    "en": "we bought the ram at the market"
+   },
+   {
+    "ar": "سوم الكبش في سوق الحيوانات",
+    "tr": "sōm il-kabsh fi sūg il-7aywānāt",
+    "en": "the price of a ram at the livestock market"
+   }
+  ]
+ },
+ {
+  "ar": "مركز تجاري",
+  "tr": "markaz tijāri",
+  "en": "shopping centre",
+  "msa": "مركز تجاري",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "فتحوا مركز تجاري جديد.",
+  "ex_tr": "fata7u markaz tijāri jdīd.",
+  "ex_en": "They opened a new shopping centre.",
+  "note": "pl. مراكز تجارية",
+  "phrases": [
+   {
+    "ar": "في المركز التجاري",
+    "tr": "fil-markaz it-tijāri",
+    "en": "in the shopping centre"
+   },
+   {
+    "ar": "مول ولا مركز تجاري",
+    "tr": "mōl walla markaz tijāri",
+    "en": "a mall or shopping centre"
+   }
+  ]
+ },
+ {
+  "ar": "مركز",
+  "tr": "markaz",
+  "en": "centre; station; branch office",
+  "msa": "مركز",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "المركز الصحي قريب.",
+  "ex_tr": "il-markaz iS-Si77i grīb.",
+  "ex_en": "The health centre is close.",
+  "note": "pl. مراكز marākiz",
+  "phrases": [
+   {
+    "ar": "مركز تدريب",
+    "tr": "markaz tadrīb",
+    "en": "training centre"
+   },
+   {
+    "ar": "مركز البلاد",
+    "tr": "markaz il-blād",
+    "en": "the town centre"
+   }
+  ]
+ },
+ {
+  "ar": "فرع",
+  "tr": "far3",
+  "en": "branch (of bank, company)",
+  "msa": "فرع",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "امشي لفرع المصرف اللي في حومتك.",
+  "ex_tr": "imshi l-far3 il-maSraf illi fi 7ōmtak.",
+  "ex_en": "Go to the bank branch in your area.",
+  "note": "pl. فروع frū3",
+  "phrases": [
+   {
+    "ar": "الفرع الرئيسي",
+    "tr": "il-far3 ir-ra'īsi",
+    "en": "the main branch"
+   },
+   {
+    "ar": "فرع جديد",
+    "tr": "far3 jdīd",
+    "en": "a new branch"
+   }
+  ]
+ },
+ {
+  "ar": "بنك",
+  "tr": "bank",
+  "en": "bank",
+  "msa": "بنك",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "البنك مسكّر يوم الجمعة.",
+  "ex_tr": "il-bank msakkar yōm ij-jum3a.",
+  "ex_en": "The bank is closed on Friday.",
+  "note": "pl. بنوك bnūk; also مصرف (more common in Libya)",
+  "phrases": [
+   {
+    "ar": "فلوسه في البنك",
+    "tr": "flūsah fil-bank",
+    "en": "his money is in the bank"
+   },
+   {
+    "ar": "البنك المركزي",
+    "tr": "il-bank il-markazi",
+    "en": "the central bank"
+   }
+  ]
+ },
+ {
+  "ar": "صراف آلي",
+  "tr": "Sarrāf āli",
+  "en": "cash machine; ATM",
+  "msa": "صراف آلي",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "الصراف الآلي ما فيهش فلوس.",
+  "ex_tr": "iS-Sarrāf il-āli ma fīhsh flūs.",
+  "ex_en": "The cash machine has no money.",
+  "phrases": [
+   {
+    "ar": "طلّع فلوس من الصراف",
+    "tr": "Talla3 flūs min iS-Sarrāf",
+    "en": "take money out of the ATM"
+   },
+   {
+    "ar": "الصراف الآلي خسران",
+    "tr": "iS-Sarrāf il-āli khasrān",
+    "en": "the ATM is out of order"
+   }
+  ]
+ },
+ {
+  "ar": "بريد سريع",
+  "tr": "barīd sarī3",
+  "en": "express mail; courier",
+  "msa": "بريد سريع",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "بعتنا الأوراق بالبريد السريع.",
+  "ex_tr": "ba3atna l-awrāg bil-barīd is-sarī3.",
+  "ex_en": "We sent the papers by express mail.",
+  "phrases": [
+   {
+    "ar": "شركة بريد سريع",
+    "tr": "sharikat barīd sarī3",
+    "en": "a courier company"
+   },
+   {
+    "ar": "يوصل في يومين بالبريد السريع",
+    "tr": "yūSal fi yōmēn bil-barīd is-sarī3",
+    "en": "it arrives in two days by courier"
+   }
+  ]
+ },
+ {
+  "ar": "ظرف",
+  "tr": "DHarf",
+  "en": "envelope",
+  "msa": "ظرف",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "حط الورقة في ظرف.",
+  "ex_tr": "7uTT il-wurga fi DHarf.",
+  "ex_en": "Put the paper in an envelope.",
+  "note": "pl. ظروف DHrūf; also 'circumstance'",
+  "phrases": [
+   {
+    "ar": "ظرف مسكّر",
+    "tr": "DHarf msakkar",
+    "en": "a sealed envelope"
+   },
+   {
+    "ar": "ظرف فيه فلوس",
+    "tr": "DHarf fīh flūs",
+    "en": "an envelope with money in it"
+   }
+  ]
+ },
+ {
+  "ar": "طابع",
+  "tr": "Tābi3",
+  "en": "postage stamp; revenue stamp",
+  "msa": "طابع",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "لازم تحط طابع على الطلب.",
+  "ex_tr": "lāzim t7uTT Tābi3 3aT-Talab.",
+  "ex_en": "You have to put a stamp on the application.",
+  "note": "pl. طوابع Tawābi3",
+  "phrases": [
+   {
+    "ar": "طابع بريد",
+    "tr": "Tābi3 barīd",
+    "en": "postage stamp"
+   },
+   {
+    "ar": "طوابع دمغة",
+    "tr": "Tawābi3 damgha",
+    "en": "revenue stamps"
+   }
+  ]
+ },
+ {
+  "ar": "طرد",
+  "tr": "Tard",
+  "en": "parcel; package",
+  "msa": "طرد",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "وصلني طرد من برا.",
+  "ex_tr": "waSalni Tard min barra.",
+  "ex_en": "I got a parcel from abroad.",
+  "note": "pl. طرود Trūd",
+  "phrases": [
+   {
+    "ar": "استلم الطرد",
+    "tr": "istalam iT-Tard",
+    "en": "he collected the parcel"
+   },
+   {
+    "ar": "طرد كبير",
+    "tr": "Tard kbīr",
+    "en": "a big parcel"
+   }
+  ]
+ },
+ {
+  "ar": "صندوق بريد",
+  "tr": "Sandūg barīd",
+  "en": "post office box; postbox",
+  "msa": "صندوق بريد",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "عنده صندوق بريد في البريد المركزي.",
+  "ex_tr": "3andah Sandūg barīd fil-barīd il-markazi.",
+  "ex_en": "He has a PO box at the central post office.",
+  "phrases": [
+   {
+    "ar": "رقم صندوق البريد",
+    "tr": "ragm Sandūg il-barīd",
+    "en": "PO box number"
+   },
+   {
+    "ar": "حط الجواب في صندوق البريد",
+    "tr": "7uTT ij-jawāb fi Sandūg il-barīd",
+    "en": "put the letter in the postbox"
+   }
+  ]
+ },
+ {
+  "ar": "بوسطجي",
+  "tr": "bōsTaji",
+  "en": "postman",
+  "msa": "ساعي البريد",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "البوسطجي جاب جواب.",
+  "ex_tr": "il-bōsTaji jāb jawāb.",
+  "ex_en": "The postman brought a letter.",
+  "note": "Italian posta + Turkish -ji; also ساعي البريد",
+  "phrases": [
+   {
+    "ar": "البوسطجي ما يجيش لهني",
+    "tr": "il-bōsTaji ma yjīsh l-hni",
+    "en": "the postman doesn't come here"
+   },
+   {
+    "ar": "استنى البوسطجي",
+    "tr": "stanna l-bōsTaji",
+    "en": "wait for the postman"
+   }
+  ]
+ },
+ {
+  "ar": "حوالة",
+  "tr": "7awāla",
+  "en": "money transfer; remittance; money order",
+  "msa": "حوالة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "بعتلي حوالة من تونس.",
+  "ex_tr": "ba3atli 7awāla min tūnis.",
+  "ex_en": "He sent me a money transfer from Tunisia.",
+  "note": "pl. حوالات 7awālāt",
+  "phrases": [
+   {
+    "ar": "حوالة مصرفية",
+    "tr": "7awāla maSrifiyya",
+    "en": "a bank transfer"
+   },
+   {
+    "ar": "استلم الحوالة",
+    "tr": "istalam il-7awāla",
+    "en": "he collected the transfer"
+   }
+  ]
+ },
+ {
+  "ar": "تحويل",
+  "tr": "ta7wīl",
+  "en": "transfer (money); referral",
+  "msa": "تحويل",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "دير تحويل من حسابك لحسابي.",
+  "ex_tr": "dīr ta7wīl min 7sābak l-7sābi.",
+  "ex_en": "Make a transfer from your account to mine.",
+  "phrases": [
+   {
+    "ar": "تحويل مصرفي",
+    "tr": "ta7wīl maSrifi",
+    "en": "bank transfer"
+   },
+   {
+    "ar": "تحويل للسبيطار",
+    "tr": "ta7wīl lis-sbēTār",
+    "en": "a hospital referral"
+   }
+  ]
+ },
+ {
+  "ar": "سحب",
+  "tr": "sa7b",
+  "en": "withdrawal (cash)",
+  "msa": "سحب",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "السحب من المصرف بالسقف.",
+  "ex_tr": "is-sa7b min il-maSraf bis-sagf.",
+  "ex_en": "Withdrawals from the bank are capped.",
+  "phrases": [
+   {
+    "ar": "سقف السحب",
+    "tr": "sagf is-sa7b",
+    "en": "withdrawal limit"
+   },
+   {
+    "ar": "سحب نقدي",
+    "tr": "sa7b nagdi",
+    "en": "cash withdrawal"
+   }
+  ]
+ },
+ {
+  "ar": "إيداع",
+  "tr": "īdā3",
+  "en": "deposit (bank)",
+  "msa": "إيداع",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "درت إيداع في الحساب.",
+  "ex_tr": "dirt īdā3 fil-7sāb.",
+  "ex_en": "I made a deposit into the account.",
+  "phrases": [
+   {
+    "ar": "ورقة إيداع",
+    "tr": "wurgit īdā3",
+    "en": "deposit slip"
+   },
+   {
+    "ar": "إيداع نقدي",
+    "tr": "īdā3 nagdi",
+    "en": "cash deposit"
+   }
+  ]
+ },
+ {
+  "ar": "قرض",
+  "tr": "garD",
+  "en": "loan",
+  "msa": "قرض",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "خذا قرض من المصرف.",
+  "ex_tr": "khdha garD min il-maSraf.",
+  "ex_en": "He took a loan from the bank.",
+  "note": "pl. قروض grūD",
+  "phrases": [
+   {
+    "ar": "قرض سكني",
+    "tr": "garD sakani",
+    "en": "housing loan"
+   },
+   {
+    "ar": "قرض الزواج",
+    "tr": "garD iz-zawāj",
+    "en": "marriage loan"
+   }
+  ]
+ },
+ {
+  "ar": "سعر الصرف",
+  "tr": "si3r iS-Sarf",
+  "en": "exchange rate",
+  "msa": "سعر الصرف",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "سعر الصرف طلع اليوم.",
+  "ex_tr": "si3r iS-Sarf Tla3 il-yōm.",
+  "ex_en": "The exchange rate went up today.",
+  "phrases": [
+   {
+    "ar": "سعر الصرف الرسمي",
+    "tr": "si3r iS-Sarf ir-rasmi",
+    "en": "official exchange rate"
+   },
+   {
+    "ar": "سعر الصرف في السوق السودا",
+    "tr": "si3r iS-Sarf fis-sūg is-sūda",
+    "en": "black-market exchange rate"
+   }
+  ]
+ },
+ {
+  "ar": "رقم الحساب",
+  "tr": "ragm il-7sāb",
+  "en": "account number",
+  "msa": "رقم الحساب",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "عطيني رقم الحساب نحوّلك.",
+  "ex_tr": "a3Tīni ragm il-7sāb n7awwilak.",
+  "ex_en": "Give me the account number so I can transfer to you.",
+  "phrases": [
+   {
+    "ar": "رقم حساب مصرفي",
+    "tr": "ragm 7sāb maSrifi",
+    "en": "bank account number"
+   },
+   {
+    "ar": "غلطت في رقم الحساب",
+    "tr": "ghlaTt fi ragm il-7sāb",
+    "en": "I got the account number wrong"
+   }
+  ]
+ },
+ {
+  "ar": "دفتر صكوك",
+  "tr": "daftar Skūk",
+  "en": "chequebook",
+  "msa": "دفتر شيكات",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "طلبت دفتر صكوك جديد.",
+  "ex_tr": "Tlabt daftar Skūk jdīd.",
+  "ex_en": "I asked for a new chequebook.",
+  "phrases": [
+   {
+    "ar": "دفتر صكوك مصدق",
+    "tr": "daftar Skūk muSaddag",
+    "en": "certified chequebook"
+   },
+   {
+    "ar": "الدفتر خلص",
+    "tr": "id-daftar khlaS",
+    "en": "the chequebook has run out"
+   }
+  ]
+ },
+ {
+  "ar": "مكتب صرافة",
+  "tr": "maktab Sirāfa",
+  "en": "currency exchange office",
+  "msa": "مكتب صرافة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "بدّلت الدولارات في مكتب صرافة.",
+  "ex_tr": "baddalt id-dūlārāt fi maktab Sirāfa.",
+  "ex_en": "I changed the dollars at an exchange office.",
+  "phrases": [
+   {
+    "ar": "مكاتب الصرافة في سوق المشير",
+    "tr": "makātib iS-Sirāfa fi sūg il-mushīr",
+    "en": "the exchange offices in Souq al-Mushir"
+   },
+   {
+    "ar": "مكتب صرافة مرخّص",
+    "tr": "maktab Sirāfa murakhkhaS",
+    "en": "a licensed exchange office"
+   }
+  ]
+ },
+ {
+  "ar": "خزينة",
+  "tr": "khazīna",
+  "en": "cashier's desk; safe; treasury",
+  "msa": "خزينة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "ادفع في الخزينة وجيب الوصل.",
+  "ex_tr": "idfa3 fil-khazīna w jīb il-waSl.",
+  "ex_en": "Pay at the cashier and bring the receipt.",
+  "note": "pl. خزاين khazāyin",
+  "phrases": [
+   {
+    "ar": "خزينة الدولة",
+    "tr": "khazīnit id-dawla",
+    "en": "the state treasury"
+   },
+   {
+    "ar": "خزينة حديد",
+    "tr": "khazīna 7dīd",
+    "en": "a steel safe"
+   }
+  ]
+ },
+ {
+  "ar": "تطفية",
+  "tr": "taTfiya",
+  "en": "power cut; blackout",
+  "msa": "انقطاع الكهرباء",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "التطفية اليوم ست سوايع.",
+  "ex_tr": "it-taTfiya l-yōm sitt swāyi3.",
+  "ex_en": "The power cut today is six hours.",
+  "note": "Libyan; from طفّى 'to switch off'",
+  "phrases": [
+   {
+    "ar": "الضي طافي",
+    "tr": "iD-Dayy Tāfi",
+    "en": "the power is off"
+   },
+   {
+    "ar": "جدول التطفية",
+    "tr": "jadwal it-taTfiya",
+    "en": "the blackout schedule"
+   }
+  ]
+ },
+ {
+  "ar": "تخفيف الأحمال",
+  "tr": "takhfīf il-a7māl",
+  "en": "load shedding (scheduled power cuts)",
+  "msa": "تخفيف الأحمال",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "تخفيف الأحمال رجع في الصيف.",
+  "ex_tr": "takhfīf il-a7māl rja3 fiS-Sēf.",
+  "ex_en": "Load shedding came back in the summer.",
+  "note": "common Libyan term",
+  "phrases": [
+   {
+    "ar": "جدول تخفيف الأحمال",
+    "tr": "jadwal takhfīf il-a7māl",
+    "en": "load-shedding schedule"
+   },
+   {
+    "ar": "ما فيش تخفيف أحمال اليوم",
+    "tr": "ma fīsh takhfīf a7māl il-yōm",
+    "en": "no load shedding today"
+   }
+  ]
+ },
+ {
+  "ar": "كهربا",
+  "tr": "kahraba",
+  "en": "electricity",
+  "msa": "كهرباء",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "فاتورة الكهربا غالية.",
+  "ex_tr": "fātūrit il-kahraba ghālya.",
+  "ex_en": "The electricity bill is expensive.",
+  "note": "everyday word is ضي",
+  "phrases": [
+   {
+    "ar": "الشركة العامة للكهربا",
+    "tr": "ish-sharika l-3āmma lil-kahraba",
+    "en": "the General Electricity Company"
+   },
+   {
+    "ar": "سلك كهربا",
+    "tr": "silk kahraba",
+    "en": "electric wire"
+   }
+  ]
+ },
+ {
+  "ar": "النهر الصناعي",
+  "tr": "in-nahr iS-Sinā3i",
+  "en": "the Great Man-Made River (water supply)",
+  "msa": "النهر الصناعي العظيم",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "مية النهر الصناعي مقطوعة.",
+  "ex_tr": "mayyit in-nahr iS-Sinā3i magTū3a.",
+  "ex_en": "The Man-Made River water is cut off.",
+  "note": "Libya's main water pipeline",
+  "phrases": [
+   {
+    "ar": "مية النهر",
+    "tr": "mayyit in-nahr",
+    "en": "river (pipeline) water"
+   },
+   {
+    "ar": "مشروع النهر الصناعي",
+    "tr": "mashrū3 in-nahr iS-Sinā3i",
+    "en": "the Man-Made River project"
+   }
+  ]
+ },
+ {
+  "ar": "مية الحكومة",
+  "tr": "mayyit il-7ukūma",
+  "en": "mains water; tap water",
+  "msa": "مياه الشبكة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "مية الحكومة جات اليوم.",
+  "ex_tr": "mayyit il-7ukūma jat il-yōm.",
+  "ex_en": "The mains water came today.",
+  "note": "lit. government water",
+  "phrases": [
+   {
+    "ar": "مية الحكومة مالحة",
+    "tr": "mayyit il-7ukūma māl7a",
+    "en": "the tap water is salty"
+   },
+   {
+    "ar": "ما فيش مية حكومة",
+    "tr": "ma fīsh mayyit 7ukūma",
+    "en": "there's no mains water"
+   }
+  ]
+ },
+ {
+  "ar": "انقطاع",
+  "tr": "ingiTā3",
+  "en": "cut; outage; interruption",
+  "msa": "انقطاع",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "فيه انقطاع في المية من يومين.",
+  "ex_tr": "fīh ingiTā3 fil-mayya min yōmēn.",
+  "ex_en": "The water has been cut off for two days.",
+  "phrases": [
+   {
+    "ar": "انقطاع الكهربا",
+    "tr": "ingiTā3 il-kahraba",
+    "en": "power outage"
+   },
+   {
+    "ar": "انقطاع النت",
+    "tr": "ingiTā3 in-net",
+    "en": "internet outage"
+   }
+  ]
+ },
+ {
+  "ar": "مجاري",
+  "tr": "majāri",
+  "en": "sewers; sewage",
+  "msa": "مجاري",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "المجاري طافحة في الشارع.",
+  "ex_tr": "il-majāri Taf7a fish-shāri3.",
+  "ex_en": "The sewage is overflowing in the street.",
+  "note": "sing. مجرى majra",
+  "phrases": [
+   {
+    "ar": "ريحة المجاري",
+    "tr": "rī7t il-majāri",
+    "en": "the smell of sewage"
+   },
+   {
+    "ar": "شبكة المجاري",
+    "tr": "shabakit il-majāri",
+    "en": "sewer network"
+   }
+  ]
+ },
+ {
+  "ar": "صرف صحي",
+  "tr": "Sarf Si77i",
+  "en": "sanitation; sewerage",
+  "msa": "صرف صحي",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "الحومة ما فيهاش صرف صحي.",
+  "ex_tr": "il-7ōma ma fīhāsh Sarf Si77i.",
+  "ex_en": "The neighbourhood has no sewerage.",
+  "phrases": [
+   {
+    "ar": "شبكة الصرف الصحي",
+    "tr": "shabakit iS-Sarf iS-Si77i",
+    "en": "sewerage network"
+   },
+   {
+    "ar": "مشروع صرف صحي",
+    "tr": "mashrū3 Sarf Si77i",
+    "en": "a sanitation project"
+   }
+  ]
+ },
+ {
+  "ar": "بالوعة",
+  "tr": "bālū3a",
+  "en": "drain; manhole",
+  "msa": "بالوعة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "البالوعة مسكّرة والمية واقفة.",
+  "ex_tr": "il-bālū3a msakkra wil-mayya wāgfa.",
+  "ex_en": "The drain is blocked and the water is standing.",
+  "note": "pl. بلاليع balālī3",
+  "phrases": [
+   {
+    "ar": "غطا البالوعة",
+    "tr": "ghTa l-bālū3a",
+    "en": "manhole cover"
+   },
+   {
+    "ar": "نظّف البالوعة",
+    "tr": "naDHDHif il-bālū3a",
+    "en": "clean the drain"
+   }
+  ]
+ },
+ {
+  "ar": "وزارة",
+  "tr": "wizāra",
+  "en": "ministry",
+  "msa": "وزارة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "خدمته في وزارة الصحة.",
+  "ex_tr": "khidmtah fi wizārit iS-Si77a.",
+  "ex_en": "He works at the Ministry of Health.",
+  "note": "pl. وزارات wizārāt",
+  "phrases": [
+   {
+    "ar": "وزارة الداخلية",
+    "tr": "wizārit id-dākhiliyya",
+    "en": "Ministry of the Interior"
+   },
+   {
+    "ar": "وزارة التعليم",
+    "tr": "wizārit it-ta3līm",
+    "en": "Ministry of Education"
+   }
+  ]
+ },
+ {
+  "ar": "دولة",
+  "tr": "dawla",
+  "en": "state; country",
+  "msa": "دولة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 3,
+  "usage": 62,
+  "ex_ar": "الدولة لازم توفر الضي.",
+  "ex_tr": "id-dawla lāzim twaffir iD-Dayy.",
+  "ex_en": "The state has to provide electricity.",
+  "note": "pl. دول duwal",
+  "phrases": [
+   {
+    "ar": "فلوس الدولة",
+    "tr": "flūs id-dawla",
+    "en": "public money"
+   },
+   {
+    "ar": "خدمة الدولة",
+    "tr": "khidmit id-dawla",
+    "en": "a government job"
+   }
+  ]
+ },
+ {
+  "ar": "إدارة",
+  "tr": "idāra",
+  "en": "administration; department; management",
+  "msa": "إدارة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 3,
+  "usage": 54,
+  "ex_ar": "امشي للإدارة في الدور الثاني.",
+  "ex_tr": "imshi lil-idāra fid-dōr ith-thāni.",
+  "ex_en": "Go to the administration on the second floor.",
+  "note": "pl. إدارات idārāt",
+  "phrases": [
+   {
+    "ar": "إدارة الجوازات",
+    "tr": "idārit ij-jawāzāt",
+    "en": "passport department"
+   },
+   {
+    "ar": "الإدارة قررت",
+    "tr": "il-idāra garrarat",
+    "en": "management decided"
+   }
+  ]
+ },
+ {
+  "ar": "الجوازات",
+  "tr": "ij-jawāzāt",
+  "en": "passport office; immigration",
+  "msa": "مصلحة الجوازات",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "قعدت نهار كامل في الجوازات.",
+  "ex_tr": "g3adt nhār kāmil fij-jawāzāt.",
+  "ex_en": "I spent a whole day at the passport office.",
+  "note": "plural of جواز",
+  "phrases": [
+   {
+    "ar": "مصلحة الجوازات والجنسية",
+    "tr": "maSla7it ij-jawāzāt wij-jinsiyya",
+    "en": "the Passports and Nationality Authority"
+   },
+   {
+    "ar": "طابور الجوازات",
+    "tr": "Tābūr ij-jawāzāt",
+    "en": "the passport queue"
+   }
+  ]
+ },
+ {
+  "ar": "السجل المدني",
+  "tr": "is-sijill il-madani",
+  "en": "civil registry",
+  "msa": "السجل المدني",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "طلّع شهادة ميلاد من السجل المدني.",
+  "ex_tr": "Talla3 shahādit mīlād min is-sijill il-madani.",
+  "ex_en": "Get a birth certificate from the civil registry.",
+  "phrases": [
+   {
+    "ar": "قيد في السجل المدني",
+    "tr": "gēd fis-sijill il-madani",
+    "en": "an entry in the civil registry"
+   },
+   {
+    "ar": "مكتب السجل المدني",
+    "tr": "maktab is-sijill il-madani",
+    "en": "the civil registry office"
+   }
+  ]
+ },
+ {
+  "ar": "الرقم الوطني",
+  "tr": "ir-ragm il-waTani",
+  "en": "national ID number",
+  "msa": "الرقم الوطني",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "اكتب الرقم الوطني في الاستمارة.",
+  "ex_tr": "uktub ir-ragm il-waTani fil-istimāra.",
+  "ex_en": "Write your national number on the form.",
+  "note": "Libyan 12-digit citizen number",
+  "phrases": [
+   {
+    "ar": "من غير رقم وطني ما يمشيش",
+    "tr": "min ghēr ragm waTani ma yimshīsh",
+    "en": "without a national number it won't go through"
+   },
+   {
+    "ar": "تعرف رقمك الوطني؟",
+    "tr": "ta3raf ragmak il-waTani?",
+    "en": "Do you know your national number?"
+   }
+  ]
+ },
+ {
+  "ar": "بطاقة شخصية",
+  "tr": "biTāga shakhSiyya",
+  "en": "ID card",
+  "msa": "بطاقة شخصية",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "جيب البطاقة الشخصية معاك.",
+  "ex_tr": "jīb il-biTāga sh-shakhSiyya ma3āk.",
+  "ex_en": "Bring your ID card with you.",
+  "note": "also بطاقة هوية",
+  "phrases": [
+   {
+    "ar": "صورة البطاقة الشخصية",
+    "tr": "Sūrit il-biTāga sh-shakhSiyya",
+    "en": "a copy of the ID card"
+   },
+   {
+    "ar": "ضاعتلي البطاقة الشخصية",
+    "tr": "Dā3atli l-biTāga sh-shakhSiyya",
+    "en": "I lost my ID card"
+   }
+  ]
+ },
+ {
+  "ar": "كتيّب العائلة",
+  "tr": "ktayyib il-3āyla",
+  "en": "family booklet (civil status record)",
+  "msa": "كتيب العائلة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "صوّر كتيّب العائلة كامل.",
+  "ex_tr": "Sawwir ktayyib il-3āyla kāmil.",
+  "ex_en": "Photocopy the whole family booklet.",
+  "note": "key Libyan civil document listing family members",
+  "phrases": [
+   {
+    "ar": "زيد الصغير في كتيّب العائلة",
+    "tr": "zīd iS-Sghīr fi ktayyib il-3āyla",
+    "en": "add the baby to the family booklet"
+   },
+   {
+    "ar": "كتيّب العائلة عند بوي",
+    "tr": "ktayyib il-3āyla 3and būy",
+    "en": "Dad has the family booklet"
+   }
+  ]
+ },
+ {
+  "ar": "شهادة ميلاد",
+  "tr": "shahādit mīlād",
+  "en": "birth certificate",
+  "msa": "شهادة ميلاد",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "يطلبوا شهادة ميلاد للمدرسة.",
+  "ex_tr": "yiTlbu shahādit mīlād lil-madrasa.",
+  "ex_en": "They ask for a birth certificate for school.",
+  "note": "pl. شهايد ميلاد",
+  "phrases": [
+   {
+    "ar": "شهادة ميلاد جديدة",
+    "tr": "shahādit mīlād jdīda",
+    "en": "a new birth certificate"
+   },
+   {
+    "ar": "نسخة من شهادة الميلاد",
+    "tr": "nuskha min shahādit il-mīlād",
+    "en": "a copy of the birth certificate"
+   }
+  ]
+ },
+ {
+  "ar": "شهادة وفاة",
+  "tr": "shahādit wafāh",
+  "en": "death certificate",
+  "msa": "شهادة وفاة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "طلّعوا شهادة الوفاة من السبيطار.",
+  "ex_tr": "Talla3u shahādit il-wafāh min is-sbēTār.",
+  "ex_en": "They got the death certificate from the hospital.",
+  "phrases": [
+   {
+    "ar": "شهادة وفاة رسمية",
+    "tr": "shahādit wafāh rasmiyya",
+    "en": "an official death certificate"
+   },
+   {
+    "ar": "استنى شهادة الوفاة",
+    "tr": "stanna shahādit il-wafāh",
+    "en": "waiting for the death certificate"
+   }
+  ]
+ },
+ {
+  "ar": "عقد زواج",
+  "tr": "3agd zawāj",
+  "en": "marriage contract; marriage certificate",
+  "msa": "عقد زواج",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "كتبوا عقد الزواج في المحكمة.",
+  "ex_tr": "katbu 3agd iz-zawāj fil-ma7kama.",
+  "ex_en": "They signed the marriage contract at the court.",
+  "phrases": [
+   {
+    "ar": "نسخة من عقد الزواج",
+    "tr": "nuskha min 3agd iz-zawāj",
+    "en": "a copy of the marriage contract"
+   },
+   {
+    "ar": "المأذون كتب العقد",
+    "tr": "il-ma'dhūn katab il-3agd",
+    "en": "the registrar drew up the contract"
+   }
+  ]
+ },
+ {
+  "ar": "استمارة",
+  "tr": "istimāra",
+  "en": "form (to fill in)",
+  "msa": "استمارة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "عبّي الاستمارة وحط توقيعك.",
+  "ex_tr": "3abbi l-istimāra w 7uTT tawgī3ak.",
+  "ex_en": "Fill in the form and sign it.",
+  "note": "pl. استمارات istimārāt",
+  "phrases": [
+   {
+    "ar": "استمارة طلب",
+    "tr": "istimārit Talab",
+    "en": "application form"
+   },
+   {
+    "ar": "الاستمارة بخمسة دينار",
+    "tr": "il-istimāra b-khamsa dīnār",
+    "en": "the form costs five dinars"
+   }
+  ]
+ },
+ {
+  "ar": "نموذج",
+  "tr": "namūdhaj",
+  "en": "form; model; sample",
+  "msa": "نموذج",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "خذ نموذج من الشباك.",
+  "ex_tr": "khudh namūdhaj min ish-shubbāk.",
+  "ex_en": "Take a form from the counter.",
+  "note": "pl. نماذج namādhij",
+  "phrases": [
+   {
+    "ar": "نموذج طلب",
+    "tr": "namūdhaj Talab",
+    "en": "application form"
+   },
+   {
+    "ar": "نموذج مختوم",
+    "tr": "namūdhaj makhtūm",
+    "en": "a stamped form"
+   }
+  ]
+ },
+ {
+  "ar": "طلب",
+  "tr": "Talab",
+  "en": "application; request; order",
+  "msa": "طلب",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 3,
+  "usage": 54,
+  "ex_ar": "قدّمت طلب للوظيفة.",
+  "ex_tr": "gaddamt Talab lil-wDHīfa.",
+  "ex_en": "I submitted an application for the job.",
+  "note": "pl. طلبات Talabāt",
+  "phrases": [
+   {
+    "ar": "طلب رسمي",
+    "tr": "Talab rasmi",
+    "en": "an official request"
+   },
+   {
+    "ar": "الطلب ما زال ما خلصش",
+    "tr": "iT-Talab mazāl ma khlaSsh",
+    "en": "the application isn't done yet"
+   }
+  ]
+ },
+ {
+  "ar": "تصريح",
+  "tr": "taSrī7",
+  "en": "permit; authorisation; statement",
+  "msa": "تصريح",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "لازمك تصريح باش تبني.",
+  "ex_tr": "lāzmak taSrī7 bāsh tibni.",
+  "ex_en": "You need a permit to build.",
+  "note": "pl. تصاريح taSārī7",
+  "phrases": [
+   {
+    "ar": "تصريح عمل",
+    "tr": "taSrī7 3amal",
+    "en": "work permit"
+   },
+   {
+    "ar": "تصريح بنا",
+    "tr": "taSrī7 bina",
+    "en": "building permit"
+   }
+  ]
+ },
+ {
+  "ar": "إذن",
+  "tr": "idhn",
+  "en": "permission; authorisation",
+  "msa": "إذن",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "خذيت إذن من المدير.",
+  "ex_tr": "khdhēt idhn min il-mudīr.",
+  "ex_en": "I got permission from the manager.",
+  "phrases": [
+   {
+    "ar": "بإذن الله",
+    "tr": "b-idhn illāh",
+    "en": "God willing"
+   },
+   {
+    "ar": "إذن خروج",
+    "tr": "idhn khurūj",
+    "en": "exit permit; permission to leave"
+   }
+  ]
+ },
+ {
+  "ar": "ضريبة",
+  "tr": "Darība",
+  "en": "tax",
+  "msa": "ضريبة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "الضريبة تنخصم من المرتب.",
+  "ex_tr": "iD-Darība tinkhaSam min il-murattab.",
+  "ex_en": "The tax is deducted from the salary.",
+  "note": "pl. ضرايب Darāyib",
+  "phrases": [
+   {
+    "ar": "ضريبة الدخل",
+    "tr": "Darībit id-dakhl",
+    "en": "income tax"
+   },
+   {
+    "ar": "مصلحة الضرايب",
+    "tr": "maSla7it iD-Darāyib",
+    "en": "the tax authority"
+   }
+  ]
+ },
+ {
+  "ar": "معاملة",
+  "tr": "mu3āmla",
+  "en": "paperwork; official procedure; treatment",
+  "msa": "معاملة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "المعاملة تبي أسبوعين.",
+  "ex_tr": "il-mu3āmla tibbi usbū3ēn.",
+  "ex_en": "The paperwork takes two weeks.",
+  "note": "pl. معاملات mu3āmlāt; also 'treatment (of people)'",
+  "phrases": [
+   {
+    "ar": "كمّلت المعاملة؟",
+    "tr": "kammalt il-mu3āmla?",
+    "en": "Did you finish the paperwork?"
+   },
+   {
+    "ar": "معاملة زينة",
+    "tr": "mu3āmla zēna",
+    "en": "good treatment"
+   }
+  ]
+ },
+ {
+  "ar": "واسطة",
+  "tr": "wāsTa",
+  "en": "connections; pull; influence",
+  "msa": "واسطة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "ما تمشيش الأمور بلا واسطة.",
+  "ex_tr": "ma timshīsh il-umūr bla wāsTa.",
+  "ex_en": "Things don't move without connections.",
+  "note": "very common in Libya",
+  "phrases": [
+   {
+    "ar": "عنده واسطة كبيرة",
+    "tr": "3andah wāsTa kbīra",
+    "en": "he has strong connections"
+   },
+   {
+    "ar": "دخل بالواسطة",
+    "tr": "dkhal bil-wāsTa",
+    "en": "he got in through connections"
+   }
+  ]
+ },
+ {
+  "ar": "رشوة",
+  "tr": "rashwa",
+  "en": "bribe; bribery",
+  "msa": "رشوة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "طلب منه رشوة.",
+  "ex_tr": "Tlab minnah rashwa.",
+  "ex_en": "He asked him for a bribe.",
+  "note": "pl. رشاوي rashāwi",
+  "phrases": [
+   {
+    "ar": "خذا رشوة",
+    "tr": "khdha rashwa",
+    "en": "he took a bribe"
+   },
+   {
+    "ar": "ما ندفعش رشوة",
+    "tr": "ma nidfa3sh rashwa",
+    "en": "I won't pay a bribe"
+   }
+  ]
+ },
+ {
+  "ar": "شكوى",
+  "tr": "shakwa",
+  "en": "complaint (official)",
+  "msa": "شكوى",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "قدّم شكوى في البلدية.",
+  "ex_tr": "gaddam shakwa fil-baladiyya.",
+  "ex_en": "He filed a complaint at the municipality.",
+  "note": "pl. شكاوي shakāwi",
+  "phrases": [
+   {
+    "ar": "صندوق الشكاوي",
+    "tr": "Sandūg ish-shakāwi",
+    "en": "complaints box"
+   },
+   {
+    "ar": "شكوى رسمية",
+    "tr": "shakwa rasmiyya",
+    "en": "an official complaint"
+   }
+  ]
+ },
+ {
+  "ar": "شبّاك",
+  "tr": "shubbāk",
+  "en": "counter; service window",
+  "msa": "شباك",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "ادفع في الشبّاك رقم ثلاثة.",
+  "ex_tr": "idfa3 fish-shubbāk ragm thalātha.",
+  "ex_en": "Pay at counter number three.",
+  "note": "pl. شبابيك shbābīk; also window",
+  "phrases": [
+   {
+    "ar": "الموظف اللي في الشبّاك",
+    "tr": "il-mwaDHDHaf illi fish-shubbāk",
+    "en": "the clerk at the counter"
+   },
+   {
+    "ar": "شبّاك التذاكر",
+    "tr": "shubbāk it-tadhākir",
+    "en": "ticket window"
+   }
+  ]
+ },
+ {
+  "ar": "بصمة",
+  "tr": "baSma",
+  "en": "fingerprint",
+  "msa": "بصمة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "حط بصمتك هني.",
+  "ex_tr": "7uTT baSmtak hni.",
+  "ex_en": "Put your fingerprint here.",
+  "note": "pl. بصمات baSmāt",
+  "phrases": [
+   {
+    "ar": "بصمة العين",
+    "tr": "baSmit il-3ēn",
+    "en": "iris scan"
+   },
+   {
+    "ar": "خذوا البصمات",
+    "tr": "khdhu l-baSmāt",
+    "en": "they took the fingerprints"
+   }
+  ]
+ },
+ {
+  "ar": "تجديد",
+  "tr": "tajdīd",
+  "en": "renewal; renovation",
+  "msa": "تجديد",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الجواز يبي تجديد.",
+  "ex_tr": "ij-jawāz yibbi tajdīd.",
+  "ex_en": "The passport needs renewing.",
+  "phrases": [
+   {
+    "ar": "تجديد الرخصة",
+    "tr": "tajdīd ir-rukhSa",
+    "en": "licence renewal"
+   },
+   {
+    "ar": "تجديد الإقامة",
+    "tr": "tajdīd il-iqāma",
+    "en": "residence renewal"
+   }
+  ]
+ },
+ {
+  "ar": "صلاحية",
+  "tr": "Sala7iyya",
+  "en": "validity; expiry date; authority",
+  "msa": "صلاحية",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "صلاحية الجواز خلصت.",
+  "ex_tr": "Sala7iyyit ij-jawāz khlaSat.",
+  "ex_en": "The passport has expired.",
+  "note": "pl. صلاحيات Sala7iyyāt (powers)",
+  "phrases": [
+   {
+    "ar": "تاريخ الصلاحية",
+    "tr": "tārīkh iS-Sala7iyya",
+    "en": "expiry date"
+   },
+   {
+    "ar": "ما عندهش صلاحية",
+    "tr": "ma 3andahsh Sala7iyya",
+    "en": "he has no authority"
+   }
+  ]
+ },
+ {
+  "ar": "إقامة",
+  "tr": "iqāma",
+  "en": "residence permit; residency",
+  "msa": "إقامة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "العمال الأجانب يبوا إقامة.",
+  "ex_tr": "il-3ummāl il-ajānib yibbu iqāma.",
+  "ex_en": "Foreign workers need a residence permit.",
+  "phrases": [
+   {
+    "ar": "إقامة عمل",
+    "tr": "iqāmit 3amal",
+    "en": "work residency"
+   },
+   {
+    "ar": "إقامته منتهية",
+    "tr": "iqāmtah muntahya",
+    "en": "his residency has expired"
+   }
+  ]
+ },
+ {
+  "ar": "جنسية",
+  "tr": "jinsiyya",
+  "en": "nationality; citizenship",
+  "msa": "جنسية",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "شن جنسيتك؟",
+  "ex_tr": "shin jinsiyytak?",
+  "ex_en": "What's your nationality?",
+  "note": "pl. جنسيات jinsiyyāt",
+  "phrases": [
+   {
+    "ar": "جنسية ليبية",
+    "tr": "jinsiyya lībiyya",
+    "en": "Libyan nationality"
+   },
+   {
+    "ar": "خذا الجنسية",
+    "tr": "khdha j-jinsiyya",
+    "en": "he got citizenship"
+   }
+  ]
+ },
+ {
+  "ar": "مواطن",
+  "tr": "muwāTin",
+  "en": "citizen",
+  "msa": "مواطن",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "المواطن تعبان من الطوابير.",
+  "ex_tr": "il-muwāTin ta3bān min iT-Twābīr.",
+  "ex_en": "The citizen is tired of the queues.",
+  "note": "pl. مواطنين muwāTnīn",
+  "phrases": [
+   {
+    "ar": "مواطن عادي",
+    "tr": "muwāTin 3ādi",
+    "en": "an ordinary citizen"
+   },
+   {
+    "ar": "حقوق المواطن",
+    "tr": "7ugūg il-muwāTin",
+    "en": "citizens' rights"
+   }
+  ]
+ },
+ {
+  "ar": "مستند",
+  "tr": "mustanad",
+  "en": "document (supporting)",
+  "msa": "مستند",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "جيب المستندات المطلوبة.",
+  "ex_tr": "jīb il-mustanadāt il-maTlūba.",
+  "ex_en": "Bring the required documents.",
+  "note": "pl. مستندات mustanadāt",
+  "phrases": [
+   {
+    "ar": "مستندات رسمية",
+    "tr": "mustanadāt rasmiyya",
+    "en": "official documents"
+   },
+   {
+    "ar": "ناقصك مستند",
+    "tr": "nāgSak mustanad",
+    "en": "you're missing a document"
+   }
+  ]
+ },
+ {
+  "ar": "وثيقة",
+  "tr": "wathīga",
+  "en": "document; certificate; record",
+  "msa": "وثيقة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "الوثيقة لازم تكون مختومة.",
+  "ex_tr": "il-wathīga lāzim tkūn makhtūma.",
+  "ex_en": "The document has to be stamped.",
+  "note": "pl. وثايق wathāyig",
+  "phrases": [
+   {
+    "ar": "وثيقة سفر",
+    "tr": "wathīgit safar",
+    "en": "travel document"
+   },
+   {
+    "ar": "وثيقة رسمية",
+    "tr": "wathīga rasmiyya",
+    "en": "an official document"
+   }
+  ]
+ },
+ {
+  "ar": "إفادة",
+  "tr": "ifāda",
+  "en": "official letter; certificate (of status)",
+  "msa": "إفادة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "جيب إفادة من الخدمة.",
+  "ex_tr": "jīb ifāda min il-khidma.",
+  "ex_en": "Bring a letter from work.",
+  "note": "very common Libyan paperwork term",
+  "phrases": [
+   {
+    "ar": "إفادة عمل",
+    "tr": "ifādit 3amal",
+    "en": "employment certificate"
+   },
+   {
+    "ar": "إفادة دراسة",
+    "tr": "ifādit dirāsa",
+    "en": "proof of enrolment"
+   }
+  ]
+ },
+ {
+  "ar": "قرار",
+  "tr": "garār",
+  "en": "decision; decree",
+  "msa": "قرار",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "الحكومة طلّعت قرار جديد.",
+  "ex_tr": "il-7ukūma Talla3at garār jdīd.",
+  "ex_en": "The government issued a new decree.",
+  "note": "pl. قرارات garārāt",
+  "phrases": [
+   {
+    "ar": "خذا قرار",
+    "tr": "khdha garār",
+    "en": "he made a decision"
+   },
+   {
+    "ar": "قرار وزاري",
+    "tr": "garār wizāri",
+    "en": "a ministerial decree"
+   }
+  ]
+ },
+ {
+  "ar": "قانون",
+  "tr": "gānūn",
+  "en": "law",
+  "msa": "قانون",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "هذا ضد القانون.",
+  "ex_tr": "hādha Didd il-gānūn.",
+  "ex_en": "This is against the law.",
+  "note": "pl. قوانين gawānīn",
+  "phrases": [
+   {
+    "ar": "حسب القانون",
+    "tr": "7asab il-gānūn",
+    "en": "according to the law"
+   },
+   {
+    "ar": "قانون المرور",
+    "tr": "gānūn il-murūr",
+    "en": "the traffic law"
+   }
+  ]
+ },
+ {
+  "ar": "لائحة",
+  "tr": "lāy7a",
+  "en": "regulation; list",
+  "msa": "لائحة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "اللائحة الجديدة ما تسمحش.",
+  "ex_tr": "il-lāy7a j-jdīda ma tisma7sh.",
+  "ex_en": "The new regulation doesn't allow it.",
+  "note": "pl. لوايح lawāyi7",
+  "phrases": [
+   {
+    "ar": "اللائحة الداخلية",
+    "tr": "il-lāy7a d-dākhiliyya",
+    "en": "internal regulations"
+   },
+   {
+    "ar": "لائحة الأسعار",
+    "tr": "lāy7it il-as3ār",
+    "en": "price list"
+   }
+  ]
+ },
+ {
+  "ar": "تعميم",
+  "tr": "ta3mīm",
+  "en": "official circular; memo",
+  "msa": "تعميم",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "طلع تعميم من الوزارة.",
+  "ex_tr": "Tla3 ta3mīm min il-wizāra.",
+  "ex_en": "A circular came out from the ministry.",
+  "note": "pl. تعاميم ta3āmīm",
+  "phrases": [
+   {
+    "ar": "حسب التعميم",
+    "tr": "7asab it-ta3mīm",
+    "en": "according to the circular"
+   },
+   {
+    "ar": "تعميم جديد",
+    "tr": "ta3mīm jdīd",
+    "en": "a new memo"
+   }
+  ]
+ },
+ {
+  "ar": "دعم",
+  "tr": "da3m",
+  "en": "subsidy; support",
+  "msa": "دعم",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "الحكومة شالت الدعم على البنزينة؟",
+  "ex_tr": "il-7ukūma shālat id-da3m 3al-banzīna?",
+  "ex_en": "Has the government removed the petrol subsidy?",
+  "phrases": [
+   {
+    "ar": "رفع الدعم",
+    "tr": "rafa3 id-da3m",
+    "en": "lifting subsidies"
+   },
+   {
+    "ar": "دعم السلع",
+    "tr": "da3m is-sila3",
+    "en": "goods subsidy"
+   }
+  ]
+ },
+ {
+  "ar": "منحة الزوجة والأبناء",
+  "tr": "min7it iz-zawja wil-abnā'",
+  "en": "wife-and-children allowance",
+  "msa": "منحة الزوجة والأبناء",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "منحة الزوجة والأبناء نزلت؟",
+  "ex_tr": "min7it iz-zawja wil-abnā' nizlat?",
+  "ex_en": "Has the wife-and-children allowance come in?",
+  "note": "Libyan state family allowance, often just المنحة",
+  "phrases": [
+   {
+    "ar": "المنحة متأخرة شهرين",
+    "tr": "il-min7a mit'akhkhra shahrēn",
+    "en": "the allowance is two months late"
+   },
+   {
+    "ar": "سجّل في المنحة",
+    "tr": "sajjil fil-min7a",
+    "en": "sign up for the allowance"
+   }
+  ]
+ },
+ {
+  "ar": "الضمان الاجتماعي",
+  "tr": "iD-Damān il-ijtimā3i",
+  "en": "social security",
+  "msa": "الضمان الاجتماعي",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "ياخذ معاش من الضمان الاجتماعي.",
+  "ex_tr": "yākhudh ma3āsh min iD-Damān il-ijtimā3i.",
+  "ex_en": "He gets a pension from social security.",
+  "phrases": [
+   {
+    "ar": "صندوق الضمان الاجتماعي",
+    "tr": "Sandūg iD-Damān il-ijtimā3i",
+    "en": "the social security fund"
+   },
+   {
+    "ar": "مكتب الضمان",
+    "tr": "maktab iD-Damān",
+    "en": "social security office"
+   }
+  ]
+ },
+ {
+  "ar": "مجلس",
+  "tr": "majlis",
+  "en": "council; assembly",
+  "msa": "مجلس",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "المجلس البلدي اجتمع اليوم.",
+  "ex_tr": "il-majlis il-baladi jtama3 il-yōm.",
+  "ex_en": "The municipal council met today.",
+  "note": "pl. مجالس majālis; also sitting area",
+  "phrases": [
+   {
+    "ar": "المجلس البلدي",
+    "tr": "il-majlis il-baladi",
+    "en": "the municipal council"
+   },
+   {
+    "ar": "مجلس النواب",
+    "tr": "majlis in-nuwwāb",
+    "en": "the House of Representatives"
+   }
+  ]
+ },
+ {
+  "ar": "انتخابات",
+  "tr": "intikhābāt",
+  "en": "elections",
+  "msa": "انتخابات",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "الناس تستنى في الانتخابات.",
+  "ex_tr": "in-nās tistanna fil-intikhābāt.",
+  "ex_en": "People are waiting for the elections.",
+  "note": "sing. انتخاب",
+  "phrases": [
+   {
+    "ar": "بطاقة الانتخاب",
+    "tr": "biTāgit il-intikhāb",
+    "en": "voter card"
+   },
+   {
+    "ar": "انتخابات بلدية",
+    "tr": "intikhābāt baladiyya",
+    "en": "municipal elections"
+   }
+  ]
+ },
+ {
+  "ar": "قنصلية",
+  "tr": "qunSuliyya",
+  "en": "consulate",
+  "msa": "قنصلية",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "مشيت للقنصلية التونسية.",
+  "ex_tr": "mshēt lil-qunSuliyya t-tūnsiyya.",
+  "ex_en": "I went to the Tunisian consulate.",
+  "note": "pl. قنصليات",
+  "phrases": [
+   {
+    "ar": "موعد في القنصلية",
+    "tr": "maw3id fil-qunSuliyya",
+    "en": "an appointment at the consulate"
+   },
+   {
+    "ar": "القنصل العام",
+    "tr": "il-qunSul il-3āmm",
+    "en": "the consul general"
+   }
+  ]
+ },
+ {
+  "ar": "عاصمة",
+  "tr": "3āSma",
+  "en": "capital city",
+  "msa": "عاصمة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "طرابلس هي العاصمة.",
+  "ex_tr": "Trābles hiyya l-3āSma.",
+  "ex_en": "Tripoli is the capital.",
+  "note": "pl. عواصم 3awāSim",
+  "phrases": [
+   {
+    "ar": "في العاصمة",
+    "tr": "fil-3āSma",
+    "en": "in the capital"
+   },
+   {
+    "ar": "عاصمة ليبيا",
+    "tr": "3āSmit lībya",
+    "en": "the capital of Libya"
+   }
+  ]
+ },
+ {
+  "ar": "بلاد برا",
+  "tr": "blād barra",
+  "en": "abroad; foreign countries",
+  "msa": "الخارج",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "ولدها يقرا في بلاد برا.",
+  "ex_tr": "wildha yigra fi blād barra.",
+  "ex_en": "Her son studies abroad.",
+  "note": "common Libyan phrase; also برا alone",
+  "phrases": [
+   {
+    "ar": "جا من برا",
+    "tr": "ja min barra",
+    "en": "he came from abroad"
+   },
+   {
+    "ar": "يبي يمشي لبرا",
+    "tr": "yibbi yimshi l-barra",
+    "en": "he wants to go abroad"
+   }
+  ]
+ },
+ {
+  "ar": "بلاغ",
+  "tr": "blāgh",
+  "en": "report (to police); notification",
+  "msa": "بلاغ",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "دير بلاغ في مركز الشرطة.",
+  "ex_tr": "dīr blāgh fi markaz ish-shurTa.",
+  "ex_en": "File a report at the police station.",
+  "note": "pl. بلاغات blāghāt",
+  "phrases": [
+   {
+    "ar": "بلاغ سرقة",
+    "tr": "blāgh sirga",
+    "en": "a theft report"
+   },
+   {
+    "ar": "بلاغ كاذب",
+    "tr": "blāgh kādhib",
+    "en": "a false report"
+   }
+  ]
+ },
+ {
+  "ar": "محضر",
+  "tr": "ma7Dar",
+  "en": "police report; official record; minutes",
+  "msa": "محضر",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "الشرطة كتبت محضر للحادث.",
+  "ex_tr": "ish-shurTa katbat ma7Dar lil-7ādith.",
+  "ex_en": "The police wrote up a report of the accident.",
+  "note": "pl. محاضر ma7āDir",
+  "phrases": [
+   {
+    "ar": "محضر رسمي",
+    "tr": "ma7Dar rasmi",
+    "en": "an official report"
+   },
+   {
+    "ar": "محضر اجتماع",
+    "tr": "ma7Dar ijtimā3",
+    "en": "meeting minutes"
+   }
+  ]
+ },
+ {
+  "ar": "تحقيق",
+  "tr": "ta7gīg",
+  "en": "investigation; inquiry",
+  "msa": "تحقيق",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "النيابة فتحت تحقيق.",
+  "ex_tr": "in-niyāba fata7at ta7gīg.",
+  "ex_en": "The prosecution opened an investigation.",
+  "note": "pl. تحقيقات",
+  "phrases": [
+   {
+    "ar": "تحت التحقيق",
+    "tr": "ta7t it-ta7gīg",
+    "en": "under investigation"
+   },
+   {
+    "ar": "تحقيق في الموضوع",
+    "tr": "ta7gīg fil-mawDū3",
+    "en": "an inquiry into the matter"
+   }
+  ]
+ },
+ {
+  "ar": "نيابة",
+  "tr": "niyāba",
+  "en": "public prosecution; prosecutor's office",
+  "msa": "النيابة العامة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "القضية في النيابة.",
+  "ex_tr": "il-gaDiyya fin-niyāba.",
+  "ex_en": "The case is with the prosecutor.",
+  "phrases": [
+   {
+    "ar": "النيابة العامة",
+    "tr": "in-niyāba l-3āmma",
+    "en": "the public prosecution"
+   },
+   {
+    "ar": "وكيل النيابة",
+    "tr": "wakīl in-niyāba",
+    "en": "the prosecutor"
+   }
+  ]
+ },
+ {
+  "ar": "محكمة",
+  "tr": "ma7kama",
+  "en": "court; courthouse",
+  "msa": "محكمة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "عنده جلسة في المحكمة بكرة.",
+  "ex_tr": "3andah jalsa fil-ma7kama bukra.",
+  "ex_en": "He has a hearing at court tomorrow.",
+  "note": "pl. محاكم ma7ākim",
+  "phrases": [
+   {
+    "ar": "محكمة الأسرة",
+    "tr": "ma7kamit il-usra",
+    "en": "family court"
+   },
+   {
+    "ar": "رفع قضية في المحكمة",
+    "tr": "rfa3 gaDiyya fil-ma7kama",
+    "en": "he filed a case in court"
+   }
+  ]
+ },
+ {
+  "ar": "جلسة",
+  "tr": "jalsa",
+  "en": "court hearing; session",
+  "msa": "جلسة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "الجلسة تأجلت لشهر الجاي.",
+  "ex_tr": "ij-jalsa t'ajjlat l-shahr ij-jāy.",
+  "ex_en": "The hearing was postponed to next month.",
+  "note": "pl. جلسات jalsāt; also a sitting or gathering",
+  "phrases": [
+   {
+    "ar": "جلسة المحكمة",
+    "tr": "jalsit il-ma7kama",
+    "en": "the court hearing"
+   },
+   {
+    "ar": "تأجيل الجلسة",
+    "tr": "ta'jīl ij-jalsa",
+    "en": "adjournment of the hearing"
+   }
+  ]
+ },
+ {
+  "ar": "حكم",
+  "tr": "7ukm",
+  "en": "verdict; sentence; ruling",
+  "msa": "حكم",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "الحكم طلع بالبراءة.",
+  "ex_tr": "il-7ukm Tla3 bil-barā'a.",
+  "ex_en": "The verdict was acquittal.",
+  "note": "pl. أحكام a7kām",
+  "phrases": [
+   {
+    "ar": "حكم نهائي",
+    "tr": "7ukm nihā'i",
+    "en": "a final ruling"
+   },
+   {
+    "ar": "حكم بالسجن",
+    "tr": "7ukm bis-sijn",
+    "en": "a prison sentence"
+   }
+  ]
+ },
+ {
+  "ar": "سجن",
+  "tr": "sijn",
+  "en": "prison",
+  "msa": "سجن",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "قعد في السجن عامين.",
+  "ex_tr": "g3ad fis-sijn 3āmēn.",
+  "ex_en": "He spent two years in prison.",
+  "note": "pl. سجون sjūn",
+  "phrases": [
+   {
+    "ar": "دخل السجن",
+    "tr": "dkhal is-sijn",
+    "en": "he went to prison"
+   },
+   {
+    "ar": "طلع من السجن",
+    "tr": "Tla3 min is-sijn",
+    "en": "he got out of prison"
+   }
+  ]
+ },
+ {
+  "ar": "حبس",
+  "tr": "7abs",
+  "en": "jail; lock-up; detention",
+  "msa": "حبس",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "الشرطة حطوه في الحبس ليلة.",
+  "ex_tr": "ish-shurTa 7aTTūh fil-7abs līla.",
+  "ex_en": "The police put him in the lock-up for a night.",
+  "note": "Libyan everyday word for jail",
+  "phrases": [
+   {
+    "ar": "دخلوه الحبس",
+    "tr": "dakhkhalūh il-7abs",
+    "en": "they locked him up"
+   },
+   {
+    "ar": "حبس احتياطي",
+    "tr": "7abs i7tiyāTi",
+    "en": "pre-trial detention"
+   }
+  ]
+ },
+ {
+  "ar": "متهم",
+  "tr": "mittaham",
+  "en": "accused; defendant; suspect",
+  "msa": "متهم",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "المتهم نكر كل شي.",
+  "ex_tr": "il-mittaham nkar kull shay.",
+  "ex_en": "The accused denied everything.",
+  "note": "pl. متهمين",
+  "phrases": [
+   {
+    "ar": "المتهم بريء",
+    "tr": "il-mittaham barī'",
+    "en": "the accused is innocent"
+   },
+   {
+    "ar": "متهم بالسرقة",
+    "tr": "mittaham bis-sirga",
+    "en": "accused of theft"
+   }
+  ]
+ },
+ {
+  "ar": "شاهد",
+  "tr": "shāhid",
+  "en": "witness",
+  "msa": "شاهد",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "كان فيه شاهد على الحادث.",
+  "ex_tr": "kān fīh shāhid 3ala l-7ādith.",
+  "ex_en": "There was a witness to the accident.",
+  "note": "pl. شهود shhūd",
+  "phrases": [
+   {
+    "ar": "شاهد عيان",
+    "tr": "shāhid 3iyān",
+    "en": "eyewitness"
+   },
+   {
+    "ar": "جيب شهود",
+    "tr": "jīb shhūd",
+    "en": "bring witnesses"
+   }
+  ]
+ },
+ {
+  "ar": "جريمة",
+  "tr": "jarīma",
+  "en": "crime",
+  "msa": "جريمة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "صارت جريمة في الحومة.",
+  "ex_tr": "Sārat jarīma fil-7ōma.",
+  "ex_en": "A crime happened in the neighbourhood.",
+  "note": "pl. جرايم jarāyim",
+  "phrases": [
+   {
+    "ar": "جريمة قتل",
+    "tr": "jarīmit gatl",
+    "en": "murder"
+   },
+   {
+    "ar": "الجرايم زادت",
+    "tr": "ij-jarāyim zādat",
+    "en": "crime has increased"
+   }
+  ]
+ },
+ {
+  "ar": "سرقة",
+  "tr": "sirga",
+  "en": "theft; robbery",
+  "msa": "سرقة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "فيه سرقة مكاين هلبة.",
+  "ex_tr": "fīh sirgit makāyin halba.",
+  "ex_en": "There are lots of car thefts.",
+  "note": "pl. سرقات sirgāt",
+  "phrases": [
+   {
+    "ar": "سرقة في وضح النهار",
+    "tr": "sirga fi wDa7 in-nhār",
+    "en": "robbery in broad daylight"
+   },
+   {
+    "ar": "بلاغ سرقة",
+    "tr": "blāgh sirga",
+    "en": "a theft report"
+   }
+  ]
+ },
+ {
+  "ar": "سرّاق",
+  "tr": "sarrāg",
+  "en": "thief",
+  "msa": "سارق",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "السرّاق خش للحوش في الليل.",
+  "ex_tr": "is-sarrāg khashsh lil-7ōsh fil-līl.",
+  "ex_en": "The thief got into the house at night.",
+  "note": "pl. سرّاقة sarrāga; also حرامي 7arāmi",
+  "phrases": [
+   {
+    "ar": "شدّوا السرّاق",
+    "tr": "shaddu s-sarrāg",
+    "en": "they caught the thief"
+   },
+   {
+    "ar": "سرّاق مكاين",
+    "tr": "sarrāg makāyin",
+    "en": "a car thief"
+   }
+  ]
+ },
+ {
+  "ar": "نصّاب",
+  "tr": "naSSāb",
+  "en": "con man; swindler",
+  "msa": "نصاب",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "ما تتعاملش معاه، نصّاب.",
+  "ex_tr": "ma tit3āmalsh ma3āh, naSSāb.",
+  "ex_en": "Don't deal with him, he's a swindler.",
+  "note": "pl. نصّابة naSSāba",
+  "phrases": [
+   {
+    "ar": "طلع نصّاب",
+    "tr": "Tla3 naSSāb",
+    "en": "he turned out to be a con man"
+   },
+   {
+    "ar": "نصب عليّ",
+    "tr": "naSab 3layya",
+    "en": "he conned me"
+   }
+  ]
+ },
+ {
+  "ar": "مخدرات",
+  "tr": "mukhaddirāt",
+  "en": "drugs (narcotics)",
+  "msa": "مخدرات",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "شدّوه بالمخدرات.",
+  "ex_tr": "shaddūh bil-mukhaddirāt.",
+  "ex_en": "They caught him with drugs.",
+  "phrases": [
+   {
+    "ar": "مكافحة المخدرات",
+    "tr": "mukāfa7it il-mukhaddirāt",
+    "en": "anti-narcotics"
+   },
+   {
+    "ar": "تاجر مخدرات",
+    "tr": "tājir mukhaddirāt",
+    "en": "drug dealer"
+   }
+  ]
+ },
+ {
+  "ar": "كفالة",
+  "tr": "kafāla",
+  "en": "bail; guarantee; sponsorship",
+  "msa": "كفالة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "طلع بكفالة.",
+  "ex_tr": "Tla3 b-kafāla.",
+  "ex_en": "He got out on bail.",
+  "phrases": [
+   {
+    "ar": "كفالة مالية",
+    "tr": "kafāla māliyya",
+    "en": "financial bail"
+   },
+   {
+    "ar": "تحت كفالته",
+    "tr": "ta7t kafāltah",
+    "en": "under his sponsorship"
+   }
+  ]
+ },
+ {
+  "ar": "غرامة",
+  "tr": "gharāma",
+  "en": "fine; penalty",
+  "msa": "غرامة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "دفع غرامة مية دينار.",
+  "ex_tr": "dfa3 gharāma mya dīnār.",
+  "ex_en": "He paid a hundred-dinar fine.",
+  "note": "pl. غرامات gharāmāt",
+  "phrases": [
+   {
+    "ar": "غرامة تأخير",
+    "tr": "gharāmit ta'khīr",
+    "en": "late fee"
+   },
+   {
+    "ar": "غرامة مالية",
+    "tr": "gharāma māliyya",
+    "en": "a monetary fine"
+   }
+  ]
+ },
+ {
+  "ar": "عقوبة",
+  "tr": "3ugūba",
+  "en": "punishment; penalty",
+  "msa": "عقوبة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "العقوبة سجن سنة.",
+  "ex_tr": "il-3ugūba sijn sna.",
+  "ex_en": "The penalty is a year in prison.",
+  "note": "pl. عقوبات 3ugūbāt",
+  "phrases": [
+   {
+    "ar": "عقوبة الإعدام",
+    "tr": "3ugūbit il-i3dām",
+    "en": "death penalty"
+   },
+   {
+    "ar": "عقوبة خفيفة",
+    "tr": "3ugūba khfīfa",
+    "en": "a light sentence"
+   }
+  ]
+ },
+ {
+  "ar": "براءة",
+  "tr": "barā'a",
+  "en": "acquittal; innocence",
+  "msa": "براءة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "خذا براءة من المحكمة.",
+  "ex_tr": "khdha barā'a min il-ma7kama.",
+  "ex_en": "The court acquitted him.",
+  "phrases": [
+   {
+    "ar": "حكم بالبراءة",
+    "tr": "7ukm bil-barā'a",
+    "en": "an acquittal ruling"
+   },
+   {
+    "ar": "براءة الصغار",
+    "tr": "barā'it iS-Sghār",
+    "en": "the innocence of children"
+   }
+  ]
+ },
+ {
+  "ar": "استئناف",
+  "tr": "isti'nāf",
+  "en": "appeal (legal)",
+  "msa": "استئناف",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "المحامي قدّم استئناف.",
+  "ex_tr": "il-m7āmi gaddam isti'nāf.",
+  "ex_en": "The lawyer lodged an appeal.",
+  "phrases": [
+   {
+    "ar": "محكمة الاستئناف",
+    "tr": "ma7kamit il-isti'nāf",
+    "en": "court of appeal"
+   },
+   {
+    "ar": "الحكم قابل للاستئناف",
+    "tr": "il-7ukm gābil lil-isti'nāf",
+    "en": "the ruling can be appealed"
+   }
+  ]
+ },
+ {
+  "ar": "دعوى",
+  "tr": "da3wa",
+  "en": "lawsuit; legal claim",
+  "msa": "دعوى",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "رفع عليه دعوى.",
+  "ex_tr": "rfa3 3alēh da3wa.",
+  "ex_en": "He filed a lawsuit against him.",
+  "note": "pl. دعاوي da3āwi",
+  "phrases": [
+   {
+    "ar": "دعوى طلاق",
+    "tr": "da3wit Talāg",
+    "en": "divorce suit"
+   },
+   {
+    "ar": "دعوى قضائية",
+    "tr": "da3wa gaDā'iyya",
+    "en": "a legal case"
+   }
+  ]
+ },
+ {
+  "ar": "محرر عقود",
+  "tr": "mu7arrir 3ugūd",
+  "en": "notary; contract registrar",
+  "msa": "كاتب عدل",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "كتبنا عقد البيع عند محرر عقود.",
+  "ex_tr": "katbna 3agd il-bē3 3and mu7arrir 3ugūd.",
+  "ex_en": "We drew up the sale contract at a notary's.",
+  "note": "Libyan term for a notary",
+  "phrases": [
+   {
+    "ar": "مكتب محرر عقود",
+    "tr": "maktab mu7arrir 3ugūd",
+    "en": "a notary's office"
+   },
+   {
+    "ar": "ختم محرر العقود",
+    "tr": "khatm mu7arrir il-3ugūd",
+    "en": "the notary's seal"
+   }
+  ]
+ },
+ {
+  "ar": "توكيل",
+  "tr": "tawkīl",
+  "en": "power of attorney",
+  "msa": "توكيل",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "عطيته توكيل يبيع الحوش.",
+  "ex_tr": "3Tītah tawkīl ybī3 il-7ōsh.",
+  "ex_en": "I gave him power of attorney to sell the house.",
+  "phrases": [
+   {
+    "ar": "توكيل عام",
+    "tr": "tawkīl 3āmm",
+    "en": "general power of attorney"
+   },
+   {
+    "ar": "توكيل رسمي",
+    "tr": "tawkīl rasmi",
+    "en": "official power of attorney"
+   }
+  ]
+ },
+ {
+  "ar": "عقار",
+  "tr": "3agār",
+  "en": "real estate; property",
+  "msa": "عقار",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "يخدم في العقارات.",
+  "ex_tr": "yikhdim fil-3agārāt.",
+  "ex_en": "He works in real estate.",
+  "note": "pl. عقارات 3agārāt",
+  "phrases": [
+   {
+    "ar": "سوق العقارات",
+    "tr": "sūg il-3agārāt",
+    "en": "the property market"
+   },
+   {
+    "ar": "التسجيل العقاري",
+    "tr": "it-tasjīl il-3agāri",
+    "en": "land registry"
+   }
+  ]
+ },
+ {
+  "ar": "مكتب عقارات",
+  "tr": "maktab 3agārāt",
+  "en": "estate agency",
+  "msa": "مكتب عقارات",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "لقينا الشقة عن طريق مكتب عقارات.",
+  "ex_tr": "lgēna sh-shagga 3an Trīg maktab 3agārāt.",
+  "ex_en": "We found the flat through an estate agency.",
+  "phrases": [
+   {
+    "ar": "سمسار عقارات",
+    "tr": "samsār 3agārāt",
+    "en": "estate agent"
+   },
+   {
+    "ar": "عمولة مكتب العقارات",
+    "tr": "3umūlit maktab il-3agārāt",
+    "en": "the agency's commission"
+   }
+  ]
+ },
+ {
+  "ar": "تأخير",
+  "tr": "ta'khīr",
+  "en": "delay",
+  "msa": "تأخير",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "الرحلة فيها تأخير ساعتين.",
+  "ex_tr": "ir-ri7la fīha ta'khīr sā3tēn.",
+  "ex_en": "The flight is delayed two hours.",
+  "phrases": [
+   {
+    "ar": "سامحني على التأخير",
+    "tr": "sāma7ni 3at-ta'khīr",
+    "en": "sorry for the delay"
+   },
+   {
+    "ar": "تأخير في المرتبات",
+    "tr": "ta'khīr fil-murattabāt",
+    "en": "a delay in salaries"
+   }
+  ]
+ },
+ {
+  "ar": "إلغاء",
+  "tr": "ilghā'",
+  "en": "cancellation",
+  "msa": "إلغاء",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "جانا خبر إلغاء الرحلة.",
+  "ex_tr": "jāna khbar ilghā' ir-ri7la.",
+  "ex_en": "We got news that the flight was cancelled.",
+  "phrases": [
+   {
+    "ar": "إلغاء الحجز",
+    "tr": "ilghā' il-7ajz",
+    "en": "cancelling the booking"
+   },
+   {
+    "ar": "إلغاء القرار",
+    "tr": "ilghā' il-garār",
+    "en": "revoking the decision"
+   }
+  ]
+ },
+ {
+  "ar": "ذهاب وعودة",
+  "tr": "dhahāb w 3ōda",
+  "en": "return (round-trip)",
+  "msa": "ذهاب وعودة",
+  "pos": "phrase",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "تذكرة ذهاب وعودة لإسطنبول.",
+  "ex_tr": "tadhkra dhahāb w 3ōda l-isTanbūl.",
+  "ex_en": "A return ticket to Istanbul.",
+  "phrases": [
+   {
+    "ar": "ذهاب بس",
+    "tr": "dhahāb bass",
+    "en": "one way only"
+   },
+   {
+    "ar": "قداش الذهاب والعودة؟",
+    "tr": "gaddāsh idh-dhahāb wil-3ōda?",
+    "en": "How much is the return?"
+   }
+  ]
+ },
+ {
+  "ar": "مغادرة",
+  "tr": "mughādra",
+  "en": "departure",
+  "msa": "مغادرة",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "صالة المغادرة في الدور الفوقاني.",
+  "ex_tr": "Sālit il-mughādra fid-dōr il-fōgāni.",
+  "ex_en": "The departure lounge is upstairs.",
+  "phrases": [
+   {
+    "ar": "وقت المغادرة",
+    "tr": "wagt il-mughādra",
+    "en": "departure time"
+   },
+   {
+    "ar": "ختم المغادرة",
+    "tr": "khatm il-mughādra",
+    "en": "exit stamp"
+   }
+  ]
+ },
+ {
+  "ar": "وصول",
+  "tr": "wuSūl",
+  "en": "arrival",
+  "msa": "وصول",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "صالة الوصول مزحومة.",
+  "ex_tr": "Sālit il-wuSūl maz7ūma.",
+  "ex_en": "The arrivals hall is crowded.",
+  "phrases": [
+   {
+    "ar": "وقت الوصول",
+    "tr": "wagt il-wuSūl",
+    "en": "arrival time"
+   },
+   {
+    "ar": "عند الوصول عيّطلي",
+    "tr": "3and il-wuSūl 3ayyiTli",
+    "en": "call me when you arrive"
+   }
+  ]
+ },
+ {
+  "ar": "ترانزيت",
+  "tr": "tranzīt",
+  "en": "transit; layover",
+  "msa": "ترانزيت",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "عندي ترانزيت في إسطنبول.",
+  "ex_tr": "3andi tranzīt fi isTanbūl.",
+  "ex_en": "I have a layover in Istanbul.",
+  "phrases": [
+   {
+    "ar": "ترانزيت طويل",
+    "tr": "tranzīt Twīl",
+    "en": "a long layover"
+   },
+   {
+    "ar": "رحلة بلا ترانزيت",
+    "tr": "ri7la bla tranzīt",
+    "en": "a direct flight"
+   }
+  ]
+ },
+ {
+  "ar": "منفذ",
+  "tr": "manfadh",
+  "en": "border crossing; port of entry",
+  "msa": "منفذ حدودي",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "منفذ رأس جدير مسكّر.",
+  "ex_tr": "manfadh rās ijdīr msakkar.",
+  "ex_en": "The Ras Ajdir crossing is closed.",
+  "note": "pl. منافذ manāfidh",
+  "phrases": [
+   {
+    "ar": "المنفذ البري",
+    "tr": "il-manfadh il-barri",
+    "en": "the land crossing"
+   },
+   {
+    "ar": "طابور في المنفذ",
+    "tr": "Tābūr fil-manfadh",
+    "en": "a queue at the border crossing"
+   }
+  ]
+ },
+ {
+  "ar": "شركة طيران",
+  "tr": "sharikat Tayarān",
+  "en": "airline",
+  "msa": "شركة طيران",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "أي شركة طيران تمشي لتونس؟",
+  "ex_tr": "ayy sharikat Tayarān timshi l-tūnis?",
+  "ex_en": "Which airline flies to Tunis?",
+  "note": "pl. شركات طيران",
+  "phrases": [
+   {
+    "ar": "الخطوط الليبية",
+    "tr": "il-khuTūT il-lībiyya",
+    "en": "Libyan Airlines"
+   },
+   {
+    "ar": "الأفريقية",
+    "tr": "il-afrīqiyya",
+    "en": "Afriqiyah Airways"
+   }
+  ]
+ },
+ {
+  "ar": "طيران",
+  "tr": "Tayarān",
+  "en": "aviation; flying; flights",
+  "msa": "طيران",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "الطيران مسكّر بسبب الضباب.",
+  "ex_tr": "iT-Tayarān msakkar b-sabab iD-Dbāb.",
+  "ex_en": "Flights are suspended because of the fog.",
+  "phrases": [
+   {
+    "ar": "بالطيران",
+    "tr": "biT-Tayarān",
+    "en": "by air"
+   },
+   {
+    "ar": "خوف من الطيران",
+    "tr": "khōf min iT-Tayarān",
+    "en": "fear of flying"
+   }
+  ]
+ },
+ {
+  "ar": "مقعد",
+  "tr": "mag3ad",
+  "en": "seat (in a vehicle, plane)",
+  "msa": "مقعد",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "نبي مقعد جنب الشباك.",
+  "ex_tr": "nibbi mag3ad jamb ish-shubbāk.",
+  "ex_en": "I want a window seat.",
+  "note": "pl. مقاعد magā3id",
+  "phrases": [
+   {
+    "ar": "مقعد قدامي",
+    "tr": "mag3ad giddāmi",
+    "en": "front seat"
+   },
+   {
+    "ar": "مقاعد فاضية",
+    "tr": "magā3id fāDya",
+    "en": "empty seats"
+   }
+  ]
+ },
+ {
+  "ar": "إقلاع",
+  "tr": "iqlā3",
+  "en": "take-off",
+  "msa": "إقلاع",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "الإقلاع الساعة ستة الصبح.",
+  "ex_tr": "il-iqlā3 is-sā3a sitta S-SbaH.",
+  "ex_en": "Take-off is at six in the morning.",
+  "phrases": [
+   {
+    "ar": "ساعة الإقلاع",
+    "tr": "sā3it il-iqlā3",
+    "en": "take-off time"
+   },
+   {
+    "ar": "قبل الإقلاع",
+    "tr": "gbal il-iqlā3",
+    "en": "before take-off"
+   }
+  ]
+ },
+ {
+  "ar": "هبوط",
+  "tr": "hubūT",
+  "en": "landing (plane)",
+  "msa": "هبوط",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "الهبوط كان صعيب بسبب الريح.",
+  "ex_tr": "il-hubūT kān S3īb b-sabab ir-rī7.",
+  "ex_en": "The landing was rough because of the wind.",
+  "phrases": [
+   {
+    "ar": "هبوط اضطراري",
+    "tr": "hubūT iDTirāri",
+    "en": "emergency landing"
+   },
+   {
+    "ar": "قبل الهبوط",
+    "tr": "gbal il-hubūT",
+    "en": "before landing"
+   }
+  ]
+ },
+ {
+  "ar": "مكتب سفريات",
+  "tr": "maktab safariyyāt",
+  "en": "travel agency",
+  "msa": "مكتب سياحة وسفر",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "حجزت التذكرة من مكتب سفريات.",
+  "ex_tr": "7jazt it-tadhkra min maktab safariyyāt.",
+  "ex_en": "I booked the ticket at a travel agency.",
+  "note": "pl. مكاتب سفريات",
+  "phrases": [
+   {
+    "ar": "مكتب سفريات في شارع عمر المختار",
+    "tr": "maktab safariyyāt fi shāri3 3umar il-mukhtār",
+    "en": "a travel agency on Omar Mukhtar Street"
+   },
+   {
+    "ar": "عروض مكتب السفريات",
+    "tr": "3urūD maktab is-safariyyāt",
+    "en": "the agency's offers"
+   }
+  ]
+ },
+ {
+  "ar": "سايح",
+  "tr": "sāyi7",
+  "en": "tourist",
+  "msa": "سائح",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "زمان كانوا السوايح يجوا للبدة.",
+  "ex_tr": "zamān kānu s-swāyi7 yjū l-labda.",
+  "ex_en": "Tourists used to come to Leptis Magna.",
+  "note": "pl. سوّاح suwwā7",
+  "phrases": [
+   {
+    "ar": "سايح أجنبي",
+    "tr": "sāyi7 ajnabi",
+    "en": "a foreign tourist"
+   },
+   {
+    "ar": "دليل للسوّاح",
+    "tr": "dalīl lis-suwwā7",
+    "en": "a guide for tourists"
+   }
+  ]
+ },
+ {
+  "ar": "سياحة",
+  "tr": "siyā7a",
+  "en": "tourism",
+  "msa": "سياحة",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "ليبيا فيها أماكن سياحة هلبة.",
+  "ex_tr": "lībya fīha amākin siyā7a halba.",
+  "ex_en": "Libya has many tourist spots.",
+  "phrases": [
+   {
+    "ar": "وزارة السياحة",
+    "tr": "wizārit is-siyā7a",
+    "en": "Ministry of Tourism"
+   },
+   {
+    "ar": "سياحة صحراوية",
+    "tr": "siyā7a Sa7rāwiyya",
+    "en": "desert tourism"
+   }
+  ]
+ },
+ {
+  "ar": "دليل",
+  "tr": "dalīl",
+  "en": "guide; directory; evidence",
+  "msa": "دليل",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "خذينا دليل في غدامس.",
+  "ex_tr": "khdhēna dalīl fi ghdāmis.",
+  "ex_en": "We took a guide in Ghadames.",
+  "note": "pl. أدلّة adilla",
+  "phrases": [
+   {
+    "ar": "دليل سياحي",
+    "tr": "dalīl siyā7i",
+    "en": "tourist guide"
+   },
+   {
+    "ar": "ما فيش دليل",
+    "tr": "ma fīsh dalīl",
+    "en": "there's no evidence"
+   }
+  ]
+ },
+ {
+  "ar": "عبّارة",
+  "tr": "3abbāra",
+  "en": "ferry",
+  "msa": "عبّارة",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "العبّارة تمشي من طرابلس لمالطا.",
+  "ex_tr": "il-3abbāra timshi min Trābles l-malTa.",
+  "ex_en": "The ferry goes from Tripoli to Malta.",
+  "note": "pl. عبّارات 3abbārāt",
+  "phrases": [
+   {
+    "ar": "ركبنا العبّارة",
+    "tr": "rkibna l-3abbāra",
+    "en": "we took the ferry"
+   },
+   {
+    "ar": "تذكرة العبّارة",
+    "tr": "tadhkrit il-3abbāra",
+    "en": "the ferry ticket"
+   }
+  ]
+ },
+ {
+  "ar": "قطار",
+  "tr": "giTār",
+  "en": "train",
+  "msa": "قطار",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "ليبيا ما فيهاش قطار.",
+  "ex_tr": "lībya ma fīhāsh giTār.",
+  "ex_en": "Libya has no train.",
+  "note": "pl. قطارات; older Libyans say ترينو (Italian treno)",
+  "phrases": [
+   {
+    "ar": "ركبنا القطار في تونس",
+    "tr": "rkibna l-giTār fi tūnis",
+    "en": "we took the train in Tunisia"
+   },
+   {
+    "ar": "محطة القطار",
+    "tr": "ma7aTTit il-giTār",
+    "en": "the train station"
+   }
+  ]
+ },
+ {
+  "ar": "سكة حديد",
+  "tr": "sikkit 7dīd",
+  "en": "railway",
+  "msa": "سكة حديد",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "الطليان بنوا سكة حديد في ليبيا.",
+  "ex_tr": "iT-Tilyān bnu sikkit 7dīd fi lībya.",
+  "ex_en": "The Italians built a railway in Libya.",
+  "note": "pl. سكك حديد",
+  "phrases": [
+   {
+    "ar": "مشروع سكة الحديد",
+    "tr": "mashrū3 sikkit il-7dīd",
+    "en": "the railway project"
+   },
+   {
+    "ar": "السكة القديمة",
+    "tr": "is-sikka l-gdīma",
+    "en": "the old railway line"
+   }
+  ]
+ },
+ {
+  "ar": "استقبال",
+  "tr": "istigbāl",
+  "en": "reception (desk); welcome",
+  "msa": "استقبال",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "سلّم المفتاح للاستقبال.",
+  "ex_tr": "sallim il-miftā7 lil-istigbāl.",
+  "ex_en": "Hand the key to reception.",
+  "phrases": [
+   {
+    "ar": "موظف الاستقبال",
+    "tr": "mwaDHDHaf il-istigbāl",
+    "en": "receptionist"
+   },
+   {
+    "ar": "استقبال زين",
+    "tr": "istigbāl zēn",
+    "en": "a warm welcome"
+   }
+  ]
+ },
+ {
+  "ar": "اتجاه",
+  "tr": "ittijāh",
+  "en": "direction",
+  "msa": "اتجاه",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "انت ماشي في الاتجاه الغلط.",
+  "ex_tr": "inti māshi fil-ittijāh il-ghalaT.",
+  "ex_en": "You're going in the wrong direction.",
+  "note": "pl. اتجاهات",
+  "phrases": [
+   {
+    "ar": "باتجاه المطار",
+    "tr": "b-ittijāh il-maTār",
+    "en": "towards the airport"
+   },
+   {
+    "ar": "اتجاه واحد",
+    "tr": "ittijāh wā7id",
+    "en": "one-way (street)"
+   }
+  ]
+ },
+ {
+  "ar": "شنطة يد",
+  "tr": "shanTit yidd",
+  "en": "hand luggage; handbag",
+  "msa": "حقيبة يد",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "شنطة اليد ما تفوتش سبعة كيلو.",
+  "ex_tr": "shanTit il-yidd ma tfūtsh sab3a kīlu.",
+  "ex_en": "Hand luggage can't be over seven kilos.",
+  "note": "pl. شنط يد",
+  "phrases": [
+   {
+    "ar": "وين شنطة يدي؟",
+    "tr": "wīn shanTit yiddi?",
+    "en": "where's my handbag?"
+   },
+   {
+    "ar": "شنطة يد صغيرة",
+    "tr": "shanTit yidd Sghīra",
+    "en": "a small handbag"
+   }
+  ]
+ },
+ {
+  "ar": "وزن زايد",
+  "tr": "wazn zāyid",
+  "en": "excess baggage; overweight",
+  "msa": "وزن زائد",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "دفعت على الوزن الزايد.",
+  "ex_tr": "dfa3t 3al-wazn iz-zāyid.",
+  "ex_en": "I paid for excess baggage.",
+  "phrases": [
+   {
+    "ar": "الشنطة فيها وزن زايد",
+    "tr": "ish-shanTa fīha wazn zāyid",
+    "en": "the suitcase is overweight"
+   },
+   {
+    "ar": "قداش الكيلو الزايد؟",
+    "tr": "gaddāsh il-kīlu z-zāyid?",
+    "en": "how much per extra kilo?"
+   }
+  ]
+ },
+ {
+  "ar": "بطاقة صعود",
+  "tr": "biTāgit Su3ūd",
+  "en": "boarding pass",
+  "msa": "بطاقة صعود",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "وريني بطاقة الصعود.",
+  "ex_tr": "warrīni biTāgit iS-Su3ūd.",
+  "ex_en": "Show me your boarding pass.",
+  "phrases": [
+   {
+    "ar": "طلّع بطاقة الصعود",
+    "tr": "Talla3 biTāgit iS-Su3ūd",
+    "en": "print the boarding pass"
+   },
+   {
+    "ar": "بطاقة صعود إلكترونية",
+    "tr": "biTāgit Su3ūd iliktrōniyya",
+    "en": "an e-boarding pass"
+   }
+  ]
+ },
+ {
+  "ar": "بوابة الطيارة",
+  "tr": "bawwābit iT-Tayyāra",
+  "en": "departure gate",
+  "msa": "بوابة الصعود",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "الرحلة من البوابة رقم ثلاثة.",
+  "ex_tr": "ir-ri7la min il-bawwāba ragm thalātha.",
+  "ex_en": "The flight leaves from gate three.",
+  "phrases": [
+   {
+    "ar": "البوابة تسكّر بعد شوية",
+    "tr": "il-bawwāba tsakkir ba3d shwayya",
+    "en": "the gate closes soon"
+   },
+   {
+    "ar": "قدام البوابة",
+    "tr": "guddām il-bawwāba",
+    "en": "at the gate"
+   }
+  ]
+ },
+ {
+  "ar": "تفتيش",
+  "tr": "taftīsh",
+  "en": "search; inspection (security, customs)",
+  "msa": "تفتيش",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "فتشوا الشنطة في التفتيش.",
+  "ex_tr": "fattshu sh-shanTa fit-taftīsh.",
+  "ex_en": "They searched the bag at security.",
+  "phrases": [
+   {
+    "ar": "تفتيش الجمرك",
+    "tr": "taftīsh ij-jumruk",
+    "en": "customs inspection"
+   },
+   {
+    "ar": "نقطة تفتيش",
+    "tr": "nugTit taftīsh",
+    "en": "checkpoint"
+   }
+  ]
+ },
+ {
+  "ar": "حرس الحدود",
+  "tr": "7aras il-7udūd",
+  "en": "border guards",
+  "msa": "حرس الحدود",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "حرس الحدود وقفوا الماكينة.",
+  "ex_tr": "7aras il-7udūd waggfu l-makīna.",
+  "ex_en": "The border guards stopped the car.",
+  "phrases": [
+   {
+    "ar": "دورية حرس الحدود",
+    "tr": "dawriyyit 7aras il-7udūd",
+    "en": "border patrol"
+   },
+   {
+    "ar": "حرس السواحل",
+    "tr": "7aras is-sawā7il",
+    "en": "coast guard"
+   }
+  ]
+ },
+ {
+  "ar": "تهريب",
+  "tr": "tahrīb",
+  "en": "smuggling",
+  "msa": "تهريب",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "تهريب البنزينة لتونس زاد.",
+  "ex_tr": "tahrīb il-banzīna l-tūnis zād.",
+  "ex_en": "Fuel smuggling to Tunisia has increased.",
+  "phrases": [
+   {
+    "ar": "تهريب البشر",
+    "tr": "tahrīb il-bashar",
+    "en": "people smuggling"
+   },
+   {
+    "ar": "سلعة تهريب",
+    "tr": "sil3it tahrīb",
+    "en": "smuggled goods"
+   }
+  ]
+ },
+ {
+  "ar": "مهاجر",
+  "tr": "muhājir",
+  "en": "migrant; emigrant",
+  "msa": "مهاجر",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "فيه مهاجرين هلبة في ليبيا.",
+  "ex_tr": "fīh muhājrīn halba fi lībya.",
+  "ex_en": "There are many migrants in Libya.",
+  "note": "pl. مهاجرين muhājrīn",
+  "phrases": [
+   {
+    "ar": "مهاجر غير شرعي",
+    "tr": "muhājir ghēr shar3i",
+    "en": "an irregular migrant"
+   },
+   {
+    "ar": "ولده مهاجر في كندا",
+    "tr": "wildah muhājir fi kanada",
+    "en": "his son emigrated to Canada"
+   }
+  ]
+ },
+ {
+  "ar": "هجرة",
+  "tr": "hijra",
+  "en": "migration; emigration",
+  "msa": "هجرة",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "الهجرة لأوروبا مش ساهلة.",
+  "ex_tr": "il-hijra l-urubba mush sāhla.",
+  "ex_en": "Emigrating to Europe isn't easy.",
+  "phrases": [
+   {
+    "ar": "هجرة غير شرعية",
+    "tr": "hijra ghēr shar3iyya",
+    "en": "illegal migration"
+   },
+   {
+    "ar": "مصلحة الهجرة",
+    "tr": "maSla7it il-hijra",
+    "en": "immigration authority"
+   }
+  ]
+ },
+ {
+  "ar": "لاجئ",
+  "tr": "lāji'",
+  "en": "refugee",
+  "msa": "لاجئ",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "جوا لاجئين من السودان.",
+  "ex_tr": "jaw lāj'īn min is-sūdān.",
+  "ex_en": "Refugees came from Sudan.",
+  "note": "pl. لاجئين lāj'īn",
+  "phrases": [
+   {
+    "ar": "مخيم لاجئين",
+    "tr": "mukhayyam lāj'īn",
+    "en": "refugee camp"
+   },
+   {
+    "ar": "لاجئ سياسي",
+    "tr": "lāji' siyāsi",
+    "en": "political refugee"
+   }
+  ]
+ },
+ {
+  "ar": "نازح",
+  "tr": "nāzi7",
+  "en": "displaced person",
+  "msa": "نازح",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "العيلة نازحة من تاورغاء.",
+  "ex_tr": "il-3ēla nāz7a min tāwurghā'.",
+  "ex_en": "The family is displaced from Tawergha.",
+  "note": "pl. نازحين nāz7īn",
+  "phrases": [
+   {
+    "ar": "مخيم نازحين",
+    "tr": "mukhayyam nāz7īn",
+    "en": "a camp for displaced people"
+   },
+   {
+    "ar": "النازحين رجعوا",
+    "tr": "in-nāz7īn rij3u",
+    "en": "the displaced people returned"
+   }
+  ]
+ },
+ {
+  "ar": "كفيل",
+  "tr": "kafīl",
+  "en": "sponsor; guarantor",
+  "msa": "كفيل",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "العامل لازمه كفيل.",
+  "ex_tr": "il-3āmil lāzmah kafīl.",
+  "ex_en": "The worker needs a sponsor.",
+  "note": "pl. كفلاء kufalā'",
+  "phrases": [
+   {
+    "ar": "كفيل للقرض",
+    "tr": "kafīl lil-garD",
+    "en": "a guarantor for the loan"
+   },
+   {
+    "ar": "من غير كفيل",
+    "tr": "min ghēr kafīl",
+    "en": "without a sponsor"
+   }
+  ]
+ },
+ {
+  "ar": "اعتصام",
+  "tr": "i3tiSām",
+  "en": "sit-in",
+  "msa": "اعتصام",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "المعلمين دايرين اعتصام.",
+  "ex_tr": "il-m3allmīn dāyrīn i3tiSām.",
+  "ex_en": "The teachers are staging a sit-in.",
+  "phrases": [
+   {
+    "ar": "اعتصام قدام الوزارة",
+    "tr": "i3tiSām guddām il-wizāra",
+    "en": "a sit-in in front of the ministry"
+   },
+   {
+    "ar": "فكّوا الاعتصام",
+    "tr": "fakku l-i3tiSām",
+    "en": "they ended the sit-in"
+   }
+  ]
+ },
+ {
+  "ar": "دورية",
+  "tr": "dawriyya",
+  "en": "patrol (police)",
+  "msa": "دورية",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "دورية الشرطة تلف في الحومة.",
+  "ex_tr": "dawriyyit ish-shurTa tliff fil-7ōma.",
+  "ex_en": "The police patrol goes round the neighbourhood.",
+  "note": "pl. دوريات dawriyyāt",
+  "phrases": [
+   {
+    "ar": "دورية ليلية",
+    "tr": "dawriyya līliyya",
+    "en": "a night patrol"
+   },
+   {
+    "ar": "سيارة دورية",
+    "tr": "sayyārit dawriyya",
+    "en": "a patrol car"
+   }
+  ]
+ },
+ {
+  "ar": "الدفاع المدني",
+  "tr": "id-difā3 il-madani",
+  "en": "civil defence; fire brigade",
+  "msa": "الدفاع المدني",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "عيطوا للدفاع المدني يطفوا الحريق.",
+  "ex_tr": "3ayyTu lid-difā3 il-madani yiTfu l-7arīg.",
+  "ex_en": "They called civil defence to put out the fire.",
+  "note": "Libyans also say المطافي il-maTāfi",
+  "phrases": [
+   {
+    "ar": "سيارة الدفاع المدني",
+    "tr": "sayyārit id-difā3 il-madani",
+    "en": "fire engine"
+   },
+   {
+    "ar": "رقم الدفاع المدني",
+    "tr": "ragm id-difā3 il-madani",
+    "en": "the civil defence number"
+   }
+  ]
+ },
+ {
+  "ar": "مباحث",
+  "tr": "mabā7ith",
+  "en": "criminal investigation police; CID",
+  "msa": "المباحث",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "المباحث شدّوا العصابة.",
+  "ex_tr": "il-mabā7ith shaddu l-3iSāba.",
+  "ex_en": "The CID caught the gang.",
+  "phrases": [
+   {
+    "ar": "المباحث الجنائية",
+    "tr": "il-mabā7ith ij-jinā'iyya",
+    "en": "criminal investigation"
+   },
+   {
+    "ar": "واحد من المباحث",
+    "tr": "wā7id min il-mabā7ith",
+    "en": "a plain-clothes detective"
+   }
+  ]
+ },
+ {
+  "ar": "خطف",
+  "tr": "khaTf",
+  "en": "kidnapping; abduction",
+  "msa": "خطف",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "فيه حالات خطف في الطريق.",
+  "ex_tr": "fīh 7ālāt khaTf fiT-Trīg.",
+  "ex_en": "There are cases of kidnapping on the road.",
+  "phrases": [
+   {
+    "ar": "عملية خطف",
+    "tr": "3amaliyyit khaTf",
+    "en": "a kidnapping"
+   },
+   {
+    "ar": "خطف مقابل فدية",
+    "tr": "khaTf mugābil fidya",
+    "en": "kidnapping for ransom"
+   }
+  ]
+ },
+ {
+  "ar": "كاميرا مراقبة",
+  "tr": "kāmira murāqaba",
+  "en": "security camera; CCTV",
+  "msa": "كاميرا مراقبة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "الكاميرات صوّرت السرّاق.",
+  "ex_tr": "il-kāmirāt Sawwrat is-sarrāg.",
+  "ex_en": "The cameras filmed the thief.",
+  "note": "pl. كاميرات مراقبة",
+  "phrases": [
+   {
+    "ar": "ركّب كاميرات مراقبة",
+    "tr": "rakkib kāmirāt murāqaba",
+    "en": "install security cameras"
+   },
+   {
+    "ar": "تسجيل الكاميرا",
+    "tr": "tasjīl il-kāmira",
+    "en": "the CCTV footage"
+   }
+  ]
+ },
+ {
+  "ar": "نجدة",
+  "tr": "najda",
+  "en": "emergency police (rapid response)",
+  "msa": "النجدة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "عيّط للنجدة!",
+  "ex_tr": "3ayyiT lin-najda!",
+  "ex_en": "Call the emergency police!",
+  "note": "Libyan emergency police number 1515",
+  "phrases": [
+   {
+    "ar": "شرطة النجدة",
+    "tr": "shurTit in-najda",
+    "en": "rapid-response police"
+   },
+   {
+    "ar": "رقم النجدة",
+    "tr": "ragm in-najda",
+    "en": "the emergency number"
+   }
+  ]
+ },
+ {
+  "ar": "زبّال",
+  "tr": "zabbāl",
+  "en": "rubbish collector; dustman",
+  "msa": "عامل النظافة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "الزبّال ما جاش من جمعة.",
+  "ex_tr": "iz-zabbāl ma jāsh min jum3a.",
+  "ex_en": "The rubbish collector hasn't come for a week.",
+  "note": "pl. زبّالة zabbāla; also عامل نظافة",
+  "phrases": [
+   {
+    "ar": "سيارة الزبّال",
+    "tr": "sayyārit iz-zabbāl",
+    "en": "the rubbish lorry"
+   },
+   {
+    "ar": "ساعة الزبّال",
+    "tr": "sā3it iz-zabbāl",
+    "en": "when the bin men come"
+   }
+  ]
+ },
+ {
+  "ar": "حاوية",
+  "tr": "7āwya",
+  "en": "rubbish skip; container",
+  "msa": "حاوية",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "حط الزبلة في الحاوية.",
+  "ex_tr": "7uTT iz-zibla fil-7āwya.",
+  "ex_en": "Put the rubbish in the skip.",
+  "note": "pl. حاويات 7āwyāt; also shipping container",
+  "phrases": [
+   {
+    "ar": "حاوية الزبلة مليانة",
+    "tr": "7āwyit iz-zibla malyāna",
+    "en": "the rubbish skip is full"
+   },
+   {
+    "ar": "حاويات في المينا",
+    "tr": "7āwyāt fil-mīna",
+    "en": "containers at the port"
+   }
+  ]
+ },
+ {
+  "ar": "مكب",
+  "tr": "makabb",
+  "en": "rubbish dump; landfill",
+  "msa": "مكب نفايات",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "مكب الزبلة قريب من الحوش.",
+  "ex_tr": "makabb iz-zibla grīb min il-7ōsh.",
+  "ex_en": "The rubbish dump is close to the house.",
+  "note": "pl. مكبات",
+  "phrases": [
+   {
+    "ar": "مكب عشوائي",
+    "tr": "makabb 3ashwā'i",
+    "en": "an illegal dump"
+   },
+   {
+    "ar": "ريحة المكب",
+    "tr": "rī7t il-makabb",
+    "en": "the smell of the dump"
+   }
+  ]
+ },
+ {
+  "ar": "نظافة",
+  "tr": "naDHāfa",
+  "en": "cleaning; sanitation services",
+  "msa": "نظافة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "شركة النظافة ما جاتش.",
+  "ex_tr": "sharikat in-naDHāfa ma jātsh.",
+  "ex_en": "The cleaning company didn't come.",
+  "phrases": [
+   {
+    "ar": "عامل نظافة",
+    "tr": "3āmil naDHāfa",
+    "en": "street cleaner"
+   },
+   {
+    "ar": "نظافة الشوارع",
+    "tr": "naDHāfit ish-shawāri3",
+    "en": "street cleaning"
+   }
+  ]
+ },
+ {
+  "ar": "مواصلات",
+  "tr": "muwāSalāt",
+  "en": "transport; transportation",
+  "msa": "مواصلات",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "المواصلات في طرابلس صعيبة.",
+  "ex_tr": "il-muwāSalāt fi Trābles S3ība.",
+  "ex_en": "Getting around Tripoli is hard.",
+  "phrases": [
+   {
+    "ar": "فلوس المواصلات",
+    "tr": "flūs il-muwāSalāt",
+    "en": "transport money"
+   },
+   {
+    "ar": "وزارة المواصلات",
+    "tr": "wizārit il-muwāSalāt",
+    "en": "Ministry of Transport"
+   }
+  ]
+ },
+ {
+  "ar": "نقل عام",
+  "tr": "nagl 3āmm",
+  "en": "public transport",
+  "msa": "نقل عام",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "ما فيش نقل عام زي الناس.",
+  "ex_tr": "ma fīsh nagl 3āmm zayy in-nās.",
+  "ex_en": "There's no proper public transport.",
+  "phrases": [
+   {
+    "ar": "باص النقل العام",
+    "tr": "bāS in-nagl il-3āmm",
+    "en": "public bus"
+   },
+   {
+    "ar": "شركة النقل العام",
+    "tr": "sharikat in-nagl il-3āmm",
+    "en": "the public transport company"
+   }
+  ]
+ },
+ {
+  "ar": "ميكروباص",
+  "tr": "mikrobāS",
+  "en": "minibus",
+  "msa": "حافلة صغيرة",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "ركبت الميكروباص لسوق الجمعة.",
+  "ex_tr": "rkibt il-mikrobāS l-sūg ij-jum3a.",
+  "ex_en": "I took the minibus to Souq al-Juma.",
+  "note": "pl. ميكروباصات; the main shared transport in Tripoli",
+  "phrases": [
+   {
+    "ar": "سواق الميكروباص",
+    "tr": "sawwāg il-mikrobāS",
+    "en": "the minibus driver"
+   },
+   {
+    "ar": "الميكروباص مليان",
+    "tr": "il-mikrobāS malyān",
+    "en": "the minibus is full"
+   }
+  ]
+ },
+ {
+  "ar": "محطة باصات",
+  "tr": "ma7aTTit bāSāt",
+  "en": "bus station",
+  "msa": "محطة حافلات",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "الباصات لتونس من محطة الباصات.",
+  "ex_tr": "il-bāSāt l-tūnis min ma7aTTit il-bāSāt.",
+  "ex_en": "Buses to Tunis leave from the bus station.",
+  "phrases": [
+   {
+    "ar": "قريب من محطة الباصات",
+    "tr": "grīb min ma7aTTit il-bāSāt",
+    "en": "near the bus station"
+   },
+   {
+    "ar": "نلقاك في المحطة",
+    "tr": "nalgāk fil-ma7aTTa",
+    "en": "I'll meet you at the station"
+   }
+  ]
+ },
+ {
+  "ar": "كرا ماكينة",
+  "tr": "kra makīna",
+  "en": "car hire",
+  "msa": "تأجير سيارات",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "خذينا كرا ماكينة في المطار.",
+  "ex_tr": "khdhēna kra makīna fil-maTār.",
+  "ex_en": "We hired a car at the airport.",
+  "phrases": [
+   {
+    "ar": "مكتب كرا مكاين",
+    "tr": "maktab kra makāyin",
+    "en": "a car-rental office"
+   },
+   {
+    "ar": "قداش كرا الماكينة في اليوم؟",
+    "tr": "gaddāsh kra l-makīna fil-yōm?",
+    "en": "How much is the car hire per day?"
+   }
+  ]
+ },
+ {
+  "ar": "جولة",
+  "tr": "jawla",
+  "en": "tour; round; drive around",
+  "msa": "جولة",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "درنا جولة في البلاد.",
+  "ex_tr": "dirna jawla fil-blād.",
+  "ex_en": "We took a drive around town.",
+  "note": "pl. جولات jawlāt",
+  "phrases": [
+   {
+    "ar": "جولة بالماكينة",
+    "tr": "jawla bil-makīna",
+    "en": "a drive around"
+   },
+   {
+    "ar": "جولة سياحية",
+    "tr": "jawla siyā7iyya",
+    "en": "a sightseeing tour"
+   }
+  ]
+ },
+ {
+  "ar": "تشيك إن",
+  "tr": "chek in",
+  "en": "check-in",
+  "msa": "تسجيل الوصول",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "التشيك إن يسكّر قبل ساعة.",
+  "ex_tr": "it-chek in ysakkir gbal sā3a.",
+  "ex_en": "Check-in closes an hour before.",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "دير التشيك إن أونلاين",
+    "tr": "dīr it-chek in onlāyn",
+    "en": "do the check-in online"
+   },
+   {
+    "ar": "كاونتر التشيك إن",
+    "tr": "kāwntar it-chek in",
+    "en": "the check-in counter"
+   }
+  ]
+ },
+ {
+  "ar": "جدول المواعيد",
+  "tr": "jadwal il-mawā3īd",
+  "en": "timetable; schedule",
+  "msa": "جدول المواعيد",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "شوف جدول المواعيد متاع الرحلات.",
+  "ex_tr": "shūf jadwal il-mawā3īd mtā3 ir-ri7lāt.",
+  "ex_en": "Check the flight timetable.",
+  "phrases": [
+   {
+    "ar": "حسب الجدول",
+    "tr": "7asab ij-jadwal",
+    "en": "according to the schedule"
+   },
+   {
+    "ar": "الجدول تبدّل",
+    "tr": "ij-jadwal tbaddal",
+    "en": "the schedule changed"
    }
   ]
  }

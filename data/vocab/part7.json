@@ -1,0 +1,3694 @@
+[
+  {
+    "ar": "تمدّد",
+    "tr": "tmaddad",
+    "en": "to stretch out; to lie down",
+    "msa": "تمدّد",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "تمدّد شوية على الكنبة.",
+    "ex_tr": "tmaddad shwayya 3al-kanaba.",
+    "ex_en": "He lay down a bit on the sofa.",
+    "note": "imperfect: نتمدّد nitmaddad (I stretch out), يتمدّد yitmaddad (he stretches out)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "نبي نتمدّد شوية",
+        "tr": "nibbi nitmaddad shwayya",
+        "en": "I want to lie down a little"
+      },
+      {
+        "ar": "تمدّد وارتاح",
+        "tr": "tmaddad w-irtā7",
+        "en": "Stretch out and relax"
+      }
+    ]
+  },
+  {
+    "ar": "تمطّى",
+    "tr": "tmaTTā",
+    "en": "to stretch (one's body)",
+    "msa": "تمطّى",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "ناض من الرقاد وتمطّى.",
+    "ex_tr": "nāD min ir-rgād w-tmaTTā.",
+    "ex_en": "He got out of bed and stretched.",
+    "note": "imperfect: نتمطّى nitmaTTā (I stretch), يتمطّى yitmaTTā (he stretches)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "قاعد يتمطّى ويتثاوب",
+        "tr": "gā3id yitmaTTā w-yitthāwib",
+        "en": "He's stretching and yawning"
+      },
+      {
+        "ar": "تمطّى قبل ما تنوض",
+        "tr": "tmaTTā gabl ma tnūD",
+        "en": "Stretch before you get up"
+      }
+    ]
+  },
+  {
+    "ar": "ركع",
+    "tr": "rka3",
+    "en": "to bow (in prayer); to kneel",
+    "msa": "ركع",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "ركع وسجد ورا الإمام.",
+    "ex_tr": "rka3 w-sjad wara l-imām.",
+    "ex_en": "He bowed and prostrated behind the imam.",
+    "note": "imperfect: نركع nirka3 (I bow), يركع yirka3 (he bows)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "لحقت الركعة قبل ما يركع",
+        "tr": "l7agt ir-rak3a gabl ma yirka3",
+        "en": "I caught the rak'a before he bowed"
+      },
+      {
+        "ar": "ما يركع إلا لربي",
+        "tr": "ma yirka3 illa l-rabbi",
+        "en": "He kneels only to God"
+      }
+    ]
+  },
+  {
+    "ar": "سجد",
+    "tr": "sjad",
+    "en": "to prostrate (in prayer)",
+    "msa": "سجد",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "سجد وطوّل في السجود.",
+    "ex_tr": "sjad w-Tawwal fi s-sujūd.",
+    "ex_en": "He prostrated and stayed long in prostration.",
+    "note": "imperfect: نسجد nisjid (I prostrate), يسجد yisjid (he prostrates)",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "سجد سجدة شكر",
+        "tr": "sjad sajdat shukur",
+        "en": "He made a prostration of thanks"
+      },
+      {
+        "ar": "راسه على الأرض وهو ساجد",
+        "tr": "rāsah 3al-arD w-hū sājid",
+        "en": "His head on the ground as he prostrates"
+      }
+    ]
+  },
+  {
+    "ar": "تكّى",
+    "tr": "takkā",
+    "en": "to lean (on); to recline",
+    "msa": "اتّكأ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "تكّى على الحيط وقعد يستنّى.",
+    "ex_tr": "takkā 3al-7ēT w-g3ad yistannā.",
+    "ex_en": "He leaned on the wall and waited.",
+    "note": "imperfect: نتكّى ntakkā (I lean), يتكّى ytakkā (he leans)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "تكّى على المخدة",
+        "tr": "takkā 3al-mkhadda",
+        "en": "Lean back on the cushion"
+      },
+      {
+        "ar": "ما تتكّاش على الباب",
+        "tr": "ma ttakkāsh 3al-bāb",
+        "en": "Don't lean on the door"
+      }
+    ]
+  },
+  {
+    "ar": "تقلّب",
+    "tr": "tgallab",
+    "en": "to toss and turn; to roll over",
+    "msa": "تقلّب",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "البارح قعدت نتقلّب للصبح.",
+    "ex_tr": "il-bāri7 g3adt nitgallab liS-SbaH.",
+    "ex_en": "Last night I tossed and turned till morning.",
+    "note": "imperfect: نتقلّب nitgallab (I toss and turn), يتقلّب yitgallab (he tosses and turn)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "تقلّب على جنبه",
+        "tr": "tgallab 3ala jambah",
+        "en": "He rolled onto his side"
+      },
+      {
+        "ar": "ما رقدتش، قعدت نتقلّب",
+        "tr": "ma rgadtsh, g3adt nitgallab",
+        "en": "I didn't sleep, I kept tossing and turning"
+      }
+    ]
+  },
+  {
+    "ar": "قلب",
+    "tr": "glab",
+    "en": "to flip; to turn over; to overturn",
+    "msa": "قلب",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "اقلب الخبزة باش ما تحرقش.",
+    "ex_tr": "uglub il-khubza bāsh ma t7argish.",
+    "ex_en": "Flip the bread so it doesn't burn.",
+    "note": "imperfect: نقلب nuglub (I flip), يقلب yuglub (he flips)",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "قلب الطاولة",
+        "tr": "glab iT-Tāwla",
+        "en": "He turned the table over"
+      },
+      {
+        "ar": "اقلب الورقة",
+        "tr": "uglub il-wurga",
+        "en": "Turn the page over"
+      }
+    ]
+  },
+  {
+    "ar": "التفت",
+    "tr": "ltfat",
+    "en": "to turn around (to look)",
+    "msa": "التفت",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "عيّطتله والتفت ليّا.",
+    "ex_tr": "3ayyaTtlah w-ltfat liyya.",
+    "ex_en": "I called him and he turned around to me.",
+    "note": "imperfect: نلتفت niltfit (I turn around), يلتفت yiltfit (he turns around)",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "ما التفتش وراه",
+        "tr": "ma ltfatsh warāh",
+        "en": "He didn't look back"
+      },
+      {
+        "ar": "التفت يمين ويسار",
+        "tr": "ltfit imīn w-isār",
+        "en": "Look right and left"
+      }
+    ]
+  },
+  {
+    "ar": "غمّض",
+    "tr": "ghammaD",
+    "en": "to close (one's eyes)",
+    "msa": "أغمض",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "غمّض عينيك وارقد.",
+    "ex_tr": "ghammiD 3ēnēk w-urgud.",
+    "ex_en": "Close your eyes and sleep.",
+    "note": "imperfect: نغمّض nghammiD (I close), يغمّض yghammiD (he closes)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "ما غمّضتش عيني الليلة",
+        "tr": "ma ghammaDtsh 3ēni il-lēla",
+        "en": "I didn't sleep a wink tonight"
+      },
+      {
+        "ar": "غمّض وعدّ لعشرة",
+        "tr": "ghammiD w-3idd l-3ashra",
+        "en": "Close your eyes and count to ten"
+      }
+    ]
+  },
+  {
+    "ar": "تثاوب",
+    "tr": "tthāwib",
+    "en": "to yawn",
+    "msa": "تثاءب",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "قعد يتثاوب، شكله ناعس.",
+    "ex_tr": "g3ad yitthāwib, shaklah nā3is.",
+    "ex_en": "He kept yawning; he looks sleepy.",
+    "note": "imperfect: نتثاوب nitthāwib (I yawn), يتثاوب yitthāwib (he yawns)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "حط يدك على فمك وانت تتثاوب",
+        "tr": "7uTT īdak 3ala fummak w-inta titthāwib",
+        "en": "Cover your mouth when you yawn"
+      },
+      {
+        "ar": "التثاوب يعدّي",
+        "tr": "it-tathāwub y3addi",
+        "en": "Yawning is contagious"
+      }
+    ]
+  },
+  {
+    "ar": "عطس",
+    "tr": "3Tas",
+    "en": "to sneeze",
+    "msa": "عطس",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "عطس وقلتله يرحمك الله.",
+    "ex_tr": "3Tas w-giltlah yar7amak allāh.",
+    "ex_en": "He sneezed and I said \"bless you\".",
+    "note": "imperfect: نعطس ni3Tas (I sneeze), يعطس yi3Tas (he sneezes). after a sneeze Libyans say الحمد لله and others reply يرحمك الله",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "قاعد نعطس من الغبرة",
+        "tr": "gā3id ni3Tas min il-ghubra",
+        "en": "I keep sneezing from the dust"
+      },
+      {
+        "ar": "عطس تلاتة مرات",
+        "tr": "3Tas tlāta marrāt",
+        "en": "He sneezed three times"
+      }
+    ]
+  },
+  {
+    "ar": "كحّ",
+    "tr": "ka77",
+    "en": "to cough",
+    "msa": "سعل",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "الصغير قاعد يكحّ من البارح.",
+    "ex_tr": "iS-Sghīr gā3id yku77 min il-bāri7.",
+    "ex_en": "The little one has been coughing since yesterday.",
+    "note": "imperfect: نكحّ nku77 (I cough), يكحّ yku77 (he coughs)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "كحّ هلبة في الليل",
+        "tr": "ka77 hallba fil-lēl",
+        "en": "He coughed a lot at night"
+      },
+      {
+        "ar": "حط يدك وانت تكحّ",
+        "tr": "7uTT īdak w-inta tku77",
+        "en": "Cover your mouth when you cough"
+      }
+    ]
+  },
+  {
+    "ar": "تنفّس",
+    "tr": "tnaffas",
+    "en": "to breathe",
+    "msa": "تنفّس",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "تنفّس بشوية، ما تخافش.",
+    "ex_tr": "tnaffas b-ishwayya, ma tkhāfsh.",
+    "ex_en": "Breathe slowly, don't be afraid.",
+    "note": "imperfect: نتنفّس nitnaffas (I breathe), يتنفّس yitnaffas (he breathes)",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "ما نقدرش نتنفّس",
+        "tr": "ma nigdarsh nitnaffas",
+        "en": "I can't breathe"
+      },
+      {
+        "ar": "تنفّس من خشمك",
+        "tr": "tnaffas min khashmak",
+        "en": "Breathe through your nose"
+      }
+    ]
+  },
+  {
+    "ar": "نفخ",
+    "tr": "nfakh",
+    "en": "to blow; to inflate",
+    "msa": "نفخ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "انفخ على الشاهي باش يبرد.",
+    "ex_tr": "unfukh 3ash-shāhi bāsh yibrad.",
+    "ex_en": "Blow on the tea so it cools.",
+    "note": "imperfect: ننفخ ninfukh (I blow), ينفخ yinfukh (he blows)",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "نفخ البالونة",
+        "tr": "nfakh il-ballūna",
+        "en": "He blew up the balloon"
+      },
+      {
+        "ar": "انفخ الشمعات",
+        "tr": "unfukh ish-sham3āt",
+        "en": "Blow out the candles"
+      }
+    ]
+  },
+  {
+    "ar": "صفّر",
+    "tr": "Saffar",
+    "en": "to whistle",
+    "msa": "صفّر",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "قعد يصفّر وهو يخدم.",
+    "ex_tr": "g3ad ySaffir w-hū yikhdim.",
+    "ex_en": "He was whistling while he worked.",
+    "note": "imperfect: نصفّر nSaffir (I whistle), يصفّر ySaffir (he whistles)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "الحكم صفّر",
+        "tr": "il-7akam Saffar",
+        "en": "The referee blew the whistle"
+      },
+      {
+        "ar": "ما تصفّرش في الليل",
+        "tr": "ma tSaffirsh fil-lēl",
+        "en": "Don't whistle at night"
+      }
+    ]
+  },
+  {
+    "ar": "بزق",
+    "tr": "bzag",
+    "en": "to spit",
+    "msa": "بصق",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "ممنوع تبزق في الشارع.",
+    "ex_tr": "mamnū3 tibzig fish-shāri3.",
+    "ex_en": "You mustn't spit in the street.",
+    "note": "imperfect: نبزق nibzig (I spit), يبزق yibzig (he spits)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "بزق على الأرض",
+        "tr": "bzag 3al-arD",
+        "en": "He spat on the ground"
+      },
+      {
+        "ar": "ما تبزقش",
+        "tr": "ma tibzigsh",
+        "en": "Don't spit"
+      }
+    ]
+  },
+  {
+    "ar": "بلع",
+    "tr": "bla3",
+    "en": "to swallow",
+    "msa": "بلع",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "ما نقدرش نبلع الحبّة.",
+    "ex_tr": "ma nigdarsh nibla3 il-7abba.",
+    "ex_en": "I can't swallow the pill.",
+    "note": "imperfect: نبلع nibla3 (I swallow), يبلع yibla3 (he swallows)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "بلعها بالمية",
+        "tr": "bla3ha bil-mayya",
+        "en": "He swallowed it with water"
+      },
+      {
+        "ar": "بلع لسانه",
+        "tr": "bla3 lsānah",
+        "en": "He fell silent (lit. swallowed his tongue)"
+      }
+    ]
+  },
+  {
+    "ar": "مضغ",
+    "tr": "mDagh",
+    "en": "to chew",
+    "msa": "مضغ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "امضغ الماكلة مليح.",
+    "ex_tr": "umDagh il-mākla mlī7.",
+    "ex_en": "Chew the food well.",
+    "note": "imperfect: نمضغ nimDagh (I chew), يمضغ yimDagh (he chews)",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "قاعد يمضغ في علكة",
+        "tr": "gā3id yimDagh fi 3ilka",
+        "en": "He's chewing gum"
+      },
+      {
+        "ar": "ما تمضغش وفمك محلول",
+        "tr": "ma timDaghsh w-fummak ma7lūl",
+        "en": "Don't chew with your mouth open"
+      }
+    ]
+  },
+  {
+    "ar": "لحس",
+    "tr": "l7as",
+    "en": "to lick",
+    "msa": "لحس",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "الصغير لحس الصحن كله.",
+    "ex_tr": "iS-Sghīr l7as iS-Sa7n kullah.",
+    "ex_en": "The little one licked the whole plate.",
+    "note": "imperfect: نلحس nil7as (I lick), يلحس yil7as (he licks)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "قاعد يلحس في الجيلاطي",
+        "tr": "gā3id yil7as fil-jilāTi",
+        "en": "He's licking the ice cream"
+      },
+      {
+        "ar": "لحس صوابعه",
+        "tr": "l7as Swāb3ah",
+        "en": "He licked his fingers"
+      }
+    ]
+  },
+  {
+    "ar": "مصّ",
+    "tr": "maSS",
+    "en": "to suck",
+    "msa": "مصّ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "الصغير يمصّ في صبعه.",
+    "ex_tr": "iS-Sghīr ymuSS fi Sib3ah.",
+    "ex_en": "The little one sucks his thumb.",
+    "note": "imperfect: نمصّ nmuSS (I suck), يمصّ ymuSS (he sucks)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "مصّ العصير بالشلمونة",
+        "tr": "maSS il-3aSīr bish-shalmūna",
+        "en": "He sipped the juice with a straw"
+      },
+      {
+        "ar": "مصّ الحلوة",
+        "tr": "muSS il-7alwa",
+        "en": "Suck the candy"
+      }
+    ]
+  },
+  {
+    "ar": "قرص",
+    "tr": "gras",
+    "en": "to pinch",
+    "msa": "قرص",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "قرصني في يدي.",
+    "ex_tr": "grasni fi īdi.",
+    "ex_en": "He pinched my hand.",
+    "note": "imperfect: نقرص nugruS (I pinch), يقرص yugruS (he pinches)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "ما تقرصش خوك",
+        "tr": "ma tugruSsh khūk",
+        "en": "Don't pinch your brother"
+      },
+      {
+        "ar": "قرصته الناموسة",
+        "tr": "grasatah in-nāmūsa",
+        "en": "A mosquito bit him"
+      }
+    ]
+  },
+  {
+    "ar": "حكّ",
+    "tr": "7akk",
+    "en": "to scratch; to rub",
+    "msa": "حكّ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "ما تحكّش، يزيد يحرقك.",
+    "ex_tr": "ma t7ukkish, yzīd y7argak.",
+    "ex_en": "Don't scratch, it'll burn more.",
+    "note": "imperfect: نحكّ n7ukk (I scratch), يحكّ y7ukk (he scratches)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "ظهري يحكّ فيا",
+        "tr": "DHahri y7ukk fiyya",
+        "en": "My back itches"
+      },
+      {
+        "ar": "حكّ راسه وهو يفكّر",
+        "tr": "7akk rāsah w-hū yfakkir",
+        "en": "He scratched his head thinking"
+      }
+    ]
+  },
+  {
+    "ar": "فرك",
+    "tr": "frak",
+    "en": "to rub; to scrub",
+    "msa": "فرك",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "فرك عينيه وناض.",
+    "ex_tr": "frak 3ēnēh w-nāD.",
+    "ex_en": "He rubbed his eyes and got up.",
+    "note": "imperfect: نفرك nufruk (I rub), يفرك yufruk (he rubs)",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "افرك الطنجرة بالليفة",
+        "tr": "ufruk iT-Tanjra bil-līfa",
+        "en": "Scrub the pot with the scourer"
+      },
+      {
+        "ar": "يفرك في يديه من البرد",
+        "tr": "yufruk fi īdēh min il-bard",
+        "en": "He rubs his hands from the cold"
+      }
+    ]
+  },
+  {
+    "ar": "دلّك",
+    "tr": "dallak",
+    "en": "to massage",
+    "msa": "دلّك",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "دلّكلي رقبتي، توجع فيا.",
+    "ex_tr": "dallikli ragbiti, tūja3 fiyya.",
+    "ex_en": "Massage my neck, it hurts.",
+    "note": "imperfect: ندلّك ndallik (I massage), يدلّك ydallik (he massages)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "دلّك رجليه بالزيت",
+        "tr": "dallak rijlēh biz-zēt",
+        "en": "He massaged his feet with oil"
+      },
+      {
+        "ar": "يبيله تدليك",
+        "tr": "yibbīlah tadlīk",
+        "en": "It needs a massage"
+      }
+    ]
+  },
+  {
+    "ar": "صفّق",
+    "tr": "Saffag",
+    "en": "to clap; to applaud",
+    "msa": "صفّق",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "الناس كلها صفّقت في الآخر.",
+    "ex_tr": "in-nās kullha Saffgat fil-ākhir.",
+    "ex_en": "Everyone clapped at the end.",
+    "note": "imperfect: نصفّق nSaffig (I clap), يصفّق ySaffig (he claps)",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "صفّقوله",
+        "tr": "Saffgūlah",
+        "en": "Give him a round of applause"
+      },
+      {
+        "ar": "قعدوا يصفّقوا ويغنّوا",
+        "tr": "g3adu ySaffgu w-yghannu",
+        "en": "They kept clapping and singing"
+      }
+    ]
+  },
+  {
+    "ar": "رجف",
+    "tr": "rjif",
+    "en": "to shiver; to tremble",
+    "msa": "ارتجف",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "كان يرجف من البرد.",
+    "ex_tr": "kān yirjaf min il-bard.",
+    "ex_en": "He was shivering from the cold.",
+    "note": "imperfect: نرجف nirjaf (I shiver), يرجف yirjaf (he shivers)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "يديه يرجفوا",
+        "tr": "īdēh yirjfu",
+        "en": "His hands are trembling"
+      },
+      {
+        "ar": "رجفت من الخوف",
+        "tr": "rjift min il-khōf",
+        "en": "I trembled with fear"
+      }
+    ]
+  },
+  {
+    "ar": "شخر",
+    "tr": "shkhar",
+    "en": "to snore",
+    "msa": "شخر",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "خوي يشخر طول الليل.",
+    "ex_tr": "khūyi yushkhur Tūl il-lēl.",
+    "ex_en": "My brother snores all night.",
+    "note": "imperfect: نشخر nushkhur (I snore), يشخر yushkhur (he snores)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "ما خلّانيش نرقد بالشخير",
+        "tr": "ma khallānīsh nurgud bish-shkhīr",
+        "en": "His snoring kept me from sleeping"
+      },
+      {
+        "ar": "قعد يشخر في الصالة",
+        "tr": "g3ad yushkhur fiS-Sāla",
+        "en": "He was snoring in the living room"
+      }
+    ]
+  },
+  {
+    "ar": "عرق",
+    "tr": "3rig",
+    "en": "to sweat",
+    "msa": "عرق",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "عرقت هلبة في الشمس.",
+    "ex_tr": "3rigt hallba fish-shams.",
+    "ex_en": "I sweated a lot in the sun.",
+    "note": "imperfect: نعرق ni3rag (I sweat), يعرق yi3rag (he sweats)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "يعرق من أقل حاجة",
+        "tr": "yi3rag min agall 7āja",
+        "en": "He sweats at the slightest thing"
+      },
+      {
+        "ar": "راسه يعرق",
+        "tr": "rāsah yi3rag",
+        "en": "His head is sweating"
+      }
+    ]
+  },
+  {
+    "ar": "رجّع",
+    "tr": "rajja3",
+    "en": "to give back; to put back; to vomit",
+    "msa": "أرجع؛ تقيّأ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 2,
+    "ex_ar": "رجّع الحاجة لبلاصتها.",
+    "ex_tr": "rajji3 il-7āja l-blaSitha.",
+    "ex_en": "Put the thing back in its place.",
+    "note": "imperfect: نرجّع nrajji3 (I give back), يرجّع yrajji3 (he gives back)",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "رجّعلي فلوسي",
+        "tr": "rajji3li flūsi",
+        "en": "Give me back my money"
+      },
+      {
+        "ar": "الصغير رجّع الحليب",
+        "tr": "iS-Sghīr rajja3 il-7līb",
+        "en": "The baby threw up the milk"
+      }
+    ]
+  },
+  {
+    "ar": "وقّف",
+    "tr": "waggaf",
+    "en": "to stop (something); to stand (something) up; to park",
+    "msa": "أوقف",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 2,
+    "ex_ar": "وقّف الكرهبة قدّام الحوش.",
+    "ex_tr": "waggif il-karhba guddām il-7ōsh.",
+    "ex_en": "Park the car in front of the house.",
+    "note": "imperfect: نوقّف nwaggif (I stop), يوقّف ywaggif (he stops)",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "وقّف هنا لو سمحت",
+        "tr": "waggif hina law sama7t",
+        "en": "Stop here please"
+      },
+      {
+        "ar": "وقّف الكرسي على جنب",
+        "tr": "waggif il-kursi 3ala jamb",
+        "en": "Stand the chair against the side"
+      }
+    ]
+  },
+  {
+    "ar": "قعّد",
+    "tr": "ga33ad",
+    "en": "to seat; to make (someone) sit",
+    "msa": "أجلس",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "قعّد الضيوف في المربوعة.",
+    "ex_tr": "ga33id iD-Dyūf fil-marbū3a.",
+    "ex_en": "Seat the guests in the sitting room.",
+    "note": "imperfect: نقعّد nga33id (I seat), يقعّد yga33id (he seats)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "قعّد الصغير على الكرسي",
+        "tr": "ga33id iS-Sghīr 3al-kursi",
+        "en": "Sit the little one on the chair"
+      },
+      {
+        "ar": "قعّدوه في الصف الأول",
+        "tr": "ga33dūh fiS-Saff il-awwal",
+        "en": "They seated him in the front row"
+      }
+    ]
+  },
+  {
+    "ar": "نوّض",
+    "tr": "nawwaD",
+    "en": "to get (someone) up; to wake (someone) up",
+    "msa": "أنهض؛ أيقظ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "نوّضني بكري، عندي خدمة.",
+    "ex_tr": "nawwiDni bakri, 3andi khidma.",
+    "ex_en": "Get me up early, I have work.",
+    "note": "imperfect: ننوّض nnawwiD (I get up), ينوّض ynawwiD (he gets up)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "نوّض الصغار للمدرسة",
+        "tr": "nawwiD iS-Sghār lil-madrasa",
+        "en": "Get the kids up for school"
+      },
+      {
+        "ar": "نوّضه من الرقاد",
+        "tr": "nawwaDah min ir-rgād",
+        "en": "He got him out of bed"
+      }
+    ]
+  },
+  {
+    "ar": "عنّق",
+    "tr": "3annag",
+    "en": "to hug",
+    "msa": "عانق",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "عنّق أمه وبكى.",
+    "ex_tr": "3annag ummah w-bkā.",
+    "ex_en": "He hugged his mother and cried.",
+    "note": "imperfect: نعنّق n3annig (I hug), يعنّق y3annig (he hugs)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "تعال نعنّقك",
+        "tr": "ta3āl n3annigak",
+        "en": "Come here, let me hug you"
+      },
+      {
+        "ar": "عنّقوا بعضهم في المطار",
+        "tr": "3annagu ba3Dhum fil-maTār",
+        "en": "They hugged each other at the airport"
+      }
+    ]
+  },
+  {
+    "ar": "حضن",
+    "tr": "7Dan",
+    "en": "to hug; to hold (a child) in one's arms",
+    "msa": "حضن",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "حضنت بنتها ورقّدتها.",
+    "ex_tr": "7Danat bint-ha w-raggdat-ha.",
+    "ex_en": "She held her daughter and put her to sleep.",
+    "note": "imperfect: نحضن ni7Dan (I hug), يحضن yi7Dan (he hugs)",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "احضن خوك الصغير",
+        "tr": "i7Dan khūk iS-Sghīr",
+        "en": "Hug your little brother"
+      },
+      {
+        "ar": "في حضن أمه",
+        "tr": "fi 7uDn ummah",
+        "en": "In his mother's arms"
+      }
+    ]
+  },
+  {
+    "ar": "حبا",
+    "tr": "7bā",
+    "en": "to crawl (baby)",
+    "msa": "حبا",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 5,
+    "ex_ar": "الصغير بدا يحبي.",
+    "ex_tr": "iS-Sghīr bdā yi7bi.",
+    "ex_en": "The baby has started crawling.",
+    "note": "imperfect: نحبي ni7bi (I crawl), يحبي yi7bi (he crawls)",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "قاعد يحبي في الحوش",
+        "tr": "gā3id yi7bi fil-7ōsh",
+        "en": "He's crawling around the house"
+      },
+      {
+        "ar": "حبا قبل ما يمشي",
+        "tr": "7bā gabl ma yimshi",
+        "en": "He crawled before he walked"
+      }
+    ]
+  },
+  {
+    "ar": "زحف",
+    "tr": "z7af",
+    "en": "to crawl; to creep",
+    "msa": "زحف",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 5,
+    "ex_ar": "زحف تحت السرير.",
+    "ex_tr": "z7af ta7t is-srīr.",
+    "ex_en": "He crawled under the bed.",
+    "note": "imperfect: نزحف niz7af (I crawl), يزحف yiz7af (he crawls)",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "الحنش يزحف",
+        "tr": "il-7nash yiz7af",
+        "en": "The snake creeps along"
+      },
+      {
+        "ar": "زحف على كرشه",
+        "tr": "z7af 3ala karshah",
+        "en": "He crawled on his belly"
+      }
+    ]
+  },
+  {
+    "ar": "عرج",
+    "tr": "3raj",
+    "en": "to limp",
+    "msa": "عرج",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 5,
+    "ex_ar": "من نهار طاح وهو يعرج.",
+    "ex_tr": "min nhār Tā7 w-hū yi3raj.",
+    "ex_en": "Since he fell he's been limping.",
+    "note": "imperfect: نعرج ni3raj (I limp), يعرج yi3raj (he limps)",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "علاش تعرج؟",
+        "tr": "3lāsh ti3raj?",
+        "en": "Why are you limping?"
+      },
+      {
+        "ar": "يعرج على رجله اليمين",
+        "tr": "yi3raj 3ala rijlah il-imīn",
+        "en": "He limps on his right leg"
+      }
+    ]
+  },
+  {
+    "ar": "تربّع",
+    "tr": "trabba3",
+    "en": "to sit cross-legged",
+    "msa": "تربّع",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "تربّع على الفرش وكلا.",
+    "ex_tr": "trabba3 3al-farsh w-klā.",
+    "ex_en": "He sat cross-legged on the floor mat and ate.",
+    "note": "imperfect: نتربّع nitrabba3 (I sit cross-legged), يتربّع yitrabba3 (he sits cross-legged)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "تربّع وارتاح",
+        "tr": "trabba3 w-irtā7",
+        "en": "Sit cross-legged and relax"
+      },
+      {
+        "ar": "قاعد متربّع",
+        "tr": "gā3id mitrabba3",
+        "en": "Sitting cross-legged"
+      }
+    ]
+  },
+  {
+    "ar": "حنى",
+    "tr": "7nā",
+    "en": "to bend; to lower (one's head)",
+    "msa": "حنى",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 5,
+    "ex_ar": "احني راسك، الباب واطي.",
+    "ex_tr": "i7ni rāsak, il-bāb wāTi.",
+    "ex_en": "Duck your head, the door is low.",
+    "note": "imperfect: نحني ni7ni (I bend), يحني yi7ni (he bends)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "حنى ظهره باش يرفعها",
+        "tr": "7nā DHahrah bāsh yarfa3ha",
+        "en": "He bent his back to lift it"
+      },
+      {
+        "ar": "ما يحني راسه لحد",
+        "tr": "ma yi7nish rāsah l-7add",
+        "en": "He bows his head to no one"
+      }
+    ]
+  },
+  {
+    "ar": "ميّل",
+    "tr": "mayyal",
+    "en": "to tilt; to lean (something)",
+    "msa": "أمال",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "ميّل الطنجرة شوية.",
+    "ex_tr": "mayyil iT-Tanjra shwayya.",
+    "ex_en": "Tilt the pot a little.",
+    "note": "imperfect: نميّل nmayyil (I tilt), يميّل ymayyil (he tilts)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "ميّل راسك لورا",
+        "tr": "mayyil rāsak l-ūra",
+        "en": "Tilt your head back"
+      },
+      {
+        "ar": "الصورة ميّلة، عدّلها",
+        "tr": "iS-Sūra mayla, 3addilha",
+        "en": "The picture is crooked, straighten it"
+      }
+    ]
+  },
+  {
+    "ar": "مال",
+    "tr": "māl",
+    "en": "to lean; to tilt",
+    "msa": "مال",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "العمود مال على جنب.",
+    "ex_tr": "il-3amūd māl 3ala jamb.",
+    "ex_en": "The pole leaned to one side.",
+    "note": "imperfect: نميل nmīl (I lean), يميل ymīl (he leans)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "مال عليّا وقالّي في وذني",
+        "tr": "māl 3alayya w-gālli fi wdhni",
+        "en": "He leaned over and whispered in my ear"
+      },
+      {
+        "ar": "الحيط قاعد يميل",
+        "tr": "il-7ēT gā3id ymīl",
+        "en": "The wall is leaning"
+      }
+    ]
+  },
+  {
+    "ar": "غفى",
+    "tr": "ghfā",
+    "en": "to doze off; to nod off",
+    "msa": "غفا",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "غفيت شوية قدّام التلفزيون.",
+    "ex_tr": "ghfīt shwayya guddām it-tilivizyōn.",
+    "ex_en": "I dozed off a bit in front of the TV.",
+    "note": "imperfect: نغفى nighfā (I doze off), يغفى yighfā (he dozes off)",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "غفى وهو قاعد",
+        "tr": "ghfā w-hū gā3id",
+        "en": "He nodded off sitting up"
+      },
+      {
+        "ar": "ما غفيتش طول الليل",
+        "tr": "ma ghfītsh Tūl il-lēl",
+        "en": "I didn't get a wink all night"
+      }
+    ]
+  },
+  {
+    "ar": "رقص",
+    "tr": "rgaS",
+    "en": "to dance",
+    "msa": "رقص",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "البنات رقصوا في العرس.",
+    "ex_tr": "il-banāt rgaSu fil-3urs.",
+    "ex_en": "The girls danced at the wedding.",
+    "note": "imperfect: نرقص nurguS (I dance), يرقص yurguS (he dances)",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "ما نعرفش نرقص",
+        "tr": "ma na3rafsh nurguS",
+        "en": "I don't know how to dance"
+      },
+      {
+        "ar": "قعدوا يرقصوا للصبح",
+        "tr": "g3adu yurguSu liS-SbaH",
+        "en": "They danced until morning"
+      }
+    ]
+  },
+  {
+    "ar": "توضّى",
+    "tr": "twaDDā",
+    "en": "to do ablutions (before prayer)",
+    "msa": "توضّأ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "توضّى وصلّى العصر.",
+    "ex_tr": "twaDDā w-Sallā l-3aSr.",
+    "ex_en": "He did his ablutions and prayed the afternoon prayer.",
+    "note": "imperfect: نتوضّى nitwaDDā (I do ablutions), يتوضّى yitwaDDā (he does ablutions)",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "نمشي نتوضّى ونجي",
+        "tr": "nimshi nitwaDDā w-nji",
+        "en": "I'll go do my ablutions and come back"
+      },
+      {
+        "ar": "انت متوضّي؟",
+        "tr": "inta mitwaDDi?",
+        "en": "Do you have ablution?"
+      }
+    ]
+  },
+  {
+    "ar": "دوّش",
+    "tr": "dawwash",
+    "en": "to shower; to take a shower",
+    "msa": "استحمّ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "ندوّش ونلبس ونجيك.",
+    "ex_tr": "ndawwish w-nilbis w-njīk.",
+    "ex_en": "I'll shower, get dressed and come to you.",
+    "note": "imperfect: ندوّش ndawwish (I shower), يدوّش ydawwish (he showers). from Italian doccia \"shower\" (دوش dūsh)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "دوّش بالمية الباردة",
+        "tr": "dawwash bil-mayya l-bārda",
+        "en": "He showered with cold water"
+      },
+      {
+        "ar": "ما دوّشتش اليوم",
+        "tr": "ma dawwashtsh il-yōm",
+        "en": "I haven't showered today"
+      }
+    ]
+  },
+  {
+    "ar": "حمّم",
+    "tr": "7ammam",
+    "en": "to bathe (someone)",
+    "msa": "حمّم",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "أمه تحمّم فيه كل ليلة.",
+    "ex_tr": "ummah t7ammim fīh kull lēla.",
+    "ex_en": "His mother bathes him every night.",
+    "note": "imperfect: نحمّم n7ammim (I bathe), يحمّم y7ammim (he bathes)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "حمّم الصغير قبل ما يرقد",
+        "tr": "7ammim iS-Sghīr gabl ma yurgud",
+        "en": "Bathe the little one before he sleeps"
+      },
+      {
+        "ar": "حمّمت الكلب",
+        "tr": "7ammamt il-kalb",
+        "en": "I gave the dog a bath"
+      }
+    ]
+  },
+  {
+    "ar": "نشّف",
+    "tr": "nashshaf",
+    "en": "to dry (something); to towel off",
+    "msa": "نشّف",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "نشّف راسك قبل ما تطلع.",
+    "ex_tr": "nashshif rāsak gabl ma tiTla3.",
+    "ex_en": "Dry your hair before you go out.",
+    "note": "imperfect: ننشّف nnashshif (I dry), ينشّف ynashshif (he dries)",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "نشّف يديك بالفوطة",
+        "tr": "nashshif īdēk bil-fūTa",
+        "en": "Dry your hands with the towel"
+      },
+      {
+        "ar": "نشّف الماعون",
+        "tr": "nashshif il-mā3ūn",
+        "en": "Dry the dishes"
+      }
+    ]
+  },
+  {
+    "ar": "تعطّر",
+    "tr": "t3aTTar",
+    "en": "to put on perfume",
+    "msa": "تعطّر",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "تعطّر قبل ما يمشي للجامع.",
+    "ex_tr": "t3aTTar gabl ma yimshi lil-jāmi3.",
+    "ex_en": "He put on perfume before going to the mosque.",
+    "note": "imperfect: نتعطّر nit3aTTar (I put on perfume), يتعطّر yit3aTTar (he puts on perfume)",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "ريحتك حلوة، شن تعطّرت؟",
+        "tr": "rī7tak 7ilwa, shin t3aTTart?",
+        "en": "You smell nice, what perfume is that?"
+      },
+      {
+        "ar": "تعطّر بالعود",
+        "tr": "t3aTTar bil-3ūd",
+        "en": "He put on oud perfume"
+      }
+    ]
+  },
+  {
+    "ar": "تحنّى",
+    "tr": "t7annā",
+    "en": "to have henna applied; to put henna on",
+    "msa": "تحنّى",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "العروسة تحنّت ليلة الحنّة.",
+    "ex_tr": "il-3arūsa t7annat lēlt il-7inna.",
+    "ex_en": "The bride had henna applied on henna night.",
+    "note": "imperfect: نتحنّى nit7annā (I have henna applied), يتحنّى yit7annā (he has henna applied)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "البنات تحنّوا للعيد",
+        "tr": "il-banāt t7annu lil-3īd",
+        "en": "The girls put on henna for Eid"
+      },
+      {
+        "ar": "تحنّت يديها ورجليها",
+        "tr": "t7annat īdēha w-rijlēha",
+        "en": "She had henna on her hands and feet"
+      }
+    ]
+  },
+  {
+    "ar": "تكحّل",
+    "tr": "tka77al",
+    "en": "to put on kohl (eyeliner)",
+    "msa": "تكحّل",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "تكحّلت ولبست وطلعت.",
+    "ex_tr": "tka77lat w-lbsat w-Tal3at.",
+    "ex_en": "She put on kohl, got dressed and went out.",
+    "note": "imperfect: نتكحّل nitka77al (I put on kohl), يتكحّل yitka77al (he puts on kohl)",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "ما تتكحّلش كل يوم",
+        "tr": "ma titka77alsh kull yōm",
+        "en": "She doesn't wear kohl every day"
+      },
+      {
+        "ar": "عينيها متكحّلة",
+        "tr": "3ēnēha mitka77la",
+        "en": "Her eyes are lined with kohl"
+      }
+    ]
+  },
+  {
+    "ar": "زيّن",
+    "tr": "zayyan",
+    "en": "to give a haircut; to decorate",
+    "msa": "زيّن",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "الحلّاق زيّنله شعره.",
+    "ex_tr": "il-7allāg zayyanlah sha3rah.",
+    "ex_en": "The barber cut his hair.",
+    "note": "imperfect: نزيّن nzayyin (I give a haircut), يزيّن yzayyin (he gives a haircut)",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "زيّنوا الحوش للعرس",
+        "tr": "zayyanu l-7ōsh lil-3urs",
+        "en": "They decorated the house for the wedding"
+      },
+      {
+        "ar": "نبي نزيّن راسي",
+        "tr": "nibbi nzayyin rāsi",
+        "en": "I want a haircut"
+      }
+    ]
+  },
+  {
+    "ar": "تزيّن",
+    "tr": "tzayyan",
+    "en": "to get a haircut; to get groomed",
+    "msa": "تزيّن",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "مشى يتزيّن قبل العيد.",
+    "ex_tr": "mshā yitzayyan gabl il-3īd.",
+    "ex_en": "He went to get a haircut before Eid.",
+    "note": "imperfect: نتزيّن nitzayyan (I get a haircut), يتزيّن yitzayyan (he gets a haircut)",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "وين تتزيّن؟",
+        "tr": "wīn titzayyan?",
+        "en": "Where do you get your hair cut?"
+      },
+      {
+        "ar": "تزيّن وحلق ذقنه",
+        "tr": "tzayyan w-7lag dhagnah",
+        "en": "He got a haircut and shaved his beard"
+      }
+    ]
+  },
+  {
+    "ar": "بدّل",
+    "tr": "baddal",
+    "en": "to change (clothes); to swap; to exchange",
+    "msa": "بدّل",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 2,
+    "ex_ar": "نبدّل حوايجي ونجي.",
+    "ex_tr": "nbaddil 7wāyji w-nji.",
+    "ex_en": "I'll change my clothes and come.",
+    "note": "imperfect: نبدّل nbaddil (I change), يبدّل ybaddil (he changes)",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "بدّلت السروال في الحانوت",
+        "tr": "baddalt is-sirwāl fil-7ānūt",
+        "en": "I exchanged the trousers at the shop"
+      },
+      {
+        "ar": "بدّل بلاصتك معاي",
+        "tr": "baddil blaStak m3āy",
+        "en": "Swap places with me"
+      }
+    ]
+  },
+  {
+    "ar": "لبّس",
+    "tr": "labbas",
+    "en": "to dress (someone)",
+    "msa": "ألبس",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "لبّست الصغار وطلعنا.",
+    "ex_tr": "labbast iS-Sghār w-Tla3na.",
+    "ex_en": "I dressed the kids and we went out.",
+    "note": "imperfect: نلبّس nlabbis (I dress), يلبّس ylabbis (he dresses)",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "لبّسه حاجة سخونة",
+        "tr": "labbsah 7āja skhūna",
+        "en": "Put something warm on him"
+      },
+      {
+        "ar": "لبّسوها القفطان",
+        "tr": "labbsūha l-gufTān",
+        "en": "They dressed her in the kaftan"
+      }
+    ]
+  },
+  {
+    "ar": "شمّر",
+    "tr": "shammar",
+    "en": "to roll up (sleeves, trousers)",
+    "msa": "شمّر",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "شمّر يديه وبدا يخدم.",
+    "ex_tr": "shammar īdēh w-bdā yikhdim.",
+    "ex_en": "He rolled up his sleeves and started working.",
+    "note": "imperfect: نشمّر nshammir (I roll up), يشمّر yshammir (he rolls up)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "شمّر السروال، المية هلبة",
+        "tr": "shammir is-sirwāl, il-mayya hallba",
+        "en": "Roll up your trousers, there's a lot of water"
+      },
+      {
+        "ar": "شمّر على ذراعه",
+        "tr": "shammar 3ala dhrā3ah",
+        "en": "He rolled up his sleeve"
+      }
+    ]
+  },
+  {
+    "ar": "قلع",
+    "tr": "gla3",
+    "en": "to take off (shoes, clothes); to pull out (a tooth, plant)",
+    "msa": "نزع؛ خلع",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "اقلع سباطك قبل ما تخش.",
+    "ex_tr": "igla3 sabbāTak gabl ma tkhushsh.",
+    "ex_en": "Take off your shoes before you come in.",
+    "note": "imperfect: نقلع nigla3 (I take off), يقلع yigla3 (he takes off)",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "قلع ضرسه عند الطبيب",
+        "tr": "gla3 Dirsah 3and iT-Tbīb",
+        "en": "He had his tooth pulled at the dentist"
+      },
+      {
+        "ar": "اقلع الكبّوط",
+        "tr": "igla3 il-kabbūT",
+        "en": "Take off the coat"
+      }
+    ]
+  },
+  {
+    "ar": "قيّس",
+    "tr": "gayyas",
+    "en": "to try on (clothes)",
+    "msa": "قاس؛ جرّب",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "نبي نقيّس السروال هذا.",
+    "ex_tr": "nibbi ngayyis is-sirwāl hādha.",
+    "ex_en": "I want to try on these trousers.",
+    "note": "imperfect: نقيّس ngayyis (I try on), يقيّس ygayyis (he tries on)",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "وين نقيّس؟",
+        "tr": "wīn ngayyis?",
+        "en": "Where can I try it on?"
+      },
+      {
+        "ar": "قيّسه قبل ما تشريه",
+        "tr": "gayysah gabl ma tishrīh",
+        "en": "Try it on before you buy it"
+      }
+    ]
+  },
+  {
+    "ar": "تدفّى",
+    "tr": "tdaffā",
+    "en": "to warm oneself; to get warm",
+    "msa": "تدفّأ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "قعدنا نتدفّوا قدّام الكانون.",
+    "ex_tr": "g3adna nitdaffu guddām il-kānūn.",
+    "ex_en": "We sat warming ourselves by the brazier.",
+    "note": "imperfect: نتدفّى nitdaffā (I warm oneself), يتدفّى yitdaffā (he warms oneself)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "تعال تدفّى",
+        "tr": "ta3āl tdaffā",
+        "en": "Come warm yourself up"
+      },
+      {
+        "ar": "تدفّى بالبطانية",
+        "tr": "tdaffā bil-baTTāniyya",
+        "en": "Warm up with the blanket"
+      }
+    ]
+  },
+  {
+    "ar": "دفّى",
+    "tr": "daffā",
+    "en": "to warm (up)",
+    "msa": "دفّأ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "الشوربة هذي تدفّي.",
+    "ex_tr": "ish-shurba hādhi tdaffi.",
+    "ex_en": "This soup warms you up.",
+    "note": "imperfect: ندفّي ndaffi (I warm), يدفّي ydaffi (he warms)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "دفّي يديك",
+        "tr": "daffi īdēk",
+        "en": "Warm your hands"
+      },
+      {
+        "ar": "الزربية تدفّي الحوش",
+        "tr": "iz-zirbiyya tdaffi l-7ōsh",
+        "en": "The rug warms the house"
+      }
+    ]
+  },
+  {
+    "ar": "تغطّى",
+    "tr": "tghaTTā",
+    "en": "to cover oneself (with a blanket)",
+    "msa": "تغطّى",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "تغطّى مليح، الليلة باردة.",
+    "ex_tr": "tghaTTā mlī7, il-lēla bārda.",
+    "ex_en": "Cover up well, tonight is cold.",
+    "note": "imperfect: نتغطّى nitghaTTā (I cover oneself), يتغطّى yitghaTTā (he covers oneself)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "تغطّى بالبطانية",
+        "tr": "tghaTTā bil-baTTāniyya",
+        "en": "He covered himself with the blanket"
+      },
+      {
+        "ar": "نرقد ما نتغطّاش في الصيف",
+        "tr": "nurgud ma nitghaTTāsh fiS-Sēf",
+        "en": "In summer I sleep without a cover"
+      }
+    ]
+  },
+  {
+    "ar": "تشمّس",
+    "tr": "tshammas",
+    "en": "to sit in the sun; to sunbathe",
+    "msa": "تشمّس",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "الشيبان قاعدين يتشمّسوا قدّام الجامع.",
+    "ex_tr": "ish-shībān gā3dīn yitshammsu guddām il-jāmi3.",
+    "ex_en": "The old men are sitting in the sun outside the mosque.",
+    "note": "imperfect: نتشمّس nitshammas (I sit in the sun), يتشمّس yitshammas (he sits in the sun)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "طلع يتشمّس شوية",
+        "tr": "Tla3 yitshammas shwayya",
+        "en": "He went out to sit in the sun a bit"
+      },
+      {
+        "ar": "القطوس يتشمّس",
+        "tr": "il-gaTTūs yitshammas",
+        "en": "The cat is sunning itself"
+      }
+    ]
+  },
+  {
+    "ar": "مضمض",
+    "tr": "maDmaD",
+    "en": "to rinse one's mouth",
+    "msa": "تمضمض",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "مضمض بالمية والملح.",
+    "ex_tr": "maDmiD bil-mayya w-il-mil7.",
+    "ex_en": "Rinse your mouth with salt water.",
+    "note": "imperfect: نمضمض nmaDmiD (I rinse one's mouth), يمضمض ymaDmiD (he rinses one's mouth)",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "مضمض بعد الماكلة",
+        "tr": "maDmiD ba3d il-mākla",
+        "en": "Rinse your mouth after eating"
+      },
+      {
+        "ar": "مضمض تلاتة مرات",
+        "tr": "maDmaD tlāta marrāt",
+        "en": "He rinsed his mouth three times"
+      }
+    ]
+  },
+  {
+    "ar": "غرغر",
+    "tr": "ghargar",
+    "en": "to gargle",
+    "msa": "تغرغر",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "غرغر بالمية السخونة.",
+    "ex_tr": "ghargir bil-mayya s-skhūna.",
+    "ex_en": "Gargle with warm water.",
+    "note": "imperfect: نغرغر ngharghir (I gargle), يغرغر yghargir (he gargles)",
+    "usage": 26,
+    "phrases": [
+      {
+        "ar": "حلقه يوجع فيه فقعد يغرغر",
+        "tr": "7algah yūja3 fīh fa-g3ad yghargir",
+        "en": "His throat hurt so he kept gargling"
+      },
+      {
+        "ar": "غرغر وابزق",
+        "tr": "ghargir w-ibzig",
+        "en": "Gargle and spit"
+      }
+    ]
+  },
+  {
+    "ar": "تمخّط",
+    "tr": "tmakhkhaT",
+    "en": "to blow one's nose",
+    "msa": "تمخّط",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "خوذ منديل وتمخّط.",
+    "ex_tr": "khūdh mindīl w-tmakhkhaT.",
+    "ex_en": "Take a tissue and blow your nose.",
+    "note": "imperfect: نتمخّط nitmakhkhaT (I blow one's nose), يتمخّط yitmakhkhaT (he blows one's nose)",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "قاعد يتمخّط من البرد",
+        "tr": "gā3id yitmakhkhaT min il-bard",
+        "en": "He keeps blowing his nose from the cold"
+      },
+      {
+        "ar": "ما تتمخّطش على الماكلة",
+        "tr": "ma titmakhkhaTsh 3al-mākla",
+        "en": "Don't blow your nose at the table"
+      }
+    ]
+  },
+  {
+    "ar": "شرق",
+    "tr": "shrig",
+    "en": "to choke (on food or drink)",
+    "msa": "شرق",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "شرق بالمية وقعد يكحّ.",
+    "ex_tr": "shrig bil-mayya w-g3ad yku77.",
+    "ex_en": "He choked on the water and started coughing.",
+    "note": "imperfect: نشرق nishrag (I choke), يشرق yishrag (he chokes)",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "كول بشوية لا تشرق",
+        "tr": "kūl b-ishwayya la tishrag",
+        "en": "Eat slowly or you'll choke"
+      },
+      {
+        "ar": "شرقت بالعظمة",
+        "tr": "shrigt bil-3aDHma",
+        "en": "I choked on a bone"
+      }
+    ]
+  },
+  {
+    "ar": "داخ",
+    "tr": "dākh",
+    "en": "to get dizzy",
+    "msa": "دار رأسه",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "دخت من الشمس وقعدت.",
+    "ex_tr": "dukht min ish-shams w-g3adt.",
+    "ex_en": "I got dizzy from the sun and sat down.",
+    "note": "imperfect: ندوخ ndūkh (I get dizzy), يدوخ ydūkh (he gets dizzy)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "راسي يدوخ فيا",
+        "tr": "rāsi ydūkh fiyya",
+        "en": "My head is spinning"
+      },
+      {
+        "ar": "يدوخ في الكرهبة",
+        "tr": "ydūkh fil-karhba",
+        "en": "He gets carsick"
+      }
+    ]
+  },
+  {
+    "ar": "تعوّر",
+    "tr": "t3awwar",
+    "en": "to get hurt; to injure oneself",
+    "msa": "أصيب",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "طاح وتعوّر في ركبته.",
+    "ex_tr": "Tā7 w-t3awwar fi rukbatah.",
+    "ex_en": "He fell and hurt his knee.",
+    "note": "imperfect: نتعوّر nit3awwar (I get hurt), يتعوّر yit3awwar (he gets hurt)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "ردّ بالك لا تتعوّر",
+        "tr": "rudd bālak la tit3awwar",
+        "en": "Be careful not to hurt yourself"
+      },
+      {
+        "ar": "تعوّرت؟ لا الحمد لله",
+        "tr": "t3awwart? la, il-7amdu lillāh",
+        "en": "Did you get hurt? No, thank God"
+      }
+    ]
+  },
+  {
+    "ar": "عوّر",
+    "tr": "3awwar",
+    "en": "to hurt (someone); to injure",
+    "msa": "آذى",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "عوّرني في يدي.",
+    "ex_tr": "3awwarni fi īdi.",
+    "ex_en": "He hurt my hand.",
+    "note": "imperfect: نعوّر n3awwir (I hurt), يعوّر y3awwir (he hurts)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "ما تعوّرش خوك",
+        "tr": "ma t3awwirsh khūk",
+        "en": "Don't hurt your brother"
+      },
+      {
+        "ar": "السباط هذا يعوّر",
+        "tr": "is-sabbāT hādha y3awwir",
+        "en": "These shoes hurt"
+      }
+    ]
+  },
+  {
+    "ar": "انجرح",
+    "tr": "nijra7",
+    "en": "to get cut; to be wounded",
+    "msa": "انجرح",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "انجرحت بالسكينة وأنا نقطّع.",
+    "ex_tr": "nijra7t bis-sikkīna w-āna ngaTTa3.",
+    "ex_en": "I cut myself with the knife while chopping.",
+    "note": "imperfect: ننجرح ninjri7 (I get cut), ينجرح yinjri7 (he gets cut)",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "صبعه انجرح",
+        "tr": "Sib3ah nijra7",
+        "en": "His finger got cut"
+      },
+      {
+        "ar": "انجرح في الحادث",
+        "tr": "nijra7 fil-7ādith",
+        "en": "He was injured in the accident"
+      }
+    ]
+  },
+  {
+    "ar": "غطس",
+    "tr": "ghTas",
+    "en": "to dive; to go under water",
+    "msa": "غطس",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "غطس في البحر وطلّع صدفة.",
+    "ex_tr": "ghTas fil-ba7r w-Talla3 Sadfa.",
+    "ex_en": "He dove into the sea and brought up a shell.",
+    "note": "imperfect: نغطس nighTas (I dive), يغطس yighTas (he dives)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "نعرف نغطس",
+        "tr": "na3raf nighTas",
+        "en": "I know how to dive"
+      },
+      {
+        "ar": "غطس وطوّل تحت المية",
+        "tr": "ghTas w-Tawwal ta7t il-mayya",
+        "en": "He dove and stayed long under water"
+      }
+    ]
+  },
+  {
+    "ar": "غطّس",
+    "tr": "ghaTTas",
+    "en": "to dip; to dunk",
+    "msa": "غطّس",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "غطّس البسكوت في الحليب.",
+    "ex_tr": "ghaTTas il-baskūt fil-7līb.",
+    "ex_en": "He dunked the biscuit in the milk.",
+    "note": "imperfect: نغطّس nghaTTis (I dip), يغطّس yghaTTis (he dips)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "غطّس راسه في المية",
+        "tr": "ghaTTas rāsah fil-mayya",
+        "en": "He dunked his head in the water"
+      },
+      {
+        "ar": "غطّسه في الشاهي",
+        "tr": "ghaTTsah fish-shāhi",
+        "en": "Dip it in the tea"
+      }
+    ]
+  },
+  {
+    "ar": "خطف",
+    "tr": "khTaf",
+    "en": "to snatch; to grab; to drop by quickly",
+    "msa": "خطف",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "خطف التليفون من يدي وجرى.",
+    "ex_tr": "khTaf it-tilīfōn min īdi w-jrā.",
+    "ex_en": "He snatched the phone from my hand and ran.",
+    "note": "imperfect: نخطف nukhTuf (I snatch), يخطف yukhTuf (he snatches)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "نخطف للحانوت ونرجع",
+        "tr": "nukhTuf lil-7ānūt w-nirja3",
+        "en": "I'll pop over to the shop and come back"
+      },
+      {
+        "ar": "خطفها وهرب",
+        "tr": "khTafha w-hrab",
+        "en": "He grabbed it and ran off"
+      }
+    ]
+  },
+  {
+    "ar": "لقّط",
+    "tr": "laggaT",
+    "en": "to pick up (from the ground); to gather",
+    "msa": "لقط",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "لقّط الحاجات من الأرض.",
+    "ex_tr": "laggiT il-7ājāt min il-arD.",
+    "ex_en": "Pick the things up off the floor.",
+    "note": "imperfect: نلقّط nlaggiT (I pick up), يلقّط ylaggiT (he picks up)",
+    "usage": 45,
+    "phrases": [
+      {
+        "ar": "قاعد يلقّط في الزيتون",
+        "tr": "gā3id ylaggiT fiz-zētūn",
+        "en": "He's picking up olives"
+      },
+      {
+        "ar": "لقّط الفتات",
+        "tr": "laggiT il-ftāt",
+        "en": "Pick up the crumbs"
+      }
+    ]
+  },
+  {
+    "ar": "لمّ",
+    "tr": "lamm",
+    "en": "to gather; to collect; to put away",
+    "msa": "لمّ؛ جمع",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 2,
+    "ex_ar": "لمّ حوايجك من على الكرسي.",
+    "ex_tr": "limm 7wāyjak min 3al-kursi.",
+    "ex_en": "Put your clothes away off the chair.",
+    "note": "imperfect: نلمّ nlimm (I gather), يلمّ ylimm (he gathers)",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "لمّ الغسيل قبل ما تشتّي",
+        "tr": "limm il-ghasīl gabl ma tshatti",
+        "en": "Bring in the laundry before it rains"
+      },
+      {
+        "ar": "العيلة لمّت في حوش جدّي",
+        "tr": "il-3ēla lammat fi 7ōsh jiddi",
+        "en": "The family gathered at grandpa's house"
+      }
+    ]
+  },
+  {
+    "ar": "لملم",
+    "tr": "lamlam",
+    "en": "to gather up (scattered things)",
+    "msa": "لملم",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "لملم الأوراق وحطّهم في الشنطة.",
+    "ex_tr": "lamlim il-awrāg w-7uTThum fish-shanTa.",
+    "ex_en": "Gather up the papers and put them in the bag.",
+    "note": "imperfect: نلملم nlamlim (I gather up), يلملم ylamlim (he gathers up)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "لملم روحك ونمشوا",
+        "tr": "lamlim rū7ak w-nimshu",
+        "en": "Get your stuff together and let's go"
+      },
+      {
+        "ar": "لملمت الألعاب",
+        "tr": "lamlamt il-al3āb",
+        "en": "I gathered up the toys"
+      }
+    ]
+  },
+  {
+    "ar": "طيّح",
+    "tr": "Tayya7",
+    "en": "to drop; to knock down",
+    "msa": "أسقط",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 2,
+    "ex_ar": "طيّحت الكاس وتكسّرت.",
+    "ex_tr": "Tayya7t il-kās w-tkassrat.",
+    "ex_en": "I dropped the glass and it broke.",
+    "note": "imperfect: نطيّح nTayyi7 (I drop), يطيّح yTayyi7 (he drops)",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "ردّ بالك لا تطيّحه",
+        "tr": "rudd bālak la tTayy7ah",
+        "en": "Careful not to drop it"
+      },
+      {
+        "ar": "طيّح فلوسه في الشارع",
+        "tr": "Tayya7 flūsah fish-shāri3",
+        "en": "He dropped his money in the street"
+      }
+    ]
+  },
+  {
+    "ar": "عفس",
+    "tr": "3fas",
+    "en": "to step on; to trample",
+    "msa": "داس",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "عفس على رجلي في الزحمة.",
+    "ex_tr": "3fas 3ala rijli fiz-za7ma.",
+    "ex_en": "He stepped on my foot in the crowd.",
+    "note": "imperfect: نعفس ni3fis (I step on), يعفس yi3fis (he steps on)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "ما تعفسش على الزرع",
+        "tr": "ma ti3fisish 3az-zar3",
+        "en": "Don't step on the plants"
+      },
+      {
+        "ar": "عفست في الطين",
+        "tr": "3fast fiT-Tīn",
+        "en": "I stepped in the mud"
+      }
+    ]
+  },
+  {
+    "ar": "داس",
+    "tr": "dās",
+    "en": "to step on; to press (a pedal)",
+    "msa": "داس",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "دوس على الفرامي بشوية.",
+    "ex_tr": "dūs 3al-frāmi b-ishwayya.",
+    "ex_en": "Press the brake gently.",
+    "note": "imperfect: ندوس ndūs (I step on), يدوس ydūs (he steps on)",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "داس على الكيس",
+        "tr": "dās 3al-kīs",
+        "en": "He stepped on the bag"
+      },
+      {
+        "ar": "دوس البنزينة",
+        "tr": "dūs il-banzīna",
+        "en": "Step on the gas"
+      }
+    ]
+  },
+  {
+    "ar": "صبّ",
+    "tr": "Sabb",
+    "en": "to pour; to rain",
+    "msa": "صبّ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 2,
+    "ex_ar": "صبّلي كاس شاهي.",
+    "ex_tr": "Subbli kās shāhi.",
+    "ex_en": "Pour me a glass of tea.",
+    "note": "imperfect: نصبّ nSubb (I pour), يصبّ ySubb (he pours)",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "الدنيا صبّت البارح",
+        "tr": "id-dinya Sabbat il-bāri7",
+        "en": "It poured with rain yesterday"
+      },
+      {
+        "ar": "صبّ المية في الطنجرة",
+        "tr": "Subb il-mayya fiT-Tanjra",
+        "en": "Pour the water into the pot"
+      }
+    ]
+  },
+  {
+    "ar": "كبّ",
+    "tr": "kabb",
+    "en": "to spill; to pour out; to tip over",
+    "msa": "سكب؛ أراق",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "كبّ الشاهي على الزربية.",
+    "ex_tr": "kabb ish-shāhi 3az-zirbiyya.",
+    "ex_en": "He spilled the tea on the rug.",
+    "note": "imperfect: نكبّ nkubb (I spill), يكبّ ykubb (he spills)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "كبّ المية اللي في الدلو",
+        "tr": "kubb il-mayya illi fid-dalu",
+        "en": "Pour out the water in the bucket"
+      },
+      {
+        "ar": "ردّ بالك تكبّه",
+        "tr": "rudd bālak tkubbah",
+        "en": "Careful, you'll spill it"
+      }
+    ]
+  },
+  {
+    "ar": "علّق",
+    "tr": "3allag",
+    "en": "to hang (up); to suspend",
+    "msa": "علّق",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "علّق الكبّوط ورا الباب.",
+    "ex_tr": "3allig il-kabbūT wara l-bāb.",
+    "ex_en": "Hang the coat behind the door.",
+    "note": "imperfect: نعلّق n3allig (I hang), يعلّق y3allig (he hangs)",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "علّق الصورة في الحيط",
+        "tr": "3allig iS-Sūra fil-7ēT",
+        "en": "Hang the picture on the wall"
+      },
+      {
+        "ar": "علّقنا الفنارات للعيد",
+        "tr": "3allagna l-fnārāt lil-3īd",
+        "en": "We hung up the lanterns for Eid"
+      }
+    ]
+  },
+  {
+    "ar": "تعلّق",
+    "tr": "t3allag",
+    "en": "to hang on; to cling (to)",
+    "msa": "تعلّق",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "الصغير تعلّق في رقبة بوه.",
+    "ex_tr": "iS-Sghīr t3allag fi ragbat būh.",
+    "ex_en": "The little one clung to his father's neck.",
+    "note": "imperfect: نتعلّق nit3allag (I hang on), يتعلّق yit3allag (he hangs on)",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "تعلّق في الباب وما طاحش",
+        "tr": "t3allag fil-bāb w-ma Tā7sh",
+        "en": "He hung on to the door and didn't fall"
+      },
+      {
+        "ar": "ما تتعلّقش في الشجرة",
+        "tr": "ma tit3allagsh fish-shajra",
+        "en": "Don't hang from the tree"
+      }
+    ]
+  },
+  {
+    "ar": "قطع",
+    "tr": "gTa3",
+    "en": "to cut; to cross (a street)",
+    "msa": "قطع",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 1,
+    "ex_ar": "اقطع الشارع من هنا.",
+    "ex_tr": "ugTa3 ish-shāri3 min hina.",
+    "ex_en": "Cross the street here.",
+    "note": "imperfect: نقطع nugTa3 (I cut), يقطع yugTa3 (he cuts)",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "قطع الحبل بالسكينة",
+        "tr": "gTa3 il-7abl bis-sikkīna",
+        "en": "He cut the rope with the knife"
+      },
+      {
+        "ar": "قطعنا مسافة طويلة",
+        "tr": "gTa3na masāfa Tawīla",
+        "en": "We covered a long distance"
+      }
+    ]
+  },
+  {
+    "ar": "فرّم",
+    "tr": "farram",
+    "en": "to mince; to chop finely",
+    "msa": "فرم",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "فرّم البصل والمعدنوس.",
+    "ex_tr": "farrim il-baSal w-il-ma3dnūs.",
+    "ex_en": "Chop the onion and parsley finely.",
+    "note": "imperfect: نفرّم nfarrim (I mince), يفرّم yfarrim (he minces)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "فرّملي كيلو لحم",
+        "tr": "farrimli kīlu l7am",
+        "en": "Mince me a kilo of meat"
+      },
+      {
+        "ar": "فرّمها في الماكينة",
+        "tr": "farrimha fil-makīna",
+        "en": "Mince it in the machine"
+      }
+    ]
+  },
+  {
+    "ar": "طحن",
+    "tr": "T7an",
+    "en": "to grind",
+    "msa": "طحن",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "طحنّا القهوة في الصبح.",
+    "ex_tr": "Ta7anna l-gahwa fiS-SbaH.",
+    "ex_en": "We ground the coffee in the morning.",
+    "note": "imperfect: نطحن niT7an (I grind), يطحن yiT7an (he grinds)",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "طحن القمح في الرحى",
+        "tr": "T7an il-gam7 fir-r7a",
+        "en": "He ground the wheat in the mill"
+      },
+      {
+        "ar": "اطحنها ناعمة",
+        "tr": "iT7anha nā3ma",
+        "en": "Grind it fine"
+      }
+    ]
+  },
+  {
+    "ar": "هرس",
+    "tr": "hras",
+    "en": "to mash; to crush",
+    "msa": "هرس",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "اهرس البطاطا بالفرشيطة.",
+    "ex_tr": "uhrus il-baTāTa bil-farshīTa.",
+    "ex_en": "Mash the potatoes with the fork.",
+    "note": "imperfect: نهرس nuhrus (I mash), يهرس yuhrus (he mashes)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "هرس الطماطم",
+        "tr": "hras iT-TamāTim",
+        "en": "He crushed the tomatoes"
+      },
+      {
+        "ar": "الكرهبة هرست القطوس",
+        "tr": "il-karhba hrasat il-gaTTūs",
+        "en": "The car ran over the cat"
+      }
+    ]
+  },
+  {
+    "ar": "عصر",
+    "tr": "3Sar",
+    "en": "to squeeze; to juice; to wring",
+    "msa": "عصر",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "اعصر ليمونة على السلاطة.",
+    "ex_tr": "u3Sur līmūna 3as-salāTa.",
+    "ex_en": "Squeeze a lemon on the salad.",
+    "note": "imperfect: نعصر nu3Sur (I squeeze), يعصر yu3Sur (he squeezes)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "عصرتلك برتقال",
+        "tr": "3Sartlik burtugān",
+        "en": "I juiced some oranges for you"
+      },
+      {
+        "ar": "اعصر الفوطة مليح",
+        "tr": "u3Sur il-fūTa mlī7",
+        "en": "Wring the towel out well"
+      }
+    ]
+  },
+  {
+    "ar": "فصّص",
+    "tr": "faSSaS",
+    "en": "to peel (garlic); to shell (peas, nuts)",
+    "msa": "قشّر",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "فصّصلي راس توم.",
+    "ex_tr": "faSSiSli rās tūm.",
+    "ex_en": "Peel me a head of garlic.",
+    "note": "imperfect: نفصّص nfaSSiS (I peel), يفصّص yfaSSiS (he peels)",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "قاعدة تفصّص في الجلبانة",
+        "tr": "gā3da tfaSSiS fil-jilbāna",
+        "en": "She's shelling the peas"
+      },
+      {
+        "ar": "فصّص اللوز",
+        "tr": "faSSiS il-lūz",
+        "en": "Shell the almonds"
+      }
+    ]
+  },
+  {
+    "ar": "غلّف",
+    "tr": "ghallaf",
+    "en": "to wrap; to cover (a book)",
+    "msa": "غلّف",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "غلّف الكراريس قبل المدرسة.",
+    "ex_tr": "ghallif il-krārīs gabl il-madrasa.",
+    "ex_en": "Cover the notebooks before school.",
+    "note": "imperfect: نغلّف nghallif (I wrap), يغلّف yghallif (he wraps)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "غلّفهالي هدية",
+        "tr": "ghallifhāli hdiyya",
+        "en": "Gift-wrap it for me"
+      },
+      {
+        "ar": "غلّفها بالبلاستيك",
+        "tr": "ghallifha bil-blāstīk",
+        "en": "Wrap it in plastic"
+      }
+    ]
+  },
+  {
+    "ar": "قفل",
+    "tr": "gfal",
+    "en": "to lock",
+    "msa": "أقفل",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "اقفل الباب بالمفتاح.",
+    "ex_tr": "ugful il-bāb bil-mufta7.",
+    "ex_en": "Lock the door with the key.",
+    "note": "imperfect: نقفل nugful (I lock), يقفل yugful (he locks)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "قفلت الكرهبة؟",
+        "tr": "gfalt il-karhba?",
+        "en": "Did you lock the car?"
+      },
+      {
+        "ar": "نسيت ما قفلتش",
+        "tr": "nsīt ma gfaltish",
+        "en": "I forgot to lock it"
+      }
+    ]
+  },
+  {
+    "ar": "دسّ",
+    "tr": "dass",
+    "en": "to tuck away; to hide; to slip (something) in",
+    "msa": "دسّ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "دسّ الفلوس في جيبه.",
+    "ex_tr": "dass il-flūs fi jēbah.",
+    "ex_en": "He slipped the money into his pocket.",
+    "note": "imperfect: ندسّ ndiss (I tuck away), يدسّ ydiss (he tucks away)",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "دسّها تحت المخدة",
+        "tr": "dissha ta7t il-mkhadda",
+        "en": "Hide it under the pillow"
+      },
+      {
+        "ar": "وين دسّيت المفتاح؟",
+        "tr": "wīn dassēt il-mufta7?",
+        "en": "Where did you stash the key?"
+      }
+    ]
+  },
+  {
+    "ar": "دخّل",
+    "tr": "dakhkhal",
+    "en": "to bring in; to put in; to insert",
+    "msa": "أدخل",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "دخّل الكراسي، الدنيا بتشتّي.",
+    "ex_tr": "dakhkhil il-krāsi, id-dinya bitshatti.",
+    "ex_en": "Bring the chairs in, it's going to rain.",
+    "note": "imperfect: ندخّل ndakhkhil (I bring in), يدخّل ydakhkhil (he brings in)",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "دخّل الكارطة في الماكينة",
+        "tr": "dakhkhil il-kārTa fil-makīna",
+        "en": "Insert the card into the machine"
+      },
+      {
+        "ar": "دخّلهم للمربوعة",
+        "tr": "dakhkhilhum lil-marbū3a",
+        "en": "Show them into the sitting room"
+      }
+    ]
+  },
+  {
+    "ar": "طلّع",
+    "tr": "Talla3",
+    "en": "to take out; to bring up; to get (something) out",
+    "msa": "أخرج؛ أطلع",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 1,
+    "ex_ar": "طلّع الزبالة قبل ما ترقد.",
+    "ex_tr": "Talli3 iz-zibāla gabl ma turgud.",
+    "ex_en": "Take the rubbish out before you sleep.",
+    "note": "imperfect: نطلّع nTalli3 (I take out), يطلّع yTalli3 (he takes out)",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "طلّع البطاقة متاعك",
+        "tr": "Talli3 il-biTāga mtā3ak",
+        "en": "Take out your ID card"
+      },
+      {
+        "ar": "طلّع الشنط للطابق التاني",
+        "tr": "Talli3 ish-shnaT liT-Tābig it-tāni",
+        "en": "Take the bags up to the second floor"
+      }
+    ]
+  },
+  {
+    "ar": "نزّل",
+    "tr": "nazzal",
+    "en": "to bring down; to drop off; to download",
+    "msa": "أنزل",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 2,
+    "ex_ar": "نزّلني قدّام الجامع.",
+    "ex_tr": "nazzilni guddām il-jāmi3.",
+    "ex_en": "Drop me off in front of the mosque.",
+    "note": "imperfect: ننزّل nnazzil (I bring down), ينزّل ynazzil (he brings down)",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "نزّل الشنط من الكرهبة",
+        "tr": "nazzil ish-shnaT min il-karhba",
+        "en": "Unload the bags from the car"
+      },
+      {
+        "ar": "نزّلت التطبيق",
+        "tr": "nazzalt it-taTbīg",
+        "en": "I downloaded the app"
+      }
+    ]
+  },
+  {
+    "ar": "هبّط",
+    "tr": "habbaT",
+    "en": "to lower; to bring down",
+    "msa": "أهبط",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "هبّط الكرتونة بشوية.",
+    "ex_tr": "habbiT il-kartōna b-ishwayya.",
+    "ex_en": "Lower the box slowly.",
+    "note": "imperfect: نهبّط nhabbiT (I lower), يهبّط yhabbiT (he lowers)",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "هبّط الستارة",
+        "tr": "habbiT is-sitāra",
+        "en": "Lower the blind"
+      },
+      {
+        "ar": "الدوا هبّطله السخانة",
+        "tr": "id-dwa habbaTlah is-skhāna",
+        "en": "The medicine brought his fever down"
+      }
+    ]
+  },
+  {
+    "ar": "نفض",
+    "tr": "nfaD",
+    "en": "to shake out; to dust off",
+    "msa": "نفض",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "انفض الزربية في البلكون.",
+    "ex_tr": "unfuD iz-zirbiyya fil-balkōn.",
+    "ex_en": "Shake out the rug on the balcony.",
+    "note": "imperfect: ننفض nunfuD (I shake out), ينفض yunfuD (he shakes out)",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "نفض الغبرة من حوايجه",
+        "tr": "nfaD il-ghubra min 7wāyjah",
+        "en": "He dusted off his clothes"
+      },
+      {
+        "ar": "انفض المفرش",
+        "tr": "unfuD il-mafrash",
+        "en": "Shake out the tablecloth"
+      }
+    ]
+  },
+  {
+    "ar": "رجّ",
+    "tr": "rajj",
+    "en": "to shake (a bottle)",
+    "msa": "رجّ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "رجّ الدوا قبل ما تشربه.",
+    "ex_tr": "rijj id-dwa gabl ma tishrabah.",
+    "ex_en": "Shake the medicine before you drink it.",
+    "note": "imperfect: نرجّ nrijj (I shake), يرجّ yrijj (he shakes)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "رجّ القرعة مليح",
+        "tr": "rijj il-gar3a mlī7",
+        "en": "Shake the bottle well"
+      },
+      {
+        "ar": "الكرهبة ترجّ في الطريق",
+        "tr": "il-karhba trijj fiT-Trīg",
+        "en": "The car shakes on the road"
+      }
+    ]
+  },
+  {
+    "ar": "خضّ",
+    "tr": "khaDD",
+    "en": "to shake; to churn (milk)",
+    "msa": "خضّ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "جدّتي كانت تخضّ اللبن في الشكوة.",
+    "ex_tr": "jaddti kānat tkhuDD il-laban fish-shakwa.",
+    "ex_en": "My grandmother used to churn the milk in the goatskin.",
+    "note": "imperfect: نخضّ nkhuDD (I shake), يخضّ ykhuDD (he shakes)",
+    "usage": 33,
+    "phrases": [
+      {
+        "ar": "خضّها باش تتخلط",
+        "tr": "khuDDha bāsh titkhlaT",
+        "en": "Shake it so it mixes"
+      },
+      {
+        "ar": "خضّ الحليب",
+        "tr": "khuDD il-7līb",
+        "en": "Churn the milk"
+      }
+    ]
+  },
+  {
+    "ar": "حرّك",
+    "tr": "7arrak",
+    "en": "to stir; to move (something)",
+    "msa": "حرّك",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "حرّك الطبيخة لا تلصق.",
+    "ex_tr": "7arrik iT-Tbīkha la tilSag.",
+    "ex_en": "Stir the stew so it doesn't stick.",
+    "note": "imperfect: نحرّك n7arrik (I stir), يحرّك y7arrik (he stirs)",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "حرّك الكرهبة شوية لقدّام",
+        "tr": "7arrik il-karhba shwayya l-giddām",
+        "en": "Move the car forward a bit"
+      },
+      {
+        "ar": "ما تحرّكش يدك",
+        "tr": "ma t7arriksh īdak",
+        "en": "Don't move your hand"
+      }
+    ]
+  },
+  {
+    "ar": "قلّب",
+    "tr": "gallab",
+    "en": "to stir; to turn over; to rummage through",
+    "msa": "قلّب",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "قلّب الحوت باش يطيب من الجيهتين.",
+    "ex_tr": "gallib il-7ūt bāsh yTīb min il-jīhtēn.",
+    "ex_en": "Turn the fish so it cooks on both sides.",
+    "note": "imperfect: نقلّب ngallib (I stir), يقلّب ygallib (he stirs)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "قاعد يقلّب في التليفون",
+        "tr": "gā3id ygallib fit-tilīfōn",
+        "en": "He's scrolling through his phone"
+      },
+      {
+        "ar": "قلّبت الحوش كله وما لقيتهاش",
+        "tr": "gallabt il-7ōsh kullah w-ma lgīthāsh",
+        "en": "I turned the house upside down and didn't find it"
+      }
+    ]
+  },
+  {
+    "ar": "كسّر",
+    "tr": "kassar",
+    "en": "to smash; to break into pieces",
+    "msa": "كسّر",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "كسّر البيض في الزلافة.",
+    "ex_tr": "kassir il-bēD fiz-zlāfa.",
+    "ex_en": "Crack the eggs into the bowl.",
+    "note": "imperfect: نكسّر nkassir (I smash), يكسّر ykassir (he smashes)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "كسّر الكورة البلّار",
+        "tr": "kassar il-kōra l-ballār",
+        "en": "He smashed the glass ball"
+      },
+      {
+        "ar": "ما تكسّرش الألعاب",
+        "tr": "ma tkassirsh il-al3āb",
+        "en": "Don't break the toys"
+      }
+    ]
+  },
+  {
+    "ar": "شقّ",
+    "tr": "shagg",
+    "en": "to split; to slit; to cut open",
+    "msa": "شقّ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "شقّ البطيخة على زوز.",
+    "ex_tr": "shagg il-baTTīkha 3ala zūz.",
+    "ex_en": "He split the watermelon in two.",
+    "note": "imperfect: نشقّ nshugg (I split), يشقّ yshugg (he splits)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "شقّ الخبزة وحط فيها التن",
+        "tr": "shugg il-khubza w-7uTT fīha it-tunn",
+        "en": "Slice open the bread and put tuna in it"
+      },
+      {
+        "ar": "شقّ الطريق",
+        "tr": "shagg iT-Trīg",
+        "en": "He made his way through"
+      }
+    ]
+  },
+  {
+    "ar": "مزّق",
+    "tr": "mazzag",
+    "en": "to tear up; to rip",
+    "msa": "مزّق",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "مزّق الورقة ولوّحها.",
+    "ex_tr": "mazzag il-wurga w-lawwa7ha.",
+    "ex_en": "He tore up the paper and threw it away.",
+    "note": "imperfect: نمزّق nmazzig (I tear up), يمزّق ymazzig (he tears up)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "ما تمزّقش الكتاب",
+        "tr": "ma tmazzigsh il-ktāb",
+        "en": "Don't tear the book"
+      },
+      {
+        "ar": "القطوس مزّق الستارة",
+        "tr": "il-gaTTūs mazzag is-sitāra",
+        "en": "The cat ripped the curtain"
+      }
+    ]
+  },
+  {
+    "ar": "فتّت",
+    "tr": "fattat",
+    "en": "to crumble; to break into small bits",
+    "msa": "فتّت",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "فتّت الخبز للطيور.",
+    "ex_tr": "fattat il-khubz liT-Tyūr.",
+    "ex_en": "He crumbled the bread for the birds.",
+    "note": "imperfect: نفتّت nfattit (I crumble), يفتّت yfattit (he crumbles)",
+    "usage": 33,
+    "phrases": [
+      {
+        "ar": "فتّت الخبزة في الشوربة",
+        "tr": "fattit il-khubza fish-shurba",
+        "en": "Crumble the bread into the soup"
+      },
+      {
+        "ar": "فتّت الكسرة",
+        "tr": "fattit il-kisra",
+        "en": "Break up the flatbread"
+      }
+    ]
+  },
+  {
+    "ar": "وزن",
+    "tr": "wzan",
+    "en": "to weigh",
+    "msa": "وزن",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "وزنلي كيلو طماطم.",
+    "ex_tr": "wzinli kīlu TamāTim.",
+    "ex_en": "Weigh me a kilo of tomatoes.",
+    "note": "imperfect: نوزن nūzin (I weigh), يوزن yūzin (he weighs)",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "قداش توزن؟",
+        "tr": "gaddāsh tūzin?",
+        "en": "How much do you weigh?"
+      },
+      {
+        "ar": "وزنت الشنطة في المطار",
+        "tr": "wzant ish-shanTa fil-maTār",
+        "en": "I weighed the suitcase at the airport"
+      }
+    ]
+  },
+  {
+    "ar": "سدّ",
+    "tr": "sadd",
+    "en": "to block; to plug; to close up",
+    "msa": "سدّ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "سدّ الطاقة، البرد داخل.",
+    "ex_tr": "sidd iT-Tāga, il-bard dākhil.",
+    "ex_en": "Close the window, the cold is getting in.",
+    "note": "imperfect: نسدّ nsidd (I block), يسدّ ysidd (he blocks)",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "سدّ وذنيه",
+        "tr": "sadd wdhnēh",
+        "en": "He covered his ears"
+      },
+      {
+        "ar": "سدّ الطريق بالكرهبة",
+        "tr": "sadd iT-Trīg bil-karhba",
+        "en": "He blocked the road with his car"
+      }
+    ]
+  },
+  {
+    "ar": "بلّ",
+    "tr": "ball",
+    "en": "to wet; to moisten",
+    "msa": "بلّ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "بلّ الفوطة ومسح وجهه.",
+    "ex_tr": "ball il-fūTa w-msa7 wijhah.",
+    "ex_en": "He wet the towel and wiped his face.",
+    "note": "imperfect: نبلّ nbill (I wet), يبلّ ybill (he wets)",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "بلّ شعرك قبل ما تمشّطه",
+        "tr": "bill sha3rak gabl ma tmashTah",
+        "en": "Wet your hair before combing it"
+      },
+      {
+        "ar": "المطر بلّنا",
+        "tr": "il-maTar ballna",
+        "en": "The rain soaked us"
+      }
+    ]
+  },
+  {
+    "ar": "تبلّل",
+    "tr": "tballal",
+    "en": "to get wet",
+    "msa": "تبلّل",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "تبلّلت كلّي في المطر.",
+    "ex_tr": "tballalt kulli fil-maTar.",
+    "ex_en": "I got completely wet in the rain.",
+    "note": "imperfect: نتبلّل nitballal (I get wet), يتبلّل yitballal (he gets wet)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "خوذ المظلة لا تتبلّل",
+        "tr": "khūdh il-maDHalla la titballal",
+        "en": "Take the umbrella so you don't get wet"
+      },
+      {
+        "ar": "حوايجه تبلّلوا",
+        "tr": "7wāyjah tballlu",
+        "en": "His clothes got wet"
+      }
+    ]
+  },
+  {
+    "ar": "نشف",
+    "tr": "nshif",
+    "en": "to dry; to dry up",
+    "msa": "جفّ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "الغسيل نشف في الشمس.",
+    "ex_tr": "il-ghasīl nshif fish-shams.",
+    "ex_en": "The laundry dried in the sun.",
+    "note": "imperfect: ننشف ninshaf (I dry), ينشف yinshaf (he dries)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "ريقي نشف",
+        "tr": "rīgi nshif",
+        "en": "My mouth went dry"
+      },
+      {
+        "ar": "ما نشفش بعد",
+        "tr": "ma nshifsh ba3d",
+        "en": "It's not dry yet"
+      }
+    ]
+  },
+  {
+    "ar": "ذاب",
+    "tr": "dhāb",
+    "en": "to melt; to dissolve",
+    "msa": "ذاب",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "التلج ذاب في الكاس.",
+    "ex_tr": "it-tilj dhāb fil-kās.",
+    "ex_en": "The ice melted in the glass.",
+    "note": "imperfect: نذوب ndhūb (I melt), يذوب ydhūb (he melts)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "السكر ما ذابش",
+        "tr": "is-sukkar ma dhābsh",
+        "en": "The sugar hasn't dissolved"
+      },
+      {
+        "ar": "يذوب في الفم",
+        "tr": "ydhūb fil-fumm",
+        "en": "It melts in the mouth"
+      }
+    ]
+  },
+  {
+    "ar": "ذوّب",
+    "tr": "dhawwab",
+    "en": "to melt (something); to dissolve",
+    "msa": "أذاب",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "ذوّب الزبدة على النار.",
+    "ex_tr": "dhawwib iz-zibda 3an-nār.",
+    "ex_en": "Melt the butter on the stove.",
+    "note": "imperfect: نذوّب ndhawwib (I melt), يذوّب ydhawwib (he melts)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "ذوّب الخميرة في مية سخونة",
+        "tr": "dhawwib il-khamīra fi mayya skhūna",
+        "en": "Dissolve the yeast in warm water"
+      },
+      {
+        "ar": "ذوّب الحبّة في المية",
+        "tr": "dhawwib il-7abba fil-mayya",
+        "en": "Dissolve the tablet in water"
+      }
+    ]
+  },
+  {
+    "ar": "جمد",
+    "tr": "jmad",
+    "en": "to freeze; to set (become solid)",
+    "msa": "تجمّد",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "المية جمدت في الفريزر.",
+    "ex_tr": "il-mayya jmadat fil-frīzir.",
+    "ex_en": "The water froze in the freezer.",
+    "note": "imperfect: نجمد nijmad (I freeze), يجمد yijmad (he freezes)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "جمدت من البرد",
+        "tr": "jmadt min il-bard",
+        "en": "I froze from the cold"
+      },
+      {
+        "ar": "الجيلي جمد",
+        "tr": "ij-jēli jmad",
+        "en": "The jelly has set"
+      }
+    ]
+  },
+  {
+    "ar": "جمّد",
+    "tr": "jammad",
+    "en": "to freeze (food); to put in the freezer",
+    "msa": "جمّد",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "جمّد اللحم باش ما يفسدش.",
+    "ex_tr": "jammid il-l7am bāsh ma yifsadsh.",
+    "ex_en": "Freeze the meat so it doesn't spoil.",
+    "note": "imperfect: نجمّد njammid (I freeze), يجمّد yjammid (he freezes)",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "جمّدت الحوت",
+        "tr": "jammadt il-7ūt",
+        "en": "I froze the fish"
+      },
+      {
+        "ar": "حط الخضرة تتجمّد",
+        "tr": "7uTT il-khuDra titjammad",
+        "en": "Put the vegetables in to freeze"
+      }
+    ]
+  },
+  {
+    "ar": "غلى",
+    "tr": "ghlā",
+    "en": "to boil; to come to the boil",
+    "msa": "غلى",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "المية غلت، حطّ المكرونة.",
+    "ex_tr": "il-mayya ghlat, 7uTT il-makarōna.",
+    "ex_en": "The water's boiling, put the pasta in.",
+    "note": "imperfect: نغلي nighli (I boil), يغلي yighli (he boils)",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "الشاهي يغلي على النار",
+        "tr": "ish-shāhi yighli 3an-nār",
+        "en": "The tea is boiling on the stove"
+      },
+      {
+        "ar": "دمّه يغلي",
+        "tr": "dammah yighli",
+        "en": "His blood is boiling"
+      }
+    ]
+  },
+  {
+    "ar": "فار",
+    "tr": "fār",
+    "en": "to boil over; to bubble up",
+    "msa": "فار",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "الحليب فار على الكوشة.",
+    "ex_tr": "il-7līb fār 3al-kūsha.",
+    "ex_en": "The milk boiled over onto the stove.",
+    "note": "imperfect: نفور nfūr (I boil over), يفور yfūr (he boils over)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "عسّ الحليب لا يفور",
+        "tr": "3uss il-7līb la yfūr",
+        "en": "Watch the milk so it doesn't boil over"
+      },
+      {
+        "ar": "القهوة فارت",
+        "tr": "il-gahwa fārat",
+        "en": "The coffee bubbled over"
+      }
+    ]
+  },
+  {
+    "ar": "انطفى",
+    "tr": "nTfā",
+    "en": "to go out (light, fire); to stall (engine)",
+    "msa": "انطفأ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "الضو انطفى فجأة.",
+    "ex_tr": "iD-Dō nTfā faj'a.",
+    "ex_en": "The light suddenly went out.",
+    "note": "imperfect: ننطفى ninTfā (I go out), ينطفى yinTfā (he goes out)",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "الكرهبة انطفت في الطريق",
+        "tr": "il-karhba nTfat fiT-Trīg",
+        "en": "The car stalled on the road"
+      },
+      {
+        "ar": "النار انطفت",
+        "tr": "in-nār nTfat",
+        "en": "The fire went out"
+      }
+    ]
+  },
+  {
+    "ar": "شعل",
+    "tr": "sh3al",
+    "en": "to catch fire; to be lit; to be on (light)",
+    "msa": "اشتعل",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "الحطب شعل بسرعة.",
+    "ex_tr": "il-7aTab sh3al b-sur3a.",
+    "ex_en": "The firewood caught fire quickly.",
+    "note": "imperfect: نشعل nish3al (I catch fire), يشعل yish3al (he catches fire)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الضو شاعل في الكوجينة",
+        "tr": "iD-Dō shā3il fil-kūjīna",
+        "en": "The light is on in the kitchen"
+      },
+      {
+        "ar": "الكوشة ما شعلتش",
+        "tr": "il-kūsha ma sh3altish",
+        "en": "The stove didn't light"
+      }
+    ]
+  },
+  {
+    "ar": "ولّع",
+    "tr": "walla3",
+    "en": "to light (a cigarette, fire); to set alight",
+    "msa": "أشعل",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "ولّع النار في الكانون.",
+    "ex_tr": "walla3 in-nār fil-kānūn.",
+    "ex_en": "He lit the fire in the brazier.",
+    "note": "imperfect: نولّع nwalli3 (I light), يولّع ywalli3 (he lights)",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "ولّعلي سيجارة",
+        "tr": "walli3li sigāra",
+        "en": "Light me a cigarette"
+      },
+      {
+        "ar": "عندك ولّاعة؟",
+        "tr": "3andak wallā3a?",
+        "en": "Do you have a lighter?"
+      }
+    ]
+  },
+  {
+    "ar": "انحرق",
+    "tr": "n7rag",
+    "en": "to get burned; to burn (food)",
+    "msa": "احترق",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "انحرقت يدي من الطنجرة.",
+    "ex_tr": "n7argat īdi min iT-Tanjra.",
+    "ex_en": "My hand got burned on the pot.",
+    "note": "imperfect: ننحرق nin7rig (I get burned), ينحرق yin7rig (he gets burned)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الرز انحرق",
+        "tr": "ir-ruzz n7rag",
+        "en": "The rice burned"
+      },
+      {
+        "ar": "انحرق وجهه من الشمس",
+        "tr": "n7rag wijhah min ish-shams",
+        "en": "His face got sunburned"
+      }
+    ]
+  },
+  {
+    "ar": "سخن",
+    "tr": "skhun",
+    "en": "to get hot; to warm up",
+    "msa": "سخن",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "المية سخنت؟",
+    "ex_tr": "il-mayya skhunat?",
+    "ex_en": "Has the water got hot?",
+    "note": "imperfect: نسخن niskhan (I get hot), يسخن yiskhan (he gets hot)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "الجو سخن اليوم",
+        "tr": "ij-jaw skhun il-yōm",
+        "en": "The weather got hot today"
+      },
+      {
+        "ar": "الصغير سخن، عنده سخانة",
+        "tr": "iS-Sghīr skhun, 3andah skhāna",
+        "en": "The little one is running a fever"
+      }
+    ]
+  },
+  {
+    "ar": "برد",
+    "tr": "brid",
+    "en": "to get cold; to cool down",
+    "msa": "برد",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "الشاهي برد، نسخّنهولك؟",
+    "ex_tr": "ish-shāhi brid, nsakhkhinhūlak?",
+    "ex_en": "The tea's gone cold; shall I heat it for you?",
+    "note": "imperfect: نبرد nibrad (I get cold), يبرد yibrad (he gets cold)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "كول قبل ما تبرد",
+        "tr": "kūl gabl ma tibrad",
+        "en": "Eat before it gets cold"
+      },
+      {
+        "ar": "بردت هلبة الليلة",
+        "tr": "bridt hallba il-lēla",
+        "en": "I got really cold tonight"
+      }
+    ]
+  },
+  {
+    "ar": "ذبل",
+    "tr": "dhbal",
+    "en": "to wilt; to wither",
+    "msa": "ذبل",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "الورد ذبل، ما سقيتهش.",
+    "ex_tr": "il-ward dhbal, ma sgītahsh.",
+    "ex_en": "The flowers wilted; I didn't water them.",
+    "note": "imperfect: نذبل nidhbal (I wilt), يذبل yidhbal (he wilts)",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "المعدنوس ذبل في الثلاجة",
+        "tr": "il-ma3dnūs dhbal fith-thallāja",
+        "en": "The parsley wilted in the fridge"
+      },
+      {
+        "ar": "وجهه ذبلان",
+        "tr": "wijhah dhablān",
+        "en": "His face looks drawn"
+      }
+    ]
+  },
+  {
+    "ar": "صدّى",
+    "tr": "Saddā",
+    "en": "to rust",
+    "msa": "صدئ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "الباب الحديد صدّى من البحر.",
+    "ex_tr": "il-bāb il-7dīd Saddā min il-ba7r.",
+    "ex_en": "The iron gate rusted from the sea air.",
+    "note": "imperfect: نصدّي nSaddi (I rust), يصدّي ySaddi (he rusts)",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "الموس صدّى",
+        "tr": "il-mūs Saddā",
+        "en": "The knife has rusted"
+      },
+      {
+        "ar": "ادهنه لا يصدّي",
+        "tr": "idhnah la ySaddi",
+        "en": "Paint it so it doesn't rust"
+      }
+    ]
+  },
+  {
+    "ar": "تعفّن",
+    "tr": "t3affan",
+    "en": "to go moldy; to rot",
+    "msa": "تعفّن",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "الخبز تعفّن، لوّحه.",
+    "ex_tr": "il-khubz t3affan, lawwa7ah.",
+    "ex_en": "The bread has gone moldy; throw it away.",
+    "note": "imperfect: نتعفّن nit3affan (I go moldy), يتعفّن yit3affan (he goes moldy)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "الطماطم تعفّنت",
+        "tr": "iT-TamāTim t3affnat",
+        "en": "The tomatoes rotted"
+      },
+      {
+        "ar": "حطّها في الثلاجة لا تتعفّن",
+        "tr": "7uTTha fith-thallāja la tit3affan",
+        "en": "Put it in the fridge so it doesn't rot"
+      }
+    ]
+  },
+  {
+    "ar": "خمر",
+    "tr": "khmar",
+    "en": "to rise (dough); to ferment",
+    "msa": "اختمر",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "العجين خمر، تو نخبزوه.",
+    "ex_tr": "il-3ajīn khmar, tawwa nukhbzūh.",
+    "ex_en": "The dough has risen; now we'll bake it.",
+    "note": "imperfect: نخمر nikhmar (I rise), يخمر yikhmar (he rises)",
+    "usage": 33,
+    "phrases": [
+      {
+        "ar": "خليه يخمر ساعة",
+        "tr": "khallīh yikhmar sā3a",
+        "en": "Let it rise for an hour"
+      },
+      {
+        "ar": "العجين ما خمرش",
+        "tr": "il-3ajīn ma khmarsh",
+        "en": "The dough didn't rise"
+      }
+    ]
+  },
+  {
+    "ar": "حمض",
+    "tr": "7maD",
+    "en": "to go sour",
+    "msa": "حمض",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "الحليب حمض، ما تشربهش.",
+    "ex_tr": "il-7līb 7maD, ma tishrabahsh.",
+    "ex_en": "The milk has gone sour, don't drink it.",
+    "note": "imperfect: نحمض ni7maD (I go sour), يحمض yi7maD (he goes sour)",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "اللبن يحمض في السخانة",
+        "tr": "il-laban yi7maD fis-skhāna",
+        "en": "Buttermilk sours in the heat"
+      },
+      {
+        "ar": "خلّيه لين يحمض",
+        "tr": "khallīh līn yi7maD",
+        "en": "Leave it until it turns sour"
+      }
+    ]
+  },
+  {
+    "ar": "فسد",
+    "tr": "fsad",
+    "en": "to go bad; to spoil",
+    "msa": "فسد",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "اللحم فسد برّا الثلاجة.",
+    "ex_tr": "il-l7am fsad barra th-thallāja.",
+    "ex_en": "The meat went bad outside the fridge.",
+    "note": "imperfect: نفسد nifsad (I go bad), يفسد yifsad (he goes bad)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الماكلة فسدت",
+        "tr": "il-mākla fsadat",
+        "en": "The food has spoiled"
+      },
+      {
+        "ar": "يفسد بسرعة في الصيف",
+        "tr": "yifsad b-sur3a fiS-Sēf",
+        "en": "It goes off quickly in summer"
+      }
+    ]
+  },
+  {
+    "ar": "ساح",
+    "tr": "sā7",
+    "en": "to melt; to run (ice cream, makeup)",
+    "msa": "ساح",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "الجيلاطي ساح في يده.",
+    "ex_tr": "ij-jilāTi sā7 fi īdah.",
+    "ex_en": "The ice cream melted in his hand.",
+    "note": "imperfect: نسيح nsī7 (I melt), يسيح ysī7 (he melts)",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "الشكلاطة ساحت في الكرهبة",
+        "tr": "ish-shiklāTa sā7at fil-karhba",
+        "en": "The chocolate melted in the car"
+      },
+      {
+        "ar": "الماكياج ساح من السخانة",
+        "tr": "il-mākyāj sā7 mis-skhāna",
+        "en": "The makeup ran in the heat"
+      }
+    ]
+  },
+  {
+    "ar": "نقّط",
+    "tr": "naggaT",
+    "en": "to drip; to put drops in",
+    "msa": "نقّط",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "الحنفية تنقّط طول الليل.",
+    "ex_tr": "il-7anafiyya tnaggiT Tūl il-lēl.",
+    "ex_en": "The tap drips all night.",
+    "note": "imperfect: ننقّط nnaggiT (I drip), ينقّط ynaggiT (he drips)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "نقّط في عينيه",
+        "tr": "naggaT fi 3ēnēh",
+        "en": "He put drops in his eyes"
+      },
+      {
+        "ar": "السقف ينقّط",
+        "tr": "is-sagf ynaggiT",
+        "en": "The ceiling is dripping"
+      }
+    ]
+  },
+  {
+    "ar": "سال",
+    "tr": "sāl",
+    "en": "to flow; to run (nose, water)",
+    "msa": "سال",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "الدم سال من خشمه.",
+    "ex_tr": "id-damm sāl min khashmah.",
+    "ex_en": "Blood ran from his nose.",
+    "note": "imperfect: نسيل nsīl (I flow), يسيل ysīl (he flows)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "خشمه يسيل من البرد",
+        "tr": "khashmah ysīl min il-bard",
+        "en": "His nose is running from the cold"
+      },
+      {
+        "ar": "ريقي سال على الماكلة",
+        "tr": "rīgi sāl 3al-mākla",
+        "en": "My mouth watered at the food"
+      }
+    ]
+  },
+  {
+    "ar": "خرّ",
+    "tr": "kharr",
+    "en": "to leak; to drip",
+    "msa": "تسرّب",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "السطل هذا يخرّ.",
+    "ex_tr": "is-saTl hādha ykhurr.",
+    "ex_en": "This bucket leaks.",
+    "note": "imperfect: نخرّ nkhurr (I leak), يخرّ ykhurr (he leaks)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "السقف قاعد يخرّ",
+        "tr": "is-sagf gā3id ykhurr",
+        "en": "The roof is leaking"
+      },
+      {
+        "ar": "الكرهبة تخرّ في الزيت",
+        "tr": "il-karhba tkhurr fiz-zēt",
+        "en": "The car is leaking oil"
+      }
+    ]
+  },
+  {
+    "ar": "فاض",
+    "tr": "fāD",
+    "en": "to overflow",
+    "msa": "فاض",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "الحوض فاض والمية في الأرض.",
+    "ex_tr": "il-7ōD fāD w-il-mayya fil-arD.",
+    "ex_en": "The sink overflowed and the water is on the floor.",
+    "note": "imperfect: نفيض nfīD (I overflow), يفيض yfīD (he overflows)",
+    "usage": 33,
+    "phrases": [
+      {
+        "ar": "الوادي فاض من المطر",
+        "tr": "il-wādi fāD min il-maTar",
+        "en": "The wadi overflowed with rain"
+      },
+      {
+        "ar": "الكاس فاض",
+        "tr": "il-kās fāD",
+        "en": "The glass ran over"
+      }
+    ]
+  },
+  {
+    "ar": "انكسر",
+    "tr": "nksar",
+    "en": "to get broken; to break",
+    "msa": "انكسر",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "الصحن طاح وانكسر.",
+    "ex_tr": "iS-Sa7n Tā7 w-nksar.",
+    "ex_en": "The plate fell and broke.",
+    "note": "imperfect: ننكسر ninksir (I get broken), ينكسر yinksir (he gets broken)",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "رجله انكسرت",
+        "tr": "rijlah nksarat",
+        "en": "His leg broke"
+      },
+      {
+        "ar": "البلّار ينكسر بسرعة",
+        "tr": "il-ballār yinksir b-sur3a",
+        "en": "Glass breaks easily"
+      }
+    ]
+  },
+  {
+    "ar": "انقلب",
+    "tr": "ngalab",
+    "en": "to overturn; to flip over",
+    "msa": "انقلب",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "الكرهبة انقلبت في الطريق.",
+    "ex_tr": "il-karhba ngalbat fiT-Trīg.",
+    "ex_en": "The car flipped over on the road.",
+    "note": "imperfect: ننقلب ninglib (I overturn), ينقلب yinglib (he overturns)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الفلوكة انقلبت",
+        "tr": "il-flūka ngalbat",
+        "en": "The boat capsized"
+      },
+      {
+        "ar": "الدنيا انقلبت",
+        "tr": "id-dinya ngalbat",
+        "en": "All hell broke loose"
+      }
+    ]
+  },
+  {
+    "ar": "انفتح",
+    "tr": "nfta7",
+    "en": "to come open; to open (by itself)",
+    "msa": "انفتح",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "الباب انفتح بالريح.",
+    "ex_tr": "il-bāb nfta7 bir-rī7.",
+    "ex_en": "The door blew open in the wind.",
+    "note": "imperfect: ننفتح ninfti7 (I come open), ينفتح yinfti7 (he comes open)",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "الكيس انفتح",
+        "tr": "il-kīs nfta7",
+        "en": "The bag came open"
+      },
+      {
+        "ar": "ما ينفتحش، علق",
+        "tr": "ma yinfti7sh, 3lig",
+        "en": "It won't open, it's stuck"
+      }
+    ]
+  },
+  {
+    "ar": "انقطع",
+    "tr": "ngTa3",
+    "en": "to be cut off (power, water); to snap",
+    "msa": "انقطع",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 2,
+    "ex_ar": "الضو انقطع ساعتين اليوم.",
+    "ex_tr": "iD-Dō ngTa3 sā3tēn il-yōm.",
+    "ex_en": "The power was cut for two hours today.",
+    "note": "imperfect: ننقطع ningTi3 (I be cut off), ينقطع yingTi3 (he is cut off)",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "الحبل انقطع",
+        "tr": "il-7abl ngTa3",
+        "en": "The rope snapped"
+      },
+      {
+        "ar": "المية مقطوعة من الصبح",
+        "tr": "il-mayya magTū3a min iS-SbaH",
+        "en": "The water has been off since morning"
+      }
+    ]
+  },
+  {
+    "ar": "انحلّ",
+    "tr": "n7all",
+    "en": "to come undone; to come loose",
+    "msa": "انحلّ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "رباط سباطك انحلّ.",
+    "ex_tr": "rbāT sabbāTak n7all.",
+    "ex_en": "Your shoelace has come undone.",
+    "note": "imperfect: ننحلّ nin7all (I come undone), ينحلّ yin7all (he comes undone)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "البرغي انحلّ",
+        "tr": "il-burghi n7all",
+        "en": "The screw came loose"
+      },
+      {
+        "ar": "العقدة ما تنحلّش",
+        "tr": "il-3ugda ma tin7allsh",
+        "en": "The knot won't come undone"
+      }
+    ]
+  },
+  {
+    "ar": "انشقّ",
+    "tr": "nshagg",
+    "en": "to crack; to split",
+    "msa": "انشقّ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "الحيط انشقّ من الزلزال.",
+    "ex_tr": "il-7ēT nshagg miz-zilzāl.",
+    "ex_en": "The wall cracked from the earthquake.",
+    "note": "imperfect: ننشقّ ninshagg (I crack), ينشقّ yinshagg (he cracks)",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "السروال انشقّ من ورا",
+        "tr": "is-sirwāl nshagg min wara",
+        "en": "The trousers split at the back"
+      },
+      {
+        "ar": "الخشبة انشقّت",
+        "tr": "il-khashba nshaggat",
+        "en": "The plank split"
+      }
+    ]
+  },
+  {
+    "ar": "تشقّق",
+    "tr": "tshaggag",
+    "en": "to crack; to get chapped (skin)",
+    "msa": "تشقّق",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "شفايفي تشقّقوا من البرد.",
+    "ex_tr": "shfāyfi tshaggagu min il-bard.",
+    "ex_en": "My lips got chapped from the cold.",
+    "note": "imperfect: نتشقّق nitshaggag (I crack), يتشقّق yitshaggag (he cracks)",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "الأرض تشقّقت من القحط",
+        "tr": "il-arD tshaggagat min il-ga7T",
+        "en": "The ground cracked from the drought"
+      },
+      {
+        "ar": "يديها متشقّقين",
+        "tr": "īdēha mitshaggigīn",
+        "en": "Her hands are chapped"
+      }
+    ]
+  },
+  {
+    "ar": "انفجر",
+    "tr": "nfjar",
+    "en": "to explode; to burst",
+    "msa": "انفجر",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "الماسورة انفجرت في الكوجينة.",
+    "ex_tr": "il-māsūra nfajrat fil-kūjīna.",
+    "ex_en": "The pipe burst in the kitchen.",
+    "note": "imperfect: ننفجر ninfjir (I explode), ينفجر yinfjir (he explodes)",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "العجلة انفجرت في الطريق",
+        "tr": "il-3ajla nfajrat fiT-Trīg",
+        "en": "The tyre blew out on the road"
+      },
+      {
+        "ar": "انفجر بالضحك",
+        "tr": "nfjar biD-D7ak",
+        "en": "He burst out laughing"
+      }
+    ]
+  },
+  {
+    "ar": "فشّ",
+    "tr": "fashsh",
+    "en": "to deflate; to go flat (tyre)",
+    "msa": "فرغ من الهواء",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "العجلة فشّت، لازم نبدّلوها.",
+    "ex_tr": "il-3ajla fashshat, lāzim nbaddlūha.",
+    "ex_en": "The tyre went flat; we have to change it.",
+    "note": "imperfect: نفشّ nfishsh (I deflate), يفشّ yfishsh (he deflates)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "البالونة فشّت",
+        "tr": "il-ballūna fashshat",
+        "en": "The balloon deflated"
+      },
+      {
+        "ar": "فشّ خلقه",
+        "tr": "fashsh khulgah",
+        "en": "He let off steam"
+      }
+    ]
+  },
+  {
+    "ar": "تبخّر",
+    "tr": "tbakhkhar",
+    "en": "to evaporate",
+    "msa": "تبخّر",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "المية تبخّرت من الطنجرة.",
+    "ex_tr": "il-mayya tbakhkharat min iT-Tanjra.",
+    "ex_en": "The water evaporated from the pot.",
+    "note": "imperfect: نتبخّر nitbakhkhar (I evaporate), يتبخّر yitbakhkhar (he evaporates)",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "الفلوس تبخّرت",
+        "tr": "il-flūs tbakhkharat",
+        "en": "The money vanished into thin air"
+      },
+      {
+        "ar": "يتبخّر في السخانة",
+        "tr": "yitbakhkhar fis-skhāna",
+        "en": "It evaporates in the heat"
+      }
+    ]
+  }
+]

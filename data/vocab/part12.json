@@ -1900,5 +1900,4836 @@
     "en": "spring onion with fava beans"
    }
   ]
+ },
+ {
+  "ar": "زعتر",
+  "tr": "za3tar",
+  "en": "thyme; oregano",
+  "msa": "زعتر",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "نحط زعتر وزيت على الخبزة.",
+  "ex_tr": "in7uTT za3tar w zēt 3al-khubza.",
+  "ex_en": "I put thyme and oil on bread.",
+  "phrases": [
+   {
+    "ar": "شاهي بالزعتر",
+    "tr": "shāhi biz-za3tar",
+    "en": "thyme tea"
+   },
+   {
+    "ar": "زعتر يابس",
+    "tr": "za3tar yābis",
+    "en": "dried thyme"
+   }
+  ]
+ },
+ {
+  "ar": "شبت",
+  "tr": "shibt",
+  "en": "dill",
+  "msa": "شبت",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 25,
+  "ex_ar": "حطي شوية شبت في الحوت.",
+  "ex_tr": "7uTTi shwayya shibt fil-7ūt.",
+  "ex_en": "Put a little dill in the fish.",
+  "phrases": [
+   {
+    "ar": "ربطة شبت",
+    "tr": "rabTat shibt",
+    "en": "a bunch of dill"
+   },
+   {
+    "ar": "شبت أخضر",
+    "tr": "shibt akhDar",
+    "en": "fresh dill"
+   }
+  ]
+ },
+ {
+  "ar": "زنجبيل",
+  "tr": "zanjabīl",
+  "en": "ginger",
+  "msa": "زنجبيل",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "شاهي بالزنجبيل يفيد للبرد.",
+  "ex_tr": "shāhi biz-zanjabīl yfīd lil-bard.",
+  "ex_en": "Ginger tea helps with a cold.",
+  "phrases": [
+   {
+    "ar": "زنجبيل طازة",
+    "tr": "zanjabīl Tāza",
+    "en": "fresh ginger"
+   },
+   {
+    "ar": "زنجبيل مطحون",
+    "tr": "zanjabīl maT7ūn",
+    "en": "ground ginger"
+   }
+  ]
+ },
+ {
+  "ar": "قرنفل",
+  "tr": "granful",
+  "en": "cloves",
+  "msa": "قرنفل",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "حط حبتين قرنفل في المرقة.",
+  "ex_tr": "7uTT 7abbtēn granful fil-marga.",
+  "ex_en": "Put two cloves in the sauce.",
+  "phrases": [
+   {
+    "ar": "ريحة القرنفل",
+    "tr": "rī7t il-granful",
+    "en": "the smell of cloves"
+   },
+   {
+    "ar": "قرنفل مطحون",
+    "tr": "granful maT7ūn",
+    "en": "ground cloves"
+   }
+  ]
+ },
+ {
+  "ar": "كروية",
+  "tr": "karwiya",
+  "en": "caraway",
+  "msa": "كراوية",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الكروية تحط في الهريسة.",
+  "ex_tr": "il-karwiya t7uTT fil-harīsa.",
+  "ex_en": "Caraway goes into harissa.",
+  "phrases": [
+   {
+    "ar": "كروية مطحونة",
+    "tr": "karwiya maT7ūna",
+    "en": "ground caraway"
+   },
+   {
+    "ar": "شوية كروية",
+    "tr": "shwayya karwiya",
+    "en": "a little caraway"
+   }
+  ]
+ },
+ {
+  "ar": "زعفران",
+  "tr": "za3frān",
+  "en": "saffron",
+  "msa": "زعفران",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 29,
+  "ex_ar": "الزعفران غالي هلبة.",
+  "ex_tr": "iz-za3frān ghāli hallba.",
+  "ex_en": "Saffron is very expensive.",
+  "phrases": [
+   {
+    "ar": "رز بالزعفران",
+    "tr": "ruzz biz-za3frān",
+    "en": "saffron rice"
+   },
+   {
+    "ar": "شعرات زعفران",
+    "tr": "sha3rāt za3frān",
+    "en": "saffron threads"
+   }
+  ]
+ },
+ {
+  "ar": "حلبة",
+  "tr": "7ilba",
+  "en": "fenugreek",
+  "msa": "حلبة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الحلبة تتشرب للنفاس.",
+  "ex_tr": "il-7ilba titshrib lin-nfās.",
+  "ex_en": "Fenugreek is drunk after childbirth.",
+  "note": "Also used to fatten up; strong smell.",
+  "phrases": [
+   {
+    "ar": "شاهي حلبة",
+    "tr": "shāhi 7ilba",
+    "en": "fenugreek tea"
+   },
+   {
+    "ar": "حلبة مطحونة",
+    "tr": "7ilba maT7ūna",
+    "en": "ground fenugreek"
+   }
+  ]
+ },
+ {
+  "ar": "ورق رند",
+  "tr": "warg rand",
+  "en": "bay leaves",
+  "msa": "ورق الغار",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 27,
+  "ex_ar": "حط ورقتين رند في البرمة.",
+  "ex_tr": "7uTT wargtēn rand fil-burma.",
+  "ex_en": "Put two bay leaves in the pot.",
+  "note": "رند is the Maghrebi word for bay laurel.",
+  "phrases": [
+   {
+    "ar": "ورقة رند",
+    "tr": "wargat rand",
+    "en": "a bay leaf"
+   },
+   {
+    "ar": "ريحة الرند",
+    "tr": "rī7t ir-rand",
+    "en": "the smell of bay leaves"
+   }
+  ]
+ },
+ {
+  "ar": "يانسون",
+  "tr": "yansūn",
+  "en": "aniseed",
+  "msa": "يانسون",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 26,
+  "ex_ar": "شاهي يانسون قبل الرقاد.",
+  "ex_tr": "shāhi yansūn gbal ir-rgād.",
+  "ex_en": "Aniseed tea before sleep.",
+  "phrases": [
+   {
+    "ar": "حب يانسون",
+    "tr": "7abb yansūn",
+    "en": "anise seeds"
+   },
+   {
+    "ar": "يانسون للصغار",
+    "tr": "yansūn liS-Sghār",
+    "en": "anise drink for babies"
+   }
+  ]
+ },
+ {
+  "ar": "عطرشة",
+  "tr": "3aTarsha",
+  "en": "rose geranium (leaves for tea and sweets)",
+  "msa": "عطر الورد",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 25,
+  "ex_ar": "الشاهي بالعطرشة ريحته زينة.",
+  "ex_tr": "ish-shāhi bil-3aTarsha rī7ta zēna.",
+  "ex_en": "Tea with rose geranium smells nice.",
+  "phrases": [
+   {
+    "ar": "ورق عطرشة",
+    "tr": "warg 3aTarsha",
+    "en": "geranium leaves"
+   },
+   {
+    "ar": "مية عطرشة",
+    "tr": "mayyat 3aTarsha",
+    "en": "geranium water"
+   }
+  ]
+ },
+ {
+  "ar": "حبة سودا",
+  "tr": "7abba sōda",
+  "en": "nigella seeds; black seed",
+  "msa": "حبة البركة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 29,
+  "ex_ar": "نحط حبة سودا على الخبزة.",
+  "ex_tr": "in7uTT 7abba sōda 3al-khubza.",
+  "ex_en": "I sprinkle black seed on the bread.",
+  "phrases": [
+   {
+    "ar": "زيت حبة سودا",
+    "tr": "zēt 7abba sōda",
+    "en": "black seed oil"
+   },
+   {
+    "ar": "خبزة بالحبة السودا",
+    "tr": "khubza bil-7abba s-sōda",
+    "en": "bread with nigella seeds"
+   }
+  ]
+ },
+ {
+  "ar": "سمسم",
+  "tr": "simsim",
+  "en": "sesame",
+  "msa": "سمسم",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "الكعك عليه سمسم.",
+  "ex_tr": "il-ka3k 3alēh simsim.",
+  "ex_en": "The ka3k has sesame on it.",
+  "note": "Libyans also say جلجلان jiljlān.",
+  "phrases": [
+   {
+    "ar": "سمسم محمص",
+    "tr": "simsim m7ammaS",
+    "en": "toasted sesame"
+   },
+   {
+    "ar": "خبزة بالسمسم",
+    "tr": "khubza bis-simsim",
+    "en": "sesame bread"
+   }
+  ]
+ },
+ {
+  "ar": "طحينة",
+  "tr": "T7īna",
+  "en": "tahini",
+  "msa": "طحينة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الحمص بالطحينة.",
+  "ex_tr": "il-7ummuS biT-T7īna.",
+  "ex_en": "Hummus with tahini.",
+  "phrases": [
+   {
+    "ar": "طحينة ورب",
+    "tr": "T7īna w rubb",
+    "en": "tahini and date syrup"
+   },
+   {
+    "ar": "ملعقة طحينة",
+    "tr": "ma3lgat T7īna",
+    "en": "a spoon of tahini"
+   }
+  ]
+ },
+ {
+  "ar": "خل",
+  "tr": "khall",
+  "en": "vinegar",
+  "msa": "خل",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "حط شوية خل في السلاطة.",
+  "ex_tr": "7uTT shwayya khall fis-slāTa.",
+  "ex_en": "Put a little vinegar in the salad.",
+  "phrases": [
+   {
+    "ar": "خل تفاح",
+    "tr": "khall tiffā7",
+    "en": "apple vinegar"
+   },
+   {
+    "ar": "قرعة خل",
+    "tr": "gar3at khall",
+    "en": "a bottle of vinegar"
+   }
+  ]
+ },
+ {
+  "ar": "مايونيز",
+  "tr": "māyonēz",
+  "en": "mayonnaise",
+  "msa": "مايونيز",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "ساندويتش بلا مايونيز لو سمحت.",
+  "ex_tr": "sandawitsh bla māyonēz law sama7t.",
+  "ex_en": "A sandwich without mayonnaise, please.",
+  "phrases": [
+   {
+    "ar": "شوية مايونيز",
+    "tr": "shwayya māyonēz",
+    "en": "a bit of mayo"
+   },
+   {
+    "ar": "مايونيز وكاتشب",
+    "tr": "māyonēz w kātshap",
+    "en": "mayo and ketchup"
+   }
+  ]
+ },
+ {
+  "ar": "كاتشب",
+  "tr": "kātshap",
+  "en": "ketchup",
+  "msa": "كاتشب",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "الصغار يحطوا كاتشب على كل شي.",
+  "ex_tr": "iS-Sghār y7uTTu kātshap 3ala kull shi.",
+  "ex_en": "Kids put ketchup on everything.",
+  "phrases": [
+   {
+    "ar": "بطاطا بالكاتشب",
+    "tr": "baTāTa bil-kātshap",
+    "en": "fries with ketchup"
+   },
+   {
+    "ar": "قرعة كاتشب",
+    "tr": "gar3at kātshap",
+    "en": "a bottle of ketchup"
+   }
+  ]
+ },
+ {
+  "ar": "مسطردة",
+  "tr": "musTarda",
+  "en": "mustard",
+  "msa": "خردل",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 25,
+  "ex_ar": "تبي مسطردة في الساندويتش؟",
+  "ex_tr": "tibbi musTarda fis-sandawitsh?",
+  "ex_en": "Do you want mustard in the sandwich?",
+  "phrases": [
+   {
+    "ar": "شوية مسطردة",
+    "tr": "shwayya musTarda",
+    "en": "a little mustard"
+   },
+   {
+    "ar": "مسطردة حارة",
+    "tr": "musTarda 7ārra",
+    "en": "hot mustard"
+   }
+  ]
+ },
+ {
+  "ar": "ماجي",
+  "tr": "māggi",
+  "en": "bouillon cube; stock cube",
+  "msa": "مكعب مرقة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "حطي حبة ماجي في الشربة.",
+  "ex_tr": "7uTTi 7abbat māggi fish-sharba.",
+  "ex_en": "Put a stock cube in the soup.",
+  "note": "Brand name used generically.",
+  "phrases": [
+   {
+    "ar": "حبة ماجي",
+    "tr": "7abbat māggi",
+    "en": "one stock cube"
+   },
+   {
+    "ar": "ماجي دجاج",
+    "tr": "māggi djāj",
+    "en": "chicken stock cube"
+   }
+  ]
+ },
+ {
+  "ar": "نشا",
+  "tr": "nisha",
+  "en": "cornstarch; starch",
+  "msa": "نشا",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "المهلبية تتدار بالحليب والنشا.",
+  "ex_tr": "il-mhallbiyya titdār bil-7līb win-nisha.",
+  "ex_en": "Muhallabiya is made with milk and starch.",
+  "phrases": [
+   {
+    "ar": "ملعقة نشا",
+    "tr": "ma3lgat nisha",
+    "en": "a spoon of starch"
+   },
+   {
+    "ar": "نشا الذرة",
+    "tr": "nishat idh-dhra",
+    "en": "cornflour"
+   }
+  ]
+ },
+ {
+  "ar": "فانيليا",
+  "tr": "fanīlya",
+  "en": "vanilla",
+  "msa": "فانيليا",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "حطيت ظرف فانيليا في الكيكة.",
+  "ex_tr": "7aTTēt Darf fanīlya fil-kēka.",
+  "ex_en": "I put a sachet of vanilla in the cake.",
+  "phrases": [
+   {
+    "ar": "ظرف فانيليا",
+    "tr": "Darf fanīlya",
+    "en": "a vanilla sachet"
+   },
+   {
+    "ar": "جيلاطي فانيليا",
+    "tr": "jīlāTi fanīlya",
+    "en": "vanilla ice cream"
+   }
+  ]
+ },
+ {
+  "ar": "مهلبية",
+  "tr": "mhallbiyya",
+  "en": "muhallabiya (milk pudding)",
+  "msa": "مهلبية",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "المهلبية باردة من الثلاجة.",
+  "ex_tr": "il-mhallbiyya bārda min ith-thallāja.",
+  "ex_en": "The muhallabiya is cold from the fridge.",
+  "phrases": [
+   {
+    "ar": "مهلبية بالفستق",
+    "tr": "mhallbiyya bil-fustug",
+    "en": "pistachio pudding"
+   },
+   {
+    "ar": "كاسات مهلبية",
+    "tr": "kāsāt mhallbiyya",
+    "en": "cups of pudding"
+   }
+  ]
+ },
+ {
+  "ar": "كريمة",
+  "tr": "krēma",
+  "en": "cream; whipped cream",
+  "msa": "قشدة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "الطورطة عليها كريمة.",
+  "ex_tr": "iT-Tōrta 3alēha krēma.",
+  "ex_en": "The cake has cream on it.",
+  "note": "Italian loan (crema); also means custard filling.",
+  "phrases": [
+   {
+    "ar": "كريمة شانتي",
+    "tr": "krēma shanti",
+    "en": "whipped cream"
+   },
+   {
+    "ar": "كريمة طبخ",
+    "tr": "krēmat Tabkh",
+    "en": "cooking cream"
+   }
+  ]
+ },
+ {
+  "ar": "قشطة",
+  "tr": "gishTa",
+  "en": "clotted cream; thick cream",
+  "msa": "قشطة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 31,
+  "ex_ar": "القشطة مع العسل في الفطور.",
+  "ex_tr": "il-gishTa ma3a l-3asal fil-fTūr.",
+  "ex_en": "Cream with honey at breakfast.",
+  "phrases": [
+   {
+    "ar": "قشطة وعسل",
+    "tr": "gishTa w 3asal",
+    "en": "cream and honey"
+   },
+   {
+    "ar": "علبة قشطة",
+    "tr": "3ulbat gishTa",
+    "en": "a tub of cream"
+   }
+  ]
+ },
+ {
+  "ar": "ريكوتة",
+  "tr": "rikōtta",
+  "en": "ricotta; fresh soft cheese",
+  "msa": "جبن ريكوتا",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الريكوتة نديروها في المعجنات.",
+  "ex_tr": "ir-rikōtta indīrūha fil-mu3ajjanāt.",
+  "ex_en": "We use ricotta in pastries.",
+  "note": "Italian loan.",
+  "phrases": [
+   {
+    "ar": "ريكوتة بالعسل",
+    "tr": "rikōtta bil-3asal",
+    "en": "ricotta with honey"
+   },
+   {
+    "ar": "ريكوتة طازة",
+    "tr": "rikōtta Tāza",
+    "en": "fresh ricotta"
+   }
+  ]
+ },
+ {
+  "ar": "موتزاريلا",
+  "tr": "motsarēlla",
+  "en": "mozzarella",
+  "msa": "موزاريلا",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "البيتزا تبي موتزاريلا هلبة.",
+  "ex_tr": "il-pītza tibbi motsarēlla hallba.",
+  "ex_en": "Pizza needs lots of mozzarella.",
+  "note": "Italian loan.",
+  "phrases": [
+   {
+    "ar": "جبنة موتزاريلا",
+    "tr": "jibnat motsarēlla",
+    "en": "mozzarella cheese"
+   },
+   {
+    "ar": "موتزاريلا مبشورة",
+    "tr": "motsarēlla mbashshra",
+    "en": "grated mozzarella"
+   }
+  ]
+ },
+ {
+  "ar": "لبنة",
+  "tr": "labna",
+  "en": "labneh (strained yogurt cheese)",
+  "msa": "لبنة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "لبنة بزيت زيتون وزعتر.",
+  "ex_tr": "labna bzēt zītūn w za3tar.",
+  "ex_en": "Labneh with olive oil and thyme.",
+  "phrases": [
+   {
+    "ar": "لبنة وزيتون",
+    "tr": "labna w zītūn",
+    "en": "labneh and olives"
+   },
+   {
+    "ar": "علبة لبنة",
+    "tr": "3ulbat labna",
+    "en": "a tub of labneh"
+   }
+  ]
+ },
+ {
+  "ar": "حليب غبرة",
+  "tr": "7līb ghabra",
+  "en": "powdered milk",
+  "msa": "حليب مجفف",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 4,
+  "usage": 31,
+  "ex_ar": "جبت علبة حليب غبرة للصغير.",
+  "ex_tr": "jibt 3ulbat 7līb ghabra liS-Sghayyir.",
+  "ex_en": "I got a tin of powdered milk for the baby.",
+  "note": "غبرة = powder; also said حليب بودرة.",
+  "phrases": [
+   {
+    "ar": "معلقتين حليب غبرة",
+    "tr": "ma3lagtēn 7līb ghabra",
+    "en": "two spoons of powdered milk"
+   },
+   {
+    "ar": "حليب غبرة للصغار",
+    "tr": "7līb ghabra liS-Sghār",
+    "en": "formula milk for babies"
+   }
+  ]
+ },
+ {
+  "ar": "صفار",
+  "tr": "Sfār",
+  "en": "egg yolk",
+  "msa": "صفار البيض",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 29,
+  "ex_ar": "خوذ الصفار بس.",
+  "ex_tr": "khūdh iS-Sfār bass.",
+  "ex_en": "Take only the yolk.",
+  "phrases": [
+   {
+    "ar": "صفار الدحي",
+    "tr": "Sfār id-da7i",
+    "en": "the egg yolk"
+   },
+   {
+    "ar": "بياض الدحي",
+    "tr": "byāD id-da7i",
+    "en": "egg white"
+   }
+  ]
+ },
+ {
+  "ar": "برغل",
+  "tr": "burghul",
+  "en": "bulgur; cracked wheat",
+  "msa": "برغل",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 31,
+  "ex_ar": "نديرو سلاطة بالبرغل.",
+  "ex_tr": "indīru slāTa bil-burghul.",
+  "ex_en": "We make a salad with bulgur.",
+  "phrases": [
+   {
+    "ar": "برغل ناعم",
+    "tr": "burghul nā3im",
+    "en": "fine bulgur"
+   },
+   {
+    "ar": "برغل بالطماطم",
+    "tr": "burghul biT-TmāTim",
+    "en": "bulgur with tomato"
+   }
+  ]
+ },
+ {
+  "ar": "فريك",
+  "tr": "frīk",
+  "en": "freekeh (green cracked wheat)",
+  "msa": "فريك",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "شربة الفريك نديروها في الشتاء.",
+  "ex_tr": "sharbat il-frīk indīrūha fish-shta.",
+  "ex_en": "We make freekeh soup in winter.",
+  "phrases": [
+   {
+    "ar": "شربة فريك",
+    "tr": "sharbat frīk",
+    "en": "freekeh soup"
+   },
+   {
+    "ar": "كيلو فريك",
+    "tr": "kīlu frīk",
+    "en": "a kilo of freekeh"
+   }
+  ]
+ },
+ {
+  "ar": "شوفان",
+  "tr": "shūfān",
+  "en": "oats",
+  "msa": "شوفان",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "نفطر بالشوفان والحليب.",
+  "ex_tr": "nifTar bish-shūfān wil-7līb.",
+  "ex_en": "I have oats and milk for breakfast.",
+  "phrases": [
+   {
+    "ar": "شوفان بالحليب",
+    "tr": "shūfān bil-7līb",
+    "en": "oats with milk"
+   },
+   {
+    "ar": "علبة شوفان",
+    "tr": "3ulbat shūfān",
+    "en": "a box of oats"
+   }
+  ]
+ },
+ {
+  "ar": "دشيشة",
+  "tr": "dshīsha",
+  "en": "crushed wheat or barley (for soup)",
+  "msa": "جشيشة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "شربة دشيشة بالعلوش ماكلة قديمة.",
+  "ex_tr": "sharbat dshīsha bil-3allūsh mākla gdīma.",
+  "ex_en": "Crushed-wheat soup with lamb is an old dish.",
+  "note": "Used for a thick traditional soup (شربة دشيشة).",
+  "phrases": [
+   {
+    "ar": "شربة دشيشة",
+    "tr": "sharbat dshīsha",
+    "en": "crushed-wheat soup"
+   },
+   {
+    "ar": "دشيشة شعير",
+    "tr": "dshīshat sh3īr",
+    "en": "crushed barley"
+   }
+  ]
+ },
+ {
+  "ar": "نخالة",
+  "tr": "nkhāla",
+  "en": "bran",
+  "msa": "نخالة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 25,
+  "ex_ar": "خبزة بالنخالة أحسن للصحة.",
+  "ex_tr": "khubza bin-nkhāla a7san liS-Sa77a.",
+  "ex_en": "Bran bread is better for your health.",
+  "phrases": [
+   {
+    "ar": "خبزة نخالة",
+    "tr": "khubzat nkhāla",
+    "en": "bran bread"
+   },
+   {
+    "ar": "نخالة القمح",
+    "tr": "nkhālat il-gam7",
+    "en": "wheat bran"
+   }
+  ]
+ },
+ {
+  "ar": "فول سوداني",
+  "tr": "fūl sūdāni",
+  "en": "peanut (pan-Arabic term)",
+  "msa": "فول سوداني",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 20,
+  "ex_ar": "زبدة الفول السوداني.",
+  "ex_tr": "zibdat il-fūl is-sūdāni.",
+  "ex_en": "Peanut butter.",
+  "note": "In Libya peanuts are normally كاكاوية; this term appears on packaging.",
+  "phrases": [
+   {
+    "ar": "زبدة فول سوداني",
+    "tr": "zibdat fūl sūdāni",
+    "en": "peanut butter"
+   },
+   {
+    "ar": "حساسية من الفول السوداني",
+    "tr": "7assāsiyya min il-fūl is-sūdāni",
+    "en": "peanut allergy"
+   }
+  ]
+ },
+ {
+  "ar": "كلمار",
+  "tr": "kalamār",
+  "en": "squid; calamari",
+  "msa": "حبار",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "كلمار مقلي في المطعم.",
+  "ex_tr": "kalamār magli fil-maT3am.",
+  "ex_en": "Fried calamari at the restaurant.",
+  "note": "Italian loan (calamaro).",
+  "phrases": [
+   {
+    "ar": "كلمار مقلي",
+    "tr": "kalamār magli",
+    "en": "fried calamari"
+   },
+   {
+    "ar": "حلقات كلمار",
+    "tr": "7algāt kalamār",
+    "en": "calamari rings"
+   }
+  ]
+ },
+ {
+  "ar": "تريلية",
+  "tr": "trīlya",
+  "en": "red mullet",
+  "msa": "سلطان إبراهيم",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "التريلية المقلية أحسن حوت.",
+  "ex_tr": "it-trīlya l-magliyya a7san 7ūt.",
+  "ex_en": "Fried red mullet is the best fish.",
+  "note": "Italian loan (triglia).",
+  "phrases": [
+   {
+    "ar": "كيلو تريلية",
+    "tr": "kīlu trīlya",
+    "en": "a kilo of red mullet"
+   },
+   {
+    "ar": "تريلية مقلية",
+    "tr": "trīlya magliyya",
+    "en": "fried red mullet"
+   }
+  ]
+ },
+ {
+  "ar": "قاروص",
+  "tr": "gārūS",
+  "en": "sea bass",
+  "msa": "قاروص",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 29,
+  "ex_ar": "القاروص المشوي غالي شوية.",
+  "ex_tr": "il-gārūS il-mashwi ghāli shwayya.",
+  "ex_en": "Grilled sea bass is a bit pricey.",
+  "phrases": [
+   {
+    "ar": "قاروص مشوي",
+    "tr": "gārūS mashwi",
+    "en": "grilled sea bass"
+   },
+   {
+    "ar": "حوتة قاروص",
+    "tr": "7ūtat gārūS",
+    "en": "one sea bass"
+   }
+  ]
+ },
+ {
+  "ar": "مرجان",
+  "tr": "murjān",
+  "en": "red pandora; red sea bream",
+  "msa": "مرجان",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "المرجان حوت بنين في الحرايمي.",
+  "ex_tr": "il-murjān 7ūt bnīn fil-7rāymi.",
+  "ex_en": "Pandora is a nice fish for 7rāymi.",
+  "note": "Also means coral.",
+  "phrases": [
+   {
+    "ar": "مرجان مشوي",
+    "tr": "murjān mashwi",
+    "en": "grilled pandora"
+   },
+   {
+    "ar": "حوتة مرجان",
+    "tr": "7ūtat murjān",
+    "en": "one pandora fish"
+   }
+  ]
+ },
+ {
+  "ar": "قرنيط",
+  "tr": "garnīT",
+  "en": "octopus",
+  "msa": "أخطبوط",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "القرنيط يبيله وقت باش يطيب.",
+  "ex_tr": "il-garnīT yibbīla wagt bāsh yTīb.",
+  "ex_en": "Octopus needs time to cook.",
+  "phrases": [
+   {
+    "ar": "سلاطة قرنيط",
+    "tr": "slāTat garnīT",
+    "en": "octopus salad"
+   },
+   {
+    "ar": "قرنيط مشوي",
+    "tr": "garnīT mashwi",
+    "en": "grilled octopus"
+   }
+  ]
+ },
+ {
+  "ar": "حوت مقلي",
+  "tr": "7ūt magli",
+  "en": "fried fish",
+  "msa": "سمك مقلي",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "يوم الجمعة ناكلو حوت مقلي.",
+  "ex_tr": "yōm ij-jum3a nāklu 7ūt magli.",
+  "ex_en": "On Friday we eat fried fish.",
+  "phrases": [
+   {
+    "ar": "حوت مقلي بالبطاطا",
+    "tr": "7ūt magli bil-baTāTa",
+    "en": "fried fish and chips"
+   },
+   {
+    "ar": "ريحة الحوت المقلي",
+    "tr": "rī7t il-7ūt il-magli",
+    "en": "the smell of fried fish"
+   }
+  ]
+ },
+ {
+  "ar": "صدر دجاج",
+  "tr": "Sadr djāj",
+  "en": "chicken breast",
+  "msa": "صدر دجاج",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "نبي كيلو صدر دجاج بلا عضم.",
+  "ex_tr": "nibbi kīlu Sadr djāj bla 3aDam.",
+  "ex_en": "I want a kilo of boneless chicken breast.",
+  "phrases": [
+   {
+    "ar": "صدر دجاج مشوي",
+    "tr": "Sadr djāj mashwi",
+    "en": "grilled chicken breast"
+   },
+   {
+    "ar": "صدور دجاج",
+    "tr": "Sdūr djāj",
+    "en": "chicken breasts"
+   }
+  ]
+ },
+ {
+  "ar": "فخذ دجاج",
+  "tr": "fkhadh djāj",
+  "en": "chicken leg; drumstick",
+  "msa": "فخذ دجاج",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 37,
+  "ex_ar": "الصغار يحبوا فخذ الدجاج.",
+  "ex_tr": "iS-Sghār y7ibbu fkhadh id-djāj.",
+  "ex_en": "Kids like chicken legs.",
+  "phrases": [
+   {
+    "ar": "أفخاذ دجاج",
+    "tr": "afkhādh djāj",
+    "en": "chicken legs"
+   },
+   {
+    "ar": "فخذ مقلي",
+    "tr": "fkhadh magli",
+    "en": "fried drumstick"
+   }
+  ]
+ },
+ {
+  "ar": "جوانح",
+  "tr": "jwāni7",
+  "en": "chicken wings",
+  "msa": "أجنحة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "جوانح حارة مع البطاطا.",
+  "ex_tr": "jwāni7 7ārra ma3a l-baTāTa.",
+  "ex_en": "Spicy wings with fries.",
+  "note": "sg. جناح jnā7",
+  "phrases": [
+   {
+    "ar": "جوانح دجاج",
+    "tr": "jwāni7 djāj",
+    "en": "chicken wings"
+   },
+   {
+    "ar": "جوانح مشوية",
+    "tr": "jwāni7 mashwiyya",
+    "en": "grilled wings"
+   }
+  ]
+ },
+ {
+  "ar": "دجاجة مشوية",
+  "tr": "djāja mashwiyya",
+  "en": "roast chicken; rotisserie chicken",
+  "msa": "دجاجة مشوية",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 43,
+  "ex_ar": "جبت دجاجة مشوية للعشا.",
+  "ex_tr": "jibt djāja mashwiyya lil-3sha.",
+  "ex_en": "I brought a roast chicken for dinner.",
+  "phrases": [
+   {
+    "ar": "نص دجاجة مشوية",
+    "tr": "nuSS djāja mashwiyya",
+    "en": "half a roast chicken"
+   },
+   {
+    "ar": "دجاجة مشوية على الفحم",
+    "tr": "djāja mashwiyya 3al-fa7am",
+    "en": "charcoal-grilled chicken"
+   }
+  ]
+ },
+ {
+  "ar": "مشوي",
+  "tr": "mashwi",
+  "en": "grill; grilled meat (mixed grill)",
+  "msa": "مشويات",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 2,
+  "usage": 52,
+  "ex_ar": "نبو نتعشو مشوي الليلة.",
+  "ex_tr": "nibbu nit3ashshu mashwi il-lēla.",
+  "ex_en": "We want grilled meat for dinner tonight.",
+  "note": "Also adjective \"grilled\"; pl. مشاوي mashāwi.",
+  "phrases": [
+   {
+    "ar": "مشاوي مشكلة",
+    "tr": "mashāwi mshakkla",
+    "en": "mixed grill"
+   },
+   {
+    "ar": "لحم مشوي",
+    "tr": "la7am mashwi",
+    "en": "grilled meat"
+   }
+  ]
+ },
+ {
+  "ar": "مقلي",
+  "tr": "magli",
+  "en": "fried",
+  "msa": "مقلي",
+  "pos": "adj",
+  "cat": "food",
+  "freq": 2,
+  "usage": 50,
+  "ex_ar": "ما ناكلش الماكلة المقلية هلبة.",
+  "ex_tr": "ma nākilsh il-mākla l-magliyya hallba.",
+  "ex_en": "I don't eat much fried food.",
+  "phrases": [
+   {
+    "ar": "بطاطا مقلية",
+    "tr": "baTāTa magliyya",
+    "en": "fried potatoes"
+   },
+   {
+    "ar": "كله مقلي في الزيت",
+    "tr": "kulla magli fiz-zēt",
+    "en": "it's all fried in oil"
+   }
+  ]
+ },
+ {
+  "ar": "مسلوق",
+  "tr": "maslūg",
+  "en": "boiled",
+  "msa": "مسلوق",
+  "pos": "adj",
+  "cat": "food",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "البطاطا لازم تكون مسلوقة قبل.",
+  "ex_tr": "il-baTāTa lāzim tkūn maslūga gbal.",
+  "ex_en": "The potatoes must be boiled first.",
+  "phrases": [
+   {
+    "ar": "دجاج مسلوق",
+    "tr": "djāj maslūg",
+    "en": "boiled chicken"
+   },
+   {
+    "ar": "خضرة مسلوقة",
+    "tr": "khuDra maslūga",
+    "en": "boiled vegetables"
+   }
+  ]
+ },
+ {
+  "ar": "محشي باللحم",
+  "tr": "ma7shi bil-la7am",
+  "en": "stuffed with meat",
+  "msa": "محشو باللحم",
+  "pos": "adj",
+  "cat": "food",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "الفلفل محشي باللحم والرز.",
+  "ex_tr": "il-filfil ma7shi bil-la7am wir-ruzz.",
+  "ex_en": "The peppers are stuffed with meat and rice.",
+  "note": "محشي alone is the dish of stuffed vegetables.",
+  "phrases": [
+   {
+    "ar": "بصل محشي",
+    "tr": "bSal ma7shi",
+    "en": "stuffed onions"
+   },
+   {
+    "ar": "كرمب محشي",
+    "tr": "krumb ma7shi",
+    "en": "stuffed cabbage"
+   }
+  ]
+ },
+ {
+  "ar": "محمص",
+  "tr": "m7ammaS",
+  "en": "roasted; toasted",
+  "msa": "محمص",
+  "pos": "adj",
+  "cat": "food",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "نحب الكاكاوية المحمصة.",
+  "ex_tr": "in7ibb il-kākāwiya l-m7ammSa.",
+  "ex_en": "I like roasted peanuts.",
+  "phrases": [
+   {
+    "ar": "خبزة محمصة",
+    "tr": "khubza m7ammSa",
+    "en": "toasted bread"
+   },
+   {
+    "ar": "قهوة محمصة",
+    "tr": "gahwa m7ammSa",
+    "en": "roasted coffee"
+   }
+  ]
+ },
+ {
+  "ar": "مطيب",
+  "tr": "mTayyab",
+  "en": "cooked",
+  "msa": "مطبوخ",
+  "pos": "adj",
+  "cat": "food",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "الخضرة هذي مطيبة ولا نية؟",
+  "ex_tr": "il-khuDra hādhi mTayyba walla nayya?",
+  "ex_en": "Is this vegetable cooked or raw?",
+  "phrases": [
+   {
+    "ar": "ماكلة مطيبة في الحوش",
+    "tr": "mākla mTayyba fil-7ōsh",
+    "en": "home-cooked food"
+   },
+   {
+    "ar": "لحم مطيب مزيان",
+    "tr": "la7am mTayyab mizyān",
+    "en": "well-cooked meat"
+   }
+  ]
+ },
+ {
+  "ar": "ني",
+  "tr": "nayy",
+  "en": "raw; uncooked",
+  "msa": "نيء",
+  "pos": "adj",
+  "cat": "food",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "اللحم مازال ني.",
+  "ex_tr": "il-la7am māzāl nayy.",
+  "ex_en": "The meat is still raw.",
+  "phrases": [
+   {
+    "ar": "دحي ني",
+    "tr": "da7i nayy",
+    "en": "raw egg"
+   },
+   {
+    "ar": "ما تاكلش اللحم ني",
+    "tr": "ma tākulsh il-la7am nayy",
+    "en": "don't eat raw meat"
+   }
+  ]
+ },
+ {
+  "ar": "طايب",
+  "tr": "Tāyib",
+  "en": "cooked through; done; ripe",
+  "msa": "ناضج",
+  "pos": "adj",
+  "cat": "food",
+  "freq": 2,
+  "usage": 52,
+  "ex_ar": "اللحم طايب ولا مازال؟",
+  "ex_tr": "il-la7am Tāyib walla māzāl?",
+  "ex_en": "Is the meat done or not yet?",
+  "note": "Also used for ripe fruit.",
+  "phrases": [
+   {
+    "ar": "الدلاع طايب",
+    "tr": "id-dallā3 Tāyib",
+    "en": "the watermelon is ripe"
+   },
+   {
+    "ar": "الماكلة طابت",
+    "tr": "il-mākla Tābat",
+    "en": "the food is ready"
+   }
+  ]
+ },
+ {
+  "ar": "محروق",
+  "tr": "ma7rūg",
+  "en": "burnt",
+  "msa": "محروق",
+  "pos": "adj",
+  "cat": "food",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "الرز تحت محروق.",
+  "ex_tr": "ir-ruzz ta7t ma7rūg.",
+  "ex_en": "The rice is burnt at the bottom.",
+  "phrases": [
+   {
+    "ar": "ريحة محروق",
+    "tr": "rī7a ma7rūga",
+    "en": "a burning smell"
+   },
+   {
+    "ar": "خبزة محروقة",
+    "tr": "khubza ma7rūga",
+    "en": "burnt bread"
+   }
+  ]
+ },
+ {
+  "ar": "بنين",
+  "tr": "bnīn",
+  "en": "tasty; delicious",
+  "msa": "لذيذ",
+  "pos": "adj",
+  "cat": "food",
+  "freq": 1,
+  "usage": 80,
+  "ex_ar": "الماكلة بنينة هلبة اليوم.",
+  "ex_tr": "il-mākla bnīna hallba l-yōm.",
+  "ex_en": "The food is very tasty today.",
+  "note": "Core Libyan word for delicious; fem. بنينة.",
+  "phrases": [
+   {
+    "ar": "شاهي بنين",
+    "tr": "shāhi bnīn",
+    "en": "good tea"
+   },
+   {
+    "ar": "بنين وإلا لا؟",
+    "tr": "bnīn walla la?",
+    "en": "is it tasty or not?"
+   }
+  ]
+ },
+ {
+  "ar": "ماسط",
+  "tr": "māsiT",
+  "en": "bland; tasteless",
+  "msa": "عديم الطعم",
+  "pos": "adj",
+  "cat": "food",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "الشربة ماسطة، ناقصة ملح.",
+  "ex_tr": "ish-sharba māsTa, nāgSa mil7.",
+  "ex_en": "The soup is bland, it needs salt.",
+  "note": "Libyan/Tunisian word.",
+  "phrases": [
+   {
+    "ar": "ماكلة ماسطة",
+    "tr": "mākla māsTa",
+    "en": "bland food"
+   },
+   {
+    "ar": "طعمها ماسط",
+    "tr": "Ta3amha māsiT",
+    "en": "it tastes bland"
+   }
+  ]
+ },
+ {
+  "ar": "طعم",
+  "tr": "Ta3am",
+  "en": "taste; flavour",
+  "msa": "طعم",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 2,
+  "usage": 62,
+  "ex_ar": "طعم الشاهي هذا غريب.",
+  "ex_tr": "Ta3am ish-shāhi hādha gharīb.",
+  "ex_en": "This tea tastes strange.",
+  "phrases": [
+   {
+    "ar": "ما عندهاش طعم",
+    "tr": "ma 3indhāsh Ta3am",
+    "en": "it has no taste"
+   },
+   {
+    "ar": "طعمه حلو",
+    "tr": "Ta3ma 7ilu",
+    "en": "it tastes sweet"
+   }
+  ]
+ },
+ {
+  "ar": "نكهة",
+  "tr": "nakha",
+  "en": "flavour (of a product)",
+  "msa": "نكهة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "شيبس بنكهة الجبنة.",
+  "ex_tr": "shibs bnakhat il-jibna.",
+  "ex_en": "Cheese-flavoured crisps.",
+  "phrases": [
+   {
+    "ar": "نكهة الفراولة",
+    "tr": "nakhat il-frāwla",
+    "en": "strawberry flavour"
+   },
+   {
+    "ar": "بنكهة الليمون",
+    "tr": "bnakhat il-līmūn",
+    "en": "lemon-flavoured"
+   }
+  ]
+ },
+ {
+  "ar": "لقمة",
+  "tr": "lugma",
+  "en": "bite; mouthful",
+  "msa": "لقمة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 2,
+  "usage": 55,
+  "ex_ar": "كول لقمة وحدة بس.",
+  "ex_tr": "kūl lugma wa7da bass.",
+  "ex_en": "Just eat one bite.",
+  "note": "Also \"a living\": يجري على لقمة العيش.",
+  "phrases": [
+   {
+    "ar": "لقمة صغيرة",
+    "tr": "lugma Sghayyra",
+    "en": "a small bite"
+   },
+   {
+    "ar": "ما كلاش ولا لقمة",
+    "tr": "ma klāsh wala lugma",
+    "en": "he didn't eat a single bite"
+   }
+  ]
+ },
+ {
+  "ar": "كمشة",
+  "tr": "kamsha",
+  "en": "handful",
+  "msa": "حفنة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "حط كمشة رز زيادة.",
+  "ex_tr": "7uTT kamshat ruzz zyāda.",
+  "ex_en": "Put an extra handful of rice.",
+  "phrases": [
+   {
+    "ar": "كمشة كاكاوية",
+    "tr": "kamshat kākāwiya",
+    "en": "a handful of peanuts"
+   },
+   {
+    "ar": "كمشة صغيرة",
+    "tr": "kamsha Sghayyra",
+    "en": "a small handful"
+   }
+  ]
+ },
+ {
+  "ar": "رشة",
+  "tr": "rashsha",
+  "en": "pinch; sprinkle",
+  "msa": "رشة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "رشة ملح وفلفل.",
+  "ex_tr": "rashshat mil7 w filfil.",
+  "ex_en": "A pinch of salt and pepper.",
+  "phrases": [
+   {
+    "ar": "رشة كمون",
+    "tr": "rashshat kammūn",
+    "en": "a sprinkle of cumin"
+   },
+   {
+    "ar": "رشة سكر",
+    "tr": "rashshat sukkar",
+    "en": "a sprinkle of sugar"
+   }
+  ]
+ },
+ {
+  "ar": "وجبة",
+  "tr": "wajba",
+  "en": "meal; set meal",
+  "msa": "وجبة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 2,
+  "usage": 55,
+  "ex_ar": "نبي وجبة دجاج بالبطاطا والقازوزة.",
+  "ex_tr": "nibbi wajbat djāj bil-baTāTa wil-gāzūza.",
+  "ex_en": "I want a chicken meal with fries and a soda.",
+  "note": "In restaurants: a combo meal.",
+  "phrases": [
+   {
+    "ar": "وجبة سريعة",
+    "tr": "wajba sarī3a",
+    "en": "fast food"
+   },
+   {
+    "ar": "وجبة كاملة",
+    "tr": "wajba kāmla",
+    "en": "a full meal"
+   }
+  ]
+ },
+ {
+  "ar": "مطعم",
+  "tr": "maT3am",
+  "en": "restaurant",
+  "msa": "مطعم",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 1,
+  "usage": 72,
+  "ex_ar": "نتغداو في المطعم اليوم.",
+  "ex_tr": "nitghaddāw fil-maT3am il-yōm.",
+  "ex_en": "We're having lunch at the restaurant today.",
+  "note": "pl. مطاعم maTā3im",
+  "phrases": [
+   {
+    "ar": "مطعم شعبي",
+    "tr": "maT3am sha3bi",
+    "en": "a cheap local eatery"
+   },
+   {
+    "ar": "مطعم حوت",
+    "tr": "maT3am 7ūt",
+    "en": "fish restaurant"
+   }
+  ]
+ },
+ {
+  "ar": "منيو",
+  "tr": "menyu",
+  "en": "menu",
+  "msa": "قائمة الطعام",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 45,
+  "ex_ar": "جيب لنا المنيو لو سمحت.",
+  "ex_tr": "jīb lna l-menyu law sama7t.",
+  "ex_en": "Bring us the menu, please.",
+  "phrases": [
+   {
+    "ar": "شن فيه في المنيو؟",
+    "tr": "shin fīh fil-menyu?",
+    "en": "what's on the menu?"
+   },
+   {
+    "ar": "منيو الحلو",
+    "tr": "menyu l-7lū",
+    "en": "dessert menu"
+   }
+  ]
+ },
+ {
+  "ar": "قرسون",
+  "tr": "garsōn",
+  "en": "waiter",
+  "msa": "نادل",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 43,
+  "ex_ar": "يا قرسون، الحساب لو سمحت.",
+  "ex_tr": "ya garsōn, il-7sāb law sama7t.",
+  "ex_en": "Waiter, the bill please.",
+  "note": "From French garçon.",
+  "phrases": [
+   {
+    "ar": "قرسون في قهوة",
+    "tr": "garsōn fi gahwa",
+    "en": "a waiter in a café"
+   },
+   {
+    "ar": "نادي القرسون",
+    "tr": "nādi l-garsōn",
+    "en": "call the waiter"
+   }
+  ]
+ },
+ {
+  "ar": "طلبية",
+  "tr": "Talabiyya",
+  "en": "order (food order)",
+  "msa": "طلب",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 45,
+  "ex_ar": "الطلبية بتوصل بعد نص ساعة.",
+  "ex_tr": "iT-Talabiyya btūSil ba3d nuSS sā3a.",
+  "ex_en": "The order will arrive in half an hour.",
+  "note": "pl. طلبيات Talabiyyāt",
+  "phrases": [
+   {
+    "ar": "طلبية سفري",
+    "tr": "Talabiyya safari",
+    "en": "a takeaway order"
+   },
+   {
+    "ar": "الطلبية متاعي ناقصة",
+    "tr": "iT-Talabiyya mtā3i nāgSa",
+    "en": "my order is missing something"
+   }
+  ]
+ },
+ {
+  "ar": "سفري",
+  "tr": "safari",
+  "en": "takeaway; to go",
+  "msa": "سفري",
+  "pos": "adj",
+  "cat": "food",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "نبيها سفري مش هنا.",
+  "ex_tr": "nibbīha safari mush hni.",
+  "ex_en": "I want it to go, not here.",
+  "note": "Also said تيك أواي.",
+  "phrases": [
+   {
+    "ar": "اثنين شاورما سفري",
+    "tr": "ithnēn shāwarma safari",
+    "en": "two shawarmas to go"
+   },
+   {
+    "ar": "هني ولا سفري؟",
+    "tr": "hni walla safari?",
+    "en": "eat in or takeaway?"
+   }
+  ]
+ },
+ {
+  "ar": "توصيل",
+  "tr": "tawSīl",
+  "en": "delivery",
+  "msa": "توصيل",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "عندكم توصيل للحوش؟",
+  "ex_tr": "3indkum tawSīl lil-7ōsh?",
+  "ex_en": "Do you deliver to the house?",
+  "note": "Also ديليفري dilīvri.",
+  "phrases": [
+   {
+    "ar": "توصيل مجاني",
+    "tr": "tawSīl majjāni",
+    "en": "free delivery"
+   },
+   {
+    "ar": "رقم التوصيل",
+    "tr": "ragm it-tawSīl",
+    "en": "the delivery number"
+   }
+  ]
+ },
+ {
+  "ar": "مقبلات",
+  "tr": "mugabbilāt",
+  "en": "starters; appetizers",
+  "msa": "مقبلات",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "نبدو بالمقبلات قبل المشوي.",
+  "ex_tr": "nibdu bil-mugabbilāt gbal il-mashwi.",
+  "ex_en": "We start with appetizers before the grill.",
+  "phrases": [
+   {
+    "ar": "صحن مقبلات",
+    "tr": "Sa7n mugabbilāt",
+    "en": "a plate of starters"
+   },
+   {
+    "ar": "مقبلات باردة",
+    "tr": "mugabbilāt bārda",
+    "en": "cold appetizers"
+   }
+  ]
+ },
+ {
+  "ar": "طباخة",
+  "tr": "Tabbākha",
+  "en": "cooker; stove (with oven)",
+  "msa": "موقد",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 2,
+  "usage": 55,
+  "ex_ar": "الطباخة فيها أربع عيون وفرن.",
+  "ex_tr": "iT-Tabbākha fīha arba3 3yūn w furn.",
+  "ex_en": "The cooker has four burners and an oven.",
+  "note": "Libyan word for the kitchen range.",
+  "phrases": [
+   {
+    "ar": "طفي الطباخة",
+    "tr": "Taffi T-Tabbākha",
+    "en": "turn off the stove"
+   },
+   {
+    "ar": "طباخة غاز",
+    "tr": "Tabbākhat ghāz",
+    "en": "gas cooker"
+   }
+  ]
+ },
+ {
+  "ar": "عين الطباخة",
+  "tr": "3ēn iT-Tabbākha",
+  "en": "burner; hob ring",
+  "msa": "شعلة الموقد",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "شعل العين الكبيرة.",
+  "ex_tr": "sha33il il-3ēn il-kbīra.",
+  "ex_en": "Light the big burner.",
+  "note": "pl. عيون 3yūn",
+  "phrases": [
+   {
+    "ar": "العين الصغيرة",
+    "tr": "il-3ēn iS-Sghayyra",
+    "en": "the small burner"
+   },
+   {
+    "ar": "نار هادية",
+    "tr": "nār hādya",
+    "en": "low heat"
+   }
+  ]
+ },
+ {
+  "ar": "كوكوت",
+  "tr": "kōkōt",
+  "en": "pressure cooker",
+  "msa": "قدر الضغط",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 3,
+  "usage": 43,
+  "ex_ar": "اللحم يطيب بسرعة في الكوكوت.",
+  "ex_tr": "il-la7am yTīb bsur3a fil-kōkōt.",
+  "ex_en": "Meat cooks fast in the pressure cooker.",
+  "note": "From French cocotte.",
+  "phrases": [
+   {
+    "ar": "صفارة الكوكوت",
+    "tr": "Saffārat il-kōkōt",
+    "en": "the pressure-cooker whistle"
+   },
+   {
+    "ar": "كوكوت كبيرة",
+    "tr": "kōkōt kbīra",
+    "en": "a big pressure cooker"
+   }
+  ]
+ },
+ {
+  "ar": "فتاحة",
+  "tr": "fattā7a",
+  "en": "can opener; bottle opener",
+  "msa": "فتاحة",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "وين الفتاحة؟ نبي نحل علبة التن.",
+  "ex_tr": "wīn il-fattā7a? nibbi n7ill 3ulbat it-tunn.",
+  "ex_en": "Where's the opener? I want to open the tuna can.",
+  "phrases": [
+   {
+    "ar": "فتاحة علب",
+    "tr": "fattā7at 3ulab",
+    "en": "can opener"
+   },
+   {
+    "ar": "فتاحة قزايز",
+    "tr": "fattā7at gzāyiz",
+    "en": "bottle opener"
+   }
+  ]
+ },
+ {
+  "ar": "مبشرة",
+  "tr": "mbashra",
+  "en": "grater",
+  "msa": "مبشرة",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "ابشر الجبنة بالمبشرة.",
+  "ex_tr": "ubshur il-jibna bil-mbashra.",
+  "ex_en": "Grate the cheese with the grater.",
+  "phrases": [
+   {
+    "ar": "مبشرة صغيرة",
+    "tr": "mbashra Sghayyra",
+    "en": "a small grater"
+   },
+   {
+    "ar": "جبنة مبشورة",
+    "tr": "jibna mbashūra",
+    "en": "grated cheese"
+   }
+  ]
+ },
+ {
+  "ar": "عصارة",
+  "tr": "3aSSāra",
+  "en": "juicer; citrus press",
+  "msa": "عصارة",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "دير لي برتقان في العصارة.",
+  "ex_tr": "dīr li burtgān fil-3aSSāra.",
+  "ex_en": "Put some oranges through the juicer for me.",
+  "phrases": [
+   {
+    "ar": "عصارة ليمون",
+    "tr": "3aSSārat līmūn",
+    "en": "lemon squeezer"
+   },
+   {
+    "ar": "عصارة كهربائية",
+    "tr": "3aSSāra kahrabāʼiyya",
+    "en": "electric juicer"
+   }
+  ]
+ },
+ {
+  "ar": "مطحنة",
+  "tr": "maT7na",
+  "en": "grinder (coffee or spice)",
+  "msa": "مطحنة",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 31,
+  "ex_ar": "نطحن القهوة في المطحنة كل صبح.",
+  "ex_tr": "niT7an il-gahwa fil-maT7na kull SbaH.",
+  "ex_en": "I grind the coffee in the grinder every morning.",
+  "note": "Also a flour mill.",
+  "phrases": [
+   {
+    "ar": "مطحنة قهوة",
+    "tr": "maT7nat gahwa",
+    "en": "coffee grinder"
+   },
+   {
+    "ar": "مطحنة كهربائية",
+    "tr": "maT7na kahrabāʼiyya",
+    "en": "electric grinder"
+   }
+  ]
+ },
+ {
+  "ar": "ملقاط",
+  "tr": "mulgāT",
+  "en": "tongs",
+  "msa": "ملقط",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 27,
+  "ex_ar": "قلب اللحم بالملقاط.",
+  "ex_tr": "gallib il-la7am bil-mulgāT.",
+  "ex_en": "Turn the meat with the tongs.",
+  "note": "Also clothes peg.",
+  "phrases": [
+   {
+    "ar": "ملقاط الشواية",
+    "tr": "mulgāT ish-shawwāya",
+    "en": "grill tongs"
+   },
+   {
+    "ar": "ملقاط فحم",
+    "tr": "mulgāT fa7am",
+    "en": "charcoal tongs"
+   }
+  ]
+ },
+ {
+  "ar": "مفرمة",
+  "tr": "maframa",
+  "en": "meat grinder; mincer",
+  "msa": "مفرمة",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 29,
+  "ex_ar": "نفرمو اللحم في المفرمة.",
+  "ex_tr": "nifirmu l-la7am fil-maframa.",
+  "ex_en": "We mince the meat in the grinder.",
+  "phrases": [
+   {
+    "ar": "مفرمة لحم",
+    "tr": "maframat la7am",
+    "en": "meat mincer"
+   },
+   {
+    "ar": "مفرمة كهربائية",
+    "tr": "maframa kahrabāʼiyya",
+    "en": "electric mincer"
+   }
+  ]
+ },
+ {
+  "ar": "قمع",
+  "tr": "gum3",
+  "en": "funnel",
+  "msa": "قمع",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "صب الزيت في القرعة بالقمع.",
+  "ex_tr": "Subb iz-zēt fil-gar3a bil-gum3.",
+  "ex_en": "Pour the oil into the bottle with a funnel.",
+  "phrases": [
+   {
+    "ar": "قمع صغير",
+    "tr": "gum3 Sghīr",
+    "en": "a small funnel"
+   },
+   {
+    "ar": "قمع بلاستيك",
+    "tr": "gum3 blāstīk",
+    "en": "a plastic funnel"
+   }
+  ]
+ },
+ {
+  "ar": "غربال",
+  "tr": "ghurbāl",
+  "en": "sieve (for flour)",
+  "msa": "غربال",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 29,
+  "ex_ar": "غربل الدقيق بالغربال.",
+  "ex_tr": "gharbil id-dgīg bil-ghurbāl.",
+  "ex_en": "Sift the flour with the sieve.",
+  "phrases": [
+   {
+    "ar": "غربال الدقيق",
+    "tr": "ghurbāl id-dgīg",
+    "en": "flour sieve"
+   },
+   {
+    "ar": "غربال ناعم",
+    "tr": "ghurbāl nā3im",
+    "en": "fine sieve"
+   }
+  ]
+ },
+ {
+  "ar": "شواية",
+  "tr": "shawwāya",
+  "en": "grill; barbecue",
+  "msa": "شواية",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "طلعنا الشواية للبحر.",
+  "ex_tr": "Talla3na sh-shawwāya lil-ba7r.",
+  "ex_en": "We took the grill to the beach.",
+  "phrases": [
+   {
+    "ar": "شواية فحم",
+    "tr": "shawwāyat fa7am",
+    "en": "charcoal grill"
+   },
+   {
+    "ar": "شواية كهربائية",
+    "tr": "shawwāya kahrabāʼiyya",
+    "en": "electric grill"
+   }
+  ]
+ },
+ {
+  "ar": "سيخ",
+  "tr": "sīkh",
+  "en": "skewer",
+  "msa": "سيخ",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "دير اللحم في الأسياخ.",
+  "ex_tr": "dīr il-la7am fil-asyākh.",
+  "ex_en": "Put the meat on the skewers.",
+  "note": "pl. أسياخ asyākh",
+  "phrases": [
+   {
+    "ar": "سيخ كبدة",
+    "tr": "sīkh kibda",
+    "en": "a liver skewer"
+   },
+   {
+    "ar": "أسياخ حديد",
+    "tr": "asyākh 7dīd",
+    "en": "metal skewers"
+   }
+  ]
+ },
+ {
+  "ar": "ورق فضي",
+  "tr": "warg fiDDi",
+  "en": "aluminium foil",
+  "msa": "ورق ألومنيوم",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 31,
+  "ex_ar": "لف الحوت في الورق الفضي.",
+  "ex_tr": "liff il-7ūt fil-warg il-fiDDi.",
+  "ex_en": "Wrap the fish in foil.",
+  "note": "Also ورق ألمنيوم.",
+  "phrases": [
+   {
+    "ar": "رولو ورق فضي",
+    "tr": "rūlu warg fiDDi",
+    "en": "a roll of foil"
+   },
+   {
+    "ar": "غطيها بالورق الفضي",
+    "tr": "ghaTTīha bil-warg il-fiDDi",
+    "en": "cover it with foil"
+   }
+  ]
+ },
+ {
+  "ar": "ستريتش",
+  "tr": "strētsh",
+  "en": "cling film",
+  "msa": "غلاف بلاستيكي",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "غطي الصحن بالستريتش وحطه في الثلاجة.",
+  "ex_tr": "ghaTTi S-Sa7n bis-strētsh w 7uTTa fith-thallāja.",
+  "ex_en": "Cover the plate with cling film and put it in the fridge.",
+  "note": "From \"stretch film\"; also نايلون.",
+  "phrases": [
+   {
+    "ar": "رولو ستريتش",
+    "tr": "rūlu strētsh",
+    "en": "a roll of cling film"
+   },
+   {
+    "ar": "لف بالستريتش",
+    "tr": "liff bis-strētsh",
+    "en": "wrap in cling film"
+   }
+  ]
+ },
+ {
+  "ar": "غسالة مواعين",
+  "tr": "ghassālat mwā3īn",
+  "en": "dishwasher",
+  "msa": "غسالة صحون",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "حط المواعين في غسالة المواعين.",
+  "ex_tr": "7uTT il-mwā3īn fi ghassālat il-mwā3īn.",
+  "ex_en": "Put the dishes in the dishwasher.",
+  "phrases": [
+   {
+    "ar": "شغل غسالة المواعين",
+    "tr": "shaghghil ghassālat il-mwā3īn",
+    "en": "run the dishwasher"
+   },
+   {
+    "ar": "غسالة مواعين جديدة",
+    "tr": "ghassālat mwā3īn jdīda",
+    "en": "a new dishwasher"
+   }
+  ]
+ },
+ {
+  "ar": "مكينة قهوة",
+  "tr": "makīnat gahwa",
+  "en": "coffee machine; espresso machine",
+  "msa": "آلة القهوة",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 35,
+  "ex_ar": "شرينا مكينة قهوة للحوش.",
+  "ex_tr": "shrēna makīnat gahwa lil-7ōsh.",
+  "ex_en": "We bought a coffee machine for the house.",
+  "note": "Libyans are serious about espresso; مكينة from Italian macchina.",
+  "phrases": [
+   {
+    "ar": "مكينة إسبريسو",
+    "tr": "makīnat esprēsso",
+    "en": "espresso machine"
+   },
+   {
+    "ar": "مكينة قهوة كبسولات",
+    "tr": "makīnat gahwa kabsūlāt",
+    "en": "capsule coffee machine"
+   }
+  ]
+ },
+ {
+  "ar": "صاج",
+  "tr": "Sāj",
+  "en": "griddle; flat baking sheet",
+  "msa": "صاج",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "الخبزة تطيب على الصاج.",
+  "ex_tr": "il-khubza tTīb 3aS-Sāj.",
+  "ex_en": "The bread cooks on the griddle.",
+  "phrases": [
+   {
+    "ar": "صاج حديد",
+    "tr": "Sāj 7dīd",
+    "en": "iron griddle"
+   },
+   {
+    "ar": "خبزة صاج",
+    "tr": "khubzat Sāj",
+    "en": "griddle bread"
+   }
+  ]
+ },
+ {
+  "ar": "طبق",
+  "tr": "Tabag",
+  "en": "dish (course); plate of food",
+  "msa": "طبق",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 45,
+  "ex_ar": "الطبق الرئيسي كسكسي باللحم.",
+  "ex_tr": "iT-Tabag ir-raʼīsi kuskusi bil-la7am.",
+  "ex_en": "The main course is couscous with meat.",
+  "note": "Also a round woven tray for bread.",
+  "phrases": [
+   {
+    "ar": "طبق اليوم",
+    "tr": "Tabag il-yōm",
+    "en": "dish of the day"
+   },
+   {
+    "ar": "طبق رئيسي",
+    "tr": "Tabag raʼīsi",
+    "en": "main course"
+   }
+  ]
+ },
+ {
+  "ar": "مقشرة",
+  "tr": "mgashra",
+  "en": "peeler",
+  "msa": "مقشرة",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "قشر البطاطا بالمقشرة أسرع.",
+  "ex_tr": "gashshir il-baTāTa bil-mgashra asra3.",
+  "ex_en": "Peeling potatoes with the peeler is faster.",
+  "phrases": [
+   {
+    "ar": "مقشرة بطاطا",
+    "tr": "mgashrat baTāTa",
+    "en": "potato peeler"
+   },
+   {
+    "ar": "وين المقشرة؟",
+    "tr": "wīn il-mgashra?",
+    "en": "where's the peeler?"
+   }
+  ]
+ },
+ {
+  "ar": "إبريق",
+  "tr": "ibrīg",
+  "en": "jug; pitcher",
+  "msa": "إبريق",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "جيب إبريق مية باردة.",
+  "ex_tr": "jīb ibrīg mayya bārda.",
+  "ex_en": "Bring a jug of cold water.",
+  "phrases": [
+   {
+    "ar": "إبريق عصير",
+    "tr": "ibrīg 3aSīr",
+    "en": "a jug of juice"
+   },
+   {
+    "ar": "إبريق زجاج",
+    "tr": "ibrīg zjāj",
+    "en": "glass jug"
+   }
+  ]
+ },
+ {
+  "ar": "كاسة",
+  "tr": "kāsa",
+  "en": "small glass (tea glass)",
+  "msa": "كأس",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 3,
+  "usage": 43,
+  "ex_ar": "صب الشاهي في الكاسات الصغار.",
+  "ex_tr": "Subb ish-shāhi fil-kāsāt iS-Sghār.",
+  "ex_en": "Pour the tea into the small glasses.",
+  "note": "pl. كاسات kāsāt; diminutive feel of كاس.",
+  "phrases": [
+   {
+    "ar": "كاسات الشاهي",
+    "tr": "kāsāt ish-shāhi",
+    "en": "tea glasses"
+   },
+   {
+    "ar": "كاسة مية",
+    "tr": "kāsat mayya",
+    "en": "a glass of water"
+   }
+  ]
+ },
+ {
+  "ar": "سكينة لحم",
+  "tr": "sikkīnat la7am",
+  "en": "butcher's knife; meat knife",
+  "msa": "سكين اللحم",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "هات سكينة اللحم الكبيرة.",
+  "ex_tr": "hāt sikkīnat il-la7am il-kbīra.",
+  "ex_en": "Give me the big meat knife.",
+  "phrases": [
+   {
+    "ar": "سكينة حادة",
+    "tr": "sikkīna 7ādda",
+    "en": "a sharp knife"
+   },
+   {
+    "ar": "سكينة الخبزة",
+    "tr": "sikkīnat il-khubza",
+    "en": "bread knife"
+   }
+  ]
+ },
+ {
+  "ar": "مسن",
+  "tr": "misann",
+  "en": "knife sharpener; whetstone",
+  "msa": "مسن",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 5,
+  "usage": 20,
+  "ex_ar": "السكينة تبي المسن.",
+  "ex_tr": "is-sikkīna tibbi l-misann.",
+  "ex_en": "The knife needs the sharpener.",
+  "note": "Sharpened especially before Eid slaughter.",
+  "phrases": [
+   {
+    "ar": "سن السكاكين",
+    "tr": "sinn is-sakākīn",
+    "en": "sharpen the knives"
+   },
+   {
+    "ar": "مسن حجر",
+    "tr": "misann 7jar",
+    "en": "stone sharpener"
+   }
+  ]
+ },
+ {
+  "ar": "ماعون",
+  "tr": "mā3ūn",
+  "en": "a dish; a plate or bowl (single piece of dishware)",
+  "msa": "إناء",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "حط الماكلة في ماعون.",
+  "ex_tr": "7uTT il-mākla fi mā3ūn.",
+  "ex_en": "Put the food in a dish.",
+  "note": "Plural مواعين (dishes) is the commoner form.",
+  "phrases": [
+   {
+    "ar": "ماعون مكسور",
+    "tr": "mā3ūn maksūr",
+    "en": "a broken dish"
+   },
+   {
+    "ar": "ماعون بلاستيك",
+    "tr": "mā3ūn blāstīk",
+    "en": "a plastic container"
+   }
+  ]
+ },
+ {
+  "ar": "علبة بلاستيك",
+  "tr": "3ulbat blāstīk",
+  "en": "plastic food container; Tupperware",
+  "msa": "علبة بلاستيكية",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 31,
+  "ex_ar": "حط باقي الماكلة في علبة بلاستيك.",
+  "ex_tr": "7uTT bāgi l-mākla fi 3ulbat blāstīk.",
+  "ex_en": "Put the leftovers in a plastic container.",
+  "phrases": [
+   {
+    "ar": "علب بلاستيك بغطا",
+    "tr": "3ulab blāstīk bghTa",
+    "en": "containers with lids"
+   },
+   {
+    "ar": "رجع لي العلبة",
+    "tr": "rajja3 li l-3ulba",
+    "en": "give me back my container"
+   }
+  ]
+ },
+ {
+  "ar": "مريول كوجينة",
+  "tr": "maryūl kūjīna",
+  "en": "kitchen apron",
+  "msa": "مئزر المطبخ",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 5,
+  "usage": 20,
+  "ex_ar": "لبست المريول باش ما نوسخش حوايجي.",
+  "ex_tr": "lbist il-maryūl bāsh ma nwassikhsh 7wāyji.",
+  "ex_en": "I put on the apron so I don't dirty my clothes.",
+  "note": "مريول also a school smock.",
+  "phrases": [
+   {
+    "ar": "مريول أبيض",
+    "tr": "maryūl abyaD",
+    "en": "a white apron"
+   },
+   {
+    "ar": "مريول الطباخ",
+    "tr": "maryūl iT-Tabbākh",
+    "en": "the cook's apron"
+   }
+  ]
+ },
+ {
+  "ar": "قهوة بالحليب",
+  "tr": "gahwa bil-7līb",
+  "en": "coffee with milk; latte",
+  "msa": "قهوة بالحليب",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 3,
+  "usage": 45,
+  "ex_ar": "نبي قهوة بالحليب وكرواسون.",
+  "ex_tr": "nibbi gahwa bil-7līb w kruwāsōn.",
+  "ex_en": "I want a coffee with milk and a croissant.",
+  "phrases": [
+   {
+    "ar": "قهوة بالحليب بلا سكر",
+    "tr": "gahwa bil-7līb bla sukkar",
+    "en": "milky coffee without sugar"
+   },
+   {
+    "ar": "كاس قهوة بالحليب",
+    "tr": "kās gahwa bil-7līb",
+    "en": "a glass of milky coffee"
+   }
+  ]
+ },
+ {
+  "ar": "قهوة كحلة",
+  "tr": "gahwa ka7la",
+  "en": "black coffee",
+  "msa": "قهوة سوداء",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "نشرب قهوة كحلة بلا سكر.",
+  "ex_tr": "nishrab gahwa ka7la bla sukkar.",
+  "ex_en": "I drink black coffee without sugar.",
+  "note": "كحل = black in Libyan.",
+  "phrases": [
+   {
+    "ar": "فنجان قهوة كحلة",
+    "tr": "finjān gahwa ka7la",
+    "en": "a cup of black coffee"
+   },
+   {
+    "ar": "قهوة كحلة ثقيلة",
+    "tr": "gahwa ka7la thgīla",
+    "en": "strong black coffee"
+   }
+  ]
+ },
+ {
+  "ar": "أمريكانو",
+  "tr": "amerikānu",
+  "en": "americano (coffee)",
+  "msa": "قهوة أمريكية",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "أمريكانو كبير لو سمحت.",
+  "ex_tr": "amerikānu kbīr law sama7t.",
+  "ex_en": "A large americano, please.",
+  "phrases": [
+   {
+    "ar": "أمريكانو بارد",
+    "tr": "amerikānu bārid",
+    "en": "iced americano"
+   },
+   {
+    "ar": "أمريكانو بالحليب",
+    "tr": "amerikānu bil-7līb",
+    "en": "americano with milk"
+   }
+  ]
+ },
+ {
+  "ar": "لاتيه",
+  "tr": "lātēh",
+  "en": "latte",
+  "msa": "لاتيه",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "البنات يحبوا اللاتيه البارد.",
+  "ex_tr": "il-banāt y7ibbu l-lātēh il-bārid.",
+  "ex_en": "The girls like iced latte.",
+  "phrases": [
+   {
+    "ar": "لاتيه بالكراميل",
+    "tr": "lātēh bil-karamēl",
+    "en": "caramel latte"
+   },
+   {
+    "ar": "آيس لاتيه",
+    "tr": "āys lātēh",
+    "en": "iced latte"
+   }
+  ]
+ },
+ {
+  "ar": "قهوة باردة",
+  "tr": "gahwa bārda",
+  "en": "iced coffee",
+  "msa": "قهوة مثلجة",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "في الصيف نشرب قهوة باردة.",
+  "ex_tr": "fiS-Sēf nishrab gahwa bārda.",
+  "ex_en": "In summer I drink iced coffee.",
+  "phrases": [
+   {
+    "ar": "كاس قهوة باردة",
+    "tr": "kās gahwa bārda",
+    "en": "a glass of iced coffee"
+   },
+   {
+    "ar": "قهوة باردة بالجيلاطي",
+    "tr": "gahwa bārda bil-jīlāTi",
+    "en": "iced coffee with ice cream"
+   }
+  ]
+ },
+ {
+  "ar": "شاهي بالحليب",
+  "tr": "shāhi bil-7līb",
+  "en": "tea with milk",
+  "msa": "شاي بالحليب",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 4,
+  "usage": 35,
+  "ex_ar": "في الصبح نشرب شاهي بالحليب.",
+  "ex_tr": "fiS-SbaH nishrab shāhi bil-7līb.",
+  "ex_en": "In the morning I drink tea with milk.",
+  "phrases": [
+   {
+    "ar": "كاس شاهي بالحليب",
+    "tr": "kās shāhi bil-7līb",
+    "en": "a glass of milky tea"
+   },
+   {
+    "ar": "شاهي بالحليب والخبزة",
+    "tr": "shāhi bil-7līb wil-khubza",
+    "en": "milk tea and bread"
+   }
+  ]
+ },
+ {
+  "ar": "شاهي بالنعناع",
+  "tr": "shāhi bin-na3nā3",
+  "en": "mint tea",
+  "msa": "شاي بالنعناع",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "جيب لنا شاهي بالنعناع.",
+  "ex_tr": "jīb lna shāhi bin-na3nā3.",
+  "ex_en": "Bring us mint tea.",
+  "phrases": [
+   {
+    "ar": "شاهي أخضر بالنعناع",
+    "tr": "shāhi akhDar bin-na3nā3",
+    "en": "green tea with mint"
+   },
+   {
+    "ar": "ورق نعناع في الشاهي",
+    "tr": "warg na3nā3 fish-shāhi",
+    "en": "mint leaves in the tea"
+   }
+  ]
+ },
+ {
+  "ar": "شاهي خفيف",
+  "tr": "shāhi khfīf",
+  "en": "weak tea",
+  "msa": "شاي خفيف",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "نبي شاهي خفيف، ما نقدرش نرقد.",
+  "ex_tr": "nibbi shāhi khfīf, ma nigdirsh nurgud.",
+  "ex_en": "I want weak tea, otherwise I can't sleep.",
+  "note": "Opposite: شاهي ثقيل strong tea.",
+  "phrases": [
+   {
+    "ar": "شاهي ثقيل",
+    "tr": "shāhi thgīl",
+    "en": "strong tea"
+   },
+   {
+    "ar": "خفف الشاهي شوية",
+    "tr": "khaffif ish-shāhi shwayya",
+    "en": "make the tea a bit weaker"
+   }
+  ]
+ },
+ {
+  "ar": "عصير برتقان",
+  "tr": "3aSīr burtgān",
+  "en": "orange juice",
+  "msa": "عصير برتقال",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 3,
+  "usage": 45,
+  "ex_ar": "كاس عصير برتقان طبيعي.",
+  "ex_tr": "kās 3aSīr burtgān Tabī3i.",
+  "ex_en": "A glass of fresh orange juice.",
+  "phrases": [
+   {
+    "ar": "عصير برتقان طازة",
+    "tr": "3aSīr burtgān Tāza",
+    "en": "fresh orange juice"
+   },
+   {
+    "ar": "عصير برتقان بلا سكر",
+    "tr": "3aSīr burtgān bla sukkar",
+    "en": "orange juice without sugar"
+   }
+  ]
+ },
+ {
+  "ar": "ليموناضة",
+  "tr": "līmūnāDa",
+  "en": "lemonade",
+  "msa": "ليموناضة",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "ليموناضة بالنعناع باردة في الصيف.",
+  "ex_tr": "līmūnāDa bin-na3nā3 bārda fiS-Sēf.",
+  "ex_en": "Cold mint lemonade in summer.",
+  "note": "Also عصير ليمون.",
+  "phrases": [
+   {
+    "ar": "ليموناضة بالنعناع",
+    "tr": "līmūnāDa bin-na3nā3",
+    "en": "mint lemonade"
+   },
+   {
+    "ar": "كاس ليموناضة",
+    "tr": "kās līmūnāDa",
+    "en": "a glass of lemonade"
+   }
+  ]
+ },
+ {
+  "ar": "ميلك شيك",
+  "tr": "milk shēk",
+  "en": "milkshake",
+  "msa": "ميلك شيك",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "ميلك شيك بالفراولة للصغير.",
+  "ex_tr": "milk shēk bil-frāwla liS-Sghayyir.",
+  "ex_en": "A strawberry milkshake for the little one.",
+  "phrases": [
+   {
+    "ar": "ميلك شيك شكلاطة",
+    "tr": "milk shēk shuklāTa",
+    "en": "chocolate milkshake"
+   },
+   {
+    "ar": "ميلك شيك كبير",
+    "tr": "milk shēk kbīr",
+    "en": "a large milkshake"
+   }
+  ]
+ },
+ {
+  "ar": "كوكتيل",
+  "tr": "koktēl",
+  "en": "fruit cocktail (mixed juice)",
+  "msa": "كوكتيل فواكه",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 4,
+  "usage": 35,
+  "ex_ar": "كوكتيل فواكه بالقشطة.",
+  "ex_tr": "koktēl fwākih bil-gishTa.",
+  "ex_en": "Fruit cocktail with cream.",
+  "note": "In Libyan juice bars: layered mixed fruit juice.",
+  "phrases": [
+   {
+    "ar": "كوكتيل فواكه",
+    "tr": "koktēl fwākih",
+    "en": "fruit cocktail"
+   },
+   {
+    "ar": "كاس كوكتيل",
+    "tr": "kās koktēl",
+    "en": "a glass of fruit cocktail"
+   }
+  ]
+ },
+ {
+  "ar": "عصير طبيعي",
+  "tr": "3aSīr Tabī3i",
+  "en": "fresh juice",
+  "msa": "عصير طبيعي",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "العصير هذا طبيعي ولا معلب؟",
+  "ex_tr": "il-3aSīr hādha Tabī3i walla m3allab?",
+  "ex_en": "Is this juice fresh or packaged?",
+  "phrases": [
+   {
+    "ar": "محل عصير طبيعي",
+    "tr": "ma7all 3aSīr Tabī3i",
+    "en": "a juice bar"
+   },
+   {
+    "ar": "عصير معلب",
+    "tr": "3aSīr m3allab",
+    "en": "packaged juice"
+   }
+  ]
+ },
+ {
+  "ar": "مية باردة",
+  "tr": "mayya bārda",
+  "en": "cold water",
+  "msa": "ماء بارد",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 2,
+  "usage": 55,
+  "ex_ar": "عطيني كاس مية باردة.",
+  "ex_tr": "3Tīni kās mayya bārda.",
+  "ex_en": "Give me a glass of cold water.",
+  "phrases": [
+   {
+    "ar": "مية باردة من الثلاجة",
+    "tr": "mayya bārda min ith-thallāja",
+    "en": "cold water from the fridge"
+   },
+   {
+    "ar": "قرعة مية باردة",
+    "tr": "gar3at mayya bārda",
+    "en": "a bottle of cold water"
+   }
+  ]
+ },
+ {
+  "ar": "مية سخونة",
+  "tr": "mayya skhūna",
+  "en": "hot water",
+  "msa": "ماء ساخن",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 3,
+  "usage": 45,
+  "ex_ar": "سخن شوية مية للشاهي.",
+  "ex_tr": "sakhkhin shwayya mayya lish-shāhi.",
+  "ex_en": "Heat some water for the tea.",
+  "phrases": [
+   {
+    "ar": "مية سخونة وليمون",
+    "tr": "mayya skhūna w līmūn",
+    "en": "hot water and lemon"
+   },
+   {
+    "ar": "ما فيش مية سخونة",
+    "tr": "ma fīsh mayya skhūna",
+    "en": "there's no hot water"
+   }
+  ]
+ },
+ {
+  "ar": "مشروب طاقة",
+  "tr": "mashrūb Tāga",
+  "en": "energy drink",
+  "msa": "مشروب طاقة",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الشباب يشربوا مشروبات طاقة هلبة.",
+  "ex_tr": "ish-shabāb yishrbu mashrūbāt Tāga hallba.",
+  "ex_en": "Young people drink lots of energy drinks.",
+  "note": "Often called by brand: ريد بول.",
+  "phrases": [
+   {
+    "ar": "علبة مشروب طاقة",
+    "tr": "3ulbat mashrūb Tāga",
+    "en": "a can of energy drink"
+   },
+   {
+    "ar": "مشروب طاقة بارد",
+    "tr": "mashrūb Tāga bārid",
+    "en": "a cold energy drink"
+   }
+  ]
+ },
+ {
+  "ar": "سحلب",
+  "tr": "sa7lab",
+  "en": "sahlab (hot milk drink)",
+  "msa": "سحلب",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "في الشتاء نشربو سحلب بالقرفة.",
+  "ex_tr": "fish-shta nishrbu sa7lab bil-girfa.",
+  "ex_en": "In winter we drink sahlab with cinnamon.",
+  "phrases": [
+   {
+    "ar": "كاس سحلب",
+    "tr": "kās sa7lab",
+    "en": "a cup of sahlab"
+   },
+   {
+    "ar": "سحلب سخون",
+    "tr": "sa7lab skhūn",
+    "en": "hot sahlab"
+   }
+  ]
+ },
+ {
+  "ar": "كركديه",
+  "tr": "karkadēh",
+  "en": "hibiscus tea",
+  "msa": "كركديه",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "الكركديه يتشرب بارد ولا سخون.",
+  "ex_tr": "il-karkadēh yitshrib bārid walla skhūn.",
+  "ex_en": "Hibiscus is drunk cold or hot.",
+  "phrases": [
+   {
+    "ar": "كركديه بارد",
+    "tr": "karkadēh bārid",
+    "en": "iced hibiscus"
+   },
+   {
+    "ar": "كاس كركديه",
+    "tr": "kās karkadēh",
+    "en": "a glass of hibiscus"
+   }
+  ]
+ },
+ {
+  "ar": "شاهي العصرية",
+  "tr": "shāhi l-3aSriyya",
+  "en": "afternoon tea",
+  "msa": "شاي العصر",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "نتلمو على شاهي العصرية.",
+  "ex_tr": "nitlammu 3ala shāhi l-3aSriyya.",
+  "ex_en": "We gather for afternoon tea.",
+  "note": "Libyan custom of tea with sweets or bread in the late afternoon.",
+  "phrases": [
+   {
+    "ar": "نبو شاهي العصرية",
+    "tr": "nibbu shāhi l-3aSriyya",
+    "en": "we want afternoon tea"
+   },
+   {
+    "ar": "الحلو متاع العصرية",
+    "tr": "il-7lū mtā3 il-3aSriyya",
+    "en": "sweets for the afternoon tea"
+   }
+  ]
+ },
+ {
+  "ar": "تحلية",
+  "tr": "ta7liya",
+  "en": "dessert (after a meal)",
+  "msa": "تحلية",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 35,
+  "ex_ar": "بعد الغدا نجيبو التحلية.",
+  "ex_tr": "ba3d il-ghda njību t-ta7liya.",
+  "ex_en": "After lunch we bring dessert.",
+  "phrases": [
+   {
+    "ar": "شن فيه تحلية؟",
+    "tr": "shin fīh ta7liya?",
+    "en": "what's for dessert?"
+   },
+   {
+    "ar": "فواكه للتحلية",
+    "tr": "fwākih lit-ta7liya",
+    "en": "fruit for dessert"
+   }
+  ]
+ },
+ {
+  "ar": "بوفيه",
+  "tr": "būfēh",
+  "en": "buffet",
+  "msa": "بوفيه",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 31,
+  "ex_ar": "في العرس كان فيه بوفيه مفتوح.",
+  "ex_tr": "fil-3urs kān fīh būfēh maftū7.",
+  "ex_en": "At the wedding there was an open buffet.",
+  "phrases": [
+   {
+    "ar": "بوفيه مفتوح",
+    "tr": "būfēh maftū7",
+    "en": "open buffet"
+   },
+   {
+    "ar": "بوفيه فطور",
+    "tr": "būfēh fTūr",
+    "en": "breakfast buffet"
+   }
+  ]
+ },
+ {
+  "ar": "كافيتيريا",
+  "tr": "kafitērya",
+  "en": "snack bar; café",
+  "msa": "كافيتيريا",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "ناخذو ساندويتش من الكافيتيريا.",
+  "ex_tr": "nākhdhu sandawitsh min il-kafitērya.",
+  "ex_en": "We'll get a sandwich from the snack bar.",
+  "phrases": [
+   {
+    "ar": "كافيتيريا الجامعة",
+    "tr": "kafitēryat ij-jām3a",
+    "en": "the university cafeteria"
+   },
+   {
+    "ar": "كافيتيريا قريبة",
+    "tr": "kafitērya grība",
+    "en": "a nearby snack bar"
+   }
+  ]
+ },
+ {
+  "ar": "باقي الماكلة",
+  "tr": "bāgi l-mākla",
+  "en": "leftovers",
+  "msa": "بقايا الطعام",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "باقي الماكلة حطه في الثلاجة.",
+  "ex_tr": "bāgi l-mākla 7uTTa fith-thallāja.",
+  "ex_en": "Put the leftovers in the fridge.",
+  "phrases": [
+   {
+    "ar": "ناكلو باقي الماكلة غدوة",
+    "tr": "nāklu bāgi l-mākla ghudwa",
+    "en": "we'll eat the leftovers tomorrow"
+   },
+   {
+    "ar": "ما تكبش باقي الماكلة",
+    "tr": "ma tkubbsh bāgi l-mākla",
+    "en": "don't throw away the leftovers"
+   }
+  ]
+ },
+ {
+  "ar": "حصة",
+  "tr": "7iSSa",
+  "en": "portion; share",
+  "msa": "حصة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "كل واحد ياخذ حصته.",
+  "ex_tr": "kull wā7id yākhidh 7iSSta.",
+  "ex_en": "Everyone takes his portion.",
+  "note": "Also \"class period\" at school.",
+  "phrases": [
+   {
+    "ar": "حصة كبيرة",
+    "tr": "7iSSa kbīra",
+    "en": "a big portion"
+   },
+   {
+    "ar": "حصتي من الحلو",
+    "tr": "7iSSti min il-7lū",
+    "en": "my share of the sweets"
+   }
+  ]
+ },
+ {
+  "ar": "ربع دجاجة",
+  "tr": "rub3 djāja",
+  "en": "quarter chicken",
+  "msa": "ربع دجاجة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "نبي ربع دجاجة مع رز.",
+  "ex_tr": "nibbi rub3 djāja ma3a ruzz.",
+  "ex_en": "I want a quarter chicken with rice.",
+  "phrases": [
+   {
+    "ar": "ربع دجاجة مشوية",
+    "tr": "rub3 djāja mashwiyya",
+    "en": "a grilled quarter chicken"
+   },
+   {
+    "ar": "ربع دجاجة صدر",
+    "tr": "rub3 djāja Sadr",
+    "en": "a breast quarter"
+   }
+  ]
+ },
+ {
+  "ar": "ساندويتش تن",
+  "tr": "sandawitsh tunn",
+  "en": "tuna sandwich (Libyan style)",
+  "msa": "شطيرة تونة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "ساندويتش تن بالهريسة والدحي.",
+  "ex_tr": "sandawitsh tunn bil-harīsa wid-da7i.",
+  "ex_en": "A tuna sandwich with harissa and egg.",
+  "note": "Libyan classic: baguette with tuna, harissa, egg, olives, potatoes.",
+  "phrases": [
+   {
+    "ar": "زوز ساندويتش تن",
+    "tr": "zūz sandawitsh tunn",
+    "en": "two tuna sandwiches"
+   },
+   {
+    "ar": "تن بالهريسة",
+    "tr": "tunn bil-harīsa",
+    "en": "tuna with harissa"
+   }
+  ]
+ },
+ {
+  "ar": "ساندويتش كبدة",
+  "tr": "sandawitsh kibda",
+  "en": "liver sandwich",
+  "msa": "شطيرة كبدة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "في الليل ناكلو ساندويتش كبدة.",
+  "ex_tr": "fil-lēl nāklu sandawitsh kibda.",
+  "ex_en": "At night we eat liver sandwiches.",
+  "phrases": [
+   {
+    "ar": "كبدة مشوية",
+    "tr": "kibda mashwiyya",
+    "en": "grilled liver"
+   },
+   {
+    "ar": "كبدة بالبصل",
+    "tr": "kibda bil-bSal",
+    "en": "liver with onions"
+   }
+  ]
+ },
+ {
+  "ar": "خروب",
+  "tr": "kharrūb",
+  "en": "carob",
+  "msa": "خروب",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 27,
+  "ex_ar": "رب الخروب يفيد للكحة.",
+  "ex_tr": "rubb il-kharrūb yfīd lil-ka77a.",
+  "ex_en": "Carob syrup is good for coughs.",
+  "phrases": [
+   {
+    "ar": "رب خروب",
+    "tr": "rubb kharrūb",
+    "en": "carob syrup"
+   },
+   {
+    "ar": "غبرة خروب",
+    "tr": "ghabrat kharrūb",
+    "en": "carob powder"
+   }
+  ]
+ },
+ {
+  "ar": "جمار",
+  "tr": "jummār",
+  "en": "palm heart",
+  "msa": "جمار",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 20,
+  "ex_ar": "الجمار يتاكل نيّ وهو حلو.",
+  "ex_tr": "ij-jummār yitākil nayy w hu 7ilu.",
+  "ex_en": "Palm heart is eaten raw and it's sweet.",
+  "note": "Comes from cutting a date palm; a treat in the oases.",
+  "phrases": [
+   {
+    "ar": "طرف جمار",
+    "tr": "Taraf jummār",
+    "en": "a piece of palm heart"
+   },
+   {
+    "ar": "جمار أبيض",
+    "tr": "jummār abyaD",
+    "en": "white palm heart"
+   }
+  ]
+ },
+ {
+  "ar": "رطب",
+  "tr": "ruTab",
+  "en": "ripe soft dates",
+  "msa": "رطب",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الرطب يطلع في آخر الصيف.",
+  "ex_tr": "ir-ruTab yiTla3 fi ākhir iS-Sēf.",
+  "ex_en": "Ripe soft dates come at the end of summer.",
+  "phrases": [
+   {
+    "ar": "رطب طري",
+    "tr": "ruTab Tari",
+    "en": "soft fresh dates"
+   },
+   {
+    "ar": "صحن رطب",
+    "tr": "Sa7n ruTab",
+    "en": "a plate of ripe dates"
+   }
+  ]
+ },
+ {
+  "ar": "نبق",
+  "tr": "nbag",
+  "en": "jujube (sidr fruit)",
+  "msa": "نبق",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 18,
+  "ex_ar": "الصغار يلقطوا النبق من السدرة.",
+  "ex_tr": "iS-Sghār yilgTu n-nbag min is-sidra.",
+  "ex_en": "Kids pick jujubes from the sidr tree.",
+  "phrases": [
+   {
+    "ar": "حبة نبق",
+    "tr": "7abbat nbag",
+    "en": "one jujube"
+   },
+   {
+    "ar": "نبق أحمر",
+    "tr": "nbag a7mar",
+    "en": "red jujubes"
+   }
+  ]
+ },
+ {
+  "ar": "بطاطا حلوة",
+  "tr": "baTāTa 7ilwa",
+  "en": "sweet potato",
+  "msa": "بطاطا حلوة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 27,
+  "ex_ar": "البطاطا الحلوة مشوية في الفرن.",
+  "ex_tr": "il-baTāTa l-7ilwa mashwiyya fil-furn.",
+  "ex_en": "Sweet potato roasted in the oven.",
+  "phrases": [
+   {
+    "ar": "بطاطا حلوة مسلوقة",
+    "tr": "baTāTa 7ilwa maslūga",
+    "en": "boiled sweet potato"
+   },
+   {
+    "ar": "كيلو بطاطا حلوة",
+    "tr": "kīlu baTāTa 7ilwa",
+    "en": "a kilo of sweet potatoes"
+   }
+  ]
+ },
+ {
+  "ar": "فول أخضر",
+  "tr": "fūl akhDar",
+  "en": "fresh fava beans (in pods)",
+  "msa": "فول أخضر",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "في الربيع نطيبو الفول الأخضر بالعلوش.",
+  "ex_tr": "fir-rbī3 inTayybu l-fūl il-akhDar bil-3allūsh.",
+  "ex_en": "In spring we cook fresh fava beans with lamb.",
+  "phrases": [
+   {
+    "ar": "فول أخضر مقشر",
+    "tr": "fūl akhDar mgashshar",
+    "en": "shelled fresh fava beans"
+   },
+   {
+    "ar": "طبيخة فول أخضر",
+    "tr": "Tbīkhat fūl akhDar",
+    "en": "fresh fava bean stew"
+   }
+  ]
+ },
+ {
+  "ar": "بروكلي",
+  "tr": "brokli",
+  "en": "broccoli",
+  "msa": "بروكلي",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 20,
+  "ex_ar": "البروكلي مسلوق مع الدجاج.",
+  "ex_tr": "il-brokli maslūg ma3a d-djāj.",
+  "ex_en": "Boiled broccoli with chicken.",
+  "phrases": [
+   {
+    "ar": "راس بروكلي",
+    "tr": "rās brokli",
+    "en": "a head of broccoli"
+   },
+   {
+    "ar": "بروكلي بالجبنة",
+    "tr": "brokli bil-jibna",
+    "en": "broccoli with cheese"
+   }
+  ]
+ },
+ {
+  "ar": "حبق",
+  "tr": "7bag",
+  "en": "basil",
+  "msa": "ريحان",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 25,
+  "ex_ar": "حط ورقتين حبق على البيتزا.",
+  "ex_tr": "7uTT wargtēn 7bag 3al-pītza.",
+  "ex_en": "Put a couple of basil leaves on the pizza.",
+  "note": "Maghrebi word; the plant is also grown on windowsills for its scent.",
+  "phrases": [
+   {
+    "ar": "ورق حبق",
+    "tr": "warg 7bag",
+    "en": "basil leaves"
+   },
+   {
+    "ar": "ريحة الحبق",
+    "tr": "rī7t il-7bag",
+    "en": "the smell of basil"
+   }
+  ]
+ },
+ {
+  "ar": "إكليل",
+  "tr": "iklīl",
+  "en": "rosemary",
+  "msa": "إكليل الجبل",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 20,
+  "ex_ar": "حط شوية إكليل على اللحم المشوي.",
+  "ex_tr": "7uTT shwayya iklīl 3al-la7am il-mashwi.",
+  "ex_en": "Put a little rosemary on the roast meat.",
+  "note": "Full name إكليل الجبل.",
+  "phrases": [
+   {
+    "ar": "عود إكليل",
+    "tr": "3ūd iklīl",
+    "en": "a sprig of rosemary"
+   },
+   {
+    "ar": "شاهي إكليل",
+    "tr": "shāhi iklīl",
+    "en": "rosemary tea"
+   }
+  ]
+ },
+ {
+  "ar": "فلفل أحمر",
+  "tr": "filfil a7mar",
+  "en": "ground red pepper; paprika",
+  "msa": "فلفل أحمر مطحون",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "المرقة الليبية فيها فلفل أحمر هلبة.",
+  "ex_tr": "il-marga l-lībiyya fīha filfil a7mar hallba.",
+  "ex_en": "Libyan sauce has lots of ground red pepper.",
+  "note": "Sold as فلفل حار (hot) or فلفل حلو (sweet).",
+  "phrases": [
+   {
+    "ar": "فلفل أحمر حار",
+    "tr": "filfil a7mar 7ārr",
+    "en": "hot red pepper powder"
+   },
+   {
+    "ar": "ملعقة فلفل أحمر",
+    "tr": "ma3lgat filfil a7mar",
+    "en": "a spoon of red pepper"
+   }
+  ]
+ },
+ {
+  "ar": "كاري",
+  "tr": "kāri",
+  "en": "curry powder",
+  "msa": "كاري",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 25,
+  "ex_ar": "دجاج بالكاري والرز.",
+  "ex_tr": "djāj bil-kāri wir-ruzz.",
+  "ex_en": "Curry chicken with rice.",
+  "phrases": [
+   {
+    "ar": "دجاج بالكاري",
+    "tr": "djāj bil-kāri",
+    "en": "chicken curry"
+   },
+   {
+    "ar": "رشة كاري",
+    "tr": "rashshat kāri",
+    "en": "a pinch of curry"
+   }
+  ]
+ },
+ {
+  "ar": "جوزة الطيب",
+  "tr": "jūzat iT-Tīb",
+  "en": "nutmeg",
+  "msa": "جوزة الطيب",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 18,
+  "ex_ar": "شوية جوزة الطيب في البشاميل.",
+  "ex_tr": "shwayya jūzat iT-Tīb fil-bashamēl.",
+  "ex_en": "A little nutmeg in the béchamel.",
+  "phrases": [
+   {
+    "ar": "جوزة الطيب مبشورة",
+    "tr": "jūzat iT-Tīb mbashūra",
+    "en": "grated nutmeg"
+   },
+   {
+    "ar": "رشة جوزة الطيب",
+    "tr": "rashshat jūzat iT-Tīb",
+    "en": "a pinch of nutmeg"
+   }
+  ]
+ },
+ {
+  "ar": "مستكة",
+  "tr": "mistka",
+  "en": "mastic (resin for flavouring)",
+  "msa": "مستكة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 18,
+  "ex_ar": "حطي حبة مستكة في المهلبية.",
+  "ex_tr": "7uTTi 7abbat mistka fil-mhallbiyya.",
+  "ex_en": "Put a bit of mastic in the pudding.",
+  "phrases": [
+   {
+    "ar": "ريحة المستكة",
+    "tr": "rī7t il-mistka",
+    "en": "the smell of mastic"
+   },
+   {
+    "ar": "علكة مستكة",
+    "tr": "3ilkat mistka",
+    "en": "mastic gum"
+   }
+  ]
+ },
+ {
+  "ar": "سكر ناعم",
+  "tr": "sukkar nā3im",
+  "en": "powdered sugar; icing sugar",
+  "msa": "سكر بودرة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "رش سكر ناعم على الغريبة.",
+  "ex_tr": "rushsh sukkar nā3im 3al-ghrība.",
+  "ex_en": "Sprinkle icing sugar on the ghriba.",
+  "phrases": [
+   {
+    "ar": "ظرف سكر ناعم",
+    "tr": "Darf sukkar nā3im",
+    "en": "a packet of icing sugar"
+   },
+   {
+    "ar": "سكر ناعم وفانيليا",
+    "tr": "sukkar nā3im w fanīlya",
+    "en": "icing sugar and vanilla"
+   }
+  ]
+ },
+ {
+  "ar": "شعرية",
+  "tr": "sha3riyya",
+  "en": "vermicelli",
+  "msa": "شعيرية",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "شربة بالشعرية للصغار.",
+  "ex_tr": "sharba bish-sha3riyya liS-Sghār.",
+  "ex_en": "Vermicelli soup for the kids.",
+  "phrases": [
+   {
+    "ar": "شعرية بالحليب",
+    "tr": "sha3riyya bil-7līb",
+    "en": "vermicelli with milk"
+   },
+   {
+    "ar": "باكو شعرية",
+    "tr": "bāku sha3riyya",
+    "en": "a pack of vermicelli"
+   }
+  ]
+ },
+ {
+  "ar": "سباقيتي",
+  "tr": "spagētti",
+  "en": "spaghetti",
+  "msa": "معكرونة إسباغيتي",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "سباقيتي بالصلصة والتن.",
+  "ex_tr": "spagētti biS-SalSa wit-tunn.",
+  "ex_en": "Spaghetti with tomato sauce and tuna.",
+  "note": "Italian loan; general pasta is مكرونة.",
+  "phrases": [
+   {
+    "ar": "باكو سباقيتي",
+    "tr": "bāku spagētti",
+    "en": "a pack of spaghetti"
+   },
+   {
+    "ar": "سباقيتي بالحوت",
+    "tr": "spagētti bil-7ūt",
+    "en": "spaghetti with seafood"
+   }
+  ]
+ },
+ {
+  "ar": "جبنة بيضا",
+  "tr": "jibna bēDa",
+  "en": "white cheese; feta-type cheese",
+  "msa": "جبن أبيض",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "نفطر بالجبنة البيضا والزيتون.",
+  "ex_tr": "nifTar bil-jibna l-bēDa wiz-zītūn.",
+  "ex_en": "I breakfast on white cheese and olives.",
+  "phrases": [
+   {
+    "ar": "طرف جبنة بيضا",
+    "tr": "Taraf jibna bēDa",
+    "en": "a piece of white cheese"
+   },
+   {
+    "ar": "جبنة بيضا مالحة",
+    "tr": "jibna bēDa māl7a",
+    "en": "salty white cheese"
+   }
+  ]
+ },
+ {
+  "ar": "كرعين",
+  "tr": "kr3īn",
+  "en": "sheep's trotters (dish)",
+  "msa": "كوارع",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 25,
+  "ex_ar": "بعد العيد نطيبو الكرعين بالحمص.",
+  "ex_tr": "ba3d il-3īd inTayybu l-kr3īn bil-7ummuS.",
+  "ex_en": "After Eid we cook the trotters with chickpeas.",
+  "note": "Literally \"feet\"; the dish is often eaten after Eid al-Adha.",
+  "phrases": [
+   {
+    "ar": "كرعين بالحمص",
+    "tr": "kr3īn bil-7ummuS",
+    "en": "trotters with chickpeas"
+   },
+   {
+    "ar": "مرقة كرعين",
+    "tr": "margat kr3īn",
+    "en": "trotter stew"
+   }
+  ]
+ },
+ {
+  "ar": "فيليه",
+  "tr": "filēh",
+  "en": "fillet (boneless cut)",
+  "msa": "فيليه",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "نبي فيليه حوت بلا شوك.",
+  "ex_tr": "nibbi filēh 7ūt bla shōk.",
+  "ex_en": "I want boneless fish fillet.",
+  "phrases": [
+   {
+    "ar": "فيليه دجاج",
+    "tr": "filēh djāj",
+    "en": "chicken fillet"
+   },
+   {
+    "ar": "فيليه لحم",
+    "tr": "filēh la7am",
+    "en": "beef fillet"
+   }
+  ]
+ },
+ {
+  "ar": "دجاج عربي",
+  "tr": "djāj 3arbi",
+  "en": "free-range chicken; village chicken",
+  "msa": "دجاج بلدي",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "الدجاج العربي طعمه أحسن.",
+  "ex_tr": "id-djāj il-3arbi Ta3ma a7san.",
+  "ex_en": "Free-range chicken tastes better.",
+  "note": "Opposite of farm chicken (دجاج حاضنة / دجاج مزارع).",
+  "phrases": [
+   {
+    "ar": "دجاجة عربية",
+    "tr": "djāja 3arbiyya",
+    "en": "a village hen"
+   },
+   {
+    "ar": "دحي عربي",
+    "tr": "da7i 3arbi",
+    "en": "free-range eggs"
+   }
+  ]
+ },
+ {
+  "ar": "دوارة",
+  "tr": "dwāra",
+  "en": "offal stew (sheep's stomach and intestines)",
+  "msa": "دوارة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "الدوارة ماكلة العيد عند ناس هلبة.",
+  "ex_tr": "id-dwāra mākla l-3īd 3and nās hallba.",
+  "ex_en": "Offal stew is an Eid dish for many people.",
+  "phrases": [
+   {
+    "ar": "مرقة دوارة",
+    "tr": "margat dwāra",
+    "en": "offal sauce"
+   },
+   {
+    "ar": "تنظيف الدوارة",
+    "tr": "tanDHīf id-dwāra",
+    "en": "cleaning the offal"
+   }
+  ]
+ },
+ {
+  "ar": "شربة حوت",
+  "tr": "sharbat 7ūt",
+  "en": "fish soup",
+  "msa": "حساء السمك",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "في طرابلس يحبوا شربة الحوت.",
+  "ex_tr": "fi Trābulus y7ibbu sharbat il-7ūt.",
+  "ex_en": "In Tripoli they love fish soup.",
+  "phrases": [
+   {
+    "ar": "شربة حوت بالقمبري",
+    "tr": "sharbat 7ūt bil-gambri",
+    "en": "fish soup with shrimp"
+   },
+   {
+    "ar": "زلافة شربة حوت",
+    "tr": "zlāfat sharbat 7ūt",
+    "en": "a bowl of fish soup"
+   }
+  ]
+ },
+ {
+  "ar": "شربة عدس",
+  "tr": "sharbat 3ads",
+  "en": "lentil soup",
+  "msa": "حساء العدس",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "شربة العدس سخونة في البرد.",
+  "ex_tr": "sharbat il-3ads skhūna fil-bard.",
+  "ex_en": "Lentil soup is warming in the cold.",
+  "phrases": [
+   {
+    "ar": "زلافة شربة عدس",
+    "tr": "zlāfat sharbat 3ads",
+    "en": "a bowl of lentil soup"
+   },
+   {
+    "ar": "شربة عدس بالليمون",
+    "tr": "sharbat 3ads bil-līmūn",
+    "en": "lentil soup with lemon"
+   }
+  ]
+ },
+ {
+  "ar": "خبزة شعير",
+  "tr": "khubzat sh3īr",
+  "en": "barley bread",
+  "msa": "خبز الشعير",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "خبزة الشعير صحية أكثر.",
+  "ex_tr": "khubzat ish-sh3īr Sa77iyya akthar.",
+  "ex_en": "Barley bread is healthier.",
+  "phrases": [
+   {
+    "ar": "خبزة شعير بالزيت",
+    "tr": "khubzat sh3īr biz-zēt",
+    "en": "barley bread with oil"
+   },
+   {
+    "ar": "طرف خبزة شعير",
+    "tr": "Taraf khubzat sh3īr",
+    "en": "a piece of barley bread"
+   }
+  ]
+ },
+ {
+  "ar": "خبزة عربية",
+  "tr": "khubza 3arbiyya",
+  "en": "Arabic flatbread; pita",
+  "msa": "خبز عربي",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "الشاورما في خبزة عربية.",
+  "ex_tr": "ish-shāwarma fi khubza 3arbiyya.",
+  "ex_en": "The shawarma is in flatbread.",
+  "note": "As opposed to the long Italian-style baguette (خبزة كوشة).",
+  "phrases": [
+   {
+    "ar": "باكو خبزة عربية",
+    "tr": "bāku khubza 3arbiyya",
+    "en": "a pack of flatbread"
+   },
+   {
+    "ar": "خبزة عربية سخونة",
+    "tr": "khubza 3arbiyya skhūna",
+    "en": "warm flatbread"
+   }
+  ]
+ },
+ {
+  "ar": "معجنات",
+  "tr": "mu3ajjanāt",
+  "en": "baked savoury pastries",
+  "msa": "معجنات",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "في العرس قدمو معجنات وحلو.",
+  "ex_tr": "fil-3urs gaddmu mu3ajjanāt w 7lū.",
+  "ex_en": "At the wedding they served pastries and sweets.",
+  "phrases": [
+   {
+    "ar": "معجنات بالجبنة",
+    "tr": "mu3ajjanāt bil-jibna",
+    "en": "cheese pastries"
+   },
+   {
+    "ar": "صينية معجنات",
+    "tr": "Sīniyyat mu3ajjanāt",
+    "en": "a tray of pastries"
+   }
+  ]
+ },
+ {
+  "ar": "كعك مالح",
+  "tr": "ka3k māli7",
+  "en": "savoury ka3k (salted biscuit rings)",
+  "msa": "كعك مالح",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 31,
+  "ex_ar": "كعك مالح مع الشاهي الأحمر.",
+  "ex_tr": "ka3k māli7 ma3a sh-shāhi l-a7mar.",
+  "ex_en": "Savoury ka3k with black tea.",
+  "note": "Libyan classic for tea, flavoured with fennel or nigella seeds.",
+  "phrases": [
+   {
+    "ar": "علبة كعك مالح",
+    "tr": "3ulbat ka3k māli7",
+    "en": "a box of savoury ka3k"
+   },
+   {
+    "ar": "كعك مالح بالحبة السودا",
+    "tr": "ka3k māli7 bil-7abba s-sōda",
+    "en": "ka3k with nigella seeds"
+   }
+  ]
+ },
+ {
+  "ar": "دونات",
+  "tr": "dōnāt",
+  "en": "doughnut (Western-style)",
+  "msa": "دونات",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "دونات بالشكلاطة من المخبز.",
+  "ex_tr": "dōnāt bish-shuklāTa min il-makhbaz.",
+  "ex_en": "A chocolate doughnut from the bakery.",
+  "note": "Libyan fried dough is سفنز.",
+  "phrases": [
+   {
+    "ar": "حبة دونات",
+    "tr": "7abbat dōnāt",
+    "en": "one doughnut"
+   },
+   {
+    "ar": "علبة دونات",
+    "tr": "3ulbat dōnāt",
+    "en": "a box of doughnuts"
+   }
+  ]
+ },
+ {
+  "ar": "مصاصة",
+  "tr": "maSSāSa",
+  "en": "lollipop",
+  "msa": "مصاصة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "عطي الصغير مصاصة باش يسكت.",
+  "ex_tr": "3Ti S-Sghayyir maSSāSa bāsh yiskut.",
+  "ex_en": "Give the little one a lollipop so he quiets down.",
+  "phrases": [
+   {
+    "ar": "مصاصة فراولة",
+    "tr": "maSSāSat frāwla",
+    "en": "strawberry lollipop"
+   },
+   {
+    "ar": "ما تاكلش مصاصات هلبة",
+    "tr": "ma tākulsh maSSāSāt hallba",
+    "en": "don't eat too many lollipops"
+   }
+  ]
+ },
+ {
+  "ar": "جيلي",
+  "tr": "jēli",
+  "en": "jelly (gelatin dessert)",
+  "msa": "هلام",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "جيلي بالفراولة للصغار.",
+  "ex_tr": "jēli bil-frāwla liS-Sghār.",
+  "ex_en": "Strawberry jelly for the kids.",
+  "phrases": [
+   {
+    "ar": "كاسة جيلي",
+    "tr": "kāsat jēli",
+    "en": "a cup of jelly"
+   },
+   {
+    "ar": "ظرف جيلي",
+    "tr": "Darf jēli",
+    "en": "a packet of jelly"
+   }
+  ]
+ },
+ {
+  "ar": "تيراميسو",
+  "tr": "tīramīsu",
+  "en": "tiramisu",
+  "msa": "تيراميسو",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 20,
+  "ex_ar": "التيراميسو أحسن حلو في القهوة هذي.",
+  "ex_tr": "it-tīramīsu a7san 7lū fil-gahwa hādhi.",
+  "ex_en": "The tiramisu is the best dessert at this café.",
+  "note": "Italian loan.",
+  "phrases": [
+   {
+    "ar": "طرف تيراميسو",
+    "tr": "Taraf tīramīsu",
+    "en": "a slice of tiramisu"
+   },
+   {
+    "ar": "تيراميسو وقهوة",
+    "tr": "tīramīsu w gahwa",
+    "en": "tiramisu and coffee"
+   }
+  ]
+ },
+ {
+  "ar": "شاهي باللوز",
+  "tr": "shāhi bil-lūz",
+  "en": "tea with almonds",
+  "msa": "شاي باللوز",
+  "pos": "noun",
+  "cat": "drink",
+  "freq": 4,
+  "usage": 35,
+  "ex_ar": "في الأعراس يقدمو شاهي باللوز.",
+  "ex_tr": "fil-a3rās igaddmu shāhi bil-lūz.",
+  "ex_en": "At weddings they serve tea with almonds.",
+  "note": "Green or black tea topped with roasted almonds.",
+  "phrases": [
+   {
+    "ar": "كاس شاهي باللوز",
+    "tr": "kās shāhi bil-lūz",
+    "en": "a glass of almond tea"
+   },
+   {
+    "ar": "شاهي أخضر باللوز",
+    "tr": "shāhi akhDar bil-lūz",
+    "en": "green tea with almonds"
+   }
+  ]
+ },
+ {
+  "ar": "طياب",
+  "tr": "Tyāb",
+  "en": "cooking (the act)",
+  "msa": "طبخ",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "الطياب ياخذ وقت طويل.",
+  "ex_tr": "iT-Tyāb yākhidh wagt Tawīl.",
+  "ex_en": "Cooking takes a long time.",
+  "note": "Verbal noun of طيّب \"to cook\".",
+  "phrases": [
+   {
+    "ar": "نحب الطياب",
+    "tr": "in7ibb iT-Tyāb",
+    "en": "I like cooking"
+   },
+   {
+    "ar": "طياب أمي",
+    "tr": "Tyāb ummi",
+    "en": "my mother's cooking"
+   }
+  ]
+ },
+ {
+  "ar": "طبخة",
+  "tr": "Tabkha",
+  "en": "a dish; a cooked meal",
+  "msa": "طبخة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "شن الطبخة اليوم؟",
+  "ex_tr": "shin iT-Tabkha l-yōm?",
+  "ex_en": "What's the dish today?",
+  "phrases": [
+   {
+    "ar": "طبخة جديدة",
+    "tr": "Tabkha jdīda",
+    "en": "a new dish"
+   },
+   {
+    "ar": "طبخة ساهلة",
+    "tr": "Tabkha sāhla",
+    "en": "an easy dish"
+   }
+  ]
+ },
+ {
+  "ar": "وصفة",
+  "tr": "waSfa",
+  "en": "recipe",
+  "msa": "وصفة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "عطيني الوصفة متاع البسبوسة.",
+  "ex_tr": "3Tīni l-waSfa mtā3 il-basbūsa.",
+  "ex_en": "Give me the basbousa recipe.",
+  "note": "Also \"prescription\".",
+  "phrases": [
+   {
+    "ar": "وصفة من اليوتيوب",
+    "tr": "waSfa min il-yūtyūb",
+    "en": "a recipe from YouTube"
+   },
+   {
+    "ar": "وصفة ساهلة",
+    "tr": "waSfa sāhla",
+    "en": "an easy recipe"
+   }
+  ]
+ },
+ {
+  "ar": "مكونات",
+  "tr": "mukawwināt",
+  "en": "ingredients",
+  "msa": "مكونات",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "شن المكونات متاع الكيكة؟",
+  "ex_tr": "shin il-mukawwināt mtā3 il-kēka?",
+  "ex_en": "What are the ingredients of the cake?",
+  "phrases": [
+   {
+    "ar": "المكونات كلها موجودة",
+    "tr": "il-mukawwināt kullha mawjūda",
+    "en": "all the ingredients are there"
+   },
+   {
+    "ar": "اقرا المكونات",
+    "tr": "igra l-mukawwināt",
+    "en": "read the ingredients"
+   }
+  ]
+ },
+ {
+  "ar": "عولة",
+  "tr": "3ūla",
+  "en": "year's food store (couscous, dried goods, oil)",
+  "msa": "مؤونة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "أمي ديما تجهز العولة في الصيف.",
+  "ex_tr": "ummi dīma tjahhiz il-3ūla fiS-Sēf.",
+  "ex_en": "My mother always prepares the year's provisions in summer.",
+  "note": "Traditional stock of homemade couscous, dried tomatoes, gadīd, etc.",
+  "phrases": [
+   {
+    "ar": "عولة السنة",
+    "tr": "3ūlat is-sana",
+    "en": "the year's provisions"
+   },
+   {
+    "ar": "كسكسي العولة",
+    "tr": "kuskusi l-3ūla",
+    "en": "homemade stored couscous"
+   }
+  ]
+ },
+ {
+  "ar": "شريحة",
+  "tr": "shrī7a",
+  "en": "slice (of meat, cheese, bread)",
+  "msa": "شريحة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "عطيني شريحتين جبنة.",
+  "ex_tr": "3Tīni shrī7tēn jibna.",
+  "ex_en": "Give me two slices of cheese.",
+  "note": "Also SIM card.",
+  "phrases": [
+   {
+    "ar": "شريحة لحم",
+    "tr": "shrī7at la7am",
+    "en": "a slice of meat"
+   },
+   {
+    "ar": "شرايح طماطم",
+    "tr": "sharāyi7 TmāTim",
+    "en": "tomato slices"
+   }
+  ]
+ },
+ {
+  "ar": "طرف",
+  "tr": "Taraf",
+  "en": "piece; bit (of food)",
+  "msa": "قطعة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 1,
+  "usage": 76,
+  "ex_ar": "عطيني طرف خبزة.",
+  "ex_tr": "3Tīni Taraf khubza.",
+  "ex_en": "Give me a piece of bread.",
+  "note": "Core Libyan word for \"a piece\"; pl. أطراف.",
+  "phrases": [
+   {
+    "ar": "طرف صغير",
+    "tr": "Taraf Sghīr",
+    "en": "a small piece"
+   },
+   {
+    "ar": "طرف لحم",
+    "tr": "Taraf la7am",
+    "en": "a piece of meat"
+   }
+  ]
+ },
+ {
+  "ar": "زلافة",
+  "tr": "zlāfa",
+  "en": "bowl (soup bowl)",
+  "msa": "زبدية",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "صب الشربة في الزلافات.",
+  "ex_tr": "Subb ish-sharba fiz-zlāfāt.",
+  "ex_en": "Pour the soup into the bowls.",
+  "note": "pl. زلايف zlāyif / زلافات",
+  "phrases": [
+   {
+    "ar": "زلافة شربة",
+    "tr": "zlāfat sharba",
+    "en": "a bowl of soup"
+   },
+   {
+    "ar": "زلافة كبيرة",
+    "tr": "zlāfa kbīra",
+    "en": "a big bowl"
+   }
+  ]
+ },
+ {
+  "ar": "قلاية",
+  "tr": "gallāya",
+  "en": "deep fryer",
+  "msa": "مقلاة كهربائية",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 25,
+  "ex_ar": "البطاطا في القلاية تطلع مقرمشة.",
+  "ex_tr": "il-baTāTa fil-gallāya tiTla3 mgarmsha.",
+  "ex_en": "Fries in the deep fryer come out crispy.",
+  "phrases": [
+   {
+    "ar": "قلاية هوائية",
+    "tr": "gallāya hawāʼiyya",
+    "en": "air fryer"
+   },
+   {
+    "ar": "قلاية كهربائية",
+    "tr": "gallāya kahrabāʼiyya",
+    "en": "electric fryer"
+   }
+  ]
+ },
+ {
+  "ar": "عجانة",
+  "tr": "3ajjāna",
+  "en": "dough mixer; stand mixer",
+  "msa": "عجانة",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 5,
+  "usage": 18,
+  "ex_ar": "عجانة تسهل خدمة العجين.",
+  "ex_tr": "3ajjāna tsahhil khidmat il-3jīn.",
+  "ex_en": "A mixer makes dough work easier.",
+  "phrases": [
+   {
+    "ar": "عجانة كهربائية",
+    "tr": "3ajjāna kahrabāʼiyya",
+    "en": "electric dough mixer"
+   },
+   {
+    "ar": "العجين في العجانة",
+    "tr": "il-3jīn fil-3ajjāna",
+    "en": "the dough is in the mixer"
+   }
+  ]
+ },
+ {
+  "ar": "طقم مواعين",
+  "tr": "Tagm mwā3īn",
+  "en": "set of dishes; dinner set",
+  "msa": "طقم أواني",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 26,
+  "ex_ar": "جبنا طقم مواعين جديد للعرس.",
+  "ex_tr": "jibna Tagm mwā3īn jdīd lil-3urs.",
+  "ex_en": "We got a new dinner set for the wedding.",
+  "note": "A typical bridal-trousseau item.",
+  "phrases": [
+   {
+    "ar": "طقم كاسات",
+    "tr": "Tagm kāsāt",
+    "en": "set of glasses"
+   },
+   {
+    "ar": "طقم فناجين",
+    "tr": "Tagm fnājīn",
+    "en": "set of coffee cups"
+   }
+  ]
+ },
+ {
+  "ar": "بيدون",
+  "tr": "bīdūn",
+  "en": "jerrycan; large plastic container",
+  "msa": "بيدون",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 31,
+  "ex_ar": "جبنا بيدون زيت زيتون من الجبل.",
+  "ex_tr": "jibna bīdūn zēt zītūn min ij-jbal.",
+  "ex_en": "We got a jerrycan of olive oil from the mountains.",
+  "note": "From French/Italian bidon.",
+  "phrases": [
+   {
+    "ar": "بيدون مية",
+    "tr": "bīdūn mayya",
+    "en": "a water jerrycan"
+   },
+   {
+    "ar": "بيدون زيت",
+    "tr": "bīdūn zēt",
+    "en": "an oil container"
+   }
+  ]
+ },
+ {
+  "ar": "خابية",
+  "tr": "khābya",
+  "en": "large clay jar (for oil or provisions)",
+  "msa": "خابية",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 5,
+  "usage": 18,
+  "ex_ar": "جدتي كانت تحط الزيت في الخابية.",
+  "ex_tr": "jaddti kānat t7uTT iz-zēt fil-khābya.",
+  "ex_en": "My grandmother kept the oil in the clay jar.",
+  "phrases": [
+   {
+    "ar": "خابية زيت",
+    "tr": "khābyat zēt",
+    "en": "oil jar"
+   },
+   {
+    "ar": "خابية فخار",
+    "tr": "khābyat fkhār",
+    "en": "clay jar"
+   }
+  ]
+ },
+ {
+  "ar": "تنور",
+  "tr": "tannūr",
+  "en": "clay bread oven",
+  "msa": "تنور",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "جدتي تخبز في التنور.",
+  "ex_tr": "jaddti tikhbiz fit-tannūr.",
+  "ex_en": "My grandmother bakes in the clay oven.",
+  "note": "Traditional oven in the yard; gives خبزة تنور.",
+  "phrases": [
+   {
+    "ar": "تنور طين",
+    "tr": "tannūr Tīn",
+    "en": "clay oven"
+   },
+   {
+    "ar": "حطب للتنور",
+    "tr": "7aTab lit-tannūr",
+    "en": "firewood for the oven"
+   }
+  ]
+ },
+ {
+  "ar": "ساطور",
+  "tr": "sāTūr",
+  "en": "meat cleaver",
+  "msa": "ساطور",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 5,
+  "usage": 20,
+  "ex_ar": "الجزار يقطع العضم بالساطور.",
+  "ex_tr": "ij-jazzār ygaTTa3 il-3aDam bis-sāTūr.",
+  "ex_en": "The butcher cuts bones with the cleaver.",
+  "phrases": [
+   {
+    "ar": "ساطور كبير",
+    "tr": "sāTūr kbīr",
+    "en": "a big cleaver"
+   },
+   {
+    "ar": "ساطور العيد",
+    "tr": "sāTūr il-3īd",
+    "en": "the Eid cleaver"
+   }
+  ]
+ },
+ {
+  "ar": "بابور",
+  "tr": "bābūr",
+  "en": "primus stove; portable kerosene stove",
+  "msa": "موقد كيروسين",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 5,
+  "usage": 20,
+  "ex_ar": "في الكشك كانوا يطيبو على البابور.",
+  "ex_tr": "fil-kashk kānu yTayybu 3al-bābūr.",
+  "ex_en": "In the hut they used to cook on the primus stove.",
+  "note": "Also \"ship\"; now also small gas camping stoves.",
+  "phrases": [
+   {
+    "ar": "بابور غاز",
+    "tr": "bābūr ghāz",
+    "en": "camping gas stove"
+   },
+   {
+    "ar": "شاهي على البابور",
+    "tr": "shāhi 3al-bābūr",
+    "en": "tea on the primus"
+   }
+  ]
+ },
+ {
+  "ar": "أسطوانة غاز",
+  "tr": "usTuwānat ghāz",
+  "en": "gas cylinder; gas bottle",
+  "msa": "أسطوانة غاز",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "الأسطوانة وفت، لازم نبدلوها.",
+  "ex_tr": "il-usTuwāna waffat, lāzim inbaddlūha.",
+  "ex_en": "The gas cylinder ran out, we need to swap it.",
+  "note": "Shortages of cooking-gas cylinders are a frequent topic in Libya.",
+  "phrases": [
+   {
+    "ar": "طابور الأسطوانات",
+    "tr": "Tābūr il-usTuwānāt",
+    "en": "the gas-cylinder queue"
+   },
+   {
+    "ar": "أسطوانة غاز مليانة",
+    "tr": "usTuwānat ghāz malyāna",
+    "en": "a full gas cylinder"
+   }
+  ]
+ },
+ {
+  "ar": "صابون مواعين",
+  "tr": "Sābūn mwā3īn",
+  "en": "dish soap; washing-up liquid",
+  "msa": "سائل الجلي",
+  "pos": "noun",
+  "cat": "kitchen",
+  "freq": 4,
+  "usage": 31,
+  "ex_ar": "صابون المواعين وفى.",
+  "ex_tr": "Sābūn il-mwā3īn wfa.",
+  "ex_en": "The dish soap has run out.",
+  "phrases": [
+   {
+    "ar": "قرعة صابون مواعين",
+    "tr": "gar3at Sābūn mwā3īn",
+    "en": "a bottle of dish soap"
+   },
+   {
+    "ar": "شوية صابون مواعين",
+    "tr": "shwayya Sābūn mwā3īn",
+    "en": "a little dish soap"
+   }
+  ]
+ },
+ {
+  "ar": "صوص",
+  "tr": "Sōs",
+  "en": "sauce (restaurant sauce)",
+  "msa": "صلصة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "نبي صوص زيادة مع البطاطا.",
+  "ex_tr": "nibbi Sōs zyāda ma3a l-baTāTa.",
+  "ex_en": "I want extra sauce with the fries.",
+  "note": "Home tomato sauce is مرقة / صلصة.",
+  "phrases": [
+   {
+    "ar": "صوص ثوم",
+    "tr": "Sōs thūm",
+    "en": "garlic sauce"
+   },
+   {
+    "ar": "صوص حار",
+    "tr": "Sōs 7ārr",
+    "en": "hot sauce"
+   }
+  ]
+ },
+ {
+  "ar": "زيت نباتي",
+  "tr": "zēt nabāti",
+  "en": "vegetable oil; cooking oil",
+  "msa": "زيت نباتي",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "القلي بالزيت النباتي.",
+  "ex_tr": "il-gali biz-zēt in-nabāti.",
+  "ex_en": "Frying is done with vegetable oil.",
+  "note": "Olive oil is plain زيت or زيت زيتون.",
+  "phrases": [
+   {
+    "ar": "قرعة زيت نباتي",
+    "tr": "gar3at zēt nabāti",
+    "en": "a bottle of vegetable oil"
+   },
+   {
+    "ar": "زيت عباد الشمس",
+    "tr": "zēt 3abbād ish-shams",
+    "en": "sunflower oil"
+   }
+  ]
+ },
+ {
+  "ar": "مخلل",
+  "tr": "mkhallal",
+  "en": "pickles; pickled vegetables",
+  "msa": "مخلل",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "حط مخلل مع الشاورما.",
+  "ex_tr": "7uTT mkhallal ma3a sh-shāwarma.",
+  "ex_en": "Put pickles in the shawarma.",
+  "note": "Also called مسيّر msayyar in Libya.",
+  "phrases": [
+   {
+    "ar": "مخلل خيار",
+    "tr": "mkhallal khyār",
+    "en": "pickled cucumbers"
+   },
+   {
+    "ar": "برطمان مخلل",
+    "tr": "barTmān mkhallal",
+    "en": "a jar of pickles"
+   }
+  ]
+ },
+ {
+  "ar": "عجوة",
+  "tr": "3ajwa",
+  "en": "date paste",
+  "msa": "عجوة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "المقروض محشي بالعجوة.",
+  "ex_tr": "il-magrūD ma7shi bil-3ajwa.",
+  "ex_en": "Makrud is filled with date paste.",
+  "phrases": [
+   {
+    "ar": "عجوة تمر",
+    "tr": "3ajwat tmar",
+    "en": "date paste"
+   },
+   {
+    "ar": "كيلو عجوة",
+    "tr": "kīlu 3ajwa",
+    "en": "a kilo of date paste"
+   }
+  ]
+ },
+ {
+  "ar": "مملح",
+  "tr": "mmalla7",
+  "en": "salted",
+  "msa": "مملح",
+  "pos": "adj",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الحوت هذا مملح ومجفف.",
+  "ex_tr": "il-7ūt hādha mmalla7 w mjaffaf.",
+  "ex_en": "This fish is salted and dried.",
+  "phrases": [
+   {
+    "ar": "كاكاوية مملحة",
+    "tr": "kākāwiya mmall7a",
+    "en": "salted peanuts"
+   },
+   {
+    "ar": "زبدة بلا ملح",
+    "tr": "zibda bla mil7",
+    "en": "unsalted butter"
+   }
+  ]
+ },
+ {
+  "ar": "معلب",
+  "tr": "m3allab",
+  "en": "canned; tinned; packaged",
+  "msa": "معلب",
+  "pos": "adj",
+  "cat": "food",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "الماكلة المعلبة مش صحية هلبة.",
+  "ex_tr": "il-mākla l-m3allba mush Sa77iyya hallba.",
+  "ex_en": "Canned food isn't very healthy.",
+  "phrases": [
+   {
+    "ar": "حمص معلب",
+    "tr": "7ummuS m3allab",
+    "en": "canned chickpeas"
+   },
+   {
+    "ar": "ماكلة معلبة",
+    "tr": "mākla m3allba",
+    "en": "canned food"
+   }
+  ]
+ },
+ {
+  "ar": "مقرمش",
+  "tr": "mgarmish",
+  "en": "crispy; crunchy",
+  "msa": "مقرمش",
+  "pos": "adj",
+  "cat": "food",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "البطاطا طلعت مقرمشة.",
+  "ex_tr": "il-baTāTa Tal3at mgarmsha.",
+  "ex_en": "The fries came out crispy.",
+  "phrases": [
+   {
+    "ar": "دجاج مقرمش",
+    "tr": "djāj mgarmish",
+    "en": "crispy chicken"
+   },
+   {
+    "ar": "خبزة مقرمشة",
+    "tr": "khubza mgarmsha",
+    "en": "crusty bread"
+   }
+  ]
+ },
+ {
+  "ar": "نباتي",
+  "tr": "nabāti",
+  "en": "vegetarian",
+  "msa": "نباتي",
+  "pos": "adj",
+  "cat": "food",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "أختي نباتية، ما تاكلش اللحم.",
+  "ex_tr": "ukhti nabātiyya, ma tākulsh il-la7am.",
+  "ex_en": "My sister is vegetarian, she doesn't eat meat.",
+  "note": "Also \"plant-based\" (زيت نباتي).",
+  "phrases": [
+   {
+    "ar": "ماكلة نباتية",
+    "tr": "mākla nabātiyya",
+    "en": "vegetarian food"
+   },
+   {
+    "ar": "بيتزا نباتية",
+    "tr": "pītza nabātiyya",
+    "en": "vegetarian pizza"
+   }
+  ]
+ },
+ {
+  "ar": "مكسرات",
+  "tr": "mkassarāt",
+  "en": "mixed nuts",
+  "msa": "مكسرات",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "في العيد نشروا مكسرات.",
+  "ex_tr": "fil-3īd nishru mkassarāt.",
+  "ex_en": "At Eid we buy mixed nuts.",
+  "phrases": [
+   {
+    "ar": "مكسرات محمصة",
+    "tr": "mkassarāt m7ammSa",
+    "en": "roasted nuts"
+   },
+   {
+    "ar": "صحن مكسرات",
+    "tr": "Sa7n mkassarāt",
+    "en": "a dish of nuts"
+   }
+  ]
+ },
+ {
+  "ar": "تصبيرة",
+  "tr": "taSbīra",
+  "en": "small snack (to tide you over)",
+  "msa": "وجبة خفيفة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "كول تصبيرة لين يوجد الغدا.",
+  "ex_tr": "kūl taSbīra līn yūjad il-ghda.",
+  "ex_en": "Have a little snack until lunch is ready.",
+  "note": "From صبّر \"to make patient\".",
+  "phrases": [
+   {
+    "ar": "تصبيرة صغيرة",
+    "tr": "taSbīra Sghayyra",
+    "en": "a little snack"
+   },
+   {
+    "ar": "تصبيرة قبل الفطور",
+    "tr": "taSbīra gbal il-fTūr",
+    "en": "a snack before the meal"
+   }
+  ]
+ },
+ {
+  "ar": "كوردون بلو",
+  "tr": "kordon blu",
+  "en": "cordon bleu (stuffed breaded chicken)",
+  "msa": "كوردون بلو",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "نبي كوردون بلو مع رز.",
+  "ex_tr": "nibbi kordon blu ma3a ruzz.",
+  "ex_en": "I want cordon bleu with rice.",
+  "note": "Common on Libyan restaurant menus.",
+  "phrases": [
+   {
+    "ar": "كوردون بلو دجاج",
+    "tr": "kordon blu djāj",
+    "en": "chicken cordon bleu"
+   },
+   {
+    "ar": "وجبة كوردون بلو",
+    "tr": "wajbat kordon blu",
+    "en": "cordon bleu meal"
+   }
+  ]
+ },
+ {
+  "ar": "فاست فود",
+  "tr": "fāst fūd",
+  "en": "fast food",
+  "msa": "وجبات سريعة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الفاست فود كثر في طرابلس.",
+  "ex_tr": "il-fāst fūd kthar fi Trābulus.",
+  "ex_en": "Fast food has spread in Tripoli.",
+  "phrases": [
+   {
+    "ar": "مطعم فاست فود",
+    "tr": "maT3am fāst fūd",
+    "en": "a fast-food restaurant"
+   },
+   {
+    "ar": "كل يوم فاست فود",
+    "tr": "kull yōm fāst fūd",
+    "en": "fast food every day"
+   }
+  ]
+ },
+ {
+  "ar": "بيتزيريا",
+  "tr": "pītzērya",
+  "en": "pizzeria",
+  "msa": "مطعم بيتزا",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "البيتزيريا هذي تدير بيتزا بنينة.",
+  "ex_tr": "il-pītzērya hādhi tdīr pītza bnīna.",
+  "ex_en": "This pizzeria makes good pizza.",
+  "note": "Italian loan.",
+  "phrases": [
+   {
+    "ar": "بيتزيريا قريبة",
+    "tr": "pītzērya grība",
+    "en": "a nearby pizzeria"
+   },
+   {
+    "ar": "رقم البيتزيريا",
+    "tr": "ragm il-pītzērya",
+    "en": "the pizzeria's number"
+   }
+  ]
+ },
+ {
+  "ar": "عيش وملح",
+  "tr": "3īsh w mil7",
+  "en": "bread and salt (bond of shared meals)",
+  "msa": "عيش وملح",
+  "pos": "phrase",
+  "cat": "food",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "بيناتنا عيش وملح.",
+  "ex_tr": "bīnātna 3īsh w mil7.",
+  "ex_en": "We've shared bread and salt (we're bound by friendship).",
+  "note": "Shared food creates loyalty; betraying it is shameful.",
+  "phrases": [
+   {
+    "ar": "ما يخونش العيش والملح",
+    "tr": "ma ykhūnsh il-3īsh wil-mil7",
+    "en": "he doesn't betray the bond"
+   },
+   {
+    "ar": "كلينا عيش وملح مع بعض",
+    "tr": "klēna 3īsh w mil7 ma3a ba3D",
+    "en": "we've eaten together (we're close)"
+   }
+  ]
+ },
+ {
+  "ar": "ماكلة الحوش",
+  "tr": "mākla l-7ōsh",
+  "en": "home cooking",
+  "msa": "طعام البيت",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "ما فيش كيف ماكلة الحوش.",
+  "ex_tr": "ma fīsh kīf mākla l-7ōsh.",
+  "ex_en": "There's nothing like home cooking.",
+  "phrases": [
+   {
+    "ar": "توحشت ماكلة الحوش",
+    "tr": "twa77asht mākla l-7ōsh",
+    "en": "I miss home cooking"
+   },
+   {
+    "ar": "ماكلة الحوش أنظف",
+    "tr": "mākla l-7ōsh anDHaf",
+    "en": "home food is cleaner"
+   }
+  ]
+ },
+ {
+  "ar": "شهية",
+  "tr": "shahiyya",
+  "en": "appetite",
+  "msa": "شهية",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 35,
+  "ex_ar": "الصغير ما عندهش شهية اليوم.",
+  "ex_tr": "iS-Sghayyir ma 3indhāsh shahiyya l-yōm.",
+  "ex_en": "The little one has no appetite today.",
+  "note": "Libyans also say ما عنديش نفس.",
+  "phrases": [
+   {
+    "ar": "شهية مفتوحة",
+    "tr": "shahiyya maftū7a",
+    "en": "a good appetite"
+   },
+   {
+    "ar": "سد الشهية",
+    "tr": "sadd ish-shahiyya",
+    "en": "it spoils your appetite"
+   }
+  ]
+ },
+ {
+  "ar": "ملوحة",
+  "tr": "mlū7a",
+  "en": "saltiness",
+  "msa": "ملوحة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 20,
+  "ex_ar": "فيه ملوحة زايدة في الشربة.",
+  "ex_tr": "fīh mlū7a zāyda fish-sharba.",
+  "ex_en": "There's too much salt in the soup.",
+  "phrases": [
+   {
+    "ar": "ملوحة الحوت",
+    "tr": "mlū7at il-7ūt",
+    "en": "the fish's saltiness"
+   },
+   {
+    "ar": "ملوحة خفيفة",
+    "tr": "mlū7a khfīfa",
+    "en": "slightly salty"
+   }
+  ]
+ },
+ {
+  "ar": "سعرات",
+  "tr": "si3rāt",
+  "en": "calories",
+  "msa": "سعرات حرارية",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 20,
+  "ex_ar": "الحلو فيه سعرات هلبة.",
+  "ex_tr": "il-7lū fīh si3rāt hallba.",
+  "ex_en": "Sweets have a lot of calories.",
+  "note": "Full form سعرات حرارية.",
+  "phrases": [
+   {
+    "ar": "نحسب السعرات",
+    "tr": "ni7sib is-si3rāt",
+    "en": "I count calories"
+   },
+   {
+    "ar": "سعرات قليلة",
+    "tr": "si3rāt glīla",
+    "en": "few calories"
+   }
+  ]
  }
 ]

@@ -1,0 +1,6664 @@
+[
+  {
+    "ar": "أرض",
+    "tr": "arD",
+    "en": "land; ground; earth",
+    "msa": "أرض",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 1,
+    "usage": 72,
+    "ex_ar": "طاح الكاس على الأرض.",
+    "ex_tr": "Tā7 il-kās 3la l-arD.",
+    "ex_en": "The glass fell on the floor.",
+    "note": "pl. أراضي arāDi. على الأرض = on the floor/ground.",
+    "phrases": [
+      {
+        "ar": "شري قطعة أرض",
+        "tr": "shra giT3at arD",
+        "en": "he bought a plot of land"
+      },
+      {
+        "ar": "الأرض مبلولة",
+        "tr": "il-arD mablūla",
+        "en": "the ground is wet"
+      },
+      {
+        "ar": "كوكب الأرض",
+        "tr": "kawkab il-arD",
+        "en": "planet Earth"
+      }
+    ]
+  },
+  {
+    "ar": "هوا",
+    "tr": "hwa",
+    "en": "air; breeze",
+    "msa": "هواء",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 64,
+    "ex_ar": "افتح الشباك خلي الهوا يدخل.",
+    "ex_tr": "iftaH ish-shubbāk khalli l-hwa yidkhul.",
+    "ex_en": "Open the window, let the air in.",
+    "note": "Also \"wind\" in phrases like الهوا قوي.",
+    "phrases": [
+      {
+        "ar": "هوا نقي",
+        "tr": "hwa nagi",
+        "en": "fresh clean air"
+      },
+      {
+        "ar": "الهوا اليوم قوي",
+        "tr": "il-hwa il-yōm gwi",
+        "en": "the wind is strong today"
+      },
+      {
+        "ar": "نطلعوا نشمّوا الهوا",
+        "tr": "niTla3u nshimmu l-hwa",
+        "en": "let's go out for some fresh air"
+      }
+    ]
+  },
+  {
+    "ar": "نار",
+    "tr": "nār",
+    "en": "fire",
+    "msa": "نار",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 1,
+    "usage": 70,
+    "ex_ar": "شعلوا النار باش يتدفوا.",
+    "ex_tr": "sha3lu n-nār bāsh yiddaffu.",
+    "ex_en": "They lit a fire to warm up.",
+    "note": "Feminine. pl. نيران nirān.",
+    "phrases": [
+      {
+        "ar": "النار شاعلة",
+        "tr": "in-nār shā3la",
+        "en": "the fire is burning"
+      },
+      {
+        "ar": "طفي النار",
+        "tr": "Taffi n-nār",
+        "en": "put out the fire"
+      },
+      {
+        "ar": "على نار هادية",
+        "tr": "3la nār hādya",
+        "en": "on a low flame"
+      }
+    ]
+  },
+  {
+    "ar": "تلّة",
+    "tr": "talla",
+    "en": "hill",
+    "msa": "تلّة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 38,
+    "ex_ar": "الحوش فوق تلّة صغيرة.",
+    "ex_tr": "il-7ōsh fōg talla Sghayra.",
+    "ex_en": "The house is on top of a small hill.",
+    "note": "pl. تلال tlāl. Also تل tall.",
+    "phrases": [
+      {
+        "ar": "طلعنا فوق التلّة",
+        "tr": "Tla3na fōg it-talla",
+        "en": "we climbed up the hill"
+      },
+      {
+        "ar": "ورا التلال",
+        "tr": "wara t-tlāl",
+        "en": "behind the hills"
+      }
+    ]
+  },
+  {
+    "ar": "غار",
+    "tr": "ghār",
+    "en": "cave",
+    "msa": "كهف",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "فيه غار قديم في الجبل.",
+    "ex_tr": "fīh ghār gdīm fi l-jbal.",
+    "ex_en": "There is an old cave in the mountain.",
+    "note": "pl. غيران ghīrān. كهف kahf is the formal word.",
+    "phrases": [
+      {
+        "ar": "دخلنا للغار",
+        "tr": "dkhalna lil-ghār",
+        "en": "we went into the cave"
+      },
+      {
+        "ar": "الغار ضلمة",
+        "tr": "il-ghār Dalma",
+        "en": "the cave is dark"
+      }
+    ]
+  },
+  {
+    "ar": "غرد",
+    "tr": "ghurd",
+    "en": "sand dune",
+    "msa": "كثيب",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 22,
+    "ex_ar": "طلعنا بالسيارة فوق الغرد.",
+    "ex_tr": "Tla3na bis-sayyāra fōg il-ghurd.",
+    "ex_en": "We drove up the sand dune.",
+    "note": "pl. غرود ghrūd. Saharan word; in the city people often just say كدس رملة or رملة.",
+    "phrases": [
+      {
+        "ar": "غرود الرملة في الجنوب",
+        "tr": "ghrūd ir-rmla fil-janūb",
+        "en": "the sand dunes in the south"
+      },
+      {
+        "ar": "نتزحلقوا من فوق الغرد",
+        "tr": "nitza7lgu min fōg il-ghurd",
+        "en": "we slide down the dune"
+      }
+    ]
+  },
+  {
+    "ar": "ساحل",
+    "tr": "sā7il",
+    "en": "coast",
+    "msa": "ساحل",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 52,
+    "ex_ar": "أغلب الناس ساكنين على الساحل.",
+    "ex_tr": "aghlab in-nās sāknīn 3la s-sā7il.",
+    "ex_en": "Most people live on the coast.",
+    "note": "pl. سواحل swā7il. In Libya الساحل also names the coastal strip/towns.",
+    "phrases": [
+      {
+        "ar": "مدن الساحل",
+        "tr": "mudun is-sā7il",
+        "en": "the coastal towns"
+      },
+      {
+        "ar": "الطريق الساحلي",
+        "tr": "iT-Trīg is-sā7li",
+        "en": "the coastal road"
+      }
+    ]
+  },
+  {
+    "ar": "سهل",
+    "tr": "sahl",
+    "en": "plain; flat land",
+    "msa": "سهل",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 30,
+    "ex_ar": "سهل الجفارة فيه هلبة سواني.",
+    "ex_tr": "sahl ij-jfāra fīh hallba swāni.",
+    "ex_en": "The Jefara plain has lots of farms.",
+    "note": "pl. سهول suhūl. Same spelling as the adjective سهل \"easy\".",
+    "phrases": [
+      {
+        "ar": "أرض سهل",
+        "tr": "arD sahl",
+        "en": "flat open land"
+      },
+      {
+        "ar": "السهول والجبال",
+        "tr": "is-suhūl w-ij-jbāl",
+        "en": "plains and mountains"
+      }
+    ]
+  },
+  {
+    "ar": "صخرة",
+    "tr": "Sakhra",
+    "en": "rock; boulder",
+    "msa": "صخرة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 42,
+    "ex_ar": "قعدنا فوق صخرة جنب البحر.",
+    "ex_tr": "ga3adna fōg Sakhra jamb il-ba7ar.",
+    "ex_en": "We sat on a rock by the sea.",
+    "note": "pl. صخور Skhūr.",
+    "phrases": [
+      {
+        "ar": "صخرة كبيرة",
+        "tr": "Sakhra kbīra",
+        "en": "a big boulder"
+      },
+      {
+        "ar": "البحر فيه صخور",
+        "tr": "il-ba7ar fīh Skhūr",
+        "en": "there are rocks in the sea"
+      }
+    ]
+  },
+  {
+    "ar": "طين",
+    "tr": "Tīn",
+    "en": "mud; clay",
+    "msa": "طين",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 48,
+    "ex_ar": "سباطي كله طين من المطر.",
+    "ex_tr": "sbāTi kulla Tīn min il-maTar.",
+    "ex_en": "My shoes are all mud from the rain.",
+    "phrases": [
+      {
+        "ar": "تزلقت في الطين",
+        "tr": "tzallagt fiT-Tīn",
+        "en": "I slipped in the mud"
+      },
+      {
+        "ar": "حوش من طين",
+        "tr": "7ōsh min Tīn",
+        "en": "a mud-brick house"
+      },
+      {
+        "ar": "زير طين",
+        "tr": "zīr Tīn",
+        "en": "a clay water jar"
+      }
+    ]
+  },
+  {
+    "ar": "غبرة",
+    "tr": "ghabra",
+    "en": "dust",
+    "msa": "غبار",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 50,
+    "ex_ar": "الحوش كله غبرة بعد القبلي.",
+    "ex_tr": "il-7ōsh kulla ghabra ba3d il-gibli.",
+    "ex_en": "The house is full of dust after the ghibli.",
+    "note": "The fine dust on furniture or in the air; تراب is dirt/soil.",
+    "phrases": [
+      {
+        "ar": "نفض الغبرة",
+        "tr": "naffaD il-ghabra",
+        "en": "dust it off"
+      },
+      {
+        "ar": "فيه غبرة في الجو",
+        "tr": "fīh ghabra fij-jaww",
+        "en": "there is dust in the air"
+      }
+    ]
+  },
+  {
+    "ar": "نهر",
+    "tr": "nahar",
+    "en": "river",
+    "msa": "نهر",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 40,
+    "ex_ar": "ليبيا ما فيهاش نهر.",
+    "ex_tr": "lībya ma fīhāsh nahar.",
+    "ex_en": "Libya has no river.",
+    "note": "pl. أنهار anhār. Libya has no permanent river; النهر الصناعي = the Great Man-Made River.",
+    "phrases": [
+      {
+        "ar": "النهر الصناعي",
+        "tr": "in-nahar iS-Sinā3i",
+        "en": "the Man-Made River"
+      },
+      {
+        "ar": "نهر النيل",
+        "tr": "nahar in-nīl",
+        "en": "the Nile river"
+      }
+    ]
+  },
+  {
+    "ar": "بحيرة",
+    "tr": "b7ēra",
+    "en": "lake",
+    "msa": "بحيرة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "بحيرات أوباري في وسط الرملة.",
+    "ex_tr": "b7ērāt ubāri fi wusT ir-rmla.",
+    "ex_en": "The Ubari lakes are in the middle of the sand.",
+    "note": "pl. بحيرات b7ērāt. Libya's famous ones are the Ubari lakes (بحيرات أوباري).",
+    "phrases": [
+      {
+        "ar": "بحيرة مالحة",
+        "tr": "b7ēra māl7a",
+        "en": "a salt lake"
+      },
+      {
+        "ar": "عمت في البحيرة",
+        "tr": "3umt fil-b7ēra",
+        "en": "I swam in the lake"
+      }
+    ]
+  },
+  {
+    "ar": "شلّال",
+    "tr": "shallāl",
+    "en": "waterfall",
+    "msa": "شلّال",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "شلال دربنة في الجبل الأخضر.",
+    "ex_tr": "shallāl darbna fij-jbal il-akhDar.",
+    "ex_en": "The Derna waterfall is in the Green Mountain.",
+    "note": "pl. شلالات shallālāt.",
+    "phrases": [
+      {
+        "ar": "شلال مية",
+        "tr": "shallāl mayya",
+        "en": "a waterfall"
+      },
+      {
+        "ar": "صورة عند الشلال",
+        "tr": "Sūra 3ind ish-shallāl",
+        "en": "a photo at the waterfall"
+      }
+    ]
+  },
+  {
+    "ar": "خليج",
+    "tr": "khalīj",
+    "en": "gulf; bay",
+    "msa": "خليج",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "خليج سرت كبير هلبة.",
+    "ex_tr": "khalīj surt kbīr hallba.",
+    "ex_en": "The Gulf of Sirte is very big.",
+    "note": "خليج سرت = Gulf of Sirte.",
+    "phrases": [
+      {
+        "ar": "دول الخليج",
+        "tr": "duwal il-khalīj",
+        "en": "the Gulf countries"
+      },
+      {
+        "ar": "البحر في الخليج هادي",
+        "tr": "il-ba7ar fil-khalīj hādi",
+        "en": "the sea in the bay is calm"
+      }
+    ]
+  },
+  {
+    "ar": "مرسى",
+    "tr": "mirsa",
+    "en": "anchorage; small harbour",
+    "msa": "مرسى",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "الفلايك مربوطة في المرسى.",
+    "ex_tr": "il-flāyik marbūTa fil-mirsa.",
+    "ex_en": "The boats are tied up in the harbour.",
+    "note": "Appears in place names (مرسى البريقة). pl. مراسي marāsi.",
+    "phrases": [
+      {
+        "ar": "مرسى الصيادين",
+        "tr": "mirsa iS-Sayyādīn",
+        "en": "the fishermen's harbour"
+      },
+      {
+        "ar": "رجعنا للمرسى",
+        "tr": "rja3na lil-mirsa",
+        "en": "we went back to the harbour"
+      }
+    ]
+  },
+  {
+    "ar": "محيط",
+    "tr": "mu7īT",
+    "en": "ocean",
+    "msa": "محيط",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 30,
+    "ex_ar": "المحيط أكبر من البحر.",
+    "ex_tr": "il-mu7īT akbar min il-ba7ar.",
+    "ex_en": "The ocean is bigger than the sea.",
+    "note": "pl. محيطات mu7īTāt. Also \"surroundings\".",
+    "phrases": [
+      {
+        "ar": "المحيط الأطلسي",
+        "tr": "il-mu7īT il-aTlasi",
+        "en": "the Atlantic Ocean"
+      },
+      {
+        "ar": "قطعوا المحيط",
+        "tr": "gaT3u l-mu7īT",
+        "en": "they crossed the ocean"
+      }
+    ]
+  },
+  {
+    "ar": "قارة",
+    "tr": "gāra",
+    "en": "continent",
+    "msa": "قارة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "أفريقيا قارة كبيرة.",
+    "ex_tr": "afrīgya gāra kbīra.",
+    "ex_en": "Africa is a big continent.",
+    "note": "pl. قارات gārāt. In the desert قارة also means an isolated flat-topped hill.",
+    "phrases": [
+      {
+        "ar": "قارة أوروبا",
+        "tr": "gārat ūrūbba",
+        "en": "the continent of Europe"
+      },
+      {
+        "ar": "سبع قارات",
+        "tr": "sab3 gārāt",
+        "en": "seven continents"
+      }
+    ]
+  },
+  {
+    "ar": "هضبة",
+    "tr": "haDba",
+    "en": "plateau",
+    "msa": "هضبة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 22,
+    "ex_ar": "المدينة فوق هضبة عالية.",
+    "ex_tr": "il-madīna fōg haDba 3ālya.",
+    "ex_en": "The town is on a high plateau.",
+    "note": "pl. هضاب hDāb.",
+    "phrases": [
+      {
+        "ar": "هضبة صخرية",
+        "tr": "haDba Sakhriyya",
+        "en": "a rocky plateau"
+      },
+      {
+        "ar": "فوق الهضبة برد",
+        "tr": "fōg il-haDba bard",
+        "en": "it's cold up on the plateau"
+      }
+    ]
+  },
+  {
+    "ar": "حمادة",
+    "tr": "7māda",
+    "en": "stony desert plain",
+    "msa": "حمادة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "الحمادة كلها حجر ما فيهاش رملة.",
+    "ex_tr": "il-7māda kullha 7jar ma fīhāsh rmla.",
+    "ex_en": "The hamada is all stone, no sand.",
+    "note": "Flat rocky desert, as in الحمادة الحمراء (Hamada al-Hamra) in western Libya.",
+    "phrases": [
+      {
+        "ar": "الحمادة الحمرا",
+        "tr": "il-7māda il-7amra",
+        "en": "the Red Hamada"
+      },
+      {
+        "ar": "قطعنا الحمادة",
+        "tr": "gaTa3na l-7māda",
+        "en": "we crossed the stony desert"
+      }
+    ]
+  },
+  {
+    "ar": "قمّة",
+    "tr": "gimma",
+    "en": "summit; top",
+    "msa": "قمّة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 38,
+    "ex_ar": "وصلنا لقمة الجبل.",
+    "ex_tr": "wSalna l-gimmat il-jbal.",
+    "ex_en": "We reached the top of the mountain.",
+    "note": "pl. قمم gimam. Also a \"summit\" meeting.",
+    "phrases": [
+      {
+        "ar": "فوق القمة",
+        "tr": "fōg il-gimma",
+        "en": "at the top"
+      },
+      {
+        "ar": "قمة عالية",
+        "tr": "gimma 3ālya",
+        "en": "a high peak"
+      }
+    ]
+  },
+  {
+    "ar": "برّ",
+    "tr": "barr",
+    "en": "the open country; outdoors; mainland",
+    "msa": "برّ",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 54,
+    "ex_ar": "الجمعة الجاية بنطلعوا للبر.",
+    "ex_tr": "ij-jum3a ij-jāya bniTla3u lil-barr.",
+    "ex_en": "Next week we'll go out to the countryside.",
+    "note": "Very Libyan: طلعنا للبر = we went out to the countryside/desert for a picnic or camping trip.",
+    "phrases": [
+      {
+        "ar": "طلعة بر",
+        "tr": "Tal3at barr",
+        "en": "a countryside outing"
+      },
+      {
+        "ar": "قعدنا في البر ليلتين",
+        "tr": "ga3adna fil-barr lēltēn",
+        "en": "we camped out two nights"
+      },
+      {
+        "ar": "البر والبحر",
+        "tr": "il-barr w-il-ba7ar",
+        "en": "land and sea"
+      }
+    ]
+  },
+  {
+    "ar": "خلا",
+    "tr": "khla",
+    "en": "wilderness; empty open land",
+    "msa": "خلاء",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 40,
+    "ex_ar": "السيارة وقفت بينا في الخلا.",
+    "ex_tr": "is-sayyāra wigfat bīna fil-khla.",
+    "ex_en": "The car broke down on us in the middle of nowhere.",
+    "note": "في الخلا = out in the middle of nowhere.",
+    "phrases": [
+      {
+        "ar": "أرض خلا",
+        "tr": "arD khla",
+        "en": "empty land"
+      },
+      {
+        "ar": "ما فيه حد في الخلا",
+        "tr": "ma fīh 7add fil-khla",
+        "en": "there's nobody out in the wilds"
+      }
+    ]
+  },
+  {
+    "ar": "ريف",
+    "tr": "rīf",
+    "en": "countryside",
+    "msa": "ريف",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "جدي عايش في الريف.",
+    "ex_tr": "jaddi 3āyish fir-rīf.",
+    "ex_en": "My grandfather lives in the countryside.",
+    "phrases": [
+      {
+        "ar": "حياة الريف",
+        "tr": "7ayāt ir-rīf",
+        "en": "country life"
+      },
+      {
+        "ar": "من الريف للمدينة",
+        "tr": "min ir-rīf lil-madīna",
+        "en": "from the countryside to the city"
+      }
+    ]
+  },
+  {
+    "ar": "منظر",
+    "tr": "manDHar",
+    "en": "view; scenery",
+    "msa": "منظر",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "المنظر من فوق الجبل يهبل.",
+    "ex_tr": "il-manDHar min fōg il-jbal yhabbil.",
+    "ex_en": "The view from the mountain top is amazing.",
+    "note": "pl. مناظر manāDHir.",
+    "phrases": [
+      {
+        "ar": "منظر البحر",
+        "tr": "manDHar il-ba7ar",
+        "en": "the sea view"
+      },
+      {
+        "ar": "مناظر طبيعية",
+        "tr": "manāDHir Tabī3iyya",
+        "en": "natural scenery"
+      }
+    ]
+  },
+  {
+    "ar": "حصى",
+    "tr": "7Sa",
+    "en": "pebbles; gravel",
+    "msa": "حصى",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "الشط هذا كله حصى مش رملة.",
+    "ex_tr": "ish-shaTT hādha kulla 7Sa mush rmla.",
+    "ex_en": "This beach is all pebbles, not sand.",
+    "note": "Singular حصاية 7Sāya (a pebble).",
+    "phrases": [
+      {
+        "ar": "حصى صغير",
+        "tr": "7Sa Sghayyir",
+        "en": "small pebbles"
+      },
+      {
+        "ar": "حصاية في السباط",
+        "tr": "7Sāya fis-sbāT",
+        "en": "a pebble in the shoe"
+      }
+    ]
+  },
+  {
+    "ar": "بركة",
+    "tr": "birka",
+    "en": "pond; pool of water; puddle",
+    "msa": "بركة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "المطر خلّى برك في الطريق.",
+    "ex_tr": "il-maTar khalla birak fiT-Trīg.",
+    "ex_en": "The rain left puddles on the road.",
+    "note": "pl. برك birak. Different from بركة baraka \"blessing\".",
+    "phrases": [
+      {
+        "ar": "بركة مية",
+        "tr": "birkat mayya",
+        "en": "a pool of water"
+      },
+      {
+        "ar": "البط في البركة",
+        "tr": "il-baTT fil-birka",
+        "en": "the ducks in the pond"
+      }
+    ]
+  },
+  {
+    "ar": "قاع",
+    "tr": "gā3",
+    "en": "bottom (of sea, well); floor",
+    "msa": "قاع",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "الخاتم طاح لقاع البحر.",
+    "ex_tr": "il-khātim Tā7 l-gā3 il-ba7ar.",
+    "ex_en": "The ring fell to the bottom of the sea.",
+    "phrases": [
+      {
+        "ar": "قاع البير",
+        "tr": "gā3 il-bīr",
+        "en": "the bottom of the well"
+      },
+      {
+        "ar": "من القاع",
+        "tr": "min il-gā3",
+        "en": "from the bottom"
+      }
+    ]
+  },
+  {
+    "ar": "نسمة",
+    "tr": "nisma",
+    "en": "breeze",
+    "msa": "نسمة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 42,
+    "ex_ar": "فيه نسمة باردة جاية من البحر.",
+    "ex_tr": "fīh nisma bārda jāya min il-ba7ar.",
+    "ex_en": "There's a cool breeze coming from the sea.",
+    "note": "Also used for a \"soul/person\" in counts (عدد النسمات).",
+    "phrases": [
+      {
+        "ar": "نسمة هوا",
+        "tr": "nismat hwa",
+        "en": "a breath of air"
+      },
+      {
+        "ar": "نسمة العشية",
+        "tr": "nismat il-3ashiyya",
+        "en": "the evening breeze"
+      }
+    ]
+  },
+  {
+    "ar": "غيمة",
+    "tr": "ghēma",
+    "en": "a cloud",
+    "msa": "غيمة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 46,
+    "ex_ar": "فيه غيمة كحلة جاية.",
+    "ex_tr": "fīh ghēma ka7la jāya.",
+    "ex_en": "There's a dark cloud coming.",
+    "note": "pl. غيوم ghyūm; collective غيم ghēm. سحاب is also used.",
+    "phrases": [
+      {
+        "ar": "السما فيها غيم",
+        "tr": "is-sma fīha ghēm",
+        "en": "the sky is cloudy"
+      },
+      {
+        "ar": "ما فيه حتى غيمة",
+        "tr": "ma fīh 7atta ghēma",
+        "en": "not a single cloud"
+      }
+    ]
+  },
+  {
+    "ar": "عاصفة",
+    "tr": "3āSfa",
+    "en": "storm",
+    "msa": "عاصفة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "جات عاصفة قوية البارح.",
+    "ex_tr": "jāt 3āSfa gwiyya il-bār7a.",
+    "ex_en": "A strong storm came yesterday.",
+    "note": "pl. عواصف 3wāSif. عاصفة رملية = sandstorm.",
+    "phrases": [
+      {
+        "ar": "عاصفة رملية",
+        "tr": "3āSfa ramliyya",
+        "en": "a sandstorm"
+      },
+      {
+        "ar": "بعد العاصفة",
+        "tr": "ba3d il-3āSfa",
+        "en": "after the storm"
+      }
+    ]
+  },
+  {
+    "ar": "نوّ",
+    "tr": "nawwa",
+    "en": "rainstorm; stormy weather",
+    "msa": "نوء",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "البحر هايج، فيه نو.",
+    "ex_tr": "il-ba7ar hāyij, fīh nawwa.",
+    "ex_en": "The sea is rough, there's a storm.",
+    "note": "Libyan/Maghrebi word for a spell of stormy, rainy weather.",
+    "phrases": [
+      {
+        "ar": "نو قوي",
+        "tr": "nawwa gwi",
+        "en": "a strong storm"
+      },
+      {
+        "ar": "الصيادين ما طلعوش من النو",
+        "tr": "iS-Sayyādīn ma Tla3ūsh min in-nawwa",
+        "en": "the fishermen didn't go out because of the storm"
+      }
+    ]
+  },
+  {
+    "ar": "ندى",
+    "tr": "nda",
+    "en": "dew",
+    "msa": "ندى",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "الصبح السيارة كلها ندى.",
+    "ex_tr": "iS-Sba7 is-sayyāra kullha nda.",
+    "ex_en": "In the morning the car is covered in dew.",
+    "note": "Also a girl's name.",
+    "phrases": [
+      {
+        "ar": "ندى الصبح",
+        "tr": "nda iS-Sba7",
+        "en": "the morning dew"
+      },
+      {
+        "ar": "الحشيش مبلول بالندى",
+        "tr": "il-7shīsh mablūl bin-nda",
+        "en": "the grass is wet with dew"
+      }
+    ]
+  },
+  {
+    "ar": "صقع",
+    "tr": "Sga3",
+    "en": "bitter cold; frost",
+    "msa": "صقيع",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "الدنيا صقع الليلة، البس كويس.",
+    "ex_tr": "id-dinya Sga3 il-lēla, ilbis kwayyis.",
+    "ex_en": "It's freezing tonight, dress well.",
+    "note": "Maghrebi word for biting cold; الدنيا صقع = it's freezing.",
+    "phrases": [
+      {
+        "ar": "صقع الشتا",
+        "tr": "Sga3 ish-shta",
+        "en": "the winter frost"
+      },
+      {
+        "ar": "ميت بالصقع",
+        "tr": "mayyit biS-Sga3",
+        "en": "dying of cold"
+      }
+    ]
+  },
+  {
+    "ar": "تبروري",
+    "tr": "tabrūri",
+    "en": "hail",
+    "msa": "برَد",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "طاح تبروري وكسّر الزجاج.",
+    "ex_tr": "Tā7 tabrūri w-kassar iz-zjāj.",
+    "ex_en": "Hail fell and broke the glass.",
+    "note": "Maghrebi word; MSA برَد barad.",
+    "phrases": [
+      {
+        "ar": "حب التبروري",
+        "tr": "7abb it-tabrūri",
+        "en": "hailstones"
+      },
+      {
+        "ar": "مطر وتبروري",
+        "tr": "maTar w-tabrūri",
+        "en": "rain and hail"
+      }
+    ]
+  },
+  {
+    "ar": "رذاذ",
+    "tr": "rdhādh",
+    "en": "drizzle; spray",
+    "msa": "رذاذ",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "مش مطر، شوية رذاذ بس.",
+    "ex_tr": "mush maTar, shwayya rdhādh bass.",
+    "ex_en": "It's not rain, just a bit of drizzle.",
+    "phrases": [
+      {
+        "ar": "رذاذ البحر",
+        "tr": "rdhādh il-ba7ar",
+        "en": "sea spray"
+      },
+      {
+        "ar": "رذاذ خفيف",
+        "tr": "rdhādh khfīf",
+        "en": "a light drizzle"
+      }
+    ]
+  },
+  {
+    "ar": "قوس قزح",
+    "tr": "gōs gza7",
+    "en": "rainbow",
+    "msa": "قوس قزح",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 30,
+    "ex_ar": "بعد المطر طلع قوس قزح.",
+    "ex_tr": "ba3d il-maTar Tla3 gōs gza7.",
+    "ex_en": "After the rain a rainbow appeared.",
+    "phrases": [
+      {
+        "ar": "ألوان قوس قزح",
+        "tr": "alwān gōs gza7",
+        "en": "the colours of the rainbow"
+      },
+      {
+        "ar": "شوف قوس قزح!",
+        "tr": "shūf gōs gza7!",
+        "en": "look, a rainbow!"
+      }
+    ]
+  },
+  {
+    "ar": "سيل",
+    "tr": "sēl",
+    "en": "flash flood; torrent",
+    "msa": "سيل",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "السيل جا في الوادي البارح.",
+    "ex_tr": "is-sēl ja fil-wādi il-bār7a.",
+    "ex_en": "The flood came down the wadi yesterday.",
+    "note": "pl. سيول syūl. The wadis fill with sēl after heavy rain.",
+    "phrases": [
+      {
+        "ar": "الوادي سال",
+        "tr": "il-wādi sāl",
+        "en": "the wadi flooded"
+      },
+      {
+        "ar": "سيول قوية",
+        "tr": "syūl gwiyya",
+        "en": "strong floods"
+      }
+    ]
+  },
+  {
+    "ar": "فيضان",
+    "tr": "fayaDān",
+    "en": "flood",
+    "msa": "فيضان",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 38,
+    "ex_ar": "الفيضان خرب نص المدينة.",
+    "ex_tr": "il-fayaDān kharrab nuSS il-madīna.",
+    "ex_en": "The flood destroyed half the town.",
+    "note": "pl. فيضانات fayaDānāt. Libyans remember فيضان درنة (Derna flood, 2023).",
+    "phrases": [
+      {
+        "ar": "فيضان درنة",
+        "tr": "fayaDān darna",
+        "en": "the Derna flood"
+      },
+      {
+        "ar": "خطر الفيضانات",
+        "tr": "khaTar il-fayaDānāt",
+        "en": "the danger of floods"
+      }
+    ]
+  },
+  {
+    "ar": "جفاف",
+    "tr": "jafāf",
+    "en": "drought; dryness",
+    "msa": "جفاف",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "السنة هذي فيها جفاف، ما صبتش.",
+    "ex_tr": "is-sana hādhi fīha jafāf, ma Sabbatsh.",
+    "ex_en": "This year there's a drought, it hasn't rained.",
+    "phrases": [
+      {
+        "ar": "سنين الجفاف",
+        "tr": "snīn ij-jafāf",
+        "en": "the years of drought"
+      },
+      {
+        "ar": "جفاف في الجلد",
+        "tr": "jafāf fij-jild",
+        "en": "dry skin"
+      }
+    ]
+  },
+  {
+    "ar": "زلزال",
+    "tr": "zilzāl",
+    "en": "earthquake",
+    "msa": "زلزال",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "الزلزال صار في الليل.",
+    "ex_tr": "iz-zilzāl Sār fil-lēl.",
+    "ex_en": "The earthquake happened at night.",
+    "note": "pl. زلازل zalāzil.",
+    "phrases": [
+      {
+        "ar": "زلزال قوي",
+        "tr": "zilzāl gwi",
+        "en": "a strong earthquake"
+      },
+      {
+        "ar": "حسّينا بالزلزال",
+        "tr": "7assēna biz-zilzāl",
+        "en": "we felt the earthquake"
+      }
+    ]
+  },
+  {
+    "ar": "بركان",
+    "tr": "burkān",
+    "en": "volcano",
+    "msa": "بركان",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "جبل الهروج فيه براكين قديمة.",
+    "ex_tr": "jbal il-harūj fīh barākīn gdīma.",
+    "ex_en": "Haruj mountain has old volcanoes.",
+    "note": "pl. براكين barākīn.",
+    "phrases": [
+      {
+        "ar": "بركان نشط",
+        "tr": "burkān nashiT",
+        "en": "an active volcano"
+      },
+      {
+        "ar": "زي البركان",
+        "tr": "zayy il-burkān",
+        "en": "like a volcano (about an angry person)"
+      }
+    ]
+  },
+  {
+    "ar": "مناخ",
+    "tr": "manākh",
+    "en": "climate",
+    "msa": "مناخ",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "مناخ ليبيا حار وجاف.",
+    "ex_tr": "manākh lībya 7ārr w-jāff.",
+    "ex_en": "Libya's climate is hot and dry.",
+    "phrases": [
+      {
+        "ar": "تغيّر المناخ",
+        "tr": "tghayyur il-manākh",
+        "en": "climate change"
+      },
+      {
+        "ar": "مناخ معتدل",
+        "tr": "manākh mu3tadil",
+        "en": "a mild climate"
+      }
+    ]
+  },
+  {
+    "ar": "نشرة جوية",
+    "tr": "nashra jawwiyya",
+    "en": "weather forecast",
+    "msa": "نشرة جوية",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 38,
+    "ex_ar": "شفت النشرة الجوية؟ بتصب غدوة.",
+    "ex_tr": "shift in-nashra ij-jawwiyya? bitSubb ghudwa.",
+    "ex_en": "Did you see the forecast? It'll rain tomorrow.",
+    "phrases": [
+      {
+        "ar": "شن قالت النشرة الجوية؟",
+        "tr": "shin gālat in-nashra ij-jawwiyya?",
+        "en": "what did the forecast say?"
+      },
+      {
+        "ar": "حسب النشرة الجوية",
+        "tr": "7asab in-nashra ij-jawwiyya",
+        "en": "according to the forecast"
+      }
+    ]
+  },
+  {
+    "ar": "شروق",
+    "tr": "shrūg",
+    "en": "sunrise",
+    "msa": "شروق",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 40,
+    "ex_ar": "نطلعوا للبحر قبل الشروق.",
+    "ex_tr": "niTla3u lil-ba7ar gbal ish-shrūg.",
+    "ex_en": "We go to the sea before sunrise.",
+    "note": "شروق الشمس.",
+    "phrases": [
+      {
+        "ar": "شروق الشمس",
+        "tr": "shrūg ish-shams",
+        "en": "sunrise"
+      },
+      {
+        "ar": "مع الشروق",
+        "tr": "ma3 ish-shrūg",
+        "en": "at sunrise"
+      }
+    ]
+  },
+  {
+    "ar": "غروب",
+    "tr": "ghrūb",
+    "en": "sunset",
+    "msa": "غروب",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 42,
+    "ex_ar": "الغروب على البحر يجنن.",
+    "ex_tr": "il-ghrūb 3la l-ba7ar yjannin.",
+    "ex_en": "Sunset over the sea is gorgeous.",
+    "note": "غروب الشمس.",
+    "phrases": [
+      {
+        "ar": "قبل الغروب",
+        "tr": "gbal il-ghrūb",
+        "en": "before sunset"
+      },
+      {
+        "ar": "صورة الغروب",
+        "tr": "Sūrat il-ghrūb",
+        "en": "the sunset photo"
+      }
+    ]
+  },
+  {
+    "ar": "أفق",
+    "tr": "ufug",
+    "en": "horizon",
+    "msa": "أفق",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "البابور بان في الأفق.",
+    "ex_tr": "il-bābūr bān fil-ufug.",
+    "ex_en": "The ship appeared on the horizon.",
+    "note": "pl. آفاق āfāg (also \"prospects\").",
+    "phrases": [
+      {
+        "ar": "على الأفق",
+        "tr": "3la l-ufug",
+        "en": "on the horizon"
+      },
+      {
+        "ar": "خط الأفق",
+        "tr": "khaTT il-ufug",
+        "en": "the skyline"
+      }
+    ]
+  },
+  {
+    "ar": "سراب",
+    "tr": "sarāb",
+    "en": "mirage",
+    "msa": "سراب",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "في الصحرا تشوف سراب كأنه مية.",
+    "ex_tr": "fiS-Sa7ra tshūf sarāb ka-innah mayya.",
+    "ex_en": "In the desert you see a mirage like water.",
+    "phrases": [
+      {
+        "ar": "زي السراب",
+        "tr": "zayy is-sarāb",
+        "en": "like a mirage (an illusion)"
+      },
+      {
+        "ar": "سراب على الطريق",
+        "tr": "sarāb 3la T-Trīg",
+        "en": "a mirage on the road"
+      }
+    ]
+  },
+  {
+    "ar": "بدر",
+    "tr": "badr",
+    "en": "full moon",
+    "msa": "بدر",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "الليلة القمرة بدر.",
+    "ex_tr": "il-lēla il-gamra badr.",
+    "ex_en": "Tonight the moon is full.",
+    "note": "Also a man's name. وجهها زي البدر = her face is like the full moon.",
+    "phrases": [
+      {
+        "ar": "زي البدر",
+        "tr": "zayy il-badr",
+        "en": "beautiful as the full moon"
+      },
+      {
+        "ar": "ليلة البدر",
+        "tr": "lēlat il-badr",
+        "en": "the night of the full moon"
+      }
+    ]
+  },
+  {
+    "ar": "كسوف",
+    "tr": "ksūf",
+    "en": "solar eclipse",
+    "msa": "كسوف",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "صار كسوف في الشمس العام اللي فات.",
+    "ex_tr": "Sār ksūf fish-shams il-3ām illi fāt.",
+    "ex_en": "There was a solar eclipse last year.",
+    "note": "Lunar eclipse = خسوف khsūf.",
+    "phrases": [
+      {
+        "ar": "صلاة الكسوف",
+        "tr": "Salāt il-ksūf",
+        "en": "the eclipse prayer"
+      },
+      {
+        "ar": "ما تشوفش الكسوف بعينك",
+        "tr": "ma tshūfsh il-ksūf b-3ēnik",
+        "en": "don't look at the eclipse with your bare eyes"
+      }
+    ]
+  },
+  {
+    "ar": "خسوف",
+    "tr": "khsūf",
+    "en": "lunar eclipse",
+    "msa": "خسوف",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "الليلة فيه خسوف قمر.",
+    "ex_tr": "il-lēla fīh khsūf gamar.",
+    "ex_en": "Tonight there's a lunar eclipse.",
+    "note": "Solar eclipse = كسوف ksūf.",
+    "phrases": [
+      {
+        "ar": "خسوف القمرة",
+        "tr": "khsūf il-gamra",
+        "en": "eclipse of the moon"
+      },
+      {
+        "ar": "خسوف كلي",
+        "tr": "khsūf kulli",
+        "en": "a total eclipse"
+      }
+    ]
+  },
+  {
+    "ar": "كوكب",
+    "tr": "kawkab",
+    "en": "planet",
+    "msa": "كوكب",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 30,
+    "ex_ar": "الأرض كوكب، والشمس نجمة.",
+    "ex_tr": "il-arD kawkab, w-ish-shams nijma.",
+    "ex_en": "The Earth is a planet, and the sun is a star.",
+    "note": "pl. كواكب kawākib.",
+    "phrases": [
+      {
+        "ar": "كوكب المريخ",
+        "tr": "kawkab il-murrīkh",
+        "en": "the planet Mars"
+      },
+      {
+        "ar": "جاي من كوكب ثاني",
+        "tr": "jāy min kawkab thāni",
+        "en": "(he's) from another planet"
+      }
+    ]
+  },
+  {
+    "ar": "فضاء",
+    "tr": "faDa",
+    "en": "outer space; open space",
+    "msa": "فضاء",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 30,
+    "ex_ar": "ولدي يبي يولي رائد فضاء.",
+    "ex_tr": "wildi yibbi ywalli rā'id faDa.",
+    "ex_en": "My son wants to become an astronaut.",
+    "phrases": [
+      {
+        "ar": "رائد فضاء",
+        "tr": "rā'id faDa",
+        "en": "astronaut"
+      },
+      {
+        "ar": "صور من الفضاء",
+        "tr": "Suwar min il-faDa",
+        "en": "pictures from space"
+      }
+    ]
+  },
+  {
+    "ar": "ضلمة",
+    "tr": "Dalma",
+    "en": "darkness; dark",
+    "msa": "ظلمة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 52,
+    "ex_ar": "الدنيا ضلمة، شعل الضي.",
+    "ex_tr": "id-dinya Dalma, sha3il iD-Dayy.",
+    "ex_en": "It's dark, turn on the light.",
+    "note": "الدنيا ضلمة = it's dark.",
+    "phrases": [
+      {
+        "ar": "في الضلمة",
+        "tr": "fiD-Dalma",
+        "en": "in the dark"
+      },
+      {
+        "ar": "نخاف من الضلمة",
+        "tr": "nkhāf min iD-Dalma",
+        "en": "I'm afraid of the dark"
+      }
+    ]
+  },
+  {
+    "ar": "قطرة",
+    "tr": "gaTra",
+    "en": "drop (of liquid)",
+    "msa": "قطرة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 46,
+    "ex_ar": "ما طاحتش ولا قطرة مطر.",
+    "ex_tr": "ma Ta7atsh wala gaTra maTar.",
+    "ex_en": "Not a single drop of rain fell.",
+    "note": "pl. قطرات gaTrāt. Also eye drops (قطرة للعين).",
+    "phrases": [
+      {
+        "ar": "قطرة قطرة",
+        "tr": "gaTra gaTra",
+        "en": "drop by drop"
+      },
+      {
+        "ar": "قطرة مية",
+        "tr": "gaTrat mayya",
+        "en": "a drop of water"
+      }
+    ]
+  },
+  {
+    "ar": "بخار",
+    "tr": "bkhār",
+    "en": "steam; vapour",
+    "msa": "بخار",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 38,
+    "ex_ar": "البخار طالع من القدرة.",
+    "ex_tr": "il-bkhār Tāli3 min il-gidra.",
+    "ex_en": "Steam is coming out of the pot.",
+    "phrases": [
+      {
+        "ar": "بخار المية",
+        "tr": "bkhār il-mayya",
+        "en": "water vapour"
+      },
+      {
+        "ar": "حمام بخار",
+        "tr": "7ammām bkhār",
+        "en": "steam bath"
+      }
+    ]
+  },
+  {
+    "ar": "موسم",
+    "tr": "mūsim",
+    "en": "season (of a crop or activity)",
+    "msa": "موسم",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 2,
+    "usage": 52,
+    "ex_ar": "موسم الزيتون يبدا في الخريف.",
+    "ex_tr": "mūsim iz-zītūn yibda fil-kharīf.",
+    "ex_en": "The olive season starts in autumn.",
+    "note": "pl. مواسم mawāsim. فصل is a season of the year; موسم is a harvest/activity season.",
+    "phrases": [
+      {
+        "ar": "موسم الحصاد",
+        "tr": "mūsim il-7aSād",
+        "en": "harvest season"
+      },
+      {
+        "ar": "موسم الحج",
+        "tr": "mūsim il-7ajj",
+        "en": "the Hajj season"
+      },
+      {
+        "ar": "في غير موسمه",
+        "tr": "fi ghēr mūsmah",
+        "en": "out of season"
+      }
+    ]
+  },
+  {
+    "ar": "حريق",
+    "tr": "7rīg",
+    "en": "fire; blaze",
+    "msa": "حريق",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 48,
+    "ex_ar": "صار حريق في الغابة.",
+    "ex_tr": "Sār 7rīg fil-ghāba.",
+    "ex_en": "There was a fire in the forest.",
+    "note": "pl. حرايق 7rāyig. نار is fire in general; حريق is a destructive fire.",
+    "phrases": [
+      {
+        "ar": "حريق كبير",
+        "tr": "7rīg kbīr",
+        "en": "a big fire"
+      },
+      {
+        "ar": "المطافي جات للحريق",
+        "tr": "il-maTāfi jāt lil-7rīg",
+        "en": "the fire brigade came to the fire"
+      }
+    ]
+  },
+  {
+    "ar": "جمر",
+    "tr": "jamr",
+    "en": "embers; live coals",
+    "msa": "جمر",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "الشاهي على الجمر أبنن.",
+    "ex_tr": "ish-shāhi 3la j-jamr abnan.",
+    "ex_en": "Tea made on embers is tastier.",
+    "note": "Singular جمرة jamra.",
+    "phrases": [
+      {
+        "ar": "شوي على الجمر",
+        "tr": "shwi 3la j-jamr",
+        "en": "grill it over the coals"
+      },
+      {
+        "ar": "جمرة حمرا",
+        "tr": "jamra 7amra",
+        "en": "a red-hot ember"
+      }
+    ]
+  },
+  {
+    "ar": "رماد",
+    "tr": "rmād",
+    "en": "ash; ashes",
+    "msa": "رماد",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "بعد الشوي ما بقى غير الرماد.",
+    "ex_tr": "ba3d ish-shwi ma bga ghēr ir-rmād.",
+    "ex_en": "After the barbecue only ash was left.",
+    "phrases": [
+      {
+        "ar": "رماد النار",
+        "tr": "rmād in-nār",
+        "en": "the ashes of the fire"
+      },
+      {
+        "ar": "لون رماد",
+        "tr": "lōn rmād",
+        "en": "ash colour"
+      }
+    ]
+  },
+  {
+    "ar": "منارة",
+    "tr": "manāra",
+    "en": "lighthouse; minaret",
+    "msa": "منارة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "المنارة تضوي للبوابير في الليل.",
+    "ex_tr": "il-manāra tDawwi lil-bwābīr fil-lēl.",
+    "ex_en": "The lighthouse shines for ships at night.",
+    "note": "pl. منارات manārāt.",
+    "phrases": [
+      {
+        "ar": "منارة الميناء",
+        "tr": "manārat il-mīna",
+        "en": "the harbour lighthouse"
+      },
+      {
+        "ar": "منارة الجامع",
+        "tr": "manārat ij-jāmi3",
+        "en": "the mosque's minaret"
+      }
+    ]
+  },
+  {
+    "ar": "تيّار",
+    "tr": "tayyār",
+    "en": "current (of sea or water)",
+    "msa": "تيّار",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 38,
+    "ex_ar": "ما تعومش بعيد، التيار قوي.",
+    "ex_tr": "ma t3ūmsh b3īd, it-tayyār gwi.",
+    "ex_en": "Don't swim far, the current is strong.",
+    "note": "Also electric current (تيار كهربا) and a political \"trend\".",
+    "phrases": [
+      {
+        "ar": "تيار البحر",
+        "tr": "tayyār il-ba7ar",
+        "en": "the sea current"
+      },
+      {
+        "ar": "ضد التيار",
+        "tr": "Didd it-tayyār",
+        "en": "against the current"
+      }
+    ]
+  },
+  {
+    "ar": "مدّ",
+    "tr": "madd",
+    "en": "high tide; flow",
+    "msa": "مدّ",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 22,
+    "ex_ar": "المد طلع والشط ضاق.",
+    "ex_tr": "il-madd Tla3 w-ish-shaTT Dāg.",
+    "ex_en": "The tide came in and the beach got narrow.",
+    "note": "المد والجزر = the tides.",
+    "phrases": [
+      {
+        "ar": "المد والجزر",
+        "tr": "il-madd w-ij-jazr",
+        "en": "the tides (ebb and flow)"
+      },
+      {
+        "ar": "وقت المد",
+        "tr": "wagt il-madd",
+        "en": "at high tide"
+      }
+    ]
+  },
+  {
+    "ar": "جزر",
+    "tr": "jazr",
+    "en": "low tide; ebb",
+    "msa": "جزر",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "في الجزر يبانوا الصخور.",
+    "ex_tr": "fij-jazr ybānu S-Skhūr.",
+    "ex_en": "At low tide the rocks show.",
+    "note": "Same spelling as جزر jazar \"carrots\". The Mediterranean tide is small.",
+    "phrases": [
+      {
+        "ar": "وقت الجزر",
+        "tr": "wagt ij-jazr",
+        "en": "at low tide"
+      },
+      {
+        "ar": "المد والجزر",
+        "tr": "il-madd w-ij-jazr",
+        "en": "the tides"
+      }
+    ]
+  },
+  {
+    "ar": "مَوجة",
+    "tr": "mōja",
+    "en": "a wave",
+    "msa": "موجة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 46,
+    "ex_ar": "جات موجة كبيرة وبلّتنا.",
+    "ex_tr": "jāt mōja kbīra w-ballatna.",
+    "ex_en": "A big wave came and soaked us.",
+    "note": "pl. مواج mwāj; collective موج. موجة حر = a heat wave.",
+    "phrases": [
+      {
+        "ar": "موجة حر",
+        "tr": "mōjat 7arr",
+        "en": "a heat wave"
+      },
+      {
+        "ar": "موجة برد",
+        "tr": "mōjat bard",
+        "en": "a cold spell"
+      }
+    ]
+  },
+  {
+    "ar": "صيد",
+    "tr": "Sēd",
+    "en": "fishing; hunting",
+    "msa": "صيد",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 50,
+    "ex_ar": "خوي يحب الصيد بالصنارة.",
+    "ex_tr": "khūy y7ibb iS-Sēd biS-Sannāra.",
+    "ex_en": "My brother loves fishing with a rod.",
+    "note": "صيد الحوت = fishing; صيد الغزال = hunting gazelle.",
+    "phrases": [
+      {
+        "ar": "نمشوا للصيد",
+        "tr": "nimshu liS-Sēd",
+        "en": "we're going fishing/hunting"
+      },
+      {
+        "ar": "صيد الحوت",
+        "tr": "Sēd il-7ūt",
+        "en": "fishing"
+      },
+      {
+        "ar": "كلب صيد",
+        "tr": "kalb Sēd",
+        "en": "a hunting dog"
+      }
+    ]
+  },
+  {
+    "ar": "شبكة",
+    "tr": "shabka",
+    "en": "fishing net; net",
+    "msa": "شبكة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 40,
+    "ex_ar": "الصيادين يصلحوا في الشباك.",
+    "ex_tr": "iS-Sayyādīn ySall7u fish-shbāk.",
+    "ex_en": "The fishermen are mending the nets.",
+    "note": "pl. شباك shbāk. Also means a phone/internet network.",
+    "phrases": [
+      {
+        "ar": "رمى الشبكة",
+        "tr": "rma sh-shabka",
+        "en": "he cast the net"
+      },
+      {
+        "ar": "شبكة الصيد",
+        "tr": "shabkat iS-Sēd",
+        "en": "the fishing net"
+      }
+    ]
+  },
+  {
+    "ar": "صنّارة",
+    "tr": "Sannāra",
+    "en": "fishing rod; fishhook",
+    "msa": "صنّارة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 38,
+    "ex_ar": "شريت صنارة جديدة من سوق الحوت.",
+    "ex_tr": "shrēt Sannāra jdīda min sūg il-7ūt.",
+    "ex_en": "I bought a new fishing rod at the fish market.",
+    "note": "pl. صنانير Sanānīr.",
+    "phrases": [
+      {
+        "ar": "نصطاد بالصنارة",
+        "tr": "niSTād biS-Sannāra",
+        "en": "I fish with a rod"
+      },
+      {
+        "ar": "الحوت كلا الصنارة",
+        "tr": "il-7ūt kla S-Sannāra",
+        "en": "the fish took the hook"
+      }
+    ]
+  },
+  {
+    "ar": "طُعم",
+    "tr": "Tu3m",
+    "en": "bait",
+    "msa": "طُعم",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "حط الطعم في الصنارة.",
+    "ex_tr": "7uTT iT-Tu3m fiS-Sannāra.",
+    "ex_en": "Put the bait on the hook.",
+    "note": "Different from طعم Ta3m \"taste\".",
+    "phrases": [
+      {
+        "ar": "طعم دود",
+        "tr": "Tu3m dūd",
+        "en": "worm bait"
+      },
+      {
+        "ar": "الحوت ما كلاش الطعم",
+        "tr": "il-7ūt ma klāsh iT-Tu3m",
+        "en": "the fish didn't take the bait"
+      }
+    ]
+  },
+  {
+    "ar": "قارب",
+    "tr": "gārib",
+    "en": "boat; dinghy",
+    "msa": "قارب",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 40,
+    "ex_ar": "ركبنا في قارب صغير.",
+    "ex_tr": "rkibna fi gārib Sghayyir.",
+    "ex_en": "We got into a small boat.",
+    "note": "pl. قوارب gawārib. فلوكة is the usual word for a small fishing boat.",
+    "phrases": [
+      {
+        "ar": "قارب صيد",
+        "tr": "gārib Sēd",
+        "en": "a fishing boat"
+      },
+      {
+        "ar": "قوارب الهجرة",
+        "tr": "gawārib il-hijra",
+        "en": "migrant boats"
+      }
+    ]
+  },
+  {
+    "ar": "مركب",
+    "tr": "markib",
+    "en": "boat; vessel",
+    "msa": "مركب",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 38,
+    "ex_ar": "المركب طلع للبحر مع الفجر.",
+    "ex_tr": "il-markib Tla3 lil-ba7ar ma3 il-fajr.",
+    "ex_en": "The boat went out to sea at dawn.",
+    "note": "pl. مراكب marākib.",
+    "phrases": [
+      {
+        "ar": "مركب صيد",
+        "tr": "markib Sēd",
+        "en": "a fishing vessel"
+      },
+      {
+        "ar": "ركبوا في المركب",
+        "tr": "rikbu fil-markib",
+        "en": "they boarded the boat"
+      }
+    ]
+  },
+  {
+    "ar": "لنش",
+    "tr": "lansh",
+    "en": "motorboat; launch",
+    "msa": "لنش",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "خفر السواحل جاو باللنش.",
+    "ex_tr": "khafar is-swā7il jaw bil-lansh.",
+    "ex_en": "The coast guard came in the launch.",
+    "note": "From English \"launch\". pl. لنشات lanshāt.",
+    "phrases": [
+      {
+        "ar": "لنش سريع",
+        "tr": "lansh sarī3",
+        "en": "a speedboat"
+      },
+      {
+        "ar": "دورة باللنش",
+        "tr": "dawra bil-lansh",
+        "en": "a spin in the motorboat"
+      }
+    ]
+  },
+  {
+    "ar": "شراع",
+    "tr": "shrā3",
+    "en": "sail",
+    "msa": "شراع",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "الريح دفّت الشراع.",
+    "ex_tr": "ir-rī7 daffat ish-shrā3.",
+    "ex_en": "The wind pushed the sail.",
+    "note": "pl. أشرعة ashri3a.",
+    "phrases": [
+      {
+        "ar": "مركب بشراع",
+        "tr": "markib bi-shrā3",
+        "en": "a sailboat"
+      },
+      {
+        "ar": "رفعوا الشراع",
+        "tr": "raf3u sh-shrā3",
+        "en": "they raised the sail"
+      }
+    ]
+  },
+  {
+    "ar": "مجداف",
+    "tr": "mijdāf",
+    "en": "oar",
+    "msa": "مجداف",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 22,
+    "ex_ar": "جدف بالمجداف لين الشط.",
+    "ex_tr": "jaddif bil-mijdāf līn ish-shaTT.",
+    "ex_en": "Row with the oar to the shore.",
+    "note": "pl. مجاديف mjādīf.",
+    "phrases": [
+      {
+        "ar": "زوز مجاديف",
+        "tr": "zōz mjādīf",
+        "en": "two oars"
+      },
+      {
+        "ar": "انكسر المجداف",
+        "tr": "inkisar il-mijdāf",
+        "en": "the oar broke"
+      }
+    ]
+  },
+  {
+    "ar": "مرساة",
+    "tr": "mirsāt",
+    "en": "anchor",
+    "msa": "مرساة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "نزّلوا المرساة قريب الشط.",
+    "ex_tr": "nazzlu l-mirsāt grīb ish-shaTT.",
+    "ex_en": "They dropped anchor near the shore.",
+    "note": "Fishermen also say أنكرة ankra (from Italian ancora).",
+    "phrases": [
+      {
+        "ar": "رفعوا المرساة",
+        "tr": "raf3u l-mirsāt",
+        "en": "they weighed anchor"
+      },
+      {
+        "ar": "حبل المرساة",
+        "tr": "7abl il-mirsāt",
+        "en": "the anchor rope"
+      }
+    ]
+  },
+  {
+    "ar": "صدفة",
+    "tr": "Sadfa",
+    "en": "seashell; shell",
+    "msa": "صدفة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "البنات يلمّوا في الصدف على الشط.",
+    "ex_tr": "il-banāt ylimmu fiS-Sdaf 3la sh-shaTT.",
+    "ex_en": "The girls are collecting shells on the beach.",
+    "note": "pl. صدف Sdaf. Same spelling as صدفة \"coincidence\".",
+    "phrases": [
+      {
+        "ar": "صدف البحر",
+        "tr": "Sdaf il-ba7ar",
+        "en": "seashells"
+      },
+      {
+        "ar": "صدفة بيضا",
+        "tr": "Sadfa bēDa",
+        "en": "a white shell"
+      }
+    ]
+  },
+  {
+    "ar": "محار",
+    "tr": "ma7ār",
+    "en": "clams; oysters; mussels",
+    "msa": "محار",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "المحار يتاكل نيّ بالليمون.",
+    "ex_tr": "il-ma7ār yittākil nayy bil-līmūn.",
+    "ex_en": "Clams are eaten raw with lemon.",
+    "note": "Collective; one = محارة ma7āra.",
+    "phrases": [
+      {
+        "ar": "محار بحري",
+        "tr": "ma7ār ba7ri",
+        "en": "shellfish"
+      },
+      {
+        "ar": "لؤلؤة في المحارة",
+        "tr": "lūlūwa fil-ma7āra",
+        "en": "a pearl in the oyster"
+      }
+    ]
+  },
+  {
+    "ar": "ورقة",
+    "tr": "warga",
+    "en": "gilt-head sea bream",
+    "msa": "دنيس",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "الورقة غالية اليوم في سوق الحوت.",
+    "ex_tr": "il-warga ghālya il-yōm fi sūg il-7ūt.",
+    "ex_en": "Sea bream is expensive today at the fish market.",
+    "note": "Libyan fish-market name for dorade/sea bream; same word as ورقة \"leaf/paper\".",
+    "phrases": [
+      {
+        "ar": "ورقة مشوية",
+        "tr": "warga mashwiyya",
+        "en": "grilled sea bream"
+      },
+      {
+        "ar": "حوتة ورقة",
+        "tr": "7ūtat warga",
+        "en": "a sea bream fish"
+      }
+    ]
+  },
+  {
+    "ar": "بوري",
+    "tr": "būri",
+    "en": "grey mullet",
+    "msa": "بوري",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "البوري رخيص ويتاكل في الحرايمي.",
+    "ex_tr": "il-būri rkhīS w-yittākil fil-7rāymi.",
+    "ex_en": "Mullet is cheap and eaten in 7rāymi.",
+    "phrases": [
+      {
+        "ar": "بوري مقلي",
+        "tr": "būri maghli",
+        "en": "fried mullet"
+      },
+      {
+        "ar": "بطارخ البوري",
+        "tr": "baTārikh il-būri",
+        "en": "mullet roe"
+      }
+    ]
+  },
+  {
+    "ar": "شلبة",
+    "tr": "shilba",
+    "en": "salema (sea bream species)",
+    "msa": "شلبة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "الشلبة حوت رخيص ومليان شوك.",
+    "ex_tr": "ish-shilba 7ūt rkhīS w-malyān shōk.",
+    "ex_en": "Salema is a cheap fish full of bones.",
+    "note": "Common cheap Mediterranean fish in Libyan markets.",
+    "phrases": [
+      {
+        "ar": "كيلو شلبة",
+        "tr": "kīlu shilba",
+        "en": "a kilo of salema"
+      },
+      {
+        "ar": "شلبة مقلية",
+        "tr": "shilba maglya",
+        "en": "fried salema"
+      }
+    ]
+  },
+  {
+    "ar": "مرجان",
+    "tr": "murjān",
+    "en": "coral",
+    "msa": "مرجان",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "فيه مرجان حمر تحت البحر.",
+    "ex_tr": "fīh murjān 7umr ta7t il-ba7ar.",
+    "ex_en": "There's red coral under the sea.",
+    "note": "Also the name of a reddish sea bream at the fish market, and a girl's name.",
+    "phrases": [
+      {
+        "ar": "عقد مرجان",
+        "tr": "3igd murjān",
+        "en": "a coral necklace"
+      },
+      {
+        "ar": "أحمر زي المرجان",
+        "tr": "a7mar zayy il-murjān",
+        "en": "red as coral"
+      }
+    ]
+  },
+  {
+    "ar": "ميرو",
+    "tr": "mērū",
+    "en": "grouper",
+    "msa": "هامور",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "الميرو حوت كبير ولحمه أبيض.",
+    "ex_tr": "il-mērū 7ūt kbīr w-la7mah abyaD.",
+    "ex_en": "Grouper is a big fish with white flesh.",
+    "note": "Fish-market loanword (Spanish/Italian mero).",
+    "phrases": [
+      {
+        "ar": "شربة ميرو",
+        "tr": "shurbat mērū",
+        "en": "grouper soup"
+      },
+      {
+        "ar": "ميرو مشوي",
+        "tr": "mērū mashwi",
+        "en": "grilled grouper"
+      }
+    ]
+  },
+  {
+    "ar": "قرش",
+    "tr": "girsh",
+    "en": "shark",
+    "msa": "قرش",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "قالوا شافوا قرش قريب الشط.",
+    "ex_tr": "gālu shāfu girsh grīb ish-shaTT.",
+    "ex_en": "They said they saw a shark near the beach.",
+    "note": "Also حوت القرش. Same spelling as قرش \"a piece of money\".",
+    "phrases": [
+      {
+        "ar": "سمكة قرش",
+        "tr": "samakat girsh",
+        "en": "a shark"
+      },
+      {
+        "ar": "خايف من القرش",
+        "tr": "khāyif min il-girsh",
+        "en": "afraid of sharks"
+      }
+    ]
+  },
+  {
+    "ar": "دلفين",
+    "tr": "dalfīn",
+    "en": "dolphin",
+    "msa": "دلفين",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "شفنا دلافين ورا المركب.",
+    "ex_tr": "shifna dalāfīn wara l-markib.",
+    "ex_en": "We saw dolphins behind the boat.",
+    "note": "pl. دلافين dalāfīn.",
+    "phrases": [
+      {
+        "ar": "دلفين يلعب",
+        "tr": "dalfīn yil3ab",
+        "en": "a dolphin playing"
+      },
+      {
+        "ar": "عرض الدلافين",
+        "tr": "3arD id-dalāfīn",
+        "en": "the dolphin show"
+      }
+    ]
+  },
+  {
+    "ar": "قنديل البحر",
+    "tr": "gandīl il-ba7ar",
+    "en": "jellyfish",
+    "msa": "قنديل البحر",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "انتبه، فيه قنديل بحر في المية.",
+    "ex_tr": "intabih, fīh gandīl ba7ar fil-mayya.",
+    "ex_en": "Watch out, there's a jellyfish in the water.",
+    "note": "Also called ميدوزا mēdūza.",
+    "phrases": [
+      {
+        "ar": "قرصني قنديل البحر",
+        "tr": "garSni gandīl il-ba7ar",
+        "en": "a jellyfish stung me"
+      },
+      {
+        "ar": "هلبة قناديل البحر",
+        "tr": "hallba ganādīl il-ba7ar",
+        "en": "lots of jellyfish"
+      }
+    ]
+  },
+  {
+    "ar": "لؤلؤ",
+    "tr": "lūlū",
+    "en": "pearls",
+    "msa": "لؤلؤ",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "جابلها عقد لؤلؤ في العرس.",
+    "ex_tr": "jāblha 3igd lūlū fil-3urs.",
+    "ex_en": "He brought her a pearl necklace for the wedding.",
+    "note": "One pearl = لؤلؤة lūlūwa.",
+    "phrases": [
+      {
+        "ar": "عقد لؤلؤ",
+        "tr": "3igd lūlū",
+        "en": "a pearl necklace"
+      },
+      {
+        "ar": "زي اللؤلؤ",
+        "tr": "zayy il-lūlū",
+        "en": "like pearls (lovely teeth)"
+      }
+    ]
+  },
+  {
+    "ar": "حديد",
+    "tr": "7dīd",
+    "en": "iron; steel",
+    "msa": "حديد",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 54,
+    "ex_ar": "الباب هذا من حديد.",
+    "ex_tr": "il-bāb hādha min 7dīd.",
+    "ex_en": "This door is made of iron.",
+    "phrases": [
+      {
+        "ar": "حديد صدي",
+        "tr": "7dīd Sadi",
+        "en": "rusty iron"
+      },
+      {
+        "ar": "صحته حديد",
+        "tr": "Sa77tah 7dīd",
+        "en": "he's as fit as iron"
+      },
+      {
+        "ar": "سوق الحديد",
+        "tr": "sūg il-7dīd",
+        "en": "the iron/scrap market"
+      }
+    ]
+  },
+  {
+    "ar": "ذهب",
+    "tr": "dhahab",
+    "en": "gold",
+    "msa": "ذهب",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "الذهب غلى هلبة السنة هذي.",
+    "ex_tr": "idh-dhahab ghla hallba is-sana hādhi.",
+    "ex_en": "Gold got very expensive this year.",
+    "note": "Libyans also say ذهب for gold jewellery in general.",
+    "phrases": [
+      {
+        "ar": "سوق الذهب",
+        "tr": "sūg idh-dhahab",
+        "en": "the gold market"
+      },
+      {
+        "ar": "خاتم ذهب",
+        "tr": "khātim dhahab",
+        "en": "a gold ring"
+      },
+      {
+        "ar": "قلبه ذهب",
+        "tr": "galbah dhahab",
+        "en": "he has a heart of gold"
+      }
+    ]
+  },
+  {
+    "ar": "فضّة",
+    "tr": "fiDDa",
+    "en": "silver",
+    "msa": "فضّة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "الخلخال هذا فضة ليبية قديمة.",
+    "ex_tr": "il-khalkhāl hādha fiDDa lībiyya gdīma.",
+    "ex_en": "This anklet is old Libyan silver.",
+    "phrases": [
+      {
+        "ar": "خاتم فضة",
+        "tr": "khātim fiDDa",
+        "en": "a silver ring"
+      },
+      {
+        "ar": "ميدالية فضة",
+        "tr": "mēdālya fiDDa",
+        "en": "a silver medal"
+      }
+    ]
+  },
+  {
+    "ar": "نحاس",
+    "tr": "n7ās",
+    "en": "copper; brass",
+    "msa": "نحاس",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "السينية هذي نحاس صافي.",
+    "ex_tr": "is-sīniyya hādhi n7ās Sāfi.",
+    "ex_en": "This tray is pure copper.",
+    "note": "سوق النحاس / سوق الصياغة in Tripoli old city.",
+    "phrases": [
+      {
+        "ar": "سوق النحاس",
+        "tr": "sūg in-n7ās",
+        "en": "the coppersmiths' market"
+      },
+      {
+        "ar": "سلك نحاس",
+        "tr": "silk n7ās",
+        "en": "copper wire"
+      }
+    ]
+  },
+  {
+    "ar": "رصاص",
+    "tr": "rSāS",
+    "en": "lead (metal); bullets",
+    "msa": "رصاص",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "سمعنا رصاص البارح في الليل.",
+    "ex_tr": "sma3na rSāS il-bār7a fil-lēl.",
+    "ex_en": "We heard gunfire last night.",
+    "note": "Also bullets; رصاص حي = live rounds.",
+    "phrases": [
+      {
+        "ar": "رصاصة",
+        "tr": "rSāSa",
+        "en": "a bullet"
+      },
+      {
+        "ar": "بنزينة بلا رصاص",
+        "tr": "banzīna bla rSāS",
+        "en": "unleaded petrol"
+      }
+    ]
+  },
+  {
+    "ar": "قصدير",
+    "tr": "gaSdīr",
+    "en": "tin",
+    "msa": "قصدير",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "لفّ الحوت في ورق قصدير.",
+    "ex_tr": "liff il-7ūt fi warg gaSdīr.",
+    "ex_en": "Wrap the fish in tinfoil.",
+    "note": "Also tinfoil (ورق قصدير).",
+    "phrases": [
+      {
+        "ar": "ورق قصدير",
+        "tr": "warg gaSdīr",
+        "en": "tinfoil"
+      },
+      {
+        "ar": "علبة قصدير",
+        "tr": "3ilbat gaSdīr",
+        "en": "a tin can"
+      }
+    ]
+  },
+  {
+    "ar": "معدن",
+    "tr": "ma3dan",
+    "en": "metal; mineral",
+    "msa": "معدن",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 40,
+    "ex_ar": "الكاس هذا معدن مش بلاستيك.",
+    "ex_tr": "il-kās hādha ma3dan mush blāstīk.",
+    "ex_en": "This cup is metal, not plastic.",
+    "note": "pl. معادن ma3ādin.",
+    "phrases": [
+      {
+        "ar": "معدن ثقيل",
+        "tr": "ma3dan thgīl",
+        "en": "a heavy metal"
+      },
+      {
+        "ar": "معادن الأرض",
+        "tr": "ma3ādin il-arD",
+        "en": "the earth's minerals"
+      }
+    ]
+  },
+  {
+    "ar": "خشب",
+    "tr": "khashab",
+    "en": "wood (material); timber",
+    "msa": "خشب",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 54,
+    "ex_ar": "الطاولة هذي من خشب الزيتون.",
+    "ex_tr": "iT-Tāwla hādhi min khashab iz-zītūn.",
+    "ex_en": "This table is made of olive wood.",
+    "note": "pl. أخشاب akhshāb.",
+    "phrases": [
+      {
+        "ar": "باب خشب",
+        "tr": "bāb khashab",
+        "en": "a wooden door"
+      },
+      {
+        "ar": "نجار يخدم في الخشب",
+        "tr": "najjār yikhdim fil-khashab",
+        "en": "a carpenter works with wood"
+      }
+    ]
+  },
+  {
+    "ar": "حطب",
+    "tr": "7aTab",
+    "en": "firewood",
+    "msa": "حطب",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 40,
+    "ex_ar": "لمّينا حطب باش نشعلوا النار.",
+    "ex_tr": "lammēna 7aTab bāsh nsha3lu n-nār.",
+    "ex_en": "We gathered firewood to light the fire.",
+    "phrases": [
+      {
+        "ar": "كوشة حطب",
+        "tr": "kūshat 7aTab",
+        "en": "a wood-fired oven"
+      },
+      {
+        "ar": "جيب شوية حطب",
+        "tr": "jīb shwayya 7aTab",
+        "en": "bring some firewood"
+      }
+    ]
+  },
+  {
+    "ar": "فحم",
+    "tr": "fa77am",
+    "en": "charcoal; coal",
+    "msa": "فحم",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 42,
+    "ex_ar": "اللحم على الفحم يجي بنين.",
+    "ex_tr": "il-la7am 3la l-fa77am yiji bnīn.",
+    "ex_en": "Meat over charcoal comes out tasty.",
+    "phrases": [
+      {
+        "ar": "شوي على الفحم",
+        "tr": "shwi 3la l-fa77am",
+        "en": "grilling over charcoal"
+      },
+      {
+        "ar": "شكارة فحم",
+        "tr": "shkārat fa77am",
+        "en": "a sack of charcoal"
+      }
+    ]
+  },
+  {
+    "ar": "نفط",
+    "tr": "nafT",
+    "en": "oil; petroleum",
+    "msa": "نفط",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "ليبيا عايشة على النفط.",
+    "ex_tr": "lībya 3āysha 3la n-nafT.",
+    "ex_en": "Libya lives off oil.",
+    "note": "The formal word; in speech also بترول bitrōl. مؤسسة النفط = the National Oil Corporation.",
+    "phrases": [
+      {
+        "ar": "أسعار النفط",
+        "tr": "as3ār in-nafT",
+        "en": "oil prices"
+      },
+      {
+        "ar": "شركة نفط",
+        "tr": "shirkat nafT",
+        "en": "an oil company"
+      },
+      {
+        "ar": "حقول النفط",
+        "tr": "7gūl in-nafT",
+        "en": "the oil fields"
+      }
+    ]
+  },
+  {
+    "ar": "بترول",
+    "tr": "bitrōl",
+    "en": "petroleum; crude oil",
+    "msa": "بترول",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "بابا يخدم في شركة بترول في الصحرا.",
+    "ex_tr": "bāba yikhdim fi shirkat bitrōl fiS-Sa7ra.",
+    "ex_en": "Dad works for an oil company in the desert.",
+    "note": "Everyday synonym of نفط. Petrol for the car is بنزينة banzīna.",
+    "phrases": [
+      {
+        "ar": "فلوس البترول",
+        "tr": "flūs il-bitrōl",
+        "en": "oil money"
+      },
+      {
+        "ar": "بير بترول",
+        "tr": "bīr bitrōl",
+        "en": "an oil well"
+      }
+    ]
+  },
+  {
+    "ar": "حقل",
+    "tr": "7agl",
+    "en": "field (oil field; crop field)",
+    "msa": "حقل",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 40,
+    "ex_ar": "قفلوا الحقل بسبب المشاكل.",
+    "ex_tr": "gaflu l-7agl b-sabab il-mashākil.",
+    "ex_en": "They shut the oil field because of the troubles.",
+    "note": "pl. حقول 7gūl. In Libya mostly heard as حقل نفط.",
+    "phrases": [
+      {
+        "ar": "حقل نفط",
+        "tr": "7agl nafT",
+        "en": "an oil field"
+      },
+      {
+        "ar": "حقل قمح",
+        "tr": "7agl gam7",
+        "en": "a wheat field"
+      }
+    ]
+  },
+  {
+    "ar": "مصفاة",
+    "tr": "maSfa",
+    "en": "refinery",
+    "msa": "مصفاة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "مصفاة الزاوية واقفة اليوم.",
+    "ex_tr": "maSfat iz-zāwya wāgfa il-yōm.",
+    "ex_en": "The Zawiya refinery is stopped today.",
+    "note": "مصفاة الزاوية = Zawiya refinery.",
+    "phrases": [
+      {
+        "ar": "مصفاة نفط",
+        "tr": "maSfat nafT",
+        "en": "an oil refinery"
+      },
+      {
+        "ar": "يخدم في المصفاة",
+        "tr": "yikhdim fil-maSfa",
+        "en": "he works at the refinery"
+      }
+    ]
+  },
+  {
+    "ar": "منجم",
+    "tr": "manjam",
+    "en": "mine (minerals)",
+    "msa": "منجم",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "فيه منجم حديد في الجنوب.",
+    "ex_tr": "fīh manjam 7dīd fil-janūb.",
+    "ex_en": "There's an iron mine in the south.",
+    "note": "pl. مناجم manājim.",
+    "phrases": [
+      {
+        "ar": "منجم ذهب",
+        "tr": "manjam dhahab",
+        "en": "a gold mine"
+      },
+      {
+        "ar": "عمال المنجم",
+        "tr": "3ummāl il-manjam",
+        "en": "the mine workers"
+      }
+    ]
+  },
+  {
+    "ar": "جير",
+    "tr": "jīr",
+    "en": "lime; whitewash",
+    "msa": "جير",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "دهنوا الحيط بالجير.",
+    "ex_tr": "dihnu l-7ēT bil-jīr.",
+    "ex_en": "They whitewashed the wall with lime.",
+    "note": "Houses in old Libyan towns were whitewashed with جير.",
+    "phrases": [
+      {
+        "ar": "حيط بالجير",
+        "tr": "7ēT bil-jīr",
+        "en": "a whitewashed wall"
+      },
+      {
+        "ar": "جير أبيض",
+        "tr": "jīr abyaD",
+        "en": "white lime"
+      }
+    ]
+  },
+  {
+    "ar": "قطران",
+    "tr": "giTrān",
+    "en": "tar",
+    "msa": "قطران",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "زمان يدهنوا الجمل بالقطران.",
+    "ex_tr": "zmān yidhnu j-jmal bil-giTrān.",
+    "ex_en": "In the old days they coated camels with tar.",
+    "note": "Traditionally used on camel skin and to waterproof water skins.",
+    "phrases": [
+      {
+        "ar": "أكحل زي القطران",
+        "tr": "ak7al zayy il-giTrān",
+        "en": "black as tar"
+      },
+      {
+        "ar": "ريحة القطران",
+        "tr": "rī7at il-giTrān",
+        "en": "the smell of tar"
+      }
+    ]
+  },
+  {
+    "ar": "ملح البحر",
+    "tr": "mil7 il-ba7ar",
+    "en": "sea salt",
+    "msa": "ملح البحر",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "ملح البحر أصح من الملح العادي.",
+    "ex_tr": "mil7 il-ba7ar aSa77 min il-mil7 il-3ādi.",
+    "ex_en": "Sea salt is healthier than ordinary salt.",
+    "note": "Libya also harvests salt from sabkhas (salt flats).",
+    "phrases": [
+      {
+        "ar": "ملح البحر الخشين",
+        "tr": "mil7 il-ba7ar il-khshīn",
+        "en": "coarse sea salt"
+      },
+      {
+        "ar": "ريحة ملح البحر",
+        "tr": "rī7at mil7 il-ba7ar",
+        "en": "the smell of sea salt"
+      }
+    ]
+  },
+  {
+    "ar": "سانية",
+    "tr": "sānya",
+    "en": "farm; orchard (with a well)",
+    "msa": "مزرعة",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 2,
+    "usage": 52,
+    "ex_ar": "نقضّوا الجمعة في سانية جدي.",
+    "ex_tr": "ngaDDu j-jum3a fi sānyat jaddi.",
+    "ex_en": "We spend Friday at my grandfather's farm.",
+    "note": "Very Libyan word for a family farm or orchard, traditionally irrigated from a well. pl. سواني swāni.",
+    "phrases": [
+      {
+        "ar": "سانية زيتون",
+        "tr": "sānyat zītūn",
+        "en": "an olive farm"
+      },
+      {
+        "ar": "عنده سانية في تاجوراء",
+        "tr": "3indah sānya fi tājūra",
+        "en": "he has a farm in Tajoura"
+      },
+      {
+        "ar": "خضرة السانية",
+        "tr": "khuDrat is-sānya",
+        "en": "vegetables from the farm"
+      }
+    ]
+  },
+  {
+    "ar": "مزرعة",
+    "tr": "mazra3a",
+    "en": "farm",
+    "msa": "مزرعة",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 2,
+    "usage": 50,
+    "ex_ar": "المزرعة فيها بقر ودجاج.",
+    "ex_tr": "il-mazra3a fīha bagar w-djāj.",
+    "ex_en": "The farm has cows and chickens.",
+    "note": "pl. مزارع mazāri3. Used for bigger or commercial farms; سانية is the homely word.",
+    "phrases": [
+      {
+        "ar": "مزرعة دجاج",
+        "tr": "mazra3at djāj",
+        "en": "a chicken farm"
+      },
+      {
+        "ar": "مزرعة كبيرة",
+        "tr": "mazra3a kbīra",
+        "en": "a big farm"
+      }
+    ]
+  },
+  {
+    "ar": "فلاحة",
+    "tr": "fallā7a",
+    "en": "farming; agriculture",
+    "msa": "زراعة",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 40,
+    "ex_ar": "جدي عاش عمره كله في الفلاحة.",
+    "ex_tr": "jaddi 3āsh 3umrah kulla fil-fallā7a.",
+    "ex_en": "My grandfather spent his whole life farming.",
+    "note": "Everyday word for farm work. أرض فلاحية = farmland.",
+    "phrases": [
+      {
+        "ar": "خدمة الفلاحة",
+        "tr": "khidmat il-fallā7a",
+        "en": "farm work"
+      },
+      {
+        "ar": "أرض فلاحية",
+        "tr": "arD fallā7iyya",
+        "en": "agricultural land"
+      }
+    ]
+  },
+  {
+    "ar": "زراعة",
+    "tr": "zrā3a",
+    "en": "agriculture; cultivation",
+    "msa": "زراعة",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 42,
+    "ex_ar": "الزراعة في الجنوب تحتاج مية هلبة.",
+    "ex_tr": "iz-zrā3a fil-janūb ti7tāj mayya hallba.",
+    "ex_en": "Farming in the south needs a lot of water.",
+    "note": "وزارة الزراعة = Ministry of Agriculture.",
+    "phrases": [
+      {
+        "ar": "زراعة القمح",
+        "tr": "zrā3at il-gam7",
+        "en": "wheat cultivation"
+      },
+      {
+        "ar": "وزارة الزراعة",
+        "tr": "wizārat iz-zrā3a",
+        "en": "the Ministry of Agriculture"
+      }
+    ]
+  },
+  {
+    "ar": "محصول",
+    "tr": "ma7Sūl",
+    "en": "crop; harvest yield",
+    "msa": "محصول",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 38,
+    "ex_ar": "المحصول السنة هذي باهي.",
+    "ex_tr": "il-ma7Sūl is-sana hādhi bāhi.",
+    "ex_en": "The crop is good this year.",
+    "note": "pl. محاصيل ma7āSīl.",
+    "phrases": [
+      {
+        "ar": "محصول القمح",
+        "tr": "ma7Sūl il-gam7",
+        "en": "the wheat crop"
+      },
+      {
+        "ar": "محاصيل زراعية",
+        "tr": "ma7āSīl zirā3iyya",
+        "en": "agricultural crops"
+      }
+    ]
+  },
+  {
+    "ar": "صابة",
+    "tr": "Sāba",
+    "en": "harvest; crop (esp. olives)",
+    "msa": "محصول",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "صابة الزيتون السنة هذي هلبة.",
+    "ex_tr": "Sābat iz-zītūn is-sana hādhi hallba.",
+    "ex_en": "The olive harvest this year is huge.",
+    "note": "Maghrebi word: الصابة باهية = the harvest is good.",
+    "phrases": [
+      {
+        "ar": "الصابة ضعيفة",
+        "tr": "iS-Sāba Da3īfa",
+        "en": "the harvest is poor"
+      },
+      {
+        "ar": "صابة التمر",
+        "tr": "Sābat it-tmar",
+        "en": "the date harvest"
+      }
+    ]
+  },
+  {
+    "ar": "جنية",
+    "tr": "jinya",
+    "en": "olive picking; fruit picking",
+    "msa": "جني",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 30,
+    "ex_ar": "الجمعة الجاية جنية الزيتون في السانية.",
+    "ex_tr": "ij-jum3a ij-jāya jinyat iz-zītūn fis-sānya.",
+    "ex_en": "Next week is the olive picking at the farm.",
+    "note": "جنية الزيتون = the olive harvest, when families gather to pick.",
+    "phrases": [
+      {
+        "ar": "جنية الزيتون",
+        "tr": "jinyat iz-zītūn",
+        "en": "olive picking"
+      },
+      {
+        "ar": "نعاونوا في الجنية",
+        "tr": "n3āwnu fil-jinya",
+        "en": "we help with the picking"
+      }
+    ]
+  },
+  {
+    "ar": "حصاد",
+    "tr": "7Sād",
+    "en": "harvest (of grain); reaping",
+    "msa": "حصاد",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "الحصاد يكون في الصيف.",
+    "ex_tr": "il-7Sād ykūn fiS-Sēf.",
+    "ex_en": "The harvest is in summer.",
+    "phrases": [
+      {
+        "ar": "موسم الحصاد",
+        "tr": "mūsim il-7Sād",
+        "en": "harvest time"
+      },
+      {
+        "ar": "حصاد الشعير",
+        "tr": "7Sād ish-sh3īr",
+        "en": "the barley harvest"
+      }
+    ]
+  },
+  {
+    "ar": "معصرة",
+    "tr": "ma3Sra",
+    "en": "olive press; oil mill",
+    "msa": "معصرة",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "ودّينا الزيتون للمعصرة.",
+    "ex_tr": "waddēna z-zītūn lil-ma3Sra.",
+    "ex_en": "We took the olives to the press.",
+    "note": "pl. معاصر ma3āSir. Families take their olives to the ma3Sra after picking.",
+    "phrases": [
+      {
+        "ar": "زيت المعصرة",
+        "tr": "zēt il-ma3Sra",
+        "en": "oil fresh from the press"
+      },
+      {
+        "ar": "الزحمة على المعصرة",
+        "tr": "iz-za7ma 3la l-ma3Sra",
+        "en": "the queue at the olive press"
+      }
+    ]
+  },
+  {
+    "ar": "ري",
+    "tr": "rayy",
+    "en": "irrigation",
+    "msa": "ري",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "السانية تحتاج ري كل يوم في الصيف.",
+    "ex_tr": "is-sānya ti7tāj rayy kull yōm fiS-Sēf.",
+    "ex_en": "The farm needs irrigating every day in summer.",
+    "phrases": [
+      {
+        "ar": "مية الري",
+        "tr": "mayyat ir-rayy",
+        "en": "irrigation water"
+      },
+      {
+        "ar": "ري بالتنقيط",
+        "tr": "rayy bit-tangīT",
+        "en": "drip irrigation"
+      }
+    ]
+  },
+  {
+    "ar": "ساقية",
+    "tr": "sāgya",
+    "en": "irrigation channel",
+    "msa": "ساقية",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "المية تمشي في الساقية للشجر.",
+    "ex_tr": "il-mayya timshi fis-sāgya lish-shajar.",
+    "ex_en": "The water runs through the channel to the trees.",
+    "note": "pl. سواقي swāgi.",
+    "phrases": [
+      {
+        "ar": "ساقية مية",
+        "tr": "sāgyat mayya",
+        "en": "a water channel"
+      },
+      {
+        "ar": "نظّف الساقية",
+        "tr": "naDHDHaf is-sāgya",
+        "en": "he cleaned the channel"
+      }
+    ]
+  },
+  {
+    "ar": "جابية",
+    "tr": "jābya",
+    "en": "irrigation basin; farm reservoir",
+    "msa": "خزان ري",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "الصغار يعوموا في الجابية.",
+    "ex_tr": "iS-Sghār y3ūmu fil-jābya.",
+    "ex_en": "The kids swim in the irrigation basin.",
+    "note": "Open masonry basin on a سانية that stores well water for irrigation.",
+    "phrases": [
+      {
+        "ar": "جابية مليانة",
+        "tr": "jābya malyāna",
+        "en": "a full basin"
+      },
+      {
+        "ar": "عبّي الجابية",
+        "tr": "3abbi l-jābya",
+        "en": "fill the basin"
+      }
+    ]
+  },
+  {
+    "ar": "حوض",
+    "tr": "7ōD",
+    "en": "basin; trough; tank",
+    "msa": "حوض",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "الغنم تشرب من الحوض.",
+    "ex_tr": "il-ghnam tishrab min il-7ōD.",
+    "ex_en": "The sheep drink from the trough.",
+    "note": "pl. أحواض a7wāD. Also a sink basin or a fish tank (حوض حوت).",
+    "phrases": [
+      {
+        "ar": "حوض مية",
+        "tr": "7ōD mayya",
+        "en": "a water trough"
+      },
+      {
+        "ar": "حوض سمك",
+        "tr": "7ōD samak",
+        "en": "a fish tank"
+      }
+    ]
+  },
+  {
+    "ar": "طرمبة",
+    "tr": "Trumba",
+    "en": "water pump",
+    "msa": "مضخة",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "الطرمبة خاسرة، ما فيش مية.",
+    "ex_tr": "iT-Trumba khāsra, ma fīsh mayya.",
+    "ex_en": "The pump is broken, there's no water.",
+    "note": "From Italian tromba. Also موتور الماء.",
+    "phrases": [
+      {
+        "ar": "طرمبة البير",
+        "tr": "Trumbat il-bīr",
+        "en": "the well pump"
+      },
+      {
+        "ar": "شغّل الطرمبة",
+        "tr": "shaghghil iT-Trumba",
+        "en": "turn on the pump"
+      }
+    ]
+  },
+  {
+    "ar": "تنقيط",
+    "tr": "tangīT",
+    "en": "drip irrigation",
+    "msa": "تنقيط",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "ركّبنا تنقيط للزيتون.",
+    "ex_tr": "rakkabna tangīT liz-zītūn.",
+    "ex_en": "We installed drip irrigation for the olives.",
+    "note": "ري بالتنقيط.",
+    "phrases": [
+      {
+        "ar": "خراطيم التنقيط",
+        "tr": "khrāTīm it-tangīT",
+        "en": "drip hoses"
+      },
+      {
+        "ar": "التنقيط يوفّر المية",
+        "tr": "it-tangīT ywaffir il-mayya",
+        "en": "drip saves water"
+      }
+    ]
+  },
+  {
+    "ar": "بذرة",
+    "tr": "bidhra",
+    "en": "seed",
+    "msa": "بذرة",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 38,
+    "ex_ar": "حطّينا البذور في التراب.",
+    "ex_tr": "7aTTēna l-bdhūr fit-trāb.",
+    "ex_en": "We put the seeds in the soil.",
+    "note": "pl. بذور bdhūr. Also زريعة zrī3a for seeds to sow.",
+    "phrases": [
+      {
+        "ar": "بذور طماطم",
+        "tr": "bdhūr TmāTim",
+        "en": "tomato seeds"
+      },
+      {
+        "ar": "بذرة صغيرة",
+        "tr": "bidhra Sghayra",
+        "en": "a small seed"
+      }
+    ]
+  },
+  {
+    "ar": "زريعة",
+    "tr": "zrī3a",
+    "en": "seeds (for sowing); seed stock",
+    "msa": "بذور",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "شري زريعة دلاع من السوق.",
+    "ex_tr": "shra zrī3at dallā3 min is-sūg.",
+    "ex_en": "He bought watermelon seed at the market.",
+    "note": "Maghrebi collective for seed. (Roasted snack seeds are usually قلوب.)",
+    "phrases": [
+      {
+        "ar": "زريعة باهية",
+        "tr": "zrī3a bāhya",
+        "en": "good seed"
+      },
+      {
+        "ar": "زرع الزريعة",
+        "tr": "zra3 iz-zrī3a",
+        "en": "he sowed the seed"
+      }
+    ]
+  },
+  {
+    "ar": "شتلة",
+    "tr": "shatla",
+    "en": "seedling; sapling",
+    "msa": "شتلة",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "غرسنا عشرين شتلة زيتون.",
+    "ex_tr": "ghrasna 3ishrīn shatlat zītūn.",
+    "ex_en": "We planted twenty olive saplings.",
+    "note": "pl. شتلات shatlāt / شتول shtūl.",
+    "phrases": [
+      {
+        "ar": "مشتل",
+        "tr": "mashtal",
+        "en": "plant nursery"
+      },
+      {
+        "ar": "شتلة ليمون",
+        "tr": "shatlat līmūn",
+        "en": "a lemon sapling"
+      }
+    ]
+  },
+  {
+    "ar": "سماد",
+    "tr": "smād",
+    "en": "fertiliser",
+    "msa": "سماد",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "حط سماد للطماطم باش تكبر.",
+    "ex_tr": "7uTT smād liT-TmāTim bāsh tikbir.",
+    "ex_en": "Put fertiliser on the tomatoes so they grow.",
+    "note": "Also مخصب. Natural manure is زبل zibl.",
+    "phrases": [
+      {
+        "ar": "سماد كيماوي",
+        "tr": "smād kīmāwi",
+        "en": "chemical fertiliser"
+      },
+      {
+        "ar": "شكارة سماد",
+        "tr": "shkārat smād",
+        "en": "a sack of fertiliser"
+      }
+    ]
+  },
+  {
+    "ar": "زبل",
+    "tr": "zibl",
+    "en": "manure; dung; rubbish",
+    "msa": "زبل",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "زبل الغنم باهي للأرض.",
+    "ex_tr": "zibl il-ghnam bāhi lil-arD.",
+    "ex_en": "Sheep manure is good for the soil.",
+    "note": "On the farm it means manure; in town it can also mean rubbish/garbage.",
+    "phrases": [
+      {
+        "ar": "زبل البقر",
+        "tr": "zibl il-bagar",
+        "en": "cow dung"
+      },
+      {
+        "ar": "ريحة الزبل",
+        "tr": "rī7at iz-zibl",
+        "en": "the smell of manure"
+      }
+    ]
+  },
+  {
+    "ar": "محراث",
+    "tr": "mi7rāth",
+    "en": "plough",
+    "msa": "محراث",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "زمان يحرثوا بالمحراث والبغل.",
+    "ex_tr": "zmān yi7rthu bil-mi7rāth w-il-baghl.",
+    "ex_en": "In the past they ploughed with a plough and a mule.",
+    "note": "pl. محاريث m7ārīth.",
+    "phrases": [
+      {
+        "ar": "محراث خشب",
+        "tr": "mi7rāth khashab",
+        "en": "a wooden plough"
+      },
+      {
+        "ar": "جرّ المحراث",
+        "tr": "jarr il-mi7rāth",
+        "en": "pull the plough"
+      }
+    ]
+  },
+  {
+    "ar": "حرث",
+    "tr": "7arth",
+    "en": "ploughing; tilling",
+    "msa": "حرث",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "الحرث يكون بعد أول مطر.",
+    "ex_tr": "il-7arth ykūn ba3d awwil maTar.",
+    "ex_en": "Ploughing comes after the first rain.",
+    "note": "Verb حرث 7rath, imperfect يحرث yi7rith.",
+    "phrases": [
+      {
+        "ar": "وقت الحرث",
+        "tr": "wagt il-7arth",
+        "en": "ploughing time"
+      },
+      {
+        "ar": "حرث الأرض",
+        "tr": "7arth il-arD",
+        "en": "tilling the land"
+      }
+    ]
+  },
+  {
+    "ar": "فاس",
+    "tr": "fās",
+    "en": "hoe; mattock",
+    "msa": "فأس",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "خذ الفاس وحفر حول الشجرة.",
+    "ex_tr": "khudh il-fās w-7fur 7ōl ish-shajra.",
+    "ex_en": "Take the hoe and dig around the tree.",
+    "note": "pl. فيسان fīsān. The basic Libyan farm tool for digging.",
+    "phrases": [
+      {
+        "ar": "ضرب بالفاس",
+        "tr": "Darab bil-fās",
+        "en": "he struck with the hoe"
+      },
+      {
+        "ar": "فاس ومسحاة",
+        "tr": "fās w-mis7a",
+        "en": "a hoe and a spade"
+      }
+    ]
+  },
+  {
+    "ar": "منجل",
+    "tr": "minjil",
+    "en": "sickle",
+    "msa": "منجل",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "حصد الشعير بالمنجل.",
+    "ex_tr": "7Sad ish-sh3īr bil-minjil.",
+    "ex_en": "He reaped the barley with a sickle.",
+    "note": "pl. مناجل mnājil.",
+    "phrases": [
+      {
+        "ar": "منجل حاد",
+        "tr": "minjil 7ādd",
+        "en": "a sharp sickle"
+      },
+      {
+        "ar": "الحشيش بالمنجل",
+        "tr": "il-7shīsh bil-minjil",
+        "en": "(cut) the grass with a sickle"
+      }
+    ]
+  },
+  {
+    "ar": "مسحاة",
+    "tr": "mis7a",
+    "en": "spade; flat hoe",
+    "msa": "مسحاة",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "فتح الساقية بالمسحاة.",
+    "ex_tr": "fta7 is-sāgya bil-mis7a.",
+    "ex_en": "He opened the channel with the spade.",
+    "note": "Used to move earth and open irrigation channels.",
+    "phrases": [
+      {
+        "ar": "يد المسحاة",
+        "tr": "yidd il-mis7a",
+        "en": "the spade handle"
+      },
+      {
+        "ar": "جيب المسحاة",
+        "tr": "jīb il-mis7a",
+        "en": "bring the spade"
+      }
+    ]
+  },
+  {
+    "ar": "تقليم",
+    "tr": "taglīm",
+    "en": "pruning",
+    "msa": "تقليم",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "الزيتون يحتاج تقليم كل عام.",
+    "ex_tr": "iz-zītūn yi7tāj taglīm kull 3ām.",
+    "ex_en": "Olive trees need pruning every year.",
+    "phrases": [
+      {
+        "ar": "مقص تقليم",
+        "tr": "mgaSS taglīm",
+        "en": "pruning shears"
+      },
+      {
+        "ar": "وقت التقليم",
+        "tr": "wagt it-taglīm",
+        "en": "pruning season"
+      }
+    ]
+  },
+  {
+    "ar": "جريد",
+    "tr": "jrīd",
+    "en": "palm fronds; palm ribs",
+    "msa": "جريد",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "عملوا الزريبة من الجريد.",
+    "ex_tr": "3amlu z-zrība min ij-jrīd.",
+    "ex_en": "They built the pen from palm fronds.",
+    "note": "One = جريدة jrīda. Used for fences, baskets and roofing.",
+    "phrases": [
+      {
+        "ar": "قفة جريد",
+        "tr": "guffat jrīd",
+        "en": "a palm-frond basket"
+      },
+      {
+        "ar": "سقف جريد",
+        "tr": "sagf jrīd",
+        "en": "a palm-frond roof"
+      }
+    ]
+  },
+  {
+    "ar": "عرجون",
+    "tr": "3urjūn",
+    "en": "bunch of dates (on the palm)",
+    "msa": "عرجون",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "النخلة فيها عشر عراجين.",
+    "ex_tr": "in-nakhla fīha 3ashr 3arājīn.",
+    "ex_en": "The palm has ten date bunches.",
+    "note": "pl. عراجين 3arājīn.",
+    "phrases": [
+      {
+        "ar": "قصّ العرجون",
+        "tr": "guSS il-3urjūn",
+        "en": "cut the date bunch"
+      },
+      {
+        "ar": "عرجون تمر",
+        "tr": "3urjūn tmar",
+        "en": "a bunch of dates"
+      }
+    ]
+  },
+  {
+    "ar": "جمّار",
+    "tr": "jummār",
+    "en": "palm heart",
+    "msa": "جمّار",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "كلينا جمّار من النخلة اللي قطعوها.",
+    "ex_tr": "klēna jummār min in-nakhla illi gaT3ūha.",
+    "ex_en": "We ate palm heart from the palm they cut down.",
+    "note": "The edible white core of a palm, eaten when a palm is cut.",
+    "phrases": [
+      {
+        "ar": "جمار أبيض",
+        "tr": "jummār abyaD",
+        "en": "white palm heart"
+      },
+      {
+        "ar": "طعم الجمار حلو",
+        "tr": "Ta3m ij-jummār 7lu",
+        "en": "palm heart tastes sweet"
+      }
+    ]
+  },
+  {
+    "ar": "ليف",
+    "tr": "līf",
+    "en": "palm fibre; loofah",
+    "msa": "ليف",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "زمان يعملوا الحبال من الليف.",
+    "ex_tr": "zmān y3amlu l-7bāl min il-līf.",
+    "ex_en": "In the past they made ropes from palm fibre.",
+    "note": "Palm fibre used for ropes; also a bath scrubber (ليفة līfa).",
+    "phrases": [
+      {
+        "ar": "ليفة الحمام",
+        "tr": "līfat il-7ammām",
+        "en": "bath scrubber"
+      },
+      {
+        "ar": "حبل ليف",
+        "tr": "7abl līf",
+        "en": "a palm-fibre rope"
+      }
+    ]
+  },
+  {
+    "ar": "دالية",
+    "tr": "dālya",
+    "en": "grapevine; vine trellis",
+    "msa": "دالية",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "قعدنا تحت الدالية في الحوش.",
+    "ex_tr": "ga3adna ta7t id-dālya fil-7ōsh.",
+    "ex_en": "We sat under the grapevine in the courtyard.",
+    "note": "pl. دوالي dwāli. Many Tripoli courtyards have a dālya for shade.",
+    "phrases": [
+      {
+        "ar": "ظل الدالية",
+        "tr": "Dhill id-dālya",
+        "en": "the shade of the vine"
+      },
+      {
+        "ar": "ورق الدالية",
+        "tr": "warg id-dālya",
+        "en": "vine leaves"
+      }
+    ]
+  },
+  {
+    "ar": "سنبلة",
+    "tr": "sunbla",
+    "en": "ear of grain (wheat/barley)",
+    "msa": "سنبلة",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "السنابل صفرت، قرّب الحصاد.",
+    "ex_tr": "is-snābil Sfarrat, garrab il-7Sād.",
+    "ex_en": "The ears have turned yellow; harvest is near.",
+    "note": "pl. سنابل snābil.",
+    "phrases": [
+      {
+        "ar": "سنبلة قمح",
+        "tr": "sunblat gam7",
+        "en": "an ear of wheat"
+      },
+      {
+        "ar": "سنابل الشعير",
+        "tr": "snābil ish-sh3īr",
+        "en": "barley ears"
+      }
+    ]
+  },
+  {
+    "ar": "تبن",
+    "tr": "tibn",
+    "en": "straw (chopped)",
+    "msa": "تبن",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "حط شوية تبن للبهايم.",
+    "ex_tr": "7uTT shwayya tibn lil-bhāyim.",
+    "ex_en": "Put out some straw for the animals.",
+    "phrases": [
+      {
+        "ar": "كدس تبن",
+        "tr": "kuds tibn",
+        "en": "a pile of straw"
+      },
+      {
+        "ar": "تبن وشعير",
+        "tr": "tibn w-sh3īr",
+        "en": "straw and barley"
+      }
+    ]
+  },
+  {
+    "ar": "علف",
+    "tr": "3alf",
+    "en": "fodder; animal feed",
+    "msa": "علف",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "العلف غلى والغنم غلت.",
+    "ex_tr": "il-3alf ghla w-il-ghnam ghlat.",
+    "ex_en": "Fodder went up and so did sheep.",
+    "note": "Price of علف is a big topic for Libyan livestock owners.",
+    "phrases": [
+      {
+        "ar": "شكارة علف",
+        "tr": "shkārat 3alf",
+        "en": "a sack of feed"
+      },
+      {
+        "ar": "علف الدجاج",
+        "tr": "3alf id-djāj",
+        "en": "chicken feed"
+      }
+    ]
+  },
+  {
+    "ar": "برسيم",
+    "tr": "barsīm",
+    "en": "clover; alfalfa (fodder)",
+    "msa": "برسيم",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "زرعنا برسيم للبقر.",
+    "ex_tr": "zra3na barsīm lil-bagar.",
+    "ex_en": "We planted clover for the cows.",
+    "note": "Also called فصة fiSSa.",
+    "phrases": [
+      {
+        "ar": "حزمة برسيم",
+        "tr": "7uzmat barsīm",
+        "en": "a bundle of clover"
+      },
+      {
+        "ar": "البرسيم أخضر",
+        "tr": "il-barsīm akhDar",
+        "en": "the clover is green"
+      }
+    ]
+  },
+  {
+    "ar": "زريبة",
+    "tr": "zrība",
+    "en": "animal pen; enclosure",
+    "msa": "حظيرة",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "رجّع الغنم للزريبة.",
+    "ex_tr": "rajja3 il-ghnam liz-zrība.",
+    "ex_en": "Put the sheep back in the pen.",
+    "note": "pl. زرايب zrāyib.",
+    "phrases": [
+      {
+        "ar": "باب الزريبة",
+        "tr": "bāb iz-zrība",
+        "en": "the pen gate"
+      },
+      {
+        "ar": "زريبة الغنم",
+        "tr": "zrībat il-ghnam",
+        "en": "the sheep pen"
+      }
+    ]
+  },
+  {
+    "ar": "خم",
+    "tr": "khumm",
+    "en": "chicken coop",
+    "msa": "خم",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "الجاجات ينعسوا في الخم.",
+    "ex_tr": "ij-jājāt yin3su fil-khumm.",
+    "ex_en": "The hens sleep in the coop.",
+    "phrases": [
+      {
+        "ar": "خم الدجاج",
+        "tr": "khumm id-djāj",
+        "en": "the chicken coop"
+      },
+      {
+        "ar": "سكّر الخم",
+        "tr": "sakkir il-khumm",
+        "en": "shut the coop"
+      }
+    ]
+  },
+  {
+    "ar": "إسطبل",
+    "tr": "isTabl",
+    "en": "stable",
+    "msa": "إسطبل",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "الخيل في الإسطبل.",
+    "ex_tr": "il-khēl fil-isTabl.",
+    "ex_en": "The horses are in the stable.",
+    "note": "pl. إسطبلات isTablāt.",
+    "phrases": [
+      {
+        "ar": "إسطبل خيل",
+        "tr": "isTabl khēl",
+        "en": "a horse stable"
+      },
+      {
+        "ar": "نظّف الإسطبل",
+        "tr": "naDHDHaf il-isTabl",
+        "en": "clean the stable"
+      }
+    ]
+  },
+  {
+    "ar": "مرعى",
+    "tr": "mar3a",
+    "en": "pasture; grazing land",
+    "msa": "مرعى",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "الربيع جا والمرعى باهي.",
+    "ex_tr": "ir-rbī3 ja w-il-mar3a bāhi.",
+    "ex_en": "Spring has come and the pasture is good.",
+    "note": "pl. مراعي marā3i.",
+    "phrases": [
+      {
+        "ar": "أرض مرعى",
+        "tr": "arD mar3a",
+        "en": "grazing land"
+      },
+      {
+        "ar": "يدوّروا على المرعى",
+        "tr": "ydawwru 3la l-mar3a",
+        "en": "they search for pasture"
+      }
+    ]
+  },
+  {
+    "ar": "رعي",
+    "tr": "ra3y",
+    "en": "grazing; herding",
+    "msa": "رعي",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "الصغار يطلعوا للرعي مع الغنم.",
+    "ex_tr": "iS-Sghār yiTla3u lir-ra3y ma3 il-ghnam.",
+    "ex_en": "The kids go out herding with the sheep.",
+    "note": "Verb رعى ra3a, imperfect يرعى yir3a.",
+    "phrases": [
+      {
+        "ar": "الرعي في البر",
+        "tr": "ir-ra3y fil-barr",
+        "en": "grazing in the countryside"
+      },
+      {
+        "ar": "أرض رعي",
+        "tr": "arD ra3y",
+        "en": "grazing land"
+      }
+    ]
+  },
+  {
+    "ar": "قطيع",
+    "tr": "gaTī3",
+    "en": "herd; flock",
+    "msa": "قطيع",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "عنده قطيع غنم كبير.",
+    "ex_tr": "3indah gaTī3 ghnam kbīr.",
+    "ex_en": "He has a big flock of sheep.",
+    "note": "pl. قطعان giT3ān.",
+    "phrases": [
+      {
+        "ar": "قطيع إبل",
+        "tr": "gaTī3 ibil",
+        "en": "a herd of camels"
+      },
+      {
+        "ar": "زي القطيع",
+        "tr": "zayy il-gaTī3",
+        "en": "like a herd (following blindly)"
+      }
+    ]
+  },
+  {
+    "ar": "صوف",
+    "tr": "Sūf",
+    "en": "wool",
+    "msa": "صوف",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 38,
+    "ex_ar": "البطانية هذي صوف حر.",
+    "ex_tr": "il-baTTāniyya hādhi Sūf 7urr.",
+    "ex_en": "This blanket is pure wool.",
+    "phrases": [
+      {
+        "ar": "جزّ الصوف",
+        "tr": "jazz iS-Sūf",
+        "en": "sheep shearing"
+      },
+      {
+        "ar": "حرام صوف",
+        "tr": "7rām Sūf",
+        "en": "a wool wrap (barracan)"
+      }
+    ]
+  },
+  {
+    "ar": "وبر",
+    "tr": "wabar",
+    "en": "camel hair",
+    "msa": "وبر",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "الجرد هذا معمول من الوبر.",
+    "ex_tr": "ij-jard hādha ma3mūl min il-wabar.",
+    "ex_en": "This wrap is made of camel hair.",
+    "phrases": [
+      {
+        "ar": "وبر الجمل",
+        "tr": "wabar ij-jmal",
+        "en": "camel hair"
+      },
+      {
+        "ar": "خيمة وبر",
+        "tr": "khēmat wabar",
+        "en": "a camel-hair tent"
+      }
+    ]
+  },
+  {
+    "ar": "حبوب",
+    "tr": "7būb",
+    "en": "grains; cereals",
+    "msa": "حبوب",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "ليبيا تستورد الحبوب من برا.",
+    "ex_tr": "lībya tistawrid il-7būb min barra.",
+    "ex_en": "Libya imports grain from abroad.",
+    "note": "Same word means pills/tablets in a health context.",
+    "phrases": [
+      {
+        "ar": "مخزن الحبوب",
+        "tr": "makhzan il-7būb",
+        "en": "the grain store"
+      },
+      {
+        "ar": "حبوب كاملة",
+        "tr": "7būb kāmla",
+        "en": "whole grains"
+      }
+    ]
+  },
+  {
+    "ar": "قصب",
+    "tr": "gaSab",
+    "en": "reed; cane",
+    "msa": "قصب",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "الوادي مليان قصب.",
+    "ex_tr": "il-wādi malyān gaSab.",
+    "ex_en": "The wadi is full of reeds.",
+    "note": "قصب السكر = sugar cane.",
+    "phrases": [
+      {
+        "ar": "قصب السكر",
+        "tr": "gaSab is-sukkar",
+        "en": "sugar cane"
+      },
+      {
+        "ar": "سياج من القصب",
+        "tr": "siyāj min il-gaSab",
+        "en": "a reed fence"
+      }
+    ]
+  },
+  {
+    "ar": "حيوان أليف",
+    "tr": "7aywān alīf",
+    "en": "pet; tame animal",
+    "msa": "حيوان أليف",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "عندك حيوان أليف في الحوش؟",
+    "ex_tr": "3indik 7aywān alīf fil-7ōsh?",
+    "ex_en": "Do you have a pet at home?",
+    "note": "pl. حيوانات أليفة.",
+    "phrases": [
+      {
+        "ar": "حيوانات أليفة",
+        "tr": "7aywānāt alīfa",
+        "en": "pets"
+      },
+      {
+        "ar": "محل حيوانات أليفة",
+        "tr": "ma7all 7aywānāt alīfa",
+        "en": "a pet shop"
+      }
+    ]
+  },
+  {
+    "ar": "بهايم",
+    "tr": "bhāyim",
+    "en": "livestock; farm animals; beasts",
+    "msa": "بهائم",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "جدي عنده بهايم في السانية.",
+    "ex_tr": "jaddi 3indah bhāyim fis-sānya.",
+    "ex_en": "My grandfather has livestock on the farm.",
+    "note": "Singular بهيمة bhīma. Used as an insult too (يا بهيمة = you dumb animal).",
+    "phrases": [
+      {
+        "ar": "أكل البهايم",
+        "tr": "akl il-bhāyim",
+        "en": "animal feed"
+      },
+      {
+        "ar": "زي البهيمة",
+        "tr": "zayy il-bhīma",
+        "en": "like a dumb animal"
+      }
+    ]
+  },
+  {
+    "ar": "ماشية",
+    "tr": "māshya",
+    "en": "livestock (cattle, sheep, goats)",
+    "msa": "ماشية",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "أسعار الماشية طالعة قبل العيد.",
+    "ex_tr": "as3ār il-māshya Tāl3a gbal il-3īd.",
+    "ex_en": "Livestock prices are rising before Eid.",
+    "note": "Formal/news word; at home people say بهايم or غنم.",
+    "phrases": [
+      {
+        "ar": "سوق الماشية",
+        "tr": "sūg il-māshya",
+        "en": "the livestock market"
+      },
+      {
+        "ar": "تربية الماشية",
+        "tr": "tarbiyat il-māshya",
+        "en": "livestock raising"
+      }
+    ]
+  },
+  {
+    "ar": "تربية",
+    "tr": "tarbya",
+    "en": "raising; breeding (animals); upbringing",
+    "msa": "تربية",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 3,
+    "usage": 40,
+    "ex_ar": "خالي يخدم في تربية النحل.",
+    "ex_tr": "khāli yikhdim fi tarbyat in-na7l.",
+    "ex_en": "My uncle works in beekeeping.",
+    "note": "تربية الدجاج = poultry farming; in people, \"upbringing/manners\".",
+    "phrases": [
+      {
+        "ar": "تربية الغنم",
+        "tr": "tarbyat il-ghnam",
+        "en": "sheep raising"
+      },
+      {
+        "ar": "تربية الدجاج",
+        "tr": "tarbyat id-djāj",
+        "en": "poultry farming"
+      }
+    ]
+  },
+  {
+    "ar": "سرج",
+    "tr": "sarj",
+    "en": "saddle",
+    "msa": "سرج",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "حط السرج على الحصان.",
+    "ex_tr": "7uTT is-sarj 3la l-7Sān.",
+    "ex_en": "Put the saddle on the horse.",
+    "note": "pl. سروج srūj. The decorated Libyan saddle is used at fantasia shows.",
+    "phrases": [
+      {
+        "ar": "سرج مطرّز",
+        "tr": "sarj mTarraz",
+        "en": "an embroidered saddle"
+      },
+      {
+        "ar": "ركب بلا سرج",
+        "tr": "rkib bla sarj",
+        "en": "he rode bareback"
+      }
+    ]
+  },
+  {
+    "ar": "لجام",
+    "tr": "ljām",
+    "en": "bridle; reins",
+    "msa": "لجام",
+    "pos": "noun",
+    "cat": "agriculture",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "شد اللجام والحصان وقف.",
+    "ex_tr": "shadd il-ljām w-il-7Sān wgaf.",
+    "ex_en": "He pulled the reins and the horse stopped.",
+    "phrases": [
+      {
+        "ar": "شد اللجام",
+        "tr": "shidd il-ljām",
+        "en": "pull the reins"
+      },
+      {
+        "ar": "بلا لجام",
+        "tr": "bla ljām",
+        "en": "unbridled; out of control"
+      }
+    ]
+  },
+  {
+    "ar": "قفص",
+    "tr": "gfaS",
+    "en": "cage; crate",
+    "msa": "قفص",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "العصفور في القفص يغني.",
+    "ex_tr": "il-3aSfūr fil-gfaS yghanni.",
+    "ex_en": "The bird in the cage is singing.",
+    "note": "pl. أقفاص agfāS. Also a crate of fruit/veg.",
+    "phrases": [
+      {
+        "ar": "قفص عصافير",
+        "tr": "gfaS 3aSāfīr",
+        "en": "a bird cage"
+      },
+      {
+        "ar": "قفص طماطم",
+        "tr": "gfaS TmāTim",
+        "en": "a crate of tomatoes"
+      }
+    ]
+  },
+  {
+    "ar": "فخ",
+    "tr": "fakhkh",
+    "en": "trap; snare",
+    "msa": "فخ",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "حطينا فخ للفار.",
+    "ex_tr": "7aTTēna fakhkh lil-fār.",
+    "ex_en": "We set a trap for the mouse.",
+    "note": "pl. فخاخ fkhākh. Also figuratively: طاح في الفخ = he fell into the trap.",
+    "phrases": [
+      {
+        "ar": "طاح في الفخ",
+        "tr": "Tā7 fil-fakhkh",
+        "en": "he fell into the trap"
+      },
+      {
+        "ar": "فخ عصافير",
+        "tr": "fakhkh 3aSāfīr",
+        "en": "a bird trap"
+      }
+    ]
+  },
+  {
+    "ar": "عش",
+    "tr": "3ishsh",
+    "en": "nest",
+    "msa": "عش",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "فيه عش حمام فوق الشباك.",
+    "ex_tr": "fīh 3ishsh 7mām fōg ish-shubbāk.",
+    "ex_en": "There's a pigeon nest above the window.",
+    "note": "pl. عشوش 3shūsh.",
+    "phrases": [
+      {
+        "ar": "عش العصفور",
+        "tr": "3ishsh il-3aSfūr",
+        "en": "the bird's nest"
+      },
+      {
+        "ar": "عش الزوجية",
+        "tr": "3ishsh iz-zawjiyya",
+        "en": "the marital nest (a couple's home)"
+      }
+    ]
+  },
+  {
+    "ar": "خلية",
+    "tr": "khalya",
+    "en": "beehive; cell",
+    "msa": "خلية",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "عنده عشر خلايا نحل في الجبل.",
+    "ex_tr": "3indah 3ashr khalāya na7l fij-jbal.",
+    "ex_en": "He has ten beehives in the mountains.",
+    "note": "pl. خلايا khalāya. Also a (biological or militant) cell.",
+    "phrases": [
+      {
+        "ar": "خلية نحل",
+        "tr": "khalyat na7l",
+        "en": "a beehive"
+      },
+      {
+        "ar": "زي خلية النحل",
+        "tr": "zayy khalyat in-na7l",
+        "en": "busy as a beehive"
+      }
+    ]
+  },
+  {
+    "ar": "عجل",
+    "tr": "3ijil",
+    "en": "calf",
+    "msa": "عجل",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "البقرة جابت عجل البارح.",
+    "ex_tr": "il-bagra jābat 3ijil il-bār7a.",
+    "ex_en": "The cow gave birth to a calf yesterday.",
+    "note": "pl. عجول 3jūl. Also لحم عجل = veal.",
+    "phrases": [
+      {
+        "ar": "لحم عجل",
+        "tr": "la7am 3ijil",
+        "en": "veal"
+      },
+      {
+        "ar": "عجل صغير",
+        "tr": "3ijil Sghayyir",
+        "en": "a little calf"
+      }
+    ]
+  },
+  {
+    "ar": "ثور",
+    "tr": "thōr",
+    "en": "bull; ox",
+    "msa": "ثور",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "الثور هذا قوي هلبة.",
+    "ex_tr": "ith-thōr hādha gwi hallba.",
+    "ex_en": "This bull is very strong.",
+    "note": "pl. ثيران thīrān.",
+    "phrases": [
+      {
+        "ar": "زي الثور",
+        "tr": "zayy ith-thōr",
+        "en": "strong as a bull"
+      },
+      {
+        "ar": "ثور هايج",
+        "tr": "thōr hāyij",
+        "en": "an angry bull"
+      }
+    ]
+  },
+  {
+    "ar": "جدي",
+    "tr": "jidi",
+    "en": "kid (young goat)",
+    "msa": "جدي",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "المعزة جابت زوز جديان.",
+    "ex_tr": "il-ma3za jābat zōz jidyān.",
+    "ex_en": "The goat had two kids.",
+    "note": "pl. جديان jidyān. Same spelling as جدي jiddi \"serious\".",
+    "phrases": [
+      {
+        "ar": "جدي صغير",
+        "tr": "jidi Sghayyir",
+        "en": "a little kid"
+      },
+      {
+        "ar": "لحم الجدي",
+        "tr": "la7am ij-jidi",
+        "en": "kid meat"
+      }
+    ]
+  },
+  {
+    "ar": "تيس",
+    "tr": "tēs",
+    "en": "billy goat",
+    "msa": "تيس",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "التيس عنده قرون طوال.",
+    "ex_tr": "it-tēs 3indah grūn Twāl.",
+    "ex_en": "The billy goat has long horns.",
+    "note": "pl. تيوس tyūs. Also an insult for a stubborn person.",
+    "phrases": [
+      {
+        "ar": "راسه زي التيس",
+        "tr": "rāsah zayy it-tēs",
+        "en": "stubborn as a goat"
+      },
+      {
+        "ar": "تيس وعشر معيز",
+        "tr": "tēs w-3ashr m3īz",
+        "en": "a billy goat and ten nanny goats"
+      }
+    ]
+  },
+  {
+    "ar": "خروف",
+    "tr": "khrūf",
+    "en": "lamb; young sheep",
+    "msa": "خروف",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "شرينا خروف للعيد.",
+    "ex_tr": "shrēna khrūf lil-3īd.",
+    "ex_en": "We bought a lamb for Eid.",
+    "note": "pl. خرفان khirfān. In Libya علوش is the common word; خروف is pan-Arabic.",
+    "phrases": [
+      {
+        "ar": "خروف محشي",
+        "tr": "khrūf ma7shi",
+        "en": "stuffed lamb"
+      },
+      {
+        "ar": "زي الخروف",
+        "tr": "zayy il-khrūf",
+        "en": "meek as a lamb"
+      }
+    ]
+  },
+  {
+    "ar": "حولي",
+    "tr": "7ōli",
+    "en": "yearling sheep",
+    "msa": "حولي",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "العام هذا شرينا حولي سمين.",
+    "ex_tr": "il-3ām hādha shrēna 7ōli smīn.",
+    "ex_en": "This year we bought a fat yearling sheep.",
+    "note": "A sheep in its second year, the preferred age for the Eid sacrifice. Same word as the حولي wrap (clothing).",
+    "phrases": [
+      {
+        "ar": "حولي للعيد",
+        "tr": "7ōli lil-3īd",
+        "en": "a yearling for Eid"
+      },
+      {
+        "ar": "سوم الحولي",
+        "tr": "sōm il-7ōli",
+        "en": "the price of a yearling"
+      }
+    ]
+  },
+  {
+    "ar": "مهر",
+    "tr": "muhr",
+    "en": "foal; colt",
+    "msa": "مهر",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "الفرس جابت مهر أبيض.",
+    "ex_tr": "il-faras jābat muhr abyaD.",
+    "ex_en": "The mare had a white foal.",
+    "note": "Female مهرة muhra. Not the same as مهر mahr \"dowry\".",
+    "phrases": [
+      {
+        "ar": "مهرة صغيرة",
+        "tr": "muhra Sghayra",
+        "en": "a little filly"
+      },
+      {
+        "ar": "المهر يجري ورا أمه",
+        "tr": "il-muhr yijri wara ummah",
+        "en": "the foal runs after its mother"
+      }
+    ]
+  },
+  {
+    "ar": "بطة",
+    "tr": "baTTa",
+    "en": "duck",
+    "msa": "بطة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "البط يعوم في البركة.",
+    "ex_tr": "il-baTT y3ūm fil-birka.",
+    "ex_en": "The ducks swim in the pond.",
+    "note": "Collective بط baTT.",
+    "phrases": [
+      {
+        "ar": "بطة بيضا",
+        "tr": "baTTa bēDa",
+        "en": "a white duck"
+      },
+      {
+        "ar": "مشيته زي البطة",
+        "tr": "mishītah zayy il-baTTa",
+        "en": "he waddles like a duck"
+      }
+    ]
+  },
+  {
+    "ar": "وزة",
+    "tr": "wizza",
+    "en": "goose",
+    "msa": "إوزة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "الوز يصيّح لو يجي حد غريب.",
+    "ex_tr": "il-wizz ySayya7 law yiji 7add gharīb.",
+    "ex_en": "The geese honk if a stranger comes.",
+    "note": "Collective وز wizz.",
+    "phrases": [
+      {
+        "ar": "وزة كبيرة",
+        "tr": "wizza kbīra",
+        "en": "a big goose"
+      },
+      {
+        "ar": "ريش الوز",
+        "tr": "rīsh il-wizz",
+        "en": "goose feathers"
+      }
+    ]
+  },
+  {
+    "ar": "ديك رومي",
+    "tr": "dīk rūmi",
+    "en": "turkey",
+    "msa": "ديك رومي",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "شرينا ديك رومي للعزومة.",
+    "ex_tr": "shrēna dīk rūmi lil-3zūma.",
+    "ex_en": "We bought a turkey for the dinner party.",
+    "phrases": [
+      {
+        "ar": "لحم الديك الرومي",
+        "tr": "la7am id-dīk ir-rūmi",
+        "en": "turkey meat"
+      },
+      {
+        "ar": "ديك رومي محمّر",
+        "tr": "dīk rūmi m7ammar",
+        "en": "roast turkey"
+      }
+    ]
+  },
+  {
+    "ar": "فرخ",
+    "tr": "farkh",
+    "en": "chick; young bird",
+    "msa": "فرخ",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "الجاجة طلعت عشر فراخ.",
+    "ex_tr": "ij-jāja Tal3at 3ashr frākh.",
+    "ex_en": "The hen hatched ten chicks.",
+    "note": "pl. فراخ frākh. Also used for the young of other animals.",
+    "phrases": [
+      {
+        "ar": "فراخ صغار",
+        "tr": "frākh Sghār",
+        "en": "little chicks"
+      },
+      {
+        "ar": "فرخ حمام",
+        "tr": "farkh 7mām",
+        "en": "a squab; young pigeon"
+      }
+    ]
+  },
+  {
+    "ar": "إبل",
+    "tr": "ibil",
+    "en": "camels (collective)",
+    "msa": "إبل",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "عنده مية راس بل في الجنوب.",
+    "ex_tr": "3indah miyyat rās bil fil-janūb.",
+    "ex_en": "He has a hundred head of camels in the south.",
+    "note": "Libyans say البل il-bil. Singular جمل/ناقة.",
+    "phrases": [
+      {
+        "ar": "لحم البل",
+        "tr": "la7am il-bil",
+        "en": "camel meat"
+      },
+      {
+        "ar": "حليب البل",
+        "tr": "7līb il-bil",
+        "en": "camel milk"
+      },
+      {
+        "ar": "سباق الإبل",
+        "tr": "sbāg il-ibil",
+        "en": "camel racing"
+      }
+    ]
+  },
+  {
+    "ar": "حلّوف",
+    "tr": "7allūf",
+    "en": "pig; wild boar",
+    "msa": "خنزير",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "فيه حلاليف في الغابة.",
+    "ex_tr": "fīh 7alālīf fil-ghāba.",
+    "ex_en": "There are wild boars in the forest.",
+    "note": "Maghrebi word; MSA خنزير khanzīr. Also a strong insult.",
+    "phrases": [
+      {
+        "ar": "حلوف بري",
+        "tr": "7allūf barri",
+        "en": "a wild boar"
+      },
+      {
+        "ar": "لحم الحلوف حرام",
+        "tr": "la7am il-7allūf 7arām",
+        "en": "pork is forbidden"
+      }
+    ]
+  },
+  {
+    "ar": "خنزير",
+    "tr": "khanzīr",
+    "en": "pig",
+    "msa": "خنزير",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "المسلمين ما ياكلوش لحم الخنزير.",
+    "ex_tr": "il-muslimīn ma yāklūsh la7am il-khanzīr.",
+    "ex_en": "Muslims don't eat pork.",
+    "note": "pl. خنازير khanāzīr. Everyday Libyan also حلّوف.",
+    "phrases": [
+      {
+        "ar": "لحم خنزير",
+        "tr": "la7am khanzīr",
+        "en": "pork"
+      },
+      {
+        "ar": "انفلونزا الخنازير",
+        "tr": "influwanza il-khanāzīr",
+        "en": "swine flu"
+      }
+    ]
+  },
+  {
+    "ar": "دب",
+    "tr": "dubb",
+    "en": "bear",
+    "msa": "دب",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "شفنا دب في حديقة الحيوان.",
+    "ex_tr": "shifna dubb fi 7adīgat il-7aywān.",
+    "ex_en": "We saw a bear at the zoo.",
+    "note": "pl. دببة dibaba.",
+    "phrases": [
+      {
+        "ar": "دب أبيض",
+        "tr": "dubb abyaD",
+        "en": "a polar bear"
+      },
+      {
+        "ar": "دبدوب",
+        "tr": "dabdūb",
+        "en": "teddy bear"
+      }
+    ]
+  },
+  {
+    "ar": "نمر",
+    "tr": "nimr",
+    "en": "tiger; leopard",
+    "msa": "نمر",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "النمر أسرع من الأسد؟",
+    "ex_tr": "in-nimr asra3 min il-asad?",
+    "ex_en": "Is the tiger faster than the lion?",
+    "note": "pl. نمور nmūr.",
+    "phrases": [
+      {
+        "ar": "جلد نمر",
+        "tr": "jild nimr",
+        "en": "tiger skin"
+      },
+      {
+        "ar": "قوي زي النمر",
+        "tr": "gwi zayy in-nimr",
+        "en": "strong as a tiger"
+      }
+    ]
+  },
+  {
+    "ar": "فيل",
+    "tr": "fīl",
+    "en": "elephant",
+    "msa": "فيل",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 30,
+    "ex_ar": "الصغار يحبوا يشوفوا الفيل.",
+    "ex_tr": "iS-Sghār y7ibbu yshūfu l-fīl.",
+    "ex_en": "The kids love to see the elephant.",
+    "note": "pl. فيلة fiyala / فيلان fīlān.",
+    "phrases": [
+      {
+        "ar": "خرطوم الفيل",
+        "tr": "khurTūm il-fīl",
+        "en": "the elephant's trunk"
+      },
+      {
+        "ar": "تقيل زي الفيل",
+        "tr": "tgīl zayy il-fīl",
+        "en": "heavy as an elephant"
+      }
+    ]
+  },
+  {
+    "ar": "قرد",
+    "tr": "gird",
+    "en": "monkey",
+    "msa": "قرد",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "القرد ياكل في الموز.",
+    "ex_tr": "il-gird yākil fil-mōz.",
+    "ex_en": "The monkey is eating bananas.",
+    "note": "pl. قرود grūd. Also a playful insult for a naughty child.",
+    "phrases": [
+      {
+        "ar": "يا قرد!",
+        "tr": "ya gird!",
+        "en": "you little monkey!"
+      },
+      {
+        "ar": "يقلد زي القرد",
+        "tr": "ygallid zayy il-gird",
+        "en": "he copies like a monkey"
+      }
+    ]
+  },
+  {
+    "ar": "زرافة",
+    "tr": "zarāfa",
+    "en": "giraffe",
+    "msa": "زرافة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "الزرافة رقبتها طويلة.",
+    "ex_tr": "iz-zarāfa ragbatha Twīla.",
+    "ex_en": "The giraffe has a long neck.",
+    "phrases": [
+      {
+        "ar": "طويل زي الزرافة",
+        "tr": "Twīl zayy iz-zarāfa",
+        "en": "tall as a giraffe"
+      },
+      {
+        "ar": "زرافة صغيرة",
+        "tr": "zarāfa Sghayra",
+        "en": "a baby giraffe"
+      }
+    ]
+  },
+  {
+    "ar": "ثعلب",
+    "tr": "tha3lab",
+    "en": "fox",
+    "msa": "ثعلب",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "الثعلب كلا الجاجة.",
+    "ex_tr": "ith-tha3lab kla j-jāja.",
+    "ex_en": "The fox ate the hen.",
+    "note": "pl. ثعالب tha3ālib. Also a cunning person.",
+    "phrases": [
+      {
+        "ar": "مكار زي الثعلب",
+        "tr": "makkār zayy ith-tha3lab",
+        "en": "sly as a fox"
+      },
+      {
+        "ar": "ذيل الثعلب",
+        "tr": "dhēl ith-tha3lab",
+        "en": "the fox's tail"
+      }
+    ]
+  },
+  {
+    "ar": "ضبع",
+    "tr": "Dib3",
+    "en": "hyena",
+    "msa": "ضبع",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "زمان يقولوا فيه ضباع في الجبل.",
+    "ex_tr": "zmān ygūlu fīh Dbā3 fij-jbal.",
+    "ex_en": "In the past they said there were hyenas in the mountains.",
+    "note": "pl. ضباع Dbā3.",
+    "phrases": [
+      {
+        "ar": "ضحكة الضبع",
+        "tr": "Da7kat iD-Dib3",
+        "en": "the hyena's laugh"
+      },
+      {
+        "ar": "ضبع مخطط",
+        "tr": "Dib3 mkhaTTaT",
+        "en": "a striped hyena"
+      }
+    ]
+  },
+  {
+    "ar": "قنفود",
+    "tr": "ganfūd",
+    "en": "hedgehog",
+    "msa": "قنفذ",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "لقينا قنفود في السانية.",
+    "ex_tr": "lgēna ganfūd fis-sānya.",
+    "ex_en": "We found a hedgehog on the farm.",
+    "note": "Maghrebi form; MSA قنفذ.",
+    "phrases": [
+      {
+        "ar": "شوك القنفود",
+        "tr": "shōk il-ganfūd",
+        "en": "the hedgehog's spines"
+      },
+      {
+        "ar": "القنفود يتلم كورة",
+        "tr": "il-ganfūd yitlamm kūra",
+        "en": "the hedgehog rolls into a ball"
+      }
+    ]
+  },
+  {
+    "ar": "ودّان",
+    "tr": "waddān",
+    "en": "Barbary sheep; aoudad",
+    "msa": "أروية",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 22,
+    "ex_ar": "الودان يعيش في جبال الصحرا.",
+    "ex_tr": "il-waddān y3īsh fi jbāl iS-Sa7ra.",
+    "ex_en": "The Barbary sheep lives in the desert mountains.",
+    "note": "Wild mountain sheep of the Libyan Sahara; a symbol of the town of Waddan and of Libyan wildlife.",
+    "phrases": [
+      {
+        "ar": "قرون الودان",
+        "tr": "grūn il-waddān",
+        "en": "the Barbary sheep's horns"
+      },
+      {
+        "ar": "صيد الودان ممنوع",
+        "tr": "Sēd il-waddān mamnū3",
+        "en": "hunting Barbary sheep is banned"
+      }
+    ]
+  },
+  {
+    "ar": "يربوع",
+    "tr": "yarbū3",
+    "en": "jerboa",
+    "msa": "يربوع",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "اليربوع ينط زي الكنغر.",
+    "ex_tr": "il-yarbū3 ynuTT zayy il-kangar.",
+    "ex_en": "The jerboa hops like a kangaroo.",
+    "note": "pl. يرابيع yarābī3. Small hopping desert rodent.",
+    "phrases": [
+      {
+        "ar": "يربوع الصحرا",
+        "tr": "yarbū3 iS-Sa7ra",
+        "en": "the desert jerboa"
+      },
+      {
+        "ar": "جحر يربوع",
+        "tr": "j7ar yarbū3",
+        "en": "a jerboa burrow"
+      }
+    ]
+  },
+  {
+    "ar": "وحش",
+    "tr": "wa7sh",
+    "en": "wild beast; monster",
+    "msa": "وحش",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 38,
+    "ex_ar": "الصغير يخاف من الوحوش في الليل.",
+    "ex_tr": "iS-Sghayyir ykhāf min il-w7ūsh fil-lēl.",
+    "ex_en": "The little one is scared of monsters at night.",
+    "note": "pl. وحوش w7ūsh. Slang: وحش = a beast (impressive person/thing).",
+    "phrases": [
+      {
+        "ar": "حيوانات وحشية",
+        "tr": "7aywānāt wa7shiyya",
+        "en": "wild animals"
+      },
+      {
+        "ar": "هو وحش في الكورة",
+        "tr": "huwwa wa7sh fil-kūra",
+        "en": "he's a beast at football"
+      }
+    ]
+  },
+  {
+    "ar": "ضب",
+    "tr": "Dabb",
+    "en": "spiny-tailed lizard; dab lizard",
+    "msa": "ضب",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "الضب يعيش في الصحرا.",
+    "ex_tr": "iD-Dabb y3īsh fiS-Sa7ra.",
+    "ex_en": "The dab lizard lives in the desert.",
+    "note": "Large desert lizard; some Bedouin eat it.",
+    "phrases": [
+      {
+        "ar": "جحر الضب",
+        "tr": "j7ar iD-Dabb",
+        "en": "the lizard's burrow"
+      },
+      {
+        "ar": "صادوا ضب",
+        "tr": "Sādu Dabb",
+        "en": "they caught a dab lizard"
+      }
+    ]
+  },
+  {
+    "ar": "ورل",
+    "tr": "waral",
+    "en": "monitor lizard; desert monitor",
+    "msa": "ورل",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "الورل طويل قريب متر.",
+    "ex_tr": "il-waral Twīl grīb mitr.",
+    "ex_en": "The monitor lizard is almost a metre long.",
+    "note": "pl. ورلان warlān.",
+    "phrases": [
+      {
+        "ar": "ورل الصحرا",
+        "tr": "waral iS-Sa7ra",
+        "en": "the desert monitor"
+      },
+      {
+        "ar": "جلد الورل",
+        "tr": "jild il-waral",
+        "en": "monitor lizard skin"
+      }
+    ]
+  },
+  {
+    "ar": "بوبريص",
+    "tr": "būbrīS",
+    "en": "gecko; wall lizard",
+    "msa": "أبو بريص",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "فيه بوبريص على الحيط في الكوجينة.",
+    "ex_tr": "fīh būbrīS 3la l-7ēT fil-kūjīna.",
+    "ex_en": "There's a gecko on the kitchen wall.",
+    "note": "From أبو بريص. The little gecko seen on walls at night.",
+    "phrases": [
+      {
+        "ar": "خايفة من البوبريص",
+        "tr": "khāyfa min il-būbrīS",
+        "en": "she's scared of geckos"
+      },
+      {
+        "ar": "بوبريص صغير",
+        "tr": "būbrīS Sghayyir",
+        "en": "a little gecko"
+      }
+    ]
+  },
+  {
+    "ar": "زرزومية",
+    "tr": "zarzūmiyya",
+    "en": "lizard",
+    "msa": "سحلية",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "الزرزومية جرت بين الحجر.",
+    "ex_tr": "iz-zarzūmiyya jrat bēn il-7jar.",
+    "ex_en": "The lizard ran between the stones.",
+    "note": "Maghrebi word for the small ground lizard. MSA سحلية.",
+    "phrases": [
+      {
+        "ar": "ذيل الزرزومية",
+        "tr": "dhēl iz-zarzūmiyya",
+        "en": "the lizard's tail"
+      },
+      {
+        "ar": "زرزومية في الشمس",
+        "tr": "zarzūmiyya fish-shams",
+        "en": "a lizard in the sun"
+      }
+    ]
+  },
+  {
+    "ar": "حرباية",
+    "tr": "7irbāya",
+    "en": "chameleon",
+    "msa": "حرباء",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "الحرباية تبدّل لونها.",
+    "ex_tr": "il-7irbāya tbaddil lōnha.",
+    "ex_en": "The chameleon changes its colour.",
+    "note": "Also figuratively a two-faced person.",
+    "phrases": [
+      {
+        "ar": "زي الحرباية",
+        "tr": "zayy il-7irbāya",
+        "en": "like a chameleon (two-faced)"
+      },
+      {
+        "ar": "حرباية خضرا",
+        "tr": "7irbāya khaDra",
+        "en": "a green chameleon"
+      }
+    ]
+  },
+  {
+    "ar": "تمساح",
+    "tr": "timsā7",
+    "en": "crocodile",
+    "msa": "تمساح",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "التمساح عايش في النيل.",
+    "ex_tr": "it-timsā7 3āyish fin-nīl.",
+    "ex_en": "The crocodile lives in the Nile.",
+    "note": "pl. تماسيح tamāsī7.",
+    "phrases": [
+      {
+        "ar": "دموع التماسيح",
+        "tr": "dmū3 it-tamāsī7",
+        "en": "crocodile tears"
+      },
+      {
+        "ar": "جلد تمساح",
+        "tr": "jild timsā7",
+        "en": "crocodile leather"
+      }
+    ]
+  },
+  {
+    "ar": "جرانة",
+    "tr": "jrāna",
+    "en": "frog",
+    "msa": "ضفدع",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "الجران يغنوا في الليل في الساقية.",
+    "ex_tr": "ij-jrān yghannu fil-lēl fis-sāgya.",
+    "ex_en": "The frogs croak at night in the channel.",
+    "note": "Maghrebi word; MSA ضفدع Dafda3. pl. جران jrān.",
+    "phrases": [
+      {
+        "ar": "صوت الجران",
+        "tr": "Sōt ij-jrān",
+        "en": "the croaking of frogs"
+      },
+      {
+        "ar": "جرانة خضرا",
+        "tr": "jrāna khaDra",
+        "en": "a green frog"
+      }
+    ]
+  },
+  {
+    "ar": "لفعة",
+    "tr": "lif3a",
+    "en": "viper; poisonous snake",
+    "msa": "أفعى",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "انتبه، فيه لفعة تحت الحجرة.",
+    "ex_tr": "intabih, fīh lif3a ta7t il-7ajra.",
+    "ex_en": "Careful, there's a viper under the stone.",
+    "note": "Libyan/Maghrebi form of أفعى; حنش is a snake in general.",
+    "phrases": [
+      {
+        "ar": "لفعة قرنة",
+        "tr": "lif3a garna",
+        "en": "a horned viper"
+      },
+      {
+        "ar": "عضته لفعة",
+        "tr": "3aDDatah lif3a",
+        "en": "a viper bit him"
+      }
+    ]
+  },
+  {
+    "ar": "خفّاش",
+    "tr": "khuffāsh",
+    "en": "bat",
+    "msa": "خفّاش",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "الخفافيش يطلعوا في الليل.",
+    "ex_tr": "il-khafāfīsh yiTla3u fil-lēl.",
+    "ex_en": "Bats come out at night.",
+    "note": "pl. خفافيش khafāfīsh.",
+    "phrases": [
+      {
+        "ar": "خفاش في الغار",
+        "tr": "khuffāsh fil-ghār",
+        "en": "a bat in the cave"
+      },
+      {
+        "ar": "زي الخفاش",
+        "tr": "zayy il-khuffāsh",
+        "en": "like a bat (a night owl)"
+      }
+    ]
+  },
+  {
+    "ar": "بومة",
+    "tr": "būma",
+    "en": "owl",
+    "msa": "بومة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "البومة تصيّح في الليل.",
+    "ex_tr": "il-būma tSayya7 fil-lēl.",
+    "ex_en": "The owl hoots at night.",
+    "note": "Seen as a bad omen by some people.",
+    "phrases": [
+      {
+        "ar": "وجه بومة",
+        "tr": "wijh būma",
+        "en": "a gloomy face (lit. owl face)"
+      },
+      {
+        "ar": "بومة بيضا",
+        "tr": "būma bēDa",
+        "en": "a white owl"
+      }
+    ]
+  },
+  {
+    "ar": "نسر",
+    "tr": "nisr",
+    "en": "eagle; vulture",
+    "msa": "نسر",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "النسر طاير فوق الجبل.",
+    "ex_tr": "in-nisr Tāyir fōg il-jbal.",
+    "ex_en": "The eagle is flying above the mountain.",
+    "note": "pl. نسور nsūr.",
+    "phrases": [
+      {
+        "ar": "عين النسر",
+        "tr": "3ēn in-nisr",
+        "en": "eagle eye"
+      },
+      {
+        "ar": "نسر كبير",
+        "tr": "nisr kbīr",
+        "en": "a big eagle"
+      }
+    ]
+  },
+  {
+    "ar": "صقر",
+    "tr": "Sagr",
+    "en": "falcon; hawk",
+    "msa": "صقر",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "الصقر صاد حمامة.",
+    "ex_tr": "iS-Sagr Sād 7māma.",
+    "ex_en": "The falcon caught a pigeon.",
+    "note": "pl. صقور Sgūr. Falconry (الصيد بالصقور) is practised in the Libyan desert.",
+    "phrases": [
+      {
+        "ar": "صيد بالصقور",
+        "tr": "Sēd biS-Sgūr",
+        "en": "falconry"
+      },
+      {
+        "ar": "نظر الصقر",
+        "tr": "naDHar iS-Sagr",
+        "en": "a falcon's sight"
+      }
+    ]
+  },
+  {
+    "ar": "غراب",
+    "tr": "ghrāb",
+    "en": "crow; raven",
+    "msa": "غراب",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "الغراب واقف على العمود.",
+    "ex_tr": "il-ghrāb wāgif 3la l-3amūd.",
+    "ex_en": "The crow is standing on the pole.",
+    "note": "pl. غربان ghirbān. Considered a bad omen.",
+    "phrases": [
+      {
+        "ar": "أكحل زي الغراب",
+        "tr": "ak7al zayy il-ghrāb",
+        "en": "black as a crow"
+      },
+      {
+        "ar": "صوت الغراب",
+        "tr": "Sōt il-ghrāb",
+        "en": "the crow's caw"
+      }
+    ]
+  },
+  {
+    "ar": "عصفور",
+    "tr": "3aSfūr",
+    "en": "sparrow; small bird",
+    "msa": "عصفور",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 2,
+    "usage": 46,
+    "ex_ar": "العصافير يغنوا الصبح بكري.",
+    "ex_tr": "il-3aSāfīr yghannu S-Sba7 bakri.",
+    "ex_en": "The birds sing early in the morning.",
+    "note": "pl. عصافير 3aSāfīr.",
+    "phrases": [
+      {
+        "ar": "ضرب عصفورين بحجرة",
+        "tr": "Darab 3aSfūrēn b-7ajra",
+        "en": "killed two birds with one stone"
+      },
+      {
+        "ar": "عصفور في قفص",
+        "tr": "3aSfūr fi gfaS",
+        "en": "a bird in a cage"
+      }
+    ]
+  },
+  {
+    "ar": "زرزور",
+    "tr": "zarzūr",
+    "en": "starling",
+    "msa": "زرزور",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "الزرازير جو مع الشتا.",
+    "ex_tr": "iz-zarāzīr jaw ma3 ish-shta.",
+    "ex_en": "The starlings came with the winter.",
+    "note": "pl. زرازير zarāzīr. Large flocks come in winter.",
+    "phrases": [
+      {
+        "ar": "سرب زرازير",
+        "tr": "sirb zarāzīr",
+        "en": "a flock of starlings"
+      },
+      {
+        "ar": "الزرزور ياكل الزيتون",
+        "tr": "iz-zarzūr yākil iz-zītūn",
+        "en": "starlings eat the olives"
+      }
+    ]
+  },
+  {
+    "ar": "حجلة",
+    "tr": "7ijla",
+    "en": "partridge",
+    "msa": "حجلة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "صادوا حجل في الجبل.",
+    "ex_tr": "Sādu 7jal fij-jbal.",
+    "ex_en": "They hunted partridges in the mountains.",
+    "note": "pl. حجل 7jal.",
+    "phrases": [
+      {
+        "ar": "مشيتها زي الحجلة",
+        "tr": "mishītha zayy il-7ijla",
+        "en": "she walks gracefully like a partridge"
+      },
+      {
+        "ar": "حجل بري",
+        "tr": "7jal barri",
+        "en": "wild partridge"
+      }
+    ]
+  },
+  {
+    "ar": "سمّان",
+    "tr": "summān",
+    "en": "quail",
+    "msa": "سمّان",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "السمان يجي في الخريف.",
+    "ex_tr": "is-summān yiji fil-kharīf.",
+    "ex_en": "The quail come in autumn.",
+    "note": "Migrating quail pass the Libyan coast in autumn.",
+    "phrases": [
+      {
+        "ar": "صيد السمان",
+        "tr": "Sēd is-summān",
+        "en": "quail hunting"
+      },
+      {
+        "ar": "سمان مشوي",
+        "tr": "summān mashwi",
+        "en": "grilled quail"
+      }
+    ]
+  },
+  {
+    "ar": "يمامة",
+    "tr": "yamāma",
+    "en": "turtle dove",
+    "msa": "يمامة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "اليمامة عاملة عش في الدالية.",
+    "ex_tr": "il-yamāma 3āmla 3ishsh fid-dālya.",
+    "ex_en": "The turtle dove built a nest in the vine.",
+    "note": "pl. يمام ymām.",
+    "phrases": [
+      {
+        "ar": "صوت اليمام",
+        "tr": "Sōt il-ymām",
+        "en": "the cooing of doves"
+      },
+      {
+        "ar": "يمامة بيضا",
+        "tr": "yamāma bēDa",
+        "en": "a white dove"
+      }
+    ]
+  },
+  {
+    "ar": "ببّغا",
+    "tr": "babbagha",
+    "en": "parrot",
+    "msa": "ببغاء",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "الببغا تعرف تقول سلام.",
+    "ex_tr": "il-babbagha t3arf tgūl salām.",
+    "ex_en": "The parrot can say hello.",
+    "note": "Also used for someone who repeats without understanding.",
+    "phrases": [
+      {
+        "ar": "زي الببغا",
+        "tr": "zayy il-babbagha",
+        "en": "like a parrot (repeating)"
+      },
+      {
+        "ar": "ببغا ملونة",
+        "tr": "babbagha mlawwna",
+        "en": "a colourful parrot"
+      }
+    ]
+  },
+  {
+    "ar": "نعامة",
+    "tr": "na3āma",
+    "en": "ostrich",
+    "msa": "نعامة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "بيضة النعامة كبيرة هلبة.",
+    "ex_tr": "bēDat in-na3āma kbīra hallba.",
+    "ex_en": "The ostrich egg is very big.",
+    "note": "pl. نعام n3ām.",
+    "phrases": [
+      {
+        "ar": "زي النعامة",
+        "tr": "zayy in-na3āma",
+        "en": "like an ostrich (head in the sand)"
+      },
+      {
+        "ar": "ريش النعام",
+        "tr": "rīsh in-n3ām",
+        "en": "ostrich feathers"
+      }
+    ]
+  },
+  {
+    "ar": "كناري",
+    "tr": "kanāri",
+    "en": "canary",
+    "msa": "كناري",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "جارنا عنده كناري يغني.",
+    "ex_tr": "jārna 3indah kanāri yghanni.",
+    "ex_en": "Our neighbour has a canary that sings.",
+    "phrases": [
+      {
+        "ar": "قفص كناري",
+        "tr": "gfaS kanāri",
+        "en": "a canary cage"
+      },
+      {
+        "ar": "كناري أصفر",
+        "tr": "kanāri aSfar",
+        "en": "a yellow canary"
+      }
+    ]
+  },
+  {
+    "ar": "نورس",
+    "tr": "nawras",
+    "en": "seagull",
+    "msa": "نورس",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 22,
+    "ex_ar": "النوارس طايرين فوق المينا.",
+    "ex_tr": "in-nawāris Tāyrīn fōg il-mīna.",
+    "ex_en": "Seagulls are flying over the port.",
+    "note": "pl. نوارس nawāris.",
+    "phrases": [
+      {
+        "ar": "طير النورس",
+        "tr": "Tēr in-nawras",
+        "en": "the seagull"
+      },
+      {
+        "ar": "صوت النوارس",
+        "tr": "Sōt in-nawāris",
+        "en": "the cry of seagulls"
+      }
+    ]
+  },
+  {
+    "ar": "بلبل",
+    "tr": "bulbul",
+    "en": "nightingale; songbird",
+    "msa": "بلبل",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "البلبل يغني فوق الشجرة.",
+    "ex_tr": "il-bulbul yghanni fōg ish-shajra.",
+    "ex_en": "The nightingale sings in the tree.",
+    "note": "Also said of someone who speaks a language fluently (يتكلم زي البلبل).",
+    "phrases": [
+      {
+        "ar": "يتكلم زي البلبل",
+        "tr": "yitkallam zayy il-bulbul",
+        "en": "he speaks fluently"
+      },
+      {
+        "ar": "صوت البلبل",
+        "tr": "Sōt il-bulbul",
+        "en": "the nightingale's song"
+      }
+    ]
+  },
+  {
+    "ar": "هدهد",
+    "tr": "hudhud",
+    "en": "hoopoe",
+    "msa": "هدهد",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "شفت هدهد في السانية.",
+    "ex_tr": "shift hudhud fis-sānya.",
+    "ex_en": "I saw a hoopoe on the farm.",
+    "note": "Known from the Quran story of Solomon.",
+    "phrases": [
+      {
+        "ar": "تاج الهدهد",
+        "tr": "tāj il-hudhud",
+        "en": "the hoopoe's crest"
+      },
+      {
+        "ar": "قصة الهدهد",
+        "tr": "giSSat il-hudhud",
+        "en": "the story of the hoopoe"
+      }
+    ]
+  },
+  {
+    "ar": "طاووس",
+    "tr": "Tāwūs",
+    "en": "peacock",
+    "msa": "طاووس",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "الطاووس فتح ريشه.",
+    "ex_tr": "iT-Tāwūs fta7 rīshah.",
+    "ex_en": "The peacock spread its feathers.",
+    "note": "Also said of a vain person.",
+    "phrases": [
+      {
+        "ar": "شايف روحه زي الطاووس",
+        "tr": "shāyif rū7ah zayy iT-Tāwūs",
+        "en": "proud as a peacock"
+      },
+      {
+        "ar": "ريش الطاووس",
+        "tr": "rīsh iT-Tāwūs",
+        "en": "peacock feathers"
+      }
+    ]
+  },
+  {
+    "ar": "حبارى",
+    "tr": "7ubāra",
+    "en": "houbara bustard",
+    "msa": "حبارى",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 16,
+    "ex_ar": "الحبارى يجي للصحرا في الشتا.",
+    "ex_tr": "il-7ubāra yiji liS-Sa7ra fish-shta.",
+    "ex_en": "The houbara comes to the desert in winter.",
+    "note": "Desert bird hunted with falcons.",
+    "phrases": [
+      {
+        "ar": "صيد الحبارى",
+        "tr": "Sēd il-7ubāra",
+        "en": "houbara hunting"
+      },
+      {
+        "ar": "حبارى بري",
+        "tr": "7ubāra barri",
+        "en": "wild houbara"
+      }
+    ]
+  },
+  {
+    "ar": "سلوقي",
+    "tr": "slūgi",
+    "en": "saluki (hunting greyhound)",
+    "msa": "سلوقي",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "السلوقي يجري أسرع من الأرنب.",
+    "ex_tr": "is-slūgi yijri asra3 min il-arnab.",
+    "ex_en": "The saluki runs faster than a hare.",
+    "note": "Lean hunting dog of the Bedouin.",
+    "phrases": [
+      {
+        "ar": "كلب سلوقي",
+        "tr": "kalb slūgi",
+        "en": "a saluki dog"
+      },
+      {
+        "ar": "صيد بالسلوقي",
+        "tr": "Sēd bis-slūgi",
+        "en": "hunting with a saluki"
+      }
+    ]
+  },
+  {
+    "ar": "كلبة",
+    "tr": "kalba",
+    "en": "bitch; female dog",
+    "msa": "كلبة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "الكلبة جابت خمس جراوة.",
+    "ex_tr": "il-kalba jābat khamsa jrāwa.",
+    "ex_en": "The dog had five puppies.",
+    "note": "Also a harsh insult for a woman.",
+    "phrases": [
+      {
+        "ar": "كلبة حراسة",
+        "tr": "kalbat 7rāsa",
+        "en": "a guard dog (female)"
+      },
+      {
+        "ar": "كلبة الجيران",
+        "tr": "kalbat ij-jīrān",
+        "en": "the neighbours' dog"
+      }
+    ]
+  },
+  {
+    "ar": "قطوسة",
+    "tr": "gaTTūsa",
+    "en": "female cat; kitten",
+    "msa": "قطة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "القطوسة جابت قطاطيس صغار.",
+    "ex_tr": "il-gaTTūsa jābat gTāTīs Sghār.",
+    "ex_en": "The cat had little kittens.",
+    "note": "Masc. قطوس gaTTūs.",
+    "phrases": [
+      {
+        "ar": "قطوسة صغيرة",
+        "tr": "gaTTūsa Sghayra",
+        "en": "a little kitten"
+      },
+      {
+        "ar": "بسبس للقطوسة",
+        "tr": "bisbis lil-gaTTūsa",
+        "en": "call the cat (pss pss)"
+      }
+    ]
+  },
+  {
+    "ar": "جاموسة",
+    "tr": "jāmūsa",
+    "en": "water buffalo",
+    "msa": "جاموس",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 16,
+    "ex_ar": "الجاموسة تعطي حليب هلبة.",
+    "ex_tr": "ij-jāmūsa t3aTi 7līb hallba.",
+    "ex_en": "The buffalo gives a lot of milk.",
+    "note": "Collective جاموس jāmūs.",
+    "phrases": [
+      {
+        "ar": "حليب الجاموس",
+        "tr": "7līb ij-jāmūs",
+        "en": "buffalo milk"
+      },
+      {
+        "ar": "قوي زي الجاموس",
+        "tr": "gwi zayy ij-jāmūs",
+        "en": "strong as a buffalo"
+      }
+    ]
+  },
+  {
+    "ar": "حمار وحشي",
+    "tr": "7mār wa7shi",
+    "en": "zebra",
+    "msa": "حمار وحشي",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "الحمار الوحشي مخطط أبيض وأكحل.",
+    "ex_tr": "il-7mār il-wa7shi mkhaTTaT abyaD w-ak7al.",
+    "ex_en": "The zebra is striped black and white.",
+    "phrases": [
+      {
+        "ar": "خطوط الحمار الوحشي",
+        "tr": "khTūT il-7mār il-wa7shi",
+        "en": "zebra stripes"
+      },
+      {
+        "ar": "قطيع حمير وحشية",
+        "tr": "gaTī3 7mīr wa7shiyya",
+        "en": "a herd of zebras"
+      }
+    ]
+  },
+  {
+    "ar": "فهد",
+    "tr": "fahd",
+    "en": "cheetah; panther",
+    "msa": "فهد",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "الفهد أسرع حيوان.",
+    "ex_tr": "il-fahd asra3 7aywān.",
+    "ex_en": "The cheetah is the fastest animal.",
+    "note": "Also a man's name.",
+    "phrases": [
+      {
+        "ar": "جري زي الفهد",
+        "tr": "jra zayy il-fahd",
+        "en": "he ran like a cheetah"
+      },
+      {
+        "ar": "فهد أكحل",
+        "tr": "fahd ak7al",
+        "en": "a black panther"
+      }
+    ]
+  },
+  {
+    "ar": "سنجاب",
+    "tr": "sinjāb",
+    "en": "squirrel",
+    "msa": "سنجاب",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "السنجاب طلع فوق الشجرة.",
+    "ex_tr": "is-sinjāb Tla3 fōg ish-shajra.",
+    "ex_en": "The squirrel climbed up the tree.",
+    "phrases": [
+      {
+        "ar": "ذيل السنجاب",
+        "tr": "dhēl is-sinjāb",
+        "en": "the squirrel's tail"
+      },
+      {
+        "ar": "سنجاب صغير",
+        "tr": "sinjāb Sghayyir",
+        "en": "a little squirrel"
+      }
+    ]
+  },
+  {
+    "ar": "حوت كبير",
+    "tr": "7ūt kbīr",
+    "en": "whale",
+    "msa": "حوت",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "الحوت الكبير أكبر حيوان في الدنيا.",
+    "ex_tr": "il-7ūt il-kbīr akbar 7aywān fid-dinya.",
+    "ex_en": "The whale is the biggest animal in the world.",
+    "note": "Since حوت alone means \"fish\" in Libya, a whale is حوت كبير or حوت أزرق.",
+    "phrases": [
+      {
+        "ar": "الحوت الأزرق",
+        "tr": "il-7ūt il-azrag",
+        "en": "the blue whale"
+      },
+      {
+        "ar": "حيتان كبار",
+        "tr": "7ītān kbār",
+        "en": "whales"
+      }
+    ]
+  },
+  {
+    "ar": "سلحفاة بحرية",
+    "tr": "sal7afa ba7riyya",
+    "en": "sea turtle",
+    "msa": "سلحفاة بحرية",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "السلحفاة البحرية تبيض في الرملة.",
+    "ex_tr": "is-sal7afa l-ba7riyya tbīD fir-rmla.",
+    "ex_en": "The sea turtle lays eggs in the sand.",
+    "note": "Loggerhead turtles nest on Libyan beaches. On land, a tortoise is فكرون.",
+    "phrases": [
+      {
+        "ar": "فكرون البحر",
+        "tr": "fakrūn il-ba7ar",
+        "en": "sea turtle (colloquial)"
+      },
+      {
+        "ar": "حماية السلاحف",
+        "tr": "7imāyat is-salā7if",
+        "en": "protecting turtles"
+      }
+    ]
+  },
+  {
+    "ar": "حيوانات برية",
+    "tr": "7aywānāt barriyya",
+    "en": "wild animals; wildlife",
+    "msa": "حيوانات برية",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "الحيوانات البرية قلّت في ليبيا.",
+    "ex_tr": "il-7aywānāt il-barriyya gallat fi lībya.",
+    "ex_en": "Wildlife has become scarce in Libya.",
+    "note": "برّي = wild (vs. tame/domestic).",
+    "phrases": [
+      {
+        "ar": "حديقة حيوانات",
+        "tr": "7adīgat 7aywānāt",
+        "en": "a zoo"
+      },
+      {
+        "ar": "حيوان بري",
+        "tr": "7aywān barri",
+        "en": "a wild animal"
+      }
+    ]
+  },
+  {
+    "ar": "حديقة الحيوان",
+    "tr": "7adīgat il-7aywān",
+    "en": "zoo",
+    "msa": "حديقة الحيوان",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "ودّينا الصغار لحديقة الحيوان.",
+    "ex_tr": "waddēna S-Sghār l-7adīgat il-7aywān.",
+    "ex_en": "We took the kids to the zoo.",
+    "note": "Tripoli zoo is in أبو سليم.",
+    "phrases": [
+      {
+        "ar": "تذكرة حديقة الحيوان",
+        "tr": "tadhkarat 7adīgat il-7aywān",
+        "en": "a zoo ticket"
+      },
+      {
+        "ar": "حديقة الحيوان في أبو سليم",
+        "tr": "7adīgat il-7aywān f-abu slīm",
+        "en": "the zoo in Abu Salim"
+      }
+    ]
+  },
+  {
+    "ar": "حشرة",
+    "tr": "7ashra",
+    "en": "insect; bug",
+    "msa": "حشرة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 38,
+    "ex_ar": "الحوش مليان حشرات في الصيف.",
+    "ex_tr": "il-7ōsh malyān 7asharāt fiS-Sēf.",
+    "ex_en": "The house is full of insects in summer.",
+    "note": "pl. حشرات 7asharāt.",
+    "phrases": [
+      {
+        "ar": "قرصتني حشرة",
+        "tr": "garSatni 7ashra",
+        "en": "a bug bit me"
+      },
+      {
+        "ar": "مبيد حشرات",
+        "tr": "mubīd 7asharāt",
+        "en": "insecticide"
+      }
+    ]
+  },
+  {
+    "ar": "فراشة",
+    "tr": "farāsha",
+    "en": "butterfly; moth",
+    "msa": "فراشة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "الفراشات في الربيع ملونات.",
+    "ex_tr": "il-farāshāt fir-rbī3 mlawwnāt.",
+    "ex_en": "The butterflies in spring are colourful.",
+    "note": "pl. فراشات farāshāt.",
+    "phrases": [
+      {
+        "ar": "خفيفة زي الفراشة",
+        "tr": "khfīfa zayy il-farāsha",
+        "en": "light as a butterfly"
+      },
+      {
+        "ar": "فراشة حول الضي",
+        "tr": "farāsha 7ōl iD-Dayy",
+        "en": "a moth around the light"
+      }
+    ]
+  },
+  {
+    "ar": "جرادة",
+    "tr": "jrāda",
+    "en": "locust; grasshopper",
+    "msa": "جرادة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 28,
+    "ex_ar": "الجراد كلا الزرع كله.",
+    "ex_tr": "ij-jrād kla z-zar3 kulla.",
+    "ex_en": "The locusts ate all the crops.",
+    "note": "Collective جراد jrād. Locust swarms sometimes hit southern Libya.",
+    "phrases": [
+      {
+        "ar": "سرب جراد",
+        "tr": "sirb jrād",
+        "en": "a locust swarm"
+      },
+      {
+        "ar": "زي الجراد",
+        "tr": "zayy ij-jrād",
+        "en": "like locusts (a crowd eating everything)"
+      }
+    ]
+  },
+  {
+    "ar": "برغوث",
+    "tr": "barghūth",
+    "en": "flea",
+    "msa": "برغوث",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "الكلب فيه براغيث.",
+    "ex_tr": "il-kalb fīh barāghīth.",
+    "ex_en": "The dog has fleas.",
+    "note": "pl. براغيث barāghīth.",
+    "phrases": [
+      {
+        "ar": "قرصة برغوث",
+        "tr": "garSat barghūth",
+        "en": "a flea bite"
+      },
+      {
+        "ar": "دوا للبراغيث",
+        "tr": "dwa lil-barāghīth",
+        "en": "flea medicine"
+      }
+    ]
+  },
+  {
+    "ar": "قملة",
+    "tr": "gamla",
+    "en": "louse",
+    "msa": "قملة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "جابت القمل من المدرسة.",
+    "ex_tr": "jābat il-gmal min il-madrasa.",
+    "ex_en": "She brought lice home from school.",
+    "note": "Collective قمل gmal. Lice in school kids' hair is a common worry.",
+    "phrases": [
+      {
+        "ar": "شامبو للقمل",
+        "tr": "shāmbu lil-gmal",
+        "en": "lice shampoo"
+      },
+      {
+        "ar": "راسه فيه قمل",
+        "tr": "rāsah fīh gmal",
+        "en": "he has lice"
+      }
+    ]
+  },
+  {
+    "ar": "عنكبوت",
+    "tr": "3ankabūt",
+    "en": "spider",
+    "msa": "عنكبوت",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 30,
+    "ex_ar": "فيه عنكبوت في ركن الدار.",
+    "ex_tr": "fīh 3ankabūt fi rukn id-dār.",
+    "ex_en": "There's a spider in the corner of the room.",
+    "note": "pl. عناكب 3anākib.",
+    "phrases": [
+      {
+        "ar": "بيت العنكبوت",
+        "tr": "bēt il-3ankabūt",
+        "en": "cobweb"
+      },
+      {
+        "ar": "خايفة من العناكب",
+        "tr": "khāyfa min il-3anākib",
+        "en": "she's scared of spiders"
+      }
+    ]
+  },
+  {
+    "ar": "دودة",
+    "tr": "dūda",
+    "en": "worm; caterpillar",
+    "msa": "دودة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "التفاحة فيها دودة.",
+    "ex_tr": "it-teffā7a fīha dūda.",
+    "ex_en": "The apple has a worm in it.",
+    "note": "Collective دود dūd.",
+    "phrases": [
+      {
+        "ar": "دودة القز",
+        "tr": "dūdat il-gazz",
+        "en": "silkworm"
+      },
+      {
+        "ar": "الدود في التراب",
+        "tr": "id-dūd fit-trāb",
+        "en": "worms in the soil"
+      }
+    ]
+  },
+  {
+    "ar": "بقّة",
+    "tr": "bagga",
+    "en": "bedbug",
+    "msa": "بقة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "الفندق كان فيه بق.",
+    "ex_tr": "il-funduq kān fīh bagg.",
+    "ex_en": "The hotel had bedbugs.",
+    "note": "Collective بق bagg.",
+    "phrases": [
+      {
+        "ar": "قرصة بقة",
+        "tr": "garSat bagga",
+        "en": "a bedbug bite"
+      },
+      {
+        "ar": "رش للبق",
+        "tr": "rashsh lil-bagg",
+        "en": "spray for bedbugs"
+      }
+    ]
+  },
+  {
+    "ar": "دبّور",
+    "tr": "dabbūr",
+    "en": "wasp; hornet",
+    "msa": "دبور",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "قرصني دبور في يدي.",
+    "ex_tr": "garSni dabbūr fi yiddi.",
+    "ex_en": "A wasp stung me on the hand.",
+    "note": "pl. دبابير dbābīr.",
+    "phrases": [
+      {
+        "ar": "عش دبابير",
+        "tr": "3ishsh dbābīr",
+        "en": "a wasps' nest"
+      },
+      {
+        "ar": "قرصة الدبور توجع",
+        "tr": "garSat id-dabbūr tūja3",
+        "en": "a wasp sting hurts"
+      }
+    ]
+  },
+  {
+    "ar": "خنفوسة",
+    "tr": "khanfūsa",
+    "en": "beetle",
+    "msa": "خنفساء",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "خنفوسة كحلة تمشي على الأرض.",
+    "ex_tr": "khanfūsa ka7la timshi 3la l-arD.",
+    "ex_en": "A black beetle is walking on the floor.",
+    "note": "pl. خنافس khnāfis.",
+    "phrases": [
+      {
+        "ar": "خنفوسة كبيرة",
+        "tr": "khanfūsa kbīra",
+        "en": "a big beetle"
+      },
+      {
+        "ar": "زي الخنفوسة",
+        "tr": "zayy il-khanfūsa",
+        "en": "like a beetle (ugly; black)"
+      }
+    ]
+  },
+  {
+    "ar": "حلزون",
+    "tr": "7alazūn",
+    "en": "snail",
+    "msa": "حلزون",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "بعد المطر طلع الحلزون.",
+    "ex_tr": "ba3d il-maTar Tla3 il-7alazūn.",
+    "ex_en": "After the rain the snails came out.",
+    "note": "After rain the snails come out on the farm.",
+    "phrases": [
+      {
+        "ar": "يمشي زي الحلزون",
+        "tr": "yimshi zayy il-7alazūn",
+        "en": "he moves at a snail's pace"
+      },
+      {
+        "ar": "قوقعة حلزون",
+        "tr": "gōg3at 7alazūn",
+        "en": "a snail shell"
+      }
+    ]
+  },
+  {
+    "ar": "قرادة",
+    "tr": "grāda",
+    "en": "tick (parasite)",
+    "msa": "قرادة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "الكلب لصقت فيه قرادة.",
+    "ex_tr": "il-kalb liSgat fīh grāda.",
+    "ex_en": "A tick got stuck on the dog.",
+    "note": "Collective قراد grād.",
+    "phrases": [
+      {
+        "ar": "قراد الغنم",
+        "tr": "grād il-ghnam",
+        "en": "sheep ticks"
+      },
+      {
+        "ar": "زي القرادة",
+        "tr": "zayy il-grāda",
+        "en": "clingy as a tick"
+      }
+    ]
+  },
+  {
+    "ar": "يرقة",
+    "tr": "yarga",
+    "en": "larva; caterpillar",
+    "msa": "يرقة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 16,
+    "ex_ar": "اليرقة تولي فراشة.",
+    "ex_tr": "il-yarga twalli farāsha.",
+    "ex_en": "The caterpillar becomes a butterfly.",
+    "note": "pl. يرقات yargāt.",
+    "phrases": [
+      {
+        "ar": "يرقات الناموس",
+        "tr": "yargāt in-nāmūs",
+        "en": "mosquito larvae"
+      },
+      {
+        "ar": "يرقة خضرا",
+        "tr": "yarga khaDra",
+        "en": "a green caterpillar"
+      }
+    ]
+  },
+  {
+    "ar": "ريش",
+    "tr": "rīsh",
+    "en": "feathers",
+    "msa": "ريش",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "المخدة معبية ريش.",
+    "ex_tr": "il-mkhadda m3abbya rīsh.",
+    "ex_en": "The pillow is stuffed with feathers.",
+    "note": "One = ريشة rīsha (also a pen nib or paintbrush). Same word means lamb chops at the butcher's.",
+    "phrases": [
+      {
+        "ar": "ريشة طير",
+        "tr": "rīshat Tēr",
+        "en": "a bird's feather"
+      },
+      {
+        "ar": "خفيف زي الريشة",
+        "tr": "khfīf zayy ir-rīsha",
+        "en": "light as a feather"
+      }
+    ]
+  },
+  {
+    "ar": "جناح",
+    "tr": "jnā7",
+    "en": "wing",
+    "msa": "جناح",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "العصفور جناحه مكسور.",
+    "ex_tr": "il-3aSfūr jnā7ah maksūr.",
+    "ex_en": "The bird's wing is broken.",
+    "note": "pl. جوانح jwāni7 (also chicken wings as food) / أجنحة.",
+    "phrases": [
+      {
+        "ar": "جناح الطير",
+        "tr": "jnā7 iT-Tēr",
+        "en": "the bird's wing"
+      },
+      {
+        "ar": "جناح الطيارة",
+        "tr": "jnā7 iT-Tayyāra",
+        "en": "the plane's wing"
+      }
+    ]
+  },
+  {
+    "ar": "منقار",
+    "tr": "mingār",
+    "en": "beak",
+    "msa": "منقار",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "الطير نقر بمنقاره.",
+    "ex_tr": "iT-Tēr nagar b-mingārah.",
+    "ex_en": "The bird pecked with its beak.",
+    "note": "pl. مناقير mnāgīr.",
+    "phrases": [
+      {
+        "ar": "منقار طويل",
+        "tr": "mingār Twīl",
+        "en": "a long beak"
+      },
+      {
+        "ar": "منقار النسر",
+        "tr": "mingār in-nisr",
+        "en": "the eagle's beak"
+      }
+    ]
+  },
+  {
+    "ar": "ذيل",
+    "tr": "dhēl",
+    "en": "tail",
+    "msa": "ذيل",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "الكلب يهز في ذيله.",
+    "ex_tr": "il-kalb yhizz fi dhēlah.",
+    "ex_en": "The dog is wagging its tail.",
+    "note": "pl. ذيول dhyūl. Also the tail end of something.",
+    "phrases": [
+      {
+        "ar": "ذيل القطوس",
+        "tr": "dhēl il-gaTTūs",
+        "en": "the cat's tail"
+      },
+      {
+        "ar": "في ذيل القائمة",
+        "tr": "fi dhēl il-gāyma",
+        "en": "at the bottom of the list"
+      }
+    ]
+  },
+  {
+    "ar": "قرن",
+    "tr": "gurn",
+    "en": "horn",
+    "msa": "قرن",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "الكبش هذا قرونه كبار.",
+    "ex_tr": "il-kebsh hādha grūnah kbār.",
+    "ex_en": "This ram has big horns.",
+    "note": "pl. قرون grūn. Same spelling as قرن garn \"century\".",
+    "phrases": [
+      {
+        "ar": "قرون الكبش",
+        "tr": "grūn il-kebsh",
+        "en": "the ram's horns"
+      },
+      {
+        "ar": "قرن الغزال",
+        "tr": "gurn il-ghzāl",
+        "en": "the gazelle's horn"
+      }
+    ]
+  },
+  {
+    "ar": "حافر",
+    "tr": "7āfir",
+    "en": "hoof",
+    "msa": "حافر",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "الحصان يحتاج حديد في حافره.",
+    "ex_tr": "il-7Sān yi7tāj 7dīd fi 7āfrah.",
+    "ex_en": "The horse needs a shoe on its hoof.",
+    "note": "pl. حوافر 7wāfir.",
+    "phrases": [
+      {
+        "ar": "حوافر الخيل",
+        "tr": "7wāfir il-khēl",
+        "en": "horses' hooves"
+      },
+      {
+        "ar": "صوت الحوافر",
+        "tr": "Sōt il-7wāfir",
+        "en": "the sound of hooves"
+      }
+    ]
+  },
+  {
+    "ar": "سنام",
+    "tr": "snām",
+    "en": "hump (of a camel)",
+    "msa": "سنام",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "الجمل يخزّن الشحم في السنام.",
+    "ex_tr": "ij-jmal ykhazzin ish-sha7am fis-snām.",
+    "ex_en": "The camel stores fat in its hump.",
+    "phrases": [
+      {
+        "ar": "سنام الجمل",
+        "tr": "snām ij-jmal",
+        "en": "the camel's hump"
+      },
+      {
+        "ar": "جمل بزوز سنامات",
+        "tr": "jmal b-zōz snāmāt",
+        "en": "a two-humped camel"
+      }
+    ]
+  },
+  {
+    "ar": "خرطوم",
+    "tr": "khurTūm",
+    "en": "trunk (of an elephant); hose",
+    "msa": "خرطوم",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "الفيل يشرب بخرطومه.",
+    "ex_tr": "il-fīl yishrab b-khurTūmah.",
+    "ex_en": "The elephant drinks with its trunk.",
+    "note": "pl. خراطيم khrāTīm. Also a garden/water hose.",
+    "phrases": [
+      {
+        "ar": "خرطوم الفيل",
+        "tr": "khurTūm il-fīl",
+        "en": "the elephant's trunk"
+      },
+      {
+        "ar": "خرطوم مية",
+        "tr": "khurTūm mayya",
+        "en": "a water hose"
+      }
+    ]
+  },
+  {
+    "ar": "مخلب",
+    "tr": "mikhlab",
+    "en": "claw; talon",
+    "msa": "مخلب",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "القطوس خربشني بمخالبه.",
+    "ex_tr": "il-gaTTūs kharbashni b-mkhālbah.",
+    "ex_en": "The cat scratched me with its claws.",
+    "note": "pl. مخالب mkhālib.",
+    "phrases": [
+      {
+        "ar": "مخالب الصقر",
+        "tr": "mkhālib iS-Sagr",
+        "en": "the falcon's talons"
+      },
+      {
+        "ar": "مخالب حادة",
+        "tr": "mkhālib 7ādda",
+        "en": "sharp claws"
+      }
+    ]
+  },
+  {
+    "ar": "جحر",
+    "tr": "j7ar",
+    "en": "burrow; hole (of an animal)",
+    "msa": "جحر",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "الفار دخل في الجحر.",
+    "ex_tr": "il-fār dkhal fij-j7ar.",
+    "ex_en": "The mouse went into its hole.",
+    "note": "pl. جحور j7ūr.",
+    "phrases": [
+      {
+        "ar": "جحر الحنش",
+        "tr": "j7ar il-7nash",
+        "en": "the snake's hole"
+      },
+      {
+        "ar": "ما يطلعش من جحره",
+        "tr": "ma yiTla3sh min j7rah",
+        "en": "he never leaves his den (a homebody)"
+      }
+    ]
+  },
+  {
+    "ar": "سرب",
+    "tr": "sirb",
+    "en": "flock (of birds); swarm",
+    "msa": "سرب",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "سرب حمام طاير فوق المدينة.",
+    "ex_tr": "sirb 7mām Tāyir fōg il-madīna.",
+    "ex_en": "A flock of pigeons is flying over the city.",
+    "note": "pl. أسراب asrāb.",
+    "phrases": [
+      {
+        "ar": "سرب طيور",
+        "tr": "sirb Tyūr",
+        "en": "a flock of birds"
+      },
+      {
+        "ar": "سرب نحل",
+        "tr": "sirb na7l",
+        "en": "a swarm of bees"
+      }
+    ]
+  },
+  {
+    "ar": "نباح",
+    "tr": "nbā7",
+    "en": "barking",
+    "msa": "نباح",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "ما رقدتش من نباح الكلاب.",
+    "ex_tr": "ma ragadtsh min nbā7 il-klāb.",
+    "ex_en": "I couldn't sleep because of the dogs barking.",
+    "phrases": [
+      {
+        "ar": "نباح الكلب",
+        "tr": "nbā7 il-kalb",
+        "en": "the dog's barking"
+      },
+      {
+        "ar": "نباح طول الليل",
+        "tr": "nbā7 Tūl il-lēl",
+        "en": "barking all night"
+      }
+    ]
+  },
+  {
+    "ar": "نبح",
+    "tr": "nba7",
+    "en": "to bark",
+    "msa": "نبح",
+    "pos": "verb",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 32,
+    "ex_ar": "الكلب ينبح على كل واحد يفوت.",
+    "ex_tr": "il-kalb yinba7 3la kull wā7id yfūt.",
+    "ex_en": "The dog barks at everyone passing by.",
+    "note": "imperfect: ينبح yinba7. Proverb: الكلب اللي ينبح ما يعضش.",
+    "phrases": [
+      {
+        "ar": "الكلاب ينبحوا",
+        "tr": "il-klāb yinba7u",
+        "en": "the dogs are barking"
+      },
+      {
+        "ar": "الكلب اللي ينبح ما يعضش",
+        "tr": "il-kalb illi yinba7 ma y3aDDish",
+        "en": "a barking dog doesn't bite"
+      }
+    ]
+  },
+  {
+    "ar": "نهيق",
+    "tr": "nhīg",
+    "en": "braying (of a donkey)",
+    "msa": "نهيق",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "نهيق الحمار صحّانا الصبح.",
+    "ex_tr": "nhīg il-7mār Sa77āna S-Sba7.",
+    "ex_en": "The donkey's braying woke us up in the morning.",
+    "note": "Verb نهق nhag, imperfect ينهق yinhag.",
+    "phrases": [
+      {
+        "ar": "صوته زي نهيق الحمار",
+        "tr": "Sōtah zayy nhīg il-7mār",
+        "en": "his voice is like a braying donkey"
+      },
+      {
+        "ar": "الحمار ينهق",
+        "tr": "il-7mār yinhag",
+        "en": "the donkey is braying"
+      }
+    ]
+  },
+  {
+    "ar": "زقزقة",
+    "tr": "zagzga",
+    "en": "chirping; birdsong",
+    "msa": "زقزقة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "نحب زقزقة العصافير الصبح.",
+    "ex_tr": "n7ibb zagzgat il-3aSāfīr iS-Sba7.",
+    "ex_en": "I love the birds chirping in the morning.",
+    "note": "Verb زقزق zagzag, imperfect يزقزق yzagzig.",
+    "phrases": [
+      {
+        "ar": "العصافير يزقزقوا",
+        "tr": "il-3aSāfīr yzagzgu",
+        "en": "the birds are chirping"
+      },
+      {
+        "ar": "زقزقة الفجر",
+        "tr": "zagzgat il-fajr",
+        "en": "the dawn chorus"
+      }
+    ]
+  },
+  {
+    "ar": "عوى",
+    "tr": "3wa",
+    "en": "to howl",
+    "msa": "عوى",
+    "pos": "verb",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 22,
+    "ex_ar": "الذيب يعوي في الليل.",
+    "ex_tr": "idh-dhīb y3awi fil-lēl.",
+    "ex_en": "The jackal howls at night.",
+    "note": "imperfect: يعوي y3awi. Noun عواء 3uwā.",
+    "phrases": [
+      {
+        "ar": "الكلاب تعوي",
+        "tr": "il-klāb t3awi",
+        "en": "the dogs are howling"
+      },
+      {
+        "ar": "سمعنا ذيب يعوي",
+        "tr": "sma3na dhīb y3awi",
+        "en": "we heard a jackal howl"
+      }
+    ]
+  },
+  {
+    "ar": "صهيل",
+    "tr": "Sahīl",
+    "en": "neighing",
+    "msa": "صهيل",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 16,
+    "ex_ar": "سمعنا صهيل الخيل من بعيد.",
+    "ex_tr": "sma3na Sahīl il-khēl min b3īd.",
+    "ex_en": "We heard the horses neighing from afar.",
+    "note": "Verb صهل Sahal.",
+    "phrases": [
+      {
+        "ar": "صهيل الحصان",
+        "tr": "Sahīl il-7Sān",
+        "en": "the horse's neigh"
+      },
+      {
+        "ar": "صهيل وحوافر",
+        "tr": "Sahīl w-7wāfir",
+        "en": "neighing and hooves"
+      }
+    ]
+  },
+  {
+    "ar": "صياح الديك",
+    "tr": "Siyā7 id-dīk",
+    "en": "cockcrow; rooster crowing",
+    "msa": "صياح الديك",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "نوضنا مع صياح الديك.",
+    "ex_tr": "nōDna ma3 Siyā7 id-dīk.",
+    "ex_en": "We got up at cockcrow.",
+    "note": "Verb: الديك صاح / يصيّح.",
+    "phrases": [
+      {
+        "ar": "الديك صيّح",
+        "tr": "id-dīk Sayya7",
+        "en": "the rooster crowed"
+      },
+      {
+        "ar": "قبل صياح الديك",
+        "tr": "gbal Siyā7 id-dīk",
+        "en": "before cockcrow"
+      }
+    ]
+  },
+  {
+    "ar": "خيل",
+    "tr": "khēl",
+    "en": "horses (collective)",
+    "msa": "خيل",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "عمي يحب الخيل هلبة.",
+    "ex_tr": "3ammi y7ibb il-khēl hallba.",
+    "ex_en": "My uncle loves horses.",
+    "note": "Singular حصان / فرس. Horse culture: الفروسية and fantasia shows.",
+    "phrases": [
+      {
+        "ar": "سباق الخيل",
+        "tr": "sbāg il-khēl",
+        "en": "horse racing"
+      },
+      {
+        "ar": "ركوب الخيل",
+        "tr": "rkūb il-khēl",
+        "en": "horse riding"
+      },
+      {
+        "ar": "استعراض الخيل",
+        "tr": "isti3rāD il-khēl",
+        "en": "horse show (fantasia)"
+      }
+    ]
+  },
+  {
+    "ar": "لبؤة",
+    "tr": "labwa",
+    "en": "lioness",
+    "msa": "لبؤة",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 16,
+    "ex_ar": "اللبوة تصطاد للأسد.",
+    "ex_tr": "il-labwa tiSTād lil-asad.",
+    "ex_en": "The lioness hunts for the lion.",
+    "phrases": [
+      {
+        "ar": "لبوة وأشبالها",
+        "tr": "labwa w-ashbālha",
+        "en": "a lioness and her cubs"
+      },
+      {
+        "ar": "زي اللبوة",
+        "tr": "zayy il-labwa",
+        "en": "fierce like a lioness"
+      }
+    ]
+  },
+  {
+    "ar": "شبل",
+    "tr": "shibl",
+    "en": "lion cub; cub",
+    "msa": "شبل",
+    "pos": "noun",
+    "cat": "animals",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "الشبل يلعب مع أمه.",
+    "ex_tr": "ish-shibl yil3ab ma3 ummah.",
+    "ex_en": "The cub plays with its mother.",
+    "note": "pl. أشبال ashbāl. Also junior sports teams (الأشبال).",
+    "phrases": [
+      {
+        "ar": "فريق الأشبال",
+        "tr": "farīg il-ashbāl",
+        "en": "the junior team"
+      },
+      {
+        "ar": "هذا الشبل من ذاك الأسد",
+        "tr": "hādha sh-shibl min dhāk il-asad",
+        "en": "like father, like son"
+      }
+    ]
+  }
+]

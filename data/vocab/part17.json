@@ -233,83 +233,6 @@
   ]
  },
  {
-  "ar": "معدل",
-  "tr": "mu3addal",
-  "en": "grade average; GPA; rate",
-  "msa": "معدل",
-  "pos": "noun",
-  "cat": "school",
-  "freq": 3,
-  "usage": 56,
-  "ex_ar": "معدلي هالسنة عالي",
-  "ex_tr": "mu3addali has-sana 3āli",
-  "ex_en": "My average this year is high",
-  "note": "pl. معدلات mu3addalāt",
-  "phrases": [
-   {
-    "ar": "معدلك قداش؟",
-    "tr": "mu3addalik gaddāsh?",
-    "en": "What's your average?"
-   },
-   {
-    "ar": "المعدل ما يكفيش للطب",
-    "tr": "il-mu3addal ma ykaffīsh liT-Tibb",
-    "en": "The average isn't enough for medicine"
-   }
-  ]
- },
- {
-  "ar": "نسبة",
-  "tr": "nisba",
-  "en": "percentage (final exam score); ratio",
-  "msa": "نسبة",
-  "pos": "noun",
-  "cat": "school",
-  "freq": 3,
-  "usage": 52,
-  "ex_ar": "جاب نسبة تسعين في الثانوية",
-  "ex_tr": "jāb nisba tis3īn fith-thānawiyya",
-  "ex_en": "He got ninety percent in secondary school",
-  "note": "Libyans talk about a student's nisba for university admission. pl. نسب nisab",
-  "phrases": [
-   {
-    "ar": "نسبتك قداش؟",
-    "tr": "nisbtik gaddāsh?",
-    "en": "What's your percentage?"
-   },
-   {
-    "ar": "نسبة النجاح عالية",
-    "tr": "nisbat in-najā7 3ālya",
-    "en": "The pass rate is high"
-   }
-  ]
- },
- {
-  "ar": "نجاح",
-  "tr": "najā7",
-  "en": "success; passing (an exam)",
-  "msa": "نجاح",
-  "pos": "noun",
-  "cat": "school",
-  "freq": 3,
-  "usage": 60,
-  "ex_ar": "مبروك النجاح!",
-  "ex_tr": "mabrūk in-najā7!",
-  "ex_en": "Congratulations on passing!",
-  "phrases": [
-   {
-    "ar": "ربي يكتبلك النجاح",
-    "tr": "rabbi yiktiblak in-najā7",
-    "en": "May God grant you success"
-   },
-   {
-    "ar": "حفلة نجاح",
-    "tr": "7aflat najā7",
-    "en": "a party for passing exams"
-   }
-  ]
- },
- {
   "ar": "رسوب",
   "tr": "rusūb",
   "en": "failing (an exam or school year)",
@@ -1854,6 +1777,5852 @@
     "ar": "كشف درجات مختوم",
     "tr": "kashf darajāt makhtūm",
     "en": "a stamped transcript"
+   }
+  ]
+ },
+ {
+  "ar": "ملف",
+  "tr": "milaff",
+  "en": "file; folder (document or computer)",
+  "msa": "ملف",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 55,
+  "ex_ar": "بعتلي الملف على الواتساب",
+  "ex_tr": "ba3atli l-milaff 3al-wātsāb",
+  "ex_en": "He sent me the file on WhatsApp",
+  "note": "pl. ملفات milaffāt",
+  "phrases": [
+   {
+    "ar": "افتح الملف",
+    "tr": "iftaH il-milaff",
+    "en": "Open the file"
+   },
+   {
+    "ar": "ملف PDF",
+    "tr": "milaff pē-dē-ef",
+    "en": "a PDF file"
+   }
+  ]
+ },
+ {
+  "ar": "لينك",
+  "tr": "link",
+  "en": "link; URL",
+  "msa": "رابط",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "ابعتلي اللينك",
+  "ex_tr": "ib3atli l-link",
+  "ex_en": "Send me the link",
+  "note": "English loan; MSA رابط rābiT",
+  "phrases": [
+   {
+    "ar": "اللينك ما يفتحش",
+    "tr": "il-link ma yiftaHsh",
+    "en": "The link won't open"
+   },
+   {
+    "ar": "حطيت اللينك في القروب",
+    "tr": "7aTTēt il-link fil-grūb",
+    "en": "I put the link in the group"
+   }
+  ]
+ },
+ {
+  "ar": "أبديت",
+  "tr": "abdēt",
+  "en": "update (software)",
+  "msa": "تحديث",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "التلفون يبي أبديت",
+  "ex_tr": "it-tilifōn yibbi abdēt",
+  "ex_en": "The phone needs an update",
+  "note": "English loan; also تحديث ta7dīth",
+  "phrases": [
+   {
+    "ar": "دير أبديت للتطبيق",
+    "tr": "dīr abdēt lit-taTbīg",
+    "en": "Update the app"
+   },
+   {
+    "ar": "الأبديت الجديد فيه مشاكل",
+    "tr": "il-abdēt ij-jdīd fīh mashākil",
+    "en": "The new update has problems"
+   }
+  ]
+ },
+ {
+  "ar": "واي فاي",
+  "tr": "wāy fāy",
+  "en": "Wi-Fi",
+  "msa": "واي فاي",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 64,
+  "ex_ar": "عندكم واي فاي؟",
+  "ex_tr": "3andkum wāy fāy?",
+  "ex_en": "Do you have Wi-Fi?",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "شن باسورد الواي فاي؟",
+    "tr": "shin bāswōrd il-wāy fāy?",
+    "en": "What's the Wi-Fi password?"
+   },
+   {
+    "ar": "الواي فاي ضعيف هني",
+    "tr": "il-wāy fāy Da3īf hni",
+    "en": "The Wi-Fi is weak here"
+   }
+  ]
+ },
+ {
+  "ar": "باقة",
+  "tr": "bāga",
+  "en": "data bundle; mobile package; bouquet",
+  "msa": "باقة",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "اشتريت باقة نت بعشرة دينار",
+  "ex_tr": "ishtarēt bāgat net b-3ashra dīnār",
+  "ex_en": "I bought a ten-dinar internet bundle",
+  "note": "pl. باقات bāgāt; also a bouquet of flowers",
+  "phrases": [
+   {
+    "ar": "الباقة كملت",
+    "tr": "il-bāga kammlat",
+    "en": "The bundle has run out"
+   },
+   {
+    "ar": "باقة شهرية",
+    "tr": "bāga shahriyya",
+    "en": "a monthly package"
+   }
+  ]
+ },
+ {
+  "ar": "ليبيانا",
+  "tr": "lībyāna",
+  "en": "Libyana (Libyan mobile network)",
+  "msa": "ليبيانا",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "رقمي ليبيانا مش المدار",
+  "ex_tr": "ragmi lībyāna mush il-madār",
+  "ex_en": "My number is Libyana, not Al-Madar",
+  "note": "One of Libya's two mobile operators; numbers start 091/094",
+  "phrases": [
+   {
+    "ar": "كرت ليبيانا",
+    "tr": "kart lībyāna",
+    "en": "a Libyana top-up card"
+   },
+   {
+    "ar": "شبكة ليبيانا طايحة",
+    "tr": "shabakat lībyāna Tāy7a",
+    "en": "The Libyana network is down"
+   }
+  ]
+ },
+ {
+  "ar": "المدار",
+  "tr": "il-madār",
+  "en": "Al-Madar (Libyan mobile network)",
+  "msa": "المدار",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "عندي شريحة المدار",
+  "ex_tr": "3andi shrī7at il-madār",
+  "ex_en": "I have an Al-Madar SIM",
+  "note": "Libya's other mobile operator; numbers start 092/095",
+  "phrases": [
+   {
+    "ar": "كرت مدار بخمسة",
+    "tr": "kart madār b-khamsa",
+    "en": "a five-dinar Al-Madar card"
+   },
+   {
+    "ar": "المدار تغطيته باهية",
+    "tr": "il-madār taghTītah bāhya",
+    "en": "Al-Madar's coverage is good"
+   }
+  ]
+ },
+ {
+  "ar": "تغطية",
+  "tr": "taghTiya",
+  "en": "(network) coverage; signal",
+  "msa": "تغطية",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "ما فيش تغطية في الطريق",
+  "ex_tr": "ma fīsh taghTiya fiT-Trīg",
+  "ex_en": "There's no coverage on the road",
+  "phrases": [
+   {
+    "ar": "خارج التغطية",
+    "tr": "khārij it-taghTiya",
+    "en": "out of coverage"
+   },
+   {
+    "ar": "التغطية ضعيفة في الحوش",
+    "tr": "it-taghTiya Da3īfa fil-7ōsh",
+    "en": "The signal is weak at home"
+   }
+  ]
+ },
+ {
+  "ar": "راوتر",
+  "tr": "rāwtar",
+  "en": "router; modem",
+  "msa": "موجه",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "طفّي الراوتر وشعّله",
+  "ex_tr": "Taffi r-rāwtar w sha33la",
+  "ex_en": "Turn the router off and on again",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "الراوتر قاعد يقطع",
+    "tr": "ir-rāwtar gā3id yigTa3",
+    "en": "The router keeps cutting out"
+   },
+   {
+    "ar": "راوتر جديد",
+    "tr": "rāwtar jdīd",
+    "en": "a new router"
+   }
+  ]
+ },
+ {
+  "ar": "ماوس",
+  "tr": "māws",
+  "en": "computer mouse",
+  "msa": "فأرة",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "الماوس ما يخدمش",
+  "ex_tr": "il-māws ma yikhdimsh",
+  "ex_en": "The mouse isn't working",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "ماوس بلا سلك",
+    "tr": "māws bla silk",
+    "en": "a wireless mouse"
+   },
+   {
+    "ar": "حرّك الماوس",
+    "tr": "7arrik il-māws",
+    "en": "Move the mouse"
+   }
+  ]
+ },
+ {
+  "ar": "كيبورد",
+  "tr": "kībōrd",
+  "en": "keyboard",
+  "msa": "لوحة مفاتيح",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "الكيبورد فيه حروف عربي",
+  "ex_tr": "il-kībōrd fīh 7rūf 3arabi",
+  "ex_en": "The keyboard has Arabic letters",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "بدّل لغة الكيبورد",
+    "tr": "baddil lughat il-kībōrd",
+    "en": "Switch the keyboard language"
+   },
+   {
+    "ar": "كيبورد النقال",
+    "tr": "kībōrd in-naggāl",
+    "en": "the phone keyboard"
+   }
+  ]
+ },
+ {
+  "ar": "مجلد",
+  "tr": "mujallad",
+  "en": "folder (computer); volume (book)",
+  "msa": "مجلد",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "حط الصور في مجلد واحد",
+  "ex_tr": "7oTT iS-Sūwar fi mujallad wā7id",
+  "ex_en": "Put the photos in one folder",
+  "note": "pl. مجلدات mujalladāt; also called فولدر fōldar",
+  "phrases": [
+   {
+    "ar": "مجلد جديد",
+    "tr": "mujallad jdīd",
+    "en": "a new folder"
+   },
+   {
+    "ar": "افتح المجلد",
+    "tr": "iftaH il-mujallad",
+    "en": "Open the folder"
+   }
+  ]
+ },
+ {
+  "ar": "لعبة",
+  "tr": "li3ba",
+  "en": "game; toy",
+  "msa": "لعبة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 2,
+  "usage": 66,
+  "ex_ar": "الصغار يحبوا اللعبة هادي",
+  "ex_tr": "iS-Sghār y7ibbu l-li3ba hādi",
+  "ex_en": "The kids love this game",
+  "note": "pl. ألعاب al3āb / لعب li3ab",
+  "phrases": [
+   {
+    "ar": "لعبة على النقال",
+    "tr": "li3ba 3an-naggāl",
+    "en": "a game on the phone"
+   },
+   {
+    "ar": "شريتله لعبة جديدة",
+    "tr": "shrētla li3ba jdīda",
+    "en": "I bought him a new toy"
+   }
+  ]
+ },
+ {
+  "ar": "بلايستيشن",
+  "tr": "playstation",
+  "en": "PlayStation; games console",
+  "msa": "بلايستيشن",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "نلعبوا بلايستيشن الليلة؟",
+  "ex_tr": "nil3bu playstation il-lēla?",
+  "ex_en": "Shall we play PlayStation tonight?",
+  "note": "Brand used for any console; often shortened to بلاي play",
+  "phrases": [
+   {
+    "ar": "ماتش بلايستيشن",
+    "tr": "mātsh playstation",
+    "en": "a PlayStation (FIFA) match"
+   },
+   {
+    "ar": "يقعد ع البلايستيشن لنص الليل",
+    "tr": "yug3ud 3al-playstation li-nuSS il-lēl",
+    "en": "He sits at the PlayStation till midnight"
+   }
+  ]
+ },
+ {
+  "ar": "تابلت",
+  "tr": "tablet",
+  "en": "tablet (device)",
+  "msa": "جهاز لوحي",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الصغير ديما ماسك التابلت",
+  "ex_tr": "iS-Sghīr dīma māsik it-tablet",
+  "ex_en": "The little one is always holding the tablet",
+  "note": "English loan; also آيباد āybād",
+  "phrases": [
+   {
+    "ar": "شاشة التابلت تكسرت",
+    "tr": "shāshat it-tablet tkassrat",
+    "en": "The tablet screen broke"
+   },
+   {
+    "ar": "تابلت للقراية",
+    "tr": "tablet lil-grāya",
+    "en": "a tablet for studying"
+   }
+  ]
+ },
+ {
+  "ar": "ميموري",
+  "tr": "memori",
+  "en": "memory card; storage",
+  "msa": "بطاقة ذاكرة",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الميموري مليانة",
+  "ex_tr": "il-memori milyāna",
+  "ex_en": "The memory is full",
+  "note": "English loan; also ذاكرة dhākira",
+  "phrases": [
+   {
+    "ar": "حط ميموري في التلفون",
+    "tr": "7oTT memori fit-tilifōn",
+    "en": "Put a memory card in the phone"
+   },
+   {
+    "ar": "ميموري كبيرة",
+    "tr": "memori kbīra",
+    "en": "a large-capacity memory card"
+   }
+  ]
+ },
+ {
+  "ar": "سيلفي",
+  "tr": "selfi",
+  "en": "selfie",
+  "msa": "صورة ذاتية",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "خلينا ناخدوا سيلفي",
+  "ex_tr": "khallīna nākhdu selfi",
+  "ex_en": "Let's take a selfie",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "سيلفي مع الجماعة",
+    "tr": "selfi ma3 ij-jamā3a",
+    "en": "a selfie with the group"
+   },
+   {
+    "ar": "عصاية سيلفي",
+    "tr": "3aSāyat selfi",
+    "en": "a selfie stick"
+   }
+  ]
+ },
+ {
+  "ar": "بوست",
+  "tr": "post",
+  "en": "post (social media)",
+  "msa": "منشور",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "نزّل بوست على الفيسبوك",
+  "ex_tr": "nazzal post 3al-fēsbūk",
+  "ex_en": "He put up a post on Facebook",
+  "note": "English loan; MSA منشور manshūr",
+  "phrases": [
+   {
+    "ar": "شفت البوست متاعه؟",
+    "tr": "shuft il-post mtā3a?",
+    "en": "Did you see his post?"
+   },
+   {
+    "ar": "البوست جاب لايكات هلبا",
+    "tr": "il-post jāb laykāt hallba",
+    "en": "The post got lots of likes"
+   }
+  ]
+ },
+ {
+  "ar": "كومنت",
+  "tr": "komment",
+  "en": "comment (social media)",
+  "msa": "تعليق",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "كتبتله كومنت على الصورة",
+  "ex_tr": "ktibtla komment 3aS-Sūra",
+  "ex_en": "I left him a comment on the photo",
+  "note": "English loan; also تعليق ta3līg",
+  "phrases": [
+   {
+    "ar": "شوف الكومنتات",
+    "tr": "shūf il-kommentāt",
+    "en": "Look at the comments"
+   },
+   {
+    "ar": "كومنت بايخ",
+    "tr": "komment bāyikh",
+    "en": "a lame comment"
+   }
+  ]
+ },
+ {
+  "ar": "لايك",
+  "tr": "lāyk",
+  "en": "like (social media)",
+  "msa": "إعجاب",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "دير لايك للصفحة",
+  "ex_tr": "dīr lāyk liS-Sef7a",
+  "ex_en": "Like the page",
+  "note": "pl. لايكات laykāt",
+  "phrases": [
+   {
+    "ar": "كم جابت من لايك؟",
+    "tr": "kam jābat min lāyk?",
+    "en": "How many likes did it get?"
+   },
+   {
+    "ar": "ما دارليش لايك",
+    "tr": "ma dārlīsh lāyk",
+    "en": "He didn't like my post"
+   }
+  ]
+ },
+ {
+  "ar": "فيسبوك",
+  "tr": "fēsbūk",
+  "en": "Facebook",
+  "msa": "فيسبوك",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 62,
+  "ex_ar": "كل الأخبار نعرفوها من الفيسبوك",
+  "ex_tr": "kull il-akhbār na3rfūha min il-fēsbūk",
+  "ex_en": "We get all the news from Facebook",
+  "note": "The most used social network in Libya",
+  "phrases": [
+   {
+    "ar": "صفحة فيسبوك",
+    "tr": "Saf7at fēsbūk",
+    "en": "a Facebook page"
+   },
+   {
+    "ar": "نزّلها على الفيسبوك",
+    "tr": "nazzilha 3al-fēsbūk",
+    "en": "Post it on Facebook"
+   }
+  ]
+ },
+ {
+  "ar": "واتساب",
+  "tr": "wātsāb",
+  "en": "WhatsApp",
+  "msa": "واتساب",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 64,
+  "ex_ar": "ابعتلي على الواتساب",
+  "ex_tr": "ib3atli 3al-wātsāb",
+  "ex_en": "Send it to me on WhatsApp",
+  "note": "Often just الواتس il-wāts",
+  "phrases": [
+   {
+    "ar": "قروب الواتساب",
+    "tr": "grūb il-wātsāb",
+    "en": "the WhatsApp group"
+   },
+   {
+    "ar": "رقمك عليه واتساب؟",
+    "tr": "ragmik 3alēh wātsāb?",
+    "en": "Is your number on WhatsApp?"
+   }
+  ]
+ },
+ {
+  "ar": "انستقرام",
+  "tr": "instagrām",
+  "en": "Instagram",
+  "msa": "انستغرام",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "عندها حساب انستقرام",
+  "ex_tr": "3andha 7sāb instagrām",
+  "ex_en": "She has an Instagram account",
+  "note": "Often shortened to الانستا il-insta",
+  "phrases": [
+   {
+    "ar": "تابعني على الانستقرام",
+    "tr": "tāb3ni 3al-instagrām",
+    "en": "Follow me on Instagram"
+   },
+   {
+    "ar": "صفحة انستقرام للبيع",
+    "tr": "Saf7at instagrām lil-bē3",
+    "en": "an Instagram shop page"
+   }
+  ]
+ },
+ {
+  "ar": "تيك توك",
+  "tr": "tīk tōk",
+  "en": "TikTok",
+  "msa": "تيك توك",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "الصغار ضايعين في التيك توك",
+  "ex_tr": "iS-Sghār Dāy3īn fit-tīk tōk",
+  "ex_en": "The kids are lost in TikTok",
+  "phrases": [
+   {
+    "ar": "فيديو تيك توك",
+    "tr": "vīdyo tīk tōk",
+    "en": "a TikTok video"
+   },
+   {
+    "ar": "ترند على التيك توك",
+    "tr": "trend 3at-tīk tōk",
+    "en": "a trend on TikTok"
+   }
+  ]
+ },
+ {
+  "ar": "يوتيوب",
+  "tr": "yūtyūb",
+  "en": "YouTube",
+  "msa": "يوتيوب",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "تعلمت الطبخة من اليوتيوب",
+  "ex_tr": "t3allamt iT-Tabkha min il-yūtyūb",
+  "ex_en": "I learnt the recipe from YouTube",
+  "phrases": [
+   {
+    "ar": "قناة يوتيوب",
+    "tr": "ganāt yūtyūb",
+    "en": "a YouTube channel"
+   },
+   {
+    "ar": "حطه على اليوتيوب",
+    "tr": "7oTTa 3al-yūtyūb",
+    "en": "Put it on YouTube"
+   }
+  ]
+ },
+ {
+  "ar": "قروب",
+  "tr": "grūb",
+  "en": "(chat) group; group",
+  "msa": "مجموعة",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "ضيفني للقروب",
+  "ex_tr": "Dayyifni lil-grūb",
+  "ex_en": "Add me to the group",
+  "note": "English loan; pl. قروبات grūbāt",
+  "phrases": [
+   {
+    "ar": "قروب العيلة",
+    "tr": "grūb il-3ēla",
+    "en": "the family group chat"
+   },
+   {
+    "ar": "طلعت من القروب",
+    "tr": "Tla3t min il-grūb",
+    "en": "I left the group"
+   }
+  ]
+ },
+ {
+  "ar": "ستوري",
+  "tr": "stōri",
+  "en": "story (social media); status",
+  "msa": "قصة",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "نزّلت ستوري من البحر",
+  "ex_tr": "nazzalt stōri min il-ba7r",
+  "ex_en": "I posted a story from the beach",
+  "note": "English loan; on WhatsApp also حالة 7āla",
+  "phrases": [
+   {
+    "ar": "شفت الستوري متاعي؟",
+    "tr": "shuft is-stōri mtā3i?",
+    "en": "Did you see my story?"
+   },
+   {
+    "ar": "حطها ستوري",
+    "tr": "7oTTha stōri",
+    "en": "Put it as a story"
+   }
+  ]
+ },
+ {
+  "ar": "متابع",
+  "tr": "mutābi3",
+  "en": "follower (social media)",
+  "msa": "متابع",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "عنده ألف متابع",
+  "ex_tr": "3anda alf mutābi3",
+  "ex_en": "He has a thousand followers",
+  "note": "pl. متابعين mutābi3īn; also فولورز followers",
+  "phrases": [
+   {
+    "ar": "عدد المتابعين",
+    "tr": "3adad il-mutābi3īn",
+    "en": "the number of followers"
+   },
+   {
+    "ar": "متابعين وهميين",
+    "tr": "mutābi3īn wahmiyyīn",
+    "en": "fake followers"
+   }
+  ]
+ },
+ {
+  "ar": "بلوك",
+  "tr": "blok",
+  "en": "block (on social media/phone)",
+  "msa": "حظر",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "داريتله بلوك",
+  "ex_tr": "dārētla blok",
+  "ex_en": "I blocked him",
+  "note": "English loan, used with دار dār",
+  "phrases": [
+   {
+    "ar": "شيلتله البلوك",
+    "tr": "shiltla l-blok",
+    "en": "I unblocked him"
+   },
+   {
+    "ar": "عاطيتني بلوك؟",
+    "tr": "3āTītni blok?",
+    "en": "Have you blocked me?"
+   }
+  ]
+ },
+ {
+  "ar": "مسج",
+  "tr": "masij",
+  "en": "text message; SMS",
+  "msa": "رسالة",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 54,
+  "ex_ar": "ابعتلي مسج لما توصل",
+  "ex_tr": "ib3atli masij lamma tūSal",
+  "ex_en": "Text me when you arrive",
+  "note": "English loan \"message\"; pl. مسجات masijāt",
+  "phrases": [
+   {
+    "ar": "جاني مسج من ليبيانا",
+    "tr": "jāni masij min lībyāna",
+    "en": "I got a text from Libyana"
+   },
+   {
+    "ar": "ما رديتش على المسج",
+    "tr": "ma raddētsh 3al-masij",
+    "en": "I didn't reply to the message"
+   }
+  ]
+ },
+ {
+  "ar": "فويس",
+  "tr": "fōys",
+  "en": "voice message",
+  "msa": "رسالة صوتية",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "ابعتلي فويس، ما نقدرش نقرا",
+  "ex_tr": "ib3atli fōys, ma nigdarsh nagra",
+  "ex_en": "Send me a voice note, I can't read now",
+  "note": "English loan \"voice\"",
+  "phrases": [
+   {
+    "ar": "فويس طويل",
+    "tr": "fōys Twīl",
+    "en": "a long voice note"
+   },
+   {
+    "ar": "سمعت الفويس؟",
+    "tr": "smi3t il-fōys?",
+    "en": "Did you listen to the voice note?"
+   }
+  ]
+ },
+ {
+  "ar": "فيروس",
+  "tr": "vīrūs",
+  "en": "virus (computer)",
+  "msa": "فيروس",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "الكمبيوتر فيه فيروس",
+  "ex_tr": "il-kombyūtar fīh vīrūs",
+  "ex_en": "The computer has a virus",
+  "note": "pl. فيروسات vīrūsāt",
+  "phrases": [
+   {
+    "ar": "برنامج ضد الفيروسات",
+    "tr": "barnāmij Didd il-vīrūsāt",
+    "en": "an antivirus program"
+   },
+   {
+    "ar": "اللينك فيه فيروس",
+    "tr": "il-link fīh vīrūs",
+    "en": "The link has a virus"
+   }
+  ]
+ },
+ {
+  "ar": "هاكر",
+  "tr": "hākar",
+  "en": "hacker",
+  "msa": "قرصان إلكتروني",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "حسابه تهكّر",
+  "ex_tr": "7sāba t-hakkar",
+  "ex_en": "His account got hacked",
+  "note": "English loan; verb تهكّر t-hakkar (got hacked)",
+  "phrases": [
+   {
+    "ar": "هاكر سرق الحساب",
+    "tr": "hākar sarag il-7sāb",
+    "en": "A hacker stole the account"
+   },
+   {
+    "ar": "ردّ بالك من الهاكرز",
+    "tr": "ridd bālik min il-hākarz",
+    "en": "Watch out for hackers"
+   }
+  ]
+ },
+ {
+  "ar": "موقع",
+  "tr": "mawgi3",
+  "en": "website; site; location",
+  "msa": "موقع",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 54,
+  "ex_ar": "سجّل في الموقع متاع الوزارة",
+  "ex_tr": "sajjil fil-mawgi3 mtā3 il-wizāra",
+  "ex_en": "Register on the ministry website",
+  "note": "pl. مواقع mawāgi3",
+  "phrases": [
+   {
+    "ar": "موقع إلكتروني",
+    "tr": "mawgi3 iliktrōni",
+    "en": "a website"
+   },
+   {
+    "ar": "ابعتلي الموقع على الخريطة",
+    "tr": "ib3atli l-mawgi3 3al-khārTa",
+    "en": "Send me the location on the map"
+   }
+  ]
+ },
+ {
+  "ar": "قوقل",
+  "tr": "gūgil",
+  "en": "Google",
+  "msa": "غوغل",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "دوّر عليها في قوقل",
+  "ex_tr": "dawwir 3alēha fi gūgil",
+  "ex_en": "Look it up on Google",
+  "phrases": [
+   {
+    "ar": "قوقل ماب",
+    "tr": "gūgil māb",
+    "en": "Google Maps"
+   },
+   {
+    "ar": "اسأل قوقل",
+    "tr": "is'al gūgil",
+    "en": "Ask Google"
+   }
+  ]
+ },
+ {
+  "ar": "إعدادات",
+  "tr": "i3dādāt",
+  "en": "settings",
+  "msa": "إعدادات",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "ادخل على الإعدادات",
+  "ex_tr": "udkhul 3al-i3dādāt",
+  "ex_en": "Go into settings",
+  "note": "sing. إعداد",
+  "phrases": [
+   {
+    "ar": "إعدادات التلفون",
+    "tr": "i3dādāt it-tilifōn",
+    "en": "the phone settings"
+   },
+   {
+    "ar": "رجّع الإعدادات زي ما كانت",
+    "tr": "rajji3 il-i3dādāt zayy ma kānat",
+    "en": "Reset the settings as they were"
+   }
+  ]
+ },
+ {
+  "ar": "إشعار",
+  "tr": "ish3ār",
+  "en": "notification; notice",
+  "msa": "إشعار",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "جاني إشعار من المصرف",
+  "ex_tr": "jāni ish3ār min il-maSrif",
+  "ex_en": "I got a notification from the bank",
+  "note": "pl. إشعارات ish3ārāt",
+  "phrases": [
+   {
+    "ar": "طفّي الإشعارات",
+    "tr": "Taffi l-ish3ārāt",
+    "en": "Turn off the notifications"
+   },
+   {
+    "ar": "إشعار بالدفع",
+    "tr": "ish3ār bid-daf3",
+    "en": "a payment notice"
+   }
+  ]
+ },
+ {
+  "ar": "أونلاين",
+  "tr": "onlāyn",
+  "en": "online",
+  "msa": "متصل",
+  "pos": "adv",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "هو أونلاين تَوّا",
+  "ex_tr": "huwwa onlāyn tawwa",
+  "ex_en": "He's online now",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "شريتها أونلاين",
+    "tr": "shrētha onlāyn",
+    "en": "I bought it online"
+   },
+   {
+    "ar": "قراية أونلاين",
+    "tr": "grāya onlāyn",
+    "en": "online classes"
+   }
+  ]
+ },
+ {
+  "ar": "لايف",
+  "tr": "lāyf",
+  "en": "live stream; live broadcast",
+  "msa": "بث مباشر",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "دار لايف على الفيسبوك",
+  "ex_tr": "dār lāyf 3al-fēsbūk",
+  "ex_en": "He went live on Facebook",
+  "note": "English loan; MSA بث مباشر",
+  "phrases": [
+   {
+    "ar": "الماتش لايف",
+    "tr": "il-mātsh lāyf",
+    "en": "The match is live"
+   },
+   {
+    "ar": "تابعنا اللايف",
+    "tr": "tāba3na l-lāyf",
+    "en": "We watched the live stream"
+   }
+  ]
+ },
+ {
+  "ar": "جهاز",
+  "tr": "jihāz",
+  "en": "device; appliance; machine",
+  "msa": "جهاز",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "الجهاز هادا جديد",
+  "ex_tr": "ij-jihāz hāda jdīd",
+  "ex_en": "This device is new",
+  "note": "pl. أجهزة ajhiza; also a bride's trousseau",
+  "phrases": [
+   {
+    "ar": "جهاز كمبيوتر",
+    "tr": "jihāz kombyūtar",
+    "en": "a computer"
+   },
+   {
+    "ar": "أجهزة كهربائية",
+    "tr": "ajhiza kahrabā'iyya",
+    "en": "electrical appliances"
+   }
+  ]
+ },
+ {
+  "ar": "داتا",
+  "tr": "dāta",
+  "en": "mobile data",
+  "msa": "بيانات",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "شعّل الداتا",
+  "ex_tr": "sha33il id-dāta",
+  "ex_en": "Turn on mobile data",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "الداتا كملت",
+    "tr": "id-dāta kammlat",
+    "en": "The data has run out"
+   },
+   {
+    "ar": "نت داتا ولا واي فاي؟",
+    "tr": "net dāta walla wāy fāy?",
+    "en": "Mobile data or Wi-Fi?"
+   }
+  ]
+ },
+ {
+  "ar": "بلوتوث",
+  "tr": "blūtūth",
+  "en": "Bluetooth",
+  "msa": "بلوتوث",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "ابعتها بالبلوتوث",
+  "ex_tr": "ib3atha bil-blūtūth",
+  "ex_en": "Send it by Bluetooth",
+  "phrases": [
+   {
+    "ar": "سماعة بلوتوث",
+    "tr": "sammā3a blūtūth",
+    "en": "Bluetooth headphones"
+   },
+   {
+    "ar": "البلوتوث مش شاعل",
+    "tr": "il-blūtūth mush shā3il",
+    "en": "Bluetooth isn't on"
+   }
+  ]
+ },
+ {
+  "ar": "باور بانك",
+  "tr": "pāwar bank",
+  "en": "power bank; portable charger",
+  "msa": "شاحن متنقل",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "جيب الباور بانك معاك",
+  "ex_tr": "jīb il-pāwar bank ma3āk",
+  "ex_en": "Bring the power bank with you",
+  "note": "English loan; essential during power cuts",
+  "phrases": [
+   {
+    "ar": "الباور بانك مشحون؟",
+    "tr": "il-pāwar bank mash7ūn?",
+    "en": "Is the power bank charged?"
+   },
+   {
+    "ar": "باور بانك كبير",
+    "tr": "pāwar bank kbīr",
+    "en": "a large power bank"
+   }
+  ]
+ },
+ {
+  "ar": "كفر",
+  "tr": "kavar",
+  "en": "phone case; cover",
+  "msa": "غطاء",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "شريت كفر جديد للنقال",
+  "ex_tr": "shrēt kavar jdīd lin-naggāl",
+  "ex_en": "I bought a new case for my phone",
+  "note": "English loan \"cover\"",
+  "phrases": [
+   {
+    "ar": "كفر سيليكون",
+    "tr": "kavar silikōn",
+    "en": "a silicone case"
+   },
+   {
+    "ar": "لولا الكفر راه انكسر",
+    "tr": "lōla l-kavar rāh inkasar",
+    "en": "If not for the case it would have broken"
+   }
+  ]
+ },
+ {
+  "ar": "لزقة",
+  "tr": "lazga",
+  "en": "screen protector; sticker; plaster",
+  "msa": "لاصقة",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "حط لزقة على الشاشة",
+  "ex_tr": "7oTT lazga 3ash-shāsha",
+  "ex_en": "Put a protector on the screen",
+  "note": "Also a medical plaster",
+  "phrases": [
+   {
+    "ar": "لزقة زجاج",
+    "tr": "lazgat zjāj",
+    "en": "a glass screen protector"
+   },
+   {
+    "ar": "اللزقة تشققت",
+    "tr": "il-lazga tshaggat",
+    "en": "The screen protector cracked"
+   }
+  ]
+ },
+ {
+  "ar": "كود",
+  "tr": "kōd",
+  "en": "code; PIN",
+  "msa": "رمز",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "دخّل الكود متاع الكرت",
+  "ex_tr": "dakhkhil il-kōd mtā3 il-kart",
+  "ex_en": "Enter the top-up card's code",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "جاني كود على المسج",
+    "tr": "jāni kōd 3al-masij",
+    "en": "I got a code by text"
+   },
+   {
+    "ar": "كود التفعيل",
+    "tr": "kōd it-taf3īl",
+    "en": "the activation code"
+   }
+  ]
+ },
+ {
+  "ar": "رقم سري",
+  "tr": "ragm sirri",
+  "en": "PIN; secret code",
+  "msa": "رقم سري",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "نسيت الرقم السري متاع البطاقة",
+  "ex_tr": "nsīt ir-ragm is-sirri mtā3 il-biTāga",
+  "ex_en": "I forgot my card PIN",
+  "phrases": [
+   {
+    "ar": "ما تعطيش الرقم السري لحد",
+    "tr": "ma t3aTīsh ir-ragm is-sirri l-7add",
+    "en": "Don't give your PIN to anyone"
+   },
+   {
+    "ar": "بدّل الرقم السري",
+    "tr": "baddil ir-ragm is-sirri",
+    "en": "Change the PIN"
+   }
+  ]
+ },
+ {
+  "ar": "نسخة",
+  "tr": "nusukha",
+  "en": "copy; version",
+  "msa": "نسخة",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "نبي نسخة من الجواز",
+  "ex_tr": "nibbi nusukha min il-jawāz",
+  "ex_en": "I need a copy of the passport",
+  "note": "pl. نسخ nusakh",
+  "phrases": [
+   {
+    "ar": "نسخة جديدة من البرنامج",
+    "tr": "nusukha jdīda min il-barnāmij",
+    "en": "a new version of the program"
+   },
+   {
+    "ar": "اعمل نسخة احتياطية",
+    "tr": "a3mil nusukha i7tiyāTiyya",
+    "en": "Make a backup"
+   }
+  ]
+ },
+ {
+  "ar": "تصوير",
+  "tr": "taSwīr",
+  "en": "photocopying; photography; filming",
+  "msa": "تصوير",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "مكتب تصوير قريب من الجامعة",
+  "ex_tr": "maktab taSwīr grīb min ij-jāmi3a",
+  "ex_en": "a photocopy shop near the university",
+  "note": "Libyans say صوّر الورقة for \"photocopy the paper\"",
+  "phrases": [
+   {
+    "ar": "تصوير ممنوع هني",
+    "tr": "taSwīr mamnū3 hni",
+    "en": "No photography here"
+   },
+   {
+    "ar": "تصوير العرس",
+    "tr": "taSwīr il-3urs",
+    "en": "filming the wedding"
+   }
+  ]
+ },
+ {
+  "ar": "طباعة",
+  "tr": "Tibā3a",
+  "en": "printing",
+  "msa": "طباعة",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الطباعة بربع دينار الورقة",
+  "ex_tr": "iT-Tibā3a b-rub3 dīnār il-warga",
+  "ex_en": "Printing is a quarter dinar a page",
+  "phrases": [
+   {
+    "ar": "طباعة ملونة",
+    "tr": "Tibā3a mlawwna",
+    "en": "colour printing"
+   },
+   {
+    "ar": "مكتب طباعة",
+    "tr": "maktab Tibā3a",
+    "en": "a print shop"
+   }
+  ]
+ },
+ {
+  "ar": "زر",
+  "tr": "zirr",
+  "en": "button (on a device); key",
+  "msa": "زر",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "اضغط على الزر هادا",
+  "ex_tr": "iDghaT 3az-zirr hāda",
+  "ex_en": "Press this button",
+  "note": "pl. أزرار azrār",
+  "phrases": [
+   {
+    "ar": "زر التشغيل",
+    "tr": "zirr it-tashghīl",
+    "en": "the power button"
+   },
+   {
+    "ar": "الزر عالق",
+    "tr": "iz-zirr 3āleg",
+    "en": "The button is stuck"
+   }
+  ]
+ },
+ {
+  "ar": "سكرين",
+  "tr": "skrīn",
+  "en": "screenshot",
+  "msa": "لقطة شاشة",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "خدتله سكرين وبعتها",
+  "ex_tr": "khdētla skrīn w ba3atha",
+  "ex_en": "I took a screenshot of it and sent it",
+  "note": "English \"screen(shot)\"",
+  "phrases": [
+   {
+    "ar": "ابعتلي سكرين",
+    "tr": "ib3atli skrīn",
+    "en": "Send me a screenshot"
+   },
+   {
+    "ar": "عنده سكرين للمحادثة",
+    "tr": "3anda skrīn lil-mu7ādatha",
+    "en": "He has a screenshot of the chat"
+   }
+  ]
+ },
+ {
+  "ar": "باسورد",
+  "tr": "bāswōrd",
+  "en": "password",
+  "msa": "كلمة مرور",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "نسيت الباسورد",
+  "ex_tr": "nsīt il-bāswōrd",
+  "ex_en": "I forgot the password",
+  "note": "English loan; also كلمة السر",
+  "phrases": [
+   {
+    "ar": "باسورد الواي فاي",
+    "tr": "bāswōrd il-wāy fāy",
+    "en": "the Wi-Fi password"
+   },
+   {
+    "ar": "غيّر الباسورد",
+    "tr": "ghayyir il-bāswōrd",
+    "en": "Change the password"
+   }
+  ]
+ },
+ {
+  "ar": "تطبيقات",
+  "tr": "taTbīgāt",
+  "en": "apps",
+  "msa": "تطبيقات",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "التلفون مليان تطبيقات",
+  "ex_tr": "it-tilifōn milyān taTbīgāt",
+  "ex_en": "The phone is full of apps",
+  "note": "pl. of تطبيق taTbīg",
+  "phrases": [
+   {
+    "ar": "نزّل التطبيقات من جديد",
+    "tr": "nazzil it-taTbīgāt min jdīd",
+    "en": "Reinstall the apps"
+   },
+   {
+    "ar": "تطبيقات التوصيل",
+    "tr": "taTbīgāt it-tawSīl",
+    "en": "delivery apps"
+   }
+  ]
+ },
+ {
+  "ar": "اشتراك",
+  "tr": "ishtirāk",
+  "en": "subscription; membership",
+  "msa": "اشتراك",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "الاشتراك الشهري بخمسين",
+  "ex_tr": "il-ishtirāk ish-shahri b-khamsīn",
+  "ex_en": "The monthly subscription is fifty",
+  "note": "pl. اشتراكات",
+  "phrases": [
+   {
+    "ar": "جدّد الاشتراك",
+    "tr": "jaddid il-ishtirāk",
+    "en": "Renew the subscription"
+   },
+   {
+    "ar": "اشتراك الجيم",
+    "tr": "ishtirāk ij-jīm",
+    "en": "the gym membership"
+   }
+  ]
+ },
+ {
+  "ar": "سكانر",
+  "tr": "skānar",
+  "en": "scanner; scan",
+  "msa": "ماسح ضوئي",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "سوّيلها سكانر وابعتها",
+  "ex_tr": "sawwīlha skānar w ib3atha",
+  "ex_en": "Scan it and send it",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "سكانر للشهادة",
+    "tr": "skānar lish-shahāda",
+    "en": "a scan of the certificate"
+   },
+   {
+    "ar": "الطابعة فيها سكانر",
+    "tr": "iT-Tāb3a fīha skānar",
+    "en": "The printer has a scanner"
+   }
+  ]
+ },
+ {
+  "ar": "حاسوب",
+  "tr": "7āsūb",
+  "en": "computer (formal)",
+  "msa": "حاسوب",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "قسم الحاسوب في الكلية",
+  "ex_tr": "gism il-7āsūb fil-kulliyya",
+  "ex_en": "the computer science department",
+  "note": "Formal word; everyday كمبيوتر",
+  "phrases": [
+   {
+    "ar": "علوم الحاسوب",
+    "tr": "3ulūm il-7āsūb",
+    "en": "computer science"
+   },
+   {
+    "ar": "معمل الحاسوب",
+    "tr": "ma3mal il-7āsūb",
+    "en": "the computer lab"
+   }
+  ]
+ },
+ {
+  "ar": "برمجة",
+  "tr": "barmaja",
+  "en": "programming; coding",
+  "msa": "برمجة",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "يقرا برمجة في الجامعة",
+  "ex_tr": "yagra barmaja fij-jāmi3a",
+  "ex_en": "He studies programming at university",
+  "phrases": [
+   {
+    "ar": "لغة برمجة",
+    "tr": "lughat barmaja",
+    "en": "a programming language"
+   },
+   {
+    "ar": "يخدم في البرمجة",
+    "tr": "yikhdim fil-barmaja",
+    "en": "He works in programming"
+   }
+  ]
+ },
+ {
+  "ar": "إيموجي",
+  "tr": "emōji",
+  "en": "emoji",
+  "msa": "رمز تعبيري",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "ردّ عليا بإيموجي بس",
+  "ex_tr": "radd 3layya b-emōji bass",
+  "ex_en": "He just replied with an emoji",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "إيموجي ضحكة",
+    "tr": "emōji Da7ka",
+    "en": "a laughing emoji"
+   },
+   {
+    "ar": "ما تكترش الإيموجيات",
+    "tr": "ma tkatthirsh il-emōjiyyāt",
+    "en": "Don't overdo the emojis"
+   }
+  ]
+ },
+ {
+  "ar": "ترند",
+  "tr": "trend",
+  "en": "trend; trending topic",
+  "msa": "رائج",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "الفيديو صار ترند",
+  "ex_tr": "il-vīdyo Sār trend",
+  "ex_en": "The video became a trend",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "ترند جديد",
+    "tr": "trend jdīd",
+    "en": "a new trend"
+   },
+   {
+    "ar": "كل يوم ترند",
+    "tr": "kull yōm trend",
+    "en": "a new trend every day"
+   }
+  ]
+ },
+ {
+  "ar": "شاشة لمس",
+  "tr": "shāshat lams",
+  "en": "touch screen",
+  "msa": "شاشة لمس",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "الشاشة لمس ولا لا؟",
+  "ex_tr": "ish-shāsha lams walla la?",
+  "ex_en": "Is it a touch screen or not?",
+  "phrases": [
+   {
+    "ar": "شاشة اللمس ما تستجيبش",
+    "tr": "shāshat il-lams ma tistajībsh",
+    "en": "The touch screen isn't responding"
+   },
+   {
+    "ar": "لابتوب بشاشة لمس",
+    "tr": "labtop b-shāshat lams",
+    "en": "a laptop with a touch screen"
+   }
+  ]
+ },
+ {
+  "ar": "محادثة",
+  "tr": "mu7ādatha",
+  "en": "chat; conversation",
+  "msa": "محادثة",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "مسحت المحادثة كلها",
+  "ex_tr": "masa7t il-mu7ādatha kullha",
+  "ex_en": "I deleted the whole chat",
+  "note": "pl. محادثات mu7ādathāt",
+  "phrases": [
+   {
+    "ar": "محادثة جماعية",
+    "tr": "mu7ādatha jamā3iyya",
+    "en": "a group chat"
+   },
+   {
+    "ar": "طلّع المحادثة",
+    "tr": "Talla3 il-mu7ādatha",
+    "en": "Pull up the conversation"
+   }
+  ]
+ },
+ {
+  "ar": "مكالمة فيديو",
+  "tr": "mukālamat vīdyo",
+  "en": "video call",
+  "msa": "مكالمة فيديو",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "نديروا مكالمة فيديو مع خوي اللي برا",
+  "ex_tr": "ndīru mukālamat vīdyo ma3 khūy illi barra",
+  "ex_en": "We video-call my brother who's abroad",
+  "note": "pl. مكالمات فيديو",
+  "phrases": [
+   {
+    "ar": "كلمني فيديو",
+    "tr": "kallimni vīdyo",
+    "en": "Video-call me"
+   },
+   {
+    "ar": "مكالمة الفيديو تقطع",
+    "tr": "mukālamat il-vīdyo tgaTTa3",
+    "en": "The video call keeps breaking up"
+   }
+  ]
+ },
+ {
+  "ar": "سلك الشحن",
+  "tr": "silk ish-sha7n",
+  "en": "charging cable",
+  "msa": "كابل الشحن",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "سلك الشحن تقطع",
+  "ex_tr": "silk ish-sha7n tgaTTa3",
+  "ex_en": "The charging cable is broken",
+  "note": "سلك silk \"wire\", pl. أسلاك aslāk",
+  "phrases": [
+   {
+    "ar": "عندك سلك شحن تايب سي؟",
+    "tr": "3andik silk sha7n tāyp sī?",
+    "en": "Do you have a Type-C charging cable?"
+   },
+   {
+    "ar": "سلك الشحن قصير",
+    "tr": "silk ish-sha7n gSīr",
+    "en": "The charging cable is short"
+   }
+  ]
+ },
+ {
+  "ar": "فيبر",
+  "tr": "fāybar",
+  "en": "fibre-optic internet",
+  "msa": "ألياف ضوئية",
+  "pos": "noun",
+  "cat": "tech",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "ركّبنا نت فيبر",
+  "ex_tr": "rakkabna net fāybar",
+  "ex_en": "We had fibre internet installed",
+  "note": "English loan; newer home internet option in Libyan cities",
+  "phrases": [
+   {
+    "ar": "الفيبر أسرع",
+    "tr": "il-fāybar asra3",
+    "en": "Fibre is faster"
+   },
+   {
+    "ar": "اشتراك فيبر",
+    "tr": "ishtirāk fāybar",
+    "en": "a fibre subscription"
+   }
+  ]
+ },
+ {
+  "ar": "راديو",
+  "tr": "rādyo",
+  "en": "radio",
+  "msa": "مذياع",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "نسمعوا الراديو في المكينة",
+  "ex_tr": "nisma3u r-rādyo fil-makīna",
+  "ex_en": "We listen to the radio in the car",
+  "note": "Italian/English loan; MSA مذياع",
+  "phrases": [
+   {
+    "ar": "شعّل الراديو",
+    "tr": "sha33il ir-rādyo",
+    "en": "Turn on the radio"
+   },
+   {
+    "ar": "محطة راديو",
+    "tr": "ma7aTTat rādyo",
+    "en": "a radio station"
+   }
+  ]
+ },
+ {
+  "ar": "إذاعة",
+  "tr": "idhā3a",
+  "en": "radio station; broadcasting",
+  "msa": "إذاعة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "سمعتها في الإذاعة الصبح",
+  "ex_tr": "smi3tha fil-idhā3a S-Sub7",
+  "ex_en": "I heard it on the radio this morning",
+  "note": "pl. إذاعات idhā3āt",
+  "phrases": [
+   {
+    "ar": "إذاعة محلية",
+    "tr": "idhā3a ma7alliyya",
+    "en": "a local radio station"
+   },
+   {
+    "ar": "مذيع في الإذاعة",
+    "tr": "mudhī3 fil-idhā3a",
+    "en": "a radio presenter"
+   }
+  ]
+ },
+ {
+  "ar": "أخبار",
+  "tr": "akhbār",
+  "en": "news",
+  "msa": "أخبار",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 2,
+  "usage": 72,
+  "ex_ar": "شن الأخبار اليوم؟",
+  "ex_tr": "shin il-akhbār ilyōm?",
+  "ex_en": "What's the news today?",
+  "note": "sing. خبر khbar (a piece of news)",
+  "phrases": [
+   {
+    "ar": "نشرة الأخبار",
+    "tr": "nashrat il-akhbār",
+    "en": "the news bulletin"
+   },
+   {
+    "ar": "أخبار باهية إن شاء الله",
+    "tr": "akhbār bāhya in shā' allāh",
+    "en": "Good news, hopefully"
+   }
+  ]
+ },
+ {
+  "ar": "نشرة",
+  "tr": "nashra",
+  "en": "news bulletin; leaflet",
+  "msa": "نشرة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "نشرة التسعة",
+  "ex_tr": "nashrat it-tis3a",
+  "ex_en": "the nine o'clock news",
+  "note": "pl. نشرات nashrāt",
+  "phrases": [
+   {
+    "ar": "نشرة الأحوال الجوية",
+    "tr": "nashrat il-a7wāl ij-jawwiyya",
+    "en": "the weather forecast"
+   },
+   {
+    "ar": "النشرة بدت",
+    "tr": "in-nashra bdat",
+    "en": "The news bulletin has started"
+   }
+  ]
+ },
+ {
+  "ar": "قناة",
+  "tr": "ganāt",
+  "en": "TV channel; canal",
+  "msa": "قناة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "حوّل على قناة تانية",
+  "ex_tr": "7awwil 3ala ganāt tānya",
+  "ex_en": "Switch to another channel",
+  "note": "pl. قنوات ganawāt",
+  "phrases": [
+   {
+    "ar": "قناة ليبية",
+    "tr": "ganāt lībiyya",
+    "en": "a Libyan channel"
+   },
+   {
+    "ar": "قناة رياضية",
+    "tr": "ganāt riyāDiyya",
+    "en": "a sports channel"
+   }
+  ]
+ },
+ {
+  "ar": "إعلان",
+  "tr": "i3lān",
+  "en": "advertisement; announcement",
+  "msa": "إعلان",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "الإعلانات قطعت الفيلم",
+  "ex_tr": "il-i3lānāt gaTTa3at il-film",
+  "ex_en": "The adverts interrupted the film",
+  "note": "pl. إعلانات i3lānāt",
+  "phrases": [
+   {
+    "ar": "إعلان على الفيسبوك",
+    "tr": "i3lān 3al-fēsbūk",
+    "en": "an ad on Facebook"
+   },
+   {
+    "ar": "إعلان خدمة",
+    "tr": "i3lān khidma",
+    "en": "a job ad"
+   }
+  ]
+ },
+ {
+  "ar": "جريدة",
+  "tr": "jarīda",
+  "en": "newspaper",
+  "msa": "جريدة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "بوي يقرا الجريدة كل يوم",
+  "ex_tr": "būy yagra j-jarīda kull yōm",
+  "ex_en": "My dad reads the newspaper every day",
+  "note": "pl. جرايد jarāyid",
+  "phrases": [
+   {
+    "ar": "جريدة اليوم",
+    "tr": "jarīdat ilyōm",
+    "en": "today's newspaper"
+   },
+   {
+    "ar": "كتبوا عليه في الجريدة",
+    "tr": "kitbu 3alēh fij-jarīda",
+    "en": "They wrote about him in the paper"
+   }
+  ]
+ },
+ {
+  "ar": "مجلة",
+  "tr": "majalla",
+  "en": "magazine",
+  "msa": "مجلة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "شريت مجلة رياضية",
+  "ex_tr": "shrēt majalla riyāDiyya",
+  "ex_en": "I bought a sports magazine",
+  "note": "pl. مجلات majallāt",
+  "phrases": [
+   {
+    "ar": "غلاف المجلة",
+    "tr": "ghlāf il-majalla",
+    "en": "the magazine cover"
+   },
+   {
+    "ar": "مجلة أطفال",
+    "tr": "majallat aTfāl",
+    "en": "a children's magazine"
+   }
+  ]
+ },
+ {
+  "ar": "فيلم",
+  "tr": "film",
+  "en": "film; movie",
+  "msa": "فيلم",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 3,
+  "usage": 62,
+  "ex_ar": "نتفرجوا على فيلم الليلة؟",
+  "ex_tr": "nitfarju 3ala film il-lēla?",
+  "ex_en": "Shall we watch a film tonight?",
+  "note": "pl. أفلام aflām",
+  "phrases": [
+   {
+    "ar": "فيلم أكشن",
+    "tr": "film akshan",
+    "en": "an action film"
+   },
+   {
+    "ar": "الفيلم بايخ",
+    "tr": "il-film bāyikh",
+    "en": "The film is lame"
+   }
+  ]
+ },
+ {
+  "ar": "حلقة",
+  "tr": "7alga",
+  "en": "episode; ring; circle",
+  "msa": "حلقة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "شفت حلقة البارح؟",
+  "ex_tr": "shuft 7algat il-bāri7?",
+  "ex_en": "Did you see yesterday's episode?",
+  "note": "pl. حلقات 7algāt",
+  "phrases": [
+   {
+    "ar": "آخر حلقة",
+    "tr": "ākhir 7alga",
+    "en": "the last episode"
+   },
+   {
+    "ar": "حلقة تلاتين",
+    "tr": "7alga tlātīn",
+    "en": "episode thirty"
+   }
+  ]
+ },
+ {
+  "ar": "دش",
+  "tr": "dish",
+  "en": "satellite dish",
+  "msa": "صحن لاقط",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "الدش طاح مع الريح",
+  "ex_tr": "id-dish Tā7 ma3 ir-rī7",
+  "ex_en": "The satellite dish fell in the wind",
+  "note": "English \"dish\"; every Libyan roof has one",
+  "phrases": [
+   {
+    "ar": "ركّب دش جديد",
+    "tr": "rakkib dish jdīd",
+    "en": "Install a new satellite dish"
+   },
+   {
+    "ar": "القنوات ما تجيش، الدش يبي ضبط",
+    "tr": "il-ganawāt ma tjīsh, id-dish yibbi DabT",
+    "en": "No channels; the dish needs adjusting"
+   }
+  ]
+ },
+ {
+  "ar": "رسيفر",
+  "tr": "risīvar",
+  "en": "satellite receiver; set-top box",
+  "msa": "جهاز استقبال",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "الرسيفر يبي تحديث",
+  "ex_tr": "ir-risīvar yibbi ta7dīth",
+  "ex_en": "The receiver needs updating",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "ريموت الرسيفر",
+    "tr": "rīmōt ir-risīvar",
+    "en": "the receiver's remote"
+   },
+   {
+    "ar": "بحث قنوات في الرسيفر",
+    "tr": "ba7th ganawāt fir-risīvar",
+    "en": "a channel scan on the receiver"
+   }
+  ]
+ },
+ {
+  "ar": "ريموت",
+  "tr": "rīmōt",
+  "en": "remote control",
+  "msa": "جهاز التحكم",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "وين الريموت؟",
+  "ex_tr": "wīn ir-rīmōt?",
+  "ex_en": "Where's the remote?",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "عطيني الريموت",
+    "tr": "3aTīni r-rīmōt",
+    "en": "Give me the remote"
+   },
+   {
+    "ar": "الريموت يبي بطاريات",
+    "tr": "ir-rīmōt yibbi baTTāriyyāt",
+    "en": "The remote needs batteries"
+   }
+  ]
+ },
+ {
+  "ar": "مسرحية",
+  "tr": "masra7iyya",
+  "en": "play (theatre)",
+  "msa": "مسرحية",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "المسرحية كانت تضحّك",
+  "ex_tr": "il-masra7iyya kānat tDa77ik",
+  "ex_en": "The play was funny",
+  "note": "pl. مسرحيات",
+  "phrases": [
+   {
+    "ar": "مسرحية للصغار",
+    "tr": "masra7iyya liS-Sghār",
+    "en": "a play for kids"
+   },
+   {
+    "ar": "بلاش مسرحيات!",
+    "tr": "blāsh masra7iyyāt!",
+    "en": "Stop the drama! (don't put on a show)"
+   }
+  ]
+ },
+ {
+  "ar": "تقرير",
+  "tr": "tagrīr",
+  "en": "report",
+  "msa": "تقرير",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "شفت التقرير في الأخبار",
+  "ex_tr": "shuft it-tagrīr fil-akhbār",
+  "ex_en": "I saw the report on the news",
+  "note": "pl. تقارير tagārīr",
+  "phrases": [
+   {
+    "ar": "تقرير طبي",
+    "tr": "tagrīr Tibbi",
+    "en": "a medical report"
+   },
+   {
+    "ar": "كتب تقرير",
+    "tr": "kteb tagrīr",
+    "en": "He wrote a report"
+   }
+  ]
+ },
+ {
+  "ar": "صحافة",
+  "tr": "Sa7āfa",
+  "en": "journalism; the press",
+  "msa": "صحافة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "تقرا صحافة في الكلية",
+  "ex_tr": "tagra Sa7āfa fil-kulliyya",
+  "ex_en": "She studies journalism at the faculty",
+  "phrases": [
+   {
+    "ar": "حرية الصحافة",
+    "tr": "7urriyyat iS-Sa7āfa",
+    "en": "freedom of the press"
+   },
+   {
+    "ar": "مؤتمر صحفي",
+    "tr": "mu'tamar Sa7afi",
+    "en": "a press conference"
+   }
+  ]
+ },
+ {
+  "ar": "مايك",
+  "tr": "māyk",
+  "en": "microphone; mic",
+  "msa": "ميكروفون",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "عطوه المايك يهدرز",
+  "ex_tr": "3aTūh il-māyk yhadriz",
+  "ex_en": "They gave him the mic to speak",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "المايك ما يخدمش",
+    "tr": "il-māyk ma yikhdimsh",
+    "en": "The mic isn't working"
+   },
+   {
+    "ar": "طفّي المايك",
+    "tr": "Taffi l-māyk",
+    "en": "Mute the mic"
+   }
+  ]
+ },
+ {
+  "ar": "بندير",
+  "tr": "bandīr",
+  "en": "bendir (frame drum)",
+  "msa": "دف",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "البندير يتضرب في الحضرة",
+  "ex_tr": "il-bandīr yitDrab fil-7aDra",
+  "ex_en": "The bendir is played at Sufi gatherings",
+  "note": "pl. بنادير banādīr",
+  "phrases": [
+   {
+    "ar": "ضرب البندير",
+    "tr": "Darb il-bandīr",
+    "en": "playing the bendir"
+   },
+   {
+    "ar": "بندير وزكرة",
+    "tr": "bandīr w zukra",
+    "en": "frame drum and bagpipe"
+   }
+  ]
+ },
+ {
+  "ar": "قيتارة",
+  "tr": "gītāra",
+  "en": "guitar",
+  "msa": "قيثارة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "يتعلم في القيتارة",
+  "ex_tr": "yit3allam fil-gītāra",
+  "ex_en": "He's learning guitar",
+  "note": "Italian chitarra / French guitare",
+  "phrases": [
+   {
+    "ar": "قيتارة كهربائية",
+    "tr": "gītāra kahrabā'iyya",
+    "en": "an electric guitar"
+   },
+   {
+    "ar": "وتر القيتارة تقطع",
+    "tr": "watar il-gītāra tgaTTa3",
+    "en": "The guitar string snapped"
+   }
+  ]
+ },
+ {
+  "ar": "بيانو",
+  "tr": "byāno",
+  "en": "piano",
+  "msa": "بيانو",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "بنته تعزف بيانو",
+  "ex_tr": "binta ta3zif byāno",
+  "ex_en": "His daughter plays piano",
+  "note": "Italian loan",
+  "phrases": [
+   {
+    "ar": "دروس بيانو",
+    "tr": "drūs byāno",
+    "en": "piano lessons"
+   },
+   {
+    "ar": "بيانو قديم",
+    "tr": "byāno gdīm",
+    "en": "an old piano"
+   }
+  ]
+ },
+ {
+  "ar": "كمان",
+  "tr": "kamān",
+  "en": "violin",
+  "msa": "كمان",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "الكمان في فرقة المالوف",
+  "ex_tr": "il-kamān fi firgat il-mālūf",
+  "ex_en": "the violin in the malouf band",
+  "note": "Also كمنجة kamanja",
+  "phrases": [
+   {
+    "ar": "عزف كمان",
+    "tr": "3azf kamān",
+    "en": "violin playing"
+   },
+   {
+    "ar": "صوت الكمان حزين",
+    "tr": "Sōt il-kamān 7azīn",
+    "en": "The violin sounds sad"
+   }
+  ]
+ },
+ {
+  "ar": "لحن",
+  "tr": "la7n",
+  "en": "melody; tune",
+  "msa": "لحن",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "اللحن هادا قديم",
+  "ex_tr": "il-la7n hāda gdīm",
+  "ex_en": "This tune is old",
+  "note": "pl. ألحان al7ān",
+  "phrases": [
+   {
+    "ar": "لحن حلو",
+    "tr": "la7n 7ilu",
+    "en": "a lovely melody"
+   },
+   {
+    "ar": "كلمات ولحن",
+    "tr": "kalimāt w la7n",
+    "en": "lyrics and melody"
+   }
+  ]
+ },
+ {
+  "ar": "كلمات",
+  "tr": "kalimāt",
+  "en": "lyrics; words",
+  "msa": "كلمات",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "كلمات الأغنية تمس القلب",
+  "ex_tr": "kalimāt il-ughniyya timass il-galb",
+  "ex_en": "The song's lyrics touch the heart",
+  "note": "sing. كلمة kilma",
+  "phrases": [
+   {
+    "ar": "تعرف الكلمات؟",
+    "tr": "ta3rif il-kalimāt?",
+    "en": "Do you know the words?"
+   },
+   {
+    "ar": "كلمات حلوة",
+    "tr": "kalimāt 7ilwa",
+    "en": "nice lyrics"
+   }
+  ]
+ },
+ {
+  "ar": "ألبوم",
+  "tr": "albūm",
+  "en": "album (music or photos)",
+  "msa": "ألبوم",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "نزّل ألبوم جديد",
+  "ex_tr": "nazzal albūm jdīd",
+  "ex_en": "He released a new album",
+  "note": "pl. ألبومات albūmāt",
+  "phrases": [
+   {
+    "ar": "ألبوم صور العرس",
+    "tr": "albūm Sūwar il-3urs",
+    "en": "the wedding photo album"
+   },
+   {
+    "ar": "أحسن أغنية في الألبوم",
+    "tr": "a7san ughniyya fil-albūm",
+    "en": "the best song on the album"
+   }
+  ]
+ },
+ {
+  "ar": "كليب",
+  "tr": "klīb",
+  "en": "music video; clip",
+  "msa": "مقطع",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الكليب الجديد نزل",
+  "ex_tr": "il-klīb ij-jdīd nzil",
+  "ex_en": "The new video clip is out",
+  "note": "English loan; pl. كليبات klībāt",
+  "phrases": [
+   {
+    "ar": "كليب أغنية",
+    "tr": "klīb ughniyya",
+    "en": "a music video"
+   },
+   {
+    "ar": "كليب قصير",
+    "tr": "klīb gSīr",
+    "en": "a short clip"
+   }
+  ]
+ },
+ {
+  "ar": "مقطع",
+  "tr": "magTa3",
+  "en": "clip; excerpt; section",
+  "msa": "مقطع",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "شفت المقطع اللي بعتته؟",
+  "ex_tr": "shuft il-magTa3 illi ba3atta?",
+  "ex_en": "Did you see the clip I sent?",
+  "note": "pl. مقاطع magāTi3",
+  "phrases": [
+   {
+    "ar": "مقطع فيديو",
+    "tr": "magTa3 vīdyo",
+    "en": "a video clip"
+   },
+   {
+    "ar": "مقطع يضحّك",
+    "tr": "magTa3 yDa77ik",
+    "en": "a funny clip"
+   }
+  ]
+ },
+ {
+  "ar": "مسابقة",
+  "tr": "musābga",
+  "en": "competition; contest; quiz",
+  "msa": "مسابقة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "شارك في مسابقة القرآن",
+  "ex_tr": "shārak fi musābgat il-gur'ān",
+  "ex_en": "He took part in the Quran competition",
+  "note": "pl. مسابقات musābgāt",
+  "phrases": [
+   {
+    "ar": "مسابقة رمضان",
+    "tr": "musābgat ramaDān",
+    "en": "the Ramadan quiz"
+   },
+   {
+    "ar": "ربح المسابقة",
+    "tr": "rba7 il-musābga",
+    "en": "He won the competition"
+   }
+  ]
+ },
+ {
+  "ar": "جايزة",
+  "tr": "jāyza",
+  "en": "prize; award",
+  "msa": "جائزة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "ربح جايزة كبيرة",
+  "ex_tr": "rba7 jāyza kbīra",
+  "ex_en": "He won a big prize",
+  "note": "pl. جوايز jawāyiz",
+  "phrases": [
+   {
+    "ar": "الجايزة الأولى",
+    "tr": "ij-jāyza l-ūla",
+    "en": "first prize"
+   },
+   {
+    "ar": "جايزة أحسن لاعب",
+    "tr": "jāyzat a7san lā3ib",
+    "en": "the best player award"
+   }
+  ]
+ },
+ {
+  "ar": "نجم",
+  "tr": "nijm",
+  "en": "star (celebrity, sports)",
+  "msa": "نجم",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "هو نجم الفريق",
+  "ex_tr": "huwwa nijm il-farīg",
+  "ex_en": "He's the team's star",
+  "note": "pl. نجوم njūm",
+  "phrases": [
+   {
+    "ar": "نجم سينما",
+    "tr": "nijm sīnima",
+    "en": "a film star"
+   },
+   {
+    "ar": "نجوم الكورة",
+    "tr": "njūm il-kōra",
+    "en": "football stars"
+   }
+  ]
+ },
+ {
+  "ar": "كرتون",
+  "tr": "kartūn",
+  "en": "cartoons; animated series",
+  "msa": "رسوم متحركة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "الصغار يتفرجوا على الكرتون",
+  "ex_tr": "iS-Sghār yitfarju 3al-kartūn",
+  "ex_en": "The kids are watching cartoons",
+  "note": "French/English loan",
+  "phrases": [
+   {
+    "ar": "قناة كرتون",
+    "tr": "ganāt kartūn",
+    "en": "a cartoon channel"
+   },
+   {
+    "ar": "كرتون زمان أحسن",
+    "tr": "kartūn zamān a7san",
+    "en": "The old cartoons were better"
+   }
+  ]
+ },
+ {
+  "ar": "وثائقي",
+  "tr": "wathā'igi",
+  "en": "documentary",
+  "msa": "فيلم وثائقي",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "شفت وثائقي على الصحرا",
+  "ex_tr": "shuft wathā'igi 3aS-Sa7ra",
+  "ex_en": "I watched a documentary about the desert",
+  "note": "Also فيلم وثائقي",
+  "phrases": [
+   {
+    "ar": "وثائقي عن الحيوانات",
+    "tr": "wathā'igi 3an il-7ayawānāt",
+    "en": "a documentary about animals"
+   },
+   {
+    "ar": "قناة وثائقية",
+    "tr": "ganāt wathā'igiyya",
+    "en": "a documentary channel"
+   }
+  ]
+ },
+ {
+  "ar": "كارطة",
+  "tr": "kārTa",
+  "en": "playing cards; deck of cards",
+  "msa": "ورق اللعب",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "نلعبوا كارطة في الليل",
+  "ex_tr": "nil3bu kārTa fil-lēl",
+  "ex_en": "We play cards at night",
+  "note": "Italian carta; very common pastime, esp. in Ramadan nights",
+  "phrases": [
+   {
+    "ar": "دوّر الكارطة",
+    "tr": "dawwir il-kārTa",
+    "en": "Shuffle/deal the cards"
+   },
+   {
+    "ar": "لعب كارطة في القهوة",
+    "tr": "li3b kārTa fil-gahwa",
+    "en": "playing cards in the café"
+   }
+  ]
+ },
+ {
+  "ar": "دومينو",
+  "tr": "domīno",
+  "en": "dominoes",
+  "msa": "دومينو",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "الشيبان يلعبوا دومينو في القهوة",
+  "ex_tr": "ish-shībān yil3bu domīno fil-gahwa",
+  "ex_en": "The old men play dominoes at the café",
+  "note": "Italian loan",
+  "phrases": [
+   {
+    "ar": "طرح دومينو",
+    "tr": "Tar7 domīno",
+    "en": "a game of dominoes"
+   },
+   {
+    "ar": "حجر الدومينو",
+    "tr": "7ajar id-domīno",
+    "en": "a domino tile"
+   }
+  ]
+ },
+ {
+  "ar": "شطرنج",
+  "tr": "shaTranj",
+  "en": "chess",
+  "msa": "شطرنج",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "تعرف تلعب شطرنج؟",
+  "ex_tr": "ta3rif til3ab shaTranj?",
+  "ex_en": "Do you know how to play chess?",
+  "phrases": [
+   {
+    "ar": "طاولة الشطرنج",
+    "tr": "Tāwlat ish-shaTranj",
+    "en": "the chessboard"
+   },
+   {
+    "ar": "بطولة شطرنج",
+    "tr": "buTūlat shaTranj",
+    "en": "a chess tournament"
+   }
+  ]
+ },
+ {
+  "ar": "ضامة",
+  "tr": "Dāma",
+  "en": "draughts; checkers",
+  "msa": "الداما",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "كنا نلعبوا ضامة على الرصيف",
+  "ex_tr": "kunna nil3bu Dāma 3ar-raSīf",
+  "ex_en": "We used to play checkers on the pavement",
+  "note": "Italian dama; traditional Libyan board game",
+  "phrases": [
+   {
+    "ar": "طرح ضامة",
+    "tr": "Tar7 Dāma",
+    "en": "a game of checkers"
+   },
+   {
+    "ar": "ربحته في الضامة",
+    "tr": "rba7ta fiD-Dāma",
+    "en": "I beat him at checkers"
+   }
+  ]
+ },
+ {
+  "ar": "طرح",
+  "tr": "Tar7",
+  "en": "round; game (of cards, chess)",
+  "msa": "جولة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "نلعبوا طرح واحد بس",
+  "ex_tr": "nil3bu Tar7 wā7id bass",
+  "ex_en": "Let's play just one round",
+  "note": "pl. طروح Trū7; Libyan word for a round/game",
+  "phrases": [
+   {
+    "ar": "طرح تاني!",
+    "tr": "Tar7 tāni!",
+    "en": "Another round!"
+   },
+   {
+    "ar": "خسرت الطرح",
+    "tr": "khsirt iT-Tar7",
+    "en": "I lost the round"
+   }
+  ]
+ },
+ {
+  "ar": "زهر",
+  "tr": "zahr",
+  "en": "dice",
+  "msa": "نرد",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "ارمي الزهر",
+  "ex_tr": "irmi z-zahr",
+  "ex_en": "Throw the dice",
+  "note": "Also called نرد nard",
+  "phrases": [
+   {
+    "ar": "الزهر جاب ستة",
+    "tr": "iz-zahr jāb sitta",
+    "en": "The dice rolled a six"
+   },
+   {
+    "ar": "لعبة بالزهر",
+    "tr": "li3ba biz-zahr",
+    "en": "a dice game"
+   }
+  ]
+ },
+ {
+  "ar": "ألعاب فيديو",
+  "tr": "al3āb vīdyo",
+  "en": "video games",
+  "msa": "ألعاب الفيديو",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "ولدي يحب ألعاب الفيديو",
+  "ex_tr": "wildi y7ibb al3āb il-vīdyo",
+  "ex_en": "My son loves video games",
+  "note": "sing. لعبة فيديو",
+  "phrases": [
+   {
+    "ar": "محل ألعاب فيديو",
+    "tr": "ma7all al3āb vīdyo",
+    "en": "a video game shop"
+   },
+   {
+    "ar": "يضيّع وقته في ألعاب الفيديو",
+    "tr": "yDayya3 wagta fi al3āb il-vīdyo",
+    "en": "He wastes his time on video games"
+   }
+  ]
+ },
+ {
+  "ar": "مسلسل تركي",
+  "tr": "musalsal turki",
+  "en": "Turkish TV series",
+  "msa": "مسلسل تركي",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "أمي متابعة مسلسل تركي",
+  "ex_tr": "ummi mtāb3a musalsal turki",
+  "ex_en": "My mother is following a Turkish series",
+  "note": "Hugely popular in Libya, usually dubbed into Syrian Arabic",
+  "phrases": [
+   {
+    "ar": "المسلسلات التركية طويلة",
+    "tr": "il-musalsalāt it-turkiyya Twīla",
+    "en": "Turkish series are long"
+   },
+   {
+    "ar": "حلقة المسلسل التركي",
+    "tr": "7algat il-musalsal it-turki",
+    "en": "the Turkish series episode"
+   }
+  ]
+ },
+ {
+  "ar": "شهرة",
+  "tr": "shuhra",
+  "en": "fame",
+  "msa": "شهرة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "يدوّر على الشهرة بأي طريقة",
+  "ex_tr": "ydawwir 3ash-shuhra b-ayy Trīga",
+  "ex_en": "He's after fame by any means",
+  "phrases": [
+   {
+    "ar": "الشهرة ما تدومش",
+    "tr": "ish-shuhra ma tdūmsh",
+    "en": "Fame doesn't last"
+   },
+   {
+    "ar": "شهرته في الفيسبوك",
+    "tr": "shuhrta fil-fēsbūk",
+    "en": "his fame on Facebook"
+   }
+  ]
+ },
+ {
+  "ar": "مشاهير",
+  "tr": "mashāhīr",
+  "en": "celebrities; famous people",
+  "msa": "مشاهير",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "مشاهير السوشيال ميديا",
+  "ex_tr": "mashāhīr is-sōshal mīdya",
+  "ex_en": "social media celebrities",
+  "note": "sing. مشهور mash-hūr",
+  "phrases": [
+   {
+    "ar": "الناس تقلّد المشاهير",
+    "tr": "in-nās tgallid il-mashāhīr",
+    "en": "People copy celebrities"
+   },
+   {
+    "ar": "عرس واحد من المشاهير",
+    "tr": "3urs wā7id min il-mashāhīr",
+    "en": "a celebrity's wedding"
+   }
+  ]
+ },
+ {
+  "ar": "مؤثر",
+  "tr": "mu'aththir",
+  "en": "influencer",
+  "msa": "مؤثر",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "صار مؤثر في الانستقرام",
+  "ex_tr": "Sār mu'aththir fil-instagrām",
+  "ex_en": "He became an Instagram influencer",
+  "note": "pl. مؤثرين mu'aththirīn; often بلوقر blogar",
+  "phrases": [
+   {
+    "ar": "إعلان مع مؤثرة",
+    "tr": "i3lān ma3 mu'aththira",
+    "en": "an ad with a (female) influencer"
+   },
+   {
+    "ar": "المؤثرين يربحوا هلبا",
+    "tr": "il-mu'aththirīn yirb7u hallba",
+    "en": "Influencers earn a lot"
+   }
+  ]
+ },
+ {
+  "ar": "سوشيال ميديا",
+  "tr": "sōshal mīdya",
+  "en": "social media",
+  "msa": "وسائل التواصل الاجتماعي",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "الأخبار كلها في السوشيال ميديا",
+  "ex_tr": "il-akhbār kullha fis-sōshal mīdya",
+  "ex_en": "All the news is on social media",
+  "note": "English loan; MSA مواقع التواصل",
+  "phrases": [
+   {
+    "ar": "مواقع التواصل",
+    "tr": "mawāgi3 it-tawāSul",
+    "en": "social networking sites"
+   },
+   {
+    "ar": "بطّل السوشيال ميديا شوية",
+    "tr": "baTTal is-sōshal mīdya shwayya",
+    "en": "Take a break from social media"
+   }
+  ]
+ },
+ {
+  "ar": "إشاعة",
+  "tr": "ishā3a",
+  "en": "rumour",
+  "msa": "إشاعة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "هادي إشاعة، ما تصدقهاش",
+  "ex_tr": "hādi ishā3a, ma tSaddighāsh",
+  "ex_en": "That's a rumour, don't believe it",
+  "note": "pl. إشاعات ishā3āt",
+  "phrases": [
+   {
+    "ar": "إشاعة على الفيسبوك",
+    "tr": "ishā3a 3al-fēsbūk",
+    "en": "a rumour on Facebook"
+   },
+   {
+    "ar": "الإشاعات تنتشر بسرعة",
+    "tr": "il-ishā3āt tintashir b-sur3a",
+    "en": "Rumours spread fast"
+   }
+  ]
+ },
+ {
+  "ar": "تصويت",
+  "tr": "taSwīt",
+  "en": "voting; vote",
+  "msa": "تصويت",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "التصويت للأغنية الأحسن",
+  "ex_tr": "it-taSwīt lil-ughniyya l-a7san",
+  "ex_en": "voting for the best song",
+  "phrases": [
+   {
+    "ar": "صوّتلي!",
+    "tr": "Sawwitli!",
+    "en": "Vote for me!"
+   },
+   {
+    "ar": "نتيجة التصويت",
+    "tr": "natījat it-taSwīt",
+    "en": "the result of the vote"
+   }
+  ]
+ },
+ {
+  "ar": "مشهد",
+  "tr": "mashhad",
+  "en": "scene (film); view",
+  "msa": "مشهد",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "أحسن مشهد في الفيلم",
+  "ex_tr": "a7san mashhad fil-film",
+  "ex_en": "the best scene in the film",
+  "note": "pl. مشاهد mashāhid",
+  "phrases": [
+   {
+    "ar": "مشهد يضحّك",
+    "tr": "mashhad yDa77ik",
+    "en": "a funny scene"
+   },
+   {
+    "ar": "مشهد حزين",
+    "tr": "mashhad 7azīn",
+    "en": "a sad scene"
+   }
+  ]
+ },
+ {
+  "ar": "ترجمة",
+  "tr": "tarjama",
+  "en": "subtitles; translation",
+  "msa": "ترجمة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "الفيلم بترجمة عربي",
+  "ex_tr": "il-film b-tarjama 3arabi",
+  "ex_en": "The film has Arabic subtitles",
+  "note": "pl. تراجم tarājim",
+  "phrases": [
+   {
+    "ar": "فيلم مترجم",
+    "tr": "film mutarjam",
+    "en": "a subtitled film"
+   },
+   {
+    "ar": "ترجمة الورقة للإنجليزي",
+    "tr": "tarjamat il-warga lil-ingilīzi",
+    "en": "translating the document into English"
+   }
+  ]
+ },
+ {
+  "ar": "دبلجة",
+  "tr": "dablaja",
+  "en": "dubbing",
+  "msa": "دبلجة",
+  "pos": "noun",
+  "cat": "media",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "الدبلجة سورية",
+  "ex_tr": "id-dablaja sūriyya",
+  "ex_en": "The dubbing is Syrian",
+  "note": "From French doublage; adj. مدبلج madblaj",
+  "phrases": [
+   {
+    "ar": "مسلسل مدبلج",
+    "tr": "musalsal madblaj",
+    "en": "a dubbed series"
+   },
+   {
+    "ar": "الدبلجة بايخة",
+    "tr": "id-dablaja bāykha",
+    "en": "The dubbing is bad"
+   }
+  ]
+ },
+ {
+  "ar": "حكم",
+  "tr": "7akam",
+  "en": "referee",
+  "msa": "حكم",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "الحكم ظالم اليوم",
+  "ex_tr": "il-7akam DHālim ilyōm",
+  "ex_en": "The referee is unfair today",
+  "note": "pl. حكام 7ukkām",
+  "phrases": [
+   {
+    "ar": "صفّر الحكم",
+    "tr": "Saffar il-7akam",
+    "en": "The referee blew the whistle"
+   },
+   {
+    "ar": "الحكم عطاه كرت أحمر",
+    "tr": "il-7akam 3aTāh kart a7mar",
+    "en": "The referee gave him a red card"
+   }
+  ]
+ },
+ {
+  "ar": "دوري",
+  "tr": "dawri",
+  "en": "league (sports)",
+  "msa": "الدوري",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 3,
+  "usage": 54,
+  "ex_ar": "الدوري الليبي رجع",
+  "ex_tr": "id-dawri l-lībi rja3",
+  "ex_en": "The Libyan league is back",
+  "note": "Also \"periodic\" as adj.",
+  "phrases": [
+   {
+    "ar": "ترتيب الدوري",
+    "tr": "tartīb id-dawri",
+    "en": "the league table"
+   },
+   {
+    "ar": "الدوري الإسباني",
+    "tr": "id-dawri l-isbāni",
+    "en": "the Spanish league"
+   }
+  ]
+ },
+ {
+  "ar": "كاس",
+  "tr": "kās",
+  "en": "cup (trophy, tournament)",
+  "msa": "كأس",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "الفريق ربح الكاس",
+  "ex_tr": "il-farīg rba7 il-kās",
+  "ex_en": "The team won the cup",
+  "note": "Same word as drinking glass; pl. كيسان kīsān",
+  "phrases": [
+   {
+    "ar": "كاس العالم",
+    "tr": "kās il-3ālam",
+    "en": "the World Cup"
+   },
+   {
+    "ar": "نهائي الكاس",
+    "tr": "nihā'i l-kās",
+    "en": "the cup final"
+   }
+  ]
+ },
+ {
+  "ar": "مدرب",
+  "tr": "mudarrib",
+  "en": "coach; trainer",
+  "msa": "مدرب",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "المدرب الجديد تونسي",
+  "ex_tr": "il-mudarrib ij-jdīd tūnsi",
+  "ex_en": "The new coach is Tunisian",
+  "note": "pl. مدربين mudarribīn",
+  "phrases": [
+   {
+    "ar": "مدرب الجيم",
+    "tr": "mudarrib ij-jīm",
+    "en": "the gym trainer"
+   },
+   {
+    "ar": "المدرب غيّر التشكيلة",
+    "tr": "il-mudarrib ghayyar it-tashkīla",
+    "en": "The coach changed the line-up"
+   }
+  ]
+ },
+ {
+  "ar": "مشجع",
+  "tr": "mushajji3",
+  "en": "fan; supporter",
+  "msa": "مشجع",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "أني مشجع الأهلي من صغري",
+  "ex_tr": "āna mushajji3 il-ahli min Sghuri",
+  "ex_en": "I've been an Ahly fan since I was little",
+  "note": "pl. مشجعين mushajji3īn",
+  "phrases": [
+   {
+    "ar": "مشجعين الاتحاد",
+    "tr": "mushajji3īn il-itti7ād",
+    "en": "the Ittihad supporters"
+   },
+   {
+    "ar": "مشجع متعصب",
+    "tr": "mushajji3 muta3aSSib",
+    "en": "a fanatical fan"
+   }
+  ]
+ },
+ {
+  "ar": "لاعب",
+  "tr": "lā3ib",
+  "en": "player",
+  "msa": "لاعب",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "أحسن لاعب في الفريق",
+  "ex_tr": "a7san lā3ib fil-farīg",
+  "ex_en": "the best player in the team",
+  "note": "pl. لاعبين lā3bīn / لعيبة la3ība",
+  "phrases": [
+   {
+    "ar": "لاعب محترف",
+    "tr": "lā3ib mu7tarif",
+    "en": "a professional player"
+   },
+   {
+    "ar": "لاعب احتياط",
+    "tr": "lā3ib i7tiyāT",
+    "en": "a substitute player"
+   }
+  ]
+ },
+ {
+  "ar": "حارس مرمى",
+  "tr": "7āris marma",
+  "en": "goalkeeper",
+  "msa": "حارس مرمى",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "حارس المرمى صدّ البلنتي",
+  "ex_tr": "7āris il-marma Sadd il-bilanti",
+  "ex_en": "The goalkeeper saved the penalty",
+  "note": "Often just الحارس il-7āris; pl. حراس",
+  "phrases": [
+   {
+    "ar": "حارس مرمى المنتخب",
+    "tr": "7āris marmat il-muntakhab",
+    "en": "the national team goalkeeper"
+   },
+   {
+    "ar": "حارس مرمى طويل",
+    "tr": "7āris marma Twīl",
+    "en": "a tall goalkeeper"
+   }
+  ]
+ },
+ {
+  "ar": "بلنتي",
+  "tr": "bilanti",
+  "en": "penalty kick",
+  "msa": "ضربة جزاء",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "الحكم عطاهم بلنتي",
+  "ex_tr": "il-7akam 3aTāhum bilanti",
+  "ex_en": "The referee gave them a penalty",
+  "note": "English loan; MSA ضربة جزاء",
+  "phrases": [
+   {
+    "ar": "ضيّع البلنتي",
+    "tr": "Dayya3 il-bilanti",
+    "en": "He missed the penalty"
+   },
+   {
+    "ar": "ضربات الترجيح",
+    "tr": "Darbāt it-tarjī7",
+    "en": "the penalty shoot-out"
+   }
+  ]
+ },
+ {
+  "ar": "فاول",
+  "tr": "fāwul",
+  "en": "foul",
+  "msa": "خطأ",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "هادا فاول يا حكم!",
+  "ex_tr": "hāda fāwul ya 7akam!",
+  "ex_en": "That's a foul, ref!",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "فاول قريب من الصندوق",
+    "tr": "fāwul grīb min iS-Sandūg",
+    "en": "a foul near the box"
+   },
+   {
+    "ar": "ضربة حرة",
+    "tr": "Darba 7urra",
+    "en": "a free kick"
+   }
+  ]
+ },
+ {
+  "ar": "تسلل",
+  "tr": "tasallul",
+  "en": "offside",
+  "msa": "تسلل",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "القول ما يحسبش، تسلل",
+  "ex_tr": "il-gōl ma yi7sibsh, tasallul",
+  "ex_en": "The goal doesn't count, offside",
+  "note": "Also أوفسايد ofsāyd",
+  "phrases": [
+   {
+    "ar": "تسلل واضح",
+    "tr": "tasallul wāDi7",
+    "en": "a clear offside"
+   },
+   {
+    "ar": "الراية رفعت تسلل",
+    "tr": "ir-rāya rif3at tasallul",
+    "en": "The flag went up for offside"
+   }
+  ]
+ },
+ {
+  "ar": "كورنر",
+  "tr": "kornar",
+  "en": "corner kick",
+  "msa": "ركنية",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "جاء القول من كورنر",
+  "ex_tr": "jā il-gōl min kornar",
+  "ex_en": "The goal came from a corner",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "ضربة كورنر",
+    "tr": "Darbat kornar",
+    "en": "a corner kick"
+   },
+   {
+    "ar": "خلّيها كورنر",
+    "tr": "khallīha kornar",
+    "en": "Put it out for a corner"
+   }
+  ]
+ },
+ {
+  "ar": "شوط",
+  "tr": "shōT",
+  "en": "half (of a match); round",
+  "msa": "شوط",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "في الشوط التاني جابوا قولين",
+  "ex_tr": "fish-shōT it-tāni jābu gōlēn",
+  "ex_en": "In the second half they scored two",
+  "note": "pl. أشواط ashwāT",
+  "phrases": [
+   {
+    "ar": "الشوط الأول",
+    "tr": "ish-shōT il-awwal",
+    "en": "the first half"
+   },
+   {
+    "ar": "بين الشوطين",
+    "tr": "bēn ish-shōTēn",
+    "en": "at half-time"
+   }
+  ]
+ },
+ {
+  "ar": "تعادل",
+  "tr": "ta3ādul",
+  "en": "draw; tie",
+  "msa": "تعادل",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "الماتش كمل بالتعادل",
+  "ex_tr": "il-mātsh kammal bit-ta3ādul",
+  "ex_en": "The match ended in a draw",
+  "phrases": [
+   {
+    "ar": "تعادل سلبي",
+    "tr": "ta3ādul salbi",
+    "en": "a goalless draw"
+   },
+   {
+    "ar": "تعادل بقول لقول",
+    "tr": "ta3ādul b-gōl li-gōl",
+    "en": "a one-all draw"
+   }
+  ]
+ },
+ {
+  "ar": "فوز",
+  "tr": "fōz",
+  "en": "win; victory",
+  "msa": "فوز",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "مبروك الفوز!",
+  "ex_tr": "mabrūk il-fōz!",
+  "ex_en": "Congratulations on the win!",
+  "phrases": [
+   {
+    "ar": "فوز كبير",
+    "tr": "fōz kbīr",
+    "en": "a big win"
+   },
+   {
+    "ar": "أول فوز في الموسم",
+    "tr": "awwal fōz fil-mawsim",
+    "en": "the first win of the season"
+   }
+  ]
+ },
+ {
+  "ar": "خسارة",
+  "tr": "khasāra",
+  "en": "loss; defeat; financial loss",
+  "msa": "خسارة",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "خسارة تانية للفريق",
+  "ex_tr": "khasāra tānya lil-farīg",
+  "ex_en": "another defeat for the team",
+  "note": "pl. خساير khsāyir; cf. يا خسارة \"what a pity\"",
+  "phrases": [
+   {
+    "ar": "خسارة كبيرة في التجارة",
+    "tr": "khasāra kbīra fit-tijāra",
+    "en": "a big loss in business"
+   },
+   {
+    "ar": "بعد الخسارة المدرب استقال",
+    "tr": "ba3d il-khasāra l-mudarrib istagāl",
+    "en": "After the defeat the coach resigned"
+   }
+  ]
+ },
+ {
+  "ar": "بطولة",
+  "tr": "buTūla",
+  "en": "championship; tournament",
+  "msa": "بطولة",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "ربحوا البطولة السنة هادي",
+  "ex_tr": "rib7u l-buTūla s-sana hādi",
+  "ex_en": "They won the championship this year",
+  "note": "pl. بطولات buTūlāt",
+  "phrases": [
+   {
+    "ar": "بطولة أفريقيا",
+    "tr": "buTūlat afrīgya",
+    "en": "the African championship"
+   },
+   {
+    "ar": "بطولة رمضانية",
+    "tr": "buTūla ramaDāniyya",
+    "en": "a Ramadan tournament"
+   }
+  ]
+ },
+ {
+  "ar": "منتخب",
+  "tr": "muntakhab",
+  "en": "national team",
+  "msa": "المنتخب",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "المنتخب الليبي يلعب الليلة",
+  "ex_tr": "il-muntakhab il-lībi yil3ab il-lēla",
+  "ex_en": "The Libyan national team plays tonight",
+  "note": "pl. منتخبات",
+  "phrases": [
+   {
+    "ar": "لاعب في المنتخب",
+    "tr": "lā3ib fil-muntakhab",
+    "en": "a national team player"
+   },
+   {
+    "ar": "ماتش المنتخب",
+    "tr": "mātsh il-muntakhab",
+    "en": "the national team's match"
+   }
+  ]
+ },
+ {
+  "ar": "الأهلي",
+  "tr": "il-ahli",
+  "en": "Al-Ahly (football club, Tripoli or Benghazi)",
+  "msa": "الأهلي",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "تشجع الأهلي ولا الاتحاد؟",
+  "ex_tr": "tshajji3 il-ahli walla l-itti7ād?",
+  "ex_en": "Do you support Ahly or Ittihad?",
+  "note": "Al-Ahly Tripoli and Al-Ahly Benghazi are both big clubs",
+  "phrases": [
+   {
+    "ar": "داربي الأهلي والاتحاد",
+    "tr": "darbi l-ahli wil-itti7ād",
+    "en": "the Ahly–Ittihad derby"
+   },
+   {
+    "ar": "جمهور الأهلي",
+    "tr": "jumhūr il-ahli",
+    "en": "the Ahly fans"
+   }
+  ]
+ },
+ {
+  "ar": "الاتحاد",
+  "tr": "il-itti7ād",
+  "en": "Al-Ittihad (Tripoli football club); union",
+  "msa": "الاتحاد",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "الاتحاد ربح الدوري",
+  "ex_tr": "il-itti7ād rba7 id-dawri",
+  "ex_en": "Ittihad won the league",
+  "note": "One of Libya's most successful clubs",
+  "phrases": [
+   {
+    "ar": "نادي الاتحاد",
+    "tr": "nādi l-itti7ād",
+    "en": "Ittihad club"
+   },
+   {
+    "ar": "الاتحاد الليبي لكرة القدم",
+    "tr": "il-itti7ād il-lībi li-kurat il-gadam",
+    "en": "the Libyan Football Federation"
+   }
+  ]
+ },
+ {
+  "ar": "داربي",
+  "tr": "dārbi",
+  "en": "derby (local rivalry match)",
+  "msa": "ديربي",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "داربي طرابلس الجمعة",
+  "ex_tr": "dārbi Trābulus ij-jum3a",
+  "ex_en": "The Tripoli derby is on Friday",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "داربي ناري",
+    "tr": "dārbi nāri",
+    "en": "a fiery derby"
+   },
+   {
+    "ar": "تذاكر الداربي كملت",
+    "tr": "tadhākir id-dārbi kammlat",
+    "en": "Derby tickets sold out"
+   }
+  ]
+ },
+ {
+  "ar": "ترتيب",
+  "tr": "tartīb",
+  "en": "standings; ranking; order",
+  "msa": "ترتيب",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "الفريق التاني في الترتيب",
+  "ex_tr": "il-farīg it-tāni fit-tartīb",
+  "ex_en": "The team is second in the table",
+  "note": "Also \"tidying, arrangement\"",
+  "phrases": [
+   {
+    "ar": "ترتيب الدوري",
+    "tr": "tartīb id-dawri",
+    "en": "the league table"
+   },
+   {
+    "ar": "في أول الترتيب",
+    "tr": "fi awwal it-tartīb",
+    "en": "at the top of the table"
+   }
+  ]
+ },
+ {
+  "ar": "صفارة",
+  "tr": "Saffāra",
+  "en": "whistle",
+  "msa": "صفارة",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "الحكم نسى الصفارة",
+  "ex_tr": "il-7akam nsa S-Saffāra",
+  "ex_en": "The referee forgot his whistle",
+  "note": "pl. صفافير Safāfīr",
+  "phrases": [
+   {
+    "ar": "صفارة النهاية",
+    "tr": "Saffārat in-nihāya",
+    "en": "the final whistle"
+   },
+   {
+    "ar": "صفارة الإسعاف",
+    "tr": "Saffārat il-is3āf",
+    "en": "the ambulance siren"
+   }
+  ]
+ },
+ {
+  "ar": "تشجيع",
+  "tr": "tashjī3",
+  "en": "cheering; support; encouragement",
+  "msa": "تشجيع",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "التشجيع في الملعب كان رهيب",
+  "ex_tr": "it-tashjī3 fil-mal3ab kān rhīb",
+  "ex_en": "The cheering in the stadium was amazing",
+  "phrases": [
+   {
+    "ar": "شكراً على التشجيع",
+    "tr": "shukran 3at-tashjī3",
+    "en": "Thanks for the support"
+   },
+   {
+    "ar": "أغاني التشجيع",
+    "tr": "aghāni t-tashjī3",
+    "en": "football chants"
+   }
+  ]
+ },
+ {
+  "ar": "كابتن",
+  "tr": "kābtin",
+  "en": "captain (of a team); pilot",
+  "msa": "قائد",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "الكابتن لبس الشارة",
+  "ex_tr": "il-kābtin libis ish-shāra",
+  "ex_en": "The captain wore the armband",
+  "note": "English loan; also used for pilots and coaches as a title",
+  "phrases": [
+   {
+    "ar": "كابتن الفريق",
+    "tr": "kābtin il-farīg",
+    "en": "the team captain"
+   },
+   {
+    "ar": "يا كابتن!",
+    "tr": "ya kābtin!",
+    "en": "Hey captain! (friendly address)"
+   }
+  ]
+ },
+ {
+  "ar": "احتياط",
+  "tr": "i7tiyāT",
+  "en": "substitute; reserve; backup",
+  "msa": "احتياط",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "قعد احتياط الماتش كله",
+  "ex_tr": "ga3ad i7tiyāT il-mātsh kulla",
+  "ex_en": "He sat on the bench the whole match",
+  "note": "Also \"precaution, spare\"",
+  "phrases": [
+   {
+    "ar": "دكة الاحتياط",
+    "tr": "dakkat il-i7tiyāT",
+    "en": "the substitutes' bench"
+   },
+   {
+    "ar": "خليها احتياط",
+    "tr": "khallīha i7tiyāT",
+    "en": "Keep it as a spare"
+   }
+  ]
+ },
+ {
+  "ar": "تبديل",
+  "tr": "tabdīl",
+  "en": "substitution; change; exchange",
+  "msa": "تبديل",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "المدرب دار تبديل في الدقيقة سبعين",
+  "ex_tr": "il-mudarrib dār tabdīl fid-dgīga sab3īn",
+  "ex_en": "The coach made a substitution in the 70th minute",
+  "note": "pl. تبديلات",
+  "phrases": [
+   {
+    "ar": "تبديل الحوايج ممكن؟",
+    "tr": "tabdīl il-7wāyij mumkin?",
+    "en": "Can clothes be exchanged?"
+   },
+   {
+    "ar": "تبديل زيت",
+    "tr": "tabdīl zēt",
+    "en": "an oil change"
+   }
+  ]
+ },
+ {
+  "ar": "باص",
+  "tr": "pās",
+  "en": "pass (football)",
+  "msa": "تمريرة",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "عطيني باص!",
+  "ex_tr": "3aTīni pās!",
+  "ex_en": "Pass it to me!",
+  "note": "English \"pass\"; homograph of باص bus",
+  "phrases": [
+   {
+    "ar": "باص حلو",
+    "tr": "pās 7ilu",
+    "en": "a nice pass"
+   },
+   {
+    "ar": "باص طويل",
+    "tr": "pās Twīl",
+    "en": "a long pass"
+   }
+  ]
+ },
+ {
+  "ar": "شوطة",
+  "tr": "shōTa",
+  "en": "shot; kick (at goal)",
+  "msa": "تسديدة",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "شوطة قوية في العارضة",
+  "ex_tr": "shōTa gawiyya fil-3āriDa",
+  "ex_en": "a powerful shot onto the crossbar",
+  "note": "From English \"shoot\"",
+  "phrases": [
+   {
+    "ar": "شوطة برا",
+    "tr": "shōTa barra",
+    "en": "a shot wide"
+   },
+   {
+    "ar": "يشوط في الكورة",
+    "tr": "yshawwiT fil-kōra",
+    "en": "He kicks the ball"
+   }
+  ]
+ },
+ {
+  "ar": "عارضة",
+  "tr": "3āriDa",
+  "en": "crossbar",
+  "msa": "عارضة",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "الكورة ضربت في العارضة",
+  "ex_tr": "il-kōra Darbat fil-3āriDa",
+  "ex_en": "The ball hit the crossbar",
+  "note": "Posts: القايم il-gāyim",
+  "phrases": [
+   {
+    "ar": "العارضة والقايم",
+    "tr": "il-3āriDa wil-gāyim",
+    "en": "the bar and the post"
+   },
+   {
+    "ar": "فوق العارضة",
+    "tr": "fōg il-3āriDa",
+    "en": "over the bar"
+   }
+  ]
+ },
+ {
+  "ar": "ضربة راس",
+  "tr": "Darbat rās",
+  "en": "header",
+  "msa": "ضربة رأس",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "جاب القول بضربة راس",
+  "ex_tr": "jāb il-gōl b-Darbat rās",
+  "ex_en": "He scored with a header",
+  "phrases": [
+   {
+    "ar": "ضربة راس قوية",
+    "tr": "Darbat rās gawiyya",
+    "en": "a powerful header"
+   },
+   {
+    "ar": "راسية في الزاوية",
+    "tr": "rāsiyya fiz-zāwya",
+    "en": "a header into the corner"
+   }
+  ]
+ },
+ {
+  "ar": "تشكيلة",
+  "tr": "tashkīla",
+  "en": "line-up; squad; assortment",
+  "msa": "تشكيلة",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "تشكيلة اليوم قوية",
+  "ex_tr": "tashkīlat ilyōm gawiyya",
+  "ex_en": "Today's line-up is strong",
+  "note": "pl. تشكيلات; also a range of goods in a shop",
+  "phrases": [
+   {
+    "ar": "التشكيلة الأساسية",
+    "tr": "it-tashkīla l-asāsiyya",
+    "en": "the starting line-up"
+   },
+   {
+    "ar": "تشكيلة جديدة من الحوايج",
+    "tr": "tashkīla jdīda min il-7wāyij",
+    "en": "a new range of clothes"
+   }
+  ]
+ },
+ {
+  "ar": "نهائي",
+  "tr": "nihā'i",
+  "en": "final (match)",
+  "msa": "النهائي",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "وصلنا للنهائي!",
+  "ex_tr": "wSalna lin-nihā'i!",
+  "ex_en": "We made it to the final!",
+  "note": "Also adj. \"final\"",
+  "phrases": [
+   {
+    "ar": "نهائي الكاس",
+    "tr": "nihā'i l-kās",
+    "en": "the cup final"
+   },
+   {
+    "ar": "نص النهائي",
+    "tr": "nuSS in-nihā'i",
+    "en": "the semi-final"
+   }
+  ]
+ },
+ {
+  "ar": "جيم",
+  "tr": "jīm",
+  "en": "gym",
+  "msa": "صالة رياضية",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "نمشي للجيم كل يوم",
+  "ex_tr": "nimshi lij-jīm kull yōm",
+  "ex_en": "I go to the gym every day",
+  "note": "English loan; also صالة sāla",
+  "phrases": [
+   {
+    "ar": "اشتراك في الجيم",
+    "tr": "ishtirāk fij-jīm",
+    "en": "a gym membership"
+   },
+   {
+    "ar": "بعد الجيم نتعشى",
+    "tr": "ba3d ij-jīm nit3ashsha",
+    "en": "After the gym I have dinner"
+   }
+  ]
+ },
+ {
+  "ar": "رياضي",
+  "tr": "riyāDi",
+  "en": "athlete; sportsman",
+  "msa": "رياضي",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "هو رياضي من صغره",
+  "ex_tr": "huwwa riyāDi min Sghura",
+  "ex_en": "He's been sporty since childhood",
+  "note": "f. رياضية; also adj. \"sporty, athletic\"",
+  "phrases": [
+   {
+    "ar": "جسم رياضي",
+    "tr": "jism riyāDi",
+    "en": "an athletic body"
+   },
+   {
+    "ar": "قناة رياضية",
+    "tr": "ganāt riyāDiyya",
+    "en": "a sports channel"
+   }
+  ]
+ },
+ {
+  "ar": "حديد",
+  "tr": "7dīd",
+  "en": "weights; weightlifting (gym)",
+  "msa": "أثقال",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "يلعب حديد في الجيم",
+  "ex_tr": "yil3ab 7dīd fij-jīm",
+  "ex_en": "He lifts weights at the gym",
+  "note": "Lit. \"iron\"; لعب حديد = to do weights",
+  "phrases": [
+   {
+    "ar": "ترفع حديد؟",
+    "tr": "tarfa3 7dīd?",
+    "en": "Do you lift weights?"
+   },
+   {
+    "ar": "الحديد يبي صبر",
+    "tr": "il-7dīd yibbi Sabr",
+    "en": "Weightlifting takes patience"
+   }
+  ]
+ },
+ {
+  "ar": "سباحة",
+  "tr": "sbā7a",
+  "en": "swimming",
+  "msa": "سباحة",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "نعلّموا الصغار السباحة",
+  "ex_tr": "n3allmu S-Sghār is-sbā7a",
+  "ex_en": "We're teaching the kids to swim",
+  "phrases": [
+   {
+    "ar": "مسبح للسباحة",
+    "tr": "masba7 lis-sbā7a",
+    "en": "a swimming pool"
+   },
+   {
+    "ar": "بطل في السباحة",
+    "tr": "baTal fis-sbā7a",
+    "en": "a swimming champion"
+   }
+  ]
+ },
+ {
+  "ar": "مسبح",
+  "tr": "masba7",
+  "en": "swimming pool",
+  "msa": "مسبح",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "المسبح مسكّر في الشتا",
+  "ex_tr": "il-masba7 msakkar fish-shta",
+  "ex_en": "The pool is closed in winter",
+  "note": "pl. مسابح masābi7",
+  "phrases": [
+   {
+    "ar": "مسبح أولمبي",
+    "tr": "masba7 olimbi",
+    "en": "an Olympic pool"
+   },
+   {
+    "ar": "المسبح فيه ميا باردة",
+    "tr": "il-masba7 fīh mayya bārda",
+    "en": "The pool water is cold"
+   }
+  ]
+ },
+ {
+  "ar": "كرة سلة",
+  "tr": "kurat salla",
+  "en": "basketball",
+  "msa": "كرة السلة",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "خوي يلعب كرة سلة في النادي",
+  "ex_tr": "khūy yil3ab kurat salla fin-nādi",
+  "ex_en": "My brother plays basketball at the club",
+  "note": "Also باسكت bāskit",
+  "phrases": [
+   {
+    "ar": "ماتش كرة سلة",
+    "tr": "mātsh kurat salla",
+    "en": "a basketball game"
+   },
+   {
+    "ar": "ملعب كرة سلة",
+    "tr": "mal3ab kurat salla",
+    "en": "a basketball court"
+   }
+  ]
+ },
+ {
+  "ar": "كرة طايرة",
+  "tr": "kura Tāyra",
+  "en": "volleyball",
+  "msa": "الكرة الطائرة",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "نلعبوا كرة طايرة على البحر",
+  "ex_tr": "nil3bu kura Tāyra 3al-ba7r",
+  "ex_en": "We play volleyball on the beach",
+  "note": "Also فولي vōli",
+  "phrases": [
+   {
+    "ar": "فريق الكرة الطايرة",
+    "tr": "farīg il-kura T-Tāyra",
+    "en": "the volleyball team"
+   },
+   {
+    "ar": "شبكة الكرة الطايرة",
+    "tr": "shabakat il-kura T-Tāyra",
+    "en": "the volleyball net"
+   }
+  ]
+ },
+ {
+  "ar": "تنس",
+  "tr": "tins",
+  "en": "tennis",
+  "msa": "التنس",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "تلعب تنس؟",
+  "ex_tr": "til3ab tins?",
+  "ex_en": "Do you play tennis?",
+  "phrases": [
+   {
+    "ar": "مضرب تنس",
+    "tr": "maDrab tins",
+    "en": "a tennis racket"
+   },
+   {
+    "ar": "تنس طاولة",
+    "tr": "tins Tāwla",
+    "en": "table tennis"
+   }
+  ]
+ },
+ {
+  "ar": "ملاكمة",
+  "tr": "mulākma",
+  "en": "boxing",
+  "msa": "ملاكمة",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "يتدرب ملاكمة في النادي",
+  "ex_tr": "yitdarrab mulākma fin-nādi",
+  "ex_en": "He trains boxing at the club",
+  "phrases": [
+   {
+    "ar": "قفازات ملاكمة",
+    "tr": "guffāzāt mulākma",
+    "en": "boxing gloves"
+   },
+   {
+    "ar": "بطل ملاكمة",
+    "tr": "baTal mulākma",
+    "en": "a boxing champion"
+   }
+  ]
+ },
+ {
+  "ar": "كاراتيه",
+  "tr": "karātēh",
+  "en": "karate",
+  "msa": "الكاراتيه",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "حطيته في كاراتيه",
+  "ex_tr": "7aTTētah fi karātēh",
+  "ex_en": "I enrolled him in karate",
+  "note": "Japanese via English",
+  "phrases": [
+   {
+    "ar": "حزام أسود في الكاراتيه",
+    "tr": "7zām aswid fil-karātēh",
+    "en": "a black belt in karate"
+   },
+   {
+    "ar": "بدلة كاراتيه",
+    "tr": "badlat karātēh",
+    "en": "a karate suit"
+   }
+  ]
+ },
+ {
+  "ar": "سباق",
+  "tr": "sbāg",
+  "en": "race; racing",
+  "msa": "سباق",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "سباق الخيل في العيد",
+  "ex_tr": "sbāg il-khēl fil-3īd",
+  "ex_en": "horse racing at Eid",
+  "note": "pl. سباقات sbāgāt",
+  "phrases": [
+   {
+    "ar": "سباق سيارات",
+    "tr": "sbāg sayyārāt",
+    "en": "a car race"
+   },
+   {
+    "ar": "سباق جري",
+    "tr": "sbāg jari",
+    "en": "a running race"
+   }
+  ]
+ },
+ {
+  "ar": "ميدالية",
+  "tr": "midālya",
+  "en": "medal; keyring",
+  "msa": "ميدالية",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "خدا ميدالية دهب",
+  "ex_tr": "khda midālya dhab",
+  "ex_en": "He won a gold medal",
+  "note": "Italian medaglia; also keyring ميدالية مفاتيح",
+  "phrases": [
+   {
+    "ar": "ميدالية فضية",
+    "tr": "midālya fiDDiyya",
+    "en": "a silver medal"
+   },
+   {
+    "ar": "ميدالية مفاتيح",
+    "tr": "midālyat mafātī7",
+    "en": "a keyring"
+   }
+  ]
+ },
+ {
+  "ar": "بطل",
+  "tr": "baTal",
+  "en": "champion; hero",
+  "msa": "بطل",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "الفريق هادا بطل الدوري",
+  "ex_tr": "il-farīg hāda baTal id-dawri",
+  "ex_en": "This team is the league champion",
+  "note": "pl. أبطال abTāl; f. بطلة",
+  "phrases": [
+   {
+    "ar": "دوري الأبطال",
+    "tr": "dawri l-abTāl",
+    "en": "the Champions League"
+   },
+   {
+    "ar": "يا بطل!",
+    "tr": "ya baTal!",
+    "en": "Well done, champ!"
+   }
+  ]
+ },
+ {
+  "ar": "لياقة",
+  "tr": "liyāga",
+  "en": "fitness",
+  "msa": "لياقة بدنية",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "لياقته ضعيفة",
+  "ex_tr": "liyāgta Da3īfa",
+  "ex_en": "His fitness is poor",
+  "note": "Full form لياقة بدنية",
+  "phrases": [
+   {
+    "ar": "لياقة بدنية",
+    "tr": "liyāga badaniyya",
+    "en": "physical fitness"
+   },
+   {
+    "ar": "نبي نرجع لياقتي",
+    "tr": "nibbi nrajji3 liyāgti",
+    "en": "I want to get my fitness back"
+   }
+  ]
+ },
+ {
+  "ar": "مباراة",
+  "tr": "mubārā",
+  "en": "match; game (formal)",
+  "msa": "مباراة",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "المباراة النهائية يوم السبت",
+  "ex_tr": "il-mubārā n-nihā'iyya yōm is-sabt",
+  "ex_en": "The final match is on Saturday",
+  "note": "Formal; everyday ماتش mātsh; pl. مباريات mubārayāt",
+  "phrases": [
+   {
+    "ar": "مباراة ودية",
+    "tr": "mubārā widdiyya",
+    "en": "a friendly match"
+   },
+   {
+    "ar": "نتيجة المباراة",
+    "tr": "natījat il-mubārā",
+    "en": "the match result"
+   }
+  ]
+ },
+ {
+  "ar": "مرمى",
+  "tr": "marma",
+  "en": "goal (the posts and net)",
+  "msa": "مرمى",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "الكورة دخلت المرمى",
+  "ex_tr": "il-kōra dkhlat il-marma",
+  "ex_en": "The ball went into the goal",
+  "note": "Everyday also القول il-gōl",
+  "phrases": [
+   {
+    "ar": "قدام المرمى",
+    "tr": "giddām il-marma",
+    "en": "in front of goal"
+   },
+   {
+    "ar": "شبكة المرمى",
+    "tr": "shabakat il-marma",
+    "en": "the goal net"
+   }
+  ]
+ },
+ {
+  "ar": "دفاع",
+  "tr": "difā3",
+  "en": "defence",
+  "msa": "دفاع",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "الدفاع متاعنا ضعيف",
+  "ex_tr": "id-difā3 mtā3na Da3īf",
+  "ex_en": "Our defence is weak",
+  "note": "A defender: مدافع mudāfi3",
+  "phrases": [
+   {
+    "ar": "خط الدفاع",
+    "tr": "khaTT id-difā3",
+    "en": "the back line"
+   },
+   {
+    "ar": "دفاع عن النفس",
+    "tr": "difā3 3an in-nafs",
+    "en": "self-defence"
+   }
+  ]
+ },
+ {
+  "ar": "هجوم",
+  "tr": "hujūm",
+  "en": "attack (sports)",
+  "msa": "هجوم",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "المدرب يحب الهجوم",
+  "ex_tr": "il-mudarrib y7ibb il-hujūm",
+  "ex_en": "The coach likes attacking play",
+  "note": "A striker: مهاجم muhājim",
+  "phrases": [
+   {
+    "ar": "خط الهجوم",
+    "tr": "khaTT il-hujūm",
+    "en": "the front line"
+   },
+   {
+    "ar": "هجوم مرتد",
+    "tr": "hujūm murtadd",
+    "en": "a counter-attack"
+   }
+  ]
+ },
+ {
+  "ar": "مهاجم",
+  "tr": "muhājim",
+  "en": "striker; forward",
+  "msa": "مهاجم",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "المهاجم ضيّع فرصة سهلة",
+  "ex_tr": "il-muhājim Dayya3 furSa sahla",
+  "ex_en": "The striker missed an easy chance",
+  "note": "pl. مهاجمين muhājimīn",
+  "phrases": [
+   {
+    "ar": "مهاجم سريع",
+    "tr": "muhājim sarī3",
+    "en": "a fast striker"
+   },
+   {
+    "ar": "مهاجم المنتخب",
+    "tr": "muhājim il-muntakhab",
+    "en": "the national team striker"
+   }
+  ]
+ },
+ {
+  "ar": "مدافع",
+  "tr": "mudāfi3",
+  "en": "defender",
+  "msa": "مدافع",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "المدافع طاح على الأرض",
+  "ex_tr": "il-mudāfi3 Tā7 3al-arD",
+  "ex_en": "The defender fell to the ground",
+  "note": "pl. مدافعين mudāf3īn",
+  "phrases": [
+   {
+    "ar": "مدافع صلب",
+    "tr": "mudāfi3 Sulb",
+    "en": "a tough defender"
+   },
+   {
+    "ar": "مدافع أيمن",
+    "tr": "mudāfi3 ayman",
+    "en": "a right-back"
+   }
+  ]
+ },
+ {
+  "ar": "كرت أصفر",
+  "tr": "kart aSfar",
+  "en": "yellow card",
+  "msa": "بطاقة صفراء",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "خدا كرت أصفر في أول دقيقة",
+  "ex_tr": "khda kart aSfar fi awwal dgīga",
+  "ex_en": "He got a yellow card in the first minute",
+  "note": "Red card: كرت أحمر kart a7mar",
+  "phrases": [
+   {
+    "ar": "كرت أحمر مباشر",
+    "tr": "kart a7mar mubāshir",
+    "en": "a straight red card"
+   },
+   {
+    "ar": "عنده جوز كروت صفر",
+    "tr": "3anda zūz krūt Sufr",
+    "en": "He has two yellow cards"
+   }
+  ]
+ },
+ {
+  "ar": "تذكرة الماتش",
+  "tr": "tadhkarat il-mātsh",
+  "en": "match ticket",
+  "msa": "تذكرة المباراة",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "شريت تذكرة الماتش من بكري",
+  "ex_tr": "shrēt tadhkarat il-mātsh min bakri",
+  "ex_en": "I bought the match ticket early",
+  "note": "pl. تذاكر tadhākir",
+  "phrases": [
+   {
+    "ar": "تذاكر الماتش كملت",
+    "tr": "tadhākir il-mātsh kammlat",
+    "en": "Match tickets are sold out"
+   },
+   {
+    "ar": "سوم التذكرة",
+    "tr": "sōm it-tadhkara",
+    "en": "the ticket price"
+   }
+  ]
+ },
+ {
+  "ar": "ركض",
+  "tr": "rkiD",
+  "en": "running; jogging",
+  "msa": "جري",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "نمشي للركض على الكورنيش",
+  "ex_tr": "nimshi lir-rkiD 3al-kōrnīsh",
+  "ex_en": "I go jogging on the corniche",
+  "note": "Also جري jari",
+  "phrases": [
+   {
+    "ar": "ركض الصبح",
+    "tr": "rkiD iS-Sub7",
+    "en": "morning jogging"
+   },
+   {
+    "ar": "ركض نص ساعة",
+    "tr": "rkiD nuSS sā3a",
+    "en": "half an hour of running"
+   }
+  ]
+ },
+ {
+  "ar": "مشي رياضي",
+  "tr": "mashi riyāDi",
+  "en": "power walking; walking for exercise",
+  "msa": "مشي رياضي",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "الدكتور قالي ندير مشي رياضي",
+  "ex_tr": "id-doktōr gālli ndīr mashi riyāDi",
+  "ex_en": "The doctor told me to do exercise walking",
+  "phrases": [
+   {
+    "ar": "مشي رياضي بعد المغرب",
+    "tr": "mashi riyāDi ba3d il-maghrib",
+    "en": "a walk after sunset prayer"
+   },
+   {
+    "ar": "ساعة مشي",
+    "tr": "sā3at mashi",
+    "en": "an hour of walking"
+   }
+  ]
+ },
+ {
+  "ar": "بدلة رياضية",
+  "tr": "badla riyāDiyya",
+  "en": "tracksuit",
+  "msa": "بدلة رياضية",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "لابس بدلة رياضية للجيم",
+  "ex_tr": "lābis badla riyāDiyya lij-jīm",
+  "ex_en": "He's wearing a tracksuit to the gym",
+  "note": "pl. بدل رياضية",
+  "phrases": [
+   {
+    "ar": "بدلة رياضية جديدة",
+    "tr": "badla riyāDiyya jdīda",
+    "en": "a new tracksuit"
+   },
+   {
+    "ar": "بدلة المنتخب",
+    "tr": "badlat il-muntakhab",
+    "en": "the national team tracksuit"
+   }
+  ]
+ },
+ {
+  "ar": "صباط رياضة",
+  "tr": "SabbāT riyāDa",
+  "en": "trainers; sneakers",
+  "msa": "حذاء رياضي",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "شريتله صباط رياضة للمدرسة",
+  "ex_tr": "shrētla SabbāT riyāDa lil-madrasa",
+  "ex_en": "I bought him trainers for school",
+  "phrases": [
+   {
+    "ar": "صباط رياضة أبيض",
+    "tr": "SabbāT riyāDa abyaD",
+    "en": "white trainers"
+   },
+   {
+    "ar": "صباط جري",
+    "tr": "SabbāT jari",
+    "en": "running shoes"
+   }
+  ]
+ },
+ {
+  "ar": "شارة",
+  "tr": "shāra",
+  "en": "armband; badge; sign",
+  "msa": "شارة",
+  "pos": "noun",
+  "cat": "sports",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "شارة الكابتن",
+  "ex_tr": "shārat il-kābtin",
+  "ex_en": "the captain's armband",
+  "note": "pl. شارات",
+  "phrases": [
+   {
+    "ar": "حط الشارة",
+    "tr": "7oTT ish-shāra",
+    "en": "Put on the armband"
+   },
+   {
+    "ar": "شارة سودا",
+    "tr": "shāra sūda",
+    "en": "a black armband (mourning)"
+   }
+  ]
+ },
+ {
+  "ar": "سلفة",
+  "tr": "silfa",
+  "en": "small loan; advance (on salary)",
+  "msa": "سلفة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "طلبت سلفة من الشركة",
+  "ex_tr": "Tlabt silfa min ish-sharika",
+  "ex_en": "I asked the company for an advance",
+  "note": "pl. سلف silaf; homograph of سلفة \"sister-in-law\"",
+  "phrases": [
+   {
+    "ar": "سلّفني ميتين لآخر الشهر",
+    "tr": "sallifni mītēn l-ākhir ish-shahr",
+    "en": "Lend me two hundred till the end of the month"
+   },
+   {
+    "ar": "سلفة على المرتب",
+    "tr": "silfa 3al-murattab",
+    "en": "an advance on the salary"
+   }
+  ]
+ },
+ {
+  "ar": "ربح",
+  "tr": "rib7",
+  "en": "profit; gain",
+  "msa": "ربح",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 54,
+  "ex_ar": "الربح في الحانوت قليل",
+  "ex_tr": "ir-rib7 fil-7ānūt glīl",
+  "ex_en": "The profit in the shop is small",
+  "note": "pl. أرباح arbā7",
+  "phrases": [
+   {
+    "ar": "ربح صافي",
+    "tr": "rib7 Sāfi",
+    "en": "net profit"
+   },
+   {
+    "ar": "نقسموا الأرباح بالنص",
+    "tr": "ngasmu l-arbā7 bin-nuSS",
+    "en": "We split the profits half and half"
+   }
+  ]
+ },
+ {
+  "ar": "مكسب",
+  "tr": "maksab",
+  "en": "gain; profit; earnings",
+  "msa": "مكسب",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "المكسب في التجارة ما هوش مضمون",
+  "ex_tr": "il-maksab fit-tijāra ma hūsh maDmūn",
+  "ex_en": "Profit in trade isn't guaranteed",
+  "note": "pl. مكاسب makāsib",
+  "phrases": [
+   {
+    "ar": "مكسب حلال",
+    "tr": "maksab 7alāl",
+    "en": "honest earnings"
+   },
+   {
+    "ar": "كل يوم ومكسبه",
+    "tr": "kull yōm w maksaba",
+    "en": "each day with its own earnings"
+   }
+  ]
+ },
+ {
+  "ar": "توفير",
+  "tr": "tawfīr",
+  "en": "saving; savings",
+  "msa": "توفير",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "نحطوا شوية للتوفير كل شهر",
+  "ex_tr": "n7oTTu shwayya lit-tawfīr kull shahr",
+  "ex_en": "We put a little aside each month",
+  "note": "Also حويشة 7wēsha (savings, nest egg)",
+  "phrases": [
+   {
+    "ar": "حساب توفير",
+    "tr": "7sāb tawfīr",
+    "en": "a savings account"
+   },
+   {
+    "ar": "توفير الضي",
+    "tr": "tawfīr iD-Dayy",
+    "en": "saving electricity"
+   }
+  ]
+ },
+ {
+  "ar": "تجارة",
+  "tr": "tijāra",
+  "en": "trade; commerce; business",
+  "msa": "تجارة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "خدم في التجارة بعد ما تخرج",
+  "ex_tr": "khdim fit-tijāra ba3d ma tkharraj",
+  "ex_en": "He went into trade after graduating",
+  "phrases": [
+   {
+    "ar": "تجارة حوايج",
+    "tr": "tijārat 7wāyij",
+    "en": "clothing trade"
+   },
+   {
+    "ar": "كلية التجارة",
+    "tr": "kulliyyat it-tijāra",
+    "en": "the Faculty of Commerce"
+   }
+  ]
+ },
+ {
+  "ar": "شراكة",
+  "tr": "sharāka",
+  "en": "partnership",
+  "msa": "شراكة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "فتحوا الحانوت بالشراكة",
+  "ex_tr": "fat7u l-7ānūt bish-sharāka",
+  "ex_en": "They opened the shop in partnership",
+  "phrases": [
+   {
+    "ar": "شراكة بين خوت",
+    "tr": "sharāka bēn khūt",
+    "en": "a partnership between brothers"
+   },
+   {
+    "ar": "فكّوا الشراكة",
+    "tr": "fakku sh-sharāka",
+    "en": "They dissolved the partnership"
+   }
+  ]
+ },
+ {
+  "ar": "راس مال",
+  "tr": "rās māl",
+  "en": "capital (money)",
+  "msa": "رأس مال",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "ما عنديش راس مال نبدا بيه",
+  "ex_tr": "ma 3andīsh rās māl nibda bīh",
+  "ex_en": "I don't have capital to start with",
+  "note": "MSA رأس المال",
+  "phrases": [
+   {
+    "ar": "راس مال صغير",
+    "tr": "rās māl Sghīr",
+    "en": "small capital"
+   },
+   {
+    "ar": "رجّع راس ماله",
+    "tr": "rajja3 rās māla",
+    "en": "He got his capital back"
+   }
+  ]
+ },
+ {
+  "ar": "قسط",
+  "tr": "gisT",
+  "en": "instalment",
+  "msa": "قسط",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "باقي عليا تلاتة أقساط",
+  "ex_tr": "bāgi 3layya tlāta agsāT",
+  "ex_en": "I still have three instalments left",
+  "note": "pl. أقساط agsāT",
+  "phrases": [
+   {
+    "ar": "القسط الشهري",
+    "tr": "il-gisT ish-shahri",
+    "en": "the monthly instalment"
+   },
+   {
+    "ar": "دفعت القسط الأول",
+    "tr": "dfa3t il-gisT il-awwal",
+    "en": "I paid the first instalment"
+   }
+  ]
+ },
+ {
+  "ar": "تقسيط",
+  "tr": "tagsīT",
+  "en": "paying in instalments; hire purchase",
+  "msa": "تقسيط",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "شرى المكينة بالتقسيط",
+  "ex_tr": "shra l-makīna bit-tagsīT",
+  "ex_en": "He bought the car in instalments",
+  "phrases": [
+   {
+    "ar": "بالتقسيط ولا كاش؟",
+    "tr": "bit-tagsīT walla kāsh?",
+    "en": "In instalments or cash?"
+   },
+   {
+    "ar": "تقسيط مريح",
+    "tr": "tagsīT mrī7",
+    "en": "easy instalments"
+   }
+  ]
+ },
+ {
+  "ar": "عربون",
+  "tr": "3arbūn",
+  "en": "deposit; down payment",
+  "msa": "عربون",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "خلّيتله عربون على الشقة",
+  "ex_tr": "khallētla 3arbūn 3ash-shigga",
+  "ex_en": "I left him a deposit on the flat",
+  "note": "pl. عرابين 3arābīn",
+  "phrases": [
+   {
+    "ar": "ادفع عربون ونحجزهالك",
+    "tr": "idfa3 3arbūn w n7ijzhālik",
+    "en": "Pay a deposit and I'll hold it for you"
+   },
+   {
+    "ar": "العربون ما يترجعش",
+    "tr": "il-3arbūn ma yitrajja3sh",
+    "en": "The deposit is non-refundable"
+   }
+  ]
+ },
+ {
+  "ar": "خصم",
+  "tr": "khaSm",
+  "en": "discount; deduction",
+  "msa": "خصم",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "فيه خصم عشرين في المية",
+  "ex_tr": "fīh khaSm 3ishrīn fil-miyya",
+  "ex_en": "There's a twenty percent discount",
+  "note": "Homograph of خصم \"opponent\"",
+  "phrases": [
+   {
+    "ar": "خصم من المرتب",
+    "tr": "khaSm min il-murattab",
+    "en": "a deduction from the salary"
+   },
+   {
+    "ar": "ما فيش خصم؟",
+    "tr": "ma fīsh khaSm?",
+    "en": "Isn't there any discount?"
+   }
+  ]
+ },
+ {
+  "ar": "مكافأة",
+  "tr": "mukāf'a",
+  "en": "bonus; reward",
+  "msa": "مكافأة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "الشركة عطتنا مكافأة آخر السنة",
+  "ex_tr": "ish-sharika 3aTatna mukāf'a ākhir is-sana",
+  "ex_en": "The company gave us an end-of-year bonus",
+  "note": "pl. مكافآت mukāf'āt",
+  "phrases": [
+   {
+    "ar": "مكافأة مالية",
+    "tr": "mukāf'a māliyya",
+    "en": "a cash bonus"
+   },
+   {
+    "ar": "مكافأة للي يلقاها",
+    "tr": "mukāf'a lilli yilgāha",
+    "en": "a reward for whoever finds it"
+   }
+  ]
+ },
+ {
+  "ar": "عمولة",
+  "tr": "3umūla",
+  "en": "commission; fee",
+  "msa": "عمولة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "السمسار ياخد عمولة",
+  "ex_tr": "is-simsār yākhid 3umūla",
+  "ex_en": "The broker takes a commission",
+  "note": "pl. عمولات 3umūlāt",
+  "phrases": [
+   {
+    "ar": "عمولة التحويل",
+    "tr": "3umūlat it-ta7wīl",
+    "en": "the transfer fee"
+   },
+   {
+    "ar": "يخدم بالعمولة",
+    "tr": "yikhdim bil-3umūla",
+    "en": "He works on commission"
+   }
+  ]
+ },
+ {
+  "ar": "بضاعة",
+  "tr": "bDā3a",
+  "en": "goods; merchandise; stock",
+  "msa": "بضاعة",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "البضاعة الجديدة وصلت",
+  "ex_tr": "il-bDā3a j-jdīda wiSlat",
+  "ex_en": "The new stock has arrived",
+  "note": "pl. بضايع bDāyi3",
+  "phrases": [
+   {
+    "ar": "بضاعة تركي",
+    "tr": "bDā3a turki",
+    "en": "Turkish goods"
+   },
+   {
+    "ar": "البضاعة كملت",
+    "tr": "il-bDā3a kammlat",
+    "en": "The goods have sold out"
+   }
+  ]
+ },
+ {
+  "ar": "سلعة",
+  "tr": "sil3a",
+  "en": "commodity; product",
+  "msa": "سلعة",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "السلع غليت في السوق",
+  "ex_tr": "is-sila3 ghlat fis-sūg",
+  "ex_en": "Goods have got more expensive in the market",
+  "note": "pl. سلع sila3",
+  "phrases": [
+   {
+    "ar": "سلع أساسية",
+    "tr": "sila3 asāsiyya",
+    "en": "basic commodities"
+   },
+   {
+    "ar": "سلعة نادرة",
+    "tr": "sil3a nādra",
+    "en": "a scarce product"
+   }
+  ]
+ },
+ {
+  "ar": "استيراد",
+  "tr": "istīrād",
+  "en": "import; importing",
+  "msa": "استيراد",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "يخدم في الاستيراد من تركيا",
+  "ex_tr": "yikhdim fil-istīrād min turkya",
+  "ex_en": "He works in importing from Turkey",
+  "phrases": [
+   {
+    "ar": "استيراد وتصدير",
+    "tr": "istīrād w taSdīr",
+    "en": "import and export"
+   },
+   {
+    "ar": "اعتماد استيراد",
+    "tr": "i3timād istīrād",
+    "en": "an import letter of credit"
+   }
+  ]
+ },
+ {
+  "ar": "تصدير",
+  "tr": "taSdīr",
+  "en": "export; exporting",
+  "msa": "تصدير",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "ليبيا تعيش على تصدير النفط",
+  "ex_tr": "lībya t3īsh 3ala taSdīr in-nafT",
+  "ex_en": "Libya lives on oil exports",
+  "phrases": [
+   {
+    "ar": "شركة تصدير",
+    "tr": "sharikat taSdīr",
+    "en": "an export company"
+   },
+   {
+    "ar": "تصدير الحوت",
+    "tr": "taSdīr il-7ūt",
+    "en": "fish exports"
+   }
+  ]
+ },
+ {
+  "ar": "شحنة",
+  "tr": "sha7na",
+  "en": "shipment; consignment; load",
+  "msa": "شحنة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الشحنة واقفة في المينا",
+  "ex_tr": "ish-sha7na wāgfa fil-mīna",
+  "ex_en": "The shipment is held at the port",
+  "note": "pl. شحنات sha7nāt",
+  "phrases": [
+   {
+    "ar": "شحنة جديدة",
+    "tr": "sha7na jdīda",
+    "en": "a new shipment"
+   },
+   {
+    "ar": "شحنة من الصين",
+    "tr": "sha7na min iS-Sīn",
+    "en": "a shipment from China"
+   }
+  ]
+ },
+ {
+  "ar": "مصاريف",
+  "tr": "maSārīf",
+  "en": "expenses; spending money",
+  "msa": "مصاريف",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "المصاريف هالشهر كترت",
+  "ex_tr": "il-maSārīf hash-shahr kthrat",
+  "ex_en": "Expenses have gone up this month",
+  "note": "sing. مصروف maSrūf (pocket money)",
+  "phrases": [
+   {
+    "ar": "مصاريف الحوش",
+    "tr": "maSārīf il-7ōsh",
+    "en": "household expenses"
+   },
+   {
+    "ar": "مصاريف العرس",
+    "tr": "maSārīf il-3urs",
+    "en": "wedding expenses"
+   }
+  ]
+ },
+ {
+  "ar": "مصروف",
+  "tr": "maSrūf",
+  "en": "pocket money; allowance",
+  "msa": "مصروف",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "بوي يعطيني مصروف كل يوم",
+  "ex_tr": "būy y3aTīni maSrūf kull yōm",
+  "ex_en": "My dad gives me pocket money every day",
+  "note": "pl. مصاريف maSārīf",
+  "phrases": [
+   {
+    "ar": "مصروف المدرسة",
+    "tr": "maSrūf il-madrasa",
+    "en": "school pocket money"
+   },
+   {
+    "ar": "كمّلت مصروفي",
+    "tr": "kammalt maSrūfi",
+    "en": "I've spent my allowance"
+   }
+  ]
+ },
+ {
+  "ar": "دخل",
+  "tr": "dakhl",
+  "en": "income",
+  "msa": "دخل",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "دخله ما يكفيش العيلة",
+  "ex_tr": "dakhla ma ykaffīsh il-3ēla",
+  "ex_en": "His income isn't enough for the family",
+  "note": "Homograph of دخل dkhal \"to enter\"",
+  "phrases": [
+   {
+    "ar": "دخل شهري",
+    "tr": "dakhl shahri",
+    "en": "monthly income"
+   },
+   {
+    "ar": "دخل محدود",
+    "tr": "dakhl ma7dūd",
+    "en": "limited income"
+   }
+  ]
+ },
+ {
+  "ar": "تكلفة",
+  "tr": "taklfa",
+  "en": "cost",
+  "msa": "تكلفة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "تكلفة البني غالية",
+  "ex_tr": "taklfat il-bani ghālya",
+  "ex_en": "The cost of building is high",
+  "note": "pl. تكاليف takālīf",
+  "phrases": [
+   {
+    "ar": "التكلفة الكاملة",
+    "tr": "it-taklfa l-kāmla",
+    "en": "the total cost"
+   },
+   {
+    "ar": "قداش التكلفة؟",
+    "tr": "gaddāsh it-taklfa?",
+    "en": "How much is the cost?"
+   }
+  ]
+ },
+ {
+  "ar": "مبلغ",
+  "tr": "mablagh",
+  "en": "amount (of money); sum",
+  "msa": "مبلغ",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "المبلغ هادا كبير",
+  "ex_tr": "il-mablagh hāda kbīr",
+  "ex_en": "This sum is large",
+  "note": "pl. مبالغ mabāligh",
+  "phrases": [
+   {
+    "ar": "مبلغ بسيط",
+    "tr": "mablagh basīT",
+    "en": "a small amount"
+   },
+   {
+    "ar": "حوّلتله المبلغ",
+    "tr": "7awwaltla l-mablagh",
+    "en": "I transferred him the amount"
+   }
+  ]
+ },
+ {
+  "ar": "ثمن",
+  "tr": "thaman",
+  "en": "price; cost; value",
+  "msa": "ثمن",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "دفعت ثمنها غالي",
+  "ex_tr": "dfa3t thamanha ghāli",
+  "ex_en": "I paid a high price for it",
+  "note": "Everyday سوم sōm or سعر si3r",
+  "phrases": [
+   {
+    "ar": "بنص الثمن",
+    "tr": "b-nuSS ith-thaman",
+    "en": "at half price"
+   },
+   {
+    "ar": "ثمن التذكرة",
+    "tr": "thaman it-tadhkara",
+    "en": "the ticket price"
+   }
+  ]
+ },
+ {
+  "ar": "صفقة",
+  "tr": "Safga",
+  "en": "deal; bargain; transaction",
+  "msa": "صفقة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "عمل صفقة باهية",
+  "ex_tr": "3mal Safga bāhya",
+  "ex_en": "He made a good deal",
+  "note": "pl. صفقات Safgāt",
+  "phrases": [
+   {
+    "ar": "صفقة رابحة",
+    "tr": "Safga rāb7a",
+    "en": "a profitable deal"
+   },
+   {
+    "ar": "صفقة كبيرة",
+    "tr": "Safga kbīra",
+    "en": "a big deal"
+   }
+  ]
+ },
+ {
+  "ar": "مزاد",
+  "tr": "mazād",
+  "en": "auction",
+  "msa": "مزاد",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "شرى المكينة من المزاد",
+  "ex_tr": "shra l-makīna min il-mazād",
+  "ex_en": "He bought the car at auction",
+  "note": "pl. مزادات mazādāt",
+  "phrases": [
+   {
+    "ar": "مزاد علني",
+    "tr": "mazād 3alani",
+    "en": "a public auction"
+   },
+   {
+    "ar": "سوق المزاد",
+    "tr": "sūg il-mazād",
+    "en": "the auction market"
+   }
+  ]
+ },
+ {
+  "ar": "منافسة",
+  "tr": "munāfsa",
+  "en": "competition (business, sport)",
+  "msa": "منافسة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "المنافسة في السوق قوية",
+  "ex_tr": "il-munāfsa fis-sūg gawiyya",
+  "ex_en": "Competition in the market is strong",
+  "phrases": [
+   {
+    "ar": "ما فيش منافسة",
+    "tr": "ma fīsh munāfsa",
+    "en": "There's no competition"
+   },
+   {
+    "ar": "منافسة على اللقب",
+    "tr": "munāfsa 3al-lagab",
+    "en": "competition for the title"
+   }
+  ]
+ },
+ {
+  "ar": "بزنس",
+  "tr": "biznis",
+  "en": "business",
+  "msa": "أعمال",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "داير بزنس صغير في الحوش",
+  "ex_tr": "dāyir biznis Sghīr fil-7ōsh",
+  "ex_en": "He runs a small business from home",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "راجل بزنس",
+    "tr": "rājil biznis",
+    "en": "a businessman"
+   },
+   {
+    "ar": "البزنس ماشي؟",
+    "tr": "il-biznis māshi?",
+    "en": "Is business going well?"
+   }
+  ]
+ },
+ {
+  "ar": "إفلاس",
+  "tr": "iflās",
+  "en": "bankruptcy; going broke",
+  "msa": "إفلاس",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "الشركة على حافة الإفلاس",
+  "ex_tr": "ish-sharika 3ala 7āfat il-iflās",
+  "ex_en": "The company is on the verge of bankruptcy",
+  "note": "Adj. مفلّس mfallis (broke)",
+  "phrases": [
+   {
+    "ar": "أعلن إفلاسه",
+    "tr": "a3lan iflāsa",
+    "en": "He declared bankruptcy"
+   },
+   {
+    "ar": "أني مفلّس آخر الشهر",
+    "tr": "āna mfallis ākhir ish-shahr",
+    "en": "I'm broke at the end of the month"
+   }
+  ]
+ },
+ {
+  "ar": "مول الحانوت",
+  "tr": "mūl il-7ānūt",
+  "en": "shopkeeper; shop owner",
+  "msa": "صاحب المحل",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "مول الحانوت يعرفني",
+  "ex_tr": "mūl il-7ānūt ya3rafni",
+  "ex_en": "The shopkeeper knows me",
+  "note": "مول = owner of (Maghrebi); also صاحب الحانوت",
+  "phrases": [
+   {
+    "ar": "اسأل مول الحانوت",
+    "tr": "is'al mūl il-7ānūt",
+    "en": "Ask the shopkeeper"
+   },
+   {
+    "ar": "مول الحانوت سكّر بكري",
+    "tr": "mūl il-7ānūt sakkar bakri",
+    "en": "The shop owner closed early"
+   }
+  ]
+ },
+ {
+  "ar": "حانوتي",
+  "tr": "7ānūti",
+  "en": "shopkeeper (corner shop)",
+  "msa": "بقال",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "الحانوتي خلّالي الباقي",
+  "ex_tr": "il-7ānūti khallāli l-bāgi",
+  "ex_en": "The shopkeeper kept my change for me",
+  "note": "pl. حوانتية 7wāntiyya",
+  "phrases": [
+   {
+    "ar": "الحانوتي يبيع بالدين",
+    "tr": "il-7ānūti ybī3 bid-dēn",
+    "en": "The shopkeeper sells on credit"
+   },
+   {
+    "ar": "نادي الحانوتي",
+    "tr": "nādi l-7ānūti",
+    "en": "Call the shopkeeper"
+   }
+  ]
+ },
+ {
+  "ar": "دفعة",
+  "tr": "daf3a",
+  "en": "payment; instalment; batch; class (year group)",
+  "msa": "دفعة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "الدفعة الأولى وصلت",
+  "ex_tr": "id-daf3a l-ūla wiSlat",
+  "ex_en": "The first payment has arrived",
+  "note": "pl. دفعات daf3āt; also a graduation year group",
+  "phrases": [
+   {
+    "ar": "دفعة 2020",
+    "tr": "daf3at alfēn w 3ishrīn",
+    "en": "the class of 2020"
+   },
+   {
+    "ar": "دفعة من المرتبات",
+    "tr": "daf3a min il-murattabāt",
+    "en": "a batch of salaries"
+   }
+  ]
+ },
+ {
+  "ar": "وكالة",
+  "tr": "wakāla",
+  "en": "agency; dealership; power of attorney",
+  "msa": "وكالة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "شريت المكينة من الوكالة",
+  "ex_tr": "shrēt il-makīna min il-wakāla",
+  "ex_en": "I bought the car from the dealership",
+  "note": "pl. وكالات wakālāt",
+  "phrases": [
+   {
+    "ar": "وكالة سفر",
+    "tr": "wakālat safar",
+    "en": "a travel agency"
+   },
+   {
+    "ar": "عطيته وكالة",
+    "tr": "3aTētah wakāla",
+    "en": "I gave him power of attorney"
+   }
+  ]
+ },
+ {
+  "ar": "فايض",
+  "tr": "fāyiD",
+  "en": "surplus; extra",
+  "msa": "فائض",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "فيه فايض في البضاعة",
+  "ex_tr": "fīh fāyiD fil-bDā3a",
+  "ex_en": "There's surplus stock",
+  "note": "Also \"flood, overflow\"",
+  "phrases": [
+   {
+    "ar": "فايض في الميزانية",
+    "tr": "fāyiD fil-mīzāniyya",
+    "en": "a budget surplus"
+   },
+   {
+    "ar": "فلوس فايضة",
+    "tr": "flūs fāyDa",
+    "en": "spare money"
+   }
+  ]
+ },
+ {
+  "ar": "عجز",
+  "tr": "3ajz",
+  "en": "deficit; shortfall",
+  "msa": "عجز",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "عجز في الميزانية",
+  "ex_tr": "3ajz fil-mīzāniyya",
+  "ex_en": "a budget deficit",
+  "note": "Also \"disability, inability\"",
+  "phrases": [
+   {
+    "ar": "عجز في السيولة",
+    "tr": "3ajz fis-siyūla",
+    "en": "a cash shortage"
+   },
+   {
+    "ar": "عجز في الصندوق",
+    "tr": "3ajz fiS-Sandūg",
+    "en": "a shortfall in the till"
+   }
+  ]
+ },
+ {
+  "ar": "محاسبة",
+  "tr": "mu7āsba",
+  "en": "accounting; accountancy",
+  "msa": "محاسبة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "يقرا محاسبة في كلية الاقتصاد",
+  "ex_tr": "yagra mu7āsba fi kulliyyat il-igtiSād",
+  "ex_en": "He studies accounting at the economics faculty",
+  "phrases": [
+   {
+    "ar": "قسم المحاسبة",
+    "tr": "gism il-mu7āsba",
+    "en": "the accounts department"
+   },
+   {
+    "ar": "برنامج محاسبة",
+    "tr": "barnāmij mu7āsba",
+    "en": "accounting software"
+   }
+  ]
+ },
+ {
+  "ar": "استثمار",
+  "tr": "istithmār",
+  "en": "investment",
+  "msa": "استثمار",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "نبي ندير استثمار في العقارات",
+  "ex_tr": "nibbi ndīr istithmār fil-3agārāt",
+  "ex_en": "I want to invest in property",
+  "note": "pl. استثمارات",
+  "phrases": [
+   {
+    "ar": "استثمار ناجح",
+    "tr": "istithmār nāji7",
+    "en": "a successful investment"
+   },
+   {
+    "ar": "شركة استثمار",
+    "tr": "sharikat istithmār",
+    "en": "an investment company"
+   }
+  ]
+ },
+ {
+  "ar": "أسهم",
+  "tr": "ashum",
+  "en": "shares; stocks",
+  "msa": "أسهم",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "شرى أسهم في المصرف",
+  "ex_tr": "shra ashum fil-maSrif",
+  "ex_en": "He bought shares in the bank",
+  "note": "sing. سهم sahm",
+  "phrases": [
+   {
+    "ar": "سوق الأسهم",
+    "tr": "sūg il-ashum",
+    "en": "the stock market"
+   },
+   {
+    "ar": "أسهم الشركة",
+    "tr": "ashum ish-sharika",
+    "en": "the company's shares"
+   }
+  ]
+ },
+ {
+  "ar": "دفتر حسابات",
+  "tr": "daftar 7isābāt",
+  "en": "account book; ledger",
+  "msa": "دفتر حسابات",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "الحانوتي يكتب الدين في دفتر",
+  "ex_tr": "il-7ānūti yikteb id-dēn fi daftar",
+  "ex_en": "The shopkeeper writes debts in a notebook",
+  "note": "pl. دفاتر dafātir",
+  "phrases": [
+   {
+    "ar": "دفتر الدين",
+    "tr": "daftar id-dēn",
+    "en": "the credit ledger (at the corner shop)"
+   },
+   {
+    "ar": "راجع دفتر الحسابات",
+    "tr": "rāji3 daftar il-7isābāt",
+    "en": "Check the account book"
+   }
+  ]
+ },
+ {
+  "ar": "فلوس كاش",
+  "tr": "flūs kāsh",
+  "en": "cash money; ready money",
+  "msa": "نقد",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "ما عنديش فلوس كاش، نخلّص بالبطاقة",
+  "ex_tr": "ma 3andīsh flūs kāsh, nkhalliS bil-biTāga",
+  "ex_en": "I don't have cash, I'll pay by card",
+  "note": "Cash shortages made this a hot topic in Libya",
+  "phrases": [
+   {
+    "ar": "نبي فلوس كاش من المصرف",
+    "tr": "nibbi flūs kāsh min il-maSrif",
+    "en": "I need cash from the bank"
+   },
+   {
+    "ar": "خلّص كاش",
+    "tr": "khalliS kāsh",
+    "en": "Pay cash"
+   }
+  ]
+ },
+ {
+  "ar": "سعر الدولار",
+  "tr": "si3r id-dōlār",
+  "en": "dollar rate (parallel exchange rate)",
+  "msa": "سعر الدولار",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "سعر الدولار طلع اليوم",
+  "ex_tr": "si3r id-dōlār Tla3 ilyōm",
+  "ex_en": "The dollar rate went up today",
+  "note": "Libyans follow the black-market rate closely",
+  "phrases": [
+   {
+    "ar": "قداش سعر الدولار في السوق؟",
+    "tr": "gaddāsh si3r id-dōlār fis-sūg?",
+    "en": "What's the dollar rate on the market?"
+   },
+   {
+    "ar": "سعر الدولار في المصرف",
+    "tr": "si3r id-dōlār fil-maSrif",
+    "en": "the official bank dollar rate"
+   }
+  ]
+ },
+ {
+  "ar": "يورو",
+  "tr": "yūro",
+  "en": "euro",
+  "msa": "يورو",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "السوم بالدينار ولا باليورو؟",
+  "ex_tr": "is-sōm bid-dīnār walla bil-yūro?",
+  "ex_en": "Is the price in dinars or euros?",
+  "phrases": [
+   {
+    "ar": "عشرة يورو",
+    "tr": "3ashra yūro",
+    "en": "ten euros"
+   },
+   {
+    "ar": "بدّل اليورو بدينار",
+    "tr": "baddil il-yūro b-dīnār",
+    "en": "Change the euros into dinars"
+   }
+  ]
+ },
+ {
+  "ar": "يومية",
+  "tr": "yōmiyya",
+  "en": "day's wage; daily pay",
+  "msa": "يومية",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "يخدم باليومية",
+  "ex_tr": "yikhdim bil-yōmiyya",
+  "ex_en": "He works for a daily wage",
+  "note": "pl. يوميات yōmiyyāt; also \"diary\"",
+  "phrases": [
+   {
+    "ar": "يومية الخدام",
+    "tr": "yōmiyyat il-khaddām",
+    "en": "the labourer's daily pay"
+   },
+   {
+    "ar": "اليومية بقداش؟",
+    "tr": "il-yōmiyya b-gaddāsh?",
+    "en": "How much is the day rate?"
+   }
+  ]
+ },
+ {
+  "ar": "زيادة",
+  "tr": "zyāda",
+  "en": "raise; increase; extra",
+  "msa": "زيادة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "نبي زيادة في المرتب",
+  "ex_tr": "nibbi zyāda fil-murattab",
+  "ex_en": "I want a pay rise",
+  "note": "Also \"too much\": زيادة عن اللزوم",
+  "phrases": [
+   {
+    "ar": "زيادة الأسعار",
+    "tr": "zyādat il-as3ār",
+    "en": "price increase"
+   },
+   {
+    "ar": "زيادة عن اللزوم",
+    "tr": "zyāda 3an il-luzūm",
+    "en": "more than necessary"
+   }
+  ]
+ },
+ {
+  "ar": "أسعار",
+  "tr": "as3ār",
+  "en": "prices",
+  "msa": "أسعار",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 3,
+  "usage": 62,
+  "ex_ar": "الأسعار نار!",
+  "ex_tr": "il-as3ār nār!",
+  "ex_en": "Prices are sky-high!",
+  "note": "sing. سعر si3r",
+  "phrases": [
+   {
+    "ar": "الأسعار نزلت شوية",
+    "tr": "il-as3ār nizlat shwayya",
+    "en": "Prices have dropped a bit"
+   },
+   {
+    "ar": "قايمة الأسعار",
+    "tr": "gāymat il-as3ār",
+    "en": "the price list"
+   }
+  ]
+ },
+ {
+  "ar": "سوق الدهب",
+  "tr": "sūg id-dhab",
+  "en": "gold market",
+  "msa": "سوق الذهب",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "مشينا لسوق الدهب في المدينة القديمة",
+  "ex_tr": "mshēna l-sūg id-dhab fil-madīna l-gdīma",
+  "ex_en": "We went to the gold souq in the old city",
+  "note": "Tripoli's gold souq is in the Old City (المدينة القديمة)",
+  "phrases": [
+   {
+    "ar": "شبكة من سوق الدهب",
+    "tr": "shabka min sūg id-dhab",
+    "en": "bridal jewellery from the gold souq"
+   },
+   {
+    "ar": "سوم الدهب في السوق",
+    "tr": "sōm id-dhab fis-sūg",
+    "en": "the gold price in the market"
+   }
+  ]
+ },
+ {
+  "ar": "عيار",
+  "tr": "3iyār",
+  "en": "carat (gold purity)",
+  "msa": "عيار",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "الدهب هادا عيار واحد وعشرين",
+  "ex_tr": "id-dhab hāda 3iyār wā7id w 3ishrīn",
+  "ex_en": "This gold is 21-carat",
+  "note": "Common: عيار 18 و21 و24",
+  "phrases": [
+   {
+    "ar": "عيار تمنطاش",
+    "tr": "3iyār tmanTāsh",
+    "en": "18 carat"
+   },
+   {
+    "ar": "دهب عيار كم؟",
+    "tr": "dhab 3iyār kam?",
+    "en": "What carat is the gold?"
+   }
+  ]
+ },
+ {
+  "ar": "شبكة",
+  "tr": "shabka",
+  "en": "bridal jewellery set (gift from groom)",
+  "msa": "شبكة",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "العريس جاب الشبكة",
+  "ex_tr": "il-3arīs jāb ish-shabka",
+  "ex_en": "The groom brought the bridal jewellery",
+  "note": "Homograph of شبكة \"network\"",
+  "phrases": [
+   {
+    "ar": "شبكة دهب",
+    "tr": "shabkat dhab",
+    "en": "a gold bridal set"
+   },
+   {
+    "ar": "الشبكة غالية هالأيام",
+    "tr": "ish-shabka ghālya hal-ayyām",
+    "en": "Bridal jewellery is expensive these days"
+   }
+  ]
+ },
+ {
+  "ar": "طقم",
+  "tr": "Tagm",
+  "en": "set; outfit; suit",
+  "msa": "طقم",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "شريت طقم جديد للعيد",
+  "ex_tr": "shrēt Tagm jdīd lil-3īd",
+  "ex_en": "I bought a new outfit for Eid",
+  "note": "pl. أطقم aTgum / طقوم Tgūm",
+  "phrases": [
+   {
+    "ar": "طقم دهب",
+    "tr": "Tagm dhab",
+    "en": "a gold jewellery set"
+   },
+   {
+    "ar": "طقم صحون",
+    "tr": "Tagm S7ūn",
+    "en": "a set of plates"
+   }
+  ]
+ },
+ {
+  "ar": "إسورة",
+  "tr": "iswāra",
+  "en": "bracelet; bangle",
+  "msa": "سوار",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "لابسة إسورة دهب",
+  "ex_tr": "lābsa iswāra dhab",
+  "ex_en": "She's wearing a gold bracelet",
+  "note": "pl. أساور asāwir",
+  "phrases": [
+   {
+    "ar": "إسورة فضة",
+    "tr": "iswārat fiDDa",
+    "en": "a silver bracelet"
+   },
+   {
+    "ar": "إسورة رقيقة",
+    "tr": "iswāra rgīga",
+    "en": "a delicate bracelet"
+   }
+  ]
+ },
+ {
+  "ar": "دبلة",
+  "tr": "dibla",
+  "en": "wedding ring; wedding band",
+  "msa": "دبلة",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "لبسها الدبلة في الخطوبة",
+  "ex_tr": "labbasha d-dibla fil-khuTūba",
+  "ex_en": "He put the ring on her at the engagement",
+  "note": "pl. دبل dibal",
+  "phrases": [
+   {
+    "ar": "دبلة فضة للراجل",
+    "tr": "diblat fiDDa lir-rājil",
+    "en": "a silver band for the man"
+   },
+   {
+    "ar": "ضيّعت الدبلة",
+    "tr": "Dayya3t id-dibla",
+    "en": "I lost my wedding ring"
+   }
+  ]
+ },
+ {
+  "ar": "خلخال",
+  "tr": "khulkhāl",
+  "en": "anklet",
+  "msa": "خلخال",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "الخلخال من الدهب التقليدي",
+  "ex_tr": "il-khulkhāl min id-dhab it-taglīdi",
+  "ex_en": "Anklets are traditional gold jewellery",
+  "note": "pl. خلاخل khlākhil",
+  "phrases": [
+   {
+    "ar": "خلخال فضة",
+    "tr": "khulkhāl fiDDa",
+    "en": "a silver anklet"
+   },
+   {
+    "ar": "صوت الخلخال",
+    "tr": "Sōt il-khulkhāl",
+    "en": "the jingle of the anklet"
+   }
+  ]
+ },
+ {
+  "ar": "ساعة يد",
+  "tr": "sā3at yidd",
+  "en": "wristwatch",
+  "msa": "ساعة يد",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "هديته ساعة يد",
+  "ex_tr": "hdētah sā3at yidd",
+  "ex_en": "I gave him a wristwatch",
+  "note": "ساعة alone also means watch",
+  "phrases": [
+   {
+    "ar": "ساعة يد أصلية",
+    "tr": "sā3at yidd aSliyya",
+    "en": "a genuine wristwatch"
+   },
+   {
+    "ar": "حزام الساعة",
+    "tr": "7zām is-sā3a",
+    "en": "the watch strap"
+   }
+  ]
+ },
+ {
+  "ar": "بروش",
+  "tr": "brōsh",
+  "en": "brooch; pin",
+  "msa": "بروش",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "حطت بروش على الحجاب",
+  "ex_tr": "7aTTat brōsh 3al-7ijāb",
+  "ex_en": "She put a brooch on her headscarf",
+  "note": "French broche",
+  "phrases": [
+   {
+    "ar": "بروش دهب",
+    "tr": "brōsh dhab",
+    "en": "a gold brooch"
+   },
+   {
+    "ar": "بروش للفراشية",
+    "tr": "brōsh lil-farrāshiyya",
+    "en": "a pin for the farrashiya"
    }
   ]
  }
