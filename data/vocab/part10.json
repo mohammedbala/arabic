@@ -7623,31 +7623,6 @@
   ]
  },
  {
-  "ar": "لحظة",
-  "tr": "la7Dha",
-  "en": "one moment; just a second",
-  "msa": "لحظة",
-  "pos": "noun",
-  "cat": "time",
-  "freq": 3,
-  "usage": 62,
-  "ex_ar": "لحظة، نجيب القلم.",
-  "ex_tr": "la7Dha, njīb ilgalam.",
-  "ex_en": "One moment, I'll get the pen.",
-  "phrases": [
-   {
-    "ar": "لحظة من فضلك",
-    "tr": "la7Dha min faDlik",
-    "en": "one moment, please"
-   },
-   {
-    "ar": "في لحظة",
-    "tr": "fi la7Dha",
-    "en": "in an instant"
-   }
-  ]
- },
- {
   "ar": "استنى شوية",
   "tr": "istanna shwayya",
   "en": "wait a bit; hold on",
@@ -7669,31 +7644,6 @@
     "ar": "استنوا شوية",
     "tr": "istannu shwayya",
     "en": "wait a bit (pl.)"
-   }
-  ]
- },
- {
-  "ar": "عاود",
-  "tr": "3āwid",
-  "en": "say it again; repeat; again",
-  "msa": "أعد",
-  "pos": "phrase",
-  "cat": "social",
-  "freq": 4,
-  "usage": 54,
-  "ex_ar": "ما سمعتش، عاود.",
-  "ex_tr": "ma sma3tsh, 3āwid.",
-  "ex_en": "I didn't hear, say it again.",
-  "phrases": [
-   {
-    "ar": "عاود من الأول",
-    "tr": "3āwid min il-awwil",
-    "en": "start again from the beginning"
-   },
-   {
-    "ar": "عاودها مرة ثانية",
-    "tr": "3āwidha marra thānya",
-    "en": "do it once more"
    }
   ]
  },
