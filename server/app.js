@@ -1,5 +1,6 @@
 import express from 'express';
 import cookieParser from 'cookie-parser';
+import compression from 'compression';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { SESSION_COOKIE, nodeCrypto } from './auth.js';
@@ -13,6 +14,7 @@ export function createApp({ db, vocab, secureCookies = false }) {
   const app = express();
   app.disable('x-powered-by');
   app.set('trust proxy', 'loopback');
+  app.use(compression());
   app.use(express.json({ limit: '64kb' }));
   app.use(cookieParser());
   app.use((req, res, next) => {

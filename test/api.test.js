@@ -29,17 +29,22 @@ function client() {
   };
 }
 
-test('deck has at least 1000 valid Libyan word cards', () => {
-  assert.ok(vocab.words.length >= 1000, `only ${vocab.words.length} words`);
+test('deck has the 5000+ most common Libyan words, each with phrases and a usage rank', () => {
+  assert.ok(vocab.words.length >= 5000, `only ${vocab.words.length} words`);
   const ids = new Set();
   for (const w of vocab.words) {
     assert.ok(!ids.has(w.id), `duplicate id ${w.id}`);
     ids.add(w.id);
     for (const k of ['ar', 'tr', 'en', 'msa', 'pos', 'cat', 'ex_ar', 'ex_en']) assert.ok(w[k], `word ${w.id} missing ${k}`);
-    assert.match(w.ar, /[؀-ۿ]/);
+    assert.match(w.ar, /[\u0600-\u06FF]/);
+    assert.ok(Number.isInteger(w.usage) && w.usage >= 1 && w.usage <= 100, `word ${w.id} usage`);
+    assert.ok(w.phrases.length >= 2, `word ${w.id} (${w.ar}) has ${w.phrases.length} phrases`);
+    for (const p of w.phrases) assert.ok(p.ar && p.en && /[\u0600-\u06FF]/.test(p.ar), `word ${w.id} phrase incomplete`);
   }
-  const ranks = vocab.words.map((w) => w.rank).sort((a, b) => a - b);
-  assert.deepEqual(ranks, ranks.map((_, i) => i + 1));
+  // rank 1..N, ordered by usage (most used first)
+  const byRank = vocab.byRank;
+  assert.deepEqual(byRank.map((w) => w.rank), byRank.map((_, i) => i + 1));
+  for (let i = 1; i < byRank.length; i++) assert.ok(byRank[i - 1].usage >= byRank[i].usage, `rank ${i + 1} out of usage order`);
 });
 
 test('signup, session, logout and login', async () => {

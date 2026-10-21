@@ -4,9 +4,10 @@ A full-stack app for learning **Libyan Arabic** (the default; Modern Standard Ar
 It has user accounts, a GitHub-style progress profile, and a study system built on memory research,
 aimed at conversational fluency in a few weeks.
 
-- **1,662 vocabulary cards** across 36 topics, each with Libyan Arabic script, transliteration,
-  English, the MSA equivalent, a Libyan example sentence, and notes (verb conjugations, plurals,
-  loanword origins).
+- **5,785 vocabulary cards**: the most common words of Libyan Arabic, **ranked by usage** (#1 = most
+  used). Each card has Libyan Arabic script, transliteration, English, the MSA equivalent, a usage
+  score, an example sentence plus **at least two more everyday phrases that use the word** (11,678
+  phrases in all), and notes (verb conjugations, plurals, loanword origins).
 - **A 6-week fluency path** (2 weeks to a year, set per user) with 17 grammar lessons, each ending in a retrieval quiz.
 - **Dubbi the bear 🐻**, a full-height mascot in a cream Libyan badla (gold-embroidered farmla vest, sirwal, sash and red shenna cap) who cheers you on in Libyan Arabic, comforts you after
   mistakes, celebrates streaks and achievements, shares memory tips, and dozes off if you leave
@@ -52,7 +53,7 @@ npm run build:pages && npm run serve:pages   # preview at http://localhost:4000/
 |---|---|
 | Spacing effect / forgetting curve | FSRS-4.5 stability/difficulty model (`server/srs.js`). Reviews are scheduled for a target retention (default 90%, adjustable). |
 | Testing effect (active recall) | Every card asks you to recall before revealing. You can type an answer, which is checked with fuzzy matching. New words get a multiple-choice check right after they are introduced. |
-| Frequency first (Zipf/Pareto) | Words are ranked by frequency tier. The plan aims to introduce the **1,000 most frequent words by your target date** (≈24/day over 6 weeks). The rest follow at 10/day. |
+| Frequency first (Zipf/Pareto) | Every word has a usage score (1–100, calibrated to rank bands: 95+ ≈ top 50 words, 65–74 ≈ top 1000, 25–34 ≈ top 5000) and the deck is ranked by it. The plan aims to introduce the **1,000 most used words by your target date** (≈24/day over 6 weeks); the rest follow at 15/day in rank order. |
 | Generation effect | Once a word graduates in recognition (Arabic → English), a production card (English → Arabic) unlocks for it. |
 | Interleaving | Topics are interleaved round-robin within each frequency tier (`scripts/build-vocab.js`). |
 | Dual coding & context | Audio (browser speech synthesis), transliteration, and an example sentence on every card. |
@@ -83,8 +84,9 @@ test/             node:test suites
 
 ### Editing the vocabulary
 
-Add or modify entries in `data/vocab/part*.json` following `data/vocab/SPEC.md`, then run
-`npm run build:vocab`. The build validates entries, removes duplicates, assigns ranks, and **keeps
+Add or modify entries in `data/vocab/part*.json` following `data/vocab/SPEC.md` (every entry needs
+`usage` and ≥2 `phrases`), check a file with `node scripts/check-part.js data/vocab/partN.json`, then
+run `npm run build:vocab`. The build validates entries, removes duplicates, assigns ranks, and **keeps
 word ids stable** so existing users' progress is preserved.
 
 > The vocabulary was written to the spec without a native-speaker review. Some entries are marked

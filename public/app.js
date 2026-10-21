@@ -1021,7 +1021,7 @@ route(/^\/words$/, async () => {
   };
   $app.innerHTML = `
     <div class="spread"><h1 style="margin:0">Word deck <span class="muted" style="font-weight:400">(${state.words.length})</span></h1></div>
-    <p class="muted">Every card in frequency order. Words are introduced from the top down; categories are interleaved.</p>
+    <p class="muted">Ranked by how often each word is used in everyday Libyan speech (#1 = most used). You learn them from the top down; each word comes with phrases that use it.</p>
     <div class="card"><div class="grid cols-3">
       <input type="search" id="q" placeholder="Search Arabic, transliteration or English…" aria-label="Search words">
       <select id="fc"><option value="">All categories</option>${state.categories.map((c) => `<option value="${esc(c)}">${esc(catLabel(c))} (${state.words.filter((w) => w.cat === c).length})</option>`).join('')}</select>
