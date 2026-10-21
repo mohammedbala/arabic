@@ -10,7 +10,25 @@
     "ex_ar": "السلام عليكم، كيف حالكم؟",
     "ex_tr": "salām 3alēkum, kīf 7ālkum?",
     "ex_en": "Hello, how are you all?",
-    "note": "The standard greeting; reply وعليكم السلام."
+    "note": "The standard greeting; reply وعليكم السلام.",
+    "usage": 93,
+    "phrases": [
+      {
+        "ar": "السلام عليكم! – وعليكم السلام.",
+        "tr": "salām 3alēkum! – w-3alēkum issalām.",
+        "en": "Hello! – And peace be upon you."
+      },
+      {
+        "ar": "السلام عليكم يا جماعة",
+        "tr": "salām 3alēkum ya jmā3a",
+        "en": "Hello, everyone"
+      },
+      {
+        "ar": "دخل وما قالش السلام عليكم",
+        "tr": "dkhal w-ma gālsh salām 3alēkum",
+        "en": "He came in without saying hello"
+      }
+    ]
   },
   {
     "ar": "وعليكم السلام",
@@ -23,7 +41,20 @@
     "ex_ar": "وعليكم السلام، أهلا بيك.",
     "ex_tr": "w-3alēkum issalām, ahlan bīk.",
     "ex_en": "And peace upon you, welcome.",
-    "note": "Always the reply to السلام عليكم."
+    "note": "Always the reply to السلام عليكم.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "وعليكم السلام ورحمة الله",
+        "tr": "w-3alēkum issalām w-ra7matullah",
+        "en": "And peace and God's mercy upon you"
+      },
+      {
+        "ar": "السلام عليكم! – وعليكم السلام، تفضل.",
+        "tr": "salām 3alēkum! – w-3alēkum issalām, tfaDDal.",
+        "en": "Hello! – Hello, come in."
+      }
+    ]
   },
   {
     "ar": "أهلا",
@@ -35,7 +66,25 @@
     "freq": 1,
     "ex_ar": "أهلا، شن حوالك؟",
     "ex_tr": "ahlan, shin 7wālik?",
-    "ex_en": "Hi, how are things?"
+    "ex_en": "Hi, how are things?",
+    "usage": 91,
+    "phrases": [
+      {
+        "ar": "أهلا يا خوي!",
+        "tr": "ahlan ya khūy!",
+        "en": "Hi, brother!"
+      },
+      {
+        "ar": "أهلا! – أهلين، كيف حالك؟",
+        "tr": "ahlan! – ahlēn, kīf 7ālik?",
+        "en": "Hi! – Hi, how are you?"
+      },
+      {
+        "ar": "أهلا بالجماعة",
+        "tr": "ahlan bijjmā3a",
+        "en": "Hi, everyone"
+      }
+    ]
   },
   {
     "ar": "أهلا وسهلا",
@@ -47,7 +96,20 @@
     "freq": 1,
     "ex_ar": "أهلا وسهلا، تفضل اقعد.",
     "ex_tr": "ahlan wa sahlan, tfaDDal ug3ud.",
-    "ex_en": "Welcome, please sit down."
+    "ex_en": "Welcome, please sit down.",
+    "usage": 85,
+    "phrases": [
+      {
+        "ar": "أهلا وسهلا! – أهلا بيك.",
+        "tr": "ahlan wa sahlan! – ahlan bīk.",
+        "en": "Welcome! – Thank you (lit. welcome to you)."
+      },
+      {
+        "ar": "أهلا وسهلا في حوشنا",
+        "tr": "ahlan wa sahlan fi 7ōshna",
+        "en": "Welcome to our home"
+      }
+    ]
   },
   {
     "ar": "أهلا بيك",
@@ -60,7 +122,25 @@
     "ex_ar": "أهلا بيك، نورت الحوش.",
     "ex_tr": "ahlan bīk, nawwart il7ōsh.",
     "ex_en": "Welcome, you've brightened the house.",
-    "note": "Plural: أهلا بيكم ahlan bīkum."
+    "note": "Plural: أهلا بيكم ahlan bīkum.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "أهلا بيك! – أهلين، الله يسلمك.",
+        "tr": "ahlan bīk! – ahlēn, allah ysallmik.",
+        "en": "Welcome! – Hi, thank you."
+      },
+      {
+        "ar": "أهلا بيك يا حاج",
+        "tr": "ahlan bīk ya 7ājj",
+        "en": "Welcome, sir (to an older man)"
+      },
+      {
+        "ar": "أهلا بيكم في طرابلس",
+        "tr": "ahlan bīkum fi Trābulus",
+        "en": "Welcome (all of you) to Tripoli"
+      }
+    ]
   },
   {
     "ar": "أهلين",
@@ -72,7 +152,20 @@
     "freq": 2,
     "ex_ar": "أهلين يا خوي، وينك؟",
     "ex_tr": "ahlēn ya khūy, wīnik?",
-    "ex_en": "Hi brother, where have you been?"
+    "ex_en": "Hi brother, where have you been?",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "أهلين! – أهلا بيك.",
+        "tr": "ahlēn! – ahlan bīk.",
+        "en": "Hi! – Hi to you."
+      },
+      {
+        "ar": "أهلين، شن أخبارك؟",
+        "tr": "ahlēn, shin akhbārik?",
+        "en": "Hi, what's new?"
+      }
+    ]
   },
   {
     "ar": "مرحبا",
@@ -84,7 +177,20 @@
     "freq": 1,
     "ex_ar": "مرحبا، كيف حالك؟",
     "ex_tr": "mar7ba, kīf 7ālik?",
-    "ex_en": "Hello, how are you?"
+    "ex_en": "Hello, how are you?",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "مرحبا! – مرحبتين.",
+        "tr": "mar7ba! – mar7btēn.",
+        "en": "Hello! – Hello to you (lit. two hellos)."
+      },
+      {
+        "ar": "مرحبا يا خالتي",
+        "tr": "mar7ba ya khālti",
+        "en": "Hello, auntie"
+      }
+    ]
   },
   {
     "ar": "مرحبا بيك",
@@ -97,7 +203,20 @@
     "ex_ar": "مرحبا بيك في ليبيا!",
     "ex_tr": "mar7ba bīk fi lībya!",
     "ex_en": "Welcome to Libya!",
-    "note": "Very common Libyan way of welcoming a guest; the guest often replies with the same phrase."
+    "note": "Very common Libyan way of welcoming a guest; the guest often replies with the same phrase.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "مرحبا بيك في حوشنا",
+        "tr": "mar7ba bīk fi 7ōshna",
+        "en": "Welcome to our home"
+      },
+      {
+        "ar": "مرحبا بيكم! – الله يبارك فيك.",
+        "tr": "mar7ba bīkum! – allah ybārik fīk.",
+        "en": "Welcome (all)! – God bless you."
+      }
+    ]
   },
   {
     "ar": "يا هلا",
@@ -109,7 +228,20 @@
     "freq": 2,
     "ex_ar": "يا هلا يا هلا، تعال!",
     "ex_tr": "ya hala ya hala, ta3āl!",
-    "ex_en": "Hey, welcome, come on in!"
+    "ex_en": "Hey, welcome, come on in!",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "يا هلا بيك يا صاحبي!",
+        "tr": "ya hala bīk ya Sā7bi!",
+        "en": "Hey, welcome, my friend!"
+      },
+      {
+        "ar": "يا هلا! – هلا بيك.",
+        "tr": "ya hala! – hala bīk.",
+        "en": "Hey there! – Hey to you."
+      }
+    ]
   },
   {
     "ar": "كيف حالك",
@@ -122,7 +254,25 @@
     "ex_ar": "كيف حالك اليوم؟",
     "ex_tr": "kīf 7ālik ilyōm?",
     "ex_en": "How are you today?",
-    "note": "Plural: كيف حالكم kīf 7ālkum."
+    "note": "Plural: كيف حالكم kīf 7ālkum.",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "كيف حالك؟ – لاباس الحمد لله.",
+        "tr": "kīf 7ālik? – lābās il7amdulillah.",
+        "en": "How are you? – Fine, thank God."
+      },
+      {
+        "ar": "كيف حالك يا ماما؟",
+        "tr": "kīf 7ālik ya māma?",
+        "en": "How are you, mom?"
+      },
+      {
+        "ar": "كيف حالكم في الحوش؟",
+        "tr": "kīf 7ālkum fil-7ōsh?",
+        "en": "How is everyone at home?"
+      }
+    ]
   },
   {
     "ar": "شن حوالك",
@@ -135,7 +285,20 @@
     "ex_ar": "شن حوالك؟ إن شاء الله باهي.",
     "ex_tr": "shin 7wālik? inshallah bāhi.",
     "ex_en": "How are things? Hopefully good.",
-    "note": "Typically Libyan; شن shin = what."
+    "note": "Typically Libyan; شن shin = what.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "شن حوالك؟ – لاباس، وانت؟",
+        "tr": "shin 7wālik? – lābās, w-inta?",
+        "en": "How are things? – Fine, and you?"
+      },
+      {
+        "ar": "شن حوالكم يا جماعة؟",
+        "tr": "shin 7wālkum ya jmā3a?",
+        "en": "How are you doing, everyone?"
+      }
+    ]
   },
   {
     "ar": "شن أخبارك",
@@ -147,7 +310,25 @@
     "freq": 1,
     "ex_ar": "شن أخبارك؟ من زمان ما شفتك.",
     "ex_tr": "shin akhbārik? min zamān ma shuftik.",
-    "ex_en": "What's new? I haven't seen you in ages."
+    "ex_en": "What's new? I haven't seen you in ages.",
+    "usage": 89,
+    "phrases": [
+      {
+        "ar": "شن أخبارك؟ – الحمد لله، كل شي باهي.",
+        "tr": "shin akhbārik? – il7amdulillah, kull shi bāhi.",
+        "en": "What's new? – Thank God, all good."
+      },
+      {
+        "ar": "شن أخبار الخدمة؟",
+        "tr": "shin akhbār ilkhidma?",
+        "en": "How's work going?"
+      },
+      {
+        "ar": "شن أخبارك مع الدراسة؟",
+        "tr": "shin akhbārik ma3 iddirāsa?",
+        "en": "How's it going with your studies?"
+      }
+    ]
   },
   {
     "ar": "شن الجو",
@@ -160,7 +341,20 @@
     "ex_ar": "شن الجو يا جماعة؟",
     "ex_tr": "shin ijjaww ya jamā3a?",
     "ex_en": "What's up, guys?",
-    "note": "Casual, especially among young people; jaww literally = atmosphere/weather."
+    "note": "Casual, especially among young people; jaww literally = atmosphere/weather.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "شن الجو؟ – الجو باهي.",
+        "tr": "shin ijjaww? – ijjaww bāhi.",
+        "en": "What's up? – All good."
+      },
+      {
+        "ar": "شن الجو الليلة؟ نطلعوا؟",
+        "tr": "shin ijjaww illēla? nuTl3u?",
+        "en": "What's the plan tonight? Shall we go out?"
+      }
+    ]
   },
   {
     "ar": "كيف أمورك",
@@ -172,7 +366,20 @@
     "freq": 2,
     "ex_ar": "كيف أمورك في الخدمة؟",
     "ex_tr": "kīf umūrik fi ilkhidma?",
-    "ex_en": "How's everything at work?"
+    "ex_en": "How's everything at work?",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "كيف أمورك؟ – ماشية الحمد لله.",
+        "tr": "kīf umūrik? – māshya il7amdulillah.",
+        "en": "How's everything? – Going fine, thank God."
+      },
+      {
+        "ar": "كيف أمورك مع الحوش الجديد؟",
+        "tr": "kīf umūrik ma3 il7ōsh ijjdīd?",
+        "en": "How are things with the new house?"
+      }
+    ]
   },
   {
     "ar": "كيف الصحة",
@@ -185,7 +392,20 @@
     "ex_ar": "كيف الصحة يا حاج؟",
     "ex_tr": "kīf iSSa77a ya 7ājj?",
     "ex_en": "How's your health, sir?",
-    "note": "Polite, especially to older people."
+    "note": "Polite, especially to older people.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "كيف الصحة؟ – الحمد لله، تمام.",
+        "tr": "kīf iSSa77a? – il7amdulillah, tamām.",
+        "en": "How's your health? – Thank God, fine."
+      },
+      {
+        "ar": "كيف صحة أمك توا؟",
+        "tr": "kīf Sa77it ummik tawwa?",
+        "en": "How is your mother's health now?"
+      }
+    ]
   },
   {
     "ar": "كيف العيلة",
@@ -197,7 +417,20 @@
     "freq": 2,
     "ex_ar": "كيف العيلة؟ لاباس عليهم؟",
     "ex_tr": "kīf il3ēla? lābās 3alēhum?",
-    "ex_en": "How's the family? Are they well?"
+    "ex_en": "How's the family? Are they well?",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "كيف العيلة؟ – لاباس، يسلموا عليك.",
+        "tr": "kīf il3ēla? – lābās, ysallmu 3alēk.",
+        "en": "How's the family? – Fine, they say hi."
+      },
+      {
+        "ar": "كيف العيلة والصغار؟",
+        "tr": "kīf il3ēla wiSSghār?",
+        "en": "How are the family and the kids?"
+      }
+    ]
   },
   {
     "ar": "لاباس",
@@ -210,7 +443,25 @@
     "ex_ar": "لاباس، الحمد لله.",
     "ex_tr": "lābās, il7amdulillah.",
     "ex_en": "Fine, thank God.",
-    "note": "Used both as question (لاباس؟ are you OK?) and answer."
+    "note": "Used both as question (لاباس؟ are you OK?) and answer.",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "لاباس؟ – لاباس، الحمد لله.",
+        "tr": "lābās? – lābās, il7amdulillah.",
+        "en": "All well? – All well, thank God."
+      },
+      {
+        "ar": "كل شي لاباس",
+        "tr": "kull shi lābās",
+        "en": "Everything is fine"
+      },
+      {
+        "ar": "لاباس، ما فيش مشكلة",
+        "tr": "lābās, ma fīsh mushkila",
+        "en": "It's fine, no problem"
+      }
+    ]
   },
   {
     "ar": "لاباس عليك",
@@ -222,7 +473,20 @@
     "freq": 1,
     "ex_ar": "لاباس عليك؟ شكلك تعبان.",
     "ex_tr": "lābās 3alēk? shaklik ta3bān.",
-    "ex_en": "Are you OK? You look tired."
+    "ex_en": "Are you OK? You look tired.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "لاباس عليك؟ – لاباس، الحمد لله.",
+        "tr": "lābās 3alēk? – lābās, il7amdulillah.",
+        "en": "Are you OK? – Fine, thank God."
+      },
+      {
+        "ar": "لاباس عليكم في الحوش؟",
+        "tr": "lābās 3alēkum fil-7ōsh?",
+        "en": "Is everyone well at home?"
+      }
+    ]
   },
   {
     "ar": "الحمد لله بخير",
@@ -235,7 +499,20 @@
     "ex_ar": "أنا الحمد لله بخير، وانت؟",
     "ex_tr": "āna il7amdulillah bkhēr, w-inta?",
     "ex_en": "I'm fine thank God, and you?",
-    "note": "The standard answer to كيف حالك."
+    "note": "The standard answer to كيف حالك.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "كيف حالك؟ – الحمد لله بخير.",
+        "tr": "kīf 7ālik? – il7amdulillah bkhēr.",
+        "en": "How are you? – Fine, thank God."
+      },
+      {
+        "ar": "الكل الحمد لله بخير",
+        "tr": "ilkull il7amdulillah bkhēr",
+        "en": "Everyone's fine, thank God"
+      }
+    ]
   },
   {
     "ar": "باهي الحمد لله",
@@ -248,7 +525,20 @@
     "ex_ar": "كيف حالك؟ – باهي الحمد لله.",
     "ex_tr": "kīf 7ālik? – bāhi il7amdulillah.",
     "ex_en": "How are you? – Good, thank God.",
-    "note": "bāhi is the key Libyan word for good/OK."
+    "note": "bāhi is the key Libyan word for good/OK.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "شن حوالك؟ – باهي الحمد لله، وانت؟",
+        "tr": "shin 7wālik? – bāhi il7amdulillah, w-inta?",
+        "en": "How are things? – Good, thank God, and you?"
+      },
+      {
+        "ar": "الخدمة باهي الحمد لله",
+        "tr": "ilkhidma bāhi il7amdulillah",
+        "en": "Work is good, thank God"
+      }
+    ]
   },
   {
     "ar": "تمام",
@@ -260,7 +550,25 @@
     "freq": 1,
     "ex_ar": "كل شي تمام؟ – تمام.",
     "ex_tr": "kull shī tamām? – tamām.",
-    "ex_en": "Everything OK? – All good."
+    "ex_en": "Everything OK? – All good.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "تمام، نتلاقوا غدوة",
+        "tr": "tamām, nitlāgu ghudwa",
+        "en": "OK, see you tomorrow"
+      },
+      {
+        "ar": "كل شي تمام عندك؟",
+        "tr": "kull shi tamām 3andik?",
+        "en": "Is everything all right with you?"
+      },
+      {
+        "ar": "الكرهبة تمام توا",
+        "tr": "ilkarhba tamām tawwa",
+        "en": "The car is fine now"
+      }
+    ]
   },
   {
     "ar": "صباح الخير",
@@ -273,7 +581,20 @@
     "ex_ar": "صباح الخير يا ماما.",
     "ex_tr": "Sbā7 ilkhēr ya māma.",
     "ex_en": "Good morning, mum.",
-    "note": "Reply: صباح النور."
+    "note": "Reply: صباح النور.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "صباح الخير! – صباح النور.",
+        "tr": "Sbā7 ilkhēr! – Sbā7 innūr.",
+        "en": "Good morning! – Good morning to you."
+      },
+      {
+        "ar": "صباح الخير يا جماعة",
+        "tr": "Sbā7 ilkhēr ya jmā3a",
+        "en": "Good morning, everyone"
+      }
+    ]
   },
   {
     "ar": "صباح النور",
@@ -285,7 +606,20 @@
     "freq": 1,
     "ex_ar": "صباح الخير! – صباح النور.",
     "ex_tr": "Sbā7 ilkhēr! – Sbā7 innūr.",
-    "ex_en": "Good morning! – Good morning to you."
+    "ex_en": "Good morning! – Good morning to you.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "صباح النور يا خوي",
+        "tr": "Sbā7 innūr ya khūy",
+        "en": "Good morning to you, brother"
+      },
+      {
+        "ar": "صباح النور، كيف رقدت؟",
+        "tr": "Sbā7 innūr, kīf rgadt?",
+        "en": "Good morning, how did you sleep?"
+      }
+    ]
   },
   {
     "ar": "مساء الخير",
@@ -298,7 +632,20 @@
     "ex_ar": "مساء الخير، كيف كان نهارك؟",
     "ex_tr": "msā ilkhēr, kīf kān nhārik?",
     "ex_en": "Good evening, how was your day?",
-    "note": "Reply: مساء النور."
+    "note": "Reply: مساء النور.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "مساء الخير! – مساء النور.",
+        "tr": "msā ilkhēr! – msā innūr.",
+        "en": "Good evening! – Good evening to you."
+      },
+      {
+        "ar": "مساء الخير عليكم",
+        "tr": "msā ilkhēr 3alēkum",
+        "en": "Good evening, all"
+      }
+    ]
   },
   {
     "ar": "مساء النور",
@@ -310,7 +657,20 @@
     "freq": 2,
     "ex_ar": "مساء الخير! – مساء النور.",
     "ex_tr": "msā ilkhēr! – msā innūr.",
-    "ex_en": "Good evening! – Good evening to you."
+    "ex_en": "Good evening! – Good evening to you.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "مساء النور، تفضل اقعد",
+        "tr": "msā innūr, tfaDDal ug3ud",
+        "en": "Good evening, come sit down"
+      },
+      {
+        "ar": "مساء النور يا حاجة",
+        "tr": "msā innūr ya 7ājja",
+        "en": "Good evening to you, ma'am"
+      }
+    ]
   },
   {
     "ar": "تصبح على خير",
@@ -323,7 +683,25 @@
     "ex_ar": "أنا بنرقد، تصبح على خير.",
     "ex_tr": "āna bnurgud, tiSba7 3la khēr.",
     "ex_en": "I'm going to sleep, good night.",
-    "note": "To a woman: تصبحي على خير tiSb7i; reply: وانت من أهله."
+    "note": "To a woman: تصبحي على خير tiSb7i; reply: وانت من أهله.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "تصبح على خير! – وانت من أهله.",
+        "tr": "tiSba7 3la khēr! – w-inta min ahla.",
+        "en": "Good night! – You too."
+      },
+      {
+        "ar": "تصبحي على خير يا ماما",
+        "tr": "tiSb7i 3la khēr ya māma",
+        "en": "Good night, mom"
+      },
+      {
+        "ar": "تصبحوا على خير يا جماعة",
+        "tr": "tiSb7u 3la khēr ya jmā3a",
+        "en": "Good night, everyone"
+      }
+    ]
   },
   {
     "ar": "وانت من أهله",
@@ -335,7 +713,20 @@
     "freq": 2,
     "ex_ar": "تصبح على خير! – وانت من أهله.",
     "ex_tr": "tiSba7 3la khēr! – w-inta min ahla.",
-    "ex_en": "Good night! – You too."
+    "ex_en": "Good night! – You too.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "تصبحي على خير! – وانتي من أهله.",
+        "tr": "tiSb7i 3la khēr! – w-inti min ahla.",
+        "en": "Good night (to a woman)! – You too."
+      },
+      {
+        "ar": "وانتم من أهله يا جماعة",
+        "tr": "w-intum min ahla ya jmā3a",
+        "en": "You too, everyone"
+      }
+    ]
   },
   {
     "ar": "بالسلامة",
@@ -348,7 +739,20 @@
     "ex_ar": "بالسلامة، سلملي على الحوش.",
     "ex_tr": "bisslāma, sallimli 3la il7ōsh.",
     "ex_en": "Bye, say hi to the family for me.",
-    "note": "Very common Libyan goodbye; reply الله يسلمك."
+    "note": "Very common Libyan goodbye; reply الله يسلمك.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "بالسلامة! – الله يسلمك.",
+        "tr": "bisslāma! – allah ysallmik.",
+        "en": "Bye! – Take care."
+      },
+      {
+        "ar": "يلا بالسلامة، نشوفك غدوة",
+        "tr": "yalla bisslāma, nshūfik ghudwa",
+        "en": "OK bye, see you tomorrow"
+      }
+    ]
   },
   {
     "ar": "مع السلامة",
@@ -360,7 +764,20 @@
     "freq": 1,
     "ex_ar": "مع السلامة، نشوفك غدوة.",
     "ex_tr": "ma3a issalāma, nshūfik ghudwa.",
-    "ex_en": "Goodbye, see you tomorrow."
+    "ex_en": "Goodbye, see you tomorrow.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "مع السلامة! – الله يسلمك.",
+        "tr": "ma3a issalāma! – allah ysallmik.",
+        "en": "Goodbye! – Take care."
+      },
+      {
+        "ar": "مع السلامة، رد بالك على روحك",
+        "tr": "ma3a issalāma, rudd bālik 3la rō7ik",
+        "en": "Goodbye, take care of yourself"
+      }
+    ]
   },
   {
     "ar": "الله يسلمك",
@@ -373,7 +790,20 @@
     "ex_ar": "بالسلامة! – الله يسلمك.",
     "ex_tr": "bisslāma! – allah ysallmik.",
     "ex_en": "Bye! – Take care.",
-    "note": "Also used to thank someone who wished you well."
+    "note": "Also used to thank someone who wished you well.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "الله يسلمك، سلملي عليهم",
+        "tr": "allah ysallmik, sallimli 3alēhum",
+        "en": "Take care, say hi to them for me"
+      },
+      {
+        "ar": "مع السلامة! – الله يسلمكم.",
+        "tr": "ma3a issalāma! – allah ysallimkum.",
+        "en": "Goodbye! – Take care, all of you."
+      }
+    ]
   },
   {
     "ar": "في أمان الله",
@@ -385,7 +815,20 @@
     "freq": 2,
     "ex_ar": "يلا، في أمان الله.",
     "ex_tr": "yalla, fi amān allah.",
-    "ex_en": "OK then, goodbye."
+    "ex_en": "OK then, goodbye.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "في أمان الله! – مع السلامة.",
+        "tr": "fi amān allah! – ma3a issalāma.",
+        "en": "Go safely! – Goodbye."
+      },
+      {
+        "ar": "امشي في أمان الله",
+        "tr": "imshi fi amān allah",
+        "en": "Go in God's protection"
+      }
+    ]
   },
   {
     "ar": "نشوفك بعدين",
@@ -397,7 +840,20 @@
     "freq": 1,
     "ex_ar": "توا مشغول، نشوفك بعدين.",
     "ex_tr": "tawwa mashghūl, nshūfik ba3dēn.",
-    "ex_en": "I'm busy now, see you later."
+    "ex_en": "I'm busy now, see you later.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "نشوفك بعدين! – باهي، بالسلامة.",
+        "tr": "nshūfik ba3dēn! – bāhi, bisslāma.",
+        "en": "See you later! – OK, bye."
+      },
+      {
+        "ar": "يلا، نشوفكم بعدين",
+        "tr": "yalla, nshūfkum ba3dēn",
+        "en": "OK, see you all later"
+      }
+    ]
   },
   {
     "ar": "نتلاقوا",
@@ -410,7 +866,20 @@
     "ex_ar": "نتلاقوا في القهوة العشية.",
     "ex_tr": "nitlāgu fi ilgahwa il3ashiyya.",
     "ex_en": "See you at the café this afternoon.",
-    "note": "From تلاقى tlāga, imperfect: نتلاقى nitlāga."
+    "note": "From تلاقى tlāga, imperfect: نتلاقى nitlāga.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "نتلاقوا غدوة إن شاء الله",
+        "tr": "nitlāgu ghudwa inshallah",
+        "en": "See you tomorrow, God willing"
+      },
+      {
+        "ar": "وين نتلاقوا؟ – قدام الجامع.",
+        "tr": "wīn nitlāgu? – guddām ijjāmi3.",
+        "en": "Where shall we meet? – In front of the mosque."
+      }
+    ]
   },
   {
     "ar": "حمد الله على السلامة",
@@ -423,7 +892,20 @@
     "ex_ar": "حمد الله على السلامة! كيف كانت السفرة؟",
     "ex_tr": "7amdilla 3la issalāma! kīf kānat issafra?",
     "ex_en": "Welcome back! How was the trip?",
-    "note": "Said to someone returning from travel, hospital, etc. Reply: الله يسلمك."
+    "note": "Said to someone returning from travel, hospital, etc. Reply: الله يسلمك.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "حمد الله على السلامة! – الله يسلمك.",
+        "tr": "7amdilla 3la issalāma! – allah ysallmik.",
+        "en": "Welcome back! – Thank you."
+      },
+      {
+        "ar": "حمد الله على سلامتك يا خوي",
+        "tr": "7amdilla 3la salāmtik ya khūy",
+        "en": "Glad you're back safe, brother"
+      }
+    ]
   },
   {
     "ar": "وين الغيبة",
@@ -435,7 +917,20 @@
     "freq": 2,
     "ex_ar": "وين الغيبة يا راجل؟",
     "ex_tr": "wīn ilghēba ya rājil?",
-    "ex_en": "Where have you been, man?"
+    "ex_en": "Where have you been, man?",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "وين الغيبة؟ – والله مشاغل.",
+        "tr": "wīn ilghēba? – wallah mashāghil.",
+        "en": "Where have you been? – Honestly, busy."
+      },
+      {
+        "ar": "وين الغيبة يا بنت؟",
+        "tr": "wīn ilghēba ya bint?",
+        "en": "Where have you been, girl?"
+      }
+    ]
   },
   {
     "ar": "زمان عليك",
@@ -447,7 +942,20 @@
     "freq": 2,
     "ex_ar": "زمان عليك! شن أخبارك؟",
     "ex_tr": "zamān 3alēk! shin akhbārik?",
-    "ex_en": "Long time no see! What's new?"
+    "ex_en": "Long time no see! What's new?",
+    "usage": 63,
+    "phrases": [
+      {
+        "ar": "زمان عليك يا راجل!",
+        "tr": "zamān 3alēk ya rājil!",
+        "en": "Long time no see, man!"
+      },
+      {
+        "ar": "زمان عليكم، شن أحوالكم؟",
+        "tr": "zamān 3alēkum, shin a7wālkum?",
+        "en": "Long time no see, how are you all?"
+      }
+    ]
   },
   {
     "ar": "وينك",
@@ -460,7 +968,25 @@
     "ex_ar": "وينك؟ ما عاد نشوفوك.",
     "ex_tr": "wīnik? ma 3ād nshūfūk.",
     "ex_en": "Where have you been? We don't see you anymore.",
-    "note": "Also the usual opening on the phone."
+    "note": "Also the usual opening on the phone.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "وينك؟ – في الطريق.",
+        "tr": "wīnik? – fiTTrīg.",
+        "en": "Where are you? – On the way."
+      },
+      {
+        "ar": "وينك توا؟",
+        "tr": "wīnik tawwa?",
+        "en": "Where are you now?"
+      },
+      {
+        "ar": "وينكم يا جماعة؟",
+        "tr": "wīnkum ya jmā3a?",
+        "en": "Where are you guys?"
+      }
+    ]
   },
   {
     "ar": "توحشتك",
@@ -473,7 +999,20 @@
     "ex_ar": "توحشتك هلبة يا خوي!",
     "ex_tr": "twa77ashtik hallba ya khūy!",
     "ex_en": "I missed you so much, brother!",
-    "note": "Maghrebi verb توحش twa77ash 'to miss'; imperfect يتوحش yitwa77ash."
+    "note": "Maghrebi verb توحش twa77ash 'to miss'; imperfect يتوحش yitwa77ash.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "توحشتك! – وانا زادة توحشتك.",
+        "tr": "twa77ashtik! – w-āna zāda twa77ashtik.",
+        "en": "I missed you! – I missed you too."
+      },
+      {
+        "ar": "توحشتكم هلبة",
+        "tr": "twa77ashtkum hallba",
+        "en": "I missed you all a lot"
+      }
+    ]
   },
   {
     "ar": "سلملي على",
@@ -486,7 +1025,25 @@
     "ex_ar": "سلملي على أمك.",
     "ex_tr": "sallimli 3la ummik.",
     "ex_en": "Say hi to your mother for me.",
-    "note": "Reply: يوصل yūSil (it will reach) or الله يسلمك."
+    "note": "Reply: يوصل yūSil (it will reach) or الله يسلمك.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "سلملي على العيلة",
+        "tr": "sallimli 3la il3ēla",
+        "en": "Say hi to the family for me"
+      },
+      {
+        "ar": "سلملي على أمك! – يوصل إن شاء الله.",
+        "tr": "sallimli 3la ummik! – yūSil inshallah.",
+        "en": "Say hi to your mom! – Will do."
+      },
+      {
+        "ar": "سلملي عليه هلبة",
+        "tr": "sallimli 3alēh hallba",
+        "en": "Give him my warm regards"
+      }
+    ]
   },
   {
     "ar": "يوصل",
@@ -498,7 +1055,20 @@
     "freq": 3,
     "ex_ar": "سلملي على خوك! – يوصل إن شاء الله.",
     "ex_tr": "sallimli 3la khūk! – yūSil inshallah.",
-    "ex_en": "Say hi to your brother! – Will do."
+    "ex_en": "Say hi to your brother! – Will do.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "يوصل، وانت سلملي عليهم",
+        "tr": "yūSil, w-inta sallimli 3alēhum",
+        "en": "Will do, and say hi to them for me"
+      },
+      {
+        "ar": "سلملي على بوك! – يوصل.",
+        "tr": "sallimli 3la būk! – yūSil.",
+        "en": "Say hi to your dad! – Will do."
+      }
+    ]
   },
   {
     "ar": "نورت",
@@ -511,7 +1081,20 @@
     "ex_ar": "نورت يا حاج، تفضل.",
     "ex_tr": "nawwart ya 7ājj, tfaDDal.",
     "ex_en": "Welcome sir, please come in.",
-    "note": "Reply: منور بأهله mnawwar b-ahla (it's bright thanks to its owners)."
+    "note": "Reply: منور بأهله mnawwar b-ahla (it's bright thanks to its owners).",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "نورت! – منور بأهله.",
+        "tr": "nawwart! – mnawwar b-ahla.",
+        "en": "Welcome! – Thanks (it shines because of you)."
+      },
+      {
+        "ar": "نورتوا الحوش يا جماعة",
+        "tr": "nawwartu il7ōsh ya jmā3a",
+        "en": "You've brightened the house, everyone"
+      }
+    ]
   },
   {
     "ar": "منور بأهله",
@@ -523,7 +1106,20 @@
     "freq": 3,
     "ex_ar": "نورت! – منور بأهله.",
     "ex_tr": "nawwart! – mnawwar b-ahla.",
-    "ex_en": "Welcome! – Thanks, it's your company that brightens it."
+    "ex_en": "Welcome! – Thanks, it's your company that brightens it.",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "نورت الحوش! – منور بأهله.",
+        "tr": "nawwart il7ōsh! – mnawwar b-ahla.",
+        "en": "You've lit up the house! – It's bright thanks to you."
+      },
+      {
+        "ar": "منور بأهله يا خوي",
+        "tr": "mnawwar b-ahla ya khūy",
+        "en": "It's you who brightens it, brother"
+      }
+    ]
   },
   {
     "ar": "ألو",
@@ -536,7 +1132,25 @@
     "ex_ar": "ألو، شكون معاي؟",
     "ex_tr": "alō, shkūn ma3āy?",
     "ex_en": "Hello, who's speaking?",
-    "note": "From French allô."
+    "note": "From French allô.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "ألو، وينك؟",
+        "tr": "alō, wīnik?",
+        "en": "Hello, where are you?"
+      },
+      {
+        "ar": "ألو! – ألو، أهلين.",
+        "tr": "alō! – alō, ahlēn.",
+        "en": "Hello? – Hello, hi."
+      },
+      {
+        "ar": "ألو، تسمع فيا؟",
+        "tr": "alō, tisma3 fiyya?",
+        "en": "Hello, can you hear me?"
+      }
+    ]
   },
   {
     "ar": "شكرا",
@@ -548,7 +1162,25 @@
     "freq": 1,
     "ex_ar": "شكرا على المساعدة.",
     "ex_tr": "shukran 3la ilmusā3da.",
-    "ex_en": "Thanks for the help."
+    "ex_en": "Thanks for the help.",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "شكرا! – العفو.",
+        "tr": "shukran! – il3afw.",
+        "en": "Thanks! – You're welcome."
+      },
+      {
+        "ar": "شكرا هلبة يا خوي",
+        "tr": "shukran hallba ya khūy",
+        "en": "Thanks a lot, brother"
+      },
+      {
+        "ar": "لا شكرا، شبعت",
+        "tr": "la shukran, shbi3t",
+        "en": "No thanks, I'm full"
+      }
+    ]
   },
   {
     "ar": "صحيت",
@@ -561,7 +1193,25 @@
     "ex_ar": "صحيت يا خوي، والله ما قصرت.",
     "ex_tr": "Sa77ēt ya khūy, wallahi ma gaSSart.",
     "ex_en": "Thanks brother, you really did your best.",
-    "note": "Very Libyan way of saying thanks (lit. 'you became healthy'). To a group: صحيتوا Sa77ētu."
+    "note": "Very Libyan way of saying thanks (lit. 'you became healthy'). To a group: صحيتوا Sa77ētu.",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "صحيت! – ولا يهمك.",
+        "tr": "Sa77ēt! – wala yhimmik.",
+        "en": "Thanks! – No worries."
+      },
+      {
+        "ar": "صحيتوا يا جماعة",
+        "tr": "Sa77ētu ya jmā3a",
+        "en": "Thanks, everyone"
+      },
+      {
+        "ar": "صحيت على الأكلة",
+        "tr": "Sa77ēt 3la il'akla",
+        "en": "Thanks for the meal"
+      }
+    ]
   },
   {
     "ar": "مشكور",
@@ -574,7 +1224,20 @@
     "ex_ar": "مشكور على الهدية.",
     "ex_tr": "mashkūr 3la ilhadiyya.",
     "ex_en": "Thanks for the gift.",
-    "note": "To a woman: مشكورة mashkūra."
+    "note": "To a woman: مشكورة mashkūra.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "مشكور يا خوي! – العفو.",
+        "tr": "mashkūr ya khūy! – il3afw.",
+        "en": "Thanks, brother! – You're welcome."
+      },
+      {
+        "ar": "مشكورة يا خالتي",
+        "tr": "mashkūra ya khālti",
+        "en": "Thank you, auntie"
+      }
+    ]
   },
   {
     "ar": "يعطيك الصحة",
@@ -587,7 +1250,20 @@
     "ex_ar": "يعطيك الصحة على الأكلة.",
     "ex_tr": "ya3Tīk iSSa77a 3la il'akla.",
     "ex_en": "Thanks for the meal.",
-    "note": "Said to someone who worked hard or did you a favour."
+    "note": "Said to someone who worked hard or did you a favour.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "يعطيك الصحة! – وانت زادة.",
+        "tr": "ya3Tīk iSSa77a! – w-inta zāda.",
+        "en": "Thanks! – You too."
+      },
+      {
+        "ar": "يعطيكم الصحة يا شباب",
+        "tr": "ya3Tīkum iSSa77a ya shabāb",
+        "en": "Well done, guys"
+      }
+    ]
   },
   {
     "ar": "العفو",
@@ -599,7 +1275,20 @@
     "freq": 1,
     "ex_ar": "شكرا! – العفو.",
     "ex_tr": "shukran! – il3afw.",
-    "ex_en": "Thanks! – You're welcome."
+    "ex_en": "Thanks! – You're welcome.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "صحيت! – العفو، ما درت شي.",
+        "tr": "Sa77ēt! – il3afw, ma dirt shi.",
+        "en": "Thanks! – You're welcome, it was nothing."
+      },
+      {
+        "ar": "العفو، نبي نتعدى",
+        "tr": "il3afw, nibbi nit3adda",
+        "en": "Excuse me, I want to get past"
+      }
+    ]
   },
   {
     "ar": "ولا يهمك",
@@ -611,7 +1300,20 @@
     "freq": 2,
     "ex_ar": "صحيت! – ولا يهمك.",
     "ex_tr": "Sa77ēt! – wala yhimmik.",
-    "ex_en": "Thanks! – Don't mention it."
+    "ex_en": "Thanks! – Don't mention it.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "ولا يهمك يا خوي",
+        "tr": "wala yhimmik ya khūy",
+        "en": "No worries, brother"
+      },
+      {
+        "ar": "سامحني! – ولا يهمك، عادي.",
+        "tr": "sām7ni! – wala yhimmik, 3ādi.",
+        "en": "Sorry! – Don't worry, it's fine."
+      }
+    ]
   },
   {
     "ar": "عافاك",
@@ -624,7 +1326,20 @@
     "ex_ar": "عافاك، عطيني الملح.",
     "ex_tr": "3afāk, 3aTīni ilmal7.",
     "ex_en": "Please pass me the salt.",
-    "note": "More typical of Morocco/Algeria; Libyans more often say بالله or يرحم والديك."
+    "note": "More typical of Morocco/Algeria; Libyans more often say بالله or يرحم والديك.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "عافاك، سكر الباب",
+        "tr": "3afāk, sakkir ilbāb",
+        "en": "Please shut the door"
+      },
+      {
+        "ar": "عافاك وين الطريق للسوق؟",
+        "tr": "3afāk wīn iTTrīg lissūg?",
+        "en": "Please, which way to the market?"
+      }
+    ]
   },
   {
     "ar": "العافية",
@@ -637,7 +1352,20 @@
     "ex_ar": "الله يعطيك العافية.",
     "ex_tr": "allah ya3Tīk il3āfya.",
     "ex_en": "May God give you strength.",
-    "note": "In Libyan/Maghrebi speech العافية is also a euphemism for 'fire'; in polite phrases it means health."
+    "note": "In Libyan/Maghrebi speech العافية is also a euphemism for 'fire'; in polite phrases it means health.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "الله يعطيك العافية! – الله يعافيك.",
+        "tr": "allah ya3Tīk il3āfya! – allah y3āfīk.",
+        "en": "God give you strength! – And you."
+      },
+      {
+        "ar": "العافية أهم من الفلوس",
+        "tr": "il3āfya ahamm min ilflūs",
+        "en": "Health is more important than money"
+      }
+    ]
   },
   {
     "ar": "بالله",
@@ -650,7 +1378,25 @@
     "ex_ar": "بالله سكر الباب.",
     "ex_tr": "b-allāh sakkir ilbāb.",
     "ex_en": "Please close the door.",
-    "note": "The most common everyday Libyan 'please'."
+    "note": "The most common everyday Libyan 'please'.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "بالله عطيني الموية",
+        "tr": "b-allāh 3Tīni ilmōya",
+        "en": "Please give me the water"
+      },
+      {
+        "ar": "بالله استنى شوية",
+        "tr": "b-allāh istanna shwayya",
+        "en": "Please wait a bit"
+      },
+      {
+        "ar": "بالله صح؟",
+        "tr": "b-allāh Sa77?",
+        "en": "Really? (lit. by God, true?)"
+      }
+    ]
   },
   {
     "ar": "يرحم والديك",
@@ -663,7 +1409,20 @@
     "ex_ar": "يرحم والديك، وين البوسطة؟",
     "ex_tr": "yir7am wāldēk, wīn ilbōsTa?",
     "ex_en": "Please, where is the post office?",
-    "note": "Polite request, common across Libya and the Maghreb."
+    "note": "Polite request, common across Libya and the Maghreb.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "يرحم والديك، ساعدني",
+        "tr": "yir7am wāldēk, sā3idni",
+        "en": "Please help me"
+      },
+      {
+        "ar": "يرحم والديك، كم الساعة؟",
+        "tr": "yir7am wāldēk, kam issā3a?",
+        "en": "Please, what time is it?"
+      }
+    ]
   },
   {
     "ar": "الله يخليك",
@@ -675,7 +1434,20 @@
     "freq": 1,
     "ex_ar": "الله يخليك، استنى شوية.",
     "ex_tr": "allah ykhallīk, istanna shwayya.",
-    "ex_en": "Please, wait a bit."
+    "ex_en": "Please, wait a bit.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "الله يخليك، عطيني القلم",
+        "tr": "allah ykhallīk, 3Tīni ilgalam",
+        "en": "Please give me the pen"
+      },
+      {
+        "ar": "صحيت، الله يخليك",
+        "tr": "Sa77ēt, allah ykhallīk",
+        "en": "Thank you, bless you"
+      }
+    ]
   },
   {
     "ar": "إن شاء الله",
@@ -687,7 +1459,25 @@
     "freq": 1,
     "ex_ar": "نجي غدوة إن شاء الله.",
     "ex_tr": "nji ghudwa inshallah.",
-    "ex_en": "I'll come tomorrow, God willing."
+    "ex_en": "I'll come tomorrow, God willing.",
+    "usage": 96,
+    "phrases": [
+      {
+        "ar": "نشوفك غدوة؟ – إن شاء الله.",
+        "tr": "nshūfik ghudwa? – inshallah.",
+        "en": "See you tomorrow? – God willing."
+      },
+      {
+        "ar": "إن شاء الله باهي",
+        "tr": "inshallah bāhi",
+        "en": "Hopefully it's good"
+      },
+      {
+        "ar": "بنجي إن شاء الله",
+        "tr": "binji inshallah",
+        "en": "I'll come, God willing"
+      }
+    ]
   },
   {
     "ar": "ما شاء الله",
@@ -700,7 +1490,20 @@
     "ex_ar": "ما شاء الله، ولدك كبر!",
     "ex_tr": "mashallah, waldik kbur!",
     "ex_en": "Wow, your son has grown!",
-    "note": "Said when admiring someone or something to avoid the evil eye."
+    "note": "Said when admiring someone or something to avoid the evil eye.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "ما شاء الله عليك!",
+        "tr": "mashallah 3alēk!",
+        "en": "Wow, well done you!"
+      },
+      {
+        "ar": "ما شاء الله، حوش زين",
+        "tr": "mashallah, 7ōsh zēn",
+        "en": "Wow, a beautiful house"
+      }
+    ]
   },
   {
     "ar": "تبارك الله",
@@ -713,7 +1516,20 @@
     "ex_ar": "تبارك الله عليك، دار جديدة!",
     "ex_tr": "tbārk allah 3alēk, dār jdīda!",
     "ex_en": "God bless, a new house!",
-    "note": "Similar to ما شاء الله."
+    "note": "Similar to ما شاء الله.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "تبارك الله، الصغير كبر",
+        "tr": "tbārk allah, iSSghīr kbir",
+        "en": "Bless him, the little one has grown"
+      },
+      {
+        "ar": "تبارك الله عليكم",
+        "tr": "tbārk allah 3alēkum",
+        "en": "God bless you all (admiring)"
+      }
+    ]
   },
   {
     "ar": "الحمد لله",
@@ -725,7 +1541,25 @@
     "freq": 1,
     "ex_ar": "نجحت في الامتحان، الحمد لله.",
     "ex_tr": "nja7t fi ilimti7ān, il7amdulillah.",
-    "ex_en": "I passed the exam, thank God."
+    "ex_en": "I passed the exam, thank God.",
+    "usage": 97,
+    "phrases": [
+      {
+        "ar": "الحمد لله على كل شي",
+        "tr": "il7amdulillah 3la kull shi",
+        "en": "Thank God for everything"
+      },
+      {
+        "ar": "كيف حالك؟ – الحمد لله.",
+        "tr": "kīf 7ālik? – il7amdulillah.",
+        "en": "How are you? – Thank God (fine)."
+      },
+      {
+        "ar": "الحمد لله، وصلنا",
+        "tr": "il7amdulillah, wSilna",
+        "en": "Thank God, we've arrived"
+      }
+    ]
   },
   {
     "ar": "سبحان الله",
@@ -737,7 +1571,20 @@
     "freq": 2,
     "ex_ar": "سبحان الله، الدنيا صغيرة.",
     "ex_tr": "sub7ān allah, iddinya Sghīra.",
-    "ex_en": "How amazing, it's a small world."
+    "ex_en": "How amazing, it's a small world.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "سبحان الله، شبهك هلبة",
+        "tr": "sub7ān allah, shabahk hallba",
+        "en": "Amazing, he looks so much like you"
+      },
+      {
+        "ar": "سبحان الله العظيم",
+        "tr": "sub7ān allah il3aDHīm",
+        "en": "Glory be to God Almighty"
+      }
+    ]
   },
   {
     "ar": "بسم الله",
@@ -749,7 +1596,20 @@
     "freq": 1,
     "ex_ar": "بسم الله، يلا ناكلوا.",
     "ex_tr": "bismillah, yalla nāklu.",
-    "ex_en": "In God's name, let's eat."
+    "ex_en": "In God's name, let's eat.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "بسم الله الرحمن الرحيم",
+        "tr": "bismillah irra7mān irra7īm",
+        "en": "In the name of God, the Merciful"
+      },
+      {
+        "ar": "بسم الله، نبدوا الخدمة",
+        "tr": "bismillah, nibdu ilkhidma",
+        "en": "In God's name, let's start work"
+      }
+    ]
   },
   {
     "ar": "أستغفر الله",
@@ -761,7 +1621,20 @@
     "freq": 2,
     "ex_ar": "أستغفر الله، شن هالكلام!",
     "ex_tr": "astaghfirullah, shin halkalām!",
-    "ex_en": "God forgive me, what kind of talk is that!"
+    "ex_en": "God forgive me, what kind of talk is that!",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "أستغفر الله، نسيت الصلاة",
+        "tr": "astaghfirullah, nsīt iSSlā",
+        "en": "God forgive me, I forgot the prayer"
+      },
+      {
+        "ar": "أستغفر الله العظيم",
+        "tr": "astaghfirullah il3aDHīm",
+        "en": "I seek forgiveness from God Almighty"
+      }
+    ]
   },
   {
     "ar": "الله يرحمه",
@@ -774,7 +1647,20 @@
     "ex_ar": "جدي الله يرحمه كان يحب البحر.",
     "ex_tr": "jaddi allah yir7ma kān y7ibb ilba7r.",
     "ex_en": "My late grandfather, God rest his soul, loved the sea.",
-    "note": "For a woman: الله يرحمها yir7amha."
+    "note": "For a woman: الله يرحمها yir7amha.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "الله يرحمه، كان راجل طيب",
+        "tr": "allah yir7ma, kān rājil Tayyib",
+        "en": "God rest his soul, he was a good man"
+      },
+      {
+        "ar": "جدتي الله يرحمها",
+        "tr": "jiddti allah yir7amha",
+        "en": "My grandmother, God rest her soul"
+      }
+    ]
   },
   {
     "ar": "الله يبارك فيك",
@@ -786,7 +1672,20 @@
     "freq": 1,
     "ex_ar": "مبروك! – الله يبارك فيك.",
     "ex_tr": "mabrūk! – allah ybārik fīk.",
-    "ex_en": "Congratulations! – Thank you."
+    "ex_en": "Congratulations! – Thank you.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "مبروك الخدمة! – الله يبارك فيك.",
+        "tr": "mabrūk ilkhidma! – allah ybārik fīk.",
+        "en": "Congrats on the job! – God bless you."
+      },
+      {
+        "ar": "الله يبارك فيكم يا جماعة",
+        "tr": "allah ybārik fīkum ya jmā3a",
+        "en": "God bless you all"
+      }
+    ]
   },
   {
     "ar": "سامحني",
@@ -799,7 +1698,25 @@
     "ex_ar": "سامحني، ما كانش قصدي.",
     "ex_tr": "sām7ni, ma kānsh gaSdi.",
     "ex_en": "Sorry, I didn't mean it.",
-    "note": "Also heard as سمحني sm7ni. Reply: مسامح msāme7 (forgiven)."
+    "note": "Also heard as سمحني sm7ni. Reply: مسامح msāme7 (forgiven).",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "سامحني، تأخرت",
+        "tr": "sām7ni, t'akhkhart",
+        "en": "Sorry, I'm late"
+      },
+      {
+        "ar": "سامحني! – مسامح.",
+        "tr": "sām7ni! – msāme7.",
+        "en": "Forgive me! – You're forgiven."
+      },
+      {
+        "ar": "سامحيني يا ماما",
+        "tr": "sām7īni ya māma",
+        "en": "Forgive me, mom"
+      }
+    ]
   },
   {
     "ar": "مسامح",
@@ -811,7 +1728,20 @@
     "freq": 2,
     "ex_ar": "سامحني! – مسامح يا خوي.",
     "ex_tr": "sām7ni! – msāme7 ya khūy.",
-    "ex_en": "Sorry! – No worries, brother."
+    "ex_en": "Sorry! – No worries, brother.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "مسامح دنيا وآخرة",
+        "tr": "msāme7 dinya w-ākhra",
+        "en": "Forgiven in this life and the next"
+      },
+      {
+        "ar": "سامحيني! – مسامحة يا بنتي.",
+        "tr": "sām7īni! – msām7a ya binti.",
+        "en": "Forgive me! – You're forgiven, my daughter."
+      }
+    ]
   },
   {
     "ar": "معليش",
@@ -824,7 +1754,25 @@
     "ex_ar": "معليش، صارت.",
     "ex_tr": "ma3lēsh, Sārat.",
     "ex_en": "Never mind, it happens.",
-    "note": "Used both to apologise and to console."
+    "note": "Used both to apologise and to console.",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "معليش، ما تزعلش",
+        "tr": "ma3lēsh, ma tiz3alsh",
+        "en": "Never mind, don't be upset"
+      },
+      {
+        "ar": "معليش، نجي غدوة",
+        "tr": "ma3lēsh, nji ghudwa",
+        "en": "Sorry, I'll come tomorrow"
+      },
+      {
+        "ar": "طاحت الكاس؟ معليش.",
+        "tr": "Tā7at ilkās? ma3lēsh.",
+        "en": "The glass fell? No matter."
+      }
+    ]
   },
   {
     "ar": "تفضل",
@@ -837,7 +1785,25 @@
     "ex_ar": "تفضل، هذي القهوة متاعك.",
     "ex_tr": "tfaDDal, hādhi ilgahwa mtā3ik.",
     "ex_en": "Here you go, this is your coffee.",
-    "note": "To a woman: تفضلي tfaDDli; plural: تفضلوا tfaDDlu."
+    "note": "To a woman: تفضلي tfaDDli; plural: تفضلوا tfaDDlu.",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "تفضل اقعد",
+        "tr": "tfaDDal ug3ud",
+        "en": "Please sit down"
+      },
+      {
+        "ar": "تفضلي يا خالتي",
+        "tr": "tfaDDli ya khālti",
+        "en": "Come in / here you are, auntie"
+      },
+      {
+        "ar": "تفضلوا للغدا",
+        "tr": "tfaDDlu lilghda",
+        "en": "Please come to lunch"
+      }
+    ]
   },
   {
     "ar": "برا",
@@ -850,7 +1816,20 @@
     "ex_ar": "برا من هني!",
     "ex_tr": "barra min hni!",
     "ex_en": "Get out of here!",
-    "note": "Literally 'outside'. Also used to urge someone on: برا امشي!"
+    "note": "Literally 'outside'. Also used to urge someone on: برا امشي!",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "برا امشي للحانوت",
+        "tr": "barra imshi lil7ānūt",
+        "en": "Go on, go to the shop"
+      },
+      {
+        "ar": "برا العب برا",
+        "tr": "barra il3ab barra",
+        "en": "Go play outside"
+      }
+    ]
   },
   {
     "ar": "يلا",
@@ -862,7 +1841,25 @@
     "freq": 1,
     "ex_ar": "يلا نمشوا، تأخرنا.",
     "ex_tr": "yalla nimshu, t'akhkharna.",
-    "ex_en": "Let's go, we're late."
+    "ex_en": "Let's go, we're late.",
+    "usage": 95,
+    "phrases": [
+      {
+        "ar": "يلا نتغدوا",
+        "tr": "yalla nitghaddu",
+        "en": "Come on, let's have lunch"
+      },
+      {
+        "ar": "يلا، بالسلامة",
+        "tr": "yalla, bisslāma",
+        "en": "OK then, bye"
+      },
+      {
+        "ar": "يلا يا شباب، زربوا",
+        "tr": "yalla ya shabāb, zarbu",
+        "en": "Come on guys, hurry up"
+      }
+    ]
   },
   {
     "ar": "هيا",
@@ -875,7 +1872,20 @@
     "ex_ar": "هيا يا ولاد، للحوش!",
     "ex_tr": "hayya ya wlād, lil7ōsh!",
     "ex_en": "Come on kids, home!",
-    "note": "Libyans use هيا as much as يلا."
+    "note": "Libyans use هيا as much as يلا.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "هيا نمشوا للبحر",
+        "tr": "hayya nimshu lilba7r",
+        "en": "Come on, let's go to the beach"
+      },
+      {
+        "ar": "هيا قوم، تأخرنا",
+        "tr": "hayya gūm, t'akhkharna",
+        "en": "Come on, get up, we're late"
+      }
+    ]
   },
   {
     "ar": "مبروك",
@@ -888,7 +1898,25 @@
     "ex_ar": "مبروك النجاح!",
     "ex_tr": "mabrūk innajā7!",
     "ex_en": "Congratulations on passing!",
-    "note": "Reply: الله يبارك فيك."
+    "note": "Reply: الله يبارك فيك.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "مبروك! – الله يبارك فيك.",
+        "tr": "mabrūk! – allah ybārik fīk.",
+        "en": "Congratulations! – God bless you."
+      },
+      {
+        "ar": "مبروك الكرهبة الجديدة",
+        "tr": "mabrūk ilkarhba ijjdīda",
+        "en": "Congrats on the new car"
+      },
+      {
+        "ar": "مبروك عليك العرس",
+        "tr": "mabrūk 3alēk il3urs",
+        "en": "Congratulations on your wedding"
+      }
+    ]
   },
   {
     "ar": "ما فيش مشكلة",
@@ -900,7 +1928,20 @@
     "freq": 1,
     "ex_ar": "نجي معاك؟ – ما فيش مشكلة.",
     "ex_tr": "nji ma3āk? – ma fīsh mushkila.",
-    "ex_en": "Shall I come with you? – No problem."
+    "ex_en": "Shall I come with you? – No problem.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "ما فيش مشكلة، نستنوك",
+        "tr": "ma fīsh mushkila, nistannūk",
+        "en": "No problem, we'll wait for you"
+      },
+      {
+        "ar": "سامحني! – ما فيش مشكلة.",
+        "tr": "sām7ni! – ma fīsh mushkila.",
+        "en": "Sorry! – No problem."
+      }
+    ]
   },
   {
     "ar": "بالصحة",
@@ -913,7 +1954,20 @@
     "ex_ar": "قميص جديد؟ بالصحة!",
     "ex_tr": "gamīS jdīd? bisSa77a!",
     "ex_en": "A new shirt? Enjoy it!",
-    "note": "Said for food, new clothes, a haircut, a shower. Reply: الله يعطيك الصحة."
+    "note": "Said for food, new clothes, a haircut, a shower. Reply: الله يعطيك الصحة.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "بالصحة والعافية",
+        "tr": "bisSa77a wil3āfya",
+        "en": "Enjoy, in good health"
+      },
+      {
+        "ar": "كمل أكلك بالصحة",
+        "tr": "kammil maklak bisSa77a",
+        "en": "Finish your food, enjoy"
+      }
+    ]
   },
   {
     "ar": "يرحمك الله",
@@ -926,7 +1980,20 @@
     "ex_ar": "هاتشي! – يرحمك الله.",
     "ex_tr": "hātshi! – yar7amk allah.",
     "ex_en": "Atchoo! – Bless you.",
-    "note": "The sneezer first says الحمد لله; reply يهدينا ويهديكم الله."
+    "note": "The sneezer first says الحمد لله; reply يهدينا ويهديكم الله.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "يرحمك الله! – يهدينا ويهديكم الله.",
+        "tr": "yar7amk allah! – yahdīna w-yahdīkum allah.",
+        "en": "Bless you! – May God guide us and you."
+      },
+      {
+        "ar": "عطست؟ يرحمك الله",
+        "tr": "3Tast? yar7amk allah",
+        "en": "You sneezed? Bless you"
+      }
+    ]
   },
   {
     "ar": "سلامتك",
@@ -939,7 +2006,20 @@
     "ex_ar": "سمعت إنك مريض، سلامتك.",
     "ex_tr": "smi3t innik marīD, salāmtik.",
     "ex_en": "I heard you're sick, get well soon.",
-    "note": "Reply: الله يسلمك."
+    "note": "Reply: الله يسلمك.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "سلامتك! – الله يسلمك.",
+        "tr": "salāmtik! – allah ysallmik.",
+        "en": "Get well soon! – Thank you."
+      },
+      {
+        "ar": "سلامتك يا خالي، ما تشوف شر",
+        "tr": "salāmtik ya khāli, ma tshūf sharr",
+        "en": "Get well, uncle, may you see no harm"
+      }
+    ]
   },
   {
     "ar": "الله يشفيك",
@@ -951,7 +2031,20 @@
     "freq": 2,
     "ex_ar": "الله يشفيك ويعافيك.",
     "ex_tr": "allah yishfīk w-y3āfīk.",
-    "ex_en": "May God heal you and give you health."
+    "ex_en": "May God heal you and give you health.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "الله يشفيك يا خوي",
+        "tr": "allah yishfīk ya khūy",
+        "en": "Get well soon, brother"
+      },
+      {
+        "ar": "الله يشفيها ويقومها بالسلامة",
+        "tr": "allah yishfīha w-ygawwimha bisslāma",
+        "en": "May God heal her and get her up safely"
+      }
+    ]
   },
   {
     "ar": "عظم الله أجركم",
@@ -964,7 +2057,20 @@
     "ex_ar": "عظم الله أجركم، الله يرحمه.",
     "ex_tr": "3aDHDHam allah ajrakum, allah yir7ma.",
     "ex_en": "My condolences, God rest his soul.",
-    "note": "Said at funerals/mourning; reply: شكر الله سعيكم."
+    "note": "Said at funerals/mourning; reply: شكر الله سعيكم.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "عظم الله أجركم! – شكر الله سعيكم.",
+        "tr": "3aDHDHam allah ajrakum! – shakar allah sa3yakum.",
+        "en": "My condolences! – May God reward your effort."
+      },
+      {
+        "ar": "عظم الله أجرك في بوك",
+        "tr": "3aDHDHam allah ajrak fi būk",
+        "en": "My condolences on your father"
+      }
+    ]
   },
   {
     "ar": "كل عام وانت بخير",
@@ -976,7 +2082,20 @@
     "freq": 2,
     "ex_ar": "العيد غدوة، كل عام وانت بخير.",
     "ex_tr": "il3īd ghudwa, kull 3ām w-inta bkhēr.",
-    "ex_en": "Eid is tomorrow, happy holidays."
+    "ex_en": "Eid is tomorrow, happy holidays.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "كل عام وانت بخير! – وانت بخير.",
+        "tr": "kull 3ām w-inta bkhēr! – w-inta bkhēr.",
+        "en": "Happy holidays! – You too."
+      },
+      {
+        "ar": "كل عام وانتم بخير يا جماعة",
+        "tr": "kull 3ām w-intum bkhēr ya jmā3a",
+        "en": "Happy holidays, everyone"
+      }
+    ]
   },
   {
     "ar": "عيدكم مبروك",
@@ -988,7 +2107,20 @@
     "freq": 2,
     "ex_ar": "عيدكم مبروك وكل عام وانتم بخير.",
     "ex_tr": "3īdkum mabrūk w-kull 3ām w-intum bkhēr.",
-    "ex_en": "Happy Eid and many happy returns."
+    "ex_en": "Happy Eid and many happy returns.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "عيدكم مبروك! – عيدك مبروك.",
+        "tr": "3īdkum mabrūk! – 3īdik mabrūk.",
+        "en": "Happy Eid! – Happy Eid to you."
+      },
+      {
+        "ar": "عيدك مبروك يا ماما",
+        "tr": "3īdik mabrūk ya māma",
+        "en": "Happy Eid, mom"
+      }
+    ]
   },
   {
     "ar": "رمضان كريم",
@@ -1001,7 +2133,20 @@
     "ex_ar": "رمضان كريم على الجميع.",
     "ex_tr": "ramaDān karīm 3la ijjamī3.",
     "ex_en": "Happy Ramadan to everyone.",
-    "note": "Reply: الله أكرم allah akram."
+    "note": "Reply: الله أكرم allah akram.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "رمضان كريم! – الله أكرم.",
+        "tr": "ramaDān karīm! – allah akram.",
+        "en": "Happy Ramadan! – God is more generous."
+      },
+      {
+        "ar": "رمضان كريم عليكم يا جماعة",
+        "tr": "ramaDān karīm 3alēkum ya jmā3a",
+        "en": "Happy Ramadan to you all"
+      }
+    ]
   },
   {
     "ar": "بالتوفيق",
@@ -1013,7 +2158,20 @@
     "freq": 1,
     "ex_ar": "بالتوفيق في الامتحان!",
     "ex_tr": "bittawfīg fi ilimti7ān!",
-    "ex_en": "Good luck in the exam!"
+    "ex_en": "Good luck in the exam!",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "بالتوفيق في الخدمة الجديدة",
+        "tr": "bittawfīg fil-khidma ijjdīda",
+        "en": "Good luck in the new job"
+      },
+      {
+        "ar": "بالتوفيق! – صحيت، إن شاء الله.",
+        "tr": "bittawfīg! – Sa77ēt, inshallah.",
+        "en": "Good luck! – Thanks, hopefully."
+      }
+    ]
   },
   {
     "ar": "ربي يوفقك",
@@ -1025,7 +2183,20 @@
     "freq": 2,
     "ex_ar": "ربي يوفقك في خدمتك الجديدة.",
     "ex_tr": "rabbi ywaffgik fi khidmtik ijjdīda.",
-    "ex_en": "Good luck in your new job."
+    "ex_en": "Good luck in your new job.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "ربي يوفقك! – آمين، وياك.",
+        "tr": "rabbi ywaffgik! – āmīn, w-iyyāk.",
+        "en": "May God help you succeed! – Amen, you too."
+      },
+      {
+        "ar": "ربي يوفقكم في قرايتكم",
+        "tr": "rabbi ywaffigkum fi grāyitkum",
+        "en": "May God grant you success in your studies"
+      }
+    ]
   },
   {
     "ar": "ربي يحفظك",
@@ -1037,7 +2208,20 @@
     "freq": 2,
     "ex_ar": "ربي يحفظك يا وليدي.",
     "ex_tr": "rabbi ya7fDHik ya wlīdi.",
-    "ex_en": "God protect you, my son."
+    "ex_en": "God protect you, my son.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "ربي يحفظك ويخليك",
+        "tr": "rabbi ya7fDHik w-ykhallīk",
+        "en": "God protect you and keep you"
+      },
+      {
+        "ar": "ربي يحفظكم في الطريق",
+        "tr": "rabbi ya7fDHkum fiTTrīg",
+        "en": "God protect you on the road"
+      }
+    ]
   },
   {
     "ar": "الله غالب",
@@ -1050,7 +2234,20 @@
     "ex_ar": "حبيت نساعدك أما الله غالب.",
     "ex_tr": "7abbēt nsā3dik amma allah ghālib.",
     "ex_en": "I wanted to help you but there was nothing I could do.",
-    "note": "Very common Libyan expression of resignation."
+    "note": "Very common Libyan expression of resignation.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "الله غالب، ما عندي فلوس",
+        "tr": "allah ghālib, ma 3andi flūs",
+        "en": "It can't be helped, I've no money"
+      },
+      {
+        "ar": "نبي نجي أما الله غالب",
+        "tr": "nibbi nji amma allah ghālib",
+        "en": "I want to come but it's out of my hands"
+      }
+    ]
   },
   {
     "ar": "على راسي",
@@ -1062,7 +2259,20 @@
     "freq": 2,
     "ex_ar": "تبي شاهي؟ – على راسي!",
     "ex_tr": "tibbi shāhi? – 3la rāsi!",
-    "ex_en": "Want tea? – Gladly!"
+    "ex_en": "Want tea? – Gladly!",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "على راسي يا حاج",
+        "tr": "3la rāsi ya 7ājj",
+        "en": "With pleasure, sir"
+      },
+      {
+        "ar": "نجيبهولك؟ – على راسي وعيني!",
+        "tr": "njībhūlik? – 3la rāsi w-3ēni!",
+        "en": "Shall I bring it for you? – I'd be delighted!"
+      }
+    ]
   },
   {
     "ar": "من عيني",
@@ -1074,7 +2284,20 @@
     "freq": 2,
     "ex_ar": "ساعدني بالله. – من عيني.",
     "ex_tr": "sā3idni b-allāh. – min 3ēni.",
-    "ex_en": "Help me please. – Gladly."
+    "ex_en": "Help me please. – Gladly.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "من عيني، توا نجيبه",
+        "tr": "min 3ēni, tawwa njība",
+        "en": "Gladly, I'll bring it right now"
+      },
+      {
+        "ar": "تبي حاجة؟ قول، من عيني",
+        "tr": "tibbi 7āja? gūl, min 3ēni",
+        "en": "Need anything? Just say, gladly"
+      }
+    ]
   },
   {
     "ar": "على كيفك",
@@ -1086,7 +2309,25 @@
     "freq": 2,
     "ex_ar": "امشي على كيفك، ما فيش زربة.",
     "ex_tr": "imshi 3la kēfik, ma fīsh zarba.",
-    "ex_en": "Go at your own pace, there's no rush."
+    "ex_en": "Go at your own pace, there's no rush.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "على كيفك، ما فيش زربة",
+        "tr": "3la kēfik, ma fīsh zarba",
+        "en": "Take your time, no hurry"
+      },
+      {
+        "ar": "سوق على كيفك",
+        "tr": "sūg 3la kēfik",
+        "en": "Drive slowly / carefully"
+      },
+      {
+        "ar": "هذا على كيفك انت",
+        "tr": "hādha 3la kēfik inta",
+        "en": "That's up to you"
+      }
+    ]
   },
   {
     "ar": "كيف ما تبي",
@@ -1098,7 +2339,20 @@
     "freq": 1,
     "ex_ar": "نمشوا توا ولا بعدين؟ – كيف ما تبي.",
     "ex_tr": "nimshu tawwa walla ba3dēn? – kīf ma tibbi.",
-    "ex_en": "Shall we go now or later? – As you wish."
+    "ex_en": "Shall we go now or later? – As you wish.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "كيف ما تبي، انت حر",
+        "tr": "kīf ma tibbi, inta 7urr",
+        "en": "As you wish, you're free"
+      },
+      {
+        "ar": "ديرها كيف ما تبي",
+        "tr": "dīrha kīf ma tibbi",
+        "en": "Do it however you want"
+      }
+    ]
   },
   {
     "ar": "بالراحة",
@@ -1110,7 +2364,25 @@
     "freq": 1,
     "ex_ar": "بالراحة، الطريق مزحومة.",
     "ex_tr": "birrā7a, iTTrīg maz7ūma.",
-    "ex_en": "Take it easy, the road is busy."
+    "ex_en": "Take it easy, the road is busy.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "بالراحة على روحك",
+        "tr": "birrā7a 3la rō7ik",
+        "en": "Take it easy on yourself"
+      },
+      {
+        "ar": "بالراحة، الصغير راقد",
+        "tr": "birrā7a, iSSghīr rāgid",
+        "en": "Quietly, the baby is asleep"
+      },
+      {
+        "ar": "تكلم بالراحة",
+        "tr": "titkallam birrā7a",
+        "en": "Speak slowly"
+      }
+    ]
   },
   {
     "ar": "ما تقلقش",
@@ -1123,7 +2395,20 @@
     "ex_ar": "ما تقلقش، كل شي باهي.",
     "ex_tr": "ma tiglagsh, kull shī bāhi.",
     "ex_en": "Don't worry, everything's fine.",
-    "note": "Careful: in Libyan قلق galag often means 'to get bored/fed up'; context decides."
+    "note": "Careful: in Libyan قلق galag often means 'to get bored/fed up'; context decides.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "ما تقلقش، نجي بكري",
+        "tr": "ma tiglagsh, nji bakri",
+        "en": "Don't worry, I'll come early"
+      },
+      {
+        "ar": "ما تقلقيش يا ماما",
+        "tr": "ma tiglagīsh ya māma",
+        "en": "Don't worry, mom"
+      }
+    ]
   },
   {
     "ar": "حرام",
@@ -1135,7 +2420,25 @@
     "freq": 1,
     "ex_ar": "حرام عليك، خليه في حاله!",
     "ex_tr": "7arām 3alēk, khallīh fi 7ālah!",
-    "ex_en": "Shame on you, leave him alone!"
+    "ex_en": "Shame on you, leave him alone!",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "حرام عليك!",
+        "tr": "7arām 3alēk!",
+        "en": "Shame on you! / That's not fair!"
+      },
+      {
+        "ar": "حرام، الولد تعبان",
+        "tr": "7arām, ilwild ta3bān",
+        "en": "Poor thing, the boy is tired"
+      },
+      {
+        "ar": "الكذب حرام",
+        "tr": "ilkidhb 7arām",
+        "en": "Lying is forbidden"
+      }
+    ]
   },
   {
     "ar": "عيب",
@@ -1147,7 +2450,20 @@
     "freq": 1,
     "ex_ar": "عيب، ما تقولش هكي.",
     "ex_tr": "3ēb, ma tgūlsh hakki.",
-    "ex_en": "Shame, don't say that."
+    "ex_en": "Shame, don't say that.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "عيب عليك يا ولد!",
+        "tr": "3ēb 3alēk ya wild!",
+        "en": "Shame on you, boy!"
+      },
+      {
+        "ar": "هذا عيب قدام الناس",
+        "tr": "hādha 3ēb guddām innās",
+        "en": "That's shameful in front of people"
+      }
+    ]
   },
   {
     "ar": "يا ريت",
@@ -1159,7 +2475,20 @@
     "freq": 2,
     "ex_ar": "يا ريت نقدر نجي.",
     "ex_tr": "ya rēt nigdar nji.",
-    "ex_en": "I wish I could come."
+    "ex_en": "I wish I could come.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "يا ريت نقدر نسافر",
+        "tr": "ya rēt nigdar nsāfir",
+        "en": "I wish I could travel"
+      },
+      {
+        "ar": "تجي معانا؟ – يا ريت!",
+        "tr": "tiji m3āna? – ya rēt!",
+        "en": "Coming with us? – I wish!"
+      }
+    ]
   },
   {
     "ar": "يا خسارة",
@@ -1171,7 +2500,20 @@
     "freq": 2,
     "ex_ar": "ما لحقتش الطيارة؟ يا خسارة!",
     "ex_tr": "ma l7agtish iTTayyāra? ya khsāra!",
-    "ex_en": "You missed the plane? What a pity!"
+    "ex_en": "You missed the plane? What a pity!",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "يا خسارة، الحانوت مسكر",
+        "tr": "ya khsāra, il7ānūt msakkar",
+        "en": "Too bad, the shop is closed"
+      },
+      {
+        "ar": "خسرنا الماتش؟ يا خسارة!",
+        "tr": "khsirna ilmātsh? ya khsāra!",
+        "en": "We lost the match? What a pity!"
+      }
+    ]
   },
   {
     "ar": "يا ساتر",
@@ -1183,7 +2525,20 @@
     "freq": 3,
     "ex_ar": "يا ساتر، شن صار؟",
     "ex_tr": "ya sātir, shin Sār?",
-    "ex_en": "Oh my God, what happened?"
+    "ex_en": "Oh my God, what happened?",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "يا ساتر، شن هالزحمة!",
+        "tr": "ya sātir, shin hazza7ma!",
+        "en": "Good grief, what traffic!"
+      },
+      {
+        "ar": "يا ساتر استر",
+        "tr": "ya sātir ustur",
+        "en": "Oh God, protect us"
+      }
+    ]
   },
   {
     "ar": "يا ربي",
@@ -1195,7 +2550,20 @@
     "freq": 2,
     "ex_ar": "يا ربي، نسيت المفاتيح!",
     "ex_tr": "ya rabbi, nsīt ilmfātī7!",
-    "ex_en": "Oh God, I forgot the keys!"
+    "ex_en": "Oh God, I forgot the keys!",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "يا ربي، شن هالحر!",
+        "tr": "ya rabbi, shin hal7arr!",
+        "en": "Oh God, what heat!"
+      },
+      {
+        "ar": "يا ربي تجي على خير",
+        "tr": "ya rabbi tji 3la khēr",
+        "en": "Oh Lord, may it turn out well"
+      }
+    ]
   },
   {
     "ar": "يا راجل",
@@ -1207,7 +2575,20 @@
     "freq": 2,
     "ex_ar": "يا راجل! معقول؟",
     "ex_tr": "ya rājil! ma3gūl?",
-    "ex_en": "Come on, man! Really?"
+    "ex_en": "Come on, man! Really?",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "يا راجل، ما نصدقش!",
+        "tr": "ya rājil, ma nSaddigsh!",
+        "en": "Come on, man, I don't believe it!"
+      },
+      {
+        "ar": "يا راجل خليها على الله",
+        "tr": "ya rājil khallīha 3la allah",
+        "en": "Come on, man, leave it to God"
+      }
+    ]
   },
   {
     "ar": "معقول",
@@ -1219,7 +2600,25 @@
     "freq": 2,
     "ex_ar": "معقول! ما صدقتش.",
     "ex_tr": "ma3gūl! ma Saddagtish.",
-    "ex_en": "Really! I couldn't believe it."
+    "ex_en": "Really! I couldn't believe it.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "معقول هكي؟",
+        "tr": "ma3gūl hakki?",
+        "en": "Can it really be like that?"
+      },
+      {
+        "ar": "السوم معقول",
+        "tr": "issōm ma3gūl",
+        "en": "The price is reasonable"
+      },
+      {
+        "ar": "مش معقول!",
+        "tr": "mush ma3gūl!",
+        "en": "Unbelievable!"
+      }
+    ]
   },
   {
     "ar": "طبعا",
@@ -1231,7 +2630,20 @@
     "freq": 1,
     "ex_ar": "طبعا نعرفه، هذا جاري.",
     "ex_tr": "Tab3an n3arfa, hādha jāri.",
-    "ex_en": "Of course I know him, he's my neighbour."
+    "ex_en": "Of course I know him, he's my neighbour.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "تجي؟ – طبعا!",
+        "tr": "tiji? – Tab3an!",
+        "en": "Are you coming? – Of course!"
+      },
+      {
+        "ar": "طبعا لا",
+        "tr": "Tab3an la",
+        "en": "Of course not"
+      }
+    ]
   },
   {
     "ar": "بالضبط",
@@ -1243,7 +2655,20 @@
     "freq": 2,
     "ex_ar": "بالضبط، هذا اللي نبي نقوله.",
     "ex_tr": "biDDabT, hādha illi nibbi ngūla.",
-    "ex_en": "Exactly, that's what I want to say."
+    "ex_en": "Exactly, that's what I want to say.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "بالضبط، عندك الحق",
+        "tr": "biDDabT, 3andik il7agg",
+        "en": "Exactly, you're right"
+      },
+      {
+        "ar": "نجي الساعة خمسة بالضبط",
+        "tr": "nji issā3a khamsa biDDabT",
+        "en": "I'll come at exactly five"
+      }
+    ]
   },
   {
     "ar": "صح",
@@ -1255,7 +2680,25 @@
     "freq": 1,
     "ex_ar": "صح، عندك الحق.",
     "ex_tr": "Sa77, 3andik il7agg.",
-    "ex_en": "Right, you have a point."
+    "ex_en": "Right, you have a point.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "صح ولا لا؟",
+        "tr": "Sa77 walla la?",
+        "en": "Right or not?"
+      },
+      {
+        "ar": "كلامك صح",
+        "tr": "kalāmik Sa77",
+        "en": "What you say is right"
+      },
+      {
+        "ar": "صح، نسيت",
+        "tr": "Sa77, nsīt",
+        "en": "Right, I forgot"
+      }
+    ]
   },
   {
     "ar": "مية مية",
@@ -1267,7 +2710,20 @@
     "freq": 2,
     "ex_ar": "الخدمة مية مية.",
     "ex_tr": "ilkhidma miyya miyya.",
-    "ex_en": "The work is perfect."
+    "ex_en": "The work is perfect.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "كل شي مية مية",
+        "tr": "kull shi miyya miyya",
+        "en": "Everything is perfect"
+      },
+      {
+        "ar": "متأكد؟ – مية مية!",
+        "tr": "mit'akkid? – miyya miyya!",
+        "en": "Sure? – A hundred percent!"
+      }
+    ]
   },
   {
     "ar": "مش مهم",
@@ -1279,7 +2735,20 @@
     "freq": 1,
     "ex_ar": "نسيت؟ مش مهم.",
     "ex_tr": "nsīt? mush muhimm.",
-    "ex_en": "You forgot? Doesn't matter."
+    "ex_en": "You forgot? Doesn't matter.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "مش مهم، نجيبها غدوة",
+        "tr": "mush muhimm, njībha ghudwa",
+        "en": "It doesn't matter, I'll bring it tomorrow"
+      },
+      {
+        "ar": "الفلوس مش مهم",
+        "tr": "ilflūs mush muhimm",
+        "en": "The money doesn't matter"
+      }
+    ]
   },
   {
     "ar": "الله يهديك",
@@ -1292,7 +2761,20 @@
     "ex_ar": "الله يهديك، خلي خوك يلعب.",
     "ex_tr": "allah yahdīk, khalli khūk yil3ab.",
     "ex_en": "Come on, let your brother play.",
-    "note": "Mild rebuke, often affectionate."
+    "note": "Mild rebuke, often affectionate.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "الله يهديك، اسكت شوية",
+        "tr": "allah yahdīk, uskut shwayya",
+        "en": "Come on, be quiet a bit"
+      },
+      {
+        "ar": "الله يهديكم يا صغار",
+        "tr": "allah yahdīkum ya Sghār",
+        "en": "Behave, kids"
+      }
+    ]
   },
   {
     "ar": "دبر راسك",
@@ -1305,7 +2787,20 @@
     "ex_ar": "ما عنديش وقت، دبر راسك.",
     "ex_tr": "ma 3andīsh wagt, dabbir rāsik.",
     "ex_en": "I don't have time, figure it out yourself.",
-    "note": "Imperative of دبر dabbar; imperfect يدبر ydabbir."
+    "note": "Imperative of دبر dabbar; imperfect يدبر ydabbir.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "دبر راسك، مش شغلي",
+        "tr": "dabbir rāsik, mush shughli",
+        "en": "Sort yourself out, it's not my business"
+      },
+      {
+        "ar": "لازم ندبر راسي",
+        "tr": "lāzim ndabbir rāsi",
+        "en": "I have to manage on my own"
+      }
+    ]
   },
   {
     "ar": "إن شاء الله خير",
@@ -1317,7 +2812,20 @@
     "freq": 2,
     "ex_ar": "اتصلت بيك نص الليل؟ إن شاء الله خير!",
     "ex_tr": "ittaSlat bīk nuSS illēl? inshallah khēr!",
-    "ex_en": "She called you at midnight? Hope all is well!"
+    "ex_en": "She called you at midnight? Hope all is well!",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "جيت بدري؟ إن شاء الله خير",
+        "tr": "jīt badri? inshallah khēr",
+        "en": "You came early? I hope all is well"
+      },
+      {
+        "ar": "حلمت بيك البارح، إن شاء الله خير",
+        "tr": "7lamt bīk ilbāri7, inshallah khēr",
+        "en": "I dreamed of you last night, hope it's a good sign"
+      }
+    ]
   },
   {
     "ar": "خير إن شاء الله",
@@ -1329,7 +2837,20 @@
     "freq": 2,
     "ex_ar": "خير إن شاء الله، علاش جيت بدري؟",
     "ex_tr": "khēr inshallah, 3lāsh jīt badri?",
-    "ex_en": "Is everything OK? Why did you come early?"
+    "ex_en": "Is everything OK? Why did you come early?",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "خير إن شاء الله، شن فيه؟",
+        "tr": "khēr inshallah, shin fīh?",
+        "en": "Is everything OK? What's going on?"
+      },
+      {
+        "ar": "خير إن شاء الله؟ – خير، ما تخافش.",
+        "tr": "khēr inshallah? – khēr, ma tkhāfsh.",
+        "en": "Everything OK? – Yes, don't worry."
+      }
+    ]
   },
   {
     "ar": "كبير",
@@ -1342,7 +2863,25 @@
     "ex_ar": "الحوش هذا كبير هلبة.",
     "ex_tr": "il7ōsh hādha kbīr hallba.",
     "ex_en": "This house is very big.",
-    "note": "fem. كبيرة kbīra; pl. كبار kbār."
+    "note": "fem. كبيرة kbīra; pl. كبار kbār.",
+    "usage": 93,
+    "phrases": [
+      {
+        "ar": "خوي الكبير",
+        "tr": "khūy ilkbīr",
+        "en": "My older brother"
+      },
+      {
+        "ar": "كبرت ولا مازلت صغير؟",
+        "tr": "kbirt walla māzilt Sghīr?",
+        "en": "Have you grown up or are you still little?"
+      },
+      {
+        "ar": "الدار كبيرة هلبة",
+        "tr": "iddār kbīra hallba",
+        "en": "The house is very big"
+      }
+    ]
   },
   {
     "ar": "صغير",
@@ -1355,7 +2894,25 @@
     "ex_ar": "عندي أخت صغيرة.",
     "ex_tr": "3andi ukht Sghīra.",
     "ex_en": "I have a little sister.",
-    "note": "fem. صغيرة Sghīra; pl. صغار Sghār."
+    "note": "fem. صغيرة Sghīra; pl. صغار Sghār.",
+    "usage": 93,
+    "phrases": [
+      {
+        "ar": "بنتي الصغيرة",
+        "tr": "binti iSSghīra",
+        "en": "My little daughter"
+      },
+      {
+        "ar": "الحوش صغير علينا",
+        "tr": "il7ōsh Sghīr 3alēna",
+        "en": "The house is too small for us"
+      },
+      {
+        "ar": "من وأنا صغير",
+        "tr": "min w-āna Sghīr",
+        "en": "Since I was little"
+      }
+    ]
   },
   {
     "ar": "باهي",
@@ -1368,7 +2925,25 @@
     "ex_ar": "الماكلة باهية هلبة.",
     "ex_tr": "ilmākla bāhya hallba.",
     "ex_en": "The food is really good.",
-    "note": "fem. باهية bāhya; pl. باهيين bāhyīn. The most typical Libyan word for 'good'; alone it means 'OK'."
+    "note": "fem. باهية bāhya; pl. باهيين bāhyīn. The most typical Libyan word for 'good'; alone it means 'OK'.",
+    "usage": 98,
+    "phrases": [
+      {
+        "ar": "باهي، نجي معاك",
+        "tr": "bāhi, nji m3āk",
+        "en": "OK, I'll come with you"
+      },
+      {
+        "ar": "هذا باهي هلبة",
+        "tr": "hādha bāhi hallba",
+        "en": "This is really good"
+      },
+      {
+        "ar": "باهي؟ – باهي.",
+        "tr": "bāhi? – bāhi.",
+        "en": "OK? – OK."
+      }
+    ]
   },
   {
     "ar": "خايب",
@@ -1381,7 +2956,25 @@
     "ex_ar": "الجو اليوم خايب.",
     "ex_tr": "ijjaww ilyōm khāyib.",
     "ex_en": "The weather today is bad.",
-    "note": "fem. خايبة khāyba. Libyan/Maghrebi everyday word for bad."
+    "note": "fem. خايبة khāyba. Libyan/Maghrebi everyday word for bad.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "الخدمة هذي خايبة",
+        "tr": "ilkhidma hādhi khāyba",
+        "en": "This work is bad"
+      },
+      {
+        "ar": "مش خايب",
+        "tr": "mush khāyib",
+        "en": "Not bad"
+      },
+      {
+        "ar": "عندي خبر خايب",
+        "tr": "3andi khbar khāyib",
+        "en": "I have bad news"
+      }
+    ]
   },
   {
     "ar": "شين",
@@ -1394,7 +2987,20 @@
     "ex_ar": "هالكرهبة شينة.",
     "ex_tr": "halkarhba shēna.",
     "ex_en": "This car is ugly.",
-    "note": "fem. شينة shēna; Maghrebi."
+    "note": "fem. شينة shēna; Maghrebi.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "حاجة شينة هلبة",
+        "tr": "7āja shēna hallba",
+        "en": "A really ugly thing"
+      },
+      {
+        "ar": "الكلام هذا شين",
+        "tr": "ilkalām hādha shēn",
+        "en": "That kind of talk is bad"
+      }
+    ]
   },
   {
     "ar": "جديد",
@@ -1407,7 +3013,25 @@
     "ex_ar": "شريت تليفون جديد.",
     "ex_tr": "shrēt tilifōn jdīd.",
     "ex_en": "I bought a new phone.",
-    "note": "fem. جديدة jdīda; pl. جداد jdād."
+    "note": "fem. جديدة jdīda; pl. جداد jdād.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "شن الجديد؟",
+        "tr": "shin ijjdīd?",
+        "en": "What's new?"
+      },
+      {
+        "ar": "حوايج جداد للعيد",
+        "tr": "7wāyij jdād lil3īd",
+        "en": "New clothes for Eid"
+      },
+      {
+        "ar": "الكرهبة جديدة",
+        "tr": "ilkarhba jdīda",
+        "en": "The car is new"
+      }
+    ]
   },
   {
     "ar": "قديم",
@@ -1420,7 +3044,25 @@
     "ex_ar": "المدينة القديمة في طرابلس حلوة.",
     "ex_tr": "ilmdīna ilgdīma fi Trābulus 7ilwa.",
     "ex_en": "The old city in Tripoli is lovely.",
-    "note": "fem. قديمة gdīma; pl. قدام gdām. For people use كبير or شايب."
+    "note": "fem. قديمة gdīma; pl. قدام gdām. For people use كبير or شايب.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "حوش قديم في المدينة",
+        "tr": "7ōsh gdīm fil-mdīna",
+        "en": "An old house in the old town"
+      },
+      {
+        "ar": "صاحبي القديم",
+        "tr": "Sā7bi ilgdīm",
+        "en": "My old friend"
+      },
+      {
+        "ar": "التليفون هذا قديم هلبة",
+        "tr": "ittilīfūn hādha gdīm hallba",
+        "en": "This phone is very old"
+      }
+    ]
   },
   {
     "ar": "سخون",
@@ -1433,7 +3075,20 @@
     "ex_ar": "الشاهي سخون، بالراحة.",
     "ex_tr": "ishshāhi skhūn, birrā7a.",
     "ex_en": "The tea is hot, careful.",
-    "note": "fem. سخونة skhūna. Also used for hot weather: الجو سخون."
+    "note": "fem. سخونة skhūna. Also used for hot weather: الجو سخون.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "الماكلة سخونة",
+        "tr": "ilmākla skhūna",
+        "en": "The food is hot"
+      },
+      {
+        "ar": "نبي موية سخونة",
+        "tr": "nibbi mōya skhūna",
+        "en": "I want hot water"
+      }
+    ]
   },
   {
     "ar": "بارد",
@@ -1446,7 +3101,20 @@
     "ex_ar": "نبي ماء بارد.",
     "ex_tr": "nibbi mā bārid.",
     "ex_en": "I want cold water.",
-    "note": "fem. باردة bārda."
+    "note": "fem. باردة bārda.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "الجو بارد اليوم",
+        "tr": "ijjaww bārid ilyōm",
+        "en": "It's cold today"
+      },
+      {
+        "ar": "عطيني حاجة باردة نشربها",
+        "tr": "3Tīni 7āja bārda nishrubha",
+        "en": "Give me something cold to drink"
+      }
+    ]
   },
   {
     "ar": "دافي",
@@ -1459,7 +3127,20 @@
     "ex_ar": "الحوش دافي في الشتاء.",
     "ex_tr": "il7ōsh dāfi fi ishshta.",
     "ex_en": "The house is warm in winter.",
-    "note": "fem. دافية dāfya."
+    "note": "fem. دافية dāfya.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "خبزة دافية",
+        "tr": "khubza dāfya",
+        "en": "Warm bread"
+      },
+      {
+        "ar": "البس حاجة دافية",
+        "tr": "ilbis 7āja dāfya",
+        "en": "Wear something warm"
+      }
+    ]
   },
   {
     "ar": "سريع",
@@ -1472,7 +3153,20 @@
     "ex_ar": "الكرهبة هذي سريعة.",
     "ex_tr": "ilkarhba hādhi sarī3a.",
     "ex_en": "This car is fast.",
-    "note": "fem. سريعة sarī3a. 'Quickly' is often بالفيسع bilfīsa3 in Libyan."
+    "note": "fem. سريعة sarī3a. 'Quickly' is often بالفيسع bilfīsa3 in Libyan.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "تعال سريع!",
+        "tr": "ta3āl sarī3!",
+        "en": "Come quickly!"
+      },
+      {
+        "ar": "الإنترنت سريع هني",
+        "tr": "il'internet sarī3 hni",
+        "en": "The internet is fast here"
+      }
+    ]
   },
   {
     "ar": "بطيء",
@@ -1485,7 +3179,20 @@
     "ex_ar": "الإنترنت بطيء اليوم.",
     "ex_tr": "il'internet baTī' ilyōm.",
     "ex_en": "The internet is slow today.",
-    "note": "fem. بطيئة baTī'a. Colloquially a slow person is also called ثقيل."
+    "note": "fem. بطيئة baTī'a. Colloquially a slow person is also called ثقيل.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "الطابور بطيء هلبة",
+        "tr": "iTTābūr baTī' hallba",
+        "en": "The queue is very slow"
+      },
+      {
+        "ar": "الكمبيوتر هذا بطيء",
+        "tr": "ilkombyūtar hādha baTī'",
+        "en": "This computer is slow"
+      }
+    ]
   },
   {
     "ar": "ثقيل",
@@ -1498,7 +3205,20 @@
     "ex_ar": "الشنطة هذي ثقيلة.",
     "ex_tr": "ishshanTa hādhi thgīla.",
     "ex_en": "This bag is heavy.",
-    "note": "fem. ثقيلة thgīla; pl. ثقال thgāl."
+    "note": "fem. ثقيلة thgīla; pl. ثقال thgāl.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "دمه ثقيل",
+        "tr": "damma thgīl",
+        "en": "He's unpleasant (lit. his blood is heavy)"
+      },
+      {
+        "ar": "الشنطة ثقيلة عليك؟",
+        "tr": "ishshanTa thgīla 3alēk?",
+        "en": "Is the bag too heavy for you?"
+      }
+    ]
   },
   {
     "ar": "خفيف",
@@ -1511,7 +3231,20 @@
     "ex_ar": "الشاهي خفيف اليوم.",
     "ex_tr": "ishshāhi khfīf ilyōm.",
     "ex_en": "The tea is weak today.",
-    "note": "fem. خفيفة khfīfa; خفيف الدم = funny, likeable."
+    "note": "fem. خفيفة khfīfa; خفيف الدم = funny, likeable.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "دمه خفيف",
+        "tr": "damma khfīf",
+        "en": "He's fun to be around (lit. his blood is light)"
+      },
+      {
+        "ar": "عطيني حاجة خفيفة ناكلها",
+        "tr": "3Tīni 7āja khfīfa nākilha",
+        "en": "Give me something light to eat"
+      }
+    ]
   },
   {
     "ar": "ساهل",
@@ -1524,7 +3257,20 @@
     "ex_ar": "الامتحان كان ساهل.",
     "ex_tr": "ilimti7ān kān sāhil.",
     "ex_en": "The exam was easy.",
-    "note": "fem. ساهلة sāhla."
+    "note": "fem. ساهلة sāhla.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "مش ساهل",
+        "tr": "mush sāhil",
+        "en": "It's not easy"
+      },
+      {
+        "ar": "الطريق ساهلة، ما تتلفش",
+        "tr": "iTTrīg sāhla, ma titlifsh",
+        "en": "The way is easy, you won't get lost"
+      }
+    ]
   },
   {
     "ar": "صعيب",
@@ -1537,7 +3283,20 @@
     "ex_ar": "الخدمة هذي صعيبة.",
     "ex_tr": "ilkhidma hādhi S3ība.",
     "ex_en": "This work is hard.",
-    "note": "fem. صعيبة S3ība."
+    "note": "fem. صعيبة S3ība.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "الحياة صعيبة",
+        "tr": "il7ayā S3ība",
+        "en": "Life is hard"
+      },
+      {
+        "ar": "مش صعيب، جرب",
+        "tr": "mush S3īb, jarrib",
+        "en": "It's not hard, try"
+      }
+    ]
   },
   {
     "ar": "غني",
@@ -1550,7 +3309,20 @@
     "ex_ar": "جارنا غني هلبة.",
     "ex_tr": "jārna ghani hallba.",
     "ex_en": "Our neighbour is very rich.",
-    "note": "fem. غنية ghaniyya; pl. أغنياء aghniyā."
+    "note": "fem. غنية ghaniyya; pl. أغنياء aghniyā.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "عيلة غنية",
+        "tr": "3ēla ghanya",
+        "en": "A rich family"
+      },
+      {
+        "ar": "لو كنت غني نشري حوش",
+        "tr": "law kunt ghani nishri 7ōsh",
+        "en": "If I were rich I'd buy a house"
+      }
+    ]
   },
   {
     "ar": "فقير",
@@ -1563,7 +3335,20 @@
     "ex_ar": "ساعد الناس الفقرا.",
     "ex_tr": "sā3id innās ilfugra.",
     "ex_en": "Help poor people.",
-    "note": "fem. فقيرة fgīra; pl. فقرا fugra."
+    "note": "fem. فقيرة fgīra; pl. فقرا fugra.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "الناس الفقرا في الحومة",
+        "tr": "innās ilfugra fil-7ōma",
+        "en": "The poor people in the neighborhood"
+      },
+      {
+        "ar": "كان فقير وتوا غني",
+        "tr": "kān fgīr w-tawwa ghani",
+        "en": "He was poor and now he's rich"
+      }
+    ]
   },
   {
     "ar": "مسكين",
@@ -1576,7 +3361,20 @@
     "ex_ar": "مسكين، تعب هلبة.",
     "ex_tr": "miskīn, ti3ib hallba.",
     "ex_en": "Poor thing, he's very tired.",
-    "note": "fem. مسكينة miskīna; pl. مساكين msākīn."
+    "note": "fem. مسكينة miskīna; pl. مساكين msākīn.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "يا مسكين!",
+        "tr": "ya miskīn!",
+        "en": "You poor thing!"
+      },
+      {
+        "ar": "المسكينة مريضة من جمعة",
+        "tr": "ilmiskīna marīDa min jum3a",
+        "en": "The poor woman has been sick for a week"
+      }
+    ]
   },
   {
     "ar": "نظيف",
@@ -1589,7 +3387,20 @@
     "ex_ar": "الكوزينة نظيفة.",
     "ex_tr": "ilkūzīna nDHīfa.",
     "ex_en": "The kitchen is clean.",
-    "note": "fem. نظيفة nDHīfa."
+    "note": "fem. نظيفة nDHīfa.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "حوايج نظاف",
+        "tr": "7wāyij nDHāf",
+        "en": "Clean clothes"
+      },
+      {
+        "ar": "خلي الحوش نظيف",
+        "tr": "khalli il7ōsh nDHīf",
+        "en": "Keep the house clean"
+      }
+    ]
   },
   {
     "ar": "موسخ",
@@ -1602,7 +3413,20 @@
     "ex_ar": "حوايجك موسخين، بدلهم.",
     "ex_tr": "7wāyjik mwassikhīn, baddilhum.",
     "ex_en": "Your clothes are dirty, change them.",
-    "note": "fem. موسخة mwassikha; pl. موسخين."
+    "note": "fem. موسخة mwassikha; pl. موسخين.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "الكرهبة موسخة، لازم نغسلها",
+        "tr": "ilkarhba mwassikha, lāzim nighsilha",
+        "en": "The car is dirty, I need to wash it"
+      },
+      {
+        "ar": "ايديك موسخين",
+        "tr": "īdēk mwassikhīn",
+        "en": "Your hands are dirty"
+      }
+    ]
   },
   {
     "ar": "مليان",
@@ -1615,7 +3439,20 @@
     "ex_ar": "الكاس مليان.",
     "ex_tr": "ilkās malyān.",
     "ex_en": "The glass is full.",
-    "note": "fem. مليانة malyāna."
+    "note": "fem. مليانة malyāna.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "الثلاجة مليانة",
+        "tr": "ittallāja malyāna",
+        "en": "The fridge is full"
+      },
+      {
+        "ar": "البلاصة مليانة ناس",
+        "tr": "ilblāSa malyāna nās",
+        "en": "The place is full of people"
+      }
+    ]
   },
   {
     "ar": "فاضي",
@@ -1628,7 +3465,20 @@
     "ex_ar": "انت فاضي العشية؟",
     "ex_tr": "inta fāDi il3ashiyya?",
     "ex_en": "Are you free this afternoon?",
-    "note": "fem. فاضية fāDya."
+    "note": "fem. فاضية fāDya.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "الكرسي هذا فاضي؟",
+        "tr": "ilkursi hādha fāDi?",
+        "en": "Is this chair free?"
+      },
+      {
+        "ar": "الثلاجة فاضية",
+        "tr": "ittallāja fāDya",
+        "en": "The fridge is empty"
+      }
+    ]
   },
   {
     "ar": "غالي",
@@ -1641,7 +3491,25 @@
     "ex_ar": "اللحم غالي هالأيام.",
     "ex_tr": "illa7am ghāli hal'ayyām.",
     "ex_en": "Meat is expensive these days.",
-    "note": "fem. غالية ghālya."
+    "note": "fem. غالية ghālya.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "غالي هلبة!",
+        "tr": "ghāli hallba!",
+        "en": "Very expensive!"
+      },
+      {
+        "ar": "صاحبي الغالي",
+        "tr": "Sā7bi ilghāli",
+        "en": "My dear friend"
+      },
+      {
+        "ar": "كل شي غالي توا",
+        "tr": "kull shi ghāli tawwa",
+        "en": "Everything is expensive now"
+      }
+    ]
   },
   {
     "ar": "رخيص",
@@ -1654,7 +3522,20 @@
     "ex_ar": "الخضرة رخيصة في السوق.",
     "ex_tr": "ilkhuDra rkhīSa fi issūg.",
     "ex_en": "Vegetables are cheap at the market.",
-    "note": "fem. رخيصة rkhīSa."
+    "note": "fem. رخيصة rkhīSa.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "فيه حاجة أرخص؟",
+        "tr": "fīh 7āja arkhaS?",
+        "en": "Is there something cheaper?"
+      },
+      {
+        "ar": "السوم رخيص",
+        "tr": "issōm rkhīS",
+        "en": "The price is cheap"
+      }
+    ]
   },
   {
     "ar": "زين",
@@ -1667,7 +3548,20 @@
     "ex_ar": "البحر زين اليوم.",
     "ex_tr": "ilba7r zēn ilyōm.",
     "ex_en": "The sea is beautiful today.",
-    "note": "fem. زينة zēna."
+    "note": "fem. زينة zēna. Also used as \"fine/OK\"; باهي is the everyday word for \"good\".",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "زين، نجي معاك",
+        "tr": "zēn, nji m3āk",
+        "en": "Fine, I'll come with you"
+      },
+      {
+        "ar": "بنية زينة",
+        "tr": "bnayya zēna",
+        "en": "A pretty girl"
+      }
+    ]
   },
   {
     "ar": "حلو",
@@ -1680,7 +3574,20 @@
     "ex_ar": "الفيلم كان حلو.",
     "ex_tr": "ilfilm kān 7ilu.",
     "ex_en": "The film was nice.",
-    "note": "fem. حلوة 7ilwa; pl. حلوين 7ilwīn."
+    "note": "fem. حلوة 7ilwa; pl. حلوين 7ilwīn.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "الشاهي حلو هلبة",
+        "tr": "ishshāhi 7ilu hallba",
+        "en": "The tea is very sweet"
+      },
+      {
+        "ar": "فكرة حلوة",
+        "tr": "fikra 7ilwa",
+        "en": "A nice idea"
+      }
+    ]
   },
   {
     "ar": "جميل",
@@ -1693,7 +3600,20 @@
     "ex_ar": "منظر جميل.",
     "ex_tr": "manDHar jmīl.",
     "ex_en": "A beautiful view.",
-    "note": "fem. جميلة jmīla. Also used to mean 'favour': عملتلي جميل."
+    "note": "fem. جميلة jmīla. Also used to mean 'favour': عملتلي جميل.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "يوم جميل",
+        "tr": "yōm jmīl",
+        "en": "A beautiful day"
+      },
+      {
+        "ar": "صوتها جميل",
+        "tr": "Sōtha jmīl",
+        "en": "Her voice is beautiful"
+      }
+    ]
   },
   {
     "ar": "طويل",
@@ -1706,7 +3626,20 @@
     "ex_ar": "خوي طويل هلبة.",
     "ex_tr": "khūy Twīl hallba.",
     "ex_en": "My brother is very tall.",
-    "note": "fem. طويلة Twīla; pl. طوال Twāl."
+    "note": "fem. طويلة Twīla; pl. طوال Twāl.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "الطريق طويلة",
+        "tr": "iTTrīg Twīla",
+        "en": "The road is long"
+      },
+      {
+        "ar": "نهار طويل",
+        "tr": "nhār Twīl",
+        "en": "A long day"
+      }
+    ]
   },
   {
     "ar": "قصير",
@@ -1719,7 +3652,20 @@
     "ex_ar": "الطريق قصيرة من هني.",
     "ex_tr": "iTTrīg gSīra min hni.",
     "ex_en": "The way is short from here.",
-    "note": "fem. قصيرة gSīra; pl. قصار gSār."
+    "note": "fem. قصيرة gSīra; pl. قصار gSār.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "هو قصير شوية",
+        "tr": "hu gSīr shwayya",
+        "en": "He's a bit short"
+      },
+      {
+        "ar": "شعرها قصير",
+        "tr": "sha3rha gSīr",
+        "en": "Her hair is short"
+      }
+    ]
   },
   {
     "ar": "سمين",
@@ -1732,7 +3678,20 @@
     "ex_ar": "القطوس هذا سمين.",
     "ex_tr": "ilgaTTūs hādha smīn.",
     "ex_en": "This cat is fat.",
-    "note": "fem. سمينة smīna; pl. سمان smān."
+    "note": "fem. سمينة smīna; pl. سمان smān.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "وليت سمين",
+        "tr": "wallēt smīn",
+        "en": "I've got fat"
+      },
+      {
+        "ar": "خروف سمين للعيد",
+        "tr": "khurūf smīn lil3īd",
+        "en": "A fat sheep for Eid"
+      }
+    ]
   },
   {
     "ar": "رقيق",
@@ -1745,7 +3704,20 @@
     "ex_ar": "وليت رقيق بعد الرجيم.",
     "ex_tr": "wallēt rgīg ba3d irrijīm.",
     "ex_en": "I became thin after the diet.",
-    "note": "fem. رقيقة rgīga. Libyan/Maghrebi for slim."
+    "note": "fem. رقيقة rgīga. Libyan/Maghrebi for slim.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "رقيق هلبة، كول شوية",
+        "tr": "rgīg hallba, kūl shwayya",
+        "en": "You're very thin, eat something"
+      },
+      {
+        "ar": "خبزة رقيقة",
+        "tr": "khubza rgīga",
+        "en": "A thin flatbread"
+      }
+    ]
   },
   {
     "ar": "قوي",
@@ -1758,7 +3730,20 @@
     "ex_ar": "الريح قوية اليوم.",
     "ex_tr": "irrī7 gawiyya ilyōm.",
     "ex_en": "The wind is strong today.",
-    "note": "fem. قوية gawiyya."
+    "note": "fem. قوية gawiyya.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "راجل قوي",
+        "tr": "rājil gawi",
+        "en": "A strong man"
+      },
+      {
+        "ar": "القهوة قوية",
+        "tr": "ilgahwa gawya",
+        "en": "The coffee is strong"
+      }
+    ]
   },
   {
     "ar": "ضعيف",
@@ -1771,7 +3756,20 @@
     "ex_ar": "الإشارة ضعيفة هني.",
     "ex_tr": "il'ishāra Da3īfa hni.",
     "ex_en": "The signal is weak here.",
-    "note": "fem. ضعيفة Da3īfa; pl. ضعاف D3āf."
+    "note": "fem. ضعيفة Da3īfa; pl. ضعاف D3āf.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "نظره ضعيف",
+        "tr": "naDHra Da3īf",
+        "en": "His eyesight is weak"
+      },
+      {
+        "ar": "حاسس روحي ضعيف",
+        "tr": "7āsis rō7i Da3īf",
+        "en": "I feel weak"
+      }
+    ]
   },
   {
     "ar": "واسع",
@@ -1784,7 +3782,20 @@
     "ex_ar": "السروال هذا واسع عليّ.",
     "ex_tr": "issirwāl hādha wāsi3 3alayya.",
     "ex_en": "These trousers are loose on me.",
-    "note": "fem. واسعة wās3a."
+    "note": "fem. واسعة wās3a.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "حوش واسع",
+        "tr": "7ōsh wāsi3",
+        "en": "A spacious house"
+      },
+      {
+        "ar": "القميص واسع عليك",
+        "tr": "ilgamīS wāsi3 3alēk",
+        "en": "The shirt is loose on you"
+      }
+    ]
   },
   {
     "ar": "ضيق",
@@ -1797,7 +3808,20 @@
     "ex_ar": "الزنقة ضيقة.",
     "ex_tr": "izzanga Dayyga.",
     "ex_en": "The alley is narrow.",
-    "note": "fem. ضيقة Dayyga."
+    "note": "fem. ضيقة Dayyga.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "الصباط ضيق عليّ",
+        "tr": "iSSabbāT Dayyig 3layya",
+        "en": "The shoes are tight on me"
+      },
+      {
+        "ar": "البلاصة ضيقة",
+        "tr": "ilblāSa Dayyga",
+        "en": "The place is cramped"
+      }
+    ]
   },
   {
     "ar": "عالي",
@@ -1810,7 +3834,20 @@
     "ex_ar": "الصوت عالي، وطيه شوية.",
     "ex_tr": "iSSōt 3āli, waTTīh shwayya.",
     "ex_en": "The volume is high, turn it down a bit.",
-    "note": "fem. عالية 3ālya."
+    "note": "fem. عالية 3ālya.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "عمارة عالية",
+        "tr": "3imāra 3ālya",
+        "en": "A tall building"
+      },
+      {
+        "ar": "تكلم بصوت عالي",
+        "tr": "titkallam bSōt 3āli",
+        "en": "He talks loudly"
+      }
+    ]
   },
   {
     "ar": "واطي",
@@ -1823,7 +3860,20 @@
     "ex_ar": "الكرسي هذا واطي.",
     "ex_tr": "ilkursi hādha wāTi.",
     "ex_en": "This chair is low.",
-    "note": "fem. واطية wāTya."
+    "note": "fem. واطية wāTya.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "الصوت واطي، علّيه",
+        "tr": "iSSōt wāTi, 3allīh",
+        "en": "The volume is low, turn it up"
+      },
+      {
+        "ar": "حيط واطي",
+        "tr": "7ēT wāTi",
+        "en": "A low wall"
+      }
+    ]
   },
   {
     "ar": "ناشف",
@@ -1836,7 +3886,20 @@
     "ex_ar": "الحوايج نشفوا؟ – ايه، ناشفين.",
     "ex_tr": "il7wāyij nishfu? – ēh, nāshfīn.",
     "ex_en": "Have the clothes dried? – Yes, they're dry.",
-    "note": "fem. ناشفة nāshfa."
+    "note": "fem. ناشفة nāshfa.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "خبز ناشف",
+        "tr": "khubz nāshif",
+        "en": "Dry bread"
+      },
+      {
+        "ar": "الحوايج ناشفين؟",
+        "tr": "il7wāyij nāshfīn?",
+        "en": "Are the clothes dry?"
+      }
+    ]
   },
   {
     "ar": "مبلول",
@@ -1849,7 +3912,20 @@
     "ex_ar": "شعرك مبلول.",
     "ex_tr": "sha3rik mablūl.",
     "ex_en": "Your hair is wet.",
-    "note": "fem. مبلولة mablūla."
+    "note": "fem. مبلولة mablūla.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "الحوايج مازالت مبلولة",
+        "tr": "il7wāyij māzālat mablūla",
+        "en": "The clothes are still wet"
+      },
+      {
+        "ar": "جيت مبلول من المطر",
+        "tr": "jīt mablūl min ilmTar",
+        "en": "I came soaked from the rain"
+      }
+    ]
   },
   {
     "ar": "مر",
@@ -1862,7 +3938,20 @@
     "ex_ar": "القهوة مرة بلا سكر.",
     "ex_tr": "ilgahwa murra bla sukkar.",
     "ex_en": "Coffee is bitter without sugar.",
-    "note": "fem. مرة murra."
+    "note": "fem. مرة murra.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "دوا مر",
+        "tr": "dwa murr",
+        "en": "Bitter medicine"
+      },
+      {
+        "ar": "الحقيقة مرة",
+        "tr": "il7agīga murra",
+        "en": "The truth is bitter"
+      }
+    ]
   },
   {
     "ar": "مالح",
@@ -1875,7 +3964,20 @@
     "ex_ar": "الشربة مالحة شوية.",
     "ex_tr": "ishshurba māl7a shwayya.",
     "ex_en": "The soup is a bit salty.",
-    "note": "fem. مالحة māl7a."
+    "note": "fem. مالحة māl7a.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "الحوت مالح هلبة",
+        "tr": "il7ūt māle7 hallba",
+        "en": "The fish is very salty"
+      },
+      {
+        "ar": "موية البحر مالحة",
+        "tr": "mōyit ilba7r māl7a",
+        "en": "Sea water is salty"
+      }
+    ]
   },
   {
     "ar": "حامض",
@@ -1888,7 +3990,20 @@
     "ex_ar": "القارص حامض.",
     "ex_tr": "ilgāriS 7āmiD.",
     "ex_en": "Lemon is sour.",
-    "note": "fem. حامضة 7āmDa. القارص is the Libyan word for lemon."
+    "note": "fem. حامضة 7āmDa. القارص is the Libyan word for lemon.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "ليمون حامض",
+        "tr": "lēmūn 7āmiD",
+        "en": "Sour lemon"
+      },
+      {
+        "ar": "الحليب ولّى حامض",
+        "tr": "il7līb walla 7āmiD",
+        "en": "The milk has gone sour"
+      }
+    ]
   },
   {
     "ar": "حار",
@@ -1901,7 +4016,20 @@
     "ex_ar": "الهريسة حارة هلبة.",
     "ex_tr": "ilhrīsa 7ārra hallba.",
     "ex_en": "The harissa is very spicy.",
-    "note": "fem. حارة 7ārra."
+    "note": "fem. حارة 7ārra.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "ما نبيش حار",
+        "tr": "ma nibbīsh 7ārr",
+        "en": "I don't want it spicy"
+      },
+      {
+        "ar": "الشربة حارة؟",
+        "tr": "ishshurba 7ārra?",
+        "en": "Is the soup spicy?"
+      }
+    ]
   },
   {
     "ar": "طري",
@@ -1914,7 +4042,20 @@
     "ex_ar": "الخبزة طرية.",
     "ex_tr": "ilkhubza Tariyya.",
     "ex_en": "The bread is soft.",
-    "note": "fem. طرية Tariyya."
+    "note": "fem. طرية Tariyya.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "خبز طري",
+        "tr": "khubz Tari",
+        "en": "Soft fresh bread"
+      },
+      {
+        "ar": "اللحم طري",
+        "tr": "illa7am Tari",
+        "en": "The meat is tender"
+      }
+    ]
   },
   {
     "ar": "قاسح",
@@ -1927,7 +4068,20 @@
     "ex_ar": "اللحم قاسح، طيبه زيادة.",
     "ex_tr": "illa7am gāsi7, Tayybah ziyāda.",
     "ex_en": "The meat is tough, cook it more.",
-    "note": "fem. قاسحة gās7a. Libyan/Tunisian."
+    "note": "fem. قاسحة gās7a. Libyan/Tunisian.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "الخبز ولّى قاسح",
+        "tr": "ilkhubz walla gāsi7",
+        "en": "The bread has gone hard"
+      },
+      {
+        "ar": "راسه قاسح",
+        "tr": "rāsa gāsi7",
+        "en": "He's stubborn (lit. his head is hard)"
+      }
+    ]
   },
   {
     "ar": "طازة",
@@ -1940,7 +4094,20 @@
     "ex_ar": "الحوت طازة اليوم.",
     "ex_tr": "il7ūt Tāza ilyōm.",
     "ex_en": "The fish is fresh today.",
-    "note": "Invariable; from Turkish taze."
+    "note": "Invariable; from Turkish taze.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "خضرة طازة من السوق",
+        "tr": "khuDra Tāza min issūg",
+        "en": "Fresh vegetables from the market"
+      },
+      {
+        "ar": "الخبز طازة؟",
+        "tr": "ilkhubz Tāza?",
+        "en": "Is the bread fresh?"
+      }
+    ]
   },
   {
     "ar": "بايت",
@@ -1953,7 +4120,20 @@
     "ex_ar": "الخبز هذا بايت.",
     "ex_tr": "ilkhubz hādha bāyit.",
     "ex_en": "This bread is stale.",
-    "note": "fem. بايتة bāyta."
+    "note": "fem. بايتة bāyta.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "ماكلة بايتة",
+        "tr": "mākla bāyta",
+        "en": "Leftover food from yesterday"
+      },
+      {
+        "ar": "الحوت هذا بايت",
+        "tr": "il7ūt hādha bāyit",
+        "en": "This fish isn't fresh"
+      }
+    ]
   },
   {
     "ar": "خاسر",
@@ -1966,7 +4146,20 @@
     "ex_ar": "التلفزيون خاسر.",
     "ex_tr": "ittalfazyōn khāsir.",
     "ex_en": "The TV is broken.",
-    "note": "fem. خاسرة khāsra. Very Libyan; in MSA خاسر means 'loser'."
+    "note": "fem. خاسرة khāsra. Very Libyan; in MSA خاسر means 'loser'.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "الكرهبة خاسرة",
+        "tr": "ilkarhba khāsra",
+        "en": "The car is broken down"
+      },
+      {
+        "ar": "الحليب خاسر، ما تشربهش",
+        "tr": "il7līb khāsir, ma tishrubhsh",
+        "en": "The milk is spoiled, don't drink it"
+      }
+    ]
   },
   {
     "ar": "مكسور",
@@ -1979,7 +4172,20 @@
     "ex_ar": "الكاس مكسور.",
     "ex_tr": "ilkās maksūr.",
     "ex_en": "The glass is broken.",
-    "note": "fem. مكسورة maksūra."
+    "note": "fem. مكسورة maksūra.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "ايده مكسورة",
+        "tr": "īda maksūra",
+        "en": "His arm is broken"
+      },
+      {
+        "ar": "الشباك مكسور",
+        "tr": "ishshubbāk maksūr",
+        "en": "The window is broken"
+      }
+    ]
   },
   {
     "ar": "صحيح",
@@ -1992,7 +4198,20 @@
     "ex_ar": "الكلام هذا صحيح.",
     "ex_tr": "ilkalām hādha Sa7ī7.",
     "ex_en": "What you say is true.",
-    "note": "fem. صحيحة Sa7ī7a."
+    "note": "fem. صحيحة Sa7ī7a.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "صحيح؟ ما نصدقش",
+        "tr": "Sa7ī7? ma nSaddigsh",
+        "en": "Really? I don't believe it"
+      },
+      {
+        "ar": "كلامك صحيح",
+        "tr": "kalāmik Sa7ī7",
+        "en": "What you say is true"
+      }
+    ]
   },
   {
     "ar": "غالط",
@@ -2005,7 +4224,20 @@
     "ex_ar": "انت غالط، مش هكي.",
     "ex_tr": "inta ghāliT, mush hakki.",
     "ex_en": "You're wrong, it's not like that.",
-    "note": "fem. غالطة ghālTa."
+    "note": "fem. غالطة ghālTa.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "الرقم غالط",
+        "tr": "irragm ghāliT",
+        "en": "The number is wrong"
+      },
+      {
+        "ar": "سامحني، كنت غالط",
+        "tr": "sām7ni, kunt ghāliT",
+        "en": "Sorry, I was wrong"
+      }
+    ]
   },
   {
     "ar": "مريض",
@@ -2018,7 +4250,20 @@
     "ex_ar": "أمي مريضة اليوم.",
     "ex_tr": "ummi marīDa ilyōm.",
     "ex_en": "My mother is sick today.",
-    "note": "fem. مريضة marīDa; pl. مرضى marDa."
+    "note": "fem. مريضة marīDa; pl. مرضى marDa.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "ولدي مريض، ما يقراش اليوم",
+        "tr": "wildi marīD, ma yigrāsh ilyōm",
+        "en": "My son is ill, he's not going to school today"
+      },
+      {
+        "ar": "حاسس روحي مريض",
+        "tr": "7āsis rō7i marīD",
+        "en": "I feel ill"
+      }
+    ]
   },
   {
     "ar": "مشغول",
@@ -2031,7 +4276,20 @@
     "ex_ar": "توا مشغول، نكلمك بعدين.",
     "ex_tr": "tawwa mashghūl, nkallmik ba3dēn.",
     "ex_en": "I'm busy now, I'll call you later.",
-    "note": "fem. مشغولة mashghūla."
+    "note": "fem. مشغولة mashghūla.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "انت مشغول توا؟",
+        "tr": "inta mashghūl tawwa?",
+        "en": "Are you busy now?"
+      },
+      {
+        "ar": "التليفون مشغول",
+        "tr": "ittilīfūn mashghūl",
+        "en": "The line is busy"
+      }
+    ]
   },
   {
     "ar": "حي",
@@ -2044,7 +4302,20 @@
     "ex_ar": "جدي مازال حي.",
     "ex_tr": "jaddi māzāl 7ayy.",
     "ex_en": "My grandfather is still alive.",
-    "note": "fem. حية 7ayya."
+    "note": "fem. حية 7ayya.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "مازال حي يرزق",
+        "tr": "māzāl 7ayy yurzag",
+        "en": "He's still alive and well"
+      },
+      {
+        "ar": "سمك حي",
+        "tr": "samak 7ayy",
+        "en": "Live fish"
+      }
+    ]
   },
   {
     "ar": "ميت",
@@ -2057,7 +4328,20 @@
     "ex_ar": "التليفون ميت، ما فيه شحن.",
     "ex_tr": "ittilifōn mayyit, ma fīh sha7n.",
     "ex_en": "The phone is dead, it has no charge.",
-    "note": "fem. ميتة mayyta; pl. موتى mōta. ميت بالجوع = starving."
+    "note": "fem. ميتة mayyta; pl. موتى mōta. ميت بالجوع = starving.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "البطارية ميتة",
+        "tr": "ilbaTTāriyya mayyta",
+        "en": "The battery is dead"
+      },
+      {
+        "ar": "ميت بالجوع",
+        "tr": "mayyit bijjū3",
+        "en": "Starving (lit. dead of hunger)"
+      }
+    ]
   },
   {
     "ar": "مفتوح",
@@ -2070,7 +4354,20 @@
     "ex_ar": "الحانوت مفتوح لين العشرة.",
     "ex_tr": "il7ānūt maftū7 lēn il3ashra.",
     "ex_en": "The shop is open until ten.",
-    "note": "fem. مفتوحة maftū7a."
+    "note": "fem. مفتوحة maftū7a.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "الحانوت مفتوح توا؟",
+        "tr": "il7ānūt maftū7 tawwa?",
+        "en": "Is the shop open now?"
+      },
+      {
+        "ar": "خلي الباب مفتوح",
+        "tr": "khalli ilbāb maftū7",
+        "en": "Leave the door open"
+      }
+    ]
   },
   {
     "ar": "مسكر",
@@ -2083,7 +4380,20 @@
     "ex_ar": "الباب مسكر.",
     "ex_tr": "ilbāb msakkar.",
     "ex_en": "The door is closed.",
-    "note": "fem. مسكرة msakkra."
+    "note": "fem. مسكرة msakkra.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "البنك مسكر اليوم",
+        "tr": "ilbank msakkar ilyōm",
+        "en": "The bank is closed today"
+      },
+      {
+        "ar": "الطريق مسكرة",
+        "tr": "iTTrīg msakkra",
+        "en": "The road is closed"
+      }
+    ]
   },
   {
     "ar": "مهم",
@@ -2096,7 +4406,20 @@
     "ex_ar": "عندي اجتماع مهم.",
     "ex_tr": "3andi ijtimā3 muhimm.",
     "ex_en": "I have an important meeting.",
-    "note": "fem. مهمة muhimma."
+    "note": "fem. مهمة muhimma.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "مش مهم هلبة",
+        "tr": "mush muhimm hallba",
+        "en": "It's not very important"
+      },
+      {
+        "ar": "حاجة مهمة",
+        "tr": "7āja muhimma",
+        "en": "Something important"
+      }
+    ]
   },
   {
     "ar": "عادي",
@@ -2109,7 +4432,25 @@
     "ex_ar": "عادي، ما فيش مشكلة.",
     "ex_tr": "3ādi, ma fīsh mushkila.",
     "ex_en": "It's fine, no problem.",
-    "note": "fem. عادية 3ādiyya. Very common reply meaning 'no big deal'."
+    "note": "fem. عادية 3ādiyya. Very common reply meaning 'no big deal'.",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "عادي، ما تخافش",
+        "tr": "3ādi, ma tkhāfsh",
+        "en": "It's fine, don't worry"
+      },
+      {
+        "ar": "نهار عادي",
+        "tr": "nhār 3ādi",
+        "en": "An ordinary day"
+      },
+      {
+        "ar": "سامحني! – عادي.",
+        "tr": "sām7ni! – 3ādi.",
+        "en": "Sorry! – No problem."
+      }
+    ]
   },
   {
     "ar": "غريب",
@@ -2122,7 +4463,20 @@
     "ex_ar": "شي غريب!",
     "ex_tr": "shī gharīb!",
     "ex_en": "Something strange!",
-    "note": "fem. غريبة gharība; pl. غرب ghurb / غربا ghurba."
+    "note": "fem. غريبة gharība; pl. غرب ghurb / غربا ghurba.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "راجل غريب في الحومة",
+        "tr": "rājil gharīb fil-7ōma",
+        "en": "A stranger in the neighborhood"
+      },
+      {
+        "ar": "غريبة! ما جاش",
+        "tr": "gharība! ma jāsh",
+        "en": "Strange! He didn't come"
+      }
+    ]
   },
   {
     "ar": "مشهور",
@@ -2135,7 +4489,20 @@
     "ex_ar": "المطعم هذا مشهور.",
     "ex_tr": "ilmaT3am hādha mash-hūr.",
     "ex_en": "This restaurant is famous.",
-    "note": "fem. مشهورة mash-hūra."
+    "note": "fem. مشهورة mash-hūra.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "مغني مشهور",
+        "tr": "mughanni mash-hūr",
+        "en": "A famous singer"
+      },
+      {
+        "ar": "المحل مشهور بالمكرونة",
+        "tr": "ilma7all mash-hūr bilmakarōna",
+        "en": "The place is famous for its pasta"
+      }
+    ]
   },
   {
     "ar": "ذكي",
@@ -2148,7 +4515,20 @@
     "ex_ar": "بنتك ذكية ما شاء الله.",
     "ex_tr": "bintik dhkiyya mashallah.",
     "ex_en": "Your daughter is smart, mashallah.",
-    "note": "fem. ذكية dhkiyya."
+    "note": "fem. ذكية dhkiyya.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "ولد ذكي",
+        "tr": "wild dhki",
+        "en": "A smart boy"
+      },
+      {
+        "ar": "تليفون ذكي",
+        "tr": "tilīfūn dhki",
+        "en": "A smartphone"
+      }
+    ]
   },
   {
     "ar": "شاطر",
@@ -2161,7 +4541,20 @@
     "ex_ar": "هو شاطر في الكورة.",
     "ex_tr": "huwwa shāTir fi ilkōra.",
     "ex_en": "He's good at football.",
-    "note": "fem. شاطرة shāTra; pl. شطار shuTTār."
+    "note": "fem. شاطرة shāTra; pl. شطار shuTTār.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "شاطر في القراية",
+        "tr": "shāTir fil-grāya",
+        "en": "Good at school"
+      },
+      {
+        "ar": "يا شاطر!",
+        "tr": "ya shāTir!",
+        "en": "Well done, clever!"
+      }
+    ]
   },
   {
     "ar": "غبي",
@@ -2174,7 +4567,20 @@
     "ex_ar": "ما تكونش غبي.",
     "ex_tr": "ma tkūnsh ghbi.",
     "ex_en": "Don't be stupid.",
-    "note": "fem. غبية ghbiyya. Can be offensive."
+    "note": "fem. غبية ghbiyya. Can be offensive.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "سؤال غبي",
+        "tr": "su'āl ghbi",
+        "en": "A stupid question"
+      },
+      {
+        "ar": "مش غبي، فاهم كل شي",
+        "tr": "mush ghbi, fāhim kull shi",
+        "en": "He's not stupid, he understands everything"
+      }
+    ]
   },
   {
     "ar": "مهبول",
@@ -2187,7 +4593,20 @@
     "ex_ar": "انت مهبول؟ الجو بارد!",
     "ex_tr": "inta mahbūl? ijjaww bārid!",
     "ex_en": "Are you crazy? It's cold!",
-    "note": "fem. مهبولة mahbūla; pl. مهابيل mhābīl. Maghrebi; often joking."
+    "note": "fem. مهبولة mahbūla; pl. مهابيل mhābīl. Maghrebi; often joking.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "مهبول هذا؟",
+        "tr": "mahbūl hādha?",
+        "en": "Is this guy crazy?"
+      },
+      {
+        "ar": "مهبولة على الشكلاطة",
+        "tr": "mahbūla 3la ishshklāTa",
+        "en": "She's crazy about chocolate"
+      }
+    ]
   },
   {
     "ar": "كسلان",
@@ -2200,7 +4619,20 @@
     "ex_ar": "اليوم كسلان، ما نبيش نخدم.",
     "ex_tr": "ilyōm kaslān, ma nibbīsh nikhdim.",
     "ex_en": "I'm lazy today, I don't want to work.",
-    "note": "fem. كسلانة kaslāna."
+    "note": "fem. كسلانة kaslāna.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "ما تكونش كسلان، قوم",
+        "tr": "ma tkūnsh kaslān, gūm",
+        "en": "Don't be lazy, get up"
+      },
+      {
+        "ar": "وليد كسلان في القراية",
+        "tr": "wlēd kaslān fil-grāya",
+        "en": "A boy who's lazy at school"
+      }
+    ]
   },
   {
     "ar": "نشيط",
@@ -2213,7 +4645,20 @@
     "ex_ar": "الصغار نشاط هلبة.",
     "ex_tr": "iSSghār nshāT hallba.",
     "ex_en": "Kids are very energetic.",
-    "note": "fem. نشيطة nshīTa; pl. نشاط nshāT."
+    "note": "fem. نشيطة nshīTa; pl. نشاط nshāT.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "اليوم نشيط هلبة",
+        "tr": "ilyōm nshīT hallba",
+        "en": "I'm very energetic today"
+      },
+      {
+        "ar": "راجل نشيط في خدمته",
+        "tr": "rājil nshīT fi khidimta",
+        "en": "A man who's active in his work"
+      }
+    ]
   },
   {
     "ar": "طيب",
@@ -2226,7 +4671,20 @@
     "ex_ar": "جدتي طيبة هلبة.",
     "ex_tr": "jaddti Tayyba hallba.",
     "ex_en": "My grandmother is very kind.",
-    "note": "fem. طيبة Tayyba. In Libyan طيب as a verb also means 'to cook'."
+    "note": "fem. طيبة Tayyba. In Libyan طيب as a verb also means 'to cook'.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "ناس طيبين",
+        "tr": "nās Tayybīn",
+        "en": "Kind people"
+      },
+      {
+        "ar": "قلبه طيب",
+        "tr": "galba Tayyib",
+        "en": "He has a kind heart"
+      }
+    ]
   },
   {
     "ar": "كريم",
@@ -2239,7 +4697,20 @@
     "ex_ar": "الليبيين كرما مع الضيف.",
     "ex_tr": "illībiyyīn kurama ma3a iDDēf.",
     "ex_en": "Libyans are generous with guests.",
-    "note": "fem. كريمة karīma; pl. كرما kurama."
+    "note": "fem. كريمة karīma; pl. كرما kurama.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "ربي كريم",
+        "tr": "rabbi karīm",
+        "en": "God is generous (things will work out)"
+      },
+      {
+        "ar": "راجل كريم مع الناس",
+        "tr": "rājil karīm ma3 innās",
+        "en": "A man generous with people"
+      }
+    ]
   },
   {
     "ar": "بخيل",
@@ -2252,7 +4723,20 @@
     "ex_ar": "ما تكونش بخيل!",
     "ex_tr": "ma tkūnsh bkhīl!",
     "ex_en": "Don't be stingy!",
-    "note": "fem. بخيلة bkhīla. Also شحيح sh7ī7."
+    "note": "fem. بخيلة bkhīla. Also شحيح sh7ī7.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "بخيل حتى على روحه",
+        "tr": "bkhīl 7atta 3la rō7a",
+        "en": "Stingy even with himself"
+      },
+      {
+        "ar": "ما نحبش الناس البخلا",
+        "tr": "ma n7ibbish innās ilbukhla",
+        "en": "I don't like stingy people"
+      }
+    ]
   },
   {
     "ar": "صادق",
@@ -2265,7 +4749,20 @@
     "ex_ar": "هو راجل صادق.",
     "ex_tr": "huwwa rājil Sādig.",
     "ex_en": "He's an honest man.",
-    "note": "fem. صادقة Sādga."
+    "note": "fem. صادقة Sādga.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "كون صادق معاي",
+        "tr": "kūn Sādig m3āy",
+        "en": "Be honest with me"
+      },
+      {
+        "ar": "كلامه صادق",
+        "tr": "kalāma Sādig",
+        "en": "What he says is true"
+      }
+    ]
   },
   {
     "ar": "كذاب",
@@ -2278,7 +4775,20 @@
     "ex_ar": "ما تصدقهش، كذاب.",
     "ex_tr": "ma tSaddgahsh, kadhdhāb.",
     "ex_en": "Don't believe him, he's a liar.",
-    "note": "fem. كذابة kadhdhāba."
+    "note": "fem. كذابة kadhdhāba.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "يا كذاب!",
+        "tr": "ya kadhdhāb!",
+        "en": "You liar!"
+      },
+      {
+        "ar": "هي كذابة، ما تصدقهاش",
+        "tr": "hi kadhdhāba, ma tSaddgihāsh",
+        "en": "She's a liar, don't believe her"
+      }
+    ]
   },
   {
     "ar": "مربي",
@@ -2291,7 +4801,20 @@
     "ex_ar": "ولدك مربي ما شاء الله.",
     "ex_tr": "waldik mrabbi mashallah.",
     "ex_en": "Your son is well-mannered, mashallah.",
-    "note": "fem. مربية mrabbya. Opposite: قليل الترباية."
+    "note": "fem. مربية mrabbya. Opposite: قليل الترباية.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "بنت مربية",
+        "tr": "bint mrabbya",
+        "en": "A well-mannered girl"
+      },
+      {
+        "ar": "صغار مربيين",
+        "tr": "Sghār mrabbyīn",
+        "en": "Well-behaved kids"
+      }
+    ]
   },
   {
     "ar": "هادي",
@@ -2304,7 +4827,20 @@
     "ex_ar": "الحومة هادية في الليل.",
     "ex_tr": "il7ōma hādya fi illēl.",
     "ex_en": "The neighbourhood is quiet at night.",
-    "note": "fem. هادية hādya."
+    "note": "fem. هادية hādya.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "خليك هادي",
+        "tr": "khallīk hādi",
+        "en": "Stay calm"
+      },
+      {
+        "ar": "البحر هادي اليوم",
+        "tr": "ilba7r hādi ilyōm",
+        "en": "The sea is calm today"
+      }
+    ]
   },
   {
     "ar": "ساكت",
@@ -2317,7 +4853,20 @@
     "ex_ar": "علاش ساكت اليوم؟",
     "ex_tr": "3lāsh sākit ilyōm?",
     "ex_en": "Why are you quiet today?",
-    "note": "fem. ساكتة sākta."
+    "note": "fem. ساكتة sākta.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "قعد ساكت",
+        "tr": "g3ad sākit",
+        "en": "He stayed silent"
+      },
+      {
+        "ar": "خليك ساكت شوية",
+        "tr": "khallīk sākit shwayya",
+        "en": "Keep quiet a bit"
+      }
+    ]
   },
   {
     "ar": "خطير",
@@ -2330,7 +4879,20 @@
     "ex_ar": "الطريق هذي خطيرة في الليل.",
     "ex_tr": "iTTrīg hādhi khTīra fi illēl.",
     "ex_en": "This road is dangerous at night.",
-    "note": "fem. خطيرة khTīra. Young people use it for 'amazing'."
+    "note": "fem. خطيرة khTīra. Young people use it for 'amazing'.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "الماتش كان خطير!",
+        "tr": "ilmātsh kān khTīr!",
+        "en": "The match was awesome!"
+      },
+      {
+        "ar": "حادث خطير",
+        "tr": "7ādith khTīr",
+        "en": "A serious accident"
+      }
+    ]
   },
   {
     "ar": "ممتاز",
@@ -2343,7 +4905,20 @@
     "ex_ar": "الأكل هني ممتاز.",
     "ex_tr": "il'akil hni mumtāz.",
     "ex_en": "The food here is excellent.",
-    "note": "fem. ممتازة mumtāza."
+    "note": "fem. ممتازة mumtāza.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "ممتاز، صحيت",
+        "tr": "mumtāz, Sa77ēt",
+        "en": "Excellent, thanks"
+      },
+      {
+        "ar": "خدمة ممتازة",
+        "tr": "khidma mumtāza",
+        "en": "Excellent work"
+      }
+    ]
   },
   {
     "ar": "هايل",
@@ -2356,7 +4931,20 @@
     "ex_ar": "العرس كان هايل.",
     "ex_tr": "il3iris kān hāyil.",
     "ex_en": "The wedding was great.",
-    "note": "fem. هايلة hāyla."
+    "note": "fem. هايلة hāyla.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "الجو هايل اليوم",
+        "tr": "ijjaww hāyil ilyōm",
+        "en": "The weather is great today"
+      },
+      {
+        "ar": "فكرة هايلة",
+        "tr": "fikra hāyla",
+        "en": "A great idea"
+      }
+    ]
   },
   {
     "ar": "كامل",
@@ -2369,7 +4957,20 @@
     "ex_ar": "قعدت النهار كامل في الحوش.",
     "ex_tr": "ga3adt innhār kāmil fi il7ōsh.",
     "ex_en": "I stayed home the whole day.",
-    "note": "fem. كاملة kāmla."
+    "note": "fem. كاملة kāmla.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "كليت الخبزة كاملة",
+        "tr": "klēt ilkhubza kāmla",
+        "en": "I ate the whole loaf"
+      },
+      {
+        "ar": "العيلة كاملة جات",
+        "tr": "il3ēla kāmla jāt",
+        "en": "The whole family came"
+      }
+    ]
   },
   {
     "ar": "ناقص",
@@ -2382,7 +4983,20 @@
     "ex_ar": "الحساب ناقص دينار.",
     "ex_tr": "il7sāb nāgiS dīnār.",
     "ex_en": "The bill is a dinar short.",
-    "note": "fem. ناقصة nāgSa."
+    "note": "fem. ناقصة nāgSa.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "ناقصنا الملح",
+        "tr": "nāgiSna ilmil7",
+        "en": "We're missing salt"
+      },
+      {
+        "ar": "خمسة ناقص ربع",
+        "tr": "khamsa nāgiS rub3",
+        "en": "A quarter to five"
+      }
+    ]
   },
   {
     "ar": "جاهز",
@@ -2395,7 +5009,20 @@
     "ex_ar": "الغدا جاهز، تعالوا!",
     "ex_tr": "ilghda jāhiz, ta3ālu!",
     "ex_en": "Lunch is ready, come!",
-    "note": "fem. جاهزة jāhza. Libyans also say واجد wājid for 'ready'."
+    "note": "fem. جاهزة jāhza. Libyans also say واجد wājid for 'ready'.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "انت جاهز؟ – جاهز، يلا.",
+        "tr": "inta jāhiz? – jāhiz, yalla.",
+        "en": "Are you ready? – Ready, let's go."
+      },
+      {
+        "ar": "الحوايج جاهزين؟",
+        "tr": "il7wāyij jāhzīn?",
+        "en": "Are the clothes ready?"
+      }
+    ]
   },
   {
     "ar": "أصلي",
@@ -2408,7 +5035,20 @@
     "ex_ar": "الساعة هذي أصلية؟",
     "ex_tr": "issā3a hādhi aSliyya?",
     "ex_en": "Is this watch genuine?",
-    "note": "fem. أصلية aSliyya."
+    "note": "fem. أصلية aSliyya.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "زيت زيتون أصلي",
+        "tr": "zēt zitūn aSli",
+        "en": "Genuine olive oil"
+      },
+      {
+        "ar": "ليبي أصلي",
+        "tr": "lībi aSli",
+        "en": "A real Libyan"
+      }
+    ]
   },
   {
     "ar": "حقيقي",
@@ -2421,7 +5061,20 @@
     "ex_ar": "القصة هذي حقيقية.",
     "ex_tr": "ilgiSSa hādhi 7agīgiyya.",
     "ex_en": "This story is real.",
-    "note": "fem. حقيقية 7agīgiyya."
+    "note": "fem. حقيقية 7agīgiyya.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "صاحب حقيقي",
+        "tr": "Sā7ib 7agīgi",
+        "en": "A true friend"
+      },
+      {
+        "ar": "هذا ذهب حقيقي؟",
+        "tr": "hādha dhahab 7agīgi?",
+        "en": "Is this real gold?"
+      }
+    ]
   },
   {
     "ar": "واضح",
@@ -2434,7 +5087,20 @@
     "ex_ar": "الكلام واضح؟",
     "ex_tr": "ilkalām wāDi7?",
     "ex_en": "Is it clear?",
-    "note": "fem. واضحة wāD7a."
+    "note": "fem. واضحة wāD7a.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "الصورة مش واضحة",
+        "tr": "iSSūra mush wāD7a",
+        "en": "The picture isn't clear"
+      },
+      {
+        "ar": "الموضوع واضح",
+        "tr": "ilmawDū3 wāDi7",
+        "en": "The matter is clear"
+      }
+    ]
   },
   {
     "ar": "مدور",
@@ -2447,7 +5113,20 @@
     "ex_ar": "الطاولة مدورة.",
     "ex_tr": "iTTāwla mdawwra.",
     "ex_en": "The table is round.",
-    "note": "fem. مدورة mdawwra."
+    "note": "fem. مدورة mdawwra.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "وجهه مدور",
+        "tr": "wijha mdawwar",
+        "en": "He has a round face"
+      },
+      {
+        "ar": "خبزة مدورة",
+        "tr": "khubza mdawwra",
+        "en": "A round loaf"
+      }
+    ]
   },
   {
     "ar": "عريض",
@@ -2460,7 +5139,20 @@
     "ex_ar": "الكتاب هذا عريض.",
     "ex_tr": "ilktāb hādha 3rīD.",
     "ex_en": "This book is thick.",
-    "note": "fem. عريضة 3rīDa."
+    "note": "fem. عريضة 3rīDa.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "كتوفه عراض",
+        "tr": "ktūfa 3rāD",
+        "en": "He has broad shoulders"
+      },
+      {
+        "ar": "طريق عريضة",
+        "tr": "Trīg 3rīDa",
+        "en": "A wide road"
+      }
+    ]
   },
   {
     "ar": "غليظ",
@@ -2473,7 +5165,20 @@
     "ex_ar": "الحيط غليظ.",
     "ex_tr": "il7ēT ghlīDH.",
     "ex_en": "The wall is thick.",
-    "note": "fem. غليظة ghlīDHa."
+    "note": "fem. غليظة ghlīDHa.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "قماش غليظ",
+        "tr": "gmāsh ghlīDH",
+        "en": "Thick fabric"
+      },
+      {
+        "ar": "صوته غليظ",
+        "tr": "Sōta ghlīDH",
+        "en": "He has a deep voice"
+      }
+    ]
   },
   {
     "ar": "عميق",
@@ -2486,7 +5191,20 @@
     "ex_ar": "البحر هني عميق، رد بالك.",
     "ex_tr": "ilba7r hni 3mīg, rudd bālik.",
     "ex_en": "The sea is deep here, be careful.",
-    "note": "fem. عميقة 3mīga."
+    "note": "fem. عميقة 3mīga.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "بير عميق",
+        "tr": "bīr 3mīg",
+        "en": "A deep well"
+      },
+      {
+        "ar": "نوم عميق",
+        "tr": "nōm 3mīg",
+        "en": "Deep sleep"
+      }
+    ]
   },
   {
     "ar": "شايب",
@@ -2499,7 +5217,20 @@
     "ex_ar": "الراجل الشايب هذاك جارنا.",
     "ex_tr": "irrājil ishshāyib hādhāk jārna.",
     "ex_en": "That old man is our neighbour.",
-    "note": "fem. شايبة shāyba; pl. شيابين shyābīn. Also noun: old man."
+    "note": "fem. شايبة shāyba; pl. شيابين shyābīn. Also noun: old man.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "شعره شايب",
+        "tr": "sha3ra shāyib",
+        "en": "His hair is grey"
+      },
+      {
+        "ar": "شيبت بدري",
+        "tr": "shayyabt badri",
+        "en": "I went grey early"
+      }
+    ]
   },
   {
     "ar": "ظريف",
@@ -2512,7 +5243,20 @@
     "ex_ar": "صاحبك ظريف.",
     "ex_tr": "Sā7bik DHrīf.",
     "ex_en": "Your friend is charming.",
-    "note": "fem. ظريفة DHrīfa."
+    "note": "fem. ظريفة DHrīfa.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "بنية ظريفة",
+        "tr": "bnayya DHrīfa",
+        "en": "A charming girl"
+      },
+      {
+        "ar": "حكاية ظريفة",
+        "tr": "7kāya DHrīfa",
+        "en": "A funny story"
+      }
+    ]
   },
   {
     "ar": "مضحك",
@@ -2525,7 +5269,20 @@
     "ex_ar": "الفيلم كان مضحك هلبة.",
     "ex_tr": "ilfilm kān muD7ik hallba.",
     "ex_en": "The film was very funny.",
-    "note": "fem. مضحكة muD7ka."
+    "note": "fem. مضحكة muD7ka.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "حاجة مضحكة",
+        "tr": "7āja muD7ika",
+        "en": "Something funny"
+      },
+      {
+        "ar": "مش مضحك!",
+        "tr": "mush muD7ik!",
+        "en": "It's not funny!"
+      }
+    ]
   },
   {
     "ar": "سخيف",
@@ -2538,7 +5295,20 @@
     "ex_ar": "كلام سخيف.",
     "ex_tr": "kalām sakhīf.",
     "ex_en": "Silly talk.",
-    "note": "fem. سخيفة sakhīfa."
+    "note": "fem. سخيفة sakhīfa.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "فيلم سخيف",
+        "tr": "film sakhīf",
+        "en": "A lame film"
+      },
+      {
+        "ar": "ما تكونش سخيف",
+        "tr": "ma tkūnsh sakhīf",
+        "en": "Don't be silly"
+      }
+    ]
   },
   {
     "ar": "مستعجل",
@@ -2551,7 +5321,20 @@
     "ex_ar": "سامحني، أنا مستعجل.",
     "ex_tr": "sām7ni, āna mista3jil.",
     "ex_en": "Sorry, I'm in a hurry.",
-    "note": "fem. مستعجلة mista3jla. Libyans also say عندي زربة 'I'm in a rush'."
+    "note": "fem. مستعجلة mista3jla. Libyans also say عندي زربة 'I'm in a rush'.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "علاش مستعجل هكي؟",
+        "tr": "3lāsh mista3jil hakki?",
+        "en": "Why are you in such a hurry?"
+      },
+      {
+        "ar": "مستعجلة، نكلمك بعدين",
+        "tr": "mista3jla, nkallmik ba3dēn",
+        "en": "I'm in a hurry, I'll call you later"
+      }
+    ]
   },
   {
     "ar": "متأخر",
@@ -2564,7 +5347,20 @@
     "ex_ar": "الطيارة متأخرة ساعة.",
     "ex_tr": "iTTayyāra mit'akhkhra sā3a.",
     "ex_en": "The plane is an hour late.",
-    "note": "fem. متأخرة mit'akhkhra."
+    "note": "fem. متأخرة mit'akhkhra.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "سامحني، أنا متأخر",
+        "tr": "sām7ni, āna mit'akhkhir",
+        "en": "Sorry, I'm late"
+      },
+      {
+        "ar": "ديما متأخر",
+        "tr": "dīma mit'akhkhir",
+        "en": "Always late"
+      }
+    ]
   },
   {
     "ar": "ممنوع",
@@ -2577,7 +5373,20 @@
     "ex_ar": "التدخين ممنوع هني.",
     "ex_tr": "ittadkhīn mamnū3 hni.",
     "ex_en": "Smoking is forbidden here.",
-    "note": "fem. ممنوعة mamnū3a."
+    "note": "fem. ممنوعة mamnū3a.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "الوقوف ممنوع",
+        "tr": "ilwgūf mamnū3",
+        "en": "No parking"
+      },
+      {
+        "ar": "ممنوع تلعب هني",
+        "tr": "mamnū3 til3ab hni",
+        "en": "You're not allowed to play here"
+      }
+    ]
   },
   {
     "ar": "مسموح",
@@ -2590,7 +5399,20 @@
     "ex_ar": "الدخول مسموح؟",
     "ex_tr": "iddukhūl masmū7?",
     "ex_en": "Is entry allowed?",
-    "note": "fem. مسموحة masmū7a."
+    "note": "fem. مسموحة masmū7a.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "مسموح نصور هني؟",
+        "tr": "masmū7 nSawwir hni?",
+        "en": "Am I allowed to take photos here?"
+      },
+      {
+        "ar": "التدخين مش مسموح",
+        "tr": "ittadkhīn mush masmū7",
+        "en": "Smoking is not allowed"
+      }
+    ]
   },
   {
     "ar": "حر",
@@ -2603,7 +5425,20 @@
     "ex_ar": "انت حر، دير اللي تبيه.",
     "ex_tr": "inta 7urr, dīr illi tibbīh.",
     "ex_en": "You're free, do what you want.",
-    "note": "fem. حرة 7urra; pl. أحرار a7rār."
+    "note": "fem. حرة 7urra; pl. أحرار a7rār.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "انت حر في روحك",
+        "tr": "inta 7urr fi rō7ik",
+        "en": "You're free to do as you please"
+      },
+      {
+        "ar": "خليه حر",
+        "tr": "khallīh 7urr",
+        "en": "Let him be free"
+      }
+    ]
   },
   {
     "ar": "واجد",
@@ -2616,7 +5451,20 @@
     "ex_ar": "العشا واجد؟",
     "ex_tr": "il3asha wājid?",
     "ex_en": "Is dinner ready?",
-    "note": "Libyan usage (in the Gulf واجد means 'a lot'). fem. واجدة wājda."
+    "note": "Libyan usage (in the Gulf واجد means 'a lot'). fem. واجدة wājda.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "الغدا واجد، تعالوا",
+        "tr": "ilghda wājid, ta3ālu",
+        "en": "Lunch is ready, come"
+      },
+      {
+        "ar": "انتي واجدة؟ – واجدة.",
+        "tr": "inti wājda? – wājda.",
+        "en": "Are you ready? – Ready."
+      }
+    ]
   },
   {
     "ar": "فرحان",
@@ -2629,7 +5477,20 @@
     "ex_ar": "أنا فرحان هلبة بيك.",
     "ex_tr": "āna far7ān hallba bīk.",
     "ex_en": "I'm very happy for you.",
-    "note": "fem. فرحانة far7āna; pl. فرحانين."
+    "note": "fem. فرحانة far7āna; pl. فرحانين.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "فرحان بالخبر",
+        "tr": "far7ān bilkhbar",
+        "en": "Happy with the news"
+      },
+      {
+        "ar": "علاش فرحانة اليوم؟",
+        "tr": "3lāsh far7āna ilyōm?",
+        "en": "Why are you happy today?"
+      }
+    ]
   },
   {
     "ar": "مبسوط",
@@ -2642,7 +5503,20 @@
     "ex_ar": "انت مبسوط في خدمتك؟",
     "ex_tr": "inta mabsūT fi khidmtik?",
     "ex_en": "Are you happy in your job?",
-    "note": "fem. مبسوطة mabsūTa."
+    "note": "fem. مبسوطة mabsūTa.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "مبسوط هني؟ – مبسوط هلبة.",
+        "tr": "mabsūT hni? – mabsūT hallba.",
+        "en": "Happy here? – Very happy."
+      },
+      {
+        "ar": "الصغار مبسوطين في البحر",
+        "tr": "iSSghār mabsūTīn fil-ba7r",
+        "en": "The kids are happy at the beach"
+      }
+    ]
   },
   {
     "ar": "مرتاح",
@@ -2655,7 +5529,20 @@
     "ex_ar": "توا مرتاح بعد الإجازة.",
     "ex_tr": "tawwa mirtā7 ba3d il'ijāza.",
     "ex_en": "I'm relaxed now after the holiday.",
-    "note": "fem. مرتاحة mirtā7a. Can also mean 'well-off'."
+    "note": "fem. مرتاحة mirtā7a. Can also mean 'well-off'.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "خذ راحتك، كون مرتاح",
+        "tr": "khudh rā7tik, kūn mirtā7",
+        "en": "Make yourself at home, be comfortable"
+      },
+      {
+        "ar": "مش مرتاح في الخدمة هذي",
+        "tr": "mush mirtā7 fil-khidma hādhi",
+        "en": "I'm not comfortable in this job"
+      }
+    ]
   },
   {
     "ar": "رايق",
@@ -2668,7 +5555,20 @@
     "ex_ar": "اليوم رايق، نبي نطلع.",
     "ex_tr": "ilyōm rāyig, nibbi niTla3.",
     "ex_en": "I'm in a good mood today, I want to go out.",
-    "note": "fem. رايقة rāyga."
+    "note": "fem. رايقة rāyga.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "مش رايق للكلام",
+        "tr": "mush rāyig lilkalām",
+        "en": "I'm not in the mood to talk"
+      },
+      {
+        "ar": "قاعد رايق على البحر",
+        "tr": "gā3id rāyig 3la ilba7r",
+        "en": "Chilling by the sea"
+      }
+    ]
   },
   {
     "ar": "حزين",
@@ -2681,7 +5581,20 @@
     "ex_ar": "علاش حزين؟ شن صار؟",
     "ex_tr": "3lāsh 7zīn? shin Sār?",
     "ex_en": "Why are you sad? What happened?",
-    "note": "fem. حزينة 7zīna."
+    "note": "fem. حزينة 7zīna.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "شكلك حزين",
+        "tr": "shaklik 7zīn",
+        "en": "You look sad"
+      },
+      {
+        "ar": "فيلم حزين",
+        "tr": "film 7zīn",
+        "en": "A sad film"
+      }
+    ]
   },
   {
     "ar": "مقهور",
@@ -2694,7 +5607,20 @@
     "ex_ar": "هي مقهورة من كلامه.",
     "ex_tr": "hiyya magh-hūra min kalāma.",
     "ex_en": "She's upset by what he said.",
-    "note": "fem. مقهورة magh-hūra. Very common in Libyan for emotional hurt; ق is pronounced g here."
+    "note": "fem. مقهورة magh-hūra. Very common in Libyan for emotional hurt; ق is pronounced g here.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "علاش مقهور؟",
+        "tr": "3lāsh magh-hūr?",
+        "en": "Why are you upset?"
+      },
+      {
+        "ar": "مقهورة على خوها",
+        "tr": "magh-hūra 3la khūha",
+        "en": "She's heartbroken over her brother"
+      }
+    ]
   },
   {
     "ar": "مغبون",
@@ -2707,7 +5633,20 @@
     "ex_ar": "شكلك مغبون اليوم.",
     "ex_tr": "shaklik maghbūn ilyōm.",
     "ex_en": "You look down today.",
-    "note": "fem. مغبونة maghbūna. Libyan/Tunisian; noun غبنة ghubna = sorrow."
+    "note": "fem. مغبونة maghbūna. Libyan/Tunisian; noun غبنة ghubna = sorrow.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "ما تكونش مغبون",
+        "tr": "ma tkūnsh maghbūn",
+        "en": "Don't be down"
+      },
+      {
+        "ar": "قاعد مغبون وحده",
+        "tr": "gā3id maghbūn wa7da",
+        "en": "Sitting alone feeling down"
+      }
+    ]
   },
   {
     "ar": "زعلان",
@@ -2720,7 +5659,20 @@
     "ex_ar": "خوي زعلان مني.",
     "ex_tr": "khūy za3lān minni.",
     "ex_en": "My brother is upset with me.",
-    "note": "fem. زعلانة za3lāna."
+    "note": "fem. زعلانة za3lāna.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "ما تزعلش مني",
+        "tr": "ma tiz3alsh minni",
+        "en": "Don't be upset with me"
+      },
+      {
+        "ar": "علاش زعلانة؟",
+        "tr": "3lāsh za3lāna?",
+        "en": "Why are you upset?"
+      }
+    ]
   },
   {
     "ar": "متغشش",
@@ -2733,7 +5685,20 @@
     "ex_ar": "بوي متغشش، ما تكلمهش توا.",
     "ex_tr": "būy mitghashshish, ma tkallmahsh tawwa.",
     "ex_en": "My dad is angry, don't talk to him now.",
-    "note": "fem. متغششة mitghashsha. Very Libyan; verb تغشش tghashshash, imperfect يتغشش yitghashshash."
+    "note": "fem. متغششة mitghashsha. Very Libyan; verb تغشش tghashshash, imperfect يتغشش yitghashshash.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "علاش متغشش؟",
+        "tr": "3lāsh mitghashshish?",
+        "en": "Why are you angry?"
+      },
+      {
+        "ar": "أمي متغششة علينا",
+        "tr": "ummi mitghashsha 3alēna",
+        "en": "Mom is angry with us"
+      }
+    ]
   },
   {
     "ar": "معصب",
@@ -2746,7 +5711,20 @@
     "ex_ar": "علاش معصب هكي؟",
     "ex_tr": "3lāsh m3aSSib hakki?",
     "ex_en": "Why are you so worked up?",
-    "note": "fem. معصبة m3aSSba."
+    "note": "fem. معصبة m3aSSba.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "ما تكونش معصب",
+        "tr": "ma tkūnsh m3aSSib",
+        "en": "Don't be so worked up"
+      },
+      {
+        "ar": "جا معصب من الخدمة",
+        "tr": "ja m3aSSib min ilkhidma",
+        "en": "He came back from work angry"
+      }
+    ]
   },
   {
     "ar": "تعبان",
@@ -2759,7 +5737,20 @@
     "ex_ar": "أنا تعبان، بنرقد بدري.",
     "ex_tr": "āna ta3bān, bnurgud badri.",
     "ex_en": "I'm tired, I'll sleep early.",
-    "note": "fem. تعبانة ta3bāna. Can also mean 'unwell'."
+    "note": "fem. تعبانة ta3bāna. Can also mean 'unwell'.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "تعبان هلبة اليوم",
+        "tr": "ta3bān hallba ilyōm",
+        "en": "Very tired today"
+      },
+      {
+        "ar": "تعبانة؟ ارتاحي شوية",
+        "tr": "ta3bāna? irtā7i shwayya",
+        "en": "Tired? Rest a bit"
+      }
+    ]
   },
   {
     "ar": "مهدود",
@@ -2772,7 +5763,20 @@
     "ex_ar": "بعد الخدمة نكون مهدود.",
     "ex_tr": "ba3d ilkhidma nkūn mahdūd.",
     "ex_en": "After work I'm worn out.",
-    "note": "fem. مهدودة mahdūda."
+    "note": "fem. مهدودة mahdūda.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "مهدود من السفر",
+        "tr": "mahdūd min issafar",
+        "en": "Worn out from the trip"
+      },
+      {
+        "ar": "رجلي مهدودة",
+        "tr": "rijli mahdūda",
+        "en": "My legs are worn out"
+      }
+    ]
   },
   {
     "ar": "ناعس",
@@ -2785,7 +5789,20 @@
     "ex_ar": "ناعس، ما رقدتش البارح.",
     "ex_tr": "nā3is, ma ragadtish ilbāre7.",
     "ex_en": "I'm sleepy, I didn't sleep last night.",
-    "note": "fem. ناعسة nā3sa."
+    "note": "fem. ناعسة nā3sa.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "عيونك ناعسين",
+        "tr": "3yūnik nā3sīn",
+        "en": "Your eyes look sleepy"
+      },
+      {
+        "ar": "ناعس، بنرقد",
+        "tr": "nā3is, binurgud",
+        "en": "I'm sleepy, I'm going to sleep"
+      }
+    ]
   },
   {
     "ar": "قلقان",
@@ -2798,7 +5815,20 @@
     "ex_ar": "قلقان في الحوش، نبي نطلع.",
     "ex_tr": "galgān fi il7ōsh, nibbi niTla3.",
     "ex_en": "I'm bored at home, I want to go out.",
-    "note": "fem. قلقانة galgāna. False friend: in Libyan it mainly means bored, not 'worried' as in MSA قلقان."
+    "note": "fem. قلقانة galgāna. False friend: in Libyan it mainly means bored, not 'worried' as in MSA قلقان.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "قلقت من الاستنا",
+        "tr": "glagt min ilistinna",
+        "en": "I got fed up with waiting"
+      },
+      {
+        "ar": "قلقان، ما فيش شي نديره",
+        "tr": "galgān, ma fīsh shi ndīra",
+        "en": "I'm bored, there's nothing to do"
+      }
+    ]
   },
   {
     "ar": "خايف",
@@ -2811,7 +5841,20 @@
     "ex_ar": "الصغير خايف من الكلب.",
     "ex_tr": "iSSghīr khāyif min ilkalb.",
     "ex_en": "The little one is scared of the dog.",
-    "note": "fem. خايفة khāyfa."
+    "note": "fem. خايفة khāyfa.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "ما تخافش!",
+        "tr": "ma tkhāfsh!",
+        "en": "Don't be afraid!"
+      },
+      {
+        "ar": "خايفة من الامتحان",
+        "tr": "khāyfa min ilimti7ān",
+        "en": "She's scared of the exam"
+      }
+    ]
   },
   {
     "ar": "مخلوع",
@@ -2824,7 +5867,20 @@
     "ex_ar": "قمت مخلوع من الصوت.",
     "ex_tr": "gumt makhlū3 min iSSōt.",
     "ex_en": "I woke up startled by the noise.",
-    "note": "fem. مخلوعة makhlū3a. Maghrebi/Libyan; verb تخلع tkhalla3 'to get a fright'."
+    "note": "fem. مخلوعة makhlū3a. Maghrebi/Libyan; verb تخلع tkhalla3 'to get a fright'.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "خلعتني!",
+        "tr": "khla3tni!",
+        "en": "You scared me!"
+      },
+      {
+        "ar": "الصغير مخلوع من الرعد",
+        "tr": "iSSghīr makhlū3 min irra3d",
+        "en": "The little one is frightened of the thunder"
+      }
+    ]
   },
   {
     "ar": "مشغول البال",
@@ -2837,7 +5893,20 @@
     "ex_ar": "أنا مشغول البال على أمي.",
     "ex_tr": "āna mashghūl ilbāl 3la ummi.",
     "ex_en": "I'm worried about my mother.",
-    "note": "fem. مشغولة البال. Also بالي مشغول bāli mashghūl 'I'm worried'."
+    "note": "fem. مشغولة البال. Also بالي مشغول bāli mashghūl 'I'm worried'.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "ما تكونش مشغول البال",
+        "tr": "ma tkūnsh mashghūl ilbāl",
+        "en": "Don't worry yourself"
+      },
+      {
+        "ar": "أمي مشغولة البال عليك",
+        "tr": "ummi mashghūlt ilbāl 3alēk",
+        "en": "Mom is worried about you"
+      }
+    ]
   },
   {
     "ar": "مهموم",
@@ -2850,7 +5919,20 @@
     "ex_ar": "شكله مهموم من الديون.",
     "ex_tr": "shakla mahmūm min iddyūn.",
     "ex_en": "He looks troubled by debts.",
-    "note": "fem. مهمومة mahmūma."
+    "note": "fem. مهمومة mahmūma.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "علاش مهموم؟",
+        "tr": "3lāsh mahmūm?",
+        "en": "Why are you so troubled?"
+      },
+      {
+        "ar": "قاعد مهموم من الصبح",
+        "tr": "gā3id mahmūm min iSSub7",
+        "en": "He's been troubled since morning"
+      }
+    ]
   },
   {
     "ar": "متوتر",
@@ -2863,7 +5945,20 @@
     "ex_ar": "قبل الامتحان ديما متوتر.",
     "ex_tr": "gbal ilimti7ān dīma mitwattir.",
     "ex_en": "Before exams I'm always nervous.",
-    "note": "fem. متوترة mitwattra."
+    "note": "fem. متوترة mitwattra.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "ما تكونش متوتر",
+        "tr": "ma tkūnsh mitwattir",
+        "en": "Don't be nervous"
+      },
+      {
+        "ar": "متوترة من المقابلة",
+        "tr": "mitwattra min ilmugābla",
+        "en": "She's nervous about the interview"
+      }
+    ]
   },
   {
     "ar": "مضغوط",
@@ -2876,7 +5971,20 @@
     "ex_ar": "الأسبوع هذا مضغوط هلبة.",
     "ex_tr": "il'usbū3 hādha maDghūT hallba.",
     "ex_en": "I'm really under pressure this week.",
-    "note": "fem. مضغوطة maDghūTa."
+    "note": "fem. مضغوطة maDghūTa.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "مضغوط في الخدمة",
+        "tr": "maDghūT fil-khidma",
+        "en": "Under pressure at work"
+      },
+      {
+        "ar": "حاسس روحي مضغوط",
+        "tr": "7āsis rō7i maDghūT",
+        "en": "I feel stressed"
+      }
+    ]
   },
   {
     "ar": "متضايق",
@@ -2889,7 +5997,20 @@
     "ex_ar": "متضايق من الزحمة.",
     "ex_tr": "mitDāyig min izza7ma.",
     "ex_en": "I'm annoyed by the traffic.",
-    "note": "fem. متضايقة mitDāyga."
+    "note": "fem. متضايقة mitDāyga.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "متضايق من الحر",
+        "tr": "mitDāyig min il7arr",
+        "en": "Uncomfortable in the heat"
+      },
+      {
+        "ar": "علاش متضايقة؟",
+        "tr": "3lāsh mitDāyga?",
+        "en": "Why are you upset?"
+      }
+    ]
   },
   {
     "ar": "مغروم",
@@ -2902,7 +6023,20 @@
     "ex_ar": "هو مغروم بيها.",
     "ex_tr": "huwwa maghrūm bīha.",
     "ex_en": "He's in love with her.",
-    "note": "fem. مغرومة maghrūma. Libyan/Maghrebi."
+    "note": "fem. مغرومة maghrūma. Libyan/Maghrebi.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "مغروم بالكورة",
+        "tr": "maghrūm bilkūra",
+        "en": "Crazy about football"
+      },
+      {
+        "ar": "مغرومة بيه من زمان",
+        "tr": "maghrūma bīh min zamān",
+        "en": "She's been in love with him for ages"
+      }
+    ]
   },
   {
     "ar": "عاشق",
@@ -2915,7 +6049,20 @@
     "ex_ar": "عاشق البحر من صغري.",
     "ex_tr": "3āshig ilba7r min Sughri.",
     "ex_en": "I've loved the sea since I was little.",
-    "note": "fem. عاشقة 3āshga."
+    "note": "fem. عاشقة 3āshga.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "عاشق ليبيا",
+        "tr": "3āshig lībya",
+        "en": "In love with Libya"
+      },
+      {
+        "ar": "قلب عاشق",
+        "tr": "galb 3āshig",
+        "en": "A heart in love"
+      }
+    ]
   },
   {
     "ar": "متوحش",
@@ -2928,7 +6075,20 @@
     "ex_ar": "متوحش أمي هلبة.",
     "ex_tr": "mitwa77ish ummi hallba.",
     "ex_en": "I miss my mother a lot.",
-    "note": "fem. متوحشة mitwa77sha. From توحش 'to miss'; not related to 'wild'."
+    "note": "fem. متوحشة mitwa77sha. From توحش 'to miss'; not related to 'wild'.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "متوحشك هلبة",
+        "tr": "mitwa77shik hallba",
+        "en": "I miss you a lot"
+      },
+      {
+        "ar": "متوحشين البحر",
+        "tr": "mitwa77shīn ilba7r",
+        "en": "We miss the sea"
+      }
+    ]
   },
   {
     "ar": "متوحش البلاد",
@@ -2941,7 +6101,20 @@
     "ex_ar": "بعد شهر في الغربة ولّيت متوحش البلاد.",
     "ex_tr": "ba3d shahr fi ilghurba wallēt mitwa77ish ilblād.",
     "ex_en": "After a month abroad I became homesick.",
-    "note": "البلاد ilblād here = the homeland/home town."
+    "note": "البلاد ilblād here = the homeland/home town.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "متوحش البلاد هلبة",
+        "tr": "mitwa77ish ilblād hallba",
+        "en": "I'm very homesick"
+      },
+      {
+        "ar": "ولّى متوحش البلاد ويبي يروح",
+        "tr": "walla mitwa77ish ilblād w-yibbi yrawwa7",
+        "en": "He got homesick and wants to go home"
+      }
+    ]
   },
   {
     "ar": "مشتاق",
@@ -2954,7 +6127,20 @@
     "ex_ar": "مشتاقين ليك يا خالي.",
     "ex_tr": "mishtāgīn līk ya khāli.",
     "ex_en": "We miss you, uncle.",
-    "note": "fem. مشتاقة mishtāga."
+    "note": "fem. مشتاقة mishtāga.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "مشتاق ليك",
+        "tr": "mishtāg līk",
+        "en": "I miss you"
+      },
+      {
+        "ar": "مشتاقة لأمي",
+        "tr": "mishtāga l-ummi",
+        "en": "I long to see my mom"
+      }
+    ]
   },
   {
     "ar": "محشوم",
@@ -2967,7 +6153,20 @@
     "ex_ar": "كنت محشوم نطلب منه.",
     "ex_tr": "kunt ma7shūm nuTlub minna.",
     "ex_en": "I was embarrassed to ask him.",
-    "note": "fem. محشومة ma7shūma. Libyan/Maghrebi; noun حشمة 7ashma = shame, modesty."
+    "note": "fem. محشومة ma7shūma. Libyan/Maghrebi; noun حشمة 7ashma = shame, modesty.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "ما تكونش محشوم، كول",
+        "tr": "ma tkūnsh ma7shūm, kūl",
+        "en": "Don't be shy, eat"
+      },
+      {
+        "ar": "محشومة نقولها",
+        "tr": "ma7shūma ngūlha",
+        "en": "I'm too embarrassed to say it"
+      }
+    ]
   },
   {
     "ar": "خجول",
@@ -2980,7 +6179,20 @@
     "ex_ar": "بنتي خجولة مع الناس.",
     "ex_tr": "binti khajūla ma3a innās.",
     "ex_en": "My daughter is shy with people.",
-    "note": "fem. خجولة khajūla."
+    "note": "fem. خجولة khajūla.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "ولد خجول",
+        "tr": "wild khajūl",
+        "en": "A shy boy"
+      },
+      {
+        "ar": "خجولة شوية مع الناس",
+        "tr": "khajūla shwayya ma3 innās",
+        "en": "A bit shy with people"
+      }
+    ]
   },
   {
     "ar": "غيران",
@@ -2993,7 +6205,20 @@
     "ex_ar": "هو غيران من خوه.",
     "ex_tr": "huwwa ghayrān min khūh.",
     "ex_en": "He's jealous of his brother.",
-    "note": "fem. غيرانة ghayrāna."
+    "note": "fem. غيرانة ghayrāna.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "غيرانة من أختها",
+        "tr": "ghayrāna min ukhtha",
+        "en": "She's jealous of her sister"
+      },
+      {
+        "ar": "ما تكونش غيران",
+        "tr": "ma tkūnsh ghayrān",
+        "en": "Don't be jealous"
+      }
+    ]
   },
   {
     "ar": "مستغرب",
@@ -3006,7 +6231,20 @@
     "ex_ar": "أنا مستغرب من اللي صار.",
     "ex_tr": "āna mistaghrib min illi Sār.",
     "ex_en": "I'm surprised by what happened.",
-    "note": "fem. مستغربة mistaghrba."
+    "note": "fem. مستغربة mistaghrba.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "مستغرب كيف جيت",
+        "tr": "mistaghrib kīf jīt",
+        "en": "Surprised you came"
+      },
+      {
+        "ar": "علاش مستغرب؟",
+        "tr": "3lāsh mistaghrib?",
+        "en": "Why are you surprised?"
+      }
+    ]
   },
   {
     "ar": "محتار",
@@ -3019,7 +6257,20 @@
     "ex_ar": "محتار، شن نشري؟",
     "ex_tr": "mi7tār, shin nishri?",
     "ex_en": "I'm torn, what should I buy?",
-    "note": "fem. محتارة mi7tāra."
+    "note": "fem. محتارة mi7tāra.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "محتار بين الزوز",
+        "tr": "mi7tār bēn izzūz",
+        "en": "Torn between the two"
+      },
+      {
+        "ar": "محتارة، شن نلبس؟",
+        "tr": "mi7tāra, shin nilbis?",
+        "en": "I can't decide, what should I wear?"
+      }
+    ]
   },
   {
     "ar": "متحمس",
@@ -3032,7 +6283,20 @@
     "ex_ar": "متحمس للماتش الليلة.",
     "ex_tr": "mit7ammis lilmātsh illēla.",
     "ex_en": "I'm excited for the match tonight.",
-    "note": "fem. متحمسة mit7amsa."
+    "note": "fem. متحمسة mit7amsa.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "متحمس للسفرة",
+        "tr": "mit7ammis lissafra",
+        "en": "Excited about the trip"
+      },
+      {
+        "ar": "الصغار متحمسين للعيد",
+        "tr": "iSSghār mit7ammsīn lil3īd",
+        "en": "The kids are excited for Eid"
+      }
+    ]
   },
   {
     "ar": "فخور",
@@ -3045,7 +6309,20 @@
     "ex_ar": "أنا فخور بيك يا وليدي.",
     "ex_tr": "āna fakhūr bīk ya wlīdi.",
     "ex_en": "I'm proud of you, son.",
-    "note": "fem. فخورة fakhūra."
+    "note": "fem. فخورة fakhūra.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "فخورين بيك",
+        "tr": "fakhūrīn bīk",
+        "en": "We're proud of you"
+      },
+      {
+        "ar": "فخور إني ليبي",
+        "tr": "fakhūr inni lībi",
+        "en": "Proud to be Libyan"
+      }
+    ]
   },
   {
     "ar": "راضي",
@@ -3058,7 +6335,20 @@
     "ex_ar": "انت راضي على الخدمة؟",
     "ex_tr": "inta rāDi 3la ilkhidma?",
     "ex_en": "Are you satisfied with the work?",
-    "note": "fem. راضية rāDya."
+    "note": "fem. راضية rāDya.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "مش راضي على السوم",
+        "tr": "mush rāDi 3la issōm",
+        "en": "Not happy with the price"
+      },
+      {
+        "ar": "ربي يرضى عليك",
+        "tr": "rabbi yarDa 3alēk",
+        "en": "God be pleased with you"
+      }
+    ]
   },
   {
     "ar": "ممنون",
@@ -3071,7 +6361,20 @@
     "ex_ar": "ممنون ليك على كل شي.",
     "ex_tr": "mamnūn līk 3la kull shī.",
     "ex_en": "I'm grateful to you for everything.",
-    "note": "fem. ممنونة mamnūna."
+    "note": "fem. ممنونة mamnūna.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "ممنونين ليك هلبة",
+        "tr": "mamnūnīn līk hallba",
+        "en": "We're very grateful to you"
+      },
+      {
+        "ar": "ممنونة على المساعدة",
+        "tr": "mamnūna 3la ilmusā3da",
+        "en": "Grateful for the help"
+      }
+    ]
   },
   {
     "ar": "وحيد",
@@ -3084,7 +6387,20 @@
     "ex_ar": "نحس روحي وحيد هني.",
     "ex_tr": "n7iss rū7i wa7īd hni.",
     "ex_en": "I feel lonely here.",
-    "note": "fem. وحيدة wa7īda."
+    "note": "fem. وحيدة wa7īda.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "قاعد وحيد في الحوش",
+        "tr": "gā3id wa7īd fil-7ōsh",
+        "en": "Sitting alone at home"
+      },
+      {
+        "ar": "هو ولد وحيد",
+        "tr": "hu wild wa7īd",
+        "en": "He's an only child"
+      }
+    ]
   },
   {
     "ar": "حنين",
@@ -3097,7 +6413,20 @@
     "ex_ar": "أمي حنينة هلبة.",
     "ex_tr": "ummi 7nīna hallba.",
     "ex_en": "My mother is very affectionate.",
-    "note": "fem. حنينة 7nīna."
+    "note": "fem. حنينة 7nīna.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "قلبه حنين",
+        "tr": "galba 7nīn",
+        "en": "He has a tender heart"
+      },
+      {
+        "ar": "بوي حنين علينا",
+        "tr": "būy 7nīn 3alēna",
+        "en": "My dad is affectionate with us"
+      }
+    ]
   },
   {
     "ar": "فرحة",
@@ -3110,7 +6439,20 @@
     "ex_ar": "فرحة العيد.",
     "ex_tr": "far7at il3īd.",
     "ex_en": "The joy of Eid.",
-    "note": "Also = wedding celebration in some regions."
+    "note": "Also = wedding celebration in some regions.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "فرحة كبيرة",
+        "tr": "far7a kbīra",
+        "en": "Great joy"
+      },
+      {
+        "ar": "ما نقدرش نوصف فرحتي",
+        "tr": "ma nigdarsh nūSif far7ti",
+        "en": "I can't describe my joy"
+      }
+    ]
   },
   {
     "ar": "حزن",
@@ -3122,7 +6464,20 @@
     "freq": 3,
     "ex_ar": "عيونه فيها حزن.",
     "ex_tr": "3yūna fīha 7uzn.",
-    "ex_en": "There's sadness in his eyes."
+    "ex_en": "There's sadness in his eyes.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "الحزن ما يدومش",
+        "tr": "il7uzn ma ydūmsh",
+        "en": "Sadness doesn't last"
+      },
+      {
+        "ar": "عاش في حزن",
+        "tr": "3āsh fi 7uzn",
+        "en": "He lived in sorrow"
+      }
+    ]
   },
   {
     "ar": "زعل",
@@ -3134,7 +6489,20 @@
     "freq": 2,
     "ex_ar": "ما فيش زعل بيناتنا.",
     "ex_tr": "ma fīsh za3al bīnātna.",
-    "ex_en": "There are no hard feelings between us."
+    "ex_en": "There are no hard feelings between us.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "خلي الزعل",
+        "tr": "khalli izza3al",
+        "en": "Let go of the grudge"
+      },
+      {
+        "ar": "زعل بسيط",
+        "tr": "za3al basīT",
+        "en": "A small falling-out"
+      }
+    ]
   },
   {
     "ar": "غشة",
@@ -3147,7 +6515,20 @@
     "ex_ar": "قالها في لحظة غشة.",
     "ex_tr": "gālha fi la7DHat ghashsha.",
     "ex_en": "He said it in a moment of anger.",
-    "note": "Noun related to Libyan تغشش 'to get angry'."
+    "note": "Noun related to Libyan تغشش 'to get angry'.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "في الغشة قال كلام خايب",
+        "tr": "fil-ghashsha gāl kalām khāyib",
+        "en": "In his anger he said bad things"
+      },
+      {
+        "ar": "غشته ما تطولش",
+        "tr": "ghashshta ma tTawwalsh",
+        "en": "His anger doesn't last long"
+      }
+    ]
   },
   {
     "ar": "خوف",
@@ -3159,7 +6540,20 @@
     "freq": 2,
     "ex_ar": "الخوف ما يفيدش.",
     "ex_tr": "ilkhōf ma yfīdsh.",
-    "ex_en": "Fear doesn't help."
+    "ex_en": "Fear doesn't help.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "عنده خوف من الطيارة",
+        "tr": "3anda khōf min iTTiyyāra",
+        "en": "He's afraid of flying"
+      },
+      {
+        "ar": "الخوف من ربي",
+        "tr": "ilkhōf min rabbi",
+        "en": "Fear of God"
+      }
+    ]
   },
   {
     "ar": "حب",
@@ -3171,7 +6565,20 @@
     "freq": 2,
     "ex_ar": "الحب ما يتشراش بالفلوس.",
     "ex_tr": "il7ubb ma yitshrāsh bilflūs.",
-    "ex_en": "Love can't be bought with money."
+    "ex_en": "Love can't be bought with money.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "حب الوطن",
+        "tr": "7ubb ilwaTan",
+        "en": "Love of the homeland"
+      },
+      {
+        "ar": "أغنية حب",
+        "tr": "ughniyyit 7ubb",
+        "en": "A love song"
+      }
+    ]
   },
   {
     "ar": "غرام",
@@ -3183,7 +6590,20 @@
     "freq": 3,
     "ex_ar": "أغنية فيها غرام.",
     "ex_tr": "ughniyya fīha gharām.",
-    "ex_en": "A song full of passion."
+    "ex_en": "A song full of passion.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "قصة غرام",
+        "tr": "giSSit gharām",
+        "en": "A love story"
+      },
+      {
+        "ar": "غرامه بالبحر",
+        "tr": "gharāma bilba7r",
+        "en": "His passion for the sea"
+      }
+    ]
   },
   {
     "ar": "كره",
@@ -3195,7 +6615,20 @@
     "freq": 4,
     "ex_ar": "ما عنديش كره لحد.",
     "ex_tr": "ma 3andīsh kurh l7add.",
-    "ex_en": "I don't hate anyone."
+    "ex_en": "I don't hate anyone.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "الكره ما يجيب شي",
+        "tr": "ilkurh ma yjīb shi",
+        "en": "Hatred brings nothing"
+      },
+      {
+        "ar": "بيناتهم كره قديم",
+        "tr": "bēnāthum kurh gdīm",
+        "en": "There's old hatred between them"
+      }
+    ]
   },
   {
     "ar": "هم",
@@ -3208,7 +6641,20 @@
     "ex_ar": "هم الدنيا ما يخلص.",
     "ex_tr": "hamm iddinya ma yukhluS.",
     "ex_en": "Life's worries never end.",
-    "note": "pl. هموم hmūm."
+    "note": "pl. هموم hmūm.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "شايل الهم",
+        "tr": "shāyil ilhamm",
+        "en": "Carrying the worries"
+      },
+      {
+        "ar": "هم الفلوس",
+        "tr": "hamm ilflūs",
+        "en": "Money worries"
+      }
+    ]
   },
   {
     "ar": "صبر",
@@ -3220,7 +6666,20 @@
     "freq": 2,
     "ex_ar": "يبيلها صبر.",
     "ex_tr": "yibbīlha Sabr.",
-    "ex_en": "It needs patience."
+    "ex_en": "It needs patience.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "الصبر مفتاح الفرج",
+        "tr": "iSSabr muftā7 ilfaraj",
+        "en": "Patience is the key to relief"
+      },
+      {
+        "ar": "ربي يعطيك الصبر",
+        "tr": "rabbi ya3Tīk iSSabr",
+        "en": "May God give you patience"
+      }
+    ]
   },
   {
     "ar": "أمل",
@@ -3232,7 +6691,20 @@
     "freq": 3,
     "ex_ar": "ما زال فيه أمل.",
     "ex_tr": "māzāl fīh amal.",
-    "ex_en": "There's still hope."
+    "ex_en": "There's still hope.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "عندي أمل كبير",
+        "tr": "3andi amal kbīr",
+        "en": "I have high hopes"
+      },
+      {
+        "ar": "ما تقطعش الأمل",
+        "tr": "ma tgaTTa3sh il'amal",
+        "en": "Don't give up hope"
+      }
+    ]
   },
   {
     "ar": "مزاج",
@@ -3244,7 +6716,20 @@
     "freq": 2,
     "ex_ar": "ما عنديش مزاج نطلع.",
     "ex_tr": "ma 3andīsh mizāj niTla3.",
-    "ex_en": "I'm not in the mood to go out."
+    "ex_en": "I'm not in the mood to go out.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "مزاجه خايب اليوم",
+        "tr": "mizāja khāyib ilyōm",
+        "en": "He's in a bad mood today"
+      },
+      {
+        "ar": "على مزاجك",
+        "tr": "3la mizājik",
+        "en": "As you like"
+      }
+    ]
   },
   {
     "ar": "أعصاب",
@@ -3257,7 +6742,20 @@
     "ex_ar": "أعصابي تعبانة اليوم.",
     "ex_tr": "a3Sābi ta3bāna ilyōm.",
     "ex_en": "My nerves are frayed today.",
-    "note": "sg. عصب 3aSab."
+    "note": "sg. عصب 3aSab.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "أعصابه باردة",
+        "tr": "a3Sāba bārda",
+        "en": "He's cool-headed"
+      },
+      {
+        "ar": "تعبتلي أعصابي",
+        "tr": "ta3abtli a3Sābi",
+        "en": "You've frayed my nerves"
+      }
+    ]
   },
   {
     "ar": "الغربة",
@@ -3269,6 +6767,19 @@
     "freq": 2,
     "ex_ar": "الغربة صعيبة.",
     "ex_tr": "ilghurba S3ība.",
-    "ex_en": "Living away from home is hard."
+    "ex_en": "Living away from home is hard.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "عشرين سنة في الغربة",
+        "tr": "3ishrīn sna fil-ghurba",
+        "en": "Twenty years abroad"
+      },
+      {
+        "ar": "الغربة تعلمك هلبة",
+        "tr": "ilghurba t3allmik hallba",
+        "en": "Living abroad teaches you a lot"
+      }
+    ]
   }
 ]
