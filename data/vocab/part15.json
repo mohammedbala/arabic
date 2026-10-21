@@ -4300,32 +4300,6 @@
   ]
  },
  {
-  "ar": "مواطن",
-  "tr": "muwāTin",
-  "en": "citizen",
-  "msa": "مواطن",
-  "pos": "noun",
-  "cat": "admin",
-  "freq": 4,
-  "usage": 44,
-  "ex_ar": "المواطن تعبان من الطوابير.",
-  "ex_tr": "il-muwāTin ta3bān min iT-Twābīr.",
-  "ex_en": "The citizen is tired of the queues.",
-  "note": "pl. مواطنين muwāTnīn",
-  "phrases": [
-   {
-    "ar": "مواطن عادي",
-    "tr": "muwāTin 3ādi",
-    "en": "an ordinary citizen"
-   },
-   {
-    "ar": "حقوق المواطن",
-    "tr": "7ugūg il-muwāTin",
-    "en": "citizens' rights"
-   }
-  ]
- },
- {
   "ar": "مستند",
   "tr": "mustanad",
   "en": "document (supporting)",
@@ -4947,58 +4921,6 @@
   ]
  },
  {
-  "ar": "متهم",
-  "tr": "mittaham",
-  "en": "accused; defendant; suspect",
-  "msa": "متهم",
-  "pos": "noun",
-  "cat": "admin",
-  "freq": 5,
-  "usage": 32,
-  "ex_ar": "المتهم نكر كل شي.",
-  "ex_tr": "il-mittaham nkar kull shay.",
-  "ex_en": "The accused denied everything.",
-  "note": "pl. متهمين",
-  "phrases": [
-   {
-    "ar": "المتهم بريء",
-    "tr": "il-mittaham barī'",
-    "en": "the accused is innocent"
-   },
-   {
-    "ar": "متهم بالسرقة",
-    "tr": "mittaham bis-sirga",
-    "en": "accused of theft"
-   }
-  ]
- },
- {
-  "ar": "شاهد",
-  "tr": "shāhid",
-  "en": "witness",
-  "msa": "شاهد",
-  "pos": "noun",
-  "cat": "admin",
-  "freq": 4,
-  "usage": 36,
-  "ex_ar": "كان فيه شاهد على الحادث.",
-  "ex_tr": "kān fīh shāhid 3ala l-7ādith.",
-  "ex_en": "There was a witness to the accident.",
-  "note": "pl. شهود shhūd",
-  "phrases": [
-   {
-    "ar": "شاهد عيان",
-    "tr": "shāhid 3iyān",
-    "en": "eyewitness"
-   },
-   {
-    "ar": "جيب شهود",
-    "tr": "jīb shhūd",
-    "en": "bring witnesses"
-   }
-  ]
- },
- {
   "ar": "جريمة",
   "tr": "jarīma",
   "en": "crime",
@@ -5047,32 +4969,6 @@
     "ar": "بلاغ سرقة",
     "tr": "blāgh sirga",
     "en": "a theft report"
-   }
-  ]
- },
- {
-  "ar": "سرّاق",
-  "tr": "sarrāg",
-  "en": "thief",
-  "msa": "سارق",
-  "pos": "noun",
-  "cat": "admin",
-  "freq": 4,
-  "usage": 40,
-  "ex_ar": "السرّاق خش للحوش في الليل.",
-  "ex_tr": "is-sarrāg khashsh lil-7ōsh fil-līl.",
-  "ex_en": "The thief got into the house at night.",
-  "note": "pl. سرّاقة sarrāga; also حرامي 7arāmi",
-  "phrases": [
-   {
-    "ar": "شدّوا السرّاق",
-    "tr": "shaddu s-sarrāg",
-    "en": "they caught the thief"
-   },
-   {
-    "ar": "سرّاق مكاين",
-    "tr": "sarrāg makāyin",
-    "en": "a car thief"
    }
   ]
  },
@@ -6090,109 +5986,6 @@
     "ar": "سلعة تهريب",
     "tr": "sil3it tahrīb",
     "en": "smuggled goods"
-   }
-  ]
- },
- {
-  "ar": "مهاجر",
-  "tr": "muhājir",
-  "en": "migrant; emigrant",
-  "msa": "مهاجر",
-  "pos": "noun",
-  "cat": "travel",
-  "freq": 5,
-  "usage": 32,
-  "ex_ar": "فيه مهاجرين هلبة في ليبيا.",
-  "ex_tr": "fīh muhājrīn halba fi lībya.",
-  "ex_en": "There are many migrants in Libya.",
-  "note": "pl. مهاجرين muhājrīn",
-  "phrases": [
-   {
-    "ar": "مهاجر غير شرعي",
-    "tr": "muhājir ghēr shar3i",
-    "en": "an irregular migrant"
-   },
-   {
-    "ar": "ولده مهاجر في كندا",
-    "tr": "wildah muhājir fi kanada",
-    "en": "his son emigrated to Canada"
-   }
-  ]
- },
- {
-  "ar": "هجرة",
-  "tr": "hijra",
-  "en": "migration; emigration",
-  "msa": "هجرة",
-  "pos": "noun",
-  "cat": "travel",
-  "freq": 5,
-  "usage": 32,
-  "ex_ar": "الهجرة لأوروبا مش ساهلة.",
-  "ex_tr": "il-hijra l-urubba mush sāhla.",
-  "ex_en": "Emigrating to Europe isn't easy.",
-  "phrases": [
-   {
-    "ar": "هجرة غير شرعية",
-    "tr": "hijra ghēr shar3iyya",
-    "en": "illegal migration"
-   },
-   {
-    "ar": "مصلحة الهجرة",
-    "tr": "maSla7it il-hijra",
-    "en": "immigration authority"
-   }
-  ]
- },
- {
-  "ar": "لاجئ",
-  "tr": "lāji'",
-  "en": "refugee",
-  "msa": "لاجئ",
-  "pos": "noun",
-  "cat": "travel",
-  "freq": 5,
-  "usage": 24,
-  "ex_ar": "جوا لاجئين من السودان.",
-  "ex_tr": "jaw lāj'īn min is-sūdān.",
-  "ex_en": "Refugees came from Sudan.",
-  "note": "pl. لاجئين lāj'īn",
-  "phrases": [
-   {
-    "ar": "مخيم لاجئين",
-    "tr": "mukhayyam lāj'īn",
-    "en": "refugee camp"
-   },
-   {
-    "ar": "لاجئ سياسي",
-    "tr": "lāji' siyāsi",
-    "en": "political refugee"
-   }
-  ]
- },
- {
-  "ar": "نازح",
-  "tr": "nāzi7",
-  "en": "displaced person",
-  "msa": "نازح",
-  "pos": "noun",
-  "cat": "admin",
-  "freq": 5,
-  "usage": 26,
-  "ex_ar": "العيلة نازحة من تاورغاء.",
-  "ex_tr": "il-3ēla nāz7a min tāwurghā'.",
-  "ex_en": "The family is displaced from Tawergha.",
-  "note": "pl. نازحين nāz7īn",
-  "phrases": [
-   {
-    "ar": "مخيم نازحين",
-    "tr": "mukhayyam nāz7īn",
-    "en": "a camp for displaced people"
-   },
-   {
-    "ar": "النازحين رجعوا",
-    "tr": "in-nāz7īn rij3u",
-    "en": "the displaced people returned"
    }
   ]
  },
@@ -7959,6 +7752,926 @@
     "ar": "تذكرة انتظار جديدة",
     "tr": "tadhkrit intiDHār jdīda",
     "en": "a new queue ticket"
+   }
+  ]
+ },
+ {
+  "ar": "شاسي",
+  "tr": "shāsi",
+  "en": "chassis; chassis number",
+  "msa": "هيكل السيارة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "قبل ما تشري شوف رقم الشاسي.",
+  "ex_tr": "gbal ma tishri shūf ragm ish-shāsi.",
+  "ex_en": "Before you buy, check the chassis number.",
+  "note": "French loan (châssis)",
+  "phrases": [
+   {
+    "ar": "رقم الشاسي",
+    "tr": "ragm ish-shāsi",
+    "en": "VIN; chassis number"
+   },
+   {
+    "ar": "الشاسي معووج",
+    "tr": "ish-shāsi m3awwaj",
+    "en": "the chassis is bent"
+   }
+  ]
+ },
+ {
+  "ar": "موديل",
+  "tr": "mōdēl",
+  "en": "model year; model",
+  "msa": "طراز",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "الماكينة موديل ألفين وخمستاش.",
+  "ex_tr": "il-makīna mōdēl alfēn w khamastāsh.",
+  "ex_en": "The car is a 2015 model.",
+  "note": "pl. موديلات mōdēlāt",
+  "phrases": [
+   {
+    "ar": "موديل جديد",
+    "tr": "mōdēl jdīd",
+    "en": "a new model"
+   },
+   {
+    "ar": "شن موديلها؟",
+    "tr": "shin mōdēlha?",
+    "en": "What year is it?"
+   }
+  ]
+ },
+ {
+  "ar": "وارد",
+  "tr": "wārid",
+  "en": "imported (car); import",
+  "msa": "مستورد",
+  "pos": "adj",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "الماكينة وارد كوريا.",
+  "ex_tr": "il-makīna wārid kōrya.",
+  "ex_en": "The car is a Korean import.",
+  "note": "Libyan car-market term, e.g. وارد أمريكا",
+  "phrases": [
+   {
+    "ar": "وارد الخليج",
+    "tr": "wārid il-khalīj",
+    "en": "Gulf import"
+   },
+   {
+    "ar": "وارد أوروبا أحسن",
+    "tr": "wārid urubba a7san",
+    "en": "European imports are better"
+   }
+  ]
+ },
+ {
+  "ar": "ميكانيكا",
+  "tr": "mēkanīka",
+  "en": "mechanics (of a car); engine work",
+  "msa": "ميكانيكا",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "الماكينة ميكانيكا زينة بس الدهان خايب.",
+  "ex_tr": "il-makīna mēkanīka zēna bass id-dhān khāyib.",
+  "ex_en": "The car is mechanically sound but the paint is bad.",
+  "note": "Italian loan (meccanica)",
+  "phrases": [
+   {
+    "ar": "ورشة ميكانيكا",
+    "tr": "warshit mēkanīka",
+    "en": "mechanic's workshop"
+   },
+   {
+    "ar": "ميكانيكا عامة",
+    "tr": "mēkanīka 3āmma",
+    "en": "general mechanics"
+   }
+  ]
+ },
+ {
+  "ar": "فاميه",
+  "tr": "fāmēh",
+  "en": "window tint; tinted glass",
+  "msa": "تظليل",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "المرور يخالف على الفاميه.",
+  "ex_tr": "il-murūr ykhālif 3al-fāmēh.",
+  "ex_en": "Traffic police fine you for window tint.",
+  "note": "French loan (fumé)",
+  "phrases": [
+   {
+    "ar": "فاميه أسود",
+    "tr": "fāmēh aswad",
+    "en": "dark tint"
+   },
+   {
+    "ar": "نحّي الفاميه",
+    "tr": "na77i l-fāmēh",
+    "en": "remove the tint"
+   }
+  ]
+ },
+ {
+  "ar": "حسّاسات",
+  "tr": "7assāsāt",
+  "en": "parking sensors",
+  "msa": "حساسات",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "الماكينة فيها حسّاسات ورا.",
+  "ex_tr": "il-makīna fīha 7assāsāt wara.",
+  "ex_en": "The car has rear parking sensors.",
+  "note": "sing. حسّاس 7assās",
+  "phrases": [
+   {
+    "ar": "حسّاسات وكاميرا",
+    "tr": "7assāsāt w kāmira",
+    "en": "sensors and a camera"
+   },
+   {
+    "ar": "الحسّاسات تزمر",
+    "tr": "il-7assāsāt tzammir",
+    "en": "the sensors are beeping"
+   }
+  ]
+ },
+ {
+  "ar": "توصيلة",
+  "tr": "tawSīla",
+  "en": "lift; ride",
+  "msa": "توصيلة",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "تبي توصيلة للمطار؟",
+  "ex_tr": "tibbi tawSīla lil-maTār?",
+  "ex_en": "Do you want a lift to the airport?",
+  "note": "pl. توصيلات; also extension cable",
+  "phrases": [
+   {
+    "ar": "عطاني توصيلة للحوش",
+    "tr": "3Tāni tawSīla lil-7ōsh",
+    "en": "he gave me a lift home"
+   },
+   {
+    "ar": "دبرلي توصيلة",
+    "tr": "dabbirli tawSīla",
+    "en": "find me a ride"
+   }
+  ]
+ },
+ {
+  "ar": "حظر تجول",
+  "tr": "7aDHr tajawwul",
+  "en": "curfew",
+  "msa": "حظر تجول",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "كان فيه حظر تجول من الساعة ستة.",
+  "ex_tr": "kān fīh 7aDHr tajawwul min is-sā3a sitta.",
+  "ex_en": "There was a curfew from six o'clock.",
+  "phrases": [
+   {
+    "ar": "رفعوا حظر التجول",
+    "tr": "rfa3u 7aDHr it-tajawwul",
+    "en": "they lifted the curfew"
+   },
+   {
+    "ar": "وقت حظر التجول",
+    "tr": "wagt 7aDHr it-tajawwul",
+    "en": "curfew hours"
+   }
+  ]
+ },
+ {
+  "ar": "مطار معيتيقة",
+  "tr": "maTār m3ītīga",
+  "en": "Mitiga Airport (Tripoli)",
+  "msa": "مطار معيتيقة",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "الرحلة من مطار معيتيقة.",
+  "ex_tr": "ir-ri7la min maTār m3ītīga.",
+  "ex_en": "The flight is from Mitiga Airport.",
+  "note": "Tripoli's working airport",
+  "phrases": [
+   {
+    "ar": "الطريق لمعيتيقة",
+    "tr": "iT-Trīg l-m3ītīga",
+    "en": "the road to Mitiga"
+   },
+   {
+    "ar": "معيتيقة مسكّر اليوم",
+    "tr": "m3ītīga msakkar il-yōm",
+    "en": "Mitiga is closed today"
+   }
+  ]
+ },
+ {
+  "ar": "تاجوراء",
+  "tr": "tājūra",
+  "en": "Tajoura (town east of Tripoli)",
+  "msa": "تاجوراء",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "ساكنين في تاجوراء.",
+  "ex_tr": "sāknīn fi tājūra.",
+  "ex_en": "They live in Tajoura.",
+  "phrases": [
+   {
+    "ar": "شط تاجوراء",
+    "tr": "shaTT tājūra",
+    "en": "Tajoura beach"
+   },
+   {
+    "ar": "من تاجوراء لوسط البلاد",
+    "tr": "min tājūra l-wusT il-blād",
+    "en": "from Tajoura to downtown"
+   }
+  ]
+ },
+ {
+  "ar": "جنزور",
+  "tr": "janzūr",
+  "en": "Janzour (town west of Tripoli)",
+  "msa": "جنزور",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "نمشوا للبحر في جنزور.",
+  "ex_tr": "nimshu lil-ba7r fi janzūr.",
+  "ex_en": "We go to the sea in Janzour.",
+  "phrases": [
+   {
+    "ar": "طريق جنزور",
+    "tr": "Trīg janzūr",
+    "en": "the Janzour road"
+   },
+   {
+    "ar": "جنزور زحمة في الصيف",
+    "tr": "janzūr za7ma fiS-Sēf",
+    "en": "Janzour is busy in summer"
+   }
+  ]
+ },
+ {
+  "ar": "غريان",
+  "tr": "ghiryān",
+  "en": "Gharyan (town in the Nafusa mountains)",
+  "msa": "غريان",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "غريان باردة في الشتا.",
+  "ex_tr": "ghiryān bārda fish-shita.",
+  "ex_en": "Gharyan is cold in winter.",
+  "note": "famous for pottery",
+  "phrases": [
+   {
+    "ar": "فخار غريان",
+    "tr": "fakhkhār ghiryān",
+    "en": "Gharyan pottery"
+   },
+   {
+    "ar": "طريق غريان",
+    "tr": "Trīg ghiryān",
+    "en": "the Gharyan road"
+   }
+  ]
+ },
+ {
+  "ar": "زوارة",
+  "tr": "zwāra",
+  "en": "Zuwara (coastal town near Tunisia)",
+  "msa": "زوارة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "مشينا لزوارة نسبحوا.",
+  "ex_tr": "mshēna l-zwāra nisba7u.",
+  "ex_en": "We went to Zuwara to swim.",
+  "note": "Amazigh town",
+  "phrases": [
+   {
+    "ar": "بحر زوارة",
+    "tr": "ba7r zwāra",
+    "en": "Zuwara's sea"
+   },
+   {
+    "ar": "من زوارة للحدود",
+    "tr": "min zwāra lil-7udūd",
+    "en": "from Zuwara to the border"
+   }
+  ]
+ },
+ {
+  "ar": "الخمس",
+  "tr": "il-khums",
+  "en": "Al-Khums (coastal town east of Tripoli)",
+  "msa": "الخمس",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "لبدة قريبة من الخمس.",
+  "ex_tr": "labda grība min il-khums.",
+  "ex_en": "Leptis Magna is close to Al-Khums.",
+  "phrases": [
+   {
+    "ar": "ساكن في الخمس",
+    "tr": "sākin fil-khums",
+    "en": "he lives in Al-Khums"
+   },
+   {
+    "ar": "مينا الخمس",
+    "tr": "mīnit il-khums",
+    "en": "the port of Al-Khums"
+   }
+  ]
+ },
+ {
+  "ar": "صبراتة",
+  "tr": "Sabrāta",
+  "en": "Sabratha (coastal town with Roman ruins)",
+  "msa": "صبراتة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "الآثار في صبراتة زينة.",
+  "ex_tr": "il-āthār fi Sabrāta zēna.",
+  "ex_en": "The ruins in Sabratha are beautiful.",
+  "phrases": [
+   {
+    "ar": "مسرح صبراتة",
+    "tr": "masra7 Sabrāta",
+    "en": "the Sabratha theatre"
+   },
+   {
+    "ar": "رحلة لصبراتة",
+    "tr": "ri7la l-Sabrāta",
+    "en": "a trip to Sabratha"
+   }
+  ]
+ },
+ {
+  "ar": "لبدة",
+  "tr": "labda",
+  "en": "Leptis Magna",
+  "msa": "لبدة الكبرى",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "زرنا لبدة مع المدرسة.",
+  "ex_tr": "zurna labda ma3a l-madrasa.",
+  "ex_en": "We visited Leptis Magna with school.",
+  "note": "Roman city near Al-Khums",
+  "phrases": [
+   {
+    "ar": "آثار لبدة",
+    "tr": "āthār labda",
+    "en": "the ruins of Leptis"
+   },
+   {
+    "ar": "سوق لبدة",
+    "tr": "sūg labda",
+    "en": "the Leptis market"
+   }
+  ]
+ },
+ {
+  "ar": "ترهونة",
+  "tr": "tarhūna",
+  "en": "Tarhuna (town south-east of Tripoli)",
+  "msa": "ترهونة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "عيلته من ترهونة.",
+  "ex_tr": "3ēltah min tarhūna.",
+  "ex_en": "His family is from Tarhuna.",
+  "phrases": [
+   {
+    "ar": "طريق ترهونة",
+    "tr": "Trīg tarhūna",
+    "en": "the Tarhuna road"
+   },
+   {
+    "ar": "زيتون ترهونة",
+    "tr": "zitūn tarhūna",
+    "en": "Tarhuna olives"
+   }
+  ]
+ },
+ {
+  "ar": "زليتن",
+  "tr": "zlīten",
+  "en": "Zliten (coastal town)",
+  "msa": "زليتن",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "زليتن بين الخمس ومصراتة.",
+  "ex_tr": "zlīten bēn il-khums w maSrāta.",
+  "ex_en": "Zliten is between Al-Khums and Misrata.",
+  "phrases": [
+   {
+    "ar": "جامع زليتن",
+    "tr": "jāmi3 zlīten",
+    "en": "the Zliten mosque"
+   },
+   {
+    "ar": "ساكن في زليتن",
+    "tr": "sākin fi zlīten",
+    "en": "he lives in Zliten"
+   }
+  ]
+ },
+ {
+  "ar": "سرت",
+  "tr": "sirt",
+  "en": "Sirte (central coastal city)",
+  "msa": "سرت",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "سرت في نص الطريق لبنغازي.",
+  "ex_tr": "sirt fi nuSS iT-Trīg l-bin-ghāzi.",
+  "ex_en": "Sirte is halfway to Benghazi.",
+  "phrases": [
+   {
+    "ar": "خليج سرت",
+    "tr": "khalīj sirt",
+    "en": "the Gulf of Sirte"
+   },
+   {
+    "ar": "من سرت",
+    "tr": "min sirt",
+    "en": "from Sirte"
+   }
+  ]
+ },
+ {
+  "ar": "درنة",
+  "tr": "darna",
+  "en": "Derna (eastern coastal city)",
+  "msa": "درنة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "درنة فيها الشلال.",
+  "ex_tr": "darna fīha sh-shallāl.",
+  "ex_en": "Derna has the waterfall.",
+  "phrases": [
+   {
+    "ar": "وادي درنة",
+    "tr": "wādi darna",
+    "en": "the Derna wadi"
+   },
+   {
+    "ar": "أهل درنة",
+    "tr": "ahl darna",
+    "en": "the people of Derna"
+   }
+  ]
+ },
+ {
+  "ar": "طبرق",
+  "tr": "Tubrug",
+  "en": "Tobruk (eastern city near Egypt)",
+  "msa": "طبرق",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "طبرق قريبة من حدود مصر.",
+  "ex_tr": "Tubrug grība min 7udūd maSr.",
+  "ex_en": "Tobruk is close to the Egyptian border.",
+  "phrases": [
+   {
+    "ar": "مينا طبرق",
+    "tr": "mīnit Tubrug",
+    "en": "Tobruk port"
+   },
+   {
+    "ar": "الطريق لطبرق",
+    "tr": "iT-Trīg l-Tubrug",
+    "en": "the road to Tobruk"
+   }
+  ]
+ },
+ {
+  "ar": "البيضاء",
+  "tr": "il-bēDa",
+  "en": "Al-Bayda (city in the Green Mountain)",
+  "msa": "البيضاء",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "البيضاء في الجبل الأخضر.",
+  "ex_tr": "il-bēDa fij-jbal il-akhDar.",
+  "ex_en": "Al-Bayda is in the Green Mountain.",
+  "phrases": [
+   {
+    "ar": "جامعة البيضاء",
+    "tr": "jām3it il-bēDa",
+    "en": "Bayda University"
+   },
+   {
+    "ar": "جو البيضاء بارد",
+    "tr": "jaww il-bēDa bārid",
+    "en": "Bayda's weather is cool"
+   }
+  ]
+ },
+ {
+  "ar": "أجدابيا",
+  "tr": "ajdābya",
+  "en": "Ajdabiya (eastern town)",
+  "msa": "أجدابيا",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "فتنا على أجدابيا في الطريق.",
+  "ex_tr": "fitna 3ala ajdābya fiT-Trīg.",
+  "ex_en": "We passed through Ajdabiya on the way.",
+  "phrases": [
+   {
+    "ar": "من أجدابيا لبنغازي",
+    "tr": "min ajdābya l-bin-ghāzi",
+    "en": "from Ajdabiya to Benghazi"
+   },
+   {
+    "ar": "ساكنين في أجدابيا",
+    "tr": "sāknīn fi ajdābya",
+    "en": "they live in Ajdabiya"
+   }
+  ]
+ },
+ {
+  "ar": "غدامس",
+  "tr": "ghdāmis",
+  "en": "Ghadames (oasis town in the west)",
+  "msa": "غدامس",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "المدينة القديمة في غدامس زينة هلبة.",
+  "ex_tr": "il-mdīna l-gdīma fi ghdāmis zēna halba.",
+  "ex_en": "The old town of Ghadames is very beautiful.",
+  "note": "'pearl of the desert'",
+  "phrases": [
+   {
+    "ar": "تمر غدامس",
+    "tr": "tmar ghdāmis",
+    "en": "Ghadames dates"
+   },
+   {
+    "ar": "رحلة لغدامس",
+    "tr": "ri7la l-ghdāmis",
+    "en": "a trip to Ghadames"
+   }
+  ]
+ },
+ {
+  "ar": "يفرن",
+  "tr": "yifran",
+  "en": "Yafran (town in the Nafusa mountains)",
+  "msa": "يفرن",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "يفرن فيها ثلج ساعات.",
+  "ex_tr": "yifran fīha thalj sā3āt.",
+  "ex_en": "Yafran sometimes gets snow.",
+  "note": "Amazigh mountain town",
+  "phrases": [
+   {
+    "ar": "الجبل في يفرن",
+    "tr": "ij-jbal fi yifran",
+    "en": "the mountain at Yafran"
+   },
+   {
+    "ar": "طريق يفرن",
+    "tr": "Trīg yifran",
+    "en": "the road to Yafran"
+   }
+  ]
+ },
+ {
+  "ar": "بني وليد",
+  "tr": "bani walīd",
+  "en": "Bani Walid (inland town)",
+  "msa": "بني وليد",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "بني وليد جنوب ترهونة.",
+  "ex_tr": "bani walīd janūb tarhūna.",
+  "ex_en": "Bani Walid is south of Tarhuna.",
+  "phrases": [
+   {
+    "ar": "ساكن في بني وليد",
+    "tr": "sākin fi bani walīd",
+    "en": "he lives in Bani Walid"
+   },
+   {
+    "ar": "طريق بني وليد",
+    "tr": "Trīg bani walīd",
+    "en": "the Bani Walid road"
+   }
+  ]
+ },
+ {
+  "ar": "الكفرة",
+  "tr": "il-kufra",
+  "en": "Kufra (oasis in the south-east)",
+  "msa": "الكفرة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "الكفرة بعيدة هلبة في الصحرا.",
+  "ex_tr": "il-kufra b3īda halba fiS-Sa7ra.",
+  "ex_en": "Kufra is very far out in the desert.",
+  "phrases": [
+   {
+    "ar": "مطار الكفرة",
+    "tr": "maTār il-kufra",
+    "en": "Kufra airport"
+   },
+   {
+    "ar": "مشاريع الكفرة",
+    "tr": "mashārī3 il-kufra",
+    "en": "the Kufra farm projects"
+   }
+  ]
+ },
+ {
+  "ar": "الخارجية",
+  "tr": "il-khārijiyya",
+  "en": "Ministry of Foreign Affairs",
+  "msa": "وزارة الخارجية",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "صدّق الشهادة في الخارجية.",
+  "ex_tr": "Saddag ish-shahāda fil-khārijiyya.",
+  "ex_en": "He had the certificate attested at the Foreign Ministry.",
+  "note": "short for وزارة الخارجية",
+  "phrases": [
+   {
+    "ar": "وزير الخارجية",
+    "tr": "wazīr il-khārijiyya",
+    "en": "foreign minister"
+   },
+   {
+    "ar": "ختم الخارجية",
+    "tr": "khatm il-khārijiyya",
+    "en": "Foreign Ministry stamp"
+   }
+  ]
+ },
+ {
+  "ar": "الداخلية",
+  "tr": "id-dākhiliyya",
+  "en": "Ministry of the Interior",
+  "msa": "وزارة الداخلية",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "الجوازات تتبع الداخلية.",
+  "ex_tr": "ij-jawāzāt titba3 id-dākhiliyya.",
+  "ex_en": "The passport office is under the Interior Ministry.",
+  "note": "short for وزارة الداخلية",
+  "phrases": [
+   {
+    "ar": "وزير الداخلية",
+    "tr": "wazīr id-dākhiliyya",
+    "en": "interior minister"
+   },
+   {
+    "ar": "خدمته في الداخلية",
+    "tr": "khidmtah fid-dākhiliyya",
+    "en": "he works at the Interior Ministry"
+   }
+  ]
+ },
+ {
+  "ar": "مصلحة",
+  "tr": "maSla7a",
+  "en": "government agency; authority",
+  "msa": "مصلحة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "امشي لمصلحة الضرايب.",
+  "ex_tr": "imshi l-maSla7it iD-Darāyib.",
+  "ex_en": "Go to the tax authority.",
+  "note": "pl. مصالح maSāli7; also 'interest, benefit'",
+  "phrases": [
+   {
+    "ar": "مصلحة الجوازات",
+    "tr": "maSla7it ij-jawāzāt",
+    "en": "the passport authority"
+   },
+   {
+    "ar": "مصلحة الأحوال المدنية",
+    "tr": "maSla7it il-a7wāl il-madaniyya",
+    "en": "the civil status authority"
+   }
+  ]
+ },
+ {
+  "ar": "هيئة",
+  "tr": "hay'a",
+  "en": "authority; commission; body",
+  "msa": "هيئة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "الهيئة طلّعت بيان.",
+  "ex_tr": "il-hay'a Talla3at bayān.",
+  "ex_en": "The authority issued a statement.",
+  "note": "pl. هيئات hay'āt",
+  "phrases": [
+   {
+    "ar": "هيئة الرقابة",
+    "tr": "hay'it ir-raqāba",
+    "en": "the oversight authority"
+   },
+   {
+    "ar": "هيئة الاتصالات",
+    "tr": "hay'it il-ittiSālāt",
+    "en": "the telecoms authority"
+   }
+  ]
+ },
+ {
+  "ar": "موافقة",
+  "tr": "muwāfga",
+  "en": "approval; consent",
+  "msa": "موافقة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "الطلب يبي موافقة المدير.",
+  "ex_tr": "iT-Talab yibbi muwāfgit il-mudīr.",
+  "ex_en": "The application needs the manager's approval.",
+  "phrases": [
+   {
+    "ar": "جاتني الموافقة",
+    "tr": "jatni l-muwāfga",
+    "en": "I got the approval"
+   },
+   {
+    "ar": "موافقة أمنية",
+    "tr": "muwāfga amniyya",
+    "en": "security clearance"
+   }
+  ]
+ },
+ {
+  "ar": "صك مصدّق",
+  "tr": "Sakk muSaddag",
+  "en": "certified cheque",
+  "msa": "شيك مصدق",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "الماكينة ما يبيعهاش إلا بصك مصدّق.",
+  "ex_tr": "il-makīna ma ybī3hāsh illa b-Sakk muSaddag.",
+  "ex_en": "He'll only sell the car for a certified cheque.",
+  "note": "very common in Libyan big purchases",
+  "phrases": [
+   {
+    "ar": "صرف الصك المصدّق",
+    "tr": "Sarf iS-Sakk il-muSaddag",
+    "en": "cashing the certified cheque"
+   },
+   {
+    "ar": "صك مصدّق من المصرف",
+    "tr": "Sakk muSaddag min il-maSraf",
+    "en": "a certified cheque from the bank"
+   }
+  ]
+ },
+ {
+  "ar": "مداهمة",
+  "tr": "mudāhma",
+  "en": "raid (police)",
+  "msa": "مداهمة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "الشرطة دارت مداهمة في الليل.",
+  "ex_tr": "ish-shurTa dārat mudāhma fil-līl.",
+  "ex_en": "The police carried out a raid at night.",
+  "note": "pl. مداهمات",
+  "phrases": [
+   {
+    "ar": "مداهمة وكر",
+    "tr": "mudāhmit wakr",
+    "en": "a raid on a den"
+   },
+   {
+    "ar": "حملة مداهمات",
+    "tr": "7amlit mudāhmāt",
+    "en": "a series of raids"
+   }
+  ]
+ },
+ {
+  "ar": "اشتباكات",
+  "tr": "ishtibākāt",
+  "en": "clashes; armed clashes",
+  "msa": "اشتباكات",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "الطريق مسكّر بسبب الاشتباكات.",
+  "ex_tr": "iT-Trīg msakkar b-sabab il-ishtibākāt.",
+  "ex_en": "The road is closed because of the clashes.",
+  "note": "sing. اشتباك ishtibāk",
+  "phrases": [
+   {
+    "ar": "اشتباكات في الليل",
+    "tr": "ishtibākāt fil-līl",
+    "en": "clashes at night"
+   },
+   {
+    "ar": "وقفت الاشتباكات",
+    "tr": "wugfat il-ishtibākāt",
+    "en": "the clashes stopped"
+   }
+  ]
+ },
+ {
+  "ar": "طريق صحراوي",
+  "tr": "Trīg Sa7rāwi",
+  "en": "desert road",
+  "msa": "طريق صحراوي",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "الطريق الصحراوي لسبها طويل.",
+  "ex_tr": "iT-Trīg iS-Sa7rāwi l-sabha Twīl.",
+  "ex_en": "The desert road to Sabha is long.",
+  "phrases": [
+   {
+    "ar": "خذ معاك مية في الطريق الصحراوي",
+    "tr": "khudh ma3āk mayya fiT-Trīg iS-Sa7rāwi",
+    "en": "take water on the desert road"
+   },
+   {
+    "ar": "ماكينة للطريق الصحراوي",
+    "tr": "makīna liT-Trīg iS-Sa7rāwi",
+    "en": "a car for the desert road"
    }
   ]
  }

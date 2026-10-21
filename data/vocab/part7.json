@@ -5952,5 +5952,941 @@
         "en": "Don't slam the door"
       }
     ]
+  },
+  {
+    "ar": "طلّ",
+    "tr": "Tall",
+    "en": "to look out; to peek; to check in on",
+    "msa": "أطلّ",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 3,
+    "ex_ar": "طلّ من الطاقة وشوف منو جا.",
+    "ex_tr": "Till mit-Tāga w-shūf mnu jā.",
+    "ex_en": "Look out the window and see who's come.",
+    "note": "imperfect: نطلّ nTill (I look out), يطلّ yTill (he looks out)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "نطلّ على أمي ونجيك",
+        "tr": "nTill 3ala ummi w-njīk",
+        "en": "I'll check in on my mum and come to you"
+      },
+      {
+        "ar": "طلّ علينا مرة مرة",
+        "tr": "Till 3alēna marra marra",
+        "en": "Drop in on us now and then"
+      }
+    ]
+  },
+  {
+    "ar": "تسلّق",
+    "tr": "tsallag",
+    "en": "to climb",
+    "msa": "تسلّق",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "تسلّق الشجرة باش يجيب الكورة.",
+    "ex_tr": "tsallag ish-shajra bāsh yjīb il-kōra.",
+    "ex_en": "He climbed the tree to get the ball.",
+    "note": "imperfect: نتسلّق nitsallag (I climb), يتسلّق yitsallag (he climbs)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "تسلّق الحيط",
+        "tr": "tsallag il-7ēT",
+        "en": "He climbed the wall"
+      },
+      {
+        "ar": "ما تتسلّقش على الكراسي",
+        "tr": "ma titsallagsh 3al-krāsi",
+        "en": "Don't climb on the chairs"
+      }
+    ]
+  },
+  {
+    "ar": "تزلّق",
+    "tr": "tzallag",
+    "en": "to slip",
+    "msa": "انزلق",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "الأرض مبلولة، ردّ بالك تتزلّق.",
+    "ex_tr": "il-arD mablūla, rudd bālak titzallag.",
+    "ex_en": "The floor's wet, careful you don't slip.",
+    "note": "imperfect: نتزلّق nitzallag (I slip), يتزلّق yitzallag (he slips)",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "تزلّق وطاح على ظهره",
+        "tr": "tzallag w-Tā7 3ala DHahrah",
+        "en": "He slipped and fell on his back"
+      },
+      {
+        "ar": "تزلّقت في الدروج",
+        "tr": "tzallagt fid-drūj",
+        "en": "I slipped on the stairs"
+      }
+    ]
+  },
+  {
+    "ar": "لوى",
+    "tr": "lwā",
+    "en": "to turn (left/right); to twist",
+    "msa": "انعطف؛ لوى",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 3,
+    "ex_ar": "الوي على اليمين بعد الجامع.",
+    "ex_tr": "ilwi 3al-imīn ba3d il-jāmi3.",
+    "ex_en": "Turn right after the mosque.",
+    "note": "imperfect: نلوي nilwi (I turn), يلوي yilwi (he turns)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "لوى رجله في الكورة",
+        "tr": "lwā rijlah fil-kōra",
+        "en": "He twisted his ankle playing football"
+      },
+      {
+        "ar": "ما تلويش هنا، ممنوع",
+        "tr": "ma tilwīsh hina, mamnū3",
+        "en": "Don't turn here, it's not allowed"
+      }
+    ]
+  },
+  {
+    "ar": "استعجل",
+    "tr": "sta3jal",
+    "en": "to hurry; to rush",
+    "msa": "استعجل",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "ما تستعجلش، عندنا وقت.",
+    "ex_tr": "ma tista3jilsh, 3andna wagt.",
+    "ex_en": "Don't rush, we have time.",
+    "note": "imperfect: نستعجل nista3jil (I hurry), يستعجل yista3jil (he hurries)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "استعجل شوية",
+        "tr": "sta3jil shwayya",
+        "en": "Hurry up a bit"
+      },
+      {
+        "ar": "علاش مستعجل؟",
+        "tr": "3lāsh mista3jil?",
+        "en": "Why are you in a hurry?"
+      }
+    ]
+  },
+  {
+    "ar": "سبق",
+    "tr": "sbag",
+    "en": "to get ahead; to go ahead (of); to beat (someone) to it",
+    "msa": "سبق",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 3,
+    "ex_ar": "اسبقني للحوش، نجي وراك.",
+    "ex_tr": "usbugni lil-7ōsh, nji wrāk.",
+    "ex_en": "Go ahead of me to the house, I'll come after you.",
+    "note": "imperfect: نسبق nusbug (I get ahead), يسبق yusbug (he gets ahead)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "سبقني للبلاصة",
+        "tr": "sbagni lil-blaSa",
+        "en": "He beat me to the spot"
+      },
+      {
+        "ar": "سبقوا وصلوا قبلنا",
+        "tr": "sbagu wSalu gablna",
+        "en": "They got there before us"
+      }
+    ]
+  },
+  {
+    "ar": "تاه",
+    "tr": "tāh",
+    "en": "to get lost; to lose one's way",
+    "msa": "تاه",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "تهنا في الطريق وما لقيناش الحوش.",
+    "ex_tr": "tihna fiT-Trīg w-ma lgēnāsh il-7ōsh.",
+    "ex_en": "We got lost on the way and couldn't find the house.",
+    "note": "imperfect: نتوه ntūh (I get lost), يتوه ytūh (he gets lost)",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "الصغير تاه في السوق",
+        "tr": "iS-Sghīr tāh fis-sūg",
+        "en": "The little one got lost in the market"
+      },
+      {
+        "ar": "ما تتوهش، خوذ الخريطة",
+        "tr": "ma ttūhsh, khūdh il-khrīTa",
+        "en": "Take the map so you don't get lost"
+      }
+    ]
+  },
+  {
+    "ar": "شرد",
+    "tr": "shrad",
+    "en": "to run away; to wander off; to stray",
+    "msa": "شرد",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 5,
+    "ex_ar": "العلّوش شرد من الزريبة.",
+    "ex_tr": "il-3allūsh shrad miz-zrība.",
+    "ex_en": "The sheep ran off from the pen.",
+    "note": "imperfect: نشرد nushrud (I run away), يشرد yushrud (he runs away)",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "عقله شارد",
+        "tr": "3aglah shārid",
+        "en": "His mind is wandering"
+      },
+      {
+        "ar": "قطوس شارد",
+        "tr": "gaTTūs shārid",
+        "en": "A stray cat"
+      }
+    ]
+  },
+  {
+    "ar": "تقدّم",
+    "tr": "tgaddam",
+    "en": "to step forward; to move forward; to advance",
+    "msa": "تقدّم",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "تقدّم شوية، فيه بلاصة.",
+    "ex_tr": "tgaddam shwayya, fīh blaSa.",
+    "ex_en": "Move forward a bit, there's room.",
+    "note": "imperfect: نتقدّم nitgaddam (I step forward), يتقدّم yitgaddam (he steps forward)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الطابور ما يتقدّمش",
+        "tr": "iT-Tābūr ma yitgaddamsh",
+        "en": "The queue isn't moving"
+      },
+      {
+        "ar": "تقدّم للقدّام",
+        "tr": "tgaddam lil-giddām",
+        "en": "Step to the front"
+      }
+    ]
+  },
+  {
+    "ar": "أخّر",
+    "tr": "akhkhar",
+    "en": "to move back; to postpone",
+    "msa": "أخّر",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "أخّر الكرهبة شوية لورا.",
+    "ex_tr": "akhkhir il-karhba shwayya l-ūra.",
+    "ex_en": "Back the car up a little.",
+    "note": "imperfect: نأخّر nakhkhir (I move back), يأخّر yakhkhir (he moves back)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "أخّروا العرس لبعد رمضان",
+        "tr": "akhkhru l-3urs l-ba3d ramaDān",
+        "en": "They postponed the wedding until after Ramadan"
+      },
+      {
+        "ar": "أخّر الكرسي",
+        "tr": "akhkhir il-kursi",
+        "en": "Move the chair back"
+      }
+    ]
+  },
+  {
+    "ar": "وخّر",
+    "tr": "wakhkhar",
+    "en": "to move back; to step aside; to get out of the way",
+    "msa": "تنحّى",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 3,
+    "ex_ar": "وخّر من الطريق، الكرهبة جاية!",
+    "ex_tr": "wakhkhir miT-Trīg, il-karhba jāya!",
+    "ex_en": "Get out of the road, the car's coming!",
+    "note": "imperfect: نوخّر nwakhkhir (I move back), يوخّر ywakhkhir (he moves back)",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "وخّر شوية لورا",
+        "tr": "wakhkhir shwayya l-ūra",
+        "en": "Step back a bit"
+      },
+      {
+        "ar": "وخّرلي بلاصة",
+        "tr": "wakhkhirli blaSa",
+        "en": "Make some room for me"
+      }
+    ]
+  },
+  {
+    "ar": "تخبّى",
+    "tr": "tkhabbā",
+    "en": "to hide (oneself)",
+    "msa": "اختبأ",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "الصغير تخبّى تحت الطاولة.",
+    "ex_tr": "iS-Sghīr tkhabbā ta7t iT-Tāwla.",
+    "ex_en": "The little one hid under the table.",
+    "note": "imperfect: نتخبّى nitkhabbā (I hide), يتخبّى yitkhabbā (he hides)",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "وين تخبّيت؟",
+        "tr": "wīn tkhabbēt?",
+        "en": "Where did you hide?"
+      },
+      {
+        "ar": "نلعبوا تخبّي",
+        "tr": "nil3bu tkhabbi",
+        "en": "Let's play hide-and-seek"
+      }
+    ]
+  },
+  {
+    "ar": "تخطّى",
+    "tr": "tkhaTTā",
+    "en": "to step over; to skip; to get past",
+    "msa": "تخطّى",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 5,
+    "ex_ar": "تخطّى الحفرة وكمّل.",
+    "ex_tr": "tkhaTTā l-7ufra w-kammal.",
+    "ex_en": "He stepped over the hole and carried on.",
+    "note": "imperfect: نتخطّى nitkhaTTā (I step over), يتخطّى yitkhaTTā (he steps over)",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "تخطّى الطابور",
+        "tr": "tkhaTTā T-Tābūr",
+        "en": "He jumped the queue"
+      },
+      {
+        "ar": "تخطّيناها الحمد لله",
+        "tr": "tkhaTTēnāha l-7amdu lillāh",
+        "en": "We got past it, thank God"
+      }
+    ]
+  },
+  {
+    "ar": "تزاحم",
+    "tr": "tzā7am",
+    "en": "to crowd; to jostle",
+    "msa": "تزاحم",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 5,
+    "ex_ar": "الناس تزاحموا على باب المخبزة.",
+    "ex_tr": "in-nās tzā7mu 3ala bāb il-makhbza.",
+    "ex_en": "People crowded at the bakery door.",
+    "note": "imperfect: نتزاحم nitzā7am (I crowd), يتزاحم yitzā7am (he crowds)",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "ما تتزاحموش",
+        "tr": "ma titzā7mūsh",
+        "en": "Don't push and shove"
+      },
+      {
+        "ar": "تزاحمنا في الأوتوبيس",
+        "tr": "tzā7amna fil-ōtōbīs",
+        "en": "We were crammed together on the bus"
+      }
+    ]
+  },
+  {
+    "ar": "تجمّع",
+    "tr": "tjamma3",
+    "en": "to gather; to get together",
+    "msa": "تجمّع",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "الناس تجمّعوا قدّام الجامع.",
+    "ex_tr": "in-nās tjamm3u guddām il-jāmi3.",
+    "ex_en": "People gathered in front of the mosque.",
+    "note": "imperfect: نتجمّع nitjamma3 (I gather), يتجمّع yitjamma3 (he gathers)",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "نتجمّعوا عند جدّي في العيد",
+        "tr": "nitjamm3u 3and jiddi fil-3īd",
+        "en": "We get together at grandpa's for Eid"
+      },
+      {
+        "ar": "المية تجمّعت في الشارع",
+        "tr": "il-mayya tjamma3at fish-shāri3",
+        "en": "Water pooled in the street"
+      }
+    ]
+  },
+  {
+    "ar": "تفرّق",
+    "tr": "tfarrag",
+    "en": "to disperse; to split up; to scatter",
+    "msa": "تفرّق",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 5,
+    "ex_ar": "بعد الماتش الناس تفرّقوا.",
+    "ex_tr": "ba3d il-mātsh in-nās tfarrgu.",
+    "ex_en": "After the match the people dispersed.",
+    "note": "imperfect: نتفرّق nitfarrag (I disperse), يتفرّق yitfarrag (he disperses)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "تفرّقنا كل واحد لحوشه",
+        "tr": "tfarragna kull wā7id l-7ōshah",
+        "en": "We split up, each to his own home"
+      },
+      {
+        "ar": "الصحاب تفرّقوا",
+        "tr": "iS-S7āb tfarrgu",
+        "en": "The friends drifted apart"
+      }
+    ]
+  },
+  {
+    "ar": "رحل",
+    "tr": "r7al",
+    "en": "to move away; to leave; to migrate",
+    "msa": "رحل",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "رحلوا من الحومة من سنين.",
+    "ex_tr": "r7alu mil-7ūma min snīn.",
+    "ex_en": "They moved away from the neighbourhood years ago.",
+    "note": "imperfect: نرحل nir7al (I move away), يرحل yir7al (he moves away)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "الطيور ترحل في الخريف",
+        "tr": "iT-Tyūr tir7al fil-kharīf",
+        "en": "The birds migrate in autumn"
+      },
+      {
+        "ar": "ناوي يرحل لبنغازي",
+        "tr": "nāwi yir7al l-binghāzi",
+        "en": "He's planning to move to Benghazi"
+      }
+    ]
+  },
+  {
+    "ar": "تنقّل",
+    "tr": "tnaggal",
+    "en": "to move around; to get around",
+    "msa": "تنقّل",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 5,
+    "ex_ar": "نتنقّل بالكرهبة كل يوم.",
+    "ex_tr": "nitnaggal bil-karhba kull yōm.",
+    "ex_en": "I get around by car every day.",
+    "note": "imperfect: نتنقّل nitnaggal (I move around), يتنقّل yitnaggal (he moves around)",
+    "usage": 33,
+    "phrases": [
+      {
+        "ar": "يتنقّل من بلاد لبلاد",
+        "tr": "yitnaggal min blād l-blād",
+        "en": "He moves from town to town"
+      },
+      {
+        "ar": "صعب التنقّل بلا كرهبة",
+        "tr": "Sa3b it-tanaggul bla karhba",
+        "en": "Getting around without a car is hard"
+      }
+    ]
+  },
+  {
+    "ar": "شتّى",
+    "tr": "shattā",
+    "en": "to rain",
+    "msa": "أمطر",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 3,
+    "ex_ar": "الدنيا شتّت الليلة كلها.",
+    "ex_tr": "id-dinya shattat il-lēla kullha.",
+    "ex_en": "It rained all night.",
+    "note": "imperfect: تشتّي tshatti (it rains) (I rain), يشتّي yshatti (he rains: rare) (he rains). usually with الدنيا as subject: الدنيا تشتّي \"it's raining\"",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "شكلها بتشتّي",
+        "tr": "shaklha bitshatti",
+        "en": "Looks like it's going to rain"
+      },
+      {
+        "ar": "شتّت هلبة السنة هذي",
+        "tr": "shattat hallba is-sna hādhi",
+        "en": "It rained a lot this year"
+      }
+    ]
+  },
+  {
+    "ar": "غيّم",
+    "tr": "ghayyam",
+    "en": "to cloud over; to get cloudy",
+    "msa": "غيّم",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "الدنيا غيّمت بعد الضهر.",
+    "ex_tr": "id-dinya ghayyamat ba3d iDH-DHuhr.",
+    "ex_en": "It clouded over in the afternoon.",
+    "note": "imperfect: تغيّم tghayyim (it clouds over) (I cloud over), يغيّم yghayyim (he clouds over). usually with الدنيا as subject",
+    "usage": 33,
+    "phrases": [
+      {
+        "ar": "السما مغيّمة اليوم",
+        "tr": "is-sma mghayyma l-yōm",
+        "en": "The sky is cloudy today"
+      },
+      {
+        "ar": "غيّمت وما شتّتش",
+        "tr": "ghayyamat w-ma shattatsh",
+        "en": "It clouded over but didn't rain"
+      }
+    ]
+  },
+  {
+    "ar": "هبّ",
+    "tr": "habb",
+    "en": "to blow (wind)",
+    "msa": "هبّ",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "الريح هبّت قوية البارح.",
+    "ex_tr": "ir-rī7 habbat gawya l-bāri7.",
+    "ex_en": "The wind blew hard yesterday.",
+    "note": "imperfect: تهبّ thibb (it blows) (I blow), يهبّ yhibb (he blows)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "القبلي هبّ",
+        "tr": "il-gibli habb",
+        "en": "The ghibli (hot desert wind) blew"
+      },
+      {
+        "ar": "هبّت نسمة باردة",
+        "tr": "habbat nisma bārda",
+        "en": "A cool breeze blew"
+      }
+    ]
+  },
+  {
+    "ar": "ضلّم",
+    "tr": "Dallam",
+    "en": "to get dark",
+    "msa": "أظلم",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "روّح قبل ما تضلّم.",
+    "ex_tr": "rawwa7 gabl ma tDallim.",
+    "ex_en": "Come home before it gets dark.",
+    "note": "imperfect: تضلّم tDallim (it gets dark) (I get dark), يضلّم yDallim (he gets dark). usually with الدنيا as subject",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الدنيا ضلّمت بكري",
+        "tr": "id-dinya Dallamat bakri",
+        "en": "It got dark early"
+      },
+      {
+        "ar": "الدار مضلّمة",
+        "tr": "id-dār mDallma",
+        "en": "The room is dark"
+      }
+    ]
+  },
+  {
+    "ar": "ضوّى",
+    "tr": "Dawwā",
+    "en": "to light up; to shine; to get light",
+    "msa": "أضاء",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "ضوّيلي بالتليفون نشوف.",
+    "ex_tr": "Dawwīli bit-tilīfōn nshūf.",
+    "ex_en": "Light it up for me with the phone so I can see.",
+    "note": "imperfect: نضوّي nDawwi (I light up), يضوّي yDawwi (he lights up)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "الدنيا ضوّت",
+        "tr": "id-dinya Dawwat",
+        "en": "It's got light (dawn)"
+      },
+      {
+        "ar": "وجهه يضوّي",
+        "tr": "wijhah yDawwi",
+        "en": "His face is glowing"
+      }
+    ]
+  },
+  {
+    "ar": "غرق",
+    "tr": "ghrag",
+    "en": "to drown; to sink; to flood",
+    "msa": "غرق",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "الشارع غرق من المطر.",
+    "ex_tr": "ish-shāri3 ghrag mil-maTar.",
+    "ex_en": "The street flooded with the rain.",
+    "note": "imperfect: نغرق nighrag (I drown), يغرق yighrag (he drowns)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "كان بيغرق في البحر",
+        "tr": "kān bighrag fil-ba7r",
+        "en": "He almost drowned in the sea"
+      },
+      {
+        "ar": "غرقت في الخدمة",
+        "tr": "ghragt fil-khidma",
+        "en": "I'm swamped with work"
+      }
+    ]
+  },
+  {
+    "ar": "غاب",
+    "tr": "ghāb",
+    "en": "to be absent; to set (sun); to disappear",
+    "msa": "غاب",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 3,
+    "ex_ar": "غاب على الخدمة تلاتة أيام.",
+    "ex_tr": "ghāb 3al-khidma tlāta ayyām.",
+    "ex_en": "He was absent from work for three days.",
+    "note": "imperfect: نغيب nghīb (I be absent), يغيب yghīb (he is absent)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "الشمس غابت",
+        "tr": "ish-shams ghābat",
+        "en": "The sun has set"
+      },
+      {
+        "ar": "ما تغيبش علينا",
+        "tr": "ma tghībsh 3alēna",
+        "en": "Don't be a stranger"
+      }
+    ]
+  },
+  {
+    "ar": "صغر",
+    "tr": "Sghar",
+    "en": "to shrink; to get smaller",
+    "msa": "صغر",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 4,
+    "ex_ar": "التريكو صغر بعد الغسيل.",
+    "ex_tr": "it-trīkō Sghar ba3d il-ghasīl.",
+    "ex_en": "The jumper shrank after washing.",
+    "note": "imperfect: نصغر niSghar (I shrink), يصغر yiSghar (he shrinks)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "السروال صغر عليّا",
+        "tr": "is-sirwāl Sghar 3alayya",
+        "en": "The trousers got too small for me"
+      },
+      {
+        "ar": "الدنيا تصغر",
+        "tr": "id-dinya tiSghar",
+        "en": "It's a small world"
+      }
+    ]
+  },
+  {
+    "ar": "وسع",
+    "tr": "wsa3",
+    "en": "to get loose; to stretch (clothes); to fit",
+    "msa": "اتّسع",
+    "pos": "verb",
+    "cat": "verbs-daily",
+    "freq": 5,
+    "ex_ar": "السباط وسع بعد أسبوع.",
+    "ex_tr": "is-sabbāT wsa3 ba3d usbū3.",
+    "ex_en": "The shoes stretched after a week.",
+    "note": "imperfect: نوسع nūsa3 (I get loose), يوسع yūsa3 (he gets loose)",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "الحوش ما يوسعش الناس الكل",
+        "tr": "il-7ōsh ma yūsa3sh in-nās il-kull",
+        "en": "The house won't fit everyone"
+      },
+      {
+        "ar": "القميص واسع عليه",
+        "tr": "il-gmajja wās3a 3alēh",
+        "en": "The shirt is loose on him"
+      }
+    ]
+  },
+  {
+    "ar": "تمسّك",
+    "tr": "tmassak",
+    "en": "to hold on (to); to cling",
+    "msa": "تمسّك",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "تمسّك مليح في الحديدة.",
+    "ex_tr": "tmassak mlī7 fil-7dīda.",
+    "ex_en": "Hold on tight to the bar.",
+    "note": "imperfect: نتمسّك nitmassak (I hold on), يتمسّك yitmassak (he holds on)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "تمسّك فيّا",
+        "tr": "tmassak fiyya",
+        "en": "Hold on to me"
+      },
+      {
+        "ar": "متمسّك برايه",
+        "tr": "mitmassik b-rāyah",
+        "en": "He sticks to his opinion"
+      }
+    ]
+  },
+  {
+    "ar": "تسنّد",
+    "tr": "tsannad",
+    "en": "to lean on; to steady oneself (on)",
+    "msa": "استند",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 5,
+    "ex_ar": "جدّي يتسنّد على العكّاز.",
+    "ex_tr": "jiddi yitsannad 3al-3ukkāz.",
+    "ex_en": "Grandpa leans on his walking stick.",
+    "note": "imperfect: نتسنّد nitsannad (I lean on), يتسنّد yitsannad (he leans on)",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "تسنّد عليّا",
+        "tr": "tsannad 3alayya",
+        "en": "Lean on me"
+      },
+      {
+        "ar": "تسنّد على الحيط ونوض",
+        "tr": "tsannad 3al-7ēT w-nūD",
+        "en": "Steady yourself on the wall and get up"
+      }
+    ]
+  },
+  {
+    "ar": "تدحرج",
+    "tr": "tda7raj",
+    "en": "to roll (down)",
+    "msa": "تدحرج",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 5,
+    "ex_ar": "الكورة تدحرجت للشارع.",
+    "ex_tr": "il-kōra tda7rajat lish-shāri3.",
+    "ex_en": "The ball rolled into the street.",
+    "note": "imperfect: نتدحرج nitda7raj (I roll), يتدحرج yitda7raj (he rolls)",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "تدحرج من فوق الكدية",
+        "tr": "tda7raj min fōg il-kudya",
+        "en": "He rolled down from the top of the hill"
+      },
+      {
+        "ar": "البرتقال تدحرج في الأرض",
+        "tr": "il-burtugān tda7raj fil-arD",
+        "en": "The oranges rolled across the floor"
+      }
+    ]
+  },
+  {
+    "ar": "تلفّت",
+    "tr": "tlaffat",
+    "en": "to look around",
+    "msa": "تلفّت",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 5,
+    "ex_ar": "قعد يتلفّت يدوّر على صاحبه.",
+    "ex_tr": "g3ad yitlaffat ydawwir 3ala Sā7bah.",
+    "ex_en": "He kept looking around for his friend.",
+    "note": "imperfect: نتلفّت nitlaffat (I look around), يتلفّت yitlaffat (he looks around)",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "تلفّت يمين وشمال",
+        "tr": "tlaffat imīn w-shmāl",
+        "en": "He looked left and right"
+      },
+      {
+        "ar": "شبيك تتلفّت؟",
+        "tr": "shbīk titlaffat?",
+        "en": "Why do you keep looking around?"
+      }
+    ]
+  },
+  {
+    "ar": "هجّ",
+    "tr": "hajj",
+    "en": "to flee; to run off",
+    "msa": "هرب",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 5,
+    "ex_ar": "اللص هجّ قبل ما توصل الشرطة.",
+    "ex_tr": "il-liSS hajj gabl ma tūSal ish-shurTa.",
+    "ex_en": "The thief ran off before the police arrived.",
+    "note": "imperfect: نهجّ nhijj (I flee), يهجّ yhijj (he flees)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "هجّوا من الحرب",
+        "tr": "hajju mil-7arb",
+        "en": "They fled the war"
+      },
+      {
+        "ar": "هجّ من القراية",
+        "tr": "hajj mil-graya",
+        "en": "He ran away from school"
+      }
+    ]
+  },
+  {
+    "ar": "تسلّل",
+    "tr": "tsallal",
+    "en": "to sneak in; to slip in",
+    "msa": "تسلّل",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 5,
+    "ex_ar": "تسلّل للكوجينة في الليل.",
+    "ex_tr": "tsallal lil-kūjīna fil-lēl.",
+    "ex_en": "He sneaked into the kitchen at night.",
+    "note": "imperfect: نتسلّل nitsallal (I sneak in), يتسلّل yitsallal (he sneaks in)",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "تسلّل برّا من غير ما يحسوا بيه",
+        "tr": "tsallal barra min ghēr ma y7issu bīh",
+        "en": "He slipped out without them noticing"
+      },
+      {
+        "ar": "اللاعب تسلّل",
+        "tr": "il-lā3ib tsallal",
+        "en": "The player was offside"
+      }
+    ]
+  },
+  {
+    "ar": "خفّ",
+    "tr": "khaff",
+    "en": "to ease off; to get lighter; to hurry",
+    "msa": "خفّ",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "الوجع خفّ شوية.",
+    "ex_tr": "il-wja3 khaff shwayya.",
+    "ex_en": "The pain has eased a little.",
+    "note": "imperfect: نخفّ nkhiff (I ease off), يخفّ ykhiff (he eases off)",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "خفّ روحك!",
+        "tr": "khiff rū7ak!",
+        "en": "Hurry up!"
+      },
+      {
+        "ar": "الزحمة خفّت",
+        "tr": "iz-za7ma khaffat",
+        "en": "The traffic eased off"
+      }
+    ]
+  },
+  {
+    "ar": "سرّع",
+    "tr": "sarra3",
+    "en": "to speed up; to accelerate",
+    "msa": "أسرع",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "سرّع شوية، فاتنا الوقت.",
+    "ex_tr": "sarri3 shwayya, fātna l-wagt.",
+    "ex_en": "Speed up a bit, we're running late.",
+    "note": "imperfect: نسرّع nsarri3 (I speed up), يسرّع ysarri3 (he speeds up)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "ما تسرّعش في الطريق هذي",
+        "tr": "ma tsarri3sh fiT-Trīg hādhi",
+        "en": "Don't speed on this road"
+      },
+      {
+        "ar": "سرّع الخدمة",
+        "tr": "sarri3 il-khidma",
+        "en": "Speed up the work"
+      }
+    ]
+  },
+  {
+    "ar": "هدّى",
+    "tr": "haddā",
+    "en": "to slow down; to calm (someone) down",
+    "msa": "هدّأ",
+    "pos": "verb",
+    "cat": "verbs-motion",
+    "freq": 4,
+    "ex_ar": "هدّي السرعة، فيه دوّارة قدّام.",
+    "ex_tr": "haddi s-sur3a, fīh dawwāra giddām.",
+    "ex_en": "Slow down, there's a roundabout ahead.",
+    "note": "imperfect: نهدّي nhaddi (I slow down), يهدّي yhaddi (he slows down)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "هدّي روحك",
+        "tr": "haddi rū7ak",
+        "en": "Calm down"
+      },
+      {
+        "ar": "هدّت الصغير لين رقد",
+        "tr": "haddat iS-Sghīr līn rgad",
+        "en": "She soothed the little one until he slept"
+      }
+    ]
   }
 ]

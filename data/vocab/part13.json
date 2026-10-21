@@ -6398,32 +6398,6 @@
   ]
  },
  {
-  "ar": "سعرات",
-  "tr": "si3rāt",
-  "en": "calories",
-  "msa": "سعرات حرارية",
-  "pos": "noun",
-  "cat": "health",
-  "freq": 4,
-  "usage": 30,
-  "ex_ar": "الكسكسي فيه سعرات هلبة.",
-  "ex_tr": "il-kuskusi fīh si3rāt halba.",
-  "ex_en": "Couscous has a lot of calories.",
-  "note": "Short for سعرات حرارية.",
-  "phrases": [
-   {
-    "ar": "نحسب في السعرات",
-    "tr": "na7sib fis-si3rāt",
-    "en": "I count calories"
-   },
-   {
-    "ar": "قليل السعرات",
-    "tr": "glīl is-si3rāt",
-    "en": "low in calories"
-   }
-  ]
- },
- {
   "ar": "دهون",
   "tr": "dhūn",
   "en": "fats (dietary)",
@@ -6521,84 +6495,6 @@
     "ar": "برنامج تخسيس",
     "tr": "barnāmij takhsīs",
     "en": "a weight-loss programme"
-   }
-  ]
- },
- {
-  "ar": "ميزان",
-  "tr": "mīzān",
-  "en": "bathroom scale; scales",
-  "msa": "ميزان",
-  "pos": "noun",
-  "cat": "health",
-  "freq": 3,
-  "usage": 40,
-  "ex_ar": "طلعت على الميزان وانخلعت.",
-  "ex_tr": "Tla3t 3al-mīzān w-inkhla3t.",
-  "ex_en": "I got on the scale and got a fright.",
-  "note": "Also 'balance; scales' in shops.",
-  "phrases": [
-   {
-    "ar": "ميزان الحمام",
-    "tr": "mīzān il-7ammām",
-    "en": "the bathroom scale"
-   },
-   {
-    "ar": "ميزان ديجيتال",
-    "tr": "mīzān dījītāl",
-    "en": "a digital scale"
-   }
-  ]
- },
- {
-  "ar": "جيم",
-  "tr": "jīm",
-  "en": "gym",
-  "msa": "صالة رياضية",
-  "pos": "noun",
-  "cat": "health",
-  "freq": 3,
-  "usage": 44,
-  "ex_ar": "نمشي للجيم ثلاث مرات في الجمعة.",
-  "ex_tr": "nimshi lij-jīm thlāth marrāt fij-jum3a.",
-  "ex_en": "I go to the gym three times a week.",
-  "note": "From English.",
-  "phrases": [
-   {
-    "ar": "اشتراك في الجيم",
-    "tr": "ishtirāk fij-jīm",
-    "en": "a gym membership"
-   },
-   {
-    "ar": "مدرب جيم",
-    "tr": "mudarrib jīm",
-    "en": "a gym trainer"
-   }
-  ]
- },
- {
-  "ar": "لياقة",
-  "tr": "liyāga",
-  "en": "fitness",
-  "msa": "لياقة بدنية",
-  "pos": "noun",
-  "cat": "health",
-  "freq": 4,
-  "usage": 32,
-  "ex_ar": "لياقته عالية، يجري ساعة كاملة.",
-  "ex_tr": "liyāgtah 3ālya, yijri sā3a kāmla.",
-  "ex_en": "He's very fit; he runs for a whole hour.",
-  "note": "Short for لياقة بدنية.",
-  "phrases": [
-   {
-    "ar": "لياقة بدنية",
-    "tr": "liyāga badaniyya",
-    "en": "physical fitness"
-   },
-   {
-    "ar": "ماعندوش لياقة",
-    "tr": "ma3andūsh liyāga",
-    "en": "he's out of shape"
    }
   ]
  },
@@ -7522,58 +7418,6 @@
   ]
  },
  {
-  "ar": "مصاب",
-  "tr": "muSāb",
-  "en": "injured; infected (with)",
-  "msa": "مصاب",
-  "pos": "adj",
-  "cat": "health",
-  "freq": 3,
-  "usage": 36,
-  "ex_ar": "فيه ثلاث مصابين في الحادث.",
-  "ex_tr": "fīh thlāth muSābīn fil-7ādith.",
-  "ex_en": "There are three injured in the accident.",
-  "note": "pl. مصابين muSābīn.",
-  "phrases": [
-   {
-    "ar": "مصاب بالكورونا",
-    "tr": "muSāb bil-kōrōna",
-    "en": "infected with Covid"
-   },
-   {
-    "ar": "إصابة خفيفة",
-    "tr": "iSāba khfīfa",
-    "en": "a minor injury"
-   }
-  ]
- },
- {
-  "ar": "مجروح",
-  "tr": "majrū7",
-  "en": "wounded; hurt",
-  "msa": "مجروح",
-  "pos": "adj",
-  "cat": "health",
-  "freq": 3,
-  "usage": 36,
-  "ex_ar": "يده مجروحة، ما يقدرش يخدم.",
-  "ex_tr": "yiddah majrū7a, ma yigdarsh yikhdim.",
-  "ex_en": "His hand is cut; he can't work.",
-  "note": "Also emotionally hurt.",
-  "phrases": [
-   {
-    "ar": "قلبه مجروح",
-    "tr": "galbah majrū7",
-    "en": "he's heartbroken"
-   },
-   {
-    "ar": "مجروح في راسه",
-    "tr": "majrū7 fi rāsah",
-    "en": "wounded in the head"
-   }
-  ]
- },
- {
   "ar": "دايخ",
   "tr": "dāyikh",
   "en": "dizzy; lightheaded",
@@ -7730,32 +7574,6 @@
   ]
  },
  {
-  "ar": "مكتئب",
-  "tr": "mukta'ib",
-  "en": "depressed",
-  "msa": "مكتئب",
-  "pos": "adj",
-  "cat": "health",
-  "freq": 4,
-  "usage": 30,
-  "ex_ar": "من بعد الطلاق ولّى مكتئب.",
-  "ex_tr": "min ba3d iT-Talāg walla mukta'ib.",
-  "ex_en": "After the divorce he became depressed.",
-  "note": "fem. مكتئبة.",
-  "phrases": [
-   {
-    "ar": "حاسس روحي مكتئب",
-    "tr": "7āsis rū7i mukta'ib",
-    "en": "I feel depressed"
-   },
-   {
-    "ar": "ما تبقاش مكتئب",
-    "tr": "ma tibgāsh mukta'ib",
-    "en": "don't be down"
-   }
-  ]
- },
- {
   "ar": "معدي",
   "tr": "mu3di",
   "en": "contagious",
@@ -7804,58 +7622,6 @@
     "ar": "الحركة مشلولة",
     "tr": "il-7arka mashlūla",
     "en": "everything is at a standstill"
-   }
-  ]
- },
- {
-  "ar": "مدمن",
-  "tr": "mudmin",
-  "en": "addict; addicted",
-  "msa": "مدمن",
-  "pos": "adj",
-  "cat": "health",
-  "freq": 4,
-  "usage": 30,
-  "ex_ar": "ولّى مدمن على الألعاب.",
-  "ex_tr": "walla mudmin 3al-al3āb.",
-  "ex_en": "He's become addicted to video games.",
-  "note": "pl. مدمنين.",
-  "phrases": [
-   {
-    "ar": "مدمن قهوة",
-    "tr": "mudmin gahwa",
-    "en": "a coffee addict"
-   },
-   {
-    "ar": "علاج المدمنين",
-    "tr": "3lāj il-mudminīn",
-    "en": "treatment of addicts"
-   }
-  ]
- },
- {
-  "ar": "مصفّر",
-  "tr": "mSaffar",
-  "en": "pale; sallow",
-  "msa": "شاحب",
-  "pos": "adj",
-  "cat": "health",
-  "freq": 4,
-  "usage": 30,
-  "ex_ar": "وجهك مصفّر، شن بيك؟",
-  "ex_tr": "wijhik mSaffar, shin bīk?",
-  "ex_en": "Your face is pale, what's wrong with you?",
-  "note": "Lit. 'yellowed'.",
-  "phrases": [
-   {
-    "ar": "مصفّر من المرض",
-    "tr": "mSaffar min il-marD",
-    "en": "pale from illness"
-   },
-   {
-    "ar": "وجهه مصفّر وتعبان",
-    "tr": "wijhah mSaffar w-ta3bān",
-    "en": "he's pale and tired"
    }
   ]
  },
@@ -8162,6 +7928,1124 @@
     "ar": "كم جلسة تبي؟",
     "tr": "kam jalsa tibbi?",
     "en": "how many sessions does it need?"
+   }
+  ]
+ },
+ {
+  "ar": "خفقان",
+  "tr": "khafagān",
+  "en": "palpitations",
+  "msa": "خفقان",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "عندي خفقان في القلب كي نطلع الدروج.",
+  "ex_tr": "3andi khafagān fil-galb kī niTla3 id-drūj.",
+  "ex_en": "I get palpitations when I climb the stairs.",
+  "phrases": [
+   {
+    "ar": "خفقان من القهوة",
+    "tr": "khafagān min il-gahwa",
+    "en": "palpitations from coffee"
+   },
+   {
+    "ar": "خفقان وضيقة",
+    "tr": "khafagān w-Dīga",
+    "en": "palpitations and breathlessness"
+   }
+  ]
+ },
+ {
+  "ar": "بلغم",
+  "tr": "balgham",
+  "en": "phlegm",
+  "msa": "بلغم",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "الكحة فيها بلغم.",
+  "ex_tr": "il-ku77a fīha balgham.",
+  "ex_en": "The cough is chesty (has phlegm).",
+  "phrases": [
+   {
+    "ar": "كحة ببلغم",
+    "tr": "ku77a b-balgham",
+    "en": "a chesty cough"
+   },
+   {
+    "ar": "دوا يطلّع البلغم",
+    "tr": "dwa yTalla3 il-balgham",
+    "en": "an expectorant"
+   }
+  ]
+ },
+ {
+  "ar": "شرخ",
+  "tr": "sharkh",
+  "en": "hairline fracture; crack",
+  "msa": "شرخ",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "مش كسر، شرخ في العظم.",
+  "ex_tr": "mush kasr, sharkh fil-3aDHm.",
+  "ex_en": "It's not a break, it's a crack in the bone.",
+  "note": "Also a crack in a wall or glass.",
+  "phrases": [
+   {
+    "ar": "شرخ في الضلع",
+    "tr": "sharkh fiD-Dil3",
+    "en": "a cracked rib"
+   },
+   {
+    "ar": "شرخ بسيط",
+    "tr": "sharkh basīT",
+    "en": "a small crack"
+   }
+  ]
+ },
+ {
+  "ar": "خلع",
+  "tr": "khal3",
+  "en": "dislocation",
+  "msa": "خلع",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "عنده خلع في الكتف.",
+  "ex_tr": "3andah khal3 fil-ktif.",
+  "ex_en": "He has a dislocated shoulder.",
+  "note": "Also 'removal; pulling out' (خلع ضرس).",
+  "phrases": [
+   {
+    "ar": "خلع في الكتف",
+    "tr": "khal3 fil-ktif",
+    "en": "a dislocated shoulder"
+   },
+   {
+    "ar": "خلع ضرس",
+    "tr": "khal3 Dirs",
+    "en": "a tooth extraction"
+   }
+  ]
+ },
+ {
+  "ar": "ارتجاج",
+  "tr": "irtijāj",
+  "en": "concussion",
+  "msa": "ارتجاج في المخ",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "طاح على راسه وجاه ارتجاج.",
+  "ex_tr": "Tā7 3la rāsah w-jāh irtijāj.",
+  "ex_en": "He fell on his head and got a concussion.",
+  "phrases": [
+   {
+    "ar": "ارتجاج في المخ",
+    "tr": "irtijāj fil-mukh",
+    "en": "a concussion"
+   },
+   {
+    "ar": "ارتجاج خفيف",
+    "tr": "irtijāj khfīf",
+    "en": "a mild concussion"
+   }
+  ]
+ },
+ {
+  "ar": "مزمن",
+  "tr": "muzmin",
+  "en": "chronic",
+  "msa": "مزمن",
+  "pos": "adj",
+  "cat": "health",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "السكر مرض مزمن.",
+  "ex_tr": "is-sukkar marD muzmin.",
+  "ex_en": "Diabetes is a chronic illness.",
+  "phrases": [
+   {
+    "ar": "أمراض مزمنة",
+    "tr": "amrāD muzmina",
+    "en": "chronic illnesses"
+   },
+   {
+    "ar": "وجع مزمن",
+    "tr": "wja3 muzmin",
+    "en": "chronic pain"
+   }
+  ]
+ },
+ {
+  "ar": "وراثي",
+  "tr": "wirāthi",
+  "en": "hereditary; genetic",
+  "msa": "وراثي",
+  "pos": "adj",
+  "cat": "health",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "السكر عندهم وراثي.",
+  "ex_tr": "is-sukkar 3andhum wirāthi.",
+  "ex_en": "Diabetes runs in their family.",
+  "phrases": [
+   {
+    "ar": "مرض وراثي",
+    "tr": "marD wirāthi",
+    "en": "a hereditary disease"
+   },
+   {
+    "ar": "صلع وراثي",
+    "tr": "Sala3 wirāthi",
+    "en": "hereditary baldness"
+   }
+  ]
+ },
+ {
+  "ar": "نقاهة",
+  "tr": "nagāha",
+  "en": "convalescence; recovery period",
+  "msa": "نقاهة",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "بعد العملية لازمه فترة نقاهة.",
+  "ex_tr": "ba3d il-3amaliyya lāzmah fatrat nagāha.",
+  "ex_en": "After the operation he needs a recovery period.",
+  "phrases": [
+   {
+    "ar": "فترة نقاهة",
+    "tr": "fatrat nagāha",
+    "en": "a convalescence period"
+   },
+   {
+    "ar": "في النقاهة",
+    "tr": "fin-nagāha",
+    "en": "convalescing"
+   }
+  ]
+ },
+ {
+  "ar": "شفاء",
+  "tr": "shifā'",
+  "en": "recovery; cure",
+  "msa": "شفاء",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "نتمنالك الشفاء العاجل.",
+  "ex_tr": "nitmannālik ish-shifā' il-3ājil.",
+  "ex_en": "I wish you a speedy recovery.",
+  "phrases": [
+   {
+    "ar": "شفاء عاجل",
+    "tr": "shifā' 3ājil",
+    "en": "a speedy recovery"
+   },
+   {
+    "ar": "العسل فيه شفاء",
+    "tr": "il-3asal fīh shifā'",
+    "en": "honey has healing in it"
+   }
+  ]
+ },
+ {
+  "ar": "صحة نفسية",
+  "tr": "Sa77a nafsiyya",
+  "en": "mental health",
+  "msa": "صحة نفسية",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الصحة النفسية مهمة زي الجسدية.",
+  "ex_tr": "iS-Sa77a in-nafsiyya muhimma zayy ij-jasadiyya.",
+  "ex_en": "Mental health is as important as physical health.",
+  "phrases": [
+   {
+    "ar": "اهتم بصحتك النفسية",
+    "tr": "ihtamm b-Sa77tik in-nafsiyya",
+    "en": "look after your mental health"
+   },
+   {
+    "ar": "مستشفى الصحة النفسية",
+    "tr": "mustashfa iS-Sa77a in-nafsiyya",
+    "en": "psychiatric hospital"
+   }
+  ]
+ },
+ {
+  "ar": "الهلال الأحمر",
+  "tr": "il-hilāl il-a7mar",
+  "en": "Red Crescent",
+  "msa": "الهلال الأحمر",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الهلال الأحمر وصل لمكان الحادث.",
+  "ex_tr": "il-hilāl il-a7mar wiSil l-makān il-7ādith.",
+  "ex_en": "The Red Crescent reached the scene of the accident.",
+  "note": "Libyan Red Crescent runs ambulances and aid.",
+  "phrases": [
+   {
+    "ar": "متطوع في الهلال الأحمر",
+    "tr": "mitTawwi3 fil-hilāl il-a7mar",
+    "en": "a Red Crescent volunteer"
+   },
+   {
+    "ar": "سيارة الهلال الأحمر",
+    "tr": "sayyārat il-hilāl il-a7mar",
+    "en": "a Red Crescent vehicle"
+   }
+  ]
+ },
+ {
+  "ar": "مضاد حساسية",
+  "tr": "muDādd 7asāsiyya",
+  "en": "antihistamine",
+  "msa": "مضاد حساسية",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "خوذ مضاد حساسية قبل ما ترقد.",
+  "ex_tr": "khūdh muDādd 7asāsiyya gabil ma turgud.",
+  "ex_en": "Take an antihistamine before you sleep.",
+  "phrases": [
+   {
+    "ar": "حبة مضاد حساسية",
+    "tr": "7abbat muDādd 7asāsiyya",
+    "en": "an antihistamine tablet"
+   },
+   {
+    "ar": "شراب مضاد حساسية",
+    "tr": "shrāb muDādd 7asāsiyya",
+    "en": "antihistamine syrup"
+   }
+  ]
+ },
+ {
+  "ar": "خافض حرارة",
+  "tr": "khāfiD 7arāra",
+  "en": "fever reducer; antipyretic",
+  "msa": "خافض حرارة",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "عطيه خافض حرارة كل ست ساعات.",
+  "ex_tr": "3Tīh khāfiD 7arāra kull sitt sā3āt.",
+  "ex_en": "Give him a fever reducer every six hours.",
+  "phrases": [
+   {
+    "ar": "شراب خافض حرارة",
+    "tr": "shrāb khāfiD 7arāra",
+    "en": "fever-reducing syrup"
+   },
+   {
+    "ar": "خافض حرارة للصغار",
+    "tr": "khāfiD 7arāra liS-Sghār",
+    "en": "children's fever reducer"
+   }
+  ]
+ },
+ {
+  "ar": "غرغرة",
+  "tr": "gharghra",
+  "en": "gargle; gargling",
+  "msa": "غرغرة",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "اعمل غرغرة بماء وملح.",
+  "ex_tr": "a3mil gharghra b-mā w-mil7.",
+  "ex_en": "Gargle with salt water.",
+  "phrases": [
+   {
+    "ar": "غرغرة للحلق",
+    "tr": "gharghra lil-7alg",
+    "en": "a gargle for the throat"
+   },
+   {
+    "ar": "غرغرة صباح وعشية",
+    "tr": "gharghra Sbā7 w-3ashiyya",
+    "en": "gargle morning and evening"
+   }
+  ]
+ },
+ {
+  "ar": "كمّادة",
+  "tr": "kammāda",
+  "en": "compress (cold or warm)",
+  "msa": "كمادة",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "حطيتله كمّادات ماء بارد على راسه.",
+  "ex_tr": "7aTTētla kammādāt mā bārid 3la rāsah.",
+  "ex_en": "I put cold compresses on his head.",
+  "note": "pl. كمادات kammādāt; used for fever.",
+  "phrases": [
+   {
+    "ar": "كمّادة سخونة",
+    "tr": "kammāda skhūna",
+    "en": "a warm compress"
+   },
+   {
+    "ar": "كمّادات للسخانة",
+    "tr": "kammādāt lis-skhāna",
+    "en": "compresses for the fever"
+   }
+  ]
+ },
+ {
+  "ar": "حزام طبي",
+  "tr": "7zām Tibbi",
+  "en": "back brace; support belt",
+  "msa": "حزام طبي",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "يلبس حزام طبي للظهر.",
+  "ex_tr": "yilbis 7zām Tibbi liDH-DHahr.",
+  "ex_en": "He wears a back support belt.",
+  "phrases": [
+   {
+    "ar": "حزام طبي للظهر",
+    "tr": "7zām Tibbi liDH-DHahr",
+    "en": "a back brace"
+   },
+   {
+    "ar": "اشري حزام طبي من الصيدلية",
+    "tr": "ishri 7zām Tibbi min iS-Saydaliyya",
+    "en": "buy a support belt from the pharmacy"
+   }
+  ]
+ },
+ {
+  "ar": "تنهيدة",
+  "tr": "tanhīda",
+  "en": "sigh",
+  "msa": "تنهيدة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "خذا تنهيدة طويلة.",
+  "ex_tr": "khdha tanhīda Twīla.",
+  "ex_en": "He let out a long sigh.",
+  "phrases": [
+   {
+    "ar": "تنهيدة من القلب",
+    "tr": "tanhīda min il-galb",
+    "en": "a heartfelt sigh"
+   },
+   {
+    "ar": "بتنهيدة",
+    "tr": "b-tanhīda",
+    "en": "with a sigh"
+   }
+  ]
+ },
+ {
+  "ar": "شهقة",
+  "tr": "shahga",
+  "en": "gasp; sob",
+  "msa": "شهقة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "بكى لين جاته الشهقة.",
+  "ex_tr": "bka lēn jātah ish-shahga.",
+  "ex_en": "He cried until he was sobbing.",
+  "note": "Also used for the gasp at a death.",
+  "phrases": [
+   {
+    "ar": "شهقة من الخلعة",
+    "tr": "shahga min il-khal3a",
+    "en": "a gasp of fright"
+   },
+   {
+    "ar": "يبكي بالشهقة",
+    "tr": "yibki bish-shahga",
+    "en": "crying and sobbing"
+   }
+  ]
+ },
+ {
+  "ar": "نعاس",
+  "tr": "n3ās",
+  "en": "drowsiness; sleepiness",
+  "msa": "نعاس",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "الدوا هذا يجيب النعاس.",
+  "ex_tr": "id-dwa hādha yjīb in-n3ās.",
+  "ex_en": "This medicine causes drowsiness.",
+  "phrases": [
+   {
+    "ar": "غلبه النعاس",
+    "tr": "ghlabah in-n3ās",
+    "en": "sleep overcame him"
+   },
+   {
+    "ar": "نعاس بعد الغدا",
+    "tr": "n3ās ba3d il-ghda",
+    "en": "post-lunch sleepiness"
+   }
+  ]
+ },
+ {
+  "ar": "قيلولة",
+  "tr": "gaylūla",
+  "en": "afternoon nap",
+  "msa": "قيلولة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "ناخذ قيلولة بعد الغدا.",
+  "ex_tr": "nākhidh gaylūla ba3d il-ghda.",
+  "ex_en": "I take a nap after lunch.",
+  "note": "Colloquially also رقدة القايلة.",
+  "phrases": [
+   {
+    "ar": "قيلولة صغيرة",
+    "tr": "gaylūla Sghīra",
+    "en": "a short nap"
+   },
+   {
+    "ar": "رقدة القايلة",
+    "tr": "rugdat il-gāyla",
+    "en": "the siesta"
+   }
+  ]
+ },
+ {
+  "ar": "سهر",
+  "tr": "sahar",
+  "en": "staying up late",
+  "msa": "سهر",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "السهر خلاني تعبان اليوم.",
+  "ex_tr": "is-sahar khallāni ta3bān il-yōm.",
+  "ex_en": "Staying up late has left me tired today.",
+  "phrases": [
+   {
+    "ar": "سهر الليل",
+    "tr": "sahar il-lēl",
+    "en": "late nights"
+   },
+   {
+    "ar": "عيونه حمر من السهر",
+    "tr": "3yūnah 7umr min is-sahar",
+    "en": "his eyes are red from staying up"
+   }
+  ]
+ },
+ {
+  "ar": "مساج",
+  "tr": "masāj",
+  "en": "massage",
+  "msa": "تدليك",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "عملت مساج لظهري.",
+  "ex_tr": "3milt masāj l-DHahri.",
+  "ex_en": "I had a back massage.",
+  "note": "Also تدليك.",
+  "phrases": [
+   {
+    "ar": "مساج للرقبة",
+    "tr": "masāj lir-rugba",
+    "en": "a neck massage"
+   },
+   {
+    "ar": "زيت مساج",
+    "tr": "zēt masāj",
+    "en": "massage oil"
+   }
+  ]
+ },
+ {
+  "ar": "حمام مغربي",
+  "tr": "7ammām maghribi",
+  "en": "Moroccan bath (scrub)",
+  "msa": "حمام مغربي",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "مشت لحمام مغربي قبل العرس.",
+  "ex_tr": "mshat l-7ammām maghribi gabil il-3urs.",
+  "ex_en": "She went for a Moroccan bath before the wedding.",
+  "note": "Popular in Libyan beauty salons.",
+  "phrases": [
+   {
+    "ar": "صابون حمام مغربي",
+    "tr": "Sābūn 7ammām maghribi",
+    "en": "Moroccan bath soap"
+   },
+   {
+    "ar": "حمام مغربي وماسك",
+    "tr": "7ammām maghribi w-māsk",
+    "en": "a Moroccan bath and a mask"
+   }
+  ]
+ },
+ {
+  "ar": "تقشير",
+  "tr": "tagshīr",
+  "en": "exfoliation; skin peeling",
+  "msa": "تقشير",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "عملت تقشير للبشرة.",
+  "ex_tr": "3imlat tagshīr lil-bashra.",
+  "ex_en": "She had her skin exfoliated.",
+  "note": "Also 'peeling (fruit)'.",
+  "phrases": [
+   {
+    "ar": "كريم تقشير",
+    "tr": "krēm tagshīr",
+    "en": "exfoliating cream"
+   },
+   {
+    "ar": "تقشير كيميائي",
+    "tr": "tagshīr kīmyā'i",
+    "en": "a chemical peel"
+   }
+  ]
+ },
+ {
+  "ar": "ليزر",
+  "tr": "lēzar",
+  "en": "laser (treatment)",
+  "msa": "ليزر",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "عملت ليزر لإزالة الشعر.",
+  "ex_tr": "3imlat lēzar l-izālat ish-sha3r.",
+  "ex_en": "She had laser hair removal.",
+  "phrases": [
+   {
+    "ar": "عملية ليزر للعيون",
+    "tr": "3amaliyyat lēzar lil-3yūn",
+    "en": "laser eye surgery"
+   },
+   {
+    "ar": "جلسة ليزر",
+    "tr": "jalsat lēzar",
+    "en": "a laser session"
+   }
+  ]
+ },
+ {
+  "ar": "باروكة",
+  "tr": "bārūka",
+  "en": "wig",
+  "msa": "باروكة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "لبست باروكة بعد الكيماوي.",
+  "ex_tr": "libsat bārūka ba3d il-kīmāwi.",
+  "ex_en": "She wore a wig after chemo.",
+  "note": "From Italian parrucca.",
+  "phrases": [
+   {
+    "ar": "باروكة شعر طبيعي",
+    "tr": "bārūkat sha3r Tabī3i",
+    "en": "a real-hair wig"
+   },
+   {
+    "ar": "كأنها باروكة",
+    "tr": "ka'innaha bārūka",
+    "en": "it looks like a wig"
+   }
+  ]
+ },
+ {
+  "ar": "زيت شعر",
+  "tr": "zēt sha3r",
+  "en": "hair oil",
+  "msa": "زيت شعر",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "أمي تحط زيت زيتون على شعرها.",
+  "ex_tr": "ummi t7uTT zēt zītūn 3la sha3rha.",
+  "ex_en": "My mother puts olive oil on her hair.",
+  "phrases": [
+   {
+    "ar": "زيت شعر طبيعي",
+    "tr": "zēt sha3r Tabī3i",
+    "en": "natural hair oil"
+   },
+   {
+    "ar": "دهني شعرك بالزيت",
+    "tr": "dahhni sha3rik biz-zēt",
+    "en": "oil your hair"
+   }
+  ]
+ },
+ {
+  "ar": "رغوة حلاقة",
+  "tr": "rghwat 7lāga",
+  "en": "shaving foam",
+  "msa": "رغوة حلاقة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "خلصت رغوة الحلاقة.",
+  "ex_tr": "khilSat rghwat il-7lāga.",
+  "ex_en": "The shaving foam has run out.",
+  "phrases": [
+   {
+    "ar": "رغوة وموس",
+    "tr": "rghwa w-mūs",
+    "en": "foam and a razor"
+   },
+   {
+    "ar": "علبة رغوة حلاقة",
+    "tr": "3ulbat rghwat 7lāga",
+    "en": "a can of shaving foam"
+   }
+  ]
+ },
+ {
+  "ar": "غسول فم",
+  "tr": "ghasūl fumm",
+  "en": "mouthwash",
+  "msa": "غسول فم",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "استعمل غسول فم بعد الفرشة.",
+  "ex_tr": "ista3mil ghasūl fumm ba3d il-firsha.",
+  "ex_en": "Use mouthwash after brushing.",
+  "phrases": [
+   {
+    "ar": "غسول فم بالنعناع",
+    "tr": "ghasūl fumm bin-na3nā3",
+    "en": "mint mouthwash"
+   },
+   {
+    "ar": "غسول للثة",
+    "tr": "ghasūl lil-litha",
+    "en": "a gum rinse"
+   }
+  ]
+ },
+ {
+  "ar": "فوط صحية",
+  "tr": "fuwaT Si77iyya",
+  "en": "sanitary pads",
+  "msa": "فوط صحية",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "اشري فوط صحية من الصيدلية.",
+  "ex_tr": "ishri fuwaT Si77iyya min iS-Saydaliyya.",
+  "ex_en": "Buy sanitary pads from the pharmacy.",
+  "phrases": [
+   {
+    "ar": "باكو فوط صحية",
+    "tr": "bākō fuwaT Si77iyya",
+    "en": "a pack of pads"
+   },
+   {
+    "ar": "فوط صحية ليلية",
+    "tr": "fuwaT Si77iyya lēliyya",
+    "en": "night pads"
+   }
+  ]
+ },
+ {
+  "ar": "تساقط شعر",
+  "tr": "tasāguT sha3r",
+  "en": "hair loss",
+  "msa": "تساقط الشعر",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "عنده تساقط شعر من الضغط.",
+  "ex_tr": "3andah tasāguT sha3r min iD-DaghT.",
+  "ex_en": "He has hair loss from stress.",
+  "phrases": [
+   {
+    "ar": "شامبو ضد التساقط",
+    "tr": "shāmbu Didd it-tasāguT",
+    "en": "anti-hair-loss shampoo"
+   },
+   {
+    "ar": "علاج تساقط الشعر",
+    "tr": "3lāj tasāguT ish-sha3r",
+    "en": "hair-loss treatment"
+   }
+  ]
+ },
+ {
+  "ar": "مسك",
+  "tr": "misk",
+  "en": "musk (perfume)",
+  "msa": "مسك",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "ريحته مسك.",
+  "ex_tr": "rī7tah misk.",
+  "ex_en": "He smells of musk.",
+  "note": "Also used figuratively: 'sweet-smelling'.",
+  "phrases": [
+   {
+    "ar": "مسك أبيض",
+    "tr": "misk abyaD",
+    "en": "white musk"
+   },
+   {
+    "ar": "ختامها مسك",
+    "tr": "khitāmha misk",
+    "en": "to end on a high note (lit. its seal is musk)"
+   }
+  ]
+ },
+ {
+  "ar": "عود",
+  "tr": "3ūd",
+  "en": "oud (agarwood perfume/incense)",
+  "msa": "عود",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "بخّر الحوش بالعود.",
+  "ex_tr": "bakhkhar il-7ōsh bil-3ūd.",
+  "ex_en": "He perfumed the house with oud incense.",
+  "note": "Also 'stick' and the musical instrument.",
+  "phrases": [
+   {
+    "ar": "دهن عود",
+    "tr": "duhn 3ūd",
+    "en": "oud oil"
+   },
+   {
+    "ar": "عطر عود",
+    "tr": "3iTr 3ūd",
+    "en": "an oud perfume"
+   }
+  ]
+ },
+ {
+  "ar": "فقرة",
+  "tr": "fagra",
+  "en": "vertebra",
+  "msa": "فقرة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "عنده كسر في فقرة من ظهره.",
+  "ex_tr": "3andah kasr fi fagra min DHahrah.",
+  "ex_en": "He has a fractured vertebra.",
+  "note": "pl. فقرات fagarāt. Also 'paragraph; segment'.",
+  "phrases": [
+   {
+    "ar": "فقرات الرقبة",
+    "tr": "fagarāt ir-rugba",
+    "en": "the neck vertebrae"
+   },
+   {
+    "ar": "الفقرات القطنية",
+    "tr": "il-fagarāt il-guTniyya",
+    "en": "the lumbar vertebrae"
+   }
+  ]
+ },
+ {
+  "ar": "غمّازة",
+  "tr": "ghammāza",
+  "en": "dimple",
+  "msa": "غمازة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "كي تضحك تبان الغمّازة.",
+  "ex_tr": "kī tiD7ak tbān il-ghammāza.",
+  "ex_en": "When she laughs her dimple shows.",
+  "note": "pl. غمازات.",
+  "phrases": [
+   {
+    "ar": "غمّازة في الخد",
+    "tr": "ghammāza fil-khadd",
+    "en": "a dimple in the cheek"
+   },
+   {
+    "ar": "عنده غمّازتين",
+    "tr": "3andah ghammāztēn",
+    "en": "he has two dimples"
+   }
+  ]
+ },
+ {
+  "ar": "نمش",
+  "tr": "namash",
+  "en": "freckles",
+  "msa": "نمش",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "وجهها فيه نمش.",
+  "ex_tr": "wijhha fīh namash.",
+  "ex_en": "She has freckles on her face.",
+  "phrases": [
+   {
+    "ar": "نمش من الشمس",
+    "tr": "namash min ish-shams",
+    "en": "freckles from the sun"
+   },
+   {
+    "ar": "نمش خفيف",
+    "tr": "namash khfīf",
+    "en": "light freckles"
+   }
+  ]
+ },
+ {
+  "ar": "كفيف",
+  "tr": "kfīf",
+  "en": "blind (polite)",
+  "msa": "كفيف",
+  "pos": "adj",
+  "cat": "health",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "مدرسة للمكفوفين.",
+  "ex_tr": "madrasa lil-makfūfīn.",
+  "ex_en": "A school for the blind.",
+  "note": "Polite term; pl. مكفوفين makfūfīn.",
+  "phrases": [
+   {
+    "ar": "كفيف من صغره",
+    "tr": "kfīf min Sghurah",
+    "en": "blind since childhood"
+   },
+   {
+    "ar": "عصا الكفيف",
+    "tr": "3aSa il-kfīf",
+    "en": "a white cane"
+   }
+  ]
+ },
+ {
+  "ar": "متلازمة داون",
+  "tr": "mutalāzimat dāwn",
+  "en": "Down syndrome",
+  "msa": "متلازمة داون",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "وليدهم عنده متلازمة داون.",
+  "ex_tr": "wlīdhum 3andah mutalāzimat dāwn.",
+  "ex_en": "Their son has Down syndrome.",
+  "phrases": [
+   {
+    "ar": "أطفال متلازمة داون",
+    "tr": "aTfāl mutalāzimat dāwn",
+    "en": "children with Down syndrome"
+   },
+   {
+    "ar": "جمعية متلازمة داون",
+    "tr": "jam3iyyat mutalāzimat dāwn",
+    "en": "a Down syndrome association"
+   }
+  ]
+ },
+ {
+  "ar": "طرف صناعي",
+  "tr": "Taraf Sinā3i",
+  "en": "prosthetic limb",
+  "msa": "طرف صناعي",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "ركّبوله طرف صناعي في رجله.",
+  "ex_tr": "rakkbūla Taraf Sinā3i fi rijlah.",
+  "ex_en": "They fitted him with a prosthetic leg.",
+  "note": "pl. أطراف صناعية.",
+  "phrases": [
+   {
+    "ar": "رجل صناعية",
+    "tr": "rijl Sinā3iyya",
+    "en": "an artificial leg"
+   },
+   {
+    "ar": "مركز الأطراف الصناعية",
+    "tr": "markaz il-aTrāf iS-Sinā3iyya",
+    "en": "a prosthetics centre"
+   }
+  ]
+ },
+ {
+  "ar": "بتر",
+  "tr": "batr",
+  "en": "amputation",
+  "msa": "بتر",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "السكر وصله لبتر صبع رجله.",
+  "ex_tr": "is-sukkar waSSlah l-batr Sba3 rijlah.",
+  "ex_en": "Diabetes led to the amputation of his toe.",
+  "phrases": [
+   {
+    "ar": "عملية بتر",
+    "tr": "3amaliyyat batr",
+    "en": "an amputation operation"
+   },
+   {
+    "ar": "بتر الرجل",
+    "tr": "batr ir-rijl",
+    "en": "amputation of the leg"
+   }
+  ]
+ },
+ {
+  "ar": "منظار",
+  "tr": "minDHār",
+  "en": "endoscopy; endoscope",
+  "msa": "منظار",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "عمل منظار للمعدة.",
+  "ex_tr": "3mal minDHār lil-mi3da.",
+  "ex_en": "He had a stomach endoscopy.",
+  "note": "Also 'binoculars'.",
+  "phrases": [
+   {
+    "ar": "منظار معدة",
+    "tr": "minDHār mi3da",
+    "en": "a gastroscopy"
+   },
+   {
+    "ar": "عملية بالمنظار",
+    "tr": "3amaliyya bil-minDHār",
+    "en": "keyhole surgery"
+   }
+  ]
+ },
+ {
+  "ar": "خزعة",
+  "tr": "khaz3a",
+  "en": "biopsy",
+  "msa": "خزعة",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "خذوا خزعة وبعثوها للتحليل.",
+  "ex_tr": "khdhu khaz3a w-ba3thūha lit-ta7līl.",
+  "ex_en": "They took a biopsy and sent it for testing.",
+  "phrases": [
+   {
+    "ar": "نتيجة الخزعة",
+    "tr": "natījat il-khaz3a",
+    "en": "the biopsy result"
+   },
+   {
+    "ar": "خزعة من الورم",
+    "tr": "khaz3a min il-waram",
+    "en": "a biopsy of the tumour"
+   }
+  ]
+ },
+ {
+  "ar": "خصلة",
+  "tr": "khuSla",
+  "en": "lock of hair; strand",
+  "msa": "خصلة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "قصّت خصلة من شعرها.",
+  "ex_tr": "gaSSat khuSla min sha3rha.",
+  "ex_en": "She cut a lock of her hair.",
+  "note": "pl. خصل khuSal.",
+  "phrases": [
+   {
+    "ar": "خصلة بيضا",
+    "tr": "khuSla bēDa",
+    "en": "a white strand"
+   },
+   {
+    "ar": "خصل ملونة",
+    "tr": "khuSal mlawwna",
+    "en": "coloured highlights"
+   }
+  ]
+ },
+ {
+  "ar": "مريء",
+  "tr": "marī'",
+  "en": "oesophagus; gullet",
+  "msa": "مريء",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 20,
+  "ex_ar": "الحموضة طالعة للمريء.",
+  "ex_tr": "il-7muDa Tāl3a lil-marī'.",
+  "ex_en": "The acid is coming up into the oesophagus.",
+  "phrases": [
+   {
+    "ar": "التهاب المريء",
+    "tr": "iltihāb il-marī'",
+    "en": "oesophagitis"
+   },
+   {
+    "ar": "ارتجاع المريء",
+    "tr": "irtijā3 il-marī'",
+    "en": "acid reflux"
    }
   ]
  }
