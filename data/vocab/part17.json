@@ -183,7 +183,7 @@
  {
   "ar": "فرنساوي",
   "tr": "fransāwi",
-  "en": "French (language); French person",
+  "en": "French (language)",
   "msa": "الفرنسية",
   "pos": "noun",
   "cat": "school",
@@ -192,7 +192,7 @@
   "ex_ar": "خوي يقرا فرنساوي في المعهد",
   "ex_tr": "khūy yagra fransāwi fil-ma3had",
   "ex_en": "My brother studies French at the institute",
-  "note": "f. فرنساوية fransāwiyya",
+  "note": "Also \"a Frenchman\"; f. فرنساوية fransāwiyya",
   "phrases": [
    {
     "ar": "تعرف تهدرز فرنساوي؟",
@@ -4616,9 +4616,9 @@
   "ex_en": "voting for the best song",
   "phrases": [
    {
-    "ar": "صوّتلي!",
-    "tr": "Sawwitli!",
-    "en": "Vote for me!"
+    "ar": "صوّتلي بالله!",
+    "tr": "Sawwitli bālla!",
+    "en": "Vote for me, please!"
    },
    {
     "ar": "نتيجة التصويت",
