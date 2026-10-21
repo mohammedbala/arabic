@@ -2204,7 +2204,7 @@
    },
    {
     "ar": "مش فايق مزيان",
-    "tr": "mush fāyig mlī7",
+    "tr": "mush fāyig mizyān",
     "en": "not fully awake"
    }
   ]
@@ -2626,32 +2626,6 @@
   ]
  },
  {
-  "ar": "مصاب",
-  "tr": "muSāb",
-  "en": "injured; infected",
-  "msa": "مصاب",
-  "pos": "adj",
-  "cat": "adjectives",
-  "freq": 4,
-  "usage": 46,
-  "ex_ar": "في الحادث فيه زوز مصابين.",
-  "ex_tr": "fi l-7ādith fīh zūz muSābīn.",
-  "ex_en": "There are two injured in the accident.",
-  "note": "f. مصابة muSāba; pl. مصابين muSābīn.",
-  "phrases": [
-   {
-    "ar": "مصاب في رجله",
-    "tr": "muSāb fi rijlah",
-    "en": "injured in his leg"
-   },
-   {
-    "ar": "مصاب بالكورونا",
-    "tr": "muSāb b-il-kūrūna",
-    "en": "infected with Covid"
-   }
-  ]
- },
- {
   "ar": "محبوس",
   "tr": "ma7būs",
   "en": "locked up; imprisoned; stuck",
@@ -2674,32 +2648,6 @@
     "ar": "القطوس محبوس في الدار",
     "tr": "il-gaTTūs ma7būs fi d-dār",
     "en": "the cat is shut in the room"
-   }
-  ]
- },
- {
-  "ar": "معاق",
-  "tr": "mu3āg",
-  "en": "disabled; handicapped",
-  "msa": "معاق",
-  "pos": "adj",
-  "cat": "adjectives",
-  "freq": 5,
-  "usage": 38,
-  "ex_ar": "بلاصة للناس المعاقين.",
-  "ex_tr": "blāSa l-in-nās il-mu3āgīn.",
-  "ex_en": "A spot for disabled people.",
-  "note": "f. معاقة mu3āga; pl. معاقين mu3āgīn. Polite: من ذوي الإعاقة.",
-  "phrases": [
-   {
-    "ar": "ولد معاق",
-    "tr": "weld mu3āg",
-    "en": "a disabled boy"
-   },
-   {
-    "ar": "كرسي المعاقين",
-    "tr": "kursi l-mu3āgīn",
-    "en": "wheelchair"
    }
   ]
  },
@@ -3480,32 +3428,6 @@
     "ar": "السورية ولت باهتة من الغسيل",
     "tr": "is-sūriyya wallat bāhta min il-ghsīl",
     "en": "the shirt has faded from washing"
-   }
-  ]
- },
- {
-  "ar": "مصفر",
-  "tr": "mSaffar",
-  "en": "pale; yellowish (from illness or fear)",
-  "msa": "مصفرّ",
-  "pos": "adj",
-  "cat": "adjectives",
-  "freq": 4,
-  "usage": 42,
-  "ex_ar": "وجهه مصفر من الخوف.",
-  "ex_tr": "wajhah mSaffar min il-khōf.",
-  "ex_en": "His face is pale with fear.",
-  "note": "f. مصفرة mSaffra.",
-  "phrases": [
-   {
-    "ar": "ليش مصفر هكي؟",
-    "tr": "līsh mSaffar hakki?",
-    "en": "why are you so pale?"
-   },
-   {
-    "ar": "أوراق مصفرة",
-    "tr": "awrāg mSaffra",
-    "en": "yellowed leaves"
    }
   ]
  },
@@ -6370,32 +6292,6 @@
   ]
  },
  {
-  "ar": "مكتئب",
-  "tr": "mukta'ib",
-  "en": "depressed",
-  "msa": "مكتئب",
-  "pos": "adj",
-  "cat": "emotions",
-  "freq": 4,
-  "usage": 42,
-  "ex_ar": "من يوم فقد خدمته وهو مكتئب.",
-  "ex_tr": "min yōm fgad khidmtah w huwwa mukta'ib.",
-  "ex_en": "Since he lost his job he's been depressed.",
-  "note": "f. مكتئبة mukta'iba.",
-  "phrases": [
-   {
-    "ar": "حاسس روحي مكتئب",
-    "tr": "7āsis rū7i mukta'ib",
-    "en": "I feel depressed"
-   },
-   {
-    "ar": "بنت مكتئبة",
-    "tr": "bint mukta'iba",
-    "en": "a depressed girl"
-   }
-  ]
- },
- {
   "ar": "مخنوق",
   "tr": "makhnūg",
   "en": "stifled; suffocated; fed up",
@@ -6678,32 +6574,6 @@
     "ar": "ما تحطنيش في موقف محرج",
     "tr": "ma t7uTTnīsh fi mawgif mu7rij",
     "en": "don't put me in an awkward spot"
-   }
-  ]
- },
- {
-  "ar": "مجروح",
-  "tr": "majrū7",
-  "en": "hurt; wounded (feelings or body)",
-  "msa": "مجروح",
-  "pos": "adj",
-  "cat": "emotions",
-  "freq": 4,
-  "usage": 46,
-  "ex_ar": "قلبها مجروح من كلامه.",
-  "ex_tr": "galbha majrū7 min kalāmah.",
-  "ex_en": "Her heart is hurt by his words.",
-  "note": "f. مجروحة majrū7a.",
-  "phrases": [
-   {
-    "ar": "مجروح في يده",
-    "tr": "majrū7 fi īdah",
-    "en": "cut on his hand"
-   },
-   {
-    "ar": "حاسس روحي مجروح",
-    "tr": "7āsis rū7i majrū7",
-    "en": "I feel hurt"
    }
   ]
  },
@@ -7540,58 +7410,6 @@
   ]
  },
  {
-  "ar": "مرهق",
-  "tr": "murhag",
-  "en": "exhausted; drained",
-  "msa": "مُرهَق",
-  "pos": "adj",
-  "cat": "adjectives",
-  "freq": 4,
-  "usage": 46,
-  "ex_ar": "مرهق من السفر.",
-  "ex_tr": "murhag min is-safar.",
-  "ex_en": "Exhausted from the trip.",
-  "note": "f. مرهقة murhaga. Libyans more often say تعبان or مهدود.",
-  "phrases": [
-   {
-    "ar": "وجهك مرهق",
-    "tr": "wajhak murhag",
-    "en": "you look worn out"
-   },
-   {
-    "ar": "خدمة مرهقة",
-    "tr": "khidma murhga",
-    "en": "draining work"
-   }
-  ]
- },
- {
-  "ar": "دايخ",
-  "tr": "dāyikh",
-  "en": "dizzy; light-headed; dazed",
-  "msa": "دائخ",
-  "pos": "adj",
-  "cat": "adjectives",
-  "freq": 4,
-  "usage": 48,
-  "ex_ar": "حاسس روحي دايخ، نبي نقعد.",
-  "ex_tr": "7āsis rū7i dāyikh, nibbi nug3ud.",
-  "ex_en": "I feel dizzy, I want to sit down.",
-  "note": "f. دايخة dāykha. Libyan دوخة \"dizziness\".",
-  "phrases": [
-   {
-    "ar": "دايخ من الشمس",
-    "tr": "dāyikh min ish-shams",
-    "en": "dizzy from the sun"
-   },
-   {
-    "ar": "دايخ في الدنيا",
-    "tr": "dāyikh fi d-dunya",
-    "en": "lost in life (confused)"
-   }
-  ]
- },
- {
   "ar": "مسطول",
   "tr": "masTūl",
   "en": "dazed; out of it; stoned (slang)",
@@ -7601,7 +7419,7 @@
   "freq": 5,
   "usage": 36,
   "ex_ar": "شكلك مسطول، نمت مزيان؟",
-  "ex_tr": "shaklak masTūl, nimt mlī7?",
+  "ex_tr": "shaklak masTūl, nimt mizyān?",
   "ex_en": "You look out of it, did you sleep well?",
   "note": "f. مسطولة masTūla. Often used jokingly for someone not paying attention.",
   "phrases": [
@@ -8502,32 +8320,6 @@
   ]
  },
  {
-  "ar": "مقرمش",
-  "tr": "mgarmish",
-  "en": "crunchy; crispy",
-  "msa": "مقرمِش",
-  "pos": "adj",
-  "cat": "adjectives",
-  "freq": 4,
-  "usage": 40,
-  "ex_ar": "البطاطا مقرمشة وسخونة.",
-  "ex_tr": "il-baTāTa mgarmsha w skhūna.",
-  "ex_en": "The chips are crispy and hot.",
-  "note": "f. مقرمشة mgarmsha.",
-  "phrases": [
-   {
-    "ar": "خبزة مقرمشة",
-    "tr": "khubza mgarmsha",
-    "en": "crusty bread"
-   },
-   {
-    "ar": "دجاج مقرمش",
-    "tr": "djāj mgarmish",
-    "en": "crispy chicken"
-   }
-  ]
- },
- {
   "ar": "صلب",
   "tr": "Salb",
   "en": "solid; hard; tough",
@@ -8762,32 +8554,6 @@
   ]
  },
  {
-  "ar": "مملح",
-  "tr": "mmalla7",
-  "en": "salted; pickled in salt",
-  "msa": "مملَّح",
-  "pos": "adj",
-  "cat": "adjectives",
-  "freq": 5,
-  "usage": 34,
-  "ex_ar": "الحوت المملح يحبوه في العيد.",
-  "ex_tr": "il-7ūt il-mmalla7 y7ibbūh fi l-3īd.",
-  "ex_en": "People love salted fish at Eid.",
-  "note": "f. مملحة mmall7a.",
-  "phrases": [
-   {
-    "ar": "فول مملح",
-    "tr": "fūl mmalla7",
-    "en": "salted beans"
-   },
-   {
-    "ar": "زبدة مملحة",
-    "tr": "zibda mmall7a",
-    "en": "salted butter"
-   }
-  ]
- },
- {
   "ar": "منتن",
   "tr": "mnattin",
   "en": "stinking; foul-smelling",
@@ -8814,54 +8580,262 @@
   ]
  },
  {
-  "ar": "ليبي",
-  "tr": "lībi",
-  "en": "Libyan",
-  "msa": "ليبيّ",
+  "ar": "ناجح",
+  "tr": "nāji7",
+  "en": "successful; having passed (exam)",
+  "msa": "ناجح",
   "pos": "adj",
   "cat": "adjectives",
-  "freq": 2,
-  "usage": 70,
-  "ex_ar": "أنا ليبي من طرابلس.",
-  "ex_tr": "ana lībi min Trābulus.",
-  "ex_en": "I'm Libyan, from Tripoli.",
-  "note": "f. ليبية lībiyya; pl. ليبيين lībiyyīn.",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "ولدي ناجح السنة هذي.",
+  "ex_tr": "weldi nāji7 is-sna hādhi.",
+  "ex_en": "My son passed this year.",
+  "note": "f. ناجحة nāj7a; pl. ناجحين nāj7īn.",
   "phrases": [
    {
-    "ar": "الأكل الليبي",
-    "tr": "il-mākla l-lībiyya",
-    "en": "Libyan food"
+    "ar": "مشروع ناجح",
+    "tr": "mashrū3 nāji7",
+    "en": "a successful project"
    },
    {
-    "ar": "اللهجة الليبية",
-    "tr": "il-lahja l-lībiyya",
-    "en": "the Libyan dialect"
+    "ar": "تاجر ناجح",
+    "tr": "tājir nāji7",
+    "en": "a successful businessman"
    }
   ]
  },
  {
-  "ar": "عربي",
-  "tr": "3arabi",
-  "en": "Arab; Arabic",
-  "msa": "عربيّ",
+  "ar": "مقبول",
+  "tr": "magbūl",
+  "en": "acceptable; accepted",
+  "msa": "مقبول",
   "pos": "adj",
   "cat": "adjectives",
-  "freq": 3,
-  "usage": 66,
-  "ex_ar": "تتكلم عربي؟",
-  "ex_tr": "titkallam 3arabi?",
-  "ex_en": "Do you speak Arabic?",
-  "note": "f. عربية 3arabiyya; pl. عرب 3arab. بالعربي \"in Arabic / plainly\".",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "السوم هذا مقبول.",
+  "ex_tr": "is-sōm hādha magbūl.",
+  "ex_en": "This price is acceptable.",
+  "note": "f. مقبولة magbūla. Also a school grade \"pass\".",
   "phrases": [
    {
-    "ar": "قولها بالعربي",
-    "tr": "gūlha b-il-3arabi",
-    "en": "say it plainly (in Arabic)"
+    "ar": "تصرف مش مقبول",
+    "tr": "taSarruf mush magbūl",
+    "en": "unacceptable behaviour"
    },
    {
-    "ar": "الدول العربية",
-    "tr": "id-duwal il-3arabiyya",
-    "en": "the Arab countries"
+    "ar": "طلع اسمي مقبول في الجامعة",
+    "tr": "Tla3 ismi magbūl fi l-jām3a",
+    "en": "I got accepted at university"
+   }
+  ]
+ },
+ {
+  "ar": "مرفوض",
+  "tr": "marfūD",
+  "en": "rejected; refused; unacceptable",
+  "msa": "مرفوض",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "طلب الفيزا مرفوض.",
+  "ex_tr": "Talab il-vīza marfūD.",
+  "ex_en": "The visa application was refused.",
+  "note": "f. مرفوضة marfūDa.",
+  "phrases": [
+   {
+    "ar": "الكلام هذا مرفوض",
+    "tr": "il-kalām hādha marfūD",
+    "en": "this kind of talk is unacceptable"
+   },
+   {
+    "ar": "مرفوض من الجامعة",
+    "tr": "marfūD min il-jām3a",
+    "en": "rejected by the university"
+   }
+  ]
+ },
+ {
+  "ar": "مطلوب",
+  "tr": "maTlūb",
+  "en": "wanted; required; in demand",
+  "msa": "مطلوب",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "مطلوب عمال للمصنع.",
+  "ex_tr": "maTlūb 3ummāl l-il-maSna3.",
+  "ex_en": "Workers wanted for the factory.",
+  "note": "f. مطلوبة maTlūba.",
+  "phrases": [
+   {
+    "ar": "الأوراق المطلوبة",
+    "tr": "il-awrāg il-maTlūba",
+    "en": "the required documents"
+   },
+   {
+    "ar": "مطلوب للشرطة",
+    "tr": "maTlūb l-ish-shurTa",
+    "en": "wanted by the police"
+   }
+  ]
+ },
+ {
+  "ar": "منزعج",
+  "tr": "minzi3ij",
+  "en": "bothered; disturbed; annoyed",
+  "msa": "منزعج",
+  "pos": "adj",
+  "cat": "emotions",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "منزعج من الصوت متاع الجيران.",
+  "ex_tr": "minzi3ij min iS-Sōt mtā3 ij-jīrān.",
+  "ex_en": "I'm bothered by the neighbours' noise.",
+  "note": "f. منزعجة minzi3ja.",
+  "phrases": [
+   {
+    "ar": "شكلك منزعج",
+    "tr": "shaklak minzi3ij",
+    "en": "you look annoyed"
+   },
+   {
+    "ar": "مش منزعج خالص",
+    "tr": "mush minzi3ij khāliS",
+    "en": "not bothered at all"
+   }
+  ]
+ },
+ {
+  "ar": "متفاجئ",
+  "tr": "mitfāji'",
+  "en": "surprised; caught off guard",
+  "msa": "متفاجئ",
+  "pos": "adj",
+  "cat": "emotions",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "كنت متفاجئ لما شفته.",
+  "ex_tr": "kunt mitfāji' lamma shuftah.",
+  "ex_en": "I was surprised when I saw him.",
+  "note": "f. متفاجئة mitfāj'a.",
+  "phrases": [
+   {
+    "ar": "مش متفاجئ منه",
+    "tr": "mush mitfāji' minnah",
+    "en": "not surprised by him"
+   },
+   {
+    "ar": "الكل كان متفاجئ",
+    "tr": "il-kull kān mitfāji'",
+    "en": "everyone was surprised"
+   }
+  ]
+ },
+ {
+  "ar": "متفهم",
+  "tr": "mitfahhim",
+  "en": "understanding; considerate",
+  "msa": "متفهِّم",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "المدير متفهم، خلاني نروح بكري.",
+  "ex_tr": "il-mudīr mitfahhim, khallāni nrawwi7 bakri.",
+  "ex_en": "The boss is understanding, he let me go home early.",
+  "note": "f. متفهمة mitfahhma.",
+  "phrases": [
+   {
+    "ar": "أم متفهمة",
+    "tr": "umm mitfahhma",
+    "en": "an understanding mother"
+   },
+   {
+    "ar": "لازم تكون متفهم",
+    "tr": "lāzim tkūn mitfahhim",
+    "en": "you have to be understanding"
+   }
+  ]
+ },
+ {
+  "ar": "متساوي",
+  "tr": "mitsāwi",
+  "en": "equal; even; level",
+  "msa": "متساوٍ",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "النتيجة متساوية، زوز زوز.",
+  "ex_tr": "in-natīja mitsāwya, zūz zūz.",
+  "ex_en": "The score is level, two all.",
+  "note": "f. متساوية mitsāwya.",
+  "phrases": [
+   {
+    "ar": "قسمهم متساوي",
+    "tr": "gassimhum mitsāwi",
+    "en": "split them equally"
+   },
+   {
+    "ar": "الكل متساوي قدام القانون",
+    "tr": "il-kull mitsāwi guddām il-gānūn",
+    "en": "everyone is equal before the law"
+   }
+  ]
+ },
+ {
+  "ar": "مشمس",
+  "tr": "mshammis",
+  "en": "sunny",
+  "msa": "مشمِس",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "اليوم الجو مشمس وباهي.",
+  "ex_tr": "il-yōm ij-jaw mshammis w bāhi.",
+  "ex_en": "Today the weather is sunny and nice.",
+  "note": "f. مشمسة mshamsa.",
+  "phrases": [
+   {
+    "ar": "نهار مشمس",
+    "tr": "nhār mshammis",
+    "en": "a sunny day"
+   },
+   {
+    "ar": "بلاصة مشمسة",
+    "tr": "blāSa mshamsa",
+    "en": "a sunny spot"
+   }
+  ]
+ },
+ {
+  "ar": "مغيم",
+  "tr": "mghayyim",
+  "en": "cloudy; overcast",
+  "msa": "مغيِّم",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الجو مغيم، يمكن تصب.",
+  "ex_tr": "ij-jaw mghayyim, yimkin tSubb.",
+  "ex_en": "It's cloudy, it might rain.",
+  "note": "f. مغيمة mghayyma. From غيم \"clouds\".",
+  "phrases": [
+   {
+    "ar": "سما مغيمة",
+    "tr": "sma mghayyma",
+    "en": "an overcast sky"
+   },
+   {
+    "ar": "الصبح كان مغيم",
+    "tr": "iS-Sub7 kān mghayyim",
+    "en": "the morning was cloudy"
    }
   ]
  }

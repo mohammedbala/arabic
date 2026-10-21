@@ -5218,32 +5218,6 @@
   ]
  },
  {
-  "ar": "طهور",
-  "tr": "Thūr",
-  "en": "circumcision (and its celebration)",
-  "msa": "ختان",
-  "pos": "noun",
-  "cat": "family",
-  "freq": 3,
-  "usage": 40,
-  "ex_ar": "عملوا طهور للولد في العيد.",
-  "ex_tr": "3amlu Thūr lil-wild fil-3īd.",
-  "ex_en": "They held the boy's circumcision party at Eid.",
-  "note": "a family celebration in Libya",
-  "phrases": [
-   {
-    "ar": "حفلة طهور",
-    "tr": "7aflat Thūr",
-    "en": "circumcision party"
-   },
-   {
-    "ar": "طهور الصغار",
-    "tr": "Thūr iS-Sghār",
-    "en": "the boys' circumcision"
-   }
-  ]
- },
- {
   "ar": "عقيقة",
   "tr": "3agīga",
   "en": "aqiqa (sacrifice for a newborn)",
@@ -5292,32 +5266,6 @@
     "ar": "حلويات السماية",
     "tr": "7alawiyyāt is-smāya",
     "en": "naming-day sweets"
-   }
-  ]
- },
- {
-  "ar": "عيد ميلاد",
-  "tr": "3īd mīlād",
-  "en": "birthday",
-  "msa": "عيد ميلاد",
-  "pos": "noun",
-  "cat": "family",
-  "freq": 2,
-  "usage": 58,
-  "ex_ar": "اليوم عيد ميلاد بنتي.",
-  "ex_tr": "il-yōm 3īd mīlād binti.",
-  "ex_en": "Today is my daughter's birthday.",
-  "note": "pl. أعياد ميلاد",
-  "phrases": [
-   {
-    "ar": "عيد ميلاد سعيد",
-    "tr": "3īd mīlād sa3īd",
-    "en": "happy birthday"
-   },
-   {
-    "ar": "طورطة عيد الميلاد",
-    "tr": "Tōrtat 3īd il-mīlād",
-    "en": "birthday cake"
    }
   ]
  },
@@ -5580,31 +5528,6 @@
   ]
  },
  {
-  "ar": "طفولة",
-  "tr": "Tufūla",
-  "en": "childhood",
-  "msa": "طفولة",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 3,
-  "usage": 46,
-  "ex_ar": "عشت طفولتي في سوق الجمعة.",
-  "ex_tr": "3isht Tufūlti fi sūg ij-jum3a.",
-  "ex_en": "I spent my childhood in Souq al-Juma.",
-  "phrases": [
-   {
-    "ar": "أيام الطفولة",
-    "tr": "iyyām iT-Tufūla",
-    "en": "childhood days"
-   },
-   {
-    "ar": "صاحب الطفولة",
-    "tr": "Sā7ib iT-Tufūla",
-    "en": "childhood friend"
-   }
-  ]
- },
- {
   "ar": "مراهقة",
   "tr": "murāhaqa",
   "en": "adolescence",
@@ -5682,32 +5605,6 @@
   ]
  },
  {
-  "ar": "هجرة",
-  "tr": "hijra",
-  "en": "emigration; migration",
-  "msa": "هجرة",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 3,
-  "usage": 46,
-  "ex_ar": "الهجرة لأوروبا خطيرة في البحر.",
-  "ex_tr": "il-hijra l-ūrubba khaTīra fil-ba7r.",
-  "ex_en": "Migration to Europe by sea is dangerous.",
-  "note": "also the Islamic Hijra",
-  "phrases": [
-   {
-    "ar": "هجرة غير شرعية",
-    "tr": "hijra ghēr shar3iyya",
-    "en": "illegal migration"
-   },
-   {
-    "ar": "فكّر في الهجرة",
-    "tr": "fakkar fil-hijra",
-    "en": "he thought about emigrating"
-   }
-  ]
- },
- {
   "ar": "غربة",
   "tr": "ghurba",
   "en": "life abroad; being away from home",
@@ -5760,188 +5657,6 @@
   ]
  },
  {
-  "ar": "سهرة",
-  "tr": "sahra",
-  "en": "evening get-together",
-  "msa": "سهرة",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 3,
-  "usage": 46,
-  "ex_ar": "عندنا سهرة عند خوي الليلة.",
-  "ex_tr": "3andna sahra 3and khūy il-lēla.",
-  "ex_en": "We have an evening get-together at my brother's tonight.",
-  "note": "pl. سهرات",
-  "phrases": [
-   {
-    "ar": "سهرة رمضانية",
-    "tr": "sahra ramaDāniyya",
-    "en": "Ramadan evening gathering"
-   },
-   {
-    "ar": "سهرة مع الشباب",
-    "tr": "sahra ma3a ish-shbāb",
-    "en": "an evening out with the guys"
-   }
-  ]
- },
- {
-  "ar": "مجتمع",
-  "tr": "mujtama3",
-  "en": "society; community",
-  "msa": "مجتمع",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 3,
-  "usage": 50,
-  "ex_ar": "المجتمع الليبي محافظ.",
-  "ex_tr": "il-mujtama3 il-lībi m7āfiDH.",
-  "ex_en": "Libyan society is conservative.",
-  "note": "pl. مجتمعات",
-  "phrases": [
-   {
-    "ar": "نظرة المجتمع",
-    "tr": "naDHrat il-mujtama3",
-    "en": "society's view"
-   },
-   {
-    "ar": "المجتمع المدني",
-    "tr": "il-mujtama3 il-madani",
-    "en": "civil society"
-   }
-  ]
- },
- {
-  "ar": "شعب",
-  "tr": "sha3b",
-  "en": "people; nation",
-  "msa": "شعب",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 2,
-  "usage": 56,
-  "ex_ar": "الشعب الليبي كريم.",
-  "ex_tr": "ish-sha3b il-lībi karīm.",
-  "ex_en": "The Libyan people are generous.",
-  "note": "pl. شعوب shu3ūb",
-  "phrases": [
-   {
-    "ar": "الشعب يبي",
-    "tr": "ish-sha3b yibbi",
-    "en": "the people want"
-   },
-   {
-    "ar": "شعب طيّب",
-    "tr": "sha3b Tayyib",
-    "en": "a good-hearted people"
-   }
-  ]
- },
- {
-  "ar": "مواطن",
-  "tr": "mwāTin",
-  "en": "citizen",
-  "msa": "مواطن",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 2,
-  "usage": 56,
-  "ex_ar": "المواطن يستنّى في طابور المصرف.",
-  "ex_tr": "il-mwāTin yistanna fi Tābūr il-maSrif.",
-  "ex_en": "The citizen waits in the bank queue.",
-  "note": "pl. مواطنين; \"the ordinary citizen\" is a stock phrase",
-  "phrases": [
-   {
-    "ar": "المواطن البسيط",
-    "tr": "il-mwāTin il-basīT",
-    "en": "the ordinary citizen"
-   },
-   {
-    "ar": "حقوق المواطن",
-    "tr": "7ugūg il-mwāTin",
-    "en": "citizens' rights"
-   }
-  ]
- },
- {
-  "ar": "لاجئ",
-  "tr": "lāji'",
-  "en": "refugee",
-  "msa": "لاجئ",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 4,
-  "usage": 38,
-  "ex_ar": "في لاجئين سوريين في طرابلس.",
-  "ex_tr": "fī lāji'īn sūriyyīn fi Trābilis.",
-  "ex_en": "There are Syrian refugees in Tripoli.",
-  "note": "pl. لاجئين",
-  "phrases": [
-   {
-    "ar": "مخيّم لاجئين",
-    "tr": "mukhayyam lāji'īn",
-    "en": "refugee camp"
-   },
-   {
-    "ar": "لجوء سياسي",
-    "tr": "lujū' siyāsi",
-    "en": "political asylum"
-   }
-  ]
- },
- {
-  "ar": "نازح",
-  "tr": "nāzi7",
-  "en": "displaced person",
-  "msa": "نازح",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 4,
-  "usage": 40,
-  "ex_ar": "النازحين من تاورغاء ساكنين في مخيّمات.",
-  "ex_tr": "in-nāz7īn min tāwurgha sāknīn fi mukhayyamāt.",
-  "ex_en": "Those displaced from Tawergha live in camps.",
-  "note": "pl. نازحين; very common in Libyan news",
-  "phrases": [
-   {
-    "ar": "عايلات نازحة",
-    "tr": "3āylāt nāz7a",
-    "en": "displaced families"
-   },
-   {
-    "ar": "رجوع النازحين",
-    "tr": "rjū3 in-nāz7īn",
-    "en": "the return of the displaced"
-   }
-  ]
- },
- {
-  "ar": "مهاجر",
-  "tr": "muhājir",
-  "en": "migrant; emigrant",
-  "msa": "مهاجر",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 3,
-  "usage": 50,
-  "ex_ar": "المهاجرين يخدموا في البناء.",
-  "ex_tr": "il-muhājrīn yikhdmu fil-binā'.",
-  "ex_en": "The migrants work in construction.",
-  "note": "pl. مهاجرين",
-  "phrases": [
-   {
-    "ar": "مهاجر غير شرعي",
-    "tr": "muhājir ghēr shar3i",
-    "en": "irregular migrant"
-   },
-   {
-    "ar": "مهاجرين أفارقة",
-    "tr": "muhājrīn afāriga",
-    "en": "African migrants"
-   }
-  ]
- },
- {
   "ar": "جالية",
   "tr": "jālya",
   "en": "expatriate community",
@@ -5990,32 +5705,6 @@
     "ar": "إقامة الوافد",
     "tr": "igāmat il-wāfid",
     "en": "the expat's residence permit"
-   }
-  ]
- },
- {
-  "ar": "جمهور",
-  "tr": "jumhūr",
-  "en": "audience; crowd; fans",
-  "msa": "جمهور",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 3,
-  "usage": 46,
-  "ex_ar": "الجمهور ملّى الملعب.",
-  "ex_tr": "ij-jumhūr malla il-mal3ab.",
-  "ex_en": "The crowd filled the stadium.",
-  "note": "pl. جماهير jamāhīr",
-  "phrases": [
-   {
-    "ar": "جمهور الأهلي",
-    "tr": "jumhūr il-ahli",
-    "en": "Al-Ahly's fans"
-   },
-   {
-    "ar": "الجمهور صفّق",
-    "tr": "ij-jumhūr Saffag",
-    "en": "the audience applauded"
    }
   ]
  },
@@ -6172,58 +5861,6 @@
     "ar": "حماية المدنيين",
     "tr": "7imāyat il-madaniyyīn",
     "en": "protection of civilians"
-   }
-  ]
- },
- {
-  "ar": "جيش",
-  "tr": "jēsh",
-  "en": "army",
-  "msa": "جيش",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 2,
-  "usage": 54,
-  "ex_ar": "ولدها في الجيش.",
-  "ex_tr": "wildha fij-jēsh.",
-  "ex_en": "Her son is in the army.",
-  "note": "pl. جيوش",
-  "phrases": [
-   {
-    "ar": "الجيش الليبي",
-    "tr": "ij-jēsh il-lībi",
-    "en": "the Libyan army"
-   },
-   {
-    "ar": "دخل الجيش",
-    "tr": "dkhal ij-jēsh",
-    "en": "he joined the army"
-   }
-  ]
- },
- {
-  "ar": "حزب",
-  "tr": "7izb",
-  "en": "political party",
-  "msa": "حزب",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 4,
-  "usage": 36,
-  "ex_ar": "في ليبيا أحزاب صغار هلبة.",
-  "ex_tr": "fi lībya a7zāb Sghār hallba.",
-  "ex_en": "There are many small parties in Libya.",
-  "note": "pl. أحزاب a7zāb",
-  "phrases": [
-   {
-    "ar": "حزب سياسي",
-    "tr": "7izb siyāsi",
-    "en": "political party"
-   },
-   {
-    "ar": "راس الحزب",
-    "tr": "rās il-7izb",
-    "en": "the party leader"
    }
   ]
  },
@@ -6435,32 +6072,6 @@
   ]
  },
  {
-  "ar": "بطل",
-  "tr": "baTal",
-  "en": "hero; champion",
-  "msa": "بطل",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 2,
-  "usage": 56,
-  "ex_ar": "بوي هو البطل متاعي.",
-  "ex_tr": "būy hu il-baTal mtā3i.",
-  "ex_en": "My dad is my hero.",
-  "note": "pl. أبطال abTāl; also lead actor",
-  "phrases": [
-   {
-    "ar": "بطل العالم",
-    "tr": "baTal il-3ālam",
-    "en": "world champion"
-   },
-   {
-    "ar": "يا بطل!",
-    "tr": "ya baTal!",
-    "en": "well done, champ!"
-   }
-  ]
- },
- {
   "ar": "ضحية",
   "tr": "Da7iyya",
   "en": "victim",
@@ -6483,58 +6094,6 @@
     "ar": "راح ضحية",
     "tr": "rā7 Da7iyya",
     "en": "he became a victim"
-   }
-  ]
- },
- {
-  "ar": "شاهد",
-  "tr": "shāhid",
-  "en": "witness",
-  "msa": "شاهد",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 3,
-  "usage": 44,
-  "ex_ar": "كان شاهد على الحادث.",
-  "ex_tr": "kān shāhid 3al-7ādith.",
-  "ex_en": "He was a witness to the accident.",
-  "note": "pl. شهود shuhūd",
-  "phrases": [
-   {
-    "ar": "شاهد عيان",
-    "tr": "shāhid 3iyān",
-    "en": "eyewitness"
-   },
-   {
-    "ar": "شهود العقد",
-    "tr": "shuhūd il-3agd",
-    "en": "the contract witnesses"
-   }
-  ]
- },
- {
-  "ar": "متّهم",
-  "tr": "muttaham",
-  "en": "suspect; the accused",
-  "msa": "متهم",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 4,
-  "usage": 38,
-  "ex_ar": "المتّهم نكر كل شي.",
-  "ex_tr": "il-muttaham nkar kull shay.",
-  "ex_en": "The accused denied everything.",
-  "note": "pl. متّهمين",
-  "phrases": [
-   {
-    "ar": "المتّهم بريء لين تثبت إدانته",
-    "tr": "il-muttaham brī' līn tithbit idāntah",
-    "en": "innocent until proven guilty"
-   },
-   {
-    "ar": "المتّهم الرئيسي",
-    "tr": "il-muttaham ir-ra'īsi",
-    "en": "the main suspect"
    }
   ]
  },
@@ -6613,32 +6172,6 @@
     "ar": "حرامية الكراهب",
     "tr": "7arāmiyyat il-krāhib",
     "en": "car thieves"
-   }
-  ]
- },
- {
-  "ar": "سرّاق",
-  "tr": "sarrāg",
-  "en": "thief; pickpocket",
-  "msa": "سارق",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 3,
-  "usage": 46,
-  "ex_ar": "السرّاق خذا تليفوني في السوق.",
-  "ex_tr": "is-sarrāg khdha tilifōni fis-sūg.",
-  "ex_en": "The thief took my phone in the market.",
-  "note": "pl. سرّاقة sarrāga; Maghrebi word",
-  "phrases": [
-   {
-    "ar": "سرّاق الشناطي",
-    "tr": "sarrāg ish-shanāTi",
-    "en": "bag snatcher"
-   },
-   {
-    "ar": "ردّ بالك من السرّاقة",
-    "tr": "rudd bālik min is-sarrāga",
-    "en": "watch out for thieves"
    }
   ]
  },
@@ -6851,32 +6384,6 @@
   ]
  },
  {
-  "ar": "معاق",
-  "tr": "m3āg",
-  "en": "disabled person",
-  "msa": "معاق",
-  "pos": "noun",
-  "cat": "people",
-  "freq": 4,
-  "usage": 34,
-  "ex_ar": "الحكومة تعطي منحة للمعاقين.",
-  "ex_tr": "il-7ukūma ta3Ti min7a lil-m3āgīn.",
-  "ex_en": "The government gives an allowance to the disabled.",
-  "note": "pl. معاقين; polite: ذوي الاحتياجات الخاصة",
-  "phrases": [
-   {
-    "ar": "كرسي معاقين",
-    "tr": "kursi m3āgīn",
-    "en": "wheelchair"
-   },
-   {
-    "ar": "موقف المعاقين",
-    "tr": "mawgif il-m3āgīn",
-    "en": "disabled parking spot"
-   }
-  ]
- },
- {
   "ar": "فاعل خير",
   "tr": "fā3il khēr",
   "en": "benefactor; anonymous donor",
@@ -6899,6 +6406,1514 @@
     "ar": "ربي يجازي فاعل الخير",
     "tr": "rabbi yjāzi fā3il il-khēr",
     "en": "may God reward the benefactor"
+   }
+  ]
+ },
+ {
+  "ar": "تونسي",
+  "tr": "tūnsi",
+  "en": "Tunisian (person)",
+  "msa": "تونسي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 2,
+  "usage": 56,
+  "ex_ar": "جارنا تونسي من صفاقس.",
+  "ex_tr": "jārna tūnsi min Sfāgis.",
+  "ex_en": "Our neighbour is a Tunisian from Sfax.",
+  "note": "pl. توانسة twānsa",
+  "phrases": [
+   {
+    "ar": "التوانسة يحبّوا ليبيا",
+    "tr": "it-twānsa y7ibbu lībya",
+    "en": "Tunisians love Libya"
+   },
+   {
+    "ar": "لهجة تونسية",
+    "tr": "lahja tūnsiyya",
+    "en": "Tunisian dialect"
+   }
+  ]
+ },
+ {
+  "ar": "مصري",
+  "tr": "maSri",
+  "en": "Egyptian (person)",
+  "msa": "مصري",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 2,
+  "usage": 56,
+  "ex_ar": "الخدّامة في البناء أغلبهم مصريين.",
+  "ex_tr": "il-khaddāma fil-binā' aghlabhum maSriyyīn.",
+  "ex_en": "Most construction workers are Egyptians.",
+  "note": "pl. مصريين / مصاروة",
+  "phrases": [
+   {
+    "ar": "مسلسل مصري",
+    "tr": "musalsal maSri",
+    "en": "Egyptian series"
+   },
+   {
+    "ar": "يهدرز مصري",
+    "tr": "yhadriz maSri",
+    "en": "he speaks Egyptian"
+   }
+  ]
+ },
+ {
+  "ar": "جزايري",
+  "tr": "jzāyri",
+  "en": "Algerian (person)",
+  "msa": "جزائري",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "صاحبي جزايري ساكن في غدامس.",
+  "ex_tr": "Sā7bi jzāyri sākin fi ghdāmis.",
+  "ex_en": "My friend is an Algerian living in Ghadames.",
+  "note": "pl. جزايريين / دزيرية",
+  "phrases": [
+   {
+    "ar": "الجزايريين جيرانّا",
+    "tr": "il-jzāyriyyīn jīrānna",
+    "en": "Algerians are our neighbours"
+   },
+   {
+    "ar": "أغنية جزايرية",
+    "tr": "ughniyya jzāyriyya",
+    "en": "an Algerian song"
+   }
+  ]
+ },
+ {
+  "ar": "مغربي",
+  "tr": "maghribi",
+  "en": "Moroccan (person)",
+  "msa": "مغربي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "الطبّاخة مغربية وتطيّب طاجين زين.",
+  "ex_tr": "iT-Tabbākha maghribiyya w-tTayyib Tājīn zēn.",
+  "ex_en": "The cook is Moroccan and makes a great tajine.",
+  "note": "pl. مغاربة maghāriba",
+  "phrases": [
+   {
+    "ar": "القفطان المغربي",
+    "tr": "il-guftān il-maghribi",
+    "en": "the Moroccan kaftan"
+   },
+   {
+    "ar": "حمّام مغربي",
+    "tr": "7ammām maghribi",
+    "en": "Moroccan bath"
+   }
+  ]
+ },
+ {
+  "ar": "سوداني",
+  "tr": "sūdāni",
+  "en": "Sudanese (person)",
+  "msa": "سوداني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "في سودانيين هلبة يخدموا في ليبيا.",
+  "ex_tr": "fī sūdāniyyīn hallba yikhdmu fi lībya.",
+  "ex_en": "Many Sudanese work in Libya.",
+  "note": "pl. سودانيين / سودانية",
+  "phrases": [
+   {
+    "ar": "راعي سوداني",
+    "tr": "rā3i sūdāni",
+    "en": "a Sudanese shepherd"
+   },
+   {
+    "ar": "قهوة سودانية",
+    "tr": "gahwa sūdāniyya",
+    "en": "Sudanese coffee"
+   }
+  ]
+ },
+ {
+  "ar": "تشادي",
+  "tr": "tshādi",
+  "en": "Chadian (person)",
+  "msa": "تشادي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "التشاديين يخدموا في المزارع.",
+  "ex_tr": "it-tshādiyyīn yikhdmu fil-mazāri3.",
+  "ex_en": "Chadians work on the farms.",
+  "note": "pl. تشاديين",
+  "phrases": [
+   {
+    "ar": "عامل تشادي",
+    "tr": "3āmil tshādi",
+    "en": "a Chadian worker"
+   },
+   {
+    "ar": "الحدود التشادية",
+    "tr": "il-7udūd it-tshādiyya",
+    "en": "the Chadian border"
+   }
+  ]
+ },
+ {
+  "ar": "نيجيري",
+  "tr": "nayjīri",
+  "en": "Nigerian (person)",
+  "msa": "نيجيري",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "الشاب النيجيري يغسل الكراهب.",
+  "ex_tr": "ish-shābb in-nayjīri yighsil il-krāhib.",
+  "ex_en": "The Nigerian guy washes cars.",
+  "note": "pl. نيجيريين; for Niger: نيجري nījari",
+  "phrases": [
+   {
+    "ar": "عمّال نيجيريين",
+    "tr": "3ummāl nayjīriyyīn",
+    "en": "Nigerian workers"
+   },
+   {
+    "ar": "منتخب نيجيريا",
+    "tr": "muntakhab nayjīrya",
+    "en": "the Nigerian team"
+   }
+  ]
+ },
+ {
+  "ar": "سوري",
+  "tr": "sūri",
+  "en": "Syrian (person)",
+  "msa": "سوري",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 3,
+  "usage": 48,
+  "ex_ar": "الشاورمة السورية مشهورة في طرابلس.",
+  "ex_tr": "ish-shāwirma is-sūriyya mashhūra fi Trābilis.",
+  "ex_en": "Syrian shawarma is famous in Tripoli.",
+  "note": "pl. سوريين / سوريّة",
+  "phrases": [
+   {
+    "ar": "محل سوري",
+    "tr": "ma7all sūri",
+    "en": "a Syrian shop"
+   },
+   {
+    "ar": "لهجة سورية",
+    "tr": "lahja sūriyya",
+    "en": "Syrian dialect"
+   }
+  ]
+ },
+ {
+  "ar": "فلسطيني",
+  "tr": "filisTīni",
+  "en": "Palestinian (person)",
+  "msa": "فلسطيني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "أستاذي في الثانوية كان فلسطيني.",
+  "ex_tr": "ustādhi fith-thānawiyya kān filisTīni.",
+  "ex_en": "My secondary-school teacher was Palestinian.",
+  "note": "pl. فلسطينيين",
+  "phrases": [
+   {
+    "ar": "الشعب الفلسطيني",
+    "tr": "ish-sha3b il-filisTīni",
+    "en": "the Palestinian people"
+   },
+   {
+    "ar": "كوفية فلسطينية",
+    "tr": "kūfiyya filisTīniyya",
+    "en": "Palestinian keffiyeh"
+   }
+  ]
+ },
+ {
+  "ar": "لبناني",
+  "tr": "libnāni",
+  "en": "Lebanese (person)",
+  "msa": "لبناني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "المطعم اللبناني جديد.",
+  "ex_tr": "il-maT3am il-libnāni jdīd.",
+  "ex_en": "The Lebanese restaurant is new.",
+  "note": "pl. لبنانيين",
+  "phrases": [
+   {
+    "ar": "مغنّية لبنانية",
+    "tr": "mghanniya libnāniyya",
+    "en": "a Lebanese singer"
+   },
+   {
+    "ar": "أكل لبناني",
+    "tr": "akl libnāni",
+    "en": "Lebanese food"
+   }
+  ]
+ },
+ {
+  "ar": "أردني",
+  "tr": "urduni",
+  "en": "Jordanian (person)",
+  "msa": "أردني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "الدكتور أردني وخدم هني سنين.",
+  "ex_tr": "id-doktōr urduni w-khdim hni snīn.",
+  "ex_en": "The doctor is Jordanian and worked here for years.",
+  "note": "pl. أردنيين",
+  "phrases": [
+   {
+    "ar": "طبيب أردني",
+    "tr": "Tbīb urduni",
+    "en": "a Jordanian doctor"
+   },
+   {
+    "ar": "الجامعات الأردنية",
+    "tr": "ij-jām3āt il-urduniyya",
+    "en": "Jordanian universities"
+   }
+  ]
+ },
+ {
+  "ar": "عراقي",
+  "tr": "3irāgi",
+  "en": "Iraqi (person)",
+  "msa": "عراقي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "الأستاذ العراقي قرّانا الرياضيات.",
+  "ex_tr": "il-ustādh il-3irāgi garrāna ir-riyāDiyyāt.",
+  "ex_en": "The Iraqi teacher taught us maths.",
+  "note": "pl. عراقيين; many taught in Libya in the 1980s–90s",
+  "phrases": [
+   {
+    "ar": "معلّمين عراقيين",
+    "tr": "m3allmīn 3irāgiyyīn",
+    "en": "Iraqi teachers"
+   },
+   {
+    "ar": "لهجة عراقية",
+    "tr": "lahja 3irāgiyya",
+    "en": "Iraqi dialect"
+   }
+  ]
+ },
+ {
+  "ar": "سعودي",
+  "tr": "sa3ūdi",
+  "en": "Saudi (person)",
+  "msa": "سعودي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "جانا ضيف سعودي في العيد.",
+  "ex_tr": "jāna Dēf sa3ūdi fil-3īd.",
+  "ex_en": "A Saudi guest visited us at Eid.",
+  "note": "pl. سعوديين / سعودية",
+  "phrases": [
+   {
+    "ar": "الريال السعودي",
+    "tr": "ir-riyāl is-sa3ūdi",
+    "en": "the Saudi riyal"
+   },
+   {
+    "ar": "شيخ سعودي",
+    "tr": "shēkh sa3ūdi",
+    "en": "a Saudi sheikh"
+   }
+  ]
+ },
+ {
+  "ar": "خليجي",
+  "tr": "khalīji",
+  "en": "Gulf Arab (person)",
+  "msa": "خليجي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "السياح الخليجيين يحبّوا الصحرا.",
+  "ex_tr": "is-suyyā7 il-khalījiyyīn y7ibbu iS-Sa7ra.",
+  "ex_en": "Gulf tourists love the desert.",
+  "note": "pl. خليجيين",
+  "phrases": [
+   {
+    "ar": "لهجة خليجية",
+    "tr": "lahja khalījiyya",
+    "en": "Gulf dialect"
+   },
+   {
+    "ar": "أغاني خليجية",
+    "tr": "aghāni khalījiyya",
+    "en": "Gulf songs"
+   }
+  ]
+ },
+ {
+  "ar": "يمني",
+  "tr": "yamani",
+  "en": "Yemeni (person)",
+  "msa": "يمني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "المطعم اليمني يطيّب مندي.",
+  "ex_tr": "il-maT3am il-yamani yTayyib mandi.",
+  "ex_en": "The Yemeni restaurant makes mandi.",
+  "note": "pl. يمنيين",
+  "phrases": [
+   {
+    "ar": "عسل يمني",
+    "tr": "3asal yamani",
+    "en": "Yemeni honey"
+   },
+   {
+    "ar": "الشعب اليمني",
+    "tr": "ish-sha3b il-yamani",
+    "en": "the Yemeni people"
+   }
+  ]
+ },
+ {
+  "ar": "تركي",
+  "tr": "turki",
+  "en": "Turk; Turkish (person)",
+  "msa": "تركي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "جات شركة تركية تبني الطريق.",
+  "ex_tr": "jāt sharika turkiyya tibni iT-Trīg.",
+  "ex_en": "A Turkish company came to build the road.",
+  "note": "pl. أتراك atrāk / ترك; Ottoman legacy in Libya (كراغلة)",
+  "phrases": [
+   {
+    "ar": "مسلسل تركي",
+    "tr": "musalsal turki",
+    "en": "Turkish series"
+   },
+   {
+    "ar": "عمّال أتراك",
+    "tr": "3ummāl atrāk",
+    "en": "Turkish workers"
+   }
+  ]
+ },
+ {
+  "ar": "فرنساوي",
+  "tr": "fransāwi",
+  "en": "French person; Frenchman",
+  "msa": "فرنسي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "السفير الفرنساوي جا لطرابلس.",
+  "ex_tr": "is-safīr il-fransāwi ja l-Trābilis.",
+  "ex_en": "The French ambassador came to Tripoli.",
+  "note": "pl. فرنساويين; also فرنسي",
+  "phrases": [
+   {
+    "ar": "سايح فرنساوي",
+    "tr": "sāyi7 fransāwi",
+    "en": "a French tourist"
+   },
+   {
+    "ar": "الفرنساويين في فزّان زمان",
+    "tr": "il-fransāwiyyīn fi fazzān zmān",
+    "en": "the French in Fezzan in the old days"
+   }
+  ]
+ },
+ {
+  "ar": "إنجليزي",
+  "tr": "inglīzi",
+  "en": "English person; Briton",
+  "msa": "إنجليزي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "الإنجليز كانوا في ليبيا بعد الحرب.",
+  "ex_tr": "il-inglīz kānu fi lībya ba3d il-7arb.",
+  "ex_en": "The English were in Libya after the war.",
+  "note": "pl. إنجليز inglīz; also the language",
+  "phrases": [
+   {
+    "ar": "سايح إنجليزي",
+    "tr": "sāyi7 inglīzi",
+    "en": "an English tourist"
+   },
+   {
+    "ar": "مقبرة الإنجليز",
+    "tr": "magbrat il-inglīz",
+    "en": "the British (war) cemetery"
+   }
+  ]
+ },
+ {
+  "ar": "أمريكاني",
+  "tr": "amrīkāni",
+  "en": "American (person)",
+  "msa": "أمريكي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "عنده ولد عم أمريكاني.",
+  "ex_tr": "3andah wild 3amm amrīkāni.",
+  "ex_en": "He has an American cousin.",
+  "note": "pl. أمريكان amrīkān",
+  "phrases": [
+   {
+    "ar": "الأمريكان",
+    "tr": "il-amrīkān",
+    "en": "the Americans"
+   },
+   {
+    "ar": "فيلم أمريكاني",
+    "tr": "film amrīkāni",
+    "en": "an American film"
+   }
+  ]
+ },
+ {
+  "ar": "ألماني",
+  "tr": "almāni",
+  "en": "German (person)",
+  "msa": "ألماني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "مهندس ألماني جا يصلّح المكينة.",
+  "ex_tr": "mhandis almāni ja ySalla7 il-makīna.",
+  "ex_en": "A German engineer came to fix the machine.",
+  "note": "pl. ألمان almān",
+  "phrases": [
+   {
+    "ar": "الألمان في الحرب",
+    "tr": "il-almān fil-7arb",
+    "en": "the Germans in the war"
+   },
+   {
+    "ar": "كرهبة ألمانية",
+    "tr": "karhba almāniyya",
+    "en": "a German car"
+   }
+  ]
+ },
+ {
+  "ar": "روسي",
+  "tr": "rūsi",
+  "en": "Russian (person)",
+  "msa": "روسي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "الروس كانوا يدرّبوا الجيش.",
+  "ex_tr": "ir-rūs kānu ydarrbu ij-jēsh.",
+  "ex_en": "The Russians used to train the army.",
+  "note": "pl. روس rūs",
+  "phrases": [
+   {
+    "ar": "سلاح روسي",
+    "tr": "slā7 rūsi",
+    "en": "Russian weapons"
+   },
+   {
+    "ar": "سايحة روسية",
+    "tr": "sāy7a rūsiyya",
+    "en": "a Russian tourist"
+   }
+  ]
+ },
+ {
+  "ar": "صيني",
+  "tr": "Sīni",
+  "en": "Chinese (person)",
+  "msa": "صيني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "الصينيين يبنوا العمارات.",
+  "ex_tr": "iS-Sīniyyīn yibnu il-3imārāt.",
+  "ex_en": "The Chinese are building the apartment blocks.",
+  "note": "pl. صينيين; also \"made in China\" (cheap)",
+  "phrases": [
+   {
+    "ar": "سلعة صيني",
+    "tr": "sil3a Sīni",
+    "en": "Chinese-made goods (cheap)"
+   },
+   {
+    "ar": "شركة صينية",
+    "tr": "sharika Sīniyya",
+    "en": "a Chinese company"
+   }
+  ]
+ },
+ {
+  "ar": "هندي",
+  "tr": "hindi",
+  "en": "Indian (person)",
+  "msa": "هندي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "الدكتور هندي ويهدرز عربي شوية.",
+  "ex_tr": "id-doktōr hindi w-yhadriz 3arbi shwayya.",
+  "ex_en": "The doctor is Indian and speaks a bit of Arabic.",
+  "note": "pl. هنود hnūd; also \"prickly pear\" (different sense)",
+  "phrases": [
+   {
+    "ar": "فيلم هندي",
+    "tr": "film hindi",
+    "en": "an Indian (Bollywood) film"
+   },
+   {
+    "ar": "ممرّضات هنود",
+    "tr": "mumarriDāt hnūd",
+    "en": "Indian nurses"
+   }
+  ]
+ },
+ {
+  "ar": "باكستاني",
+  "tr": "bākistāni",
+  "en": "Pakistani (person)",
+  "msa": "باكستاني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "الباكستاني يصلّح الكوندشنات.",
+  "ex_tr": "il-bākistāni ySalla7 il-kondishināt.",
+  "ex_en": "The Pakistani guy repairs air conditioners.",
+  "note": "pl. باكستانيين",
+  "phrases": [
+   {
+    "ar": "عمّال باكستانيين",
+    "tr": "3ummāl bākistāniyyīn",
+    "en": "Pakistani workers"
+   },
+   {
+    "ar": "طبيب باكستاني",
+    "tr": "Tbīb bākistāni",
+    "en": "a Pakistani doctor"
+   }
+  ]
+ },
+ {
+  "ar": "بنغالي",
+  "tr": "bangāli",
+  "en": "Bangladeshi (person)",
+  "msa": "بنغالي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "البنغالي ينظّف الشارع كل صبح.",
+  "ex_tr": "il-bangāli ynaDHDHif ish-shāri3 kull SbaH.",
+  "ex_en": "The Bangladeshi worker cleans the street every morning.",
+  "note": "pl. بنغال / بنغاليين; many work as cleaners in Libya",
+  "phrases": [
+   {
+    "ar": "عامل بنغالي",
+    "tr": "3āmil bangāli",
+    "en": "a Bangladeshi worker"
+   },
+   {
+    "ar": "البنغال في المحطة",
+    "tr": "il-bangāl fil-ma7aTTa",
+    "en": "the Bangladeshi workers at the petrol station"
+   }
+  ]
+ },
+ {
+  "ar": "فلبيني",
+  "tr": "filibbīni",
+  "en": "Filipino (person)",
+  "msa": "فلبيني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "الممرّضات الفلبينيات خدموا في المستشفيات.",
+  "ex_tr": "il-mumarriDāt il-filibbīniyyāt khdmu fil-mustashfayāt.",
+  "ex_en": "Filipino nurses worked in the hospitals.",
+  "note": "pl. فلبينيين; fem. فلبينية",
+  "phrases": [
+   {
+    "ar": "ممرّضة فلبينية",
+    "tr": "mumarriDa filibbīniyya",
+    "en": "a Filipino nurse"
+   },
+   {
+    "ar": "خدّامة فلبينية",
+    "tr": "khaddāma filibbīniyya",
+    "en": "a Filipino maid"
+   }
+  ]
+ },
+ {
+  "ar": "إسباني",
+  "tr": "isbāni",
+  "en": "Spaniard; Spanish (person)",
+  "msa": "إسباني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "الإسبان يحبّوا الكورة.",
+  "ex_tr": "il-isbān y7ibbu il-kōra.",
+  "ex_en": "Spaniards love football.",
+  "note": "pl. إسبان isbān",
+  "phrases": [
+   {
+    "ar": "الدوري الإسباني",
+    "tr": "id-dawri il-isbāni",
+    "en": "the Spanish league"
+   },
+   {
+    "ar": "سايح إسباني",
+    "tr": "sāyi7 isbāni",
+    "en": "a Spanish tourist"
+   }
+  ]
+ },
+ {
+  "ar": "يوناني",
+  "tr": "yūnāni",
+  "en": "Greek (person)",
+  "msa": "يوناني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "الآثار في شحّات بناها اليونان.",
+  "ex_tr": "il-āthār fi sha77āt bnāha il-yūnān.",
+  "ex_en": "The ruins at Shahhat (Cyrene) were built by the Greeks.",
+  "note": "pl. يونانيين; اليونان = Greece/the Greeks",
+  "phrases": [
+   {
+    "ar": "الإغريق واليونان",
+    "tr": "il-ighrīg w-il-yūnān",
+    "en": "the ancient Greeks"
+   },
+   {
+    "ar": "بحّار يوناني",
+    "tr": "ba77ār yūnāni",
+    "en": "a Greek sailor"
+   }
+  ]
+ },
+ {
+  "ar": "مالطي",
+  "tr": "mālTi",
+  "en": "Maltese (person)",
+  "msa": "مالطي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "المالطيين يفهموا شوية ليبي.",
+  "ex_tr": "il-mālTiyyīn yifhmu shwayya lībi.",
+  "ex_en": "The Maltese understand a bit of Libyan.",
+  "note": "pl. مالطيين; Malta is a common Libyan travel spot",
+  "phrases": [
+   {
+    "ar": "اللغة المالطية",
+    "tr": "il-lugha il-mālTiyya",
+    "en": "the Maltese language"
+   },
+   {
+    "ar": "صاحبي المالطي",
+    "tr": "Sā7bi il-mālTi",
+    "en": "my Maltese friend"
+   }
+  ]
+ },
+ {
+  "ar": "أفريقي",
+  "tr": "afrīgi",
+  "en": "African (person)",
+  "msa": "أفريقي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "الأفارقة يستنّوا الخدمة في الدوّار.",
+  "ex_tr": "il-afāriga yistannu il-khidma fid-dawwār.",
+  "ex_en": "The Africans wait for work at the roundabout.",
+  "note": "pl. أفارقة afāriga",
+  "phrases": [
+   {
+    "ar": "القارة الأفريقية",
+    "tr": "il-gārra il-afrīgiyya",
+    "en": "the African continent"
+   },
+   {
+    "ar": "الكاس الأفريقية",
+    "tr": "il-kās il-afrīgiyya",
+    "en": "the African Cup"
+   }
+  ]
+ },
+ {
+  "ar": "عربي",
+  "tr": "3arbi",
+  "en": "Arab (person)",
+  "msa": "عربي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 2,
+  "usage": 52,
+  "ex_ar": "كلنا عرب ومسلمين.",
+  "ex_tr": "kullna 3arab w-muslimīn.",
+  "ex_en": "We're all Arabs and Muslims.",
+  "note": "pl. عرب 3arab; also the Arabic language",
+  "phrases": [
+   {
+    "ar": "العرب",
+    "tr": "il-3arab",
+    "en": "the Arabs"
+   },
+   {
+    "ar": "بلاد العرب",
+    "tr": "blād il-3arab",
+    "en": "the Arab lands"
+   }
+  ]
+ },
+ {
+  "ar": "أوروبي",
+  "tr": "ūrubbi",
+  "en": "European (person)",
+  "msa": "أوروبي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "الأوروبيين يجوا للصحرا في الشتا.",
+  "ex_tr": "il-ūrubbiyyīn yjū liS-Sa7ra fish-shta.",
+  "ex_en": "Europeans come to the desert in winter.",
+  "note": "pl. أوروبيين",
+  "phrases": [
+   {
+    "ar": "الاتحاد الأوروبي",
+    "tr": "il-itti7ād il-ūrubbi",
+    "en": "the European Union"
+   },
+   {
+    "ar": "سلعة أوروبية",
+    "tr": "sil3a ūrubbiyya",
+    "en": "European-made goods"
+   }
+  ]
+ },
+ {
+  "ar": "موريتاني",
+  "tr": "mūrītāni",
+  "en": "Mauritanian (person)",
+  "msa": "موريتاني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "الشيخ الموريتاني يحفظ القرآن.",
+  "ex_tr": "ish-shēkh il-mūrītāni yi7faDH il-gur'ān.",
+  "ex_en": "The Mauritanian sheikh knows the Quran by heart.",
+  "note": "pl. موريتانيين",
+  "phrases": [
+   {
+    "ar": "شاعر موريتاني",
+    "tr": "shā3ir mūrītāni",
+    "en": "a Mauritanian poet"
+   },
+   {
+    "ar": "عالم موريتاني",
+    "tr": "3ālim mūrītāni",
+    "en": "a Mauritanian scholar"
+   }
+  ]
+ },
+ {
+  "ar": "غاني",
+  "tr": "ghāni",
+  "en": "Ghanaian (person)",
+  "msa": "غاني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "الغاني يخدم في الدهان.",
+  "ex_tr": "il-ghāni yikhdim fid-dhān.",
+  "ex_en": "The Ghanaian guy works in painting.",
+  "note": "pl. غانيين; often generic for West African workers",
+  "phrases": [
+   {
+    "ar": "عمّال غانيين",
+    "tr": "3ummāl ghāniyyīn",
+    "en": "Ghanaian workers"
+   },
+   {
+    "ar": "صاحبي الغاني",
+    "tr": "Sā7bi il-ghāni",
+    "en": "my Ghanaian friend"
+   }
+  ]
+ },
+ {
+  "ar": "إيراني",
+  "tr": "īrāni",
+  "en": "Iranian (person)",
+  "msa": "إيراني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "السجّاد الإيراني غالي.",
+  "ex_tr": "is-sijjād il-īrāni ghāli.",
+  "ex_en": "Persian carpets are expensive.",
+  "note": "pl. إيرانيين",
+  "phrases": [
+   {
+    "ar": "سجّاد إيراني",
+    "tr": "sijjād īrāni",
+    "en": "Persian carpet"
+   },
+   {
+    "ar": "فستق إيراني",
+    "tr": "fustug īrāni",
+    "en": "Iranian pistachios"
+   }
+  ]
+ },
+ {
+  "ar": "ياباني",
+  "tr": "yābāni",
+  "en": "Japanese (person)",
+  "msa": "ياباني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "الكراهب اليابانية ما تعطلش.",
+  "ex_tr": "il-krāhib il-yābāniyya ma ti3Talsh.",
+  "ex_en": "Japanese cars don't break down.",
+  "note": "pl. يابانيين",
+  "phrases": [
+   {
+    "ar": "كرهبة يابانية",
+    "tr": "karhba yābāniyya",
+    "en": "a Japanese car"
+   },
+   {
+    "ar": "سايح ياباني",
+    "tr": "sāyi7 yābāni",
+    "en": "a Japanese tourist"
+   }
+  ]
+ },
+ {
+  "ar": "كوري",
+  "tr": "kūri",
+  "en": "Korean (person)",
+  "msa": "كوري",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "البنات يتفرّجوا على مسلسلات كورية.",
+  "ex_tr": "il-bnāt yitfarraju 3ala musalsalāt kūriyya.",
+  "ex_en": "The girls watch Korean series.",
+  "note": "pl. كوريين; Korean companies built many Libyan projects",
+  "phrases": [
+   {
+    "ar": "شركة كورية",
+    "tr": "sharika kūriyya",
+    "en": "a Korean company"
+   },
+   {
+    "ar": "مسلسل كوري",
+    "tr": "musalsal kūri",
+    "en": "a Korean drama"
+   }
+  ]
+ },
+ {
+  "ar": "بريطاني",
+  "tr": "briTāni",
+  "en": "British (person)",
+  "msa": "بريطاني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "السفارة البريطانية في طرابلس.",
+  "ex_tr": "is-sifāra il-briTāniyya fi Trābilis.",
+  "ex_en": "The British embassy is in Tripoli.",
+  "note": "pl. بريطانيين; colloquially إنجليز",
+  "phrases": [
+   {
+    "ar": "جواز بريطاني",
+    "tr": "jawāz briTāni",
+    "en": "a British passport"
+   },
+   {
+    "ar": "عايلة بريطانية",
+    "tr": "3āyla briTāniyya",
+    "en": "a British family"
+   }
+  ]
+ },
+ {
+  "ar": "طرابلسي",
+  "tr": "Trābulsi",
+  "en": "Tripolitanian; from Tripoli",
+  "msa": "طرابلسي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 2,
+  "usage": 52,
+  "ex_ar": "هو طرابلسي من المدينة القديمة.",
+  "ex_tr": "hu Trābulsi min il-mdīna il-gdīma.",
+  "ex_en": "He's a Tripolitanian from the old city.",
+  "note": "pl. طرابلسية Trābulsiyya",
+  "phrases": [
+   {
+    "ar": "لهجة طرابلسية",
+    "tr": "lahja Trābulsiyya",
+    "en": "Tripoli dialect"
+   },
+   {
+    "ar": "أكل طرابلسي",
+    "tr": "akl Trābulsi",
+    "en": "Tripoli-style food"
+   }
+  ]
+ },
+ {
+  "ar": "بنغازي",
+  "tr": "binghāzi",
+  "en": "Benghazian; from Benghazi",
+  "msa": "بنغازي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 2,
+  "usage": 50,
+  "ex_ar": "مرته بنغازية وهو طرابلسي.",
+  "ex_tr": "martah binghāziyya w-hu Trābulsi.",
+  "ex_en": "His wife is from Benghazi and he's from Tripoli.",
+  "note": "pl. بنغازية; also the city name",
+  "phrases": [
+   {
+    "ar": "لهجة بنغازية",
+    "tr": "lahja binghāziyya",
+    "en": "Benghazi dialect"
+   },
+   {
+    "ar": "صاحبي البنغازي",
+    "tr": "Sā7bi il-binghāzi",
+    "en": "my friend from Benghazi"
+   }
+  ]
+ },
+ {
+  "ar": "مصراتي",
+  "tr": "miSrāti",
+  "en": "Misratan; from Misrata",
+  "msa": "مصراتي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "المصراتية مشهورين في التجارة.",
+  "ex_tr": "il-miSrātiyya mashhūrīn fit-tijāra.",
+  "ex_en": "Misratans are known for trade.",
+  "note": "pl. مصراتية miSrātiyya",
+  "phrases": [
+   {
+    "ar": "تاجر مصراتي",
+    "tr": "tājir miSrāti",
+    "en": "a Misratan merchant"
+   },
+   {
+    "ar": "عرس مصراتي",
+    "tr": "3urs miSrāti",
+    "en": "a Misrata-style wedding"
+   }
+  ]
+ },
+ {
+  "ar": "زاوي",
+  "tr": "zāwi",
+  "en": "from Zawiya",
+  "msa": "زاوي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "نسيبي زاوي.",
+  "ex_tr": "nsībi zāwi.",
+  "ex_en": "My in-law is from Zawiya.",
+  "note": "from the city of الزاوية; fem. زاوية",
+  "phrases": [
+   {
+    "ar": "ولد زاوي",
+    "tr": "wild zāwi",
+    "en": "a guy from Zawiya"
+   },
+   {
+    "ar": "الزاوية وأهلها",
+    "tr": "iz-zāwya w-ahlha",
+    "en": "Zawiya and its people"
+   }
+  ]
+ },
+ {
+  "ar": "زليطني",
+  "tr": "zliTni",
+  "en": "from Zliten",
+  "msa": "زليطني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "الزليطنية ناس دين وقرآن.",
+  "ex_tr": "iz-zliTniyya nās dīn w-gur'ān.",
+  "ex_en": "People from Zliten are known for religion and Quran.",
+  "note": "pl. زليطنية; Zliten is famed for its zawiya (Sidi Abdussalam)",
+  "phrases": [
+   {
+    "ar": "صاحبي الزليطني",
+    "tr": "Sā7bi iz-zliTni",
+    "en": "my friend from Zliten"
+   },
+   {
+    "ar": "شيخ زليطني",
+    "tr": "shēkh zliTni",
+    "en": "a sheikh from Zliten"
+   }
+  ]
+ },
+ {
+  "ar": "ترهوني",
+  "tr": "tarhūni",
+  "en": "from Tarhuna",
+  "msa": "ترهوني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الترهونية ناس زيتون وفلاحة.",
+  "ex_tr": "it-tarhūniyya nās zētūn w-fallā7a.",
+  "ex_en": "People of Tarhuna are olive farmers.",
+  "note": "pl. ترهونية; Tarhuna is both a town and a large tribe",
+  "phrases": [
+   {
+    "ar": "زيت ترهوني",
+    "tr": "zēt tarhūni",
+    "en": "Tarhuna olive oil"
+   },
+   {
+    "ar": "ولد ترهوني",
+    "tr": "wild tarhūni",
+    "en": "a guy from Tarhuna"
+   }
+  ]
+ },
+ {
+  "ar": "غرياني",
+  "tr": "ghiryāni",
+  "en": "from Gharyan",
+  "msa": "غرياني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الغريانية مشهورين بالفخّار.",
+  "ex_tr": "il-ghiryāniyya mashhūrīn bil-fukhkhār.",
+  "ex_en": "Gharyan people are known for pottery.",
+  "note": "pl. غريانية; Gharyan, in the Nafusa mountains",
+  "phrases": [
+   {
+    "ar": "برد غريان",
+    "tr": "bard ghiryān",
+    "en": "Gharyan's cold"
+   },
+   {
+    "ar": "حوش غرياني تحت الأرض",
+    "tr": "7ōsh ghiryāni ta7t il-arD",
+    "en": "an underground Gharyan dwelling"
+   }
+  ]
+ },
+ {
+  "ar": "جبالي",
+  "tr": "jbāli",
+  "en": "mountain person (from Jebel Nafusa)",
+  "msa": "جبلي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "الجبالية ناس كرم.",
+  "ex_tr": "ij-jbāliyya nās karam.",
+  "ex_en": "The mountain people are generous.",
+  "note": "pl. جبالية; from الجبل (Nafusa / Western Mountains)",
+  "phrases": [
+   {
+    "ar": "من الجبل",
+    "tr": "min ij-jbal",
+    "en": "from the mountains"
+   },
+   {
+    "ar": "عرس جبالي",
+    "tr": "3urs jbāli",
+    "en": "a mountain-style wedding"
+   }
+  ]
+ },
+ {
+  "ar": "فزّاني",
+  "tr": "fazzāni",
+  "en": "Fezzani; from Fezzan (the south)",
+  "msa": "فزاني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "الفزّانية صابرين على الحرّ.",
+  "ex_tr": "il-fazzāniyya Sābrīn 3al-7arr.",
+  "ex_en": "Fezzan people endure the heat.",
+  "note": "pl. فزازنة fazāzna",
+  "phrases": [
+   {
+    "ar": "تمر فزّاني",
+    "tr": "tmar fazzāni",
+    "en": "Fezzan dates"
+   },
+   {
+    "ar": "أغاني فزّانية",
+    "tr": "aghāni fazzāniyya",
+    "en": "Fezzani songs"
+   }
+  ]
+ },
+ {
+  "ar": "سبهاوي",
+  "tr": "sabhāwi",
+  "en": "from Sabha",
+  "msa": "سبهاوي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "صاحبي سبهاوي ويدرس في طرابلس.",
+  "ex_tr": "Sā7bi sabhāwi w-yidris fi Trābilis.",
+  "ex_en": "My friend is from Sabha and studies in Tripoli.",
+  "note": "pl. سبهاوية",
+  "phrases": [
+   {
+    "ar": "جامعة سبها",
+    "tr": "jām3at sabha",
+    "en": "Sabha University"
+   },
+   {
+    "ar": "ولد سبهاوي",
+    "tr": "wild sabhāwi",
+    "en": "a lad from Sabha"
+   }
+  ]
+ },
+ {
+  "ar": "درناوي",
+  "tr": "darnāwi",
+  "en": "from Derna",
+  "msa": "درناوي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الدرناوية يحبّوا الشعر والفن.",
+  "ex_tr": "id-darnāwiyya y7ibbu ish-shi3r w-il-fann.",
+  "ex_en": "Derna people love poetry and art.",
+  "note": "pl. درناوية",
+  "phrases": [
+   {
+    "ar": "ياسمين درنة",
+    "tr": "yāsmīn darna",
+    "en": "Derna's jasmine"
+   },
+   {
+    "ar": "عايلة درناوية",
+    "tr": "3āyla darnāwiyya",
+    "en": "a family from Derna"
+   }
+  ]
+ },
+ {
+  "ar": "شرقاوي",
+  "tr": "shargāwi",
+  "en": "easterner (from eastern Libya)",
+  "msa": "شرقاوي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "هو شرقاوي، تعرفه من لهجته.",
+  "ex_tr": "hu shargāwi, ta3rfah min lahjtah.",
+  "ex_en": "He's from the east, you can tell by his accent.",
+  "note": "pl. شراقوة sharāgwa; the east = برقة/الشرق",
+  "phrases": [
+   {
+    "ar": "لهجة شرقاوية",
+    "tr": "lahja shargāwiyya",
+    "en": "eastern dialect"
+   },
+   {
+    "ar": "الشرقاوية والغرباوية",
+    "tr": "ish-shargāwiyya w-il-gharbāwiyya",
+    "en": "easterners and westerners"
+   }
+  ]
+ },
+ {
+  "ar": "غرباوي",
+  "tr": "gharbāwi",
+  "en": "westerner (from western Libya)",
+  "msa": "غرباوي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "الشرقاوية يعيّطوا علينا غرباوية.",
+  "ex_tr": "ish-shargāwiyya y3ayyTu 3alēna gharbāwiyya.",
+  "ex_en": "Easterners call us westerners.",
+  "note": "pl. غرباوية / غرابة",
+  "phrases": [
+   {
+    "ar": "من الغرب",
+    "tr": "min il-gharb",
+    "en": "from the west"
+   },
+   {
+    "ar": "لهجة غرباوية",
+    "tr": "lahja gharbāwiyya",
+    "en": "western dialect"
+   }
+  ]
+ },
+ {
+  "ar": "جنوبي",
+  "tr": "janūbi",
+  "en": "southerner",
+  "msa": "جنوبي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "الجنوبيين يشتكوا من نقص الخدمات.",
+  "ex_tr": "ij-janūbiyyīn yishtku min nagS il-khadamāt.",
+  "ex_en": "Southerners complain about the lack of services.",
+  "note": "pl. جنوبيين",
+  "phrases": [
+   {
+    "ar": "ناس الجنوب",
+    "tr": "nās ij-janūb",
+    "en": "people of the south"
+   },
+   {
+    "ar": "طيارة الجنوب",
+    "tr": "Tayyārat ij-janūb",
+    "en": "the flight to the south"
+   }
+  ]
+ },
+ {
+  "ar": "أمازيغي",
+  "tr": "amāzīghi",
+  "en": "Amazigh (Berber) person",
+  "msa": "أمازيغي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "جدّتي أمازيغية من نالوت.",
+  "ex_tr": "jidditi amāzīghiyya min nālūt.",
+  "ex_en": "My grandmother is Amazigh from Nalut.",
+  "note": "pl. أمازيغ amāzīgh; older term بربر",
+  "phrases": [
+   {
+    "ar": "اللغة الأمازيغية",
+    "tr": "il-lugha il-amāzīghiyya",
+    "en": "the Amazigh language"
+   },
+   {
+    "ar": "العلم الأمازيغي",
+    "tr": "il-3alam il-amāzīghi",
+    "en": "the Amazigh flag"
+   }
+  ]
+ },
+ {
+  "ar": "تارقي",
+  "tr": "tārgi",
+  "en": "Tuareg (person)",
+  "msa": "طارقي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "التوارق ساكنين في غات وأوباري.",
+  "ex_tr": "it-twārig sāknīn fi ghāt w-ūbāri.",
+  "ex_en": "The Tuareg live in Ghat and Ubari.",
+  "note": "pl. توارق twārig",
+  "phrases": [
+   {
+    "ar": "لثام التارقي",
+    "tr": "lithām it-tārgi",
+    "en": "the Tuareg veil"
+   },
+   {
+    "ar": "شاهي التوارق",
+    "tr": "shāhi it-twārig",
+    "en": "Tuareg tea"
+   }
+  ]
+ },
+ {
+  "ar": "تباوي",
+  "tr": "tbāwi",
+  "en": "Tebu (person)",
+  "msa": "تباوي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "التبو ساكنين في الكفرة ومرزق.",
+  "ex_tr": "it-tbū sāknīn fil-kufra w-murzug.",
+  "ex_en": "The Tebu live in Kufra and Murzuq.",
+  "note": "pl. تبو tbū",
+  "phrases": [
+   {
+    "ar": "قبايل التبو",
+    "tr": "gbāyil it-tbū",
+    "en": "Tebu tribes"
+   },
+   {
+    "ar": "لغة التبو",
+    "tr": "lughat it-tbū",
+    "en": "the Tebu language"
+   }
+  ]
+ },
+ {
+  "ar": "زنتاني",
+  "tr": "zintāni",
+  "en": "from Zintan",
+  "msa": "زنتاني",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "الزنتانية ناس فروسية.",
+  "ex_tr": "iz-zintāniyya nās furūsiyya.",
+  "ex_en": "Zintan people are known for horsemanship.",
+  "note": "pl. زنتان zintān",
+  "phrases": [
+   {
+    "ar": "كتيبة زنتانية",
+    "tr": "katība zintāniyya",
+    "en": "a Zintan brigade"
+   },
+   {
+    "ar": "ولد زنتاني",
+    "tr": "wild zintāni",
+    "en": "a guy from Zintan"
+   }
+  ]
+ },
+ {
+  "ar": "ورفلي",
+  "tr": "warfalli",
+  "en": "Warfalli (of the Warfalla tribe)",
+  "msa": "ورفلي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "الورفلّة من أكبر القبايل في ليبيا.",
+  "ex_tr": "il-warfalla min akbar il-gbāyil fi lībya.",
+  "ex_en": "Warfalla is one of the biggest tribes in Libya.",
+  "note": "pl. ورفلّة warfalla; centred on Bani Walid",
+  "phrases": [
+   {
+    "ar": "من ورفلّة",
+    "tr": "min warfalla",
+    "en": "from Warfalla"
+   },
+   {
+    "ar": "بني وليد بلاد الورفلّة",
+    "tr": "bani walīd blād il-warfalla",
+    "en": "Bani Walid, Warfalla country"
+   }
+  ]
+ },
+ {
+  "ar": "غدامسي",
+  "tr": "ghdāmsi",
+  "en": "from Ghadames",
+  "msa": "غدامسي",
+  "pos": "noun",
+  "cat": "people",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "الغدامسية عندهم لهجة خاصة.",
+  "ex_tr": "il-ghdāmsiyya 3andhum lahja khāSSa.",
+  "ex_en": "Ghadames people have a special dialect.",
+  "note": "pl. غدامسية",
+  "phrases": [
+   {
+    "ar": "حوش غدامسي",
+    "tr": "7ōsh ghdāmsi",
+    "en": "a Ghadames-style house"
+   },
+   {
+    "ar": "مدينة غدامس القديمة",
+    "tr": "mdīnat ghdāmis il-gdīma",
+    "en": "Ghadames old town"
    }
   ]
  }
