@@ -1185,31 +1185,6 @@
     ]
   },
   {
-    "ar": "نجاح",
-    "tr": "najā7",
-    "en": "success",
-    "msa": "نجاح",
-    "pos": "noun",
-    "cat": "abstract",
-    "freq": 2,
-    "usage": 55,
-    "ex_ar": "مبروك النجاح!",
-    "ex_tr": "mabrūk in-najā7!",
-    "ex_en": "Congratulations on your success!",
-    "phrases": [
-      {
-        "ar": "سر النجاح",
-        "tr": "sirr in-najā7",
-        "en": "the secret of success"
-      },
-      {
-        "ar": "نجاح كبير",
-        "tr": "najā7 kbīr",
-        "en": "a big success"
-      }
-    ]
-  },
-  {
     "ar": "فشل",
     "tr": "fashal",
     "en": "failure",
@@ -2176,7 +2151,7 @@
     "ex_ar": "ندير الوضو ونصلي.",
     "ex_tr": "ndīr il-wuDū w-nSalli.",
     "ex_en": "I do my ablutions and pray.",
-    "note": "Usually said with درّ (to do) or توضى (to perform ablution).",
+    "note": "Usually said with دار (to do) or توضى (to perform ablution).",
     "phrases": [
       {
         "ar": "عندك وضو؟",
@@ -3154,7 +3129,7 @@
     "freq": 3,
     "usage": 46,
     "ex_ar": "دارت البخور في الحوش.",
-    "ex_tr": "dārat il-bkhūr fi l-7ō sh.",
+    "ex_tr": "dārat il-bkhūr fi l-7ōsh.",
     "ex_en": "She burned incense in the house.",
     "note": "Burned at weddings, Fridays and against the evil eye.",
     "phrases": [
@@ -3374,32 +3349,6 @@
         "ar": "صيام الست",
         "tr": "Siyām is-sitt",
         "en": "the six days of Shawwal fast"
-      }
-    ]
-  },
-  {
-    "ar": "صايم",
-    "tr": "Sāyim",
-    "en": "fasting (person)",
-    "msa": "صائم",
-    "pos": "adj",
-    "cat": "religion",
-    "freq": 2,
-    "usage": 62,
-    "ex_ar": "ما نقدرش نشرب، أني صايم.",
-    "ex_tr": "ma ngdarsh nishrib, āni Sāyim.",
-    "ex_en": "I can't drink, I'm fasting.",
-    "note": "fem. صايمة Sāyma; pl. صايمين Sāymīn",
-    "phrases": [
-      {
-        "ar": "صايم اليوم؟",
-        "tr": "Sāyim il-yōm?",
-        "en": "are you fasting today?"
-      },
-      {
-        "ar": "صايمين كلنا",
-        "tr": "Sāymīn kullna",
-        "en": "we're all fasting"
       }
     ]
   },
@@ -3644,9 +3593,9 @@
     "cat": "culture",
     "freq": 3,
     "usage": 46,
-    "ex_ar": "وصلني تحية من صاحبك.",
-    "ex_tr": "waSSalni ta7iyya min Sā7bik.",
-    "ex_en": "Pass on greetings from your friend to me.",
+    "ex_ar": "صاحبك يبعتلك تحية.",
+    "ex_tr": "Sā7bik yib3atlik ta7iyya.",
+    "ex_en": "Your friend sends you greetings.",
     "note": "pl. تحيات ta7iyyāt",
     "phrases": [
       {
@@ -4153,35 +4102,9 @@
     ]
   },
   {
-    "ar": "رسم",
-    "tr": "rasm",
-    "en": "drawing; painting (activity); fee",
-    "msa": "رسم",
-    "pos": "noun",
-    "cat": "culture",
-    "freq": 3,
-    "usage": 46,
-    "ex_ar": "بنتي تحب الرسم.",
-    "ex_tr": "binti t7ibb ir-rasm.",
-    "ex_en": "My daughter loves drawing.",
-    "note": "pl. رسوم rsūm (also fees: رسوم التسجيل).",
-    "phrases": [
-      {
-        "ar": "كراس رسم",
-        "tr": "karrās rasm",
-        "en": "a sketchbook"
-      },
-      {
-        "ar": "رسوم الدراسة",
-        "tr": "rsūm id-dirāsa",
-        "en": "tuition fees"
-      }
-    ]
-  },
-  {
     "ar": "لوحة",
     "tr": "lō7a",
-    "en": "painting; picture; sign; plate",
+    "en": "painting; picture (artwork)",
     "msa": "لوحة",
     "pos": "noun",
     "cat": "culture",
@@ -4201,32 +4124,6 @@
         "ar": "لوحة الإعلانات",
         "tr": "lō7at il-i3lānāt",
         "en": "notice board"
-      }
-    ]
-  },
-  {
-    "ar": "مسرح",
-    "tr": "masra7",
-    "en": "theatre",
-    "msa": "مسرح",
-    "pos": "noun",
-    "cat": "culture",
-    "freq": 4,
-    "usage": 40,
-    "ex_ar": "مشينا للمسرح نتفرجوا مسرحية.",
-    "ex_tr": "mshēna lil-masra7 nitfarraju masra7iyya.",
-    "ex_en": "We went to the theatre to see a play.",
-    "note": "pl. مسارح masāri7; a play is مسرحية masra7iyya.",
-    "phrases": [
-      {
-        "ar": "مسرح الكشاف",
-        "tr": "masra7 il-kashshāf",
-        "en": "the Scouts' theatre (Tripoli)"
-      },
-      {
-        "ar": "مسرحية مضحكة",
-        "tr": "masra7iyya muD7ika",
-        "en": "a funny play"
       }
     ]
   },
@@ -4459,6 +4356,4772 @@
         "ar": "حضارة الإغريق",
         "tr": "7aDārat il-ighrīg",
         "en": "Greek civilization"
+      }
+    ]
+  },
+  {
+    "ar": "لحظة",
+    "tr": "la7DHa",
+    "en": "moment",
+    "msa": "لحظة",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 1,
+    "usage": 72,
+    "ex_ar": "لحظة، توا نجي.",
+    "ex_tr": "la7DHa, tawwa nji.",
+    "ex_en": "One moment, I'm coming now.",
+    "note": "pl. لحظات la7DHāt",
+    "phrases": [
+      {
+        "ar": "لحظة من فضلك",
+        "tr": "la7DHa min faDlik",
+        "en": "one moment please"
+      },
+      {
+        "ar": "في لحظة",
+        "tr": "fi la7DHa",
+        "en": "in an instant"
+      },
+      {
+        "ar": "نفس اللحظة",
+        "tr": "nafs il-la7DHa",
+        "en": "at the same moment"
+      }
+    ]
+  },
+  {
+    "ar": "فترة",
+    "tr": "fatra",
+    "en": "period; while; spell",
+    "msa": "فترة",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 2,
+    "usage": 66,
+    "ex_ar": "من فترة ما شفتاش.",
+    "ex_tr": "min fatra ma shuftāsh.",
+    "ex_en": "I haven't seen her for a while.",
+    "note": "pl. فترات fatrāt. Also a work shift: الفترة الصباحية.",
+    "phrases": [
+      {
+        "ar": "من فترة",
+        "tr": "min fatra",
+        "en": "a while ago; for a while"
+      },
+      {
+        "ar": "فترة طويلة",
+        "tr": "fatra Twīla",
+        "en": "a long period"
+      },
+      {
+        "ar": "الفترة المسائية",
+        "tr": "il-fatra l-masā'iyya",
+        "en": "the evening shift"
+      }
+    ]
+  },
+  {
+    "ar": "مدة",
+    "tr": "mudda",
+    "en": "duration; length of time",
+    "msa": "مدة",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 2,
+    "usage": 60,
+    "ex_ar": "قداش المدة متاع العقد؟",
+    "ex_tr": "gaddāsh il-mudda mtā3 il-3agd?",
+    "ex_en": "How long is the contract?",
+    "note": "pl. مدد mudad",
+    "phrases": [
+      {
+        "ar": "من مدة",
+        "tr": "min mudda",
+        "en": "some time ago"
+      },
+      {
+        "ar": "مدة طويلة",
+        "tr": "mudda Twīla",
+        "en": "a long time"
+      }
+    ]
+  },
+  {
+    "ar": "قرن",
+    "tr": "garn",
+    "en": "century",
+    "msa": "قرن",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "الحوش هذا عمره قرن.",
+    "ex_tr": "il-7ōsh hādha 3umrah garn.",
+    "ex_en": "This house is a century old.",
+    "note": "pl. قرون grūn. Also 'horn' of an animal.",
+    "phrases": [
+      {
+        "ar": "القرن العشرين",
+        "tr": "il-garn il-3ishrīn",
+        "en": "the 20th century"
+      },
+      {
+        "ar": "نص قرن",
+        "tr": "nuSS garn",
+        "en": "half a century"
+      }
+    ]
+  },
+  {
+    "ar": "عقد",
+    "tr": "3agd",
+    "en": "decade",
+    "msa": "عقد",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 5,
+    "usage": 24,
+    "ex_ar": "من عقد ما تغير شي.",
+    "ex_tr": "min 3agd ma tghayyar shī.",
+    "ex_en": "Nothing has changed for a decade.",
+    "note": "Formal; in speech Libyans usually say عشر سنين. Also 'contract' and 'necklace'.",
+    "phrases": [
+      {
+        "ar": "عشر سنين",
+        "tr": "3ashr snīn",
+        "en": "ten years (common way to say it)"
+      },
+      {
+        "ar": "عقد التسعينات",
+        "tr": "3agd it-tis3īnāt",
+        "en": "the nineties"
+      }
+    ]
+  },
+  {
+    "ar": "زمن",
+    "tr": "zaman",
+    "en": "time; era; age",
+    "msa": "زمن",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "في زمن جدي ما فيش كهربا.",
+    "ex_tr": "fi zaman jiddi ma fīsh kahraba.",
+    "ex_en": "In my grandfather's time there was no electricity.",
+    "note": "pl. أزمان azmān",
+    "phrases": [
+      {
+        "ar": "من زمن",
+        "tr": "min zaman",
+        "en": "for a long time"
+      },
+      {
+        "ar": "زمن الطليان",
+        "tr": "zaman iT-Talyān",
+        "en": "the Italian era"
+      }
+    ]
+  },
+  {
+    "ar": "عصر",
+    "tr": "3aSr",
+    "en": "era; age",
+    "msa": "عصر",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 4,
+    "usage": 36,
+    "ex_ar": "احنا في عصر التكنولوجيا.",
+    "ex_tr": "i7na fi 3aSr it-teknolōjya.",
+    "ex_en": "We're in the age of technology.",
+    "note": "pl. عصور 3uSūr. Same word as العصر (afternoon prayer).",
+    "phrases": [
+      {
+        "ar": "العصر الحجري",
+        "tr": "il-3aSr il-7ajari",
+        "en": "the Stone Age"
+      },
+      {
+        "ar": "عصر السرعة",
+        "tr": "3aSr is-sur3a",
+        "en": "the age of speed"
+      }
+    ]
+  },
+  {
+    "ar": "أسبوع",
+    "tr": "usbū3",
+    "en": "week (formal)",
+    "msa": "أسبوع",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 3,
+    "usage": 52,
+    "ex_ar": "العطلة أسبوع كامل.",
+    "ex_tr": "il-3uTla usbū3 kāmil.",
+    "ex_en": "The holiday is a whole week.",
+    "note": "pl. أسابيع asābī3. Everyday Libyan is جمعة jum3a.",
+    "phrases": [
+      {
+        "ar": "نهاية الأسبوع",
+        "tr": "nihāyat il-usbū3",
+        "en": "the weekend"
+      },
+      {
+        "ar": "مرة في الأسبوع",
+        "tr": "marra fi l-usbū3",
+        "en": "once a week"
+      }
+    ]
+  },
+  {
+    "ar": "ويكند",
+    "tr": "wīkend",
+    "en": "weekend",
+    "msa": "عطلة نهاية الأسبوع",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "شن ناوي تدير في الويكند؟",
+    "ex_tr": "shin nāwi tdīr fi l-wīkend?",
+    "ex_en": "What are you planning for the weekend?",
+    "note": "English loan; the Libyan weekend is Friday–Saturday.",
+    "phrases": [
+      {
+        "ar": "الويكند الجاي",
+        "tr": "il-wīkend ij-jāy",
+        "en": "next weekend"
+      },
+      {
+        "ar": "ويكند طويل",
+        "tr": "wīkend Twīl",
+        "en": "a long weekend"
+      }
+    ]
+  },
+  {
+    "ar": "بداية",
+    "tr": "bidāya",
+    "en": "beginning; start",
+    "msa": "بداية",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 2,
+    "usage": 64,
+    "ex_ar": "من البداية قلتلك.",
+    "ex_tr": "min il-bidāya giltlik.",
+    "ex_en": "I told you from the beginning.",
+    "note": "pl. بدايات bidāyāt",
+    "phrases": [
+      {
+        "ar": "في البداية",
+        "tr": "fi l-bidāya",
+        "en": "at first"
+      },
+      {
+        "ar": "بداية الشهر",
+        "tr": "bidāyat ish-shahr",
+        "en": "the beginning of the month"
+      }
+    ]
+  },
+  {
+    "ar": "نهاية",
+    "tr": "nihāya",
+    "en": "end; ending",
+    "msa": "نهاية",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 2,
+    "usage": 62,
+    "ex_ar": "نهاية الفيلم كانت حزينة.",
+    "ex_tr": "nihāyat il-film kānat 7zīna.",
+    "ex_en": "The end of the film was sad.",
+    "note": "pl. نهايات nihāyāt",
+    "phrases": [
+      {
+        "ar": "في النهاية",
+        "tr": "fi n-nihāya",
+        "en": "in the end"
+      },
+      {
+        "ar": "نهاية الشهر",
+        "tr": "nihāyat ish-shahr",
+        "en": "end of the month"
+      }
+    ]
+  },
+  {
+    "ar": "ميعاد",
+    "tr": "mī3ād",
+    "en": "set time; appointed time",
+    "msa": "موعد",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "جا في الميعاد بالضبط.",
+    "ex_tr": "ja fi l-mī3ād biD-DabT.",
+    "ex_en": "He came exactly on time.",
+    "note": "pl. مواعيد mawā3īd",
+    "phrases": [
+      {
+        "ar": "آخر ميعاد",
+        "tr": "ākhir mī3ād",
+        "en": "deadline"
+      },
+      {
+        "ar": "قبل الميعاد",
+        "tr": "gbal il-mī3ād",
+        "en": "ahead of time"
+      }
+    ]
+  },
+  {
+    "ar": "مهلة",
+    "tr": "muhla",
+    "en": "deadline; grace period",
+    "msa": "مهلة",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "عطاني مهلة جمعة.",
+    "ex_tr": "3Tāni muhla jum3a.",
+    "ex_en": "He gave me a week's grace.",
+    "note": "pl. مهل muhal",
+    "phrases": [
+      {
+        "ar": "آخر مهلة",
+        "tr": "ākhir muhla",
+        "en": "final deadline"
+      },
+      {
+        "ar": "مهلة زيادة",
+        "tr": "muhla zyāda",
+        "en": "an extension"
+      }
+    ]
+  },
+  {
+    "ar": "ضحى",
+    "tr": "Du7a",
+    "en": "late morning; forenoon",
+    "msa": "ضحى",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "نجيك الضحى.",
+    "ex_tr": "njīk iD-Du7a.",
+    "ex_en": "I'll come to you in late morning.",
+    "note": "Also صلاة الضحى (optional forenoon prayer).",
+    "phrases": [
+      {
+        "ar": "في الضحى",
+        "tr": "fi D-Du7a",
+        "en": "in the late morning"
+      },
+      {
+        "ar": "صلاة الضحى",
+        "tr": "Salāt iD-Du7a",
+        "en": "the forenoon prayer"
+      }
+    ]
+  },
+  {
+    "ar": "رأس العام",
+    "tr": "rās il-3ām",
+    "en": "New Year",
+    "msa": "رأس السنة",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "في رأس العام الشوارع فاضية.",
+    "ex_tr": "fi rās il-3ām ish-shwāri3 fāDya.",
+    "ex_en": "At New Year the streets are empty.",
+    "note": "Also رأس السنة rās is-sana.",
+    "phrases": [
+      {
+        "ar": "ليلة رأس العام",
+        "tr": "lēlat rās il-3ām",
+        "en": "New Year's Eve"
+      },
+      {
+        "ar": "رأس العام الهجري",
+        "tr": "rās il-3ām il-hijri",
+        "en": "Islamic New Year"
+      }
+    ]
+  },
+  {
+    "ar": "هجري",
+    "tr": "hijri",
+    "en": "Hijri (Islamic calendar)",
+    "msa": "هجري",
+    "pos": "adj",
+    "cat": "time",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "اليوم كم في الشهر الهجري؟",
+    "ex_tr": "il-yōm kam fi sh-shahr il-hijri?",
+    "ex_en": "What's today's date in the Hijri month?",
+    "phrases": [
+      {
+        "ar": "التاريخ الهجري",
+        "tr": "it-tārīkh il-hijri",
+        "en": "the Hijri date"
+      },
+      {
+        "ar": "السنة الهجرية",
+        "tr": "is-sana l-hijriyya",
+        "en": "the Hijri year"
+      }
+    ]
+  },
+  {
+    "ar": "ميلادي",
+    "tr": "mīlādi",
+    "en": "Gregorian (calendar)",
+    "msa": "ميلادي",
+    "pos": "adj",
+    "cat": "time",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "عيد ميلادي بالميلادي ولا بالهجري؟",
+    "ex_tr": "3īd mīlādi bil-mīlādi wala bil-hijri?",
+    "ex_en": "Is my birthday by the Gregorian or Hijri calendar?",
+    "phrases": [
+      {
+        "ar": "التاريخ الميلادي",
+        "tr": "it-tārīkh il-mīlādi",
+        "en": "the Gregorian date"
+      },
+      {
+        "ar": "السنة الميلادية",
+        "tr": "is-sana l-mīlādiyya",
+        "en": "the calendar year"
+      }
+    ]
+  },
+  {
+    "ar": "رزنامة",
+    "tr": "ruznāma",
+    "en": "calendar",
+    "msa": "تقويم",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "علق الرزنامة الجديدة في الكوجينة.",
+    "ex_tr": "3allag ir-ruznāma j-jdīda fi l-kūjīna.",
+    "ex_en": "He hung the new calendar in the kitchen.",
+    "note": "Also تقويم taqwīm (formal).",
+    "phrases": [
+      {
+        "ar": "رزنامة الحيط",
+        "tr": "ruznāmat il-7ēT",
+        "en": "wall calendar"
+      },
+      {
+        "ar": "رزنامة رمضان",
+        "tr": "ruznāmat ramDān",
+        "en": "the Ramadan calendar"
+      }
+    ]
+  },
+  {
+    "ar": "توقيت",
+    "tr": "tawgīt",
+    "en": "timing; local time",
+    "msa": "توقيت",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "التوقيت الشتوي بدا.",
+    "ex_tr": "it-tawgīt ish-shitwi bda.",
+    "ex_en": "Winter time has started.",
+    "phrases": [
+      {
+        "ar": "بتوقيت ليبيا",
+        "tr": "b-tawgīt lībya",
+        "en": "Libya time"
+      },
+      {
+        "ar": "توقيت غلط",
+        "tr": "tawgīt ghalaT",
+        "en": "bad timing"
+      }
+    ]
+  },
+  {
+    "ar": "وقت الفراغ",
+    "tr": "wagt il-farāgh",
+    "en": "free time",
+    "msa": "وقت الفراغ",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "شن تدير في وقت الفراغ؟",
+    "ex_tr": "shin tdīr fi wagt il-farāgh?",
+    "ex_en": "What do you do in your free time?",
+    "phrases": [
+      {
+        "ar": "عندي وقت فراغ",
+        "tr": "3andi wagt farāgh",
+        "en": "I have free time"
+      },
+      {
+        "ar": "ما عنديش وقت فراغ",
+        "tr": "ma 3andīsh wagt farāgh",
+        "en": "I have no spare time"
+      }
+    ]
+  },
+  {
+    "ar": "محرم",
+    "tr": "mu7arram",
+    "en": "Muharram (1st Islamic month)",
+    "msa": "محرم",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 4,
+    "usage": 34,
+    "ex_ar": "راس العام الهجري في أول محرم.",
+    "ex_tr": "rās il-3ām il-hijri fi awwil mu7arram.",
+    "ex_en": "Islamic New Year is on 1 Muharram.",
+    "phrases": [
+      {
+        "ar": "عشرة محرم",
+        "tr": "3ashra mu7arram",
+        "en": "10 Muharram (Ashura)"
+      },
+      {
+        "ar": "شهر محرم",
+        "tr": "shahr mu7arram",
+        "en": "the month of Muharram"
+      }
+    ]
+  },
+  {
+    "ar": "رجب",
+    "tr": "rajab",
+    "en": "Rajab (7th Islamic month)",
+    "msa": "رجب",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 5,
+    "usage": 28,
+    "ex_ar": "العمرة في رجب.",
+    "ex_tr": "il-3umra fi rajab.",
+    "ex_en": "The umrah is in Rajab.",
+    "phrases": [
+      {
+        "ar": "شهر رجب",
+        "tr": "shahr rajab",
+        "en": "the month of Rajab"
+      },
+      {
+        "ar": "رجب وشعبان",
+        "tr": "rajab w-sha3bān",
+        "en": "Rajab and Sha'ban"
+      }
+    ]
+  },
+  {
+    "ar": "شعبان",
+    "tr": "sha3bān",
+    "en": "Sha'ban (month before Ramadan)",
+    "msa": "شعبان",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 4,
+    "usage": 34,
+    "ex_ar": "نص شعبان والناس تحضر لرمضان.",
+    "ex_tr": "nuSS sha3bān w-in-nās t7aDDir l-ramDān.",
+    "ex_en": "It's mid-Sha'ban and people are preparing for Ramadan.",
+    "phrases": [
+      {
+        "ar": "آخر شعبان",
+        "tr": "ākhir sha3bān",
+        "en": "end of Sha'ban"
+      },
+      {
+        "ar": "ليلة نص شعبان",
+        "tr": "lēlat nuSS sha3bān",
+        "en": "the mid-Sha'ban night"
+      }
+    ]
+  },
+  {
+    "ar": "شوال",
+    "tr": "shawwāl",
+    "en": "Shawwal (month after Ramadan)",
+    "msa": "شوال",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 4,
+    "usage": 34,
+    "ex_ar": "نصوم الست من شوال.",
+    "ex_tr": "nSūm is-sitt min shawwāl.",
+    "ex_en": "I fast the six days of Shawwal.",
+    "note": "Same letters as شوال shwāl (sack).",
+    "phrases": [
+      {
+        "ar": "أول شوال",
+        "tr": "awwil shawwāl",
+        "en": "1 Shawwal (Eid al-Fitr)"
+      },
+      {
+        "ar": "ست شوال",
+        "tr": "sitt shawwāl",
+        "en": "the six Shawwal fasts"
+      }
+    ]
+  },
+  {
+    "ar": "ذو الحجة",
+    "tr": "dhu l-7ijja",
+    "en": "Dhu al-Hijja (month of Hajj)",
+    "msa": "ذو الحجة",
+    "pos": "noun",
+    "cat": "time",
+    "freq": 4,
+    "usage": 34,
+    "ex_ar": "العيد الكبير في عشرة ذو الحجة.",
+    "ex_tr": "il-3īd il-kbīr fi 3ashra dhu l-7ijja.",
+    "ex_en": "Eid al-Adha is on 10 Dhu al-Hijja.",
+    "phrases": [
+      {
+        "ar": "العشر الأوائل من ذي الحجة",
+        "tr": "il-3ashr il-awā'il min dhi l-7ijja",
+        "en": "the first ten days of Dhu al-Hijja"
+      },
+      {
+        "ar": "وقفة عرفة",
+        "tr": "wagfat 3arafa",
+        "en": "the Day of Arafa (9th)"
+      }
+    ]
+  },
+  {
+    "ar": "متر",
+    "tr": "mitr",
+    "en": "metre",
+    "msa": "متر",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 2,
+    "usage": 60,
+    "ex_ar": "الحوش طوله عشرين متر.",
+    "ex_tr": "il-7ōsh Tūlah 3ishrīn mitr.",
+    "ex_en": "The house is twenty metres long.",
+    "note": "pl. أمتار amtār / ميترات mitrāt",
+    "phrases": [
+      {
+        "ar": "متر مربع",
+        "tr": "mitr murabba3",
+        "en": "square metre"
+      },
+      {
+        "ar": "بالمتر",
+        "tr": "bil-mitr",
+        "en": "by the metre"
+      }
+    ]
+  },
+  {
+    "ar": "سنتي",
+    "tr": "santi",
+    "en": "centimetre",
+    "msa": "سنتيمتر",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "زيد اثنين سنتي.",
+    "ex_tr": "zīd ithnēn santi.",
+    "ex_en": "Add two centimetres.",
+    "note": "Short for سنتيمتر santimitr.",
+    "phrases": [
+      {
+        "ar": "عشرة سنتي",
+        "tr": "3ashra santi",
+        "en": "ten centimetres"
+      },
+      {
+        "ar": "سنتي سنتي",
+        "tr": "santi santi",
+        "en": "bit by bit (centimetre by centimetre)"
+      }
+    ]
+  },
+  {
+    "ar": "كيلومتر",
+    "tr": "kīlumitr",
+    "en": "kilometre",
+    "msa": "كيلومتر",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 3,
+    "usage": 52,
+    "ex_ar": "المسافة ميت كيلومتر.",
+    "ex_tr": "il-masāfa mīt kīlumitr.",
+    "ex_en": "The distance is a hundred kilometres.",
+    "note": "Often shortened to كيلو in speech.",
+    "phrases": [
+      {
+        "ar": "كم كيلو؟",
+        "tr": "kam kīlu?",
+        "en": "how many kilometres?"
+      },
+      {
+        "ar": "ميت كيلو في الساعة",
+        "tr": "mīt kīlu fi s-sā3a",
+        "en": "100 km per hour"
+      }
+    ]
+  },
+  {
+    "ar": "غرام",
+    "tr": "grām",
+    "en": "gram",
+    "msa": "غرام",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "ميتين غرام زيتون.",
+    "ex_tr": "mītēn grām zītūn.",
+    "ex_en": "Two hundred grams of olives.",
+    "note": "Same spelling as غرام gharām (passion).",
+    "phrases": [
+      {
+        "ar": "نص كيلو ولا ميتين غرام؟",
+        "tr": "nuSS kīlu wala mītēn grām?",
+        "en": "half a kilo or 200 grams?"
+      },
+      {
+        "ar": "بالغرام",
+        "tr": "bil-grām",
+        "en": "by the gram"
+      }
+    ]
+  },
+  {
+    "ar": "طن",
+    "tr": "Tunn",
+    "en": "ton",
+    "msa": "طن",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "الشاحنة شايلة عشرة طن.",
+    "ex_tr": "ish-shā7na shāyla 3ashra Tunn.",
+    "ex_en": "The lorry is carrying ten tons.",
+    "note": "pl. أطنان aTnān",
+    "phrases": [
+      {
+        "ar": "طن حديد",
+        "tr": "Tunn 7dīd",
+        "en": "a ton of iron"
+      },
+      {
+        "ar": "تقيل طن",
+        "tr": "tgīl Tunn",
+        "en": "heavy as a ton"
+      }
+    ]
+  },
+  {
+    "ar": "نص كيلو",
+    "tr": "nuSS kīlu",
+    "en": "half a kilo",
+    "msa": "نصف كيلو",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "عطيني نص كيلو طماطم.",
+    "ex_tr": "3Tīni nuSS kīlu TamāTim.",
+    "ex_en": "Give me half a kilo of tomatoes.",
+    "phrases": [
+      {
+        "ar": "ربع كيلو",
+        "tr": "rub3 kīlu",
+        "en": "a quarter kilo"
+      },
+      {
+        "ar": "كيلو ونص",
+        "tr": "kīlu w-nuSS",
+        "en": "a kilo and a half"
+      }
+    ]
+  },
+  {
+    "ar": "درجة",
+    "tr": "daraja",
+    "en": "degree; level; grade",
+    "msa": "درجة",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "اليوم أربعين درجة.",
+    "ex_tr": "il-yōm arb3īn daraja.",
+    "ex_en": "It's forty degrees today.",
+    "note": "pl. درجات darajāt",
+    "phrases": [
+      {
+        "ar": "لدرجة إنه…",
+        "tr": "l-darajat innah…",
+        "en": "to the point that…"
+      },
+      {
+        "ar": "درجة أولى",
+        "tr": "daraja ūla",
+        "en": "first class"
+      }
+    ]
+  },
+  {
+    "ar": "حجم",
+    "tr": "7ajm",
+    "en": "size; volume",
+    "msa": "حجم",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "شن الحجم اللي تبيه؟",
+    "ex_tr": "shin il-7ajm illi tibbīh?",
+    "ex_en": "What size do you want?",
+    "note": "pl. أحجام a7jām",
+    "phrases": [
+      {
+        "ar": "حجم كبير",
+        "tr": "7ajm kbīr",
+        "en": "large size"
+      },
+      {
+        "ar": "نفس الحجم",
+        "tr": "nafs il-7ajm",
+        "en": "the same size"
+      }
+    ]
+  },
+  {
+    "ar": "طول",
+    "tr": "Tūl",
+    "en": "length; height (of a person)",
+    "msa": "طول",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 2,
+    "usage": 60,
+    "ex_ar": "قداش طولك؟",
+    "ex_tr": "gaddāsh Tūlik?",
+    "ex_en": "How tall are you?",
+    "note": "Also used as adverb على طول (straight on).",
+    "phrases": [
+      {
+        "ar": "طوله متر وثمانين",
+        "tr": "Tūlah mitr w-thmānīn",
+        "en": "he's 1.80 m tall"
+      },
+      {
+        "ar": "بالطول",
+        "tr": "bit-Tūl",
+        "en": "lengthwise"
+      }
+    ]
+  },
+  {
+    "ar": "عرض",
+    "tr": "3arD",
+    "en": "width; breadth",
+    "msa": "عرض",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "عرض الباب متر.",
+    "ex_tr": "3arD il-bāb mitr.",
+    "ex_en": "The door is a metre wide.",
+    "note": "Same word means 'offer' and 'show'.",
+    "phrases": [
+      {
+        "ar": "الطول والعرض",
+        "tr": "iT-Tūl w-il-3arD",
+        "en": "length and width"
+      },
+      {
+        "ar": "بالعرض",
+        "tr": "bil-3arD",
+        "en": "widthwise; across"
+      }
+    ]
+  },
+  {
+    "ar": "عمق",
+    "tr": "3umg",
+    "en": "depth",
+    "msa": "عمق",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "البحر هني عمقه قداش؟",
+    "ex_tr": "il-ba7r hni 3umgah gaddāsh?",
+    "ex_en": "How deep is the sea here?",
+    "phrases": [
+      {
+        "ar": "من العمق",
+        "tr": "min il-3umg",
+        "en": "from the depths; deeply"
+      },
+      {
+        "ar": "عمق ثلاث متر",
+        "tr": "3umg thlāth mitr",
+        "en": "three metres deep"
+      }
+    ]
+  },
+  {
+    "ar": "ارتفاع",
+    "tr": "irtifā3",
+    "en": "height; rise",
+    "msa": "ارتفاع",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "فيه ارتفاع في الأسعار.",
+    "ex_tr": "fīh irtifā3 fi l-as3ār.",
+    "ex_en": "There's a rise in prices.",
+    "phrases": [
+      {
+        "ar": "ارتفاع الحرارة",
+        "tr": "irtifā3 il-7arāra",
+        "en": "rise in temperature"
+      },
+      {
+        "ar": "ارتفاع الحيط",
+        "tr": "irtifā3 il-7ēT",
+        "en": "the height of the wall"
+      }
+    ]
+  },
+  {
+    "ar": "مساحة",
+    "tr": "masā7a",
+    "en": "area; space",
+    "msa": "مساحة",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "مساحة الأرض خمسمية متر.",
+    "ex_tr": "masā7at il-arD khamsmiyya mitr.",
+    "ex_en": "The plot's area is five hundred metres.",
+    "note": "pl. مساحات masā7āt",
+    "phrases": [
+      {
+        "ar": "مساحة كبيرة",
+        "tr": "masā7a kbīra",
+        "en": "a large area"
+      },
+      {
+        "ar": "ما فيش مساحة",
+        "tr": "ma fīsh masā7a",
+        "en": "there's no space"
+      }
+    ]
+  },
+  {
+    "ar": "مسافة",
+    "tr": "masāfa",
+    "en": "distance",
+    "msa": "مسافة",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "المسافة من طرابلس لمصراتة قداش؟",
+    "ex_tr": "il-masāfa min Trābulus l-miSrāta gaddāsh?",
+    "ex_en": "What's the distance from Tripoli to Misrata?",
+    "note": "pl. مسافات masāfāt",
+    "phrases": [
+      {
+        "ar": "مسافة طويلة",
+        "tr": "masāfa Twīla",
+        "en": "a long distance"
+      },
+      {
+        "ar": "خلي مسافة",
+        "tr": "khalli masāfa",
+        "en": "keep your distance"
+      }
+    ]
+  },
+  {
+    "ar": "كمية",
+    "tr": "kammiyya",
+    "en": "amount; quantity",
+    "msa": "كمية",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "الكمية هذي ما تكفيش.",
+    "ex_tr": "il-kammiyya hādhi ma tikfīsh.",
+    "ex_en": "This amount isn't enough.",
+    "note": "pl. كميات kammiyyāt",
+    "phrases": [
+      {
+        "ar": "كمية كبيرة",
+        "tr": "kammiyya kbīra",
+        "en": "a large amount"
+      },
+      {
+        "ar": "بكميات",
+        "tr": "b-kammiyyāt",
+        "en": "in bulk"
+      }
+    ]
+  },
+  {
+    "ar": "عدد",
+    "tr": "3adad",
+    "en": "number; count",
+    "msa": "عدد",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 2,
+    "usage": 62,
+    "ex_ar": "عدد الناس كان كبير.",
+    "ex_tr": "3adad in-nās kān kbīr.",
+    "ex_en": "The number of people was large.",
+    "note": "pl. أعداد a3dād. For a phone/house number Libyans say نمرة or رقم.",
+    "phrases": [
+      {
+        "ar": "عدد كبير",
+        "tr": "3adad kbīr",
+        "en": "a large number"
+      },
+      {
+        "ar": "قداش العدد؟",
+        "tr": "gaddāsh il-3adad?",
+        "en": "how many are there?"
+      }
+    ]
+  },
+  {
+    "ar": "متوسط",
+    "tr": "mutawassiT",
+    "en": "average; medium",
+    "msa": "متوسط",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "متوسط المرتبات ضعيف.",
+    "ex_tr": "mutawassiT il-murattabāt Da3īf.",
+    "ex_en": "The average salary is low.",
+    "note": "Also adjective 'medium': حجم متوسط.",
+    "phrases": [
+      {
+        "ar": "في المتوسط",
+        "tr": "fi l-mutawassiT",
+        "en": "on average"
+      },
+      {
+        "ar": "البحر المتوسط",
+        "tr": "il-ba7r il-mutawassiT",
+        "en": "the Mediterranean Sea"
+      }
+    ]
+  },
+  {
+    "ar": "مجموع",
+    "tr": "majmū3",
+    "en": "total; sum",
+    "msa": "مجموع",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "المجموع قداش؟",
+    "ex_tr": "il-majmū3 gaddāsh?",
+    "ex_en": "What's the total?",
+    "note": "Also total exam score.",
+    "phrases": [
+      {
+        "ar": "في المجموع",
+        "tr": "fi l-majmū3",
+        "en": "in total"
+      },
+      {
+        "ar": "مجموع الفلوس",
+        "tr": "majmū3 il-flūs",
+        "en": "the total money"
+      }
+    ]
+  },
+  {
+    "ar": "قطعة",
+    "tr": "giT3a",
+    "en": "piece; part; plot",
+    "msa": "قطعة",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 2,
+    "usage": 62,
+    "ex_ar": "عطيني قطعة من الكيكة.",
+    "ex_tr": "3Tīni giT3a min il-kēka.",
+    "ex_en": "Give me a piece of the cake.",
+    "note": "pl. قطع giTa3. قطعة أرض = a plot of land.",
+    "phrases": [
+      {
+        "ar": "قطعة أرض",
+        "tr": "giT3at arD",
+        "en": "a plot of land"
+      },
+      {
+        "ar": "قطع غيار",
+        "tr": "giTa3 ghiyār",
+        "en": "spare parts"
+      }
+    ]
+  },
+  {
+    "ar": "ضعف",
+    "tr": "Di3f",
+    "en": "double; twice as much",
+    "msa": "ضعف",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "السوم زاد الضعف.",
+    "ex_tr": "is-sōm zād iD-Di3f.",
+    "ex_en": "The price has doubled.",
+    "note": "pl. أضعاف aD3āf. ضعف Da3f means weakness.",
+    "phrases": [
+      {
+        "ar": "الضعف",
+        "tr": "iD-Di3f",
+        "en": "double the amount"
+      },
+      {
+        "ar": "أضعاف مضاعفة",
+        "tr": "aD3āf muDā3afa",
+        "en": "many times over"
+      }
+    ]
+  },
+  {
+    "ar": "شبر",
+    "tr": "shibr",
+    "en": "hand-span",
+    "msa": "شبر",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "ما تحركش ولا شبر.",
+    "ex_tr": "ma t7arraksh wala shibr.",
+    "ex_en": "It didn't move even an inch.",
+    "note": "pl. أشبار ashbār",
+    "phrases": [
+      {
+        "ar": "شبر شبر",
+        "tr": "shibr shibr",
+        "en": "inch by inch"
+      },
+      {
+        "ar": "ولا شبر",
+        "tr": "wala shibr",
+        "en": "not an inch"
+      }
+    ]
+  },
+  {
+    "ar": "شوال",
+    "tr": "shwāl",
+    "en": "sack (large)",
+    "msa": "كيس كبير",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "شرينا شوال دقيق.",
+    "ex_tr": "shrēna shwāl dgīg.",
+    "ex_en": "We bought a sack of flour.",
+    "note": "pl. شوالات shwālāt. Same letters as the month شوال.",
+    "phrases": [
+      {
+        "ar": "شوال سكر",
+        "tr": "shwāl sukkar",
+        "en": "a sack of sugar"
+      },
+      {
+        "ar": "شوال بطاطا",
+        "tr": "shwāl baTāTa",
+        "en": "a sack of potatoes"
+      }
+    ]
+  },
+  {
+    "ar": "شكل",
+    "tr": "shakl",
+    "en": "shape; form; look",
+    "msa": "شكل",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 1,
+    "usage": 72,
+    "ex_ar": "شكله مش باهي.",
+    "ex_tr": "shaklah mush bāhi.",
+    "ex_en": "It doesn't look good.",
+    "note": "pl. أشكال ashkāl",
+    "phrases": [
+      {
+        "ar": "على شكل",
+        "tr": "3la shakl",
+        "en": "in the shape of"
+      },
+      {
+        "ar": "بكل الأشكال",
+        "tr": "b-kull il-ashkāl",
+        "en": "of all kinds"
+      }
+    ]
+  },
+  {
+    "ar": "مربع",
+    "tr": "murabba3",
+    "en": "square",
+    "msa": "مربع",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "الطاولة على شكل مربع.",
+    "ex_tr": "iT-Taula 3la shakl murabba3.",
+    "ex_en": "The table is square-shaped.",
+    "note": "pl. مربعات murabba3āt. Also adj.: متر مربع.",
+    "phrases": [
+      {
+        "ar": "مربعات صغار",
+        "tr": "murabba3āt Sghār",
+        "en": "small squares"
+      },
+      {
+        "ar": "شكل مربع",
+        "tr": "shakl murabba3",
+        "en": "square shape"
+      }
+    ]
+  },
+  {
+    "ar": "دائرة",
+    "tr": "dā'ira",
+    "en": "circle; department; constituency",
+    "msa": "دائرة",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "ارسم دائرة.",
+    "ex_tr": "irsim dā'ira.",
+    "ex_en": "Draw a circle.",
+    "note": "pl. دوائر dawā'ir",
+    "phrases": [
+      {
+        "ar": "دائرة كاملة",
+        "tr": "dā'ira kāmla",
+        "en": "a full circle"
+      },
+      {
+        "ar": "في دائرة",
+        "tr": "fi dā'ira",
+        "en": "in a circle"
+      }
+    ]
+  },
+  {
+    "ar": "مثلث",
+    "tr": "muthallath",
+    "en": "triangle",
+    "msa": "مثلث",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 4,
+    "usage": 36,
+    "ex_ar": "الحلوة مقطعة مثلثات.",
+    "ex_tr": "il-7alwa mgaTT3a muthallathāt.",
+    "ex_en": "The sweets are cut into triangles.",
+    "note": "pl. مثلثات muthallathāt",
+    "phrases": [
+      {
+        "ar": "شكل مثلث",
+        "tr": "shakl muthallath",
+        "en": "triangle shape"
+      },
+      {
+        "ar": "مثلث برمودا",
+        "tr": "muthallath barmūda",
+        "en": "the Bermuda Triangle"
+      }
+    ]
+  },
+  {
+    "ar": "مستطيل",
+    "tr": "mustaTīl",
+    "en": "rectangle",
+    "msa": "مستطيل",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 4,
+    "usage": 34,
+    "ex_ar": "الحوش مستطيل.",
+    "ex_tr": "il-7ōsh mustaTīl.",
+    "ex_en": "The house is rectangular.",
+    "note": "Also adj. 'rectangular'.",
+    "phrases": [
+      {
+        "ar": "شكل مستطيل",
+        "tr": "shakl mustaTīl",
+        "en": "rectangular shape"
+      },
+      {
+        "ar": "طاولة مستطيلة",
+        "tr": "Taula mustaTīla",
+        "en": "a rectangular table"
+      }
+    ]
+  },
+  {
+    "ar": "خط",
+    "tr": "khaTT",
+    "en": "line (drawn); handwriting",
+    "msa": "خط",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 2,
+    "usage": 60,
+    "ex_ar": "خطه ما يتقراش.",
+    "ex_tr": "khaTTah ma yitgrāsh.",
+    "ex_en": "His handwriting can't be read.",
+    "note": "pl. خطوط khTūT. Also phone line / SIM.",
+    "phrases": [
+      {
+        "ar": "خط مستقيم",
+        "tr": "khaTT mustagīm",
+        "en": "a straight line"
+      },
+      {
+        "ar": "خط أحمر",
+        "tr": "khaTT a7mar",
+        "en": "a red line"
+      }
+    ]
+  },
+  {
+    "ar": "نقطة",
+    "tr": "nugTa",
+    "en": "point; dot; full stop",
+    "msa": "نقطة",
+    "pos": "noun",
+    "cat": "measures",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "هذي نقطة مهمة.",
+    "ex_tr": "hādhi nugTa muhimma.",
+    "ex_en": "This is an important point.",
+    "note": "pl. نقاط nugāT / نقط nugaT. Also checkpoint: نقطة تفتيش.",
+    "phrases": [
+      {
+        "ar": "نقطة تفتيش",
+        "tr": "nugTat taftīsh",
+        "en": "checkpoint"
+      },
+      {
+        "ar": "نقطة نقطة",
+        "tr": "nugTa nugTa",
+        "en": "drop by drop; point by point"
+      }
+    ]
+  },
+  {
+    "ar": "زاوية",
+    "tr": "zāwya",
+    "en": "corner; angle; Sufi lodge",
+    "msa": "زاوية",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "الزاوية تعلم الصغار القرآن.",
+    "ex_tr": "iz-zāwya t3allim iS-Sghār il-qur'ān.",
+    "ex_en": "The zawiya teaches children the Quran.",
+    "note": "pl. زوايا zwāya. Sufi lodges (e.g. زاوية سيدي عبد السلام) are important in Libya.",
+    "phrases": [
+      {
+        "ar": "في الزاوية",
+        "tr": "fi z-zāwya",
+        "en": "in the corner"
+      },
+      {
+        "ar": "زاوية قايمة",
+        "tr": "zāwya gāyma",
+        "en": "right angle"
+      }
+    ]
+  },
+  {
+    "ar": "ثلاثمية",
+    "tr": "thlāthmiyya",
+    "en": "three hundred",
+    "msa": "ثلاثمائة",
+    "pos": "num",
+    "cat": "numbers",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "السوم ثلاثمية دينار.",
+    "ex_tr": "is-sōm thlāthmiyya dīnār.",
+    "ex_en": "The price is three hundred dinars.",
+    "phrases": [
+      {
+        "ar": "ثلاثمية وخمسين",
+        "tr": "thlāthmiyya w-khamsīn",
+        "en": "three hundred fifty"
+      },
+      {
+        "ar": "ثلاثمية متر",
+        "tr": "thlāthmiyya mitr",
+        "en": "three hundred metres"
+      }
+    ]
+  },
+  {
+    "ar": "أربعمية",
+    "tr": "arba3miyya",
+    "en": "four hundred",
+    "msa": "أربعمائة",
+    "pos": "num",
+    "cat": "numbers",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "المرتب أربعمية وشوية.",
+    "ex_tr": "il-murattab arba3miyya w-shwayya.",
+    "ex_en": "The salary is a little over four hundred.",
+    "phrases": [
+      {
+        "ar": "أربعمية دينار",
+        "tr": "arba3miyya dīnār",
+        "en": "four hundred dinars"
+      },
+      {
+        "ar": "أربعمية كيلو",
+        "tr": "arba3miyya kīlu",
+        "en": "four hundred kilos"
+      }
+    ]
+  },
+  {
+    "ar": "خمسمية",
+    "tr": "khamsmiyya",
+    "en": "five hundred",
+    "msa": "خمسمائة",
+    "pos": "num",
+    "cat": "numbers",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "عطيته خمسمية دينار.",
+    "ex_tr": "3Tītah khamsmiyya dīnār.",
+    "ex_en": "I gave him five hundred dinars.",
+    "phrases": [
+      {
+        "ar": "خمسمية متر",
+        "tr": "khamsmiyya mitr",
+        "en": "five hundred metres"
+      },
+      {
+        "ar": "خمسمية ألف",
+        "tr": "khamsmiyya alf",
+        "en": "half a million"
+      }
+    ]
+  },
+  {
+    "ar": "ستمية",
+    "tr": "sittmiyya",
+    "en": "six hundred",
+    "msa": "ستمائة",
+    "pos": "num",
+    "cat": "numbers",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "السيارة دارت ستمية ألف كيلو.",
+    "ex_tr": "is-sayyāra dārat sittmiyya alf kīlu.",
+    "ex_en": "The car has done six hundred thousand kilometres.",
+    "phrases": [
+      {
+        "ar": "ستمية دينار",
+        "tr": "sittmiyya dīnār",
+        "en": "six hundred dinars"
+      },
+      {
+        "ar": "ستمية وعشرين",
+        "tr": "sittmiyya w-3ishrīn",
+        "en": "six hundred twenty"
+      }
+    ]
+  },
+  {
+    "ar": "سبعمية",
+    "tr": "sab3miyya",
+    "en": "seven hundred",
+    "msa": "سبعمائة",
+    "pos": "num",
+    "cat": "numbers",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "الكراء سبعمية في الشهر.",
+    "ex_tr": "il-kra sab3miyya fi sh-shahr.",
+    "ex_en": "The rent is seven hundred a month.",
+    "phrases": [
+      {
+        "ar": "سبعمية دينار",
+        "tr": "sab3miyya dīnār",
+        "en": "seven hundred dinars"
+      },
+      {
+        "ar": "سبعمية ونص",
+        "tr": "sab3miyya w-nuSS",
+        "en": "seven hundred and fifty (lit. and a half)"
+      }
+    ]
+  },
+  {
+    "ar": "ثمنمية",
+    "tr": "thmanmiyya",
+    "en": "eight hundred",
+    "msa": "ثمانمائة",
+    "pos": "num",
+    "cat": "numbers",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "الموبايل بثمنمية.",
+    "ex_tr": "il-mobāyl b-thmanmiyya.",
+    "ex_en": "The mobile costs eight hundred.",
+    "phrases": [
+      {
+        "ar": "ثمنمية دينار",
+        "tr": "thmanmiyya dīnār",
+        "en": "eight hundred dinars"
+      },
+      {
+        "ar": "ثمنمية متر",
+        "tr": "thmanmiyya mitr",
+        "en": "eight hundred metres"
+      }
+    ]
+  },
+  {
+    "ar": "تسعمية",
+    "tr": "tis3miyya",
+    "en": "nine hundred",
+    "msa": "تسعمائة",
+    "pos": "num",
+    "cat": "numbers",
+    "freq": 4,
+    "usage": 36,
+    "ex_ar": "تسعمية وتسعة وتسعين.",
+    "ex_tr": "tis3miyya w-tis3a w-tis3īn.",
+    "ex_en": "Nine hundred ninety-nine.",
+    "phrases": [
+      {
+        "ar": "تسعمية دينار",
+        "tr": "tis3miyya dīnār",
+        "en": "nine hundred dinars"
+      },
+      {
+        "ar": "تسعمية غرام",
+        "tr": "tis3miyya grām",
+        "en": "nine hundred grams"
+      }
+    ]
+  },
+  {
+    "ar": "ثلاث آلاف",
+    "tr": "thlātht ālāf",
+    "en": "three thousand",
+    "msa": "ثلاثة آلاف",
+    "pos": "num",
+    "cat": "numbers",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "المرتب ثلاث آلاف.",
+    "ex_tr": "il-murattab thlātht ālāf.",
+    "ex_en": "The salary is three thousand.",
+    "note": "From 3 to 10 use آلاف ālāf (thousands).",
+    "phrases": [
+      {
+        "ar": "ثلاث آلاف دينار",
+        "tr": "thlātht ālāf dīnār",
+        "en": "three thousand dinars"
+      },
+      {
+        "ar": "أربعة آلاف",
+        "tr": "arba3t ālāf",
+        "en": "four thousand"
+      }
+    ]
+  },
+  {
+    "ar": "عشرة آلاف",
+    "tr": "3ashart ālāf",
+    "en": "ten thousand",
+    "msa": "عشرة آلاف",
+    "pos": "num",
+    "cat": "numbers",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "السيارة بعشرة آلاف.",
+    "ex_tr": "is-sayyāra b-3ashart ālāf.",
+    "ex_en": "The car is ten thousand.",
+    "phrases": [
+      {
+        "ar": "عشرة آلاف دينار",
+        "tr": "3ashart ālāf dīnār",
+        "en": "ten thousand dinars"
+      },
+      {
+        "ar": "خمسة آلاف",
+        "tr": "khamst ālāf",
+        "en": "five thousand"
+      }
+    ]
+  },
+  {
+    "ar": "مية ألف",
+    "tr": "mīt alf",
+    "en": "hundred thousand",
+    "msa": "مائة ألف",
+    "pos": "num",
+    "cat": "numbers",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "الحوش بمية ألف دينار.",
+    "ex_tr": "il-7ōsh b-mīt alf dīnār.",
+    "ex_en": "The house is a hundred thousand dinars.",
+    "phrases": [
+      {
+        "ar": "ميتين ألف",
+        "tr": "mītēn alf",
+        "en": "two hundred thousand"
+      },
+      {
+        "ar": "نص مليون",
+        "tr": "nuSS malyūn",
+        "en": "half a million"
+      }
+    ]
+  },
+  {
+    "ar": "مليار",
+    "tr": "milyār",
+    "en": "billion",
+    "msa": "مليار",
+    "pos": "noun",
+    "cat": "numbers",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "الميزانية بالمليارات.",
+    "ex_tr": "il-mīzāniyya bil-milyārāt.",
+    "ex_en": "The budget is in the billions.",
+    "note": "pl. مليارات milyārāt",
+    "phrases": [
+      {
+        "ar": "مليار دينار",
+        "tr": "milyār dīnār",
+        "en": "a billion dinars"
+      },
+      {
+        "ar": "مليار مرة",
+        "tr": "milyār marra",
+        "en": "a billion times"
+      }
+    ]
+  },
+  {
+    "ar": "آلاف",
+    "tr": "ālāf",
+    "en": "thousands",
+    "msa": "آلاف",
+    "pos": "noun",
+    "cat": "numbers",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "آلاف الناس جو للماتش.",
+    "ex_tr": "ālāf in-nās jū lil-mātsh.",
+    "ex_en": "Thousands of people came to the match.",
+    "note": "Plural of ألف alf.",
+    "phrases": [
+      {
+        "ar": "بالآلاف",
+        "tr": "bil-ālāf",
+        "en": "by the thousands"
+      },
+      {
+        "ar": "آلاف مؤلفة",
+        "tr": "ālāf mu'allafa",
+        "en": "countless thousands"
+      }
+    ]
+  },
+  {
+    "ar": "مئات",
+    "tr": "mi'āt",
+    "en": "hundreds",
+    "msa": "مئات",
+    "pos": "noun",
+    "cat": "numbers",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "مئات السيارات واقفة.",
+    "ex_tr": "mi'āt is-sayyārāt wāgfa.",
+    "ex_en": "Hundreds of cars are parked.",
+    "note": "Plural of مية. Also ميات miyyāt in speech.",
+    "phrases": [
+      {
+        "ar": "بالمئات",
+        "tr": "bil-mi'āt",
+        "en": "by the hundreds"
+      },
+      {
+        "ar": "مئات المرات",
+        "tr": "mi'āt il-marrāt",
+        "en": "hundreds of times"
+      }
+    ]
+  },
+  {
+    "ar": "عشرات",
+    "tr": "3asharāt",
+    "en": "tens; dozens",
+    "msa": "عشرات",
+    "pos": "noun",
+    "cat": "numbers",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "عشرات المرات قلتلك.",
+    "ex_tr": "3asharāt il-marrāt giltlik.",
+    "ex_en": "I've told you dozens of times.",
+    "phrases": [
+      {
+        "ar": "عشرات الناس",
+        "tr": "3asharāt in-nās",
+        "en": "dozens of people"
+      },
+      {
+        "ar": "بالعشرات",
+        "tr": "bil-3asharāt",
+        "en": "by the dozens"
+      }
+    ]
+  },
+  {
+    "ar": "خمس",
+    "tr": "khums",
+    "en": "a fifth (fraction)",
+    "msa": "خمس",
+    "pos": "noun",
+    "cat": "numbers",
+    "freq": 4,
+    "usage": 36,
+    "ex_ar": "خوذ الخمس متاعك.",
+    "ex_tr": "khūdh il-khums mtā3ak.",
+    "ex_en": "Take your fifth.",
+    "note": "pl. أخماس akhmās",
+    "phrases": [
+      {
+        "ar": "خمس الفلوس",
+        "tr": "khums il-flūs",
+        "en": "a fifth of the money"
+      },
+      {
+        "ar": "زوز أخماس",
+        "tr": "zūz akhmās",
+        "en": "two fifths"
+      }
+    ]
+  },
+  {
+    "ar": "عشر",
+    "tr": "3ushr",
+    "en": "a tenth (fraction)",
+    "msa": "عشر",
+    "pos": "noun",
+    "cat": "numbers",
+    "freq": 4,
+    "usage": 36,
+    "ex_ar": "ما خلصش حتى عشر الخدمة.",
+    "ex_tr": "ma khallaSsh 7atta 3ushr il-khidma.",
+    "ex_en": "He hasn't finished even a tenth of the work.",
+    "note": "pl. أعشار a3shār; also decimal places.",
+    "phrases": [
+      {
+        "ar": "عشر الثانية",
+        "tr": "3ushr ith-thānya",
+        "en": "a tenth of a second"
+      },
+      {
+        "ar": "فاصلة وأعشار",
+        "tr": "fāSla w-a3shār",
+        "en": "decimal point and tenths"
+      }
+    ]
+  },
+  {
+    "ar": "زوجي",
+    "tr": "zawji",
+    "en": "even (number)",
+    "msa": "زوجي",
+    "pos": "adj",
+    "cat": "numbers",
+    "freq": 4,
+    "usage": 34,
+    "ex_ar": "اثنين وأربعة أرقام زوجية.",
+    "ex_tr": "ithnēn w-arb3a argām zawjiyya.",
+    "ex_en": "Two and four are even numbers.",
+    "note": "fem. زوجية zawjiyya. Also 'marital'.",
+    "phrases": [
+      {
+        "ar": "رقم زوجي",
+        "tr": "ragm zawji",
+        "en": "even number"
+      },
+      {
+        "ar": "زوجي ولا فردي؟",
+        "tr": "zawji wala fardi?",
+        "en": "even or odd?"
+      }
+    ]
+  },
+  {
+    "ar": "فردي",
+    "tr": "fardi",
+    "en": "odd (number); individual",
+    "msa": "فردي",
+    "pos": "adj",
+    "cat": "numbers",
+    "freq": 4,
+    "usage": 34,
+    "ex_ar": "السيارات بالرقم الفردي تمشي اليوم.",
+    "ex_tr": "is-sayyārāt bir-ragm il-fardi timshi l-yōm.",
+    "ex_en": "Cars with odd numbers drive today.",
+    "note": "fem. فردية fardiyya",
+    "phrases": [
+      {
+        "ar": "رقم فردي",
+        "tr": "ragm fardi",
+        "en": "odd number"
+      },
+      {
+        "ar": "بشكل فردي",
+        "tr": "b-shakl fardi",
+        "en": "individually"
+      }
+    ]
+  },
+  {
+    "ar": "صوت",
+    "tr": "Sōt",
+    "en": "vote",
+    "msa": "صوت",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "عطيت صوتي ليه.",
+    "ex_tr": "3Tēt Sōti līh.",
+    "ex_en": "I gave him my vote.",
+    "note": "pl. أصوات aSwāt. Same word as 'voice/sound'.",
+    "phrases": [
+      {
+        "ar": "عد الأصوات",
+        "tr": "3add il-aSwāt",
+        "en": "counting the votes"
+      },
+      {
+        "ar": "صوت واحد",
+        "tr": "Sōt wā7id",
+        "en": "one vote"
+      }
+    ]
+  },
+  {
+    "ar": "دستور",
+    "tr": "dustūr",
+    "en": "constitution",
+    "msa": "دستور",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 36,
+    "ex_ar": "ليبيا مازالت تستنى في الدستور.",
+    "ex_tr": "lībya māzālat tistanna fi d-dustūr.",
+    "ex_en": "Libya is still waiting for a constitution.",
+    "note": "pl. دساتير dasātīr. 'دستور!' is also an old expression asking permission to enter.",
+    "phrases": [
+      {
+        "ar": "مسودة الدستور",
+        "tr": "musawwadat id-dustūr",
+        "en": "the draft constitution"
+      },
+      {
+        "ar": "دستور يا سيادي",
+        "tr": "dustūr ya syādi",
+        "en": "by your leave, sirs (old phrase)"
+      }
+    ]
+  },
+  {
+    "ar": "أزمة",
+    "tr": "azma",
+    "en": "crisis; shortage",
+    "msa": "أزمة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "فيه أزمة بنزينة هالأيام.",
+    "ex_tr": "fīh azmat banzīna ha-l-ayyām.",
+    "ex_en": "There's a petrol shortage these days.",
+    "note": "pl. أزمات azamāt. Libyans speak of أزمة السيولة, أزمة الكهربا, etc.",
+    "phrases": [
+      {
+        "ar": "أزمة سيولة",
+        "tr": "azmat siyūla",
+        "en": "a cash shortage"
+      },
+      {
+        "ar": "أزمة كهربا",
+        "tr": "azmat kahraba",
+        "en": "a power crisis"
+      }
+    ]
+  },
+  {
+    "ar": "سياسة",
+    "tr": "siyāsa",
+    "en": "politics; policy",
+    "msa": "سياسة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "ما نحبش نهدرز في السياسة.",
+    "ex_tr": "ma n7ibbish nhadraz fi s-siyāsa.",
+    "ex_en": "I don't like talking politics.",
+    "note": "Also 'tact': بالسياسة = diplomatically.",
+    "phrases": [
+      {
+        "ar": "بالسياسة",
+        "tr": "bis-siyāsa",
+        "en": "tactfully"
+      },
+      {
+        "ar": "سياسة الشركة",
+        "tr": "siyāsat ish-sharika",
+        "en": "company policy"
+      }
+    ]
+  },
+  {
+    "ar": "وطن",
+    "tr": "waTan",
+    "en": "homeland; nation",
+    "msa": "وطن",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "ليبيا وطننا.",
+    "ex_tr": "lībya waTanna.",
+    "ex_en": "Libya is our homeland.",
+    "note": "pl. أوطان awTān",
+    "phrases": [
+      {
+        "ar": "حب الوطن",
+        "tr": "7ubb il-waTan",
+        "en": "love of one's country"
+      },
+      {
+        "ar": "في الوطن",
+        "tr": "fi l-waTan",
+        "en": "in the homeland"
+      }
+    ]
+  },
+  {
+    "ar": "ثورة",
+    "tr": "thawra",
+    "en": "revolution",
+    "msa": "ثورة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "من بعد الثورة تغيرت حاجات هلبة.",
+    "ex_tr": "min ba3d ith-thawra tghayyrat 7ājāt hallba.",
+    "ex_en": "After the revolution many things changed.",
+    "note": "pl. ثورات thawrāt",
+    "phrases": [
+      {
+        "ar": "ثورة فبراير",
+        "tr": "thawrat fibrāyir",
+        "en": "the February revolution"
+      },
+      {
+        "ar": "ثورة غضب",
+        "tr": "thawrat ghaDab",
+        "en": "a fit of fury"
+      }
+    ]
+  },
+  {
+    "ar": "حرب",
+    "tr": "7arb",
+    "en": "war",
+    "msa": "حرب",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 54,
+    "ex_ar": "الله يبعد علينا الحرب.",
+    "ex_tr": "allah yib3id 3alēna l-7arb.",
+    "ex_en": "May God keep war away from us.",
+    "note": "pl. حروب 7rūb",
+    "phrases": [
+      {
+        "ar": "وقت الحرب",
+        "tr": "wagt il-7arb",
+        "en": "during the war"
+      },
+      {
+        "ar": "حرب أهلية",
+        "tr": "7arb ahliyya",
+        "en": "civil war"
+      }
+    ]
+  },
+  {
+    "ar": "برلمان",
+    "tr": "barlamān",
+    "en": "parliament",
+    "msa": "برلمان",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 36,
+    "ex_ar": "البرلمان ما وافقش على القانون.",
+    "ex_tr": "il-barlamān ma wāfaghsh 3la l-gānūn.",
+    "ex_en": "Parliament didn't approve the law.",
+    "note": "Libyans also say مجلس النواب.",
+    "phrases": [
+      {
+        "ar": "مجلس النواب",
+        "tr": "majlis in-nuwwāb",
+        "en": "House of Representatives"
+      },
+      {
+        "ar": "عضو برلمان",
+        "tr": "3uDw barlamān",
+        "en": "member of parliament"
+      }
+    ]
+  },
+  {
+    "ar": "مجلس",
+    "tr": "majlis",
+    "en": "sitting room for guests; majlis",
+    "msa": "مجلس",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "قعدنا في المجلس مع الضيوف.",
+    "ex_tr": "g3adna fi l-majlis ma3a D-Dyūf.",
+    "ex_en": "We sat in the guest room with the guests.",
+    "note": "pl. مجالس majālis. Also council: المجلس البلدي.",
+    "phrases": [
+      {
+        "ar": "المجلس البلدي",
+        "tr": "il-majlis il-baladi",
+        "en": "the municipal council"
+      },
+      {
+        "ar": "مجلس الرجالة",
+        "tr": "majlis ir-rjāla",
+        "en": "the men's sitting room"
+      }
+    ]
+  },
+  {
+    "ar": "ديمقراطية",
+    "tr": "dīmugrāTiyya",
+    "en": "democracy",
+    "msa": "ديمقراطية",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 34,
+    "ex_ar": "الكل يحكي على الديمقراطية.",
+    "ex_tr": "il-kull y7ki 3la d-dīmugrāTiyya.",
+    "ex_en": "Everyone talks about democracy.",
+    "phrases": [
+      {
+        "ar": "بديمقراطية",
+        "tr": "b-dīmugrāTiyya",
+        "en": "democratically"
+      },
+      {
+        "ar": "مافيش ديمقراطية في الحوش",
+        "tr": "ma fīsh dīmugrāTiyya fi l-7ōsh",
+        "en": "there's no democracy at home (joke)"
+      }
+    ]
+  },
+  {
+    "ar": "عدالة",
+    "tr": "3adāla",
+    "en": "justice",
+    "msa": "عدالة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "نبوا العدالة لكل الناس.",
+    "ex_tr": "nibbu l-3adāla l-kull in-nās.",
+    "ex_en": "We want justice for all people.",
+    "phrases": [
+      {
+        "ar": "وزارة العدل",
+        "tr": "wizārat il-3adl",
+        "en": "Ministry of Justice"
+      },
+      {
+        "ar": "عدالة اجتماعية",
+        "tr": "3adāla ijtimā3iyya",
+        "en": "social justice"
+      }
+    ]
+  },
+  {
+    "ar": "عدل",
+    "tr": "3adl",
+    "en": "fairness; justice",
+    "msa": "عدل",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "ربي عنده العدل.",
+    "ex_tr": "rabbi 3indah il-3adl.",
+    "ex_en": "God is just.",
+    "note": "Libyans also say عدل to mean 'fair, even'.",
+    "phrases": [
+      {
+        "ar": "بالعدل",
+        "tr": "bil-3adl",
+        "en": "fairly; evenly"
+      },
+      {
+        "ar": "العدل أساس الملك",
+        "tr": "il-3adl asās il-mulk",
+        "en": "justice is the basis of rule"
+      }
+    ]
+  },
+  {
+    "ar": "ظلم",
+    "tr": "DHulm",
+    "en": "injustice; oppression",
+    "msa": "ظلم",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "هذا ظلم!",
+    "ex_tr": "hādha DHulm!",
+    "ex_en": "This is unfair!",
+    "phrases": [
+      {
+        "ar": "ظلم كبير",
+        "tr": "DHulm kbīr",
+        "en": "a great injustice"
+      },
+      {
+        "ar": "حرام الظلم",
+        "tr": "7arām iDH-DHulm",
+        "en": "injustice is a sin"
+      }
+    ]
+  },
+  {
+    "ar": "فساد",
+    "tr": "fasād",
+    "en": "corruption",
+    "msa": "فساد",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "الفساد في كل مكان.",
+    "ex_tr": "il-fasād fi kull makān.",
+    "ex_en": "Corruption is everywhere.",
+    "phrases": [
+      {
+        "ar": "محاربة الفساد",
+        "tr": "mu7ārabat il-fasād",
+        "en": "fighting corruption"
+      },
+      {
+        "ar": "فساد إداري",
+        "tr": "fasād idāri",
+        "en": "administrative corruption"
+      }
+    ]
+  },
+  {
+    "ar": "غلاء",
+    "tr": "ghala",
+    "en": "high prices; cost of living",
+    "msa": "غلاء",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "الغلا كاسر ظهر الناس.",
+    "ex_tr": "il-ghala kāsir DHahr in-nās.",
+    "ex_en": "High prices are breaking people's backs.",
+    "note": "Often written غلا.",
+    "phrases": [
+      {
+        "ar": "غلاء المعيشة",
+        "tr": "ghalā' il-ma3īsha",
+        "en": "cost of living"
+      },
+      {
+        "ar": "غلا الأسعار",
+        "tr": "ghala l-as3ār",
+        "en": "high prices"
+      }
+    ]
+  },
+  {
+    "ar": "فقر",
+    "tr": "fagr",
+    "en": "poverty",
+    "msa": "فقر",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "الفقر زاد في البلاد.",
+    "ex_tr": "il-fagr zād fi l-blād.",
+    "ex_en": "Poverty has increased in the country.",
+    "phrases": [
+      {
+        "ar": "خط الفقر",
+        "tr": "khaTT il-fagr",
+        "en": "the poverty line"
+      },
+      {
+        "ar": "فقر وحاجة",
+        "tr": "fagr w-7āja",
+        "en": "poverty and need"
+      }
+    ]
+  },
+  {
+    "ar": "بطالة",
+    "tr": "baTāla",
+    "en": "unemployment",
+    "msa": "بطالة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "البطالة عالية بين الشباب.",
+    "ex_tr": "il-baTāla 3ālya bēn ish-shabāb.",
+    "ex_en": "Unemployment is high among young people.",
+    "phrases": [
+      {
+        "ar": "نسبة البطالة",
+        "tr": "nisbat il-baTāla",
+        "en": "unemployment rate"
+      },
+      {
+        "ar": "في بطالة",
+        "tr": "fi baTāla",
+        "en": "out of work"
+      }
+    ]
+  },
+  {
+    "ar": "نظام",
+    "tr": "niDHām",
+    "en": "system; order; regime",
+    "msa": "نظام",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "لازم نظام في الحوش.",
+    "ex_tr": "lāzim niDHām fi l-7ōsh.",
+    "ex_en": "There has to be order in the house.",
+    "note": "pl. أنظمة anDHima",
+    "phrases": [
+      {
+        "ar": "بالنظام",
+        "tr": "bin-niDHām",
+        "en": "in an orderly way"
+      },
+      {
+        "ar": "النظام القديم",
+        "tr": "in-niDHām il-gdīm",
+        "en": "the old regime"
+      }
+    ]
+  },
+  {
+    "ar": "سلطة",
+    "tr": "sulTa",
+    "en": "authority; power",
+    "msa": "سلطة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "عنده سلطة كبيرة.",
+    "ex_tr": "3indah sulTa kbīra.",
+    "ex_en": "He has great authority.",
+    "note": "pl. سلطات sulTāt. Not سلاطة salāTa (salad).",
+    "phrases": [
+      {
+        "ar": "السلطات الليبية",
+        "tr": "is-sulTāt il-lībiyya",
+        "en": "the Libyan authorities"
+      },
+      {
+        "ar": "في السلطة",
+        "tr": "fi s-sulTa",
+        "en": "in power"
+      }
+    ]
+  },
+  {
+    "ar": "اتفاق",
+    "tr": "ittifāg",
+    "en": "agreement; deal",
+    "msa": "اتفاق",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "هذا كان الاتفاق بيناتنا.",
+    "ex_tr": "hādha kān il-ittifāg bēnātna.",
+    "ex_en": "That was the agreement between us.",
+    "note": "pl. اتفاقات ittifāgāt; also اتفاقية (treaty).",
+    "phrases": [
+      {
+        "ar": "على اتفاق",
+        "tr": "3la ittifāg",
+        "en": "agreed; in agreement"
+      },
+      {
+        "ar": "حسب الاتفاق",
+        "tr": "7asab il-ittifāg",
+        "en": "as agreed"
+      }
+    ]
+  },
+  {
+    "ar": "مظاهرة",
+    "tr": "muDHāhra",
+    "en": "demonstration; protest",
+    "msa": "مظاهرة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "فيه مظاهرة في الساحة.",
+    "ex_tr": "fīh muDHāhra fi s-sā7a.",
+    "ex_en": "There's a demonstration in the square.",
+    "note": "pl. مظاهرات muDHāhrāt",
+    "phrases": [
+      {
+        "ar": "مظاهرة سلمية",
+        "tr": "muDHāhra silmiyya",
+        "en": "a peaceful protest"
+      },
+      {
+        "ar": "طلعوا مظاهرة",
+        "tr": "Tal3u muDHāhra",
+        "en": "they went out to protest"
+      }
+    ]
+  },
+  {
+    "ar": "استقلال",
+    "tr": "istiglāl",
+    "en": "independence",
+    "msa": "استقلال",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "عيد الاستقلال في أربعة وعشرين ديسمبر.",
+    "ex_tr": "3īd il-istiglāl fi arb3a w-3ishrīn disambar.",
+    "ex_en": "Independence Day is on 24 December.",
+    "note": "Libya became independent on 24 Dec 1951.",
+    "phrases": [
+      {
+        "ar": "عيد الاستقلال",
+        "tr": "3īd il-istiglāl",
+        "en": "Independence Day"
+      },
+      {
+        "ar": "استقلال ليبيا",
+        "tr": "istiglāl lībya",
+        "en": "Libya's independence"
+      }
+    ]
+  },
+  {
+    "ar": "مؤسسة",
+    "tr": "mu'assasa",
+    "en": "institution; organisation",
+    "msa": "مؤسسة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "يخدم في مؤسسة النفط.",
+    "ex_tr": "yikhdim fi mu'assasat in-nafT.",
+    "ex_en": "He works at the oil corporation.",
+    "note": "pl. مؤسسات mu'assasāt",
+    "phrases": [
+      {
+        "ar": "المؤسسة الوطنية للنفط",
+        "tr": "il-mu'assasa l-waTaniyya lin-nafT",
+        "en": "the National Oil Corporation"
+      },
+      {
+        "ar": "مؤسسات الدولة",
+        "tr": "mu'assasāt id-dawla",
+        "en": "state institutions"
+      }
+    ]
+  },
+  {
+    "ar": "منظمة",
+    "tr": "munaDHDHama",
+    "en": "organisation",
+    "msa": "منظمة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 36,
+    "ex_ar": "خدمت مع منظمة دولية.",
+    "ex_tr": "khdimt ma3a munaDHDHama dawliyya.",
+    "ex_en": "I worked with an international organisation.",
+    "note": "pl. منظمات munaDHDHamāt",
+    "phrases": [
+      {
+        "ar": "منظمة خيرية",
+        "tr": "munaDHDHama khayriyya",
+        "en": "a charity organisation"
+      },
+      {
+        "ar": "منظمة الصحة العالمية",
+        "tr": "munaDHDHamat iS-Sa77a l-3ālamiyya",
+        "en": "the World Health Organization"
+      }
+    ]
+  },
+  {
+    "ar": "ميزانية",
+    "tr": "mīzāniyya",
+    "en": "budget",
+    "msa": "ميزانية",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "الميزانية ما تكفيش.",
+    "ex_tr": "il-mīzāniyya ma tikfīsh.",
+    "ex_en": "The budget isn't enough.",
+    "note": "pl. ميزانيات mīzāniyyāt",
+    "phrases": [
+      {
+        "ar": "ميزانية الحوش",
+        "tr": "mīzāniyyat il-7ōsh",
+        "en": "the household budget"
+      },
+      {
+        "ar": "فوق الميزانية",
+        "tr": "fōg il-mīzāniyya",
+        "en": "over budget"
+      }
+    ]
+  },
+  {
+    "ar": "خدمات",
+    "tr": "khadamāt",
+    "en": "services (public)",
+    "msa": "خدمات",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "الخدمات في الحومة ضعيفة.",
+    "ex_tr": "il-khadamāt fi l-7ōma Da3īfa.",
+    "ex_en": "Services in the neighbourhood are poor.",
+    "note": "Plural of خدمة.",
+    "phrases": [
+      {
+        "ar": "خدمات عامة",
+        "tr": "khadamāt 3āmma",
+        "en": "public services"
+      },
+      {
+        "ar": "خدمة العملاء",
+        "tr": "khidmat il-3umalā'",
+        "en": "customer service"
+      }
+    ]
+  },
+  {
+    "ar": "سلاح",
+    "tr": "slā7",
+    "en": "weapon; arms",
+    "msa": "سلاح",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "السلاح لازم يكون عند الدولة بس.",
+    "ex_tr": "is-slā7 lāzim ykūn 3ind id-dawla bass.",
+    "ex_en": "Weapons should only be in the state's hands.",
+    "note": "pl. أسلحة asli7a",
+    "phrases": [
+      {
+        "ar": "حامل سلاح",
+        "tr": "7āmil slā7",
+        "en": "armed"
+      },
+      {
+        "ar": "جمع السلاح",
+        "tr": "jam3 is-slā7",
+        "en": "weapons collection"
+      }
+    ]
+  },
+  {
+    "ar": "هدنة",
+    "tr": "hudna",
+    "en": "truce; ceasefire",
+    "msa": "هدنة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 34,
+    "ex_ar": "عملوا هدنة.",
+    "ex_tr": "3amlu hudna.",
+    "ex_en": "They made a truce.",
+    "phrases": [
+      {
+        "ar": "هدنة مؤقتة",
+        "tr": "hudna mu'aggata",
+        "en": "a temporary truce"
+      },
+      {
+        "ar": "وقف إطلاق النار",
+        "tr": "wagf iTlāg in-nār",
+        "en": "ceasefire"
+      }
+    ]
+  },
+  {
+    "ar": "مصالحة",
+    "tr": "muSāl7a",
+    "en": "reconciliation",
+    "msa": "مصالحة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "صارت مصالحة بين العيلتين.",
+    "ex_tr": "Sārat muSāl7a bēn il-3ēltēn.",
+    "ex_en": "There was a reconciliation between the two families.",
+    "note": "Often done by elders (أعيان) in Libya.",
+    "phrases": [
+      {
+        "ar": "مصالحة وطنية",
+        "tr": "muSāl7a waTaniyya",
+        "en": "national reconciliation"
+      },
+      {
+        "ar": "صلح",
+        "tr": "Sul7",
+        "en": "making peace; settlement"
+      }
+    ]
+  },
+  {
+    "ar": "وحدة",
+    "tr": "wa7da",
+    "en": "unity; loneliness",
+    "msa": "وحدة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "الوحدة صعيبة على الكبار.",
+    "ex_tr": "il-wa7da Sa3ība 3la l-kbār.",
+    "ex_en": "Loneliness is hard for old people.",
+    "note": "Also 'unit'. وحدة وطنية = national unity.",
+    "phrases": [
+      {
+        "ar": "الوحدة الوطنية",
+        "tr": "il-wa7da l-waTaniyya",
+        "en": "national unity"
+      },
+      {
+        "ar": "بروحي في الوحدة",
+        "tr": "b-rū7i fi l-wa7da",
+        "en": "all alone"
+      }
+    ]
+  },
+  {
+    "ar": "إعلام",
+    "tr": "i3lām",
+    "en": "media",
+    "msa": "إعلام",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "الإعلام ما يقولش كل شي.",
+    "ex_tr": "il-i3lām ma ygūlsh kull shī.",
+    "ex_en": "The media don't tell everything.",
+    "phrases": [
+      {
+        "ar": "وسائل الإعلام",
+        "tr": "wasā'il il-i3lām",
+        "en": "the media"
+      },
+      {
+        "ar": "إعلام رسمي",
+        "tr": "i3lām rasmi",
+        "en": "state media"
+      }
+    ]
+  },
+  {
+    "ar": "سعادة",
+    "tr": "sa3āda",
+    "en": "happiness",
+    "msa": "سعادة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "السعادة في الحاجات الصغيرة.",
+    "ex_tr": "is-sa3āda fi l-7ājāt iS-Sghīra.",
+    "ex_en": "Happiness is in little things.",
+    "note": "Also a title: سعادة السفير (His Excellency).",
+    "phrases": [
+      {
+        "ar": "بكل سعادة",
+        "tr": "b-kull sa3āda",
+        "en": "with pleasure"
+      },
+      {
+        "ar": "سعادة السفير",
+        "tr": "sa3ādat is-safīr",
+        "en": "His Excellency the Ambassador"
+      }
+    ]
+  },
+  {
+    "ar": "نفس",
+    "tr": "nafs",
+    "en": "self; soul; appetite",
+    "msa": "نفس",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "ما عنديش نفس ناكل.",
+    "ex_tr": "ma 3andīsh nafs nākil.",
+    "ex_en": "I have no appetite to eat.",
+    "note": "pl. نفوس nfūs. Also 'same' (نفس الحاجة) and نفس nafas (breath).",
+    "phrases": [
+      {
+        "ar": "ثقة في النفس",
+        "tr": "thiga fi n-nafs",
+        "en": "self-confidence"
+      },
+      {
+        "ar": "نفسي نمشي",
+        "tr": "nafsi nimshi",
+        "en": "I'd love to go"
+      }
+    ]
+  },
+  {
+    "ar": "عقل",
+    "tr": "3agl",
+    "en": "mind; reason; sense",
+    "msa": "عقل",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 62,
+    "ex_ar": "استعمل عقلك!",
+    "ex_tr": "ista3mil 3aglik!",
+    "ex_en": "Use your head!",
+    "note": "pl. عقول 3gūl",
+    "phrases": [
+      {
+        "ar": "ما عندهش عقل",
+        "tr": "ma 3andahsh 3agl",
+        "en": "he has no sense"
+      },
+      {
+        "ar": "طار عقله",
+        "tr": "Tār 3aglah",
+        "en": "he lost his mind"
+      }
+    ]
+  },
+  {
+    "ar": "ضمير",
+    "tr": "Damīr",
+    "en": "conscience",
+    "msa": "ضمير",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "ما عندهش ضمير.",
+    "ex_tr": "ma 3andahsh Damīr.",
+    "ex_en": "He has no conscience.",
+    "note": "pl. ضماير Damāyir. Also 'pronoun' in grammar.",
+    "phrases": [
+      {
+        "ar": "بضمير",
+        "tr": "b-Damīr",
+        "en": "conscientiously"
+      },
+      {
+        "ar": "ضميري مرتاح",
+        "tr": "Damīri mirtā7",
+        "en": "my conscience is clear"
+      }
+    ]
+  },
+  {
+    "ar": "خير",
+    "tr": "khēr",
+    "en": "goodness; good; plenty",
+    "msa": "خير",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 1,
+    "usage": 76,
+    "ex_ar": "الله يجازيك خير.",
+    "ex_tr": "allah yjāzīk khēr.",
+    "ex_en": "May God reward you with good.",
+    "note": "Common in greetings: صباح الخير, خير؟ (what's wrong?).",
+    "phrases": [
+      {
+        "ar": "فيه الخير",
+        "tr": "fīh il-khēr",
+        "en": "he's a good person; it's plenty"
+      },
+      {
+        "ar": "عمل خير",
+        "tr": "3amal khēr",
+        "en": "a charitable deed"
+      },
+      {
+        "ar": "الخير كثير",
+        "tr": "il-khēr kthīr",
+        "en": "there's plenty"
+      }
+    ]
+  },
+  {
+    "ar": "شر",
+    "tr": "sharr",
+    "en": "evil; harm",
+    "msa": "شر",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "الله يبعد علينا الشر.",
+    "ex_tr": "allah yib3id 3alēna sh-sharr.",
+    "ex_en": "May God keep evil away from us.",
+    "note": "Libyans say بعيد الشر (far be it!) when someone mentions illness.",
+    "phrases": [
+      {
+        "ar": "بعيد الشر",
+        "tr": "b3īd ish-sharr",
+        "en": "God forbid; far from you"
+      },
+      {
+        "ar": "الخير والشر",
+        "tr": "il-khēr w-ish-sharr",
+        "en": "good and evil"
+      }
+    ]
+  },
+  {
+    "ar": "صدق",
+    "tr": "Sidg",
+    "en": "honesty; truthfulness",
+    "msa": "صدق",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "الصدق ينجي.",
+    "ex_tr": "iS-Sidg yinajji.",
+    "ex_en": "Honesty saves you.",
+    "phrases": [
+      {
+        "ar": "بصدق",
+        "tr": "b-Sidg",
+        "en": "honestly; sincerely"
+      },
+      {
+        "ar": "صدق ولا كذب؟",
+        "tr": "Sidg wala kidhb?",
+        "en": "truth or lie?"
+      }
+    ]
+  },
+  {
+    "ar": "أمانة",
+    "tr": "amāna",
+    "en": "honesty; trust; something entrusted",
+    "msa": "أمانة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "هذي أمانة عندك.",
+    "ex_tr": "hādhi amāna 3andik.",
+    "ex_en": "This is entrusted to you.",
+    "note": "pl. أمانات amānāt",
+    "phrases": [
+      {
+        "ar": "بأمانة",
+        "tr": "b-amāna",
+        "en": "honestly"
+      },
+      {
+        "ar": "أمانة عليك",
+        "tr": "amāna 3alēk",
+        "en": "please, I beg you (lit. a trust on you)"
+      }
+    ]
+  },
+  {
+    "ar": "خيانة",
+    "tr": "khiyāna",
+    "en": "betrayal; treason",
+    "msa": "خيانة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "هذي خيانة.",
+    "ex_tr": "hādhi khiyāna.",
+    "ex_en": "This is betrayal.",
+    "phrases": [
+      {
+        "ar": "خيانة الأمانة",
+        "tr": "khiyānat il-amāna",
+        "en": "breach of trust"
+      },
+      {
+        "ar": "خيانة زوجية",
+        "tr": "khiyāna zawjiyya",
+        "en": "adultery"
+      }
+    ]
+  },
+  {
+    "ar": "وفا",
+    "tr": "wafa",
+    "en": "loyalty; faithfulness",
+    "msa": "وفاء",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "الكلب رمز الوفا.",
+    "ex_tr": "il-kalb ramz il-wafa.",
+    "ex_en": "The dog is a symbol of loyalty.",
+    "note": "Also a girls' name.",
+    "phrases": [
+      {
+        "ar": "أهل الوفا",
+        "tr": "ahl il-wafa",
+        "en": "loyal people"
+      },
+      {
+        "ar": "وفا بالوعد",
+        "tr": "wafa bil-wa3d",
+        "en": "keeping a promise"
+      }
+    ]
+  },
+  {
+    "ar": "رحمة",
+    "tr": "ra7ma",
+    "en": "mercy",
+    "msa": "رحمة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "ربي ينزل عليه الرحمة.",
+    "ex_tr": "rabbi ynazzil 3alēh ir-ra7ma.",
+    "ex_en": "May God send down mercy on him.",
+    "note": "Said of the dead.",
+    "phrases": [
+      {
+        "ar": "الرحمة عليه",
+        "tr": "ir-ra7ma 3alēh",
+        "en": "may he rest in peace"
+      },
+      {
+        "ar": "بلا رحمة",
+        "tr": "bla ra7ma",
+        "en": "mercilessly"
+      }
+    ]
+  },
+  {
+    "ar": "شفقة",
+    "tr": "shafga",
+    "en": "pity",
+    "msa": "شفقة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "ما نبيش شفقة من حد.",
+    "ex_tr": "ma nibbīsh shafga min 7add.",
+    "ex_en": "I don't want pity from anyone.",
+    "phrases": [
+      {
+        "ar": "من الشفقة",
+        "tr": "min ish-shafga",
+        "en": "out of pity"
+      },
+      {
+        "ar": "يحرك الشفقة",
+        "tr": "y7arrik ish-shafga",
+        "en": "it's pitiful"
+      }
+    ]
+  },
+  {
+    "ar": "حنان",
+    "tr": "7anān",
+    "en": "tenderness; affection",
+    "msa": "حنان",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "حنان الأم ما يتعوضش.",
+    "ex_tr": "7anān il-umm ma yit3awwaDsh.",
+    "ex_en": "A mother's tenderness can't be replaced.",
+    "phrases": [
+      {
+        "ar": "بحنان",
+        "tr": "b-7anān",
+        "en": "tenderly"
+      },
+      {
+        "ar": "محتاج حنان",
+        "tr": "mi7tāj 7anān",
+        "en": "in need of affection"
+      }
+    ]
+  },
+  {
+    "ar": "محبة",
+    "tr": "ma7abba",
+    "en": "affection; love",
+    "msa": "محبة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "بيناتنا محبة كبيرة.",
+    "ex_tr": "bēnātna ma7abba kbīra.",
+    "ex_en": "There's great affection between us.",
+    "phrases": [
+      {
+        "ar": "بمحبة",
+        "tr": "b-ma7abba",
+        "en": "with love"
+      },
+      {
+        "ar": "محبة وتقدير",
+        "tr": "ma7abba w-tagdīr",
+        "en": "love and esteem"
+      }
+    ]
+  },
+  {
+    "ar": "صحبة",
+    "tr": "So7ba",
+    "en": "friendship; company",
+    "msa": "صداقة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "صحبتنا من أيام المدرسة.",
+    "ex_tr": "So7batna min ayyām il-madrasa.",
+    "ex_en": "Our friendship goes back to school days.",
+    "note": "Libyan everyday word; صداقة Sadāga is more formal.",
+    "phrases": [
+      {
+        "ar": "صحبة قديمة",
+        "tr": "So7ba gdīma",
+        "en": "an old friendship"
+      },
+      {
+        "ar": "صحبة باهية",
+        "tr": "So7ba bāhya",
+        "en": "good company"
+      }
+    ]
+  },
+  {
+    "ar": "عداوة",
+    "tr": "3adāwa",
+    "en": "enmity; hostility",
+    "msa": "عداوة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "ما بيناتنا حتى عداوة.",
+    "ex_tr": "ma bēnātna 7atta 3adāwa.",
+    "ex_en": "There's no enmity between us at all.",
+    "phrases": [
+      {
+        "ar": "عداوة قديمة",
+        "tr": "3adāwa gdīma",
+        "en": "an old feud"
+      },
+      {
+        "ar": "صحبة وعداوة",
+        "tr": "So7ba w-3adāwa",
+        "en": "friendship and enmity"
+      }
+    ]
+  },
+  {
+    "ar": "إحساس",
+    "tr": "i7sās",
+    "en": "feeling; sense",
+    "msa": "إحساس",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "عندي إحساس إنه بيجي.",
+    "ex_tr": "3andi i7sās innah bayji.",
+    "ex_en": "I have a feeling he'll come.",
+    "note": "pl. أحاسيس a7āsīs",
+    "phrases": [
+      {
+        "ar": "ما عندهش إحساس",
+        "tr": "ma 3andahsh i7sās",
+        "en": "he's insensitive"
+      },
+      {
+        "ar": "إحساس غريب",
+        "tr": "i7sās gharīb",
+        "en": "a strange feeling"
+      }
+    ]
+  },
+  {
+    "ar": "شعور",
+    "tr": "shu3ūr",
+    "en": "feeling; emotion",
+    "msa": "شعور",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "شعور حلو لما ترجع للبلاد.",
+    "ex_tr": "shu3ūr 7ilu lamma tirja3 lil-blād.",
+    "ex_en": "It's a lovely feeling when you return home.",
+    "note": "pl. مشاعر mashā3ir (feelings)",
+    "phrases": [
+      {
+        "ar": "نفس الشعور",
+        "tr": "nafs ish-shu3ūr",
+        "en": "the same feeling"
+      },
+      {
+        "ar": "جرح مشاعره",
+        "tr": "jara7 mashā3rah",
+        "en": "he hurt his feelings"
+      }
+    ]
+  },
+  {
+    "ar": "حيرة",
+    "tr": "7īra",
+    "en": "confusion; perplexity",
+    "msa": "حيرة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "أني في حيرة، ما نعرفش شن ندير.",
+    "ex_tr": "āni fi 7īra, ma na3rafsh shin ndīr.",
+    "ex_en": "I'm torn, I don't know what to do.",
+    "note": "Related to محتار.",
+    "phrases": [
+      {
+        "ar": "في حيرة",
+        "tr": "fi 7īra",
+        "en": "at a loss"
+      },
+      {
+        "ar": "حيرة كبيرة",
+        "tr": "7īra kbīra",
+        "en": "great confusion"
+      }
+    ]
+  },
+  {
+    "ar": "ندم",
+    "tr": "nadam",
+    "en": "regret",
+    "msa": "ندم",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "الندم ما ينفعش توا.",
+    "ex_tr": "in-nadam ma yinfa3sh tawwa.",
+    "ex_en": "Regret is no use now.",
+    "phrases": [
+      {
+        "ar": "بلا ندم",
+        "tr": "bla nadam",
+        "en": "without regret"
+      },
+      {
+        "ar": "ندم كبير",
+        "tr": "nadam kbīr",
+        "en": "deep regret"
+      }
+    ]
+  },
+  {
+    "ar": "ملل",
+    "tr": "malal",
+    "en": "boredom",
+    "msa": "ملل",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "متنا من الملل.",
+    "ex_tr": "mitna min il-malal.",
+    "ex_en": "We were bored to death.",
+    "note": "Libyans also say قلق galag for boredom.",
+    "phrases": [
+      {
+        "ar": "ملل قاتل",
+        "tr": "malal gātil",
+        "en": "deadly boredom"
+      },
+      {
+        "ar": "بلا ملل",
+        "tr": "bla malal",
+        "en": "tirelessly"
+      }
+    ]
+  },
+  {
+    "ar": "خيال",
+    "tr": "khayāl",
+    "en": "imagination; fantasy; shadow",
+    "msa": "خيال",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "هذا كله من خيالك.",
+    "ex_tr": "hādha kullah min khayālik.",
+    "ex_en": "That's all in your imagination.",
+    "phrases": [
+      {
+        "ar": "فيلم خيال علمي",
+        "tr": "film khayāl 3ilmi",
+        "en": "a science-fiction film"
+      },
+      {
+        "ar": "ولا في الخيال",
+        "tr": "wala fi l-khayāl",
+        "en": "beyond imagination"
+      }
+    ]
+  },
+  {
+    "ar": "عقلية",
+    "tr": "3agliyya",
+    "en": "mentality; mindset",
+    "msa": "عقلية",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "عقليته قديمة.",
+    "ex_tr": "3agliytah gdīma.",
+    "ex_en": "His mentality is old-fashioned.",
+    "note": "pl. عقليات 3agliyyāt",
+    "phrases": [
+      {
+        "ar": "عقلية متفتحة",
+        "tr": "3agliyya mitfatt7a",
+        "en": "an open mind"
+      },
+      {
+        "ar": "غير عقليتك",
+        "tr": "ghayyir 3agliytik",
+        "en": "change your mindset"
+      }
+    ]
+  },
+  {
+    "ar": "طبع",
+    "tr": "Tab3",
+    "en": "nature; temperament",
+    "msa": "طبع",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "طبعه هادي.",
+    "ex_tr": "Tab3ah hādi.",
+    "ex_en": "He has a calm nature.",
+    "note": "pl. طباع Tbā3. طبعاً = of course.",
+    "phrases": [
+      {
+        "ar": "الطبع يغلب التطبع",
+        "tr": "iT-Tab3 yighlib it-taTabbu3",
+        "en": "nature beats nurture"
+      },
+      {
+        "ar": "طبعه صعيب",
+        "tr": "Tab3ah Sa3īb",
+        "en": "he's difficult by nature"
+      }
+    ]
+  },
+  {
+    "ar": "أخلاق",
+    "tr": "akhlāg",
+    "en": "morals; manners; character",
+    "msa": "أخلاق",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "راجل صاحب أخلاق.",
+    "ex_tr": "rājil Sā7ib akhlāg.",
+    "ex_en": "A man of good character.",
+    "note": "Plural of خلق khulg.",
+    "phrases": [
+      {
+        "ar": "قلة أخلاق",
+        "tr": "gillat akhlāg",
+        "en": "bad manners"
+      },
+      {
+        "ar": "أخلاقه عالية",
+        "tr": "akhlāgah 3ālya",
+        "en": "he has excellent morals"
+      }
+    ]
+  },
+  {
+    "ar": "أدب",
+    "tr": "adab",
+    "en": "politeness; manners; literature",
+    "msa": "أدب",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "اهدرز بأدب.",
+    "ex_tr": "ihdraz b-adab.",
+    "ex_en": "Speak politely.",
+    "note": "Also 'literature': الأدب العربي.",
+    "phrases": [
+      {
+        "ar": "قلة أدب",
+        "tr": "gillat adab",
+        "en": "rudeness"
+      },
+      {
+        "ar": "بأدب",
+        "tr": "b-adab",
+        "en": "politely"
+      }
+    ]
+  },
+  {
+    "ar": "سلوك",
+    "tr": "sulūk",
+    "en": "behaviour; conduct",
+    "msa": "سلوك",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "سلوكه تغير.",
+    "ex_tr": "sulūkah tghayyar.",
+    "ex_en": "His behaviour has changed.",
+    "phrases": [
+      {
+        "ar": "سلوك باهي",
+        "tr": "sulūk bāhi",
+        "en": "good behaviour"
+      },
+      {
+        "ar": "سوء سلوك",
+        "tr": "sū' sulūk",
+        "en": "misconduct"
+      }
+    ]
+  },
+  {
+    "ar": "حيلة",
+    "tr": "7īla",
+    "en": "trick; ruse; means",
+    "msa": "حيلة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "هذي حيلة باش ياخذ فلوس.",
+    "ex_tr": "hādhi 7īla bāsh yākhidh flūs.",
+    "ex_en": "This is a trick to get money.",
+    "note": "pl. حيل 7iyal. ما في اليد حيلة = there's nothing one can do.",
+    "phrases": [
+      {
+        "ar": "ما في اليد حيلة",
+        "tr": "ma fi l-īd 7īla",
+        "en": "nothing can be done"
+      },
+      {
+        "ar": "حيلة قديمة",
+        "tr": "7īla gdīma",
+        "en": "an old trick"
+      }
+    ]
+  },
+  {
+    "ar": "مفاجأة",
+    "tr": "mufāja'a",
+    "en": "surprise",
+    "msa": "مفاجأة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "عندي مفاجأة ليك.",
+    "ex_tr": "3andi mufāja'a līk.",
+    "ex_en": "I have a surprise for you.",
+    "note": "pl. مفاجآت mufāja'āt",
+    "phrases": [
+      {
+        "ar": "مفاجأة حلوة",
+        "tr": "mufāja'a 7ilwa",
+        "en": "a nice surprise"
+      },
+      {
+        "ar": "بدون مفاجآت",
+        "tr": "bidūn mufāja'āt",
+        "en": "without surprises"
+      }
+    ]
+  },
+  {
+    "ar": "صدفة",
+    "tr": "Sudfa",
+    "en": "coincidence; chance",
+    "msa": "صدفة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "تلاقينا بالصدفة.",
+    "ex_tr": "tlāgēna biS-Sudfa.",
+    "ex_en": "We met by chance.",
+    "note": "pl. صدف Sudaf. Same spelling as صدفة Sadafa (seashell).",
+    "phrases": [
+      {
+        "ar": "بالصدفة",
+        "tr": "biS-Sudfa",
+        "en": "by chance"
+      },
+      {
+        "ar": "صدفة غريبة",
+        "tr": "Sudfa gharība",
+        "en": "a strange coincidence"
+      }
+    ]
+  },
+  {
+    "ar": "نصيحة",
+    "tr": "naSī7a",
+    "en": "advice; piece of advice",
+    "msa": "نصيحة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "نبي نعطيك نصيحة.",
+    "ex_tr": "nibbi n3Tīk naSī7a.",
+    "ex_en": "I want to give you some advice.",
+    "note": "pl. نصايح naSāyi7",
+    "phrases": [
+      {
+        "ar": "خوذ مني نصيحة",
+        "tr": "khūdh minni naSī7a",
+        "en": "take some advice from me"
+      },
+      {
+        "ar": "نصيحة لوجه الله",
+        "tr": "naSī7a l-wajh allah",
+        "en": "sincere advice"
+      }
+    ]
+  },
+  {
+    "ar": "شرط",
+    "tr": "sharT",
+    "en": "condition; requirement",
+    "msa": "شرط",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "عندي شرط واحد.",
+    "ex_tr": "3andi sharT wā7id.",
+    "ex_en": "I have one condition.",
+    "note": "pl. شروط shrūT",
+    "phrases": [
+      {
+        "ar": "بشرط",
+        "tr": "b-sharT",
+        "en": "on condition that"
+      },
+      {
+        "ar": "مش شرط",
+        "tr": "mush sharT",
+        "en": "not necessarily"
+      }
+    ]
+  },
+  {
+    "ar": "اختيار",
+    "tr": "ikhtiyār",
+    "en": "choice; selection",
+    "msa": "اختيار",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "الاختيار ليك.",
+    "ex_tr": "il-ikhtiyār līk.",
+    "ex_en": "The choice is yours.",
+    "note": "pl. اختيارات ikhtiyārāt",
+    "phrases": [
+      {
+        "ar": "اختيار صعيب",
+        "tr": "ikhtiyār Sa3īb",
+        "en": "a hard choice"
+      },
+      {
+        "ar": "عندك اختيار",
+        "tr": "3andik ikhtiyār",
+        "en": "you have a choice"
+      }
+    ]
+  },
+  {
+    "ar": "رغبة",
+    "tr": "raghba",
+    "en": "desire; wish",
+    "msa": "رغبة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "عنده رغبة يكمل قرايته.",
+    "ex_tr": "3indah raghba ykammil grāytah.",
+    "ex_en": "He wants to continue his studies.",
+    "note": "pl. رغبات raghbāt",
+    "phrases": [
+      {
+        "ar": "حسب رغبتك",
+        "tr": "7asab raghbtik",
+        "en": "as you wish"
+      },
+      {
+        "ar": "رغبة قوية",
+        "tr": "raghba gawya",
+        "en": "a strong desire"
+      }
+    ]
+  },
+  {
+    "ar": "اهتمام",
+    "tr": "ihtimām",
+    "en": "interest; attention; care",
+    "msa": "اهتمام",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "ما عندهش اهتمام بالقراية.",
+    "ex_tr": "ma 3andahsh ihtimām bil-grāya.",
+    "ex_en": "He has no interest in studying.",
+    "note": "pl. اهتمامات ihtimāmāt (hobbies, interests)",
+    "phrases": [
+      {
+        "ar": "باهتمام",
+        "tr": "b-ihtimām",
+        "en": "attentively"
+      },
+      {
+        "ar": "اهتماماتك شن هي؟",
+        "tr": "ihtimāmātik shin hi?",
+        "en": "what are your interests?"
+      }
+    ]
+  },
+  {
+    "ar": "انتباه",
+    "tr": "intibāh",
+    "en": "attention",
+    "msa": "انتباه",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "لفت انتباهي.",
+    "ex_tr": "laffat intibāhi.",
+    "ex_en": "It caught my attention.",
+    "note": "انتبه! = watch out!",
+    "phrases": [
+      {
+        "ar": "بانتباه",
+        "tr": "b-intibāh",
+        "en": "carefully"
+      },
+      {
+        "ar": "قلة انتباه",
+        "tr": "gillat intibāh",
+        "en": "lack of attention"
+      }
+    ]
+  },
+  {
+    "ar": "ملاحظة",
+    "tr": "mulā7DHa",
+    "en": "remark; note; observation",
+    "msa": "ملاحظة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "عندي ملاحظة صغيرة.",
+    "ex_tr": "3andi mulā7DHa Sghīra.",
+    "ex_en": "I have a small remark.",
+    "note": "pl. ملاحظات mulā7DHāt",
+    "phrases": [
+      {
+        "ar": "ملاحظة مهمة",
+        "tr": "mulā7DHa muhimma",
+        "en": "an important note"
+      },
+      {
+        "ar": "حط ملاحظة",
+        "tr": "7uTT mulā7DHa",
+        "en": "make a note"
+      }
+    ]
+  },
+  {
+    "ar": "وعد",
+    "tr": "wa3d",
+    "en": "promise",
+    "msa": "وعد",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "هذا وعد مني.",
+    "ex_tr": "hādha wa3d minni.",
+    "ex_en": "That's a promise from me.",
+    "note": "pl. وعود wu3ūd",
+    "phrases": [
+      {
+        "ar": "وعد شرف",
+        "tr": "wa3d sharaf",
+        "en": "a word of honour"
+      },
+      {
+        "ar": "وعد ما يتنساش",
+        "tr": "wa3d ma yitnsāsh",
+        "en": "a promise not to forget"
+      }
+    ]
+  },
+  {
+    "ar": "يمين",
+    "tr": "yamīn",
+    "en": "oath",
+    "msa": "يمين",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "حلف يمين.",
+    "ex_tr": "7laf yamīn.",
+    "ex_en": "He swore an oath.",
+    "note": "Same word as 'right (side)'. pl. أيمان aymān.",
+    "phrases": [
+      {
+        "ar": "يمين الطلاق",
+        "tr": "yamīn iT-Talāg",
+        "en": "divorce oath"
+      },
+      {
+        "ar": "حلف اليمين",
+        "tr": "7alaf il-yamīn",
+        "en": "he took the oath (of office)"
+      }
+    ]
+  },
+  {
+    "ar": "ميزة",
+    "tr": "mīza",
+    "en": "advantage; feature",
+    "msa": "ميزة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "الحوش هذا عنده ميزة، قريب من البحر.",
+    "ex_tr": "il-7ōsh hādha 3indah mīza, grīb min il-ba7r.",
+    "ex_en": "This house has an advantage: it's near the sea.",
+    "note": "pl. ميزات mīzāt / مزايا mazāya",
+    "phrases": [
+      {
+        "ar": "ميزة كبيرة",
+        "tr": "mīza kbīra",
+        "en": "a big advantage"
+      },
+      {
+        "ar": "ميزات وعيوب",
+        "tr": "mīzāt w-3iyūb",
+        "en": "pros and cons"
+      }
+    ]
+  },
+  {
+    "ar": "نقص",
+    "tr": "nagS",
+    "en": "lack; shortage; deficiency",
+    "msa": "نقص",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "فيه نقص في الدوا.",
+    "ex_tr": "fīh nagS fi d-dwa.",
+    "ex_en": "There's a shortage of medicine.",
+    "phrases": [
+      {
+        "ar": "نقص فيتامين",
+        "tr": "nagS vitāmīn",
+        "en": "vitamin deficiency"
+      },
+      {
+        "ar": "نقص في الخدامة",
+        "tr": "nagS fi l-khaddāma",
+        "en": "staff shortage"
+      }
+    ]
+  },
+  {
+    "ar": "تغيير",
+    "tr": "taghyīr",
+    "en": "change",
+    "msa": "تغيير",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "نبي تغيير في حياتي.",
+    "ex_tr": "nibbi taghyīr fi 7ayāti.",
+    "ex_en": "I want a change in my life.",
+    "note": "pl. تغييرات taghyīrāt",
+    "phrases": [
+      {
+        "ar": "تغيير جو",
+        "tr": "taghyīr jaww",
+        "en": "a change of scene"
+      },
+      {
+        "ar": "للتغيير",
+        "tr": "lit-taghyīr",
+        "en": "for a change"
+      }
+    ]
+  },
+  {
+    "ar": "تطور",
+    "tr": "taTawwur",
+    "en": "development; progress",
+    "msa": "تطور",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "فيه تطور في الخدمة.",
+    "ex_tr": "fīh taTawwur fi l-khidma.",
+    "ex_en": "There's progress in the work.",
+    "note": "pl. تطورات taTawwurāt (developments)",
+    "phrases": [
+      {
+        "ar": "آخر التطورات",
+        "tr": "ākhir it-taTawwurāt",
+        "en": "latest developments"
+      },
+      {
+        "ar": "تطور كبير",
+        "tr": "taTawwur kbīr",
+        "en": "great progress"
+      }
+    ]
+  },
+  {
+    "ar": "تقدم",
+    "tr": "tagaddum",
+    "en": "progress; advance",
+    "msa": "تقدم",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "ولدك فيه تقدم في القراية.",
+    "ex_tr": "wildik fīh tagaddum fi l-grāya.",
+    "ex_en": "Your son is progressing in his studies.",
+    "phrases": [
+      {
+        "ar": "تقدم في السن",
+        "tr": "tagaddum fi s-sinn",
+        "en": "getting older"
+      },
+      {
+        "ar": "بلاد متقدمة",
+        "tr": "blād mitgaddma",
+        "en": "a developed country"
+      }
+    ]
+  },
+  {
+    "ar": "مستوى",
+    "tr": "mustawa",
+    "en": "level; standard",
+    "msa": "مستوى",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "المستوى متاعه عالي.",
+    "ex_tr": "il-mustawa mtā3ah 3āli.",
+    "ex_en": "His level is high.",
+    "note": "pl. مستويات mustawayāt",
+    "phrases": [
+      {
+        "ar": "على مستوى",
+        "tr": "3la mustawa",
+        "en": "at the level of"
+      },
+      {
+        "ar": "مستوى المعيشة",
+        "tr": "mustawa l-ma3īsha",
+        "en": "standard of living"
+      }
+    ]
+  },
+  {
+    "ar": "ضغط",
+    "tr": "DaghT",
+    "en": "pressure; stress",
+    "msa": "ضغط",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "الخدمة فيها ضغط هلبة.",
+    "ex_tr": "il-khidma fīha DaghT hallba.",
+    "ex_en": "The work is very stressful.",
+    "note": "ضغط الدم = blood pressure (already in deck).",
+    "phrases": [
+      {
+        "ar": "تحت الضغط",
+        "tr": "ta7t iD-DaghT",
+        "en": "under pressure"
+      },
+      {
+        "ar": "ضغط نفسي",
+        "tr": "DaghT nafsi",
+        "en": "psychological stress"
+      }
+    ]
+  },
+  {
+    "ar": "قوة",
+    "tr": "gūwa",
+    "en": "strength; force; power",
+    "msa": "قوة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "عنده قوة كبيرة.",
+    "ex_tr": "3indah gūwa kbīra.",
+    "ex_en": "He's very strong.",
+    "note": "pl. قوات guwwāt (forces)",
+    "phrases": [
+      {
+        "ar": "بالقوة",
+        "tr": "bil-gūwa",
+        "en": "by force"
+      },
+      {
+        "ar": "قوة الإرادة",
+        "tr": "gūwat il-irāda",
+        "en": "willpower"
+      }
+    ]
+  },
+  {
+    "ar": "ضعف",
+    "tr": "Da3f",
+    "en": "weakness",
+    "msa": "ضعف",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "عنده ضعف في النظر.",
+    "ex_tr": "3indah Da3f fi n-naDHar.",
+    "ex_en": "He has weak eyesight.",
+    "note": "Not ضعف Di3f (double).",
+    "phrases": [
+      {
+        "ar": "نقطة ضعف",
+        "tr": "nugTat Da3f",
+        "en": "weak point"
+      },
+      {
+        "ar": "ضعف عام",
+        "tr": "Da3f 3āmm",
+        "en": "general weakness"
+      }
+    ]
+  },
+  {
+    "ar": "هدوء",
+    "tr": "hudū'",
+    "en": "calm; quiet",
+    "msa": "هدوء",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "نبي شوية هدوء.",
+    "ex_tr": "nibbi shwayya hudū'.",
+    "ex_en": "I want a bit of quiet.",
+    "phrases": [
+      {
+        "ar": "بهدوء",
+        "tr": "b-hudū'",
+        "en": "calmly"
+      },
+      {
+        "ar": "هدوء الليل",
+        "tr": "hudū' il-lēl",
+        "en": "the quiet of the night"
+      }
+    ]
+  },
+  {
+    "ar": "فوضى",
+    "tr": "fawDa",
+    "en": "chaos; mess",
+    "msa": "فوضى",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "الحوش فوضى!",
+    "ex_tr": "il-7ōsh fawDa!",
+    "ex_en": "The house is a mess!",
+    "phrases": [
+      {
+        "ar": "فوضى في الشارع",
+        "tr": "fawDa fi sh-shāri3",
+        "en": "chaos in the streets"
+      },
+      {
+        "ar": "بلا فوضى",
+        "tr": "bla fawDa",
+        "en": "without a mess"
+      }
+    ]
+  },
+  {
+    "ar": "أصل",
+    "tr": "aSl",
+    "en": "origin; root; descent",
+    "msa": "أصل",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "أصله من غريان.",
+    "ex_tr": "aSlah min ghiryān.",
+    "ex_en": "He's originally from Gharyan.",
+    "note": "pl. أصول uSūl (also 'proper manners': الأصول).",
+    "phrases": [
+      {
+        "ar": "في الأصل",
+        "tr": "fi l-aSl",
+        "en": "originally"
+      },
+      {
+        "ar": "ولد أصل",
+        "tr": "wild aSl",
+        "en": "a well-bred man"
+      },
+      {
+        "ar": "حسب الأصول",
+        "tr": "7asab il-uSūl",
+        "en": "properly; by the rules"
+      }
+    ]
+  },
+  {
+    "ar": "عزة",
+    "tr": "3izza",
+    "en": "pride; dignity",
+    "msa": "عزة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "عزة النفس حاجة كبيرة.",
+    "ex_tr": "3izzat in-nafs 7āja kbīra.",
+    "ex_en": "Self-respect is a big thing.",
+    "note": "Also a girls' name.",
+    "phrases": [
+      {
+        "ar": "عزة نفس",
+        "tr": "3izzat nafs",
+        "en": "self-respect"
+      },
+      {
+        "ar": "بعزة",
+        "tr": "b-3izza",
+        "en": "proudly"
+      }
+    ]
+  },
+  {
+    "ar": "كلام",
+    "tr": "klām",
+    "en": "talk; words; speech",
+    "msa": "كلام",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 1,
+    "usage": 86,
+    "ex_ar": "كلامك صح.",
+    "ex_tr": "klāmik Sa77.",
+    "ex_en": "What you say is right.",
+    "note": "كلام فارغ = nonsense.",
+    "phrases": [
+      {
+        "ar": "كلام فارغ",
+        "tr": "klām fārigh",
+        "en": "nonsense"
+      },
+      {
+        "ar": "كلام الناس",
+        "tr": "klām in-nās",
+        "en": "gossip; what people say"
+      },
+      {
+        "ar": "بلا كلام",
+        "tr": "bla klām",
+        "en": "enough talk"
+      }
+    ]
+  },
+  {
+    "ar": "مشاعر",
+    "tr": "mashā3ir",
+    "en": "feelings",
+    "msa": "مشاعر",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "احترم مشاعر الناس.",
+    "ex_tr": "i7tarim mashā3ir in-nās.",
+    "ex_en": "Respect people's feelings.",
+    "note": "Plural of شعور.",
+    "phrases": [
+      {
+        "ar": "بدون مشاعر",
+        "tr": "bidūn mashā3ir",
+        "en": "without feelings"
+      },
+      {
+        "ar": "مشاعر حلوة",
+        "tr": "mashā3ir 7ilwa",
+        "en": "sweet feelings"
+      }
+    ]
+  },
+  {
+    "ar": "حماس",
+    "tr": "7amās",
+    "en": "enthusiasm",
+    "msa": "حماس",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "خدم بحماس.",
+    "ex_tr": "khdim b-7amās.",
+    "ex_en": "He worked enthusiastically.",
+    "note": "Related to متحمس.",
+    "phrases": [
+      {
+        "ar": "بحماس",
+        "tr": "b-7amās",
+        "en": "enthusiastically"
+      },
+      {
+        "ar": "فيه حماس",
+        "tr": "fīh 7amās",
+        "en": "it's exciting"
+      }
+    ]
+  },
+  {
+    "ar": "شجاعة",
+    "tr": "shajā3a",
+    "en": "courage",
+    "msa": "شجاعة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "يبيلها شجاعة.",
+    "ex_tr": "yibbīlha shajā3a.",
+    "ex_en": "It takes courage.",
+    "phrases": [
+      {
+        "ar": "بكل شجاعة",
+        "tr": "b-kull shajā3a",
+        "en": "bravely"
+      },
+      {
+        "ar": "ما عندهش شجاعة",
+        "tr": "ma 3andahsh shajā3a",
+        "en": "he lacks courage"
+      }
+    ]
+  },
+  {
+    "ar": "كسل",
+    "tr": "kasal",
+    "en": "laziness",
+    "msa": "كسل",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "الكسل خلاه ما يكملش.",
+    "ex_tr": "il-kasal khallāh ma ykammilsh.",
+    "ex_en": "Laziness stopped him finishing.",
+    "phrases": [
+      {
+        "ar": "من الكسل",
+        "tr": "min il-kasal",
+        "en": "out of laziness"
+      },
+      {
+        "ar": "كسل الصيف",
+        "tr": "kasal iS-Sēf",
+        "en": "summer lethargy"
+      }
+    ]
+  },
+  {
+    "ar": "غرور",
+    "tr": "ghurūr",
+    "en": "vanity; arrogance",
+    "msa": "غرور",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "عنده غرور زايد.",
+    "ex_tr": "3indah ghurūr zāyid.",
+    "ex_en": "He's too conceited.",
+    "phrases": [
+      {
+        "ar": "بغرور",
+        "tr": "b-ghurūr",
+        "en": "arrogantly"
+      },
+      {
+        "ar": "الغرور خايب",
+        "tr": "il-ghurūr khāyib",
+        "en": "arrogance is bad"
+      }
+    ]
+  },
+  {
+    "ar": "تواضع",
+    "tr": "tawāDu3",
+    "en": "modesty; humility",
+    "msa": "تواضع",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "الكبير يتعرف بتواضعه.",
+    "ex_tr": "il-kbīr yit3arraf b-tawāDu3ah.",
+    "ex_en": "A great man is known by his humility.",
+    "phrases": [
+      {
+        "ar": "بكل تواضع",
+        "tr": "b-kull tawāDu3",
+        "en": "in all modesty"
+      },
+      {
+        "ar": "تواضع وأدب",
+        "tr": "tawāDu3 w-adab",
+        "en": "humility and manners"
+      }
+    ]
+  },
+  {
+    "ar": "جمال",
+    "tr": "jamāl",
+    "en": "beauty",
+    "msa": "جمال",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "جمال البحر في الصيف.",
+    "ex_tr": "jamāl il-ba7r fi S-Sēf.",
+    "ex_en": "The beauty of the sea in summer.",
+    "note": "Also a boys' name. Not جمال jammāl (camel driver).",
+    "phrases": [
+      {
+        "ar": "صالون جمال",
+        "tr": "Sālōn jamāl",
+        "en": "beauty salon"
+      },
+      {
+        "ar": "يا جمال!",
+        "tr": "ya jamāl!",
+        "en": "how beautiful!"
+      }
+    ]
+  },
+  {
+    "ar": "معلومة",
+    "tr": "ma3lūma",
+    "en": "piece of information",
+    "msa": "معلومة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "عندي معلومة مهمة.",
+    "ex_tr": "3andi ma3lūma muhimma.",
+    "ex_en": "I have an important piece of information.",
+    "note": "pl. معلومات ma3lūmāt",
+    "phrases": [
+      {
+        "ar": "للمعلومية",
+        "tr": "lil-ma3lūmiyya",
+        "en": "for your information"
+      },
+      {
+        "ar": "معلومات عامة",
+        "tr": "ma3lūmāt 3āmma",
+        "en": "general knowledge"
+      }
+    ]
+  },
+  {
+    "ar": "مصير",
+    "tr": "maSīr",
+    "en": "fate; destiny",
+    "msa": "مصير",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "مصيرنا بيد ربي.",
+    "ex_tr": "maSīrna b-īd rabbi.",
+    "ex_en": "Our fate is in God's hands.",
+    "phrases": [
+      {
+        "ar": "نفس المصير",
+        "tr": "nafs il-maSīr",
+        "en": "the same fate"
+      },
+      {
+        "ar": "مصير مجهول",
+        "tr": "maSīr majhūl",
+        "en": "an unknown fate"
+      }
+    ]
+  },
+  {
+    "ar": "أمنية",
+    "tr": "umniyya",
+    "en": "wish",
+    "msa": "أمنية",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "أمنيتي نشوف أمي مرتاحة.",
+    "ex_tr": "umniyyti nshūf ummi mirtā7a.",
+    "ex_en": "My wish is to see my mother comfortable.",
+    "note": "pl. أماني amāni",
+    "phrases": [
+      {
+        "ar": "تمنى أمنية",
+        "tr": "tmanna umniyya",
+        "en": "make a wish"
+      },
+      {
+        "ar": "أمنية العمر",
+        "tr": "umniyyat il-3umr",
+        "en": "a lifelong wish"
+      }
+    ]
+  },
+  {
+    "ar": "بال",
+    "tr": "bāl",
+    "en": "mind; attention",
+    "msa": "بال",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 1,
+    "usage": 74,
+    "ex_ar": "ردّ بالك!",
+    "ex_tr": "rudd bālik!",
+    "ex_en": "Watch out!",
+    "note": "In many phrases: ردّ بالك (be careful), على بالي (I thought).",
+    "phrases": [
+      {
+        "ar": "على بالي",
+        "tr": "3la bāli",
+        "en": "I thought; it crossed my mind"
+      },
+      {
+        "ar": "راحة البال",
+        "tr": "rā7at il-bāl",
+        "en": "peace of mind"
+      },
+      {
+        "ar": "خليها في بالك",
+        "tr": "khallīha fi bālik",
+        "en": "keep it in mind"
+      }
+    ]
+  },
+  {
+    "ar": "حرص",
+    "tr": "7irS",
+    "en": "care; carefulness",
+    "msa": "حرص",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 4,
+    "usage": 36,
+    "ex_ar": "خدم بحرص.",
+    "ex_tr": "khdim b-7irS.",
+    "ex_en": "He worked carefully.",
+    "phrases": [
+      {
+        "ar": "بحرص",
+        "tr": "b-7irS",
+        "en": "carefully"
+      },
+      {
+        "ar": "حرص زايد",
+        "tr": "7irS zāyid",
+        "en": "over-caution"
+      }
+    ]
+  },
+  {
+    "ar": "أضحية",
+    "tr": "uD7iyya",
+    "en": "sacrificial animal (Eid al-Adha)",
+    "msa": "أضحية",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "شرينا الأضحية بكري هالعام.",
+    "ex_tr": "shrēna l-uD7iyya bakri ha-l-3ām.",
+    "ex_en": "We bought the sacrificial sheep early this year.",
+    "note": "pl. أضاحي aDā7i. Usually a ram (كبش / علوش).",
+    "phrases": [
+      {
+        "ar": "سوم الأضحية",
+        "tr": "sōm il-uD7iyya",
+        "en": "the price of the Eid sheep"
+      },
+      {
+        "ar": "ذبح الأضحية",
+        "tr": "dhab7 il-uD7iyya",
+        "en": "slaughtering the sacrifice"
+      }
+    ]
+  },
+  {
+    "ar": "ذبيحة",
+    "tr": "dhbī7a",
+    "en": "slaughtered animal; offering",
+    "msa": "ذبيحة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "ذبحوا ذبيحة للضيوف.",
+    "ex_tr": "dhab7u dhbī7a liD-Dyūf.",
+    "ex_en": "They slaughtered an animal for the guests.",
+    "note": "pl. ذبايح dhbāyi7",
+    "phrases": [
+      {
+        "ar": "ذبيحة للعرس",
+        "tr": "dhbī7a lil-3ers",
+        "en": "a slaughter for the wedding"
+      },
+      {
+        "ar": "ذبيحة صدقة",
+        "tr": "dhbī7at Sadga",
+        "en": "a charity slaughter"
+      }
+    ]
+  },
+  {
+    "ar": "بوطبيلة",
+    "tr": "būTbēla",
+    "en": "Ramadan drummer (wakes people for suhoor)",
+    "msa": "المسحراتي",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 4,
+    "usage": 30,
+    "ex_ar": "بوطبيلة يدور في الحومة قبل الفجر.",
+    "ex_tr": "būTbēla ydūr fi l-7ōma gbal il-fajr.",
+    "ex_en": "The suhoor drummer goes round the neighbourhood before dawn.",
+    "note": "Libyan name for the مسحراتي; kids give him money at the end of Ramadan.",
+    "phrases": [
+      {
+        "ar": "نوضوا، بوطبيلة جا!",
+        "tr": "nūDu, būTbēla ja!",
+        "en": "get up, the drummer's here!"
+      },
+      {
+        "ar": "طبل بوطبيلة",
+        "tr": "Tabl būTbēla",
+        "en": "the suhoor drum"
+      }
+    ]
+  },
+  {
+    "ar": "تكبير",
+    "tr": "takbīr",
+    "en": "takbir (chanting Allahu akbar)",
+    "msa": "تكبير",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "نسمعوا التكبير صباح العيد.",
+    "ex_tr": "nisma3u t-takbīr Sbā7 il-3īd.",
+    "ex_en": "We hear the takbir on Eid morning.",
+    "note": "تكبيرات العيد are chanted before the Eid prayer.",
+    "phrases": [
+      {
+        "ar": "تكبيرات العيد",
+        "tr": "takbīrāt il-3īd",
+        "en": "the Eid chants"
+      },
+      {
+        "ar": "الله أكبر",
+        "tr": "allāhu akbar",
+        "en": "God is greatest"
+      }
+    ]
+  },
+  {
+    "ar": "ختمة",
+    "tr": "khatma",
+    "en": "complete Quran recitation",
+    "msa": "ختمة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 36,
+    "ex_ar": "دارو ختمة على روح جدهم.",
+    "ex_tr": "dāru khatma 3la rū7 jiddhum.",
+    "ex_en": "They held a full Quran recitation for their grandfather's soul.",
+    "note": "Often read at funerals and on special occasions.",
+    "phrases": [
+      {
+        "ar": "ختمة القرآن",
+        "tr": "khatmat il-qur'ān",
+        "en": "completion of the Quran"
+      },
+      {
+        "ar": "ختم القرآن",
+        "tr": "khatam il-qur'ān",
+        "en": "he completed (memorising) the Quran"
+      }
+    ]
+  },
+  {
+    "ar": "فتوى",
+    "tr": "fatwa",
+    "en": "fatwa (religious ruling)",
+    "msa": "فتوى",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 36,
+    "ex_ar": "سأل الشيخ على فتوى.",
+    "ex_tr": "sa'al ish-shēkh 3la fatwa.",
+    "ex_en": "He asked the sheikh for a ruling.",
+    "note": "pl. فتاوي fatāwi",
+    "phrases": [
+      {
+        "ar": "دار الإفتاء",
+        "tr": "dār il-iftā'",
+        "en": "the fatwa office"
+      },
+      {
+        "ar": "فتوى شرعية",
+        "tr": "fatwa shar3iyya",
+        "en": "a religious ruling"
+      }
+    ]
+  },
+  {
+    "ar": "نذر",
+    "tr": "nadhr",
+    "en": "vow (religious)",
+    "msa": "نذر",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 34,
+    "ex_ar": "عليا نذر، نصوم ثلاث أيام.",
+    "ex_tr": "3alayya nadhr, nSūm thlātht iyyām.",
+    "ex_en": "I have a vow to fast three days.",
+    "note": "pl. نذور ndhūr",
+    "phrases": [
+      {
+        "ar": "وفى بالنذر",
+        "tr": "wfa bin-nadhr",
+        "en": "he fulfilled his vow"
+      },
+      {
+        "ar": "نذر لله",
+        "tr": "nadhr lillāh",
+        "en": "a vow to God"
+      }
+    ]
+  },
+  {
+    "ar": "كفارة",
+    "tr": "kaffāra",
+    "en": "expiation; atonement",
+    "msa": "كفارة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 34,
+    "ex_ar": "عليه كفارة يمين.",
+    "ex_tr": "3alēh kaffārat yamīn.",
+    "ex_en": "He owes expiation for a broken oath.",
+    "note": "Also said after a minor misfortune: كفارة! (may it be expiation for your sins).",
+    "phrases": [
+      {
+        "ar": "كفارة إن شاء الله",
+        "tr": "kaffāra inshallah",
+        "en": "may it atone for your sins (to someone hurt)"
+      },
+      {
+        "ar": "كفارة الصيام",
+        "tr": "kaffārat iS-Siyām",
+        "en": "expiation for a missed fast"
+      }
+    ]
+  },
+  {
+    "ar": "كسوة العيد",
+    "tr": "kiswat il-3īd",
+    "en": "new Eid clothes",
+    "msa": "كسوة العيد",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "مشينا للسوق نشروا كسوة العيد.",
+    "ex_tr": "mshēna lis-sūg nishru kiswat il-3īd.",
+    "ex_en": "We went to the market to buy the Eid clothes.",
+    "note": "Children get new clothes for Eid al-Fitr.",
+    "phrases": [
+      {
+        "ar": "كسوة الصغار",
+        "tr": "kiswat iS-Sghār",
+        "en": "the kids' clothes"
+      },
+      {
+        "ar": "غالية الكسوة",
+        "tr": "ghālya l-kiswa",
+        "en": "the clothes are expensive"
+      }
+    ]
+  },
+  {
+    "ar": "صلاة العيد",
+    "tr": "Salāt il-3īd",
+    "en": "Eid prayer",
+    "msa": "صلاة العيد",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "صلاة العيد في الساحة الساعة سبعة.",
+    "ex_tr": "Salāt il-3īd fi s-sā7a s-sā3a sab3a.",
+    "ex_en": "The Eid prayer is in the square at seven.",
+    "note": "Held outdoors in a مصلى on Eid morning.",
+    "phrases": [
+      {
+        "ar": "بعد صلاة العيد",
+        "tr": "ba3d Salāt il-3īd",
+        "en": "after the Eid prayer"
+      },
+      {
+        "ar": "مصلى العيد",
+        "tr": "muSalla l-3īd",
+        "en": "the Eid prayer ground"
+      }
+    ]
+  },
+  {
+    "ar": "صلاة الجمعة",
+    "tr": "Salāt ij-jum3a",
+    "en": "Friday prayer",
+    "msa": "صلاة الجمعة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "نتلاقوا بعد صلاة الجمعة.",
+    "ex_tr": "nitlāgu ba3d Salāt ij-jum3a.",
+    "ex_en": "Let's meet after the Friday prayer.",
+    "note": "The main communal prayer; shops close around it.",
+    "phrases": [
+      {
+        "ar": "قبل صلاة الجمعة",
+        "tr": "gbal Salāt ij-jum3a",
+        "en": "before the Friday prayer"
+      },
+      {
+        "ar": "فاتتني صلاة الجمعة",
+        "tr": "fātatni Salāt ij-jum3a",
+        "en": "I missed the Friday prayer"
+      }
+    ]
+  },
+  {
+    "ar": "قعدة",
+    "tr": "g3ada",
+    "en": "get-together; sit-down gathering",
+    "msa": "قعدة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "قعدة الشاهي مع الصحاب ما تتعوضش.",
+    "ex_tr": "g3adat ish-shāhi ma3a S-S7āb ma tit3awwaDsh.",
+    "ex_en": "Tea get-togethers with friends are irreplaceable.",
+    "note": "pl. قعدات g3adāt. Central to Libyan social life.",
+    "phrases": [
+      {
+        "ar": "قعدة حلوة",
+        "tr": "g3ada 7ilwa",
+        "en": "a nice get-together"
+      },
+      {
+        "ar": "قعدة عربية",
+        "tr": "g3ada 3arbiyya",
+        "en": "floor seating (traditional)"
+      }
+    ]
+  },
+  {
+    "ar": "مجاملة",
+    "tr": "mujāmla",
+    "en": "courtesy; compliment; flattery",
+    "msa": "مجاملة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "هذا مش مجاملة، هذي الحقيقة.",
+    "ex_tr": "hādha mush mujāmla, hādhi l-7agīga.",
+    "ex_en": "That's not flattery, it's the truth.",
+    "note": "pl. مجاملات mujāmlāt",
+    "phrases": [
+      {
+        "ar": "بلا مجاملات",
+        "tr": "bla mujāmlāt",
+        "en": "without formalities"
+      },
+      {
+        "ar": "مجاملة اجتماعية",
+        "tr": "mujāmla ijtimā3iyya",
+        "en": "social courtesy"
+      }
+    ]
+  },
+  {
+    "ar": "واجب العزا",
+    "tr": "wājib il-3za",
+    "en": "paying condolences (social duty)",
+    "msa": "واجب العزاء",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "مشينا لواجب العزا في حوش جارنا.",
+    "ex_tr": "mshēna l-wājib il-3za fi 7ōsh jārna.",
+    "ex_en": "We went to pay condolences at our neighbour's house.",
+    "note": "Mourning lasts three days with visitors received at home or in a tent (خيمة).",
+    "phrases": [
+      {
+        "ar": "نديروا الواجب",
+        "tr": "ndīru l-wājib",
+        "en": "we'll do our duty (visit)"
+      },
+      {
+        "ar": "خيمة العزا",
+        "tr": "khēmat il-3za",
+        "en": "the condolence tent"
+      }
+    ]
+  },
+  {
+    "ar": "مصلى",
+    "tr": "muSalla",
+    "en": "prayer area; prayer ground",
+    "msa": "مصلى",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "فيه مصلى في الخدمة.",
+    "ex_tr": "fīh muSalla fi l-khidma.",
+    "ex_en": "There's a prayer room at work.",
+    "note": "pl. مصليات muSallayāt",
+    "phrases": [
+      {
+        "ar": "مصلى النساء",
+        "tr": "muSalla n-nsā",
+        "en": "women's prayer area"
+      },
+      {
+        "ar": "مصلى العيد",
+        "tr": "muSalla l-3īd",
+        "en": "Eid prayer ground"
       }
     ]
   }
