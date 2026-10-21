@@ -78,7 +78,7 @@ test('plan spreads the 1000 core words over the target', () => {
   assert.equal(p.weeks.length, 6);
   assert.equal(p.weeks[5].wordTarget, 1000);
   const late = buildPlan({ totalWords: 1662, introduced: 1000, startedAt: t0, targetDays: 42, now: t0 + 41 * DAY });
-  assert.equal(late.newPerDay, 10);
+  assert.equal(late.newPerDay, 15);
   assert.equal(late.currentWeek, 6);
   const done = buildPlan({ totalWords: 1662, introduced: 1662, startedAt: t0, targetDays: 42, now: t0 });
   assert.equal(done.newPerDay, 0);

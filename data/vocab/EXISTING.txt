@@ -1,0 +1,1663 @@
+# Words already in the deck (ar | tr | en | cat). Do NOT add these again.
+أنا | ana | I | pronouns
+شنو | shinu | what | questions
+في | fi | in; at | prepositions
+و | w | and | conjunctions
+تَوّا | tawwa | now | adverbs
+اليوم | ilyōm | today | time
+واحد | wā7id | one | numbers
+كان | kān | to be | verbs-core
+دخل | dkhal | to enter; to go in | verbs-motion
+هدرز | hadraz | to chat; to talk | verbs-communication
+غسل | ghsal | to wash | verbs-daily
+فكّر | fakkar | to think | verbs-mind
+خدم | khdim | to work | verbs-work
+السلام عليكم | salām 3alēkum | peace be upon you; hello | greetings
+شكرا | shukran | thank you | social
+كبير | kbīr | big; old (in age) | adjectives
+فرحان | far7ān | happy; glad | emotions
+راجل | rājil | man; husband | people
+أم | umm | mother | family
+راس | rās | head | body
+دكتور | doktōr | doctor | health
+حوايج | 7wāyij | clothes | clothing
+حوش | 7ōsh | house; home | home
+خبزة | khubza | bread; a loaf | food
+مية | mayya | water | drink
+كوجينة | kūjīna | kitchen | kitchen
+فلوس | flūs | money | shopping
+لون | lōn | color | colors
+شارع | shāri3 | street | city
+مكينة | makīna | car | travel
+بحر | ba7ar | sea | nature
+كلب | kalb | dog | animals
+خدمة | khidma | work; job | work
+مدرسة | madrasa | school | school
+تلفون | tilifōn | telephone; phone | tech
+عيد | 3īd | Eid; holiday; feast | culture
+إنتَ | inta | you (m. sg.) | pronouns
+شن | shin | what (short form) | questions
+على | 3la | on; about; at | prepositions
+ولا | walla | or | conjunctions
+بعدين | ba3dēn | later; then; afterwards | adverbs
+غدوة | ghudwa | tomorrow | time
+زوز | zūz | two | numbers
+عنده | 3anda | to have | verbs-core
+طلع | Tla3 | to go out; to go up | verbs-motion
+تكلّم | tkallam | to speak; to talk | verbs-communication
+طيّب | Tayyab | to cook | verbs-daily
+فهم | fhim | to understand | verbs-mind
+شرى | shrā | to buy | verbs-work
+وعليكم السلام | w-3alēkum issalām | and upon you peace (reply to hello) | greetings
+صحيت | Sa77ēt | thank you; well done | social
+صغير | Sghīr | small; young | adjectives
+مبسوط | mabsūT | pleased; content; happy | emotions
+مرا | mra | woman; wife | people
+بو | bū | father | family
+عين | 3ēn | eye | body
+دوا | dwa | medicine; medication | health
+قميجة | gmīja | shirt | clothing
+بيت | bēt | room | home
+رز | ruzz | rice | food
+شاهي | shāhi | tea | drink
+معلقة | ma3laga | spoon | kitchen
+دينار | dīnār | dinar (Libyan currency) | shopping
+أحمر | a7mar | red | colors
+طريق | Trīg | road; way | city
+طيارة | Tayyāra | airplane | travel
+شجرة | shajra | tree | nature
+قطوس | gaTTūs | cat (tomcat) | animals
+أستاذ | ustādh | teacher; professor; Mr. (title) | work
+قراية | grāya | studying; schooling | school
+نقّال | naggāl | mobile phone | tech
+عرس | 3ers | wedding | culture
+إنتِ | inti | you (f. sg.) | pronouns
+وين | wīn | where | questions
+من | min | from; of; since | prepositions
+لكن | lākin | but | conjunctions
+ديما | dīma | always | adverbs
+البارح | ilbār7a | yesterday | time
+ثلاثة | thlātha | three | numbers
+بغى | bghā | to want | verbs-core
+روّح | rawwa7 | to go home | verbs-motion
+سأل | sa'al | to ask | verbs-communication
+فاق | fāg | to wake up | verbs-daily
+نسى | nsā | to forget | verbs-mind
+باع | bā3 | to sell | verbs-work
+أهلا | ahlan | hi; welcome | greetings
+يعطيك الصحة | ya3Tīk iSSa77a | thank you; well done (lit. may God give you health) | social
+باهي | bāhi | good; nice; OK | adjectives
+مرتاح | mirtā7 | comfortable; relaxed; at ease | emotions
+صغير | Sghīr | little one; small child | people
+بابا | bāba | dad | family
+يد | yidd | hand; arm | body
+صيدلية | Saydaliyya | pharmacy | health
+سروال | sirwāl | trousers; pants | clothing
+كوزينة | kūzīna | kitchen | home
+لحم | la7am | meat | food
+قهوة | gahwa | coffee; café | drink
+كوشة | kūsha | oven; bakery | kitchen
+سوم | sōm | price | shopping
+أخضر | akhDar | green | colors
+جامع | jāmi3 | mosque | city
+مطار | maTār | airport | travel
+شمس | shams | sun | nature
+علوش | 3allūsh | sheep; lamb (esp. for Eid) | animals
+مرتب | murattab | salary | work
+كتاب | ktāb | book | school
+نت | nett | internet | tech
+صلاة | Salā | prayer | culture
+هو | huwa | he; it (m.) | pronouns
+لوين | l-wīn | where to | questions
+لـ | li- | to; for | prepositions
+على خاطر | 3la khāTir | because | conjunctions
+ياسر | yāsir | a lot; very; too much | adverbs
+الصبح | iSSba7 | morning; in the morning | time
+أربعة | arb3a | four | numbers
+مشى | mshā | to go; to walk | verbs-core
+رجع | rja3 | to return; to come back | verbs-motion
+كلّم | kallam | to call (phone); to talk to | verbs-communication
+لبس | libis | to wear; to get dressed | verbs-daily
+تفكّر | tfakkar | to remember | verbs-mind
+خلّص | khallaS | to pay | verbs-work
+أهلا وسهلا | ahlan wa sahlan | welcome | greetings
+العفو | il3afw | you're welcome; excuse me | social
+خايب | khāyib | bad; ugly | adjectives
+مقهور | magh-hūr | upset; heartbroken; distressed | emotions
+ولد | wild | boy; son | people
+ماما | māma | mum | family
+رجل | rijl | foot; leg | body
+سبيطار | sbīTār | hospital | health
+صباط | SabbāT | shoe; shoes | clothing
+حمّام | 7ammām | bathroom | home
+دجاج | djāj | chicken (meat) | food
+حليب | 7līb | milk | drink
+قداش سومه؟ | gaddāsh sōmah? | How much is it? | shopping
+أزرق | azrag | blue | colors
+طرابلس | Trābles | Tripoli | city
+يمين | yimīn | right (direction) | travel
+شتا | shta | winter; rain | nature
+جاجة | jāja | chicken; hen | animals
+قلم | galam | pen; pencil | school
+صورة | Sūra | picture; photo | tech
+الله | allāh | God | culture
+هي | hiya | she; it (f.) | pronouns
+منين | mnīn | from where | questions
+مع | ma3 | with | prepositions
+كان | kān | if | conjunctions
+هلبة | hallba | a lot; very; many | adverbs
+العشية | il3ashiyya | afternoon; early evening | time
+خمسة | khamsa | five | numbers
+جاء | jā | to come | verbs-core
+وصل | wSal | to arrive | verbs-motion
+قرا | grā | to read; to study | verbs-communication
+شعّل | sha33al | to turn on; to light | verbs-daily
+عجب | 3jab | to like (lit. to please) | verbs-mind
+حلّ | 7all | to open | verbs-work
+أهلا بيك | ahlan bīk | welcome to you; nice to see you | greetings
+بالله | b-allāh | please; by God (when asking) | social
+جديد | jdīd | new | adjectives
+زعلان | za3lān | upset; annoyed; sulking | emotions
+بنت | bint | girl; daughter | people
+خو | khū | brother | family
+قلب | galb | heart | body
+سخانة | skhāna | fever | health
+شنطة | shanTa | bag | clothing
+باب | bāb | door | home
+حوت | 7ūt | fish | food
+حانوت | 7ānūt | shop; small store | shopping
+أصفر | aSfar | yellow | colors
+بنغازي | bin-ghāzi | Benghazi | city
+يسار | yisār | left (direction) | travel
+جو | jaww | weather | nature
+امتحان | imti7ān | exam; test | school
+ضي | Dayy | electricity; power; light | tech
+كورة | kōra | football; ball | culture
+إحنا | i7na | we | pronouns
+كيف | kīf | how | questions
+عند | 3and | at (someone's); with; to have | prepositions
+باش | bāsh | so that; in order to | conjunctions
+شوية | shwayya | a little; a bit | adverbs
+الليل | illēl | night; at night | time
+ستة | sitta | six | numbers
+دار | dār | to do; to make | verbs-core
+ركب | rkib | to ride; to get in | verbs-motion
+سمع | sma3 | to hear; to listen | verbs-communication
+طفى | Tfā | to turn off; to put out | verbs-daily
+خاف | khāf | to fear; to be afraid | verbs-mind
+سكّر | sakkar | to close; to shut | verbs-work
+مرحبا | mar7ba | hello; welcome | greetings
+يرحم والديك | yir7am wāldēk | please (lit. may God have mercy on your parents) | social
+قديم | gdīm | old (things); ancient | adjectives
+متغشش | mitghashshish | angry | emotions
+صاحب | SāHib | friend (male) | people
+أخت | ukht | sister | family
+شعر | sha3r | hair | body
+وجع | wja3 | pain; ache | health
+شباك | shubbāk | window | home
+دحية | da7ya | egg | food
+سوق | sūg | market | shopping
+أكحل | ak7al | black | colors
+حومة | 7ōma | neighborhood; quarter | city
+زحمة | za7ma | traffic jam; crowd | travel
+صيف | Sēf | summer | nature
+عربي | 3arbi | Arabic (language) | school
+بلاد | blād | country; homeland; hometown | culture
+إنتو | intu | you (pl.) | pronouns
+علاش | 3lāsh | why | questions
+تحت | ta7t | under; below | prepositions
+يعني | ya3ni | I mean; that is | conjunctions
+هني | hni | here | adverbs
+نهار | nhār | day; daytime | time
+سبعة | sab3a | seven | numbers
+قال | gāl | to say | verbs-core
+دوّر | dawwar | to look for; to search | verbs-motion
+ورّى | warrā | to show | verbs-communication
+صلّى | Sallā | to pray | verbs-daily
+سڨّم | saggam | to fix; to sort out | verbs-work
+مرحبا بيك | mar7ba bīk | welcome (to you) | greetings
+الله يخليك | allah ykhallīk | please; thank you (lit. may God keep you) | social
+سخون | skhūn | hot | adjectives
+تعبان | ta3bān | tired | emotions
+جار | jār | neighbour (male) | people
+عم | 3amm | paternal uncle | family
+فم | fumm | mouth | body
+وجع راس | wja3 rās | headache | health
+مفتاح | mufta7 | key | home
+جبنة | jibna | cheese | food
+كيلو | kīlu | kilo | shopping
+أبيض | abyaD | white | colors
+مدينة | mdīna | city | city
+ليبيا | lībya | Libya | culture
+هما | humma | they | pronouns
+قداش | gaddāsh | how much; how many | questions
+فوق | fōg | on top of; above | prepositions
+إمبعد | umba3d | and then; so then | conjunctions
+غادي | ghādi | there; over there | adverbs
+يوم | yōm | day | time
+ثمانية | thmānya | eight | numbers
+شاف | shāf | to see; to look | verbs-core
+وقف | wgaf | to stand; to stop | verbs-motion
+لعب | l3ib | to play | verbs-daily
+عاون | 3āwin | to help | verbs-work
+كيف حالك | kīf 7ālik | how are you? | greetings
+إن شاء الله | inshallah | God willing; hopefully | social
+بارد | bārid | cold | adjectives
+قلقان | galgān | bored; fed up | emotions
+ضيف | Dēf | guest | people
+خال | khāl | maternal uncle | family
+سنة | sinna | tooth | body
+حبة | 7abba | pill; tablet | health
+سرير | srīr | bed | home
+خضرة | khuDra | vegetables; greens | food
+حبة | 7abba | piece; item; one (of a countable item) | shopping
+متاعي | mtā3i | mine; my | pronouns
+بقداش | b-gaddāsh | for how much; at what price | questions
+قدام | giddām | in front of | prepositions
+والله | walla | really; by God (emphasis) | conjunctions
+زادة | zāda | also; too | adverbs
+ساعة | sā3a | hour; o'clock; watch | time
+تسعة | tis3a | nine | numbers
+عرف | 3raf | to know | verbs-core
+طاح | Tā7 | to fall | verbs-motion
+شن حوالك | shin 7wālik | how are things? (lit. what are your conditions) | greetings
+ما شاء الله | mashallah | wow; how wonderful (praise, wards off envy) | social
+سريع | sarī3 | fast; quick | adjectives
+خايف | khāyif | afraid; scared | emotions
+ناس | nās | people | people
+عايلة | 3āyla | family | family
+خشم | khashm | nose | body
+صحة | Sa77a | health | health
+طاولة | Tāwla | table | home
+طماطم | TmāTim | tomato; tomatoes | food
+متاعك | mtā3ik | yours (sg.) | pronouns
+مين | mīn | who | questions
+ورا | wra | behind | prepositions
+طول | Tūl | straight; directly; right away | adverbs
+دقيقة | dgīga | minute | time
+عشرة | 3ashra | ten | numbers
+عطى | 3Tā | to give | verbs-core
+زرب | zrab | to hurry | verbs-motion
+شن أخبارك | shin akhbārik | what's new? how are you? (lit. what's your news) | greetings
+الحمد لله | il7amdulillah | praise be to God; thank God | social
+ثقيل | thgīl | heavy; slow (person); unpleasant (person) | adjectives
+متوحش | mitwa77ish | missing (someone/something) | emotions
+شباب | shbāb | young people; guys | people
+أهل | ahl | family; folks; relatives | family
+وذن | widhn | ear | body
+كرسي | kursi | chair | home
+بصل | bSal | onion; onions | food
+متاعه | mtā3a | his; its | pronouns
+وقتاش | waktāsh | when | questions
+بين | bīn | between; among | prepositions
+فيسع | fīsa3 | quickly; fast | adverbs
+جمعة | jum3a | week | time
+عشرين | 3ishrīn | twenty | numbers
+خذا | khdhā | to take | verbs-core
+لاباس | lābās | fine; well; no harm | greetings
+بسم الله | bismillah | in the name of God (before starting something) | social
+خفيف | khfīf | light; quick; easy-going | adjectives
+خوت | khūt | siblings; brothers | family
+وجه | wijh | face | body
+ثلاجة | thallāja | fridge | home
+بطاطا | baTāTa | potato; potatoes | food
+متاعنا | mtā3na | ours | pronouns
+بـ | b- | with (instrument); by; in | prepositions
+مازال | māzāl | still; yet; not yet | adverbs
+شهر | shahr | month | time
+مية | mya | hundred | numbers
+كلا | klā | to eat | verbs-core
+لاباس عليك | lābās 3alēk | are you well? (lit. no harm on you) | greetings
+الله يبارك فيك | allah ybārik fīk | God bless you (reply to congratulations) | social
+ساهل | sāhil | easy | adjectives
+ظهر | DHahr | back | body
+تلفزيون | tilifizyōn | television; TV | home
+كسكسي | kuskusi | couscous | food
+متاع | mtā3 | of; belonging to | pronouns
+حدا | 7dā | next to; beside | prepositions
+خلاص | khalāS | enough; that's it; already done | adverbs
+عام | 3ām | year | time
+ألف | alf | thousand | numbers
+شرب | shrib | to drink | verbs-core
+الحمد لله بخير | il7amdulillah bkhēr | fine, thank God | greetings
+سامحني | sām7ni | sorry; forgive me | social
+صعيب | S3īb | difficult; hard | adjectives
+كرش | karsh | belly; stomach | body
+ضو | Daw | light; electricity | home
+شربة | sharba | soup (Libyan lamb and orzo soup) | food
+هذا | hādha | this (m.) | pronouns
+كيف | kīf | like; as | prepositions
+هكي | hakki | like this; so; thus | adverbs
+وقت | wagt | time | time
+أول | awwil | first | numbers
+رقد | rgad | to sleep; to lie down | verbs-core
+باهي الحمد لله | bāhi il7amdulillah | good, thank God | greetings
+معليش | ma3lēsh | never mind; sorry; it's OK | social
+مسكين | miskīn | poor thing; pitiful; humble | adjectives
+كاس | kās | glass; cup | home
+مكرونة | makarūna | pasta | food
+هذي | hādhi | this (f.) | pronouns
+بعد | ba3d | after | prepositions
+يمكن | yimkin | maybe; perhaps | adverbs
+الأحد | il7add | Sunday | time
+ثاني | thāni | second; other; again | numbers
+ناض | nāD | to get up; to wake up | verbs-core
+تمام | tamām | fine; perfect; all good | greetings
+تفضل | tfaDDal | please; here you go; come in | social
+نظيف | nDHīf | clean | adjectives
+صحن | Sa7n | plate; dish | home
+زيت | zēt | oil; olive oil | food
+هذوما | hādhūma | these | pronouns
+قبل | gbal | before | prepositions
+أكيد | akīd | definitely; sure | adverbs
+الاثنين | litnēn | Monday | time
+آخر | ākhir | last | numbers
+لقى | lgā | to find | verbs-core
+صباح الخير | Sbā7 ilkhēr | good morning | greetings
+يلا | yalla | let's go; come on; OK then | social
+موسخ | mwassikh | dirty | adjectives
+سكر | sukkar | sugar | food
+هذاكا | hādhāka | that (m.) | pronouns
+لين | līn | until; up to | prepositions
+مع بعض | ma3 ba3D | together | adverbs
+الخميس | ilkhmīs | Thursday | time
+نص | nuSS | half | numbers
+حط | 7aTT | to put | verbs-core
+صباح النور | Sbā7 innūr | good morning (reply; lit. morning of light) | greetings
+هيا | hayya | come on; let's go | social
+مليان | malyān | full | adjectives
+ملح | mil7 | salt | food
+هذيكا | hādhīka | that (f.) | pronouns
+برا | barra | outside; out of | prepositions
+لازم | lāzim | must; necessarily | adverbs
+الجمعة | ijjum3a | Friday | time
+نمرة | nimra | number (phone, house, etc.) | numbers
+قعد | g3ad | to sit; to stay; to keep doing | verbs-core
+تصبح على خير | tiSba7 3la khēr | good night (lit. may you wake up well) | greetings
+مبروك | mabrūk | congratulations | social
+فاضي | fāDi | empty; free (not busy) | adjectives
+ماكلة | mākla | food; a dish; a meal | food
+حد | 7add | anyone; someone; (with neg.) no one | pronouns
+ممكن | mumkin | possibly; can (I)? | adverbs
+السبت | issabt | Saturday | time
+حب | 7abb | to love; to like; to want | verbs-core
+بالسلامة | bisslāma | goodbye; safe journey | greetings
+ما فيش مشكلة | ma fīsh mushkila | no problem | social
+غالي | ghāli | expensive; dear | adjectives
+فطور | fTūr | breakfast; iftar (in Ramadan) | food
+حاجة | 7āja | something; thing | pronouns
+مش | mush | not (non-verbal negation) | adverbs
+كل يوم | kull yōm | every day | time
+خلّى | khallā | to let; to leave | verbs-core
+مع السلامة | ma3a issalāma | goodbye (lit. with safety) | greetings
+بالصحة | bisSa77a | enjoy; bon appétit; wear it in good health | social
+رخيص | rkhīS | cheap | adjectives
+غدا | ghda | lunch | food
+كلهم | kullhum | all of them | pronouns
+ما ... ش | ma ... sh | not (verbal negation) | adverbs
+الليلة | illēla | tonight | time
+جاب | jāb | to bring | verbs-core
+الله يسلمك | allah ysallmik | God keep you safe (reply to goodbye) | greetings
+سلامتك | salāmtik | get well soon (lit. your safety) | social
+زين | zēn | beautiful; nice | adjectives
+عشا | 3sha | dinner; supper | food
+اللي | illi | who; which; that (relative) | pronouns
+آه | āh | yes | adverbs
+صار | Sār | to happen; to become | verbs-core
+نشوفك بعدين | nshūfik ba3dēn | see you later | greetings
+بالتوفيق | bittawfīg | good luck | social
+حلو | 7ilu | sweet; nice; pretty | adjectives
+لا | lā | no | adverbs
+قدر | gdar | to be able; can | verbs-core
+حمد الله على السلامة | 7amdilla 3la issalāma | welcome back; glad you arrived safely | greetings
+الله غالب | allah ghālib | it's God's will; nothing can be done | social
+طويل | Twīl | tall; long | adjectives
+كمّل | kammal | to finish; to continue | verbs-core
+وينك | wīnik | where are you? where have you been? | greetings
+كيف ما تبي | kīf ma tibbi | as you wish; whatever you want | social
+قصير | gSīr | short | adjectives
+استنّى | stannā | to wait | verbs-core
+توحشتك | twa77ashtik | I missed you | greetings
+بالراحة | birrā7a | slowly; easy; take it easy | social
+قوي | gawi | strong | adjectives
+سلملي على | sallimli 3la | say hi to … for me | greetings
+حرام | 7arām | shame; what a pity; forbidden | social
+خاسر | khāsir | broken; out of order; spoiled (food) | adjectives
+ألو | alō | hello (on the phone) | greetings
+عيب | 3ēb | shameful; shame on you | social
+مريض | marīD | sick; ill | adjectives
+صح | Sa77 | right; correct; true | social
+مشغول | mashghūl | busy | adjectives
+مش مهم | mush muhimm | it doesn't matter | social
+مفتوح | maftū7 | open | adjectives
+مسكر | msakkar | closed; shut | adjectives
+مهم | muhimm | important | adjectives
+عادي | 3ādi | normal; ordinary; it's fine | adjectives
+شاطر | shāTir | clever; skilled; good at | adjectives
+طيب | Tayyib | kind; good-hearted | adjectives
+ممتاز | mumtāz | excellent | adjectives
+جاهز | jāhiz | ready | adjectives
+مستعجل | mista3jil | in a hurry | adjectives
+ممنوع | mamnū3 | forbidden; not allowed | adjectives
+متاعها | mtā3ha | hers; its (f.) | pronouns
+وينه | wīna | where is he/it? | questions
+بلا | blā | without | prepositions
+خاطر | khāTir | because (short) | conjunctions
+بالشوية | bi-shwayya | slowly; gently | adverbs
+أول البارح | awwil ilbār7a | the day before yesterday | time
+صفر | Sifr | zero | numbers
+ولّى | wallā | to become; to go back | verbs-core
+خش | khashsh | to enter; to go in | verbs-motion
+حكى | 7kā | to tell; to talk | verbs-communication
+تحمّم | t7ammam | to bathe; to take a shower | verbs-daily
+كره | krah | to hate | verbs-mind
+دفع | dfa3 | to pay; to push | verbs-work
+أهلين | ahlēn | hi (warm, friendly) | greetings
+مشكور | mashkūr | thanks (lit. thanked) | social
+شين | shēn | ugly; bad | adjectives
+رايق | rāyig | in a good mood; chilled out | emotions
+طفل | Tifl | child; kid | people
+عمة | 3amma | paternal aunt | family
+لسان | lsān | tongue | body
+مستشفى | mustashfa | hospital (formal) | health
+لبسة | libsa | outfit | clothing
+شقة | shigga | apartment; flat | home
+لحم مفروم | la7am mafrūm | minced meat; ground meat | food
+مية معدنية | mayya ma3daniyya | bottled mineral water | drink
+فنجان | finjān | cup (coffee cup) | kitchen
+فكة | fakka | small change; coins | shopping
+حمرا | 7amra | red (fem.) | colors
+مصرف | maSraf | bank | city
+سيارة | sayyāra | car | travel
+شط | shaTT | beach; seashore | nature
+حيوان | 7aywān | animal | animals
+وظيفة | wDHīfa | job; position; post | work
+جامعة | jām3a | university | school
+موبايل | mōbāyl | mobile phone | tech
+العيد الكبير | il-3īd il-kbīr | Eid al-Adha | culture
+متاعكم | mtā3kum | yours (pl.) | pronouns
+قداش الساعة | gaddāsh issā3a | what time is it | questions
+من غير | min ghēr | without; apart from | prepositions
+لو | lu | if (hypothetical) | conjunctions
+قاع | gā3 | all; completely; (with neg.) at all | adverbs
+بعد غدوة | ba3d ghudwa | the day after tomorrow | time
+حداش | 7dāsh | eleven | numbers
+عاش | 3āsh | to live (be alive) | verbs-core
+خرج | khraj | to go out; to leave | verbs-motion
+جاوب | jāwib | to answer | verbs-communication
+كنس | knas | to sweep | verbs-daily
+تمنّى | tmannā | to hope; to wish | verbs-mind
+فتح | fta7 | to open | verbs-work
+يا هلا | ya hala | hey there; welcome! | greetings
+ولا يهمك | wala yhimmik | don't mention it; no worries | social
+دافي | dāfi | warm | adjectives
+حزين | 7zīn | sad | emotions
+بيبي | bēbi | baby | people
+خالة | khāla | maternal aunt | family
+رقبة | rugba | neck | body
+عيادة | 3yāda | clinic; doctor's office | health
+شلاكة | shlāka | slipper; flip-flop | clothing
+تواليت | twālēt | toilet | home
+لحم علوش | la7am 3allūsh | lamb meat | food
+شاهي أحمر | shāhi a7mar | black tea (strong Libyan tea) | drink
+شوكة | shōka | fork | kitchen
+صرف | Sarf | change (money given back); exchange | shopping
+خضرا | khaDra | green (fem.) | colors
+شرطة | shurTa | police | city
+تاكسي | tāksi | taxi | travel
+صحرا | Sa7ra | desert | nature
+جمل | jmal | camel | animals
+خدّام | khaddām | worker; laborer | work
+طالب | Tālib | student | school
+شاحن | shā7in | charger | tech
+العيد الصغير | il-3īd iS-Sghīr | Eid al-Fitr | culture
+متاعهم | mtā3hum | theirs | pronouns
+متاع مين | mtā3 mīn | whose | questions
+وسط | wusT | in the middle of | prepositions
+حتى | 7atta | even; also (neg.: not even) | conjunctions
+بالكل | bilkull | completely; (neg.) not at all | adverbs
+ليلة | lēla | a night; evening | time
+اثناش | ithnāsh | twelve | numbers
+مات | māt | to die | verbs-core
+هبط | hbaT | to go down; to descend | verbs-motion
+ردّ | radd | to reply; to give back | verbs-communication
+مسح | msa7 | to wipe; to mop; to erase | verbs-daily
+صدّق | Saddag | to believe | verbs-mind
+صلّح | Salla7 | to fix; to repair | verbs-work
+شن الجو | shin ijjaww | what's up? how's it going? | greetings
+تبارك الله | tbārk allah | God bless (admiring) | social
+بطيء | baTī' | slow | adjectives
+معصب | m3aSSib | angry; worked up | emotions
+صاحبة | SāHba | friend (female) | people
+جد | jidd | grandfather | family
+كتف | ktif | shoulder | body
+زكام | zukām | cold (illness); flu | health
+جاكيتة | jākēta | jacket | clothing
+مربوعة | marbū3a | guest room; men's sitting room | home
+تونة | tūna | tuna (canned) | food
+شاهي أخضر | shāhi akhDar | green tea | drink
+برمة | burma | cooking pot | kitchen
+باقي | bāgi | the rest; remaining change | shopping
+زرقا | zarga | blue (fem.) | colors
+ميدان | mīdān | square; plaza | city
+باص | bāS | bus | travel
+رملة | rmla | sand | nature
+حصان | 7Sān | horse | animals
+موظف | mwaDHDHaf | employee; civil servant | work
+درس | dars | lesson | school
+شحن | sha7n | charging; battery charge | tech
+صوم | Sōm | fasting | culture
+هذوماكا | hādhūmāka | those | pronouns
+مع مين | ma3 mīn | with whom | questions
+داخل | dākhil | inside | prepositions
+لما | lamma | when (conj.) | conjunctions
+أبداً | abadan | never; not at all | adverbs
+نص الليل | nuSS illēl | midnight | time
+ثلطاش | thlaTTāsh | thirteen | numbers
+بدا | bdā | to begin; to start | verbs-core
+نزل | nzal | to get off; to go down | verbs-motion
+عيّط | 3ayyaT | to shout; to call for | verbs-communication
+نظّف | naDHDHaf | to clean | verbs-daily
+اختار | ikhtār | to choose | verbs-mind
+بنى | bnā | to build | verbs-work
+كيف أمورك | kīf umūrik | how are your affairs? how's everything? | greetings
+سبحان الله | sub7ān allah | glory be to God; how amazing | social
+غني | ghani | rich | adjectives
+مهدود | mahdūd | exhausted; worn out | emotions
+رفيق | rfīg | friend; companion | people
+جدة | jidda | grandmother | family
+صبع | Sba3 | finger | body
+برد | bard | cold (illness); chill | health
+فستان | fustān | dress | clothing
+صالة | Sāla | living room; hall | home
+زبدة | zibda | butter | food
+مكياطة | makyāTa | macchiato (espresso with milk) | drink
+طاوة | Tāwa | frying pan | kitchen
+سعر | si3r | price; rate | shopping
+صفرا | Safra | yellow (fem.) | colors
+مصراتة | maSrāta | Misrata | city
+جواز | jawāz | passport | travel
+جبل | jbal | mountain | nature
+حمار | 7mār | donkey | animals
+مكتب | maktab | office; desk | work
+كراسة | karrāsa | notebook; exercise book | school
+كمبيوتر | kombyūtar | computer | tech
+أذان | adhān | call to prayer | culture
+روحي | rū7i | myself | pronouns
+إمتى | imta | when | questions
+قبالة | gbāla | opposite; facing | prepositions
+بعد ما | ba3d ma | after (+ verb) | conjunctions
+قريب | grayyib | near; nearby; soon | adverbs
+القايلة | ilgāyla | midday; the hot early afternoon | time
+أربعطاش | arba3Tāsh | fourteen | numbers
+خلص | khlaS | to end; to be finished | verbs-core
+وصّل | waSSal | to give a ride; to deliver | verbs-motion
+كتب | ktib | to write | verbs-communication
+رتّب | rattab | to tidy; to arrange | verbs-daily
+تعلّم | t3allam | to learn | verbs-mind
+سلّف | sallaf | to lend | verbs-work
+كيف الصحة | kīf iSSa77a | how's your health? how are you keeping? | greetings
+أستغفر الله | astaghfirullah | God forgive me (disapproval) | social
+فقير | fgīr | poor | adjectives
+ناعس | nā3is | sleepy | emotions
+جارة | jāra | neighbour (female) | people
+حنّا | 7anna | granny; grandmother | family
+صدر | Sadr | chest | body
+كحة | ku77a | cough | health
+حجاب | 7jāb | hijab; headscarf | clothing
+بيت النوم | bēt in-nōm | bedroom | home
+عسل | 3asal | honey | food
+لبن | laban | buttermilk; laban | drink
+غاز | ghāz | gas stove; cooking gas | kitchen
+بلاش | blāsh | free (of charge) | shopping
+كحلة | ka7la | black (fem.) | colors
+سبها | sabha | Sabha | city
+تذكرة | tadhkra | ticket | travel
+قمرة | gamra | moon | nature
+معزة | ma3za | goat | animals
+مدير | mudīr | manager; boss; director | work
+واجب | wājib | homework; duty | school
+رسالة | risāla | message; letter | tech
+قرآن | qur'ān | Quran | culture
+روحك | rū7ik | yourself | pronouns
+آني | āni | which | questions
+من عند | min 3and | from (a person/place) | prepositions
+قبل ما | gbal ma | before (+ verb) | conjunctions
+بعيد | b3īd | far; far away | adverbs
+الفجر | ilfajr | dawn; dawn prayer | time
+خمسطاش | khamusTāsh | fifteen | numbers
+بقى | bgā | to stay; to remain | verbs-core
+جرى | jrā | to run | verbs-motion
+عاود | 3āwid | to repeat; to say again | verbs-communication
+فيّق | fayyag | to wake (someone) up | verbs-daily
+زعل | z3al | to get upset; to be offended | verbs-mind
+كرى | krā | to rent | verbs-work
+كيف العيلة | kīf il3ēla | how's the family? | greetings
+الله يرحمه | allah yir7ma | God rest his soul | social
+جميل | jmīl | beautiful | adjectives
+مخلوع | makhlū3 | frightened; startled | emotions
+شخص | shakhS | person | people
+ولد عم | wild 3amm | cousin (son of paternal uncle) | family
+ركبة | rukba | knee | body
+جرح | jur7 | wound; cut | health
+بدلة | badla | suit | clothing
+سقف | sagf | ceiling; roof | home
+فواكه | fwākih | fruit; fruits | food
+عصير | 3aSīr | juice | drink
+صينية | Sīniyya | tray; serving tray | kitchen
+سوبرماركت | sūbermārket | supermarket | shopping
+بيضا | bēDa | white (fem.) | colors
+عمارة | 3mara | apartment building; block of flats | city
+فندق | fundug | hotel | travel
+نجمة | nijma | star | nature
+بقرة | bagra | cow | animals
+مهندس | mhandis | engineer | work
+لغة | lugha | language | school
+مكالمة | mkālma | phone call | tech
+موسيقى | mūsīga | music | culture
+وحدي | wa7di | alone (I); by myself | pronouns
+شن بيك | shin bīk | what's wrong with you | questions
+قريب من | grayyib min | near; close to | prepositions
+وإلا | willa | otherwise; or else | conjunctions
+الفوق | il-fōg | upstairs; up | adverbs
+الظهر | iDHDHuhr | noon; noon prayer | time
+سطاش | siTTāsh | sixteen | numbers
+جاع | jā3 | to get hungry | verbs-core
+ساق | sāg | to drive | verbs-motion
+شرح | shra7 | to explain | verbs-communication
+نحّى | na77ā | to take off; to remove | verbs-daily
+تقلّق | tgallag | to get annoyed; to get fed up | verbs-mind
+صرف | Sraf | to spend (money) | verbs-work
+مساء الخير | msā ilkhēr | good evening | greetings
+مسامح | msāme7 | forgiven; it's fine (reply to sorry) | social
+سمين | smīn | fat | adjectives
+مشغول البال | mashghūl ilbāl | worried; preoccupied | emotions
+شاب | shābb | young man | people
+قرايب | grāyib | relatives | family
+جسم | jism | body | body
+مرض | marD | illness; disease | health
+مريول | maryūl | T-shirt; vest | clothing
+سطح | sTa7 | roof terrace; flat roof | home
+ثوم | thūm | garlic | food
+قازوزة | gāzūza | soda; soft drink | drink
+قرعة | gar3a | bottle | kitchen
+محل | ma7all | shop; store | shopping
+قهوي | gahwi | brown (coffee-colored) | colors
+إشارة | ishāra | traffic light | city
+سفرة | safra | trip; journey | travel
+سما | sma | sky | nature
+طير | Tēr | bird | animals
+شركة | sharika | company; firm | work
+إنجليزي | inglīzi | English (language) | school
+فيديو | vīdyu | video | tech
+أغنية | ughniya | song | culture
+كل واحد | kull wā7id | everyone; each one | pronouns
+شن صار | shin Sār | what happened | questions
+بعيد على | b3īd 3la | far from | prepositions
+كيف ما | kīf ma | as; just as; however | conjunctions
+اللوطة | il-lūTa | downstairs; down below | adverbs
+العصر | il3aSr | mid-afternoon; afternoon prayer | time
+واحد وعشرين | wā7id u 3ishrīn | twenty-one | numbers
+شدّ | shadd | to hold; to grab | verbs-core
+سافر | sāfir | to travel | verbs-motion
+عزم | 3zam | to invite | verbs-communication
+حلق | 7lag | to shave; to get a haircut | verbs-daily
+تغشّش | tghashshash | to get angry | verbs-mind
+ربح | rba7 | to win; to profit | verbs-work
+مساء النور | msā innūr | good evening (reply) | greetings
+برا | barra | go away; go on; get out | social
+رقيق | rgīg | thin; slim | adjectives
+متوتر | mitwattir | nervous; tense; stressed | emotions
+شيباني | shībāni | old man | people
+عروسة | 3arūsa | bride | family
+دم | damm | blood | body
+مريض | mrīD | patient; sick person | health
+محفظة | ma7faDHa | wallet | clothing
+دروج | drūj | stairs | home
+فلفل | filfil | pepper (vegetable or spice) | food
+ثلج | thalj | ice | drink
+علبة | 3ulba | can; tin; box | kitchen
+جزار | jazzār | butcher | shopping
+رصاصي | rSāSi | grey | colors
+دوران | dawarān | roundabout | city
+سفر | safar | travel; travelling | travel
+مطر | maTar | rain | nature
+ميكانيكي | mēkanīki | mechanic | work
+سؤال | su'āl | question | school
+رصيد | raSīd | phone credit; balance | tech
+ماتش | mātsh | match; game | culture
+شي | shay | anything; something | pronouns
+شن قلت | shin gult | what did you say | questions
+زعما | za3ma | supposedly; I mean; as if | conjunctions
+لقدام | l-giddām | forward; ahead | adverbs
+المغرب | ilmaghrib | sunset; sunset prayer | time
+ثلاثين | thlāthīn | thirty | numbers
+فات | fāt | to pass (time); to miss | verbs-core
+عدّى | 3addā | to pass; to cross | verbs-motion
+سلّم | sallam | to greet; to hand over | verbs-communication
+فطر | fTar | to have breakfast; to break the fast | verbs-daily
+خلع | khla3 | to get scared; to scare | verbs-mind
+خسر | khsar | to lose (a game, money) | verbs-work
+وانت من أهله | w-inta min ahla | and you too (reply to good night) | greetings
+يرحمك الله | yar7amk allah | bless you (after a sneeze) | social
+ضعيف | Da3īf | weak | adjectives
+متضايق | mitDāyig | upset; uncomfortable; annoyed | emotions
+عجوز | 3ajūz | old woman | people
+عريس | 3rīs | groom | family
+إبرة | ibra | injection; needle | health
+نظارات | naDHDHārāt | glasses; spectacles | clothing
+حيط | 7ēT | wall | home
+خيار | khyār | cucumber; cucumbers | food
+مواعين | mwā3īn | dishes; dishware | kitchen
+زبون | zbūn | customer | shopping
+برتقاني | burtgāni | orange (color) | colors
+محطة | ma7aTTa | station; petrol station | city
+شنطة | shanTa | suitcase; bag | travel
+ريح | rī7 | wind | nature
+دوام | dawām | working hours; shift | work
+جواب | jwāb | answer; reply | school
+شبكة | shabka | network; signal | tech
+فريق | frīg | team | culture
+كلنا | kullna | all of us | pronouns
+قداش عمرك | gaddāsh 3umrik | how old are you | questions
+لورا | l-wra | back; backwards | adverbs
+العشا | il3asha | nightfall prayer; dinner | time
+أربعين | arb3īn | forty | numbers
+ضاع | Dā3 | to get lost | verbs-core
+حوّس | 7awwas | to wander around; to go out for a drive | verbs-motion
+بعث | ba3ath | to send | verbs-communication
+تغدّى | tghaddā | to have lunch | verbs-daily
+فرح | fri7 | to be happy; to rejoice | verbs-mind
+ضيّع | Dayya3 | to lose (an object); to waste | verbs-work
+في أمان الله | fi amān allah | goodbye (lit. in God's protection) | greetings
+الله يشفيك | allah yishfīk | may God heal you | social
+واسع | wāsi3 | wide; spacious; loose | adjectives
+مغروم | maghrūm | in love | emotions
+حاج | 7ājj | respected elder (man); pilgrim | people
+تحليل | ta7līl | medical test; lab analysis | health
+جيب | jēb | pocket | clothing
+عفش | 3afsh | furniture; belongings | home
+فول | fūl | fava beans | food
+فاتورة | fātūra | bill; invoice | shopping
+وردي | wardi | pink | colors
+زنقة | zanga | alley; narrow street | city
+بنزينة | banzīna | petrol; gasoline | travel
+سخانة | skhāna | heat; hot weather | nature
+إجازة | ijāza | leave; vacation (from work) | work
+كلمة | kilma | word | school
+شاشة | shāsha | screen | tech
+قول | gōl | goal (football) | culture
+هاني | hāni | here I am | pronouns
+ولا لا | walla lā | or not | questions
+طبعاً | Tab3an | of course | adverbs
+نص ساعة | nuSS sā3a | half an hour | time
+خمسين | khamsīn | fifty | numbers
+ضرب | Drab | to hit; to strike | verbs-core
+لحق | l7ag | to catch up; to make it in time | verbs-motion
+ضحك | D7ak | to laugh | verbs-communication
+تعشّى | t3ashshā | to have dinner | verbs-daily
+توحّش | twa77ash | to miss (someone) | verbs-mind
+درس | dras | to study | verbs-work
+نتلاقوا | nitlāgu | see you; we'll meet | greetings
+كل عام وانت بخير | kull 3ām w-inta bkhēr | happy holidays; happy birthday (lit. every year may you be well) | social
+ضيق | Dayyig | narrow; tight | adjectives
+متوحش البلاد | mitwa77ish ilblād | homesick | emotions
+كبار | kbār | adults; elders | people
+ممرضة | mumarriDa | nurse (female) | health
+مخدة | mkhadda | pillow | home
+حمص | 7ummuS | chickpeas | food
+حساب | 7sāb | the bill; account | shopping
+فاتح | fāti7 | light (shade) | colors
+وسط البلاد | wusT il-blād | downtown; city center | city
+عنوان | 3unwān | address | travel
+برد | bard | cold; cold weather | nature
+علم | 3alam | flag | culture
+صح | Sa77 | right?; isn't it? | questions
+تقريباً | tagrīban | approximately; almost | adverbs
+ربع ساعة | rub3 sā3a | a quarter of an hour | time
+ستين | sittīn | sixty | numbers
+عاين | 3āyin | to look at; to watch | verbs-core
+قرّب | garrab | to come near; to approach | verbs-motion
+بكى | bkā | to cry | verbs-communication
+سخّن | sakhkhan | to heat up | verbs-daily
+ركّز | rakkaz | to concentrate; to focus | verbs-mind
+نجح | nja7 | to pass; to succeed | verbs-work
+وين الغيبة | wīn ilghēba | where have you been? long time no see | greetings
+عيدكم مبروك | 3īdkum mabrūk | happy Eid | social
+عالي | 3āli | high; tall (building); loud | adjectives
+مشتاق | mishtāg | longing; missing | emotions
+جماعة | jmā3a | group of people; folks | people
+إسعاف | is3āf | ambulance; first aid | health
+بطانية | baTTāniyya | blanket | home
+سلاطة | slāTa | salad | food
+شكارة | shkāra | plastic bag; carrier bag | shopping
+غامق | ghāmig | dark (shade) | colors
+قبلي | gibli | ghibli (hot desert wind) | nature
+عطلة | 3uTla | public holiday; day off | culture
+بالضبط | biDDabT | exactly | adverbs
+الجمعة الجاية | ijjum3a ijjāya | next week | time
+ميتين | mītēn | two hundred | numbers
+لوّح | lawwa7 | to throw away; to toss | verbs-core
+شال | shāl | to carry; to pick up | verbs-motion
+كذب | kdhab | to lie | verbs-communication
+قضى | gDā | to shop (for groceries); to run errands | verbs-daily
+صبر | Sbar | to be patient | verbs-mind
+قرّا | garrā | to teach | verbs-work
+زمان عليك | zamān 3alēk | long time no see | greetings
+ربي يوفقك | rabbi ywaffgik | may God grant you success | social
+ناشف | nāshif | dry; stiff | adjectives
+محشوم | ma7shūm | embarrassed; ashamed; shy | emotions
+ليبي | lībi | Libyan (person) | people
+عملية | 3amaliyya | operation; surgery | health
+دولاب | dūlāb | wardrobe; cupboard | home
+نعناع | na3nā3 | mint | food
+لتر | litr | liter | shopping
+ربيع | rbī3 | spring (season) | nature
+حلال | 7lāl | permissible; halal | culture
+كيف كيف | kīf kīf | the same; equally | adverbs
+الجمعة اللي فاتت | ijjum3a illi fātit | last week | time
+ألفين | alfēn | two thousand | numbers
+حس | 7ass | to feel | verbs-core
+هزّ | hazz | to take; to carry | verbs-motion
+طلب | Tlab | to ask for; to order | verbs-communication
+حضّر | 7aDDar | to prepare | verbs-daily
+حشم | 7sham | to be shy; to be embarrassed | verbs-mind
+استعمل | ista3mal | to use | verbs-work
+نورت | nawwart | you've brightened the place; welcome (to a guest) | greetings
+ربي يحفظك | rabbi ya7fDHik | God protect you | social
+مبلول | mablūl | wet | adjectives
+غيران | ghayrān | jealous | emotions
+سكر | sukkar | diabetes; sugar | health
+مراية | mrāya | mirror | home
+تفاح | tiffā7 | apple; apples | food
+باكو | bāku | pack; packet | shopping
+نخلة | nakhla | palm tree | nature
+مسلسل | msalsal | TV series | culture
+ساعات | sā3āt | sometimes | adverbs
+سنة | sana | year | time
+ثالث | thālith | third | numbers
+كبر | kbar | to grow up; to get older | verbs-core
+زار | zār | to visit | verbs-motion
+خبّر | khabbar | to inform; to let know | verbs-communication
+جهّز | jahhaz | to get ready; to prepare | verbs-daily
+تعوّد | t3awwad | to get used to | verbs-mind
+جرّب | jarrab | to try; to test | verbs-work
+على راسي | 3la rāsi | with pleasure; gladly (lit. on my head) | social
+مالح | māle7 | salty | adjectives
+مستغرب | mistaghrib | surprised; astonished | emotions
+ضغط | DaghT | blood pressure | health
+غسالة | ghassāla | washing machine | home
+برتقان | burtgān | orange (fruit); oranges | food
+طابور | Tābūr | queue; line | shopping
+وردة | warda | flower; rose | nature
+مرات | marrāt | sometimes; at times | adverbs
+العام الجاي | il3ām ijjāy | next year | time
+ربع | rub3 | quarter | numbers
+عام | 3ām | to swim | verbs-motion
+تعارك | t3ārak | to quarrel; to fight | verbs-communication
+قطّع | gaTTa3 | to cut up; to chop | verbs-daily
+سامح | sāma7 | to forgive | verbs-mind
+حاول | 7āwil | to try; to attempt | verbs-work
+من عيني | min 3ēni | gladly; right away (lit. from my eye) | social
+حار | 7ārr | spicy; hot (taste) | adjectives
+محتار | mi7tār | confused; undecided | emotions
+علاج | 3lāj | treatment; cure | health
+مكيف | mkayyif | air conditioner | home
+موز | mūz | banana; bananas | food
+كاش | kāsh | cash | shopping
+أكثر | akthar | more | adverbs
+العام اللي فات | il3ām illi fāt | last year | time
+إلا | illa | minus; to (in telling time) | numbers
+تحرّك | t7arrak | to move; to get going | verbs-motion
+علّم | 3allam | to teach | verbs-communication
+تعب | t3ab | to get tired | verbs-daily
+كسر | ksar | to break | verbs-work
+على كيفك | 3la kēfik | as you like; take your time | social
+طري | Tari | soft; tender; fresh (bread) | adjectives
+متحمس | mit7ammis | excited; enthusiastic | emotions
+حرارة | 7arāra | temperature (body); heat | health
+لمبة | lamba | light bulb; lamp | home
+تمر | tmar | dates (fruit) | food
+دولار | dūlār | dollar | shopping
+كفاية | kifāya | enough | adverbs
+زمان | zmān | long ago; old times | time
+رقم | ragm | number; digit | numbers
+سكت | skit | to be quiet; to fall silent | verbs-communication
+ارتاح | irtā7 | to rest; to relax | verbs-daily
+خرّب | kharrab | to ruin; to break | verbs-work
+ما تقلقش | ma tiglagsh | don't worry | social
+قاسح | gāsi7 | hard (solid); tough; stern | adjectives
+راضي | rāDi | satisfied; content | emotions
+تعب | ta3ab | tiredness; fatigue | health
+سجادة | sajjāda | carpet; rug; prayer mat | home
+دلاع | dallā3 | watermelon | food
+بالحق | bil7agg | really; truly; seriously | adverbs
+قبل شوية | gbal shwayya | a little while ago | time
+دعى | d3ā | to pray for; to wish (someone) well | verbs-communication
+تفرّج | tfarraj | to watch (TV, a show) | verbs-daily
+قبض | gbaD | to get paid; to catch | verbs-work
+يا ريت | ya rēt | I wish; if only | social
+طازة | Tāza | fresh | adjectives
+وحيد | wa7īd | lonely; alone; only (child) | emotions
+دوش | dūsh | shower | home
+زيتون | zītūn | olives | food
+متأخر | mit'akhkhir | late | adverbs
+بعد شوية | ba3d shwayya | in a little while | time
+حلف | 7laf | to swear (an oath) | verbs-communication
+سهر | sihar | to stay up late; to spend the evening out | verbs-daily
+شغّل | shaghghal | to turn on; to employ | verbs-work
+يا خسارة | ya khsāra | what a pity; too bad | social
+مكسور | maksūr | broken (snapped, shattered) | adjectives
+حنين | 7nīn | tender-hearted; affectionate | emotions
+فوطة | fūTa | towel | home
+ليمون | līmūn | lemon; lemons | food
+توا توا | tawwa tawwa | right now; immediately | adverbs
+الثلاثاء | ithlātha | Tuesday | time
+فدلك | fadlak | to joke; to kid around | verbs-communication
+غيّر | ghayyar | to change | verbs-daily
+تأخّر | t'akhkhar | to be late | verbs-work
+يا ربي | ya rabbi | oh God; oh Lord | social
+صحيح | Sa7ī7 | correct; true; healthy | adjectives
+فرحة | far7a | joy; happiness | emotions
+صابون | Sābūn | soap | home
+بازين | bāzīn | bazin (barley dough dome served with sauce) | food
+مرة | marra | once; one time | adverbs
+الأربعاء | larb3a | Wednesday | time
+عبّى | 3abbā | to fill | verbs-daily
+بطّل | baTTal | to stop (doing); to quit | verbs-work
+يا راجل | ya rājil | come on, man! (disbelief) | social
+غالط | ghāliT | wrong; mistaken | adjectives
+زعل | za3al | upset; displeasure; anger | emotions
+زبلة | zibla | rubbish; trash | home
+مبكبكة | mbakbka | mbakbka (spicy one-pot pasta) | food
+برك | bark | only; just | adverbs
+الصيف | iSSēf | summer | time
+شحن | sha7an | to charge (a phone) | verbs-daily
+دقّ | dagg | to knock; to ring | verbs-work
+معقول | ma3gūl | really? is it possible?; reasonable | social
+ميت | mayyit | dead | adjectives
+خوف | khōf | fear | emotions
+براد | barrād | teapot | home
+مرقة | marga | sauce; stew broth | food
+على طول | 3la Tūl | right away; all the time | adverbs
+الشتا | ishshta | winter; rain | time
+مرض | mriD | to get sick | verbs-daily
+مية مية | miyya miyya | perfect; 100% | social
+غريب | gharīb | strange; foreign; stranger | adjectives
+حب | 7ubb | love | emotions
+سكينة | sikkīna | knife | home
+صلصة | SalSa | tomato paste | food
+ميسالش | mīsālish | never mind; it doesn't matter | adverbs
+رمضان | ramDān | Ramadan | time
+سكن | skin | to live (reside) | verbs-daily
+الله يهديك | allah yahdīk | come on, behave (lit. may God guide you) | social
+مشهور | mash-hūr | famous | adjectives
+هم | hamm | worry; care; burden | emotions
+هريسة | harīsa | harissa (chili paste) | food
+العيد | il3īd | Eid; the feast | time
+عرّس | 3arras | to get married | verbs-daily
+إن شاء الله خير | inshallah khēr | hopefully it's good news; I hope all is well | social
+ذكي | dhki | smart; intelligent | adjectives
+صبر | Sabr | patience | emotions
+بهارات | bahārāt | spices; spice mix | food
+عمر | 3umr | age; lifetime | time
+خير إن شاء الله | khēr inshallah | what's up? (is everything OK?) | social
+مهبول | mahbūl | crazy; silly | adjectives
+مزاج | mizāj | mood | emotions
+دقيق | dgīg | flour | food
+موعد | maw3id | appointment; set time | time
+كسلان | kaslān | lazy | adjectives
+أعصاب | a3Sāb | nerves | emotions
+حلو | 7lū | sweets; dessert | food
+نشيط | nshīT | active; energetic | adjectives
+الغربة | ilghurba | being away from home; life abroad | emotions
+كاكاوية | kākāwiya | peanuts | food
+كريم | karīm | generous | adjectives
+سندويتش | sandawitsh | sandwich | food
+بخيل | bkhīl | stingy; mean (with money) | adjectives
+بيتزا | pītza | pizza | food
+صادق | Sādig | honest; truthful | adjectives
+كذاب | kadhdhāb | liar; lying | adjectives
+مربي | mrabbi | well-mannered; polite (lit. well raised) | adjectives
+هادي | hādi | calm; quiet | adjectives
+ساكت | sākit | silent; quiet (not talking) | adjectives
+خطير | khTīr | dangerous; serious; awesome (slang) | adjectives
+هايل | hāyil | great; awesome; huge | adjectives
+كامل | kāmil | complete; whole; all | adjectives
+ناقص | nāgiS | lacking; incomplete; minus | adjectives
+أصلي | aSli | original; genuine | adjectives
+حقيقي | 7agīgi | real; true | adjectives
+واضح | wāDi7 | clear; obvious | adjectives
+شايب | shāyib | old; grey-haired (person) | adjectives
+ظريف | DHrīf | nice; charming; funny | adjectives
+بعضهم | ba3Dhum | some of them; each other | pronouns
+علاش لا | 3lāsh lā | why not | questions
+ضد | Didd | against | prepositions
+وقت اللي | wagt illi | when; at the time that | conjunctions
+أقل | agall | less | adverbs
+ثانية | thānya | second (time) | time
+سبعطاش | saba3Tāsh | seventeen | numbers
+عطش | 3Tish | to get thirsty | verbs-core
+طار | Tār | to fly | verbs-motion
+فسّر | fassar | to explain | verbs-communication
+نشر | nshar | to hang out (laundry) | verbs-daily
+تذكّر | tdhakkar | to remember; to recall | verbs-mind
+تسلّف | tsallaf | to borrow | verbs-work
+يوصل | yūSil | will do (reply to 'say hi for me'; lit. it will arrive) | greetings
+العافية | il3āfya | good health; well-being | social
+واطي | wāTi | low | adjectives
+مغبون | maghbūn | sad; down; wronged | emotions
+وليد | wlēd | little boy | people
+والد | wālid | father (polite) | family
+ضرس | Dirs | molar | body
+طبيب | Tbīb | physician | health
+كبّوط | kabbūT | coat; overcoat | clothing
+دار | dār | house; dwelling | home
+خبزة تنور | khubzat tannūr | tannūr bread (flatbread baked in a clay oven) | food
+شاهي بالكاكاوية | shāhi bil-kākāwiya | tea with peanuts | drink
+كوب | kūb | mug; cup | kitchen
+درهم | dirham | dirham (1/1000 dinar) | shopping
+ملوّن | mlawwan | colorful; colored | colors
+بريد | barīd | post office; mail | city
+رحلة | ri7la | trip; outing; flight | travel
+عجاج | 3jāj | dust storm; dust in the air | nature
+كبش | kebsh | ram | animals
+معلم | m3allim | teacher; master craftsman | work
+كلية | kulliyya | faculty; college | school
+بطارية | baTTāriyya | battery | tech
+ليلة الحنة | lēlat il-7enna | henna night | culture
+الثانيين | ithānyīn | the others | pronouns
+لمين | l-mīn | to whom; for whom | questions
+عقب | 3gub | after (Libyan) | prepositions
+إنّ | inn | that (complementizer) | conjunctions
+فعلاً | fi3lan | really; indeed | adverbs
+تاريخ | tārīkh | date; history | time
+ثمنطاش | thmanTāsh | eighteen | numbers
+مسك | msak | to hold; to catch | verbs-core
+لفّ | laff | to turn; to wrap | verbs-motion
+غنّى | ghannā | to sing | verbs-communication
+طوى | Twā | to fold | verbs-daily
+توقّع | twagga3 | to expect | verbs-mind
+وفّر | waffar | to save (money) | verbs-work
+منور بأهله | mnawwar b-ahla | it's bright thanks to its people (reply to نورت) | greetings
+عظم الله أجركم | 3aDHDHam allah ajrakum | my condolences | social
+مر | murr | bitter | adjectives
+مهموم | mahmūm | troubled; worried; full of cares | emotions
+بنية | bnayya | little girl | people
+بنت عم | bint 3amm | cousin (daughter of paternal uncle) | family
+شفة | shiffa | lip | body
+صداع | Sudā3 | headache (formal); migraine | health
+عباية | 3abāya | abaya; loose robe | clothing
+أرضية | arDiyya | floor | home
+لحم بقري | la7am bagri | beef | food
+رغوة | raghwa | foam (on Libyan tea) | drink
+كسكاس | kaskās | couscous steamer | kitchen
+مول | mōl | shopping mall | shopping
+بني | bunni | brown | colors
+مركز شرطة | markaz shurTa | police station | city
+خريطة | kharīTa | map | travel
+خريف | kharīf | autumn | nature
+غنم | ghnam | sheep (flock); livestock | animals
+شرطي | shurTi | police officer | work
+تلميذ | tilmīdh | pupil; schoolchild | school
+لابتوب | lābtōb | laptop | tech
+دعاء | du3a | supplication; prayer (personal) | culture
+راني | rāni | I am (presentative) | pronouns
+كم | kam | how many (with noun) | questions
+على جال | 3la jāl | for the sake of; because of | prepositions
+يا ... يا | yā ... yā | either ... or | conjunctions
+بكري | bakri | early; in the past | adverbs
+يناير | yanāyir | January | time
+تسعطاش | tisa3Tāsh | nineteen | numbers
+خبّى | khabbā | to hide | verbs-core
+تمشّى | tmashshā | to take a walk | verbs-motion
+شكر | shkar | to thank | verbs-communication
+كوى | kwā | to iron | verbs-daily
+شكّ | shakk | to doubt; to suspect | verbs-mind
+سقط | sgaT | to fail (an exam) | verbs-work
+رمضان كريم | ramaDān karīm | happy Ramadan (lit. Ramadan is generous) | social
+حامض | 7āmiD | sour | adjectives
+مضغوط | maDghūT | stressed; under pressure | emotions
+شابة | shābba | young woman | people
+ولد خال | wild khāl | cousin (son of maternal uncle) | family
+خد | khadd | cheek | body
+إصابة | iSāba | injury | health
+طاقية | Tāgiyya | skullcap; cap | clothing
+دور | dōr | floor; storey | home
+قديد | gadīd | dried salted meat | food
+طاسة | Tāsa | round (of tea); serving of tea | drink
+فريزر | frīzer | freezer | kitchen
+سوق الخضرة | sūg il-khuDra | vegetable market | shopping
+رمادي | rmādi | grey; ash-colored | colors
+الزاوية | iz-zāwya | Zawiya | city
+فيزا | vīza | visa | travel
+فصل | faSl | season | nature
+ديك | dīk | rooster | animals
+اجتماع | ijtimā3 | meeting | work
+طلياني | Talyāni | Italian (language or person) | school
+رنّة | ranna | ring; missed call | tech
+حج | 7ajj | Hajj pilgrimage | culture
+كيفاش | kīfāsh | how (in what way) | questions
+بدل | badal | instead of | prepositions
+لا ... ولا | lā ... wala | neither ... nor | conjunctions
+من جديد | min jdīd | again; anew | adverbs
+فبراير | fibrāyir | February | time
+سبعين | sab3īn | seventy | numbers
+وقع | wga3 | to fall; to happen | verbs-core
+هرب | hrab | to run away; to escape | verbs-motion
+وعد | w3ad | to promise | verbs-communication
+مشّط | mashshaT | to comb | verbs-daily
+قرّر | garrar | to decide | verbs-mind
+ساعد | sā3id | to help; to assist | verbs-work
+يا ساتر | ya sātir | good grief; oh my God (alarm) | social
+بايت | bāyit | stale; left over from yesterday | adjectives
+عاشق | 3āshig | in love; lover | emotions
+حاجة | 7ājja | respected elder (woman); pilgrim | people
+بنت خال | bint khāl | cousin (daughter of maternal uncle) | family
+جبهة | jabha | forehead | body
+كسر | kasr | fracture; break | health
+شورت | shōrt | shorts | clothing
+بلكونة | balkōna | balcony | home
+سردينة | sardīna | sardine; sardines | food
+قهوة عربية | gahwa 3arabiyya | Turkish-style coffee | drink
+قصعة | gaS3a | large shared serving bowl | kitchen
+سوق الحوت | sūg il-7ūt | fish market | shopping
+بنفسجي | banafsaji | purple; violet | colors
+قرية | garya | village | city
+مينا | mīna | port; harbor | travel
+سحاب | s7āb | clouds | nature
+حمامة | 7māma | pigeon; dove | animals
+محامي | m7āmi | lawyer | work
+سبورة | sabbūra | blackboard; whiteboard | school
+كاميرا | kāmira | camera | tech
+مولد | mūlid | Mawlid (Prophet's birthday) | culture
+شني | shini | what (f. / pointing) | questions
+مادام | mādām | since; as long as | conjunctions
+ع الأقل | 3al-agall | at least | adverbs
+مارس | māris | March | time
+ثمانين | thmānīn | eighty | numbers
+فتّش | fattash | to search | verbs-core
+تبع | tba3 | to follow | verbs-motion
+نادى | nādā | to call (someone over) | verbs-communication
+برّد | barrad | to cool; to chill | verbs-daily
+فضّل | faDDal | to prefer | verbs-mind
+رسم | rsam | to draw | verbs-work
+دبر راسك | dabbir rāsik | figure it out yourself; manage | social
+حي | 7ayy | alive | adjectives
+خجول | khajūl | shy | emotions
+شيخ | shēkh | sheikh; tribal elder; religious teacher | people
+زوج | zōj | husband | family
+لحية | la7ya | beard | body
+حساسية | 7asāsiyya | allergy | health
+جينز | jīnz | jeans | clothing
+قاراج | garāj | garage | home
+سمن | samin | ghee; clarified butter | food
+كابتشينو | kaputshīnu | cappuccino | drink
+مغرفة | maghrfa | ladle | kitchen
+خباز | khabbāz | baker | shopping
+كحلي | ka7li | navy blue | colors
+كوبري | kubri | bridge; overpass | city
+موتو | mōtō | motorbike | travel
+واد | wād | valley; wadi; dry riverbed | nature
+فار | fār | mouse; rat | animals
+فلاح | fallā7 | farmer | work
+نتيجة | natīja | result (exam); outcome | school
+كلمة السر | kilmat is-sirr | password | tech
+عيدية | 3īdiyya | Eid money (gift for kids) | culture
+على شنو | 3la shinu | about what; on what | questions
+بس | bass | but; only | conjunctions
+بالزور | bizzūr | by force; reluctantly | adverbs
+أبريل | abrīl | April | time
+تسعين | tis3īn | ninety | numbers
+باس | bās | to kiss | verbs-core
+بعّد | ba33ad | to move away | verbs-motion
+سبّ | sabb | to curse; to insult | verbs-communication
+ربّى | rabbā | to raise (children); to keep (animals) | verbs-daily
+حفظ | 7faDH | to memorize | verbs-mind
+طبع | Tba3 | to print | verbs-work
+غبي | ghbi | stupid | adjectives
+فخور | fakhūr | proud | emotions
+غريب | gharīb | stranger | people
+زوجة | zōja | wife | family
+شوارب | shwārib | moustache | body
+دوخة | dōkha | dizziness | health
+بيجاما | bījāma | pyjamas | clothing
+مطرح | maTra7 | mattress | home
+زرودية | zrūdiya | carrot; carrots | food
+إسبريسو | esprēsso | espresso | drink
+مصفاية | maSfāya | strainer; colander | kitchen
+خضار | khaDDār | greengrocer | shopping
+سماوي | smāwi | sky blue; light blue | colors
+كورنيش | kurnīsh | seafront promenade; corniche | city
+بشكليطة | bishklēTa | bicycle | travel
+بير | bīr | well (water) | nature
+حنش | 7nash | snake | animals
+كهربائي | kahrabāy | electrician | work
+شهادة | shahāda | certificate; diploma; degree | school
+تطبيق | taTbīg | app; application | tech
+ملعب | mal3ab | stadium; pitch | culture
+أما | amma | as for; but | conjunctions
+فجأة | faj'a | suddenly | adverbs
+مايو | māyu | May | time
+مليون | malyūn | million | numbers
+مدّ | madd | to hand; to extend | verbs-core
+نقز | ngaz | to jump | verbs-motion
+اعتذر | i3tadhar | to apologize | verbs-communication
+سقى | sgā | to water | verbs-daily
+ندم | ndim | to regret | verbs-mind
+مضى | mDā | to sign | verbs-work
+مدور | mdawwar | round | adjectives
+ممنون | mamnūn | grateful | emotions
+أجنبي | ajnabi | foreigner | people
+قبيلة | gbīla | tribe | family
+حلق | 7alg | throat | body
+حرق | 7arg | burn (injury) | health
+جوارب | jawārib | socks | clothing
+كنبة | kanaba | sofa; couch | home
+فلفل أكحل | filfil ak7al | black pepper | food
+ياغورت | yāghurt | yogurt | drink
+غلاية | ghallāya | kettle | kitchen
+تاجر | tājir | merchant; trader | shopping
+بيج | bēj | beige | colors
+بلدية | baladiyya | municipality; town council | city
+رخصة | rukhSa | driving license; permit | travel
+زيتونة | zītūna | olive tree | nature
+عقرب | 3agrab | scorpion | animals
+حلاق | 7allāg | barber | work
+مكتبة | maktaba | library; bookshop | school
+كرت | kart | top-up card; card | tech
+حفلة | 7afla | party; celebration; concert | culture
+كأنه | ka'inna | as if; it seems | conjunctions
+على كل حال | 3la kull 7āl | anyway; in any case | adverbs
+يونيو | yūnyu | June | time
+رابع | rābi3 | fourth | numbers
+رمى | rmā | to throw | verbs-core
+نقل | ngal | to move (house); to transfer | verbs-motion
+نصح | nSa7 | to advise | verbs-communication
+قصّ | gaSS | to cut (with scissors) | verbs-daily
+استغرب | istaghrab | to be surprised; to find strange | verbs-mind
+حجز | 7jaz | to book; to reserve | verbs-work
+عريض | 3rīD | wide; broad; thick (book) | adjectives
+حزن | 7uzn | sadness; grief | emotions
+ضنا | Dna | children; offspring | people
+نسيب | nsīb | in-law (brother-, son-, father-in-law) | family
+ذراع | dhrā3 | arm (forearm) | body
+طبيب أسنان | Tbīb asnān | dentist | health
+بورسة | bōrsa | handbag; purse | clothing
+ستارة | stāra | curtain | home
+بادنجان | bādinjān | eggplant; aubergine | food
+مشروب | mashrūb | drink; beverage | drink
+خلاط | khallāT | blender | kitchen
+وصل | waSl | receipt | shopping
+ذهبي | dhahabi | golden; gold-colored | colors
+سفارة | sifāra | embassy | city
+عجلة | 3ajla | tire; wheel | travel
+حشيش | 7shīsh | grass; weeds | nature
+ذبانة | dhubbāna | fly (insect) | animals
+عقد | 3agd | contract | work
+صفحة | Saf7a | page | school
+شريحة | shrī7a | SIM card | tech
+عزا | 3za | funeral gathering; condolences | culture
+حتى لو | 7atta lu | even if | conjunctions
+يوليو | yūlyu | July | time
+خامس | khāmis | fifth | numbers
+سيّب | sayyab | to let go; to release | verbs-core
+مرق | mrag | to pass by; to go through | verbs-motion
+ترجم | tarjam | to translate | verbs-communication
+قشّر | gashshar | to peel | verbs-daily
+حلم | 7lam | to dream | verbs-mind
+استلم | istlam | to receive; to collect | verbs-work
+غليظ | ghlīDH | thick; coarse | adjectives
+غشة | ghashsha | anger; fit of rage | emotions
+حماة | 7māt | mother-in-law | family
+معدة | mi3da | stomach (organ) | body
+ولادة | wlāda | childbirth; birth | health
+حزام | 7zām | belt | clothing
+دفاية | daffāya | heater | home
+قرعة | gar3a | zucchini; courgette; squash | food
+سكر زيادة | sukkar zyāda | extra sugar | drink
+مايكرويف | māykrowēv | microwave | kitchen
+تخفيض | takhfīD | discount; reduction | shopping
+فضي | faDDi | silver (color) | colors
+حديقة | 7adīga | park; public garden | city
+سواق | sawwāg | driver | travel
+حجرة | 7ajra | stone; rock | nature
+ناموسة | nāmūsa | mosquito | animals
+مشروع | mashrū3 | project; business venture | work
+حساب | 7sāb | arithmetic; math; calculation | school
+سماعة | sammā3a | headphones; earphones; receiver | tech
+عادات | 3ādāt | customs; traditions | culture
+مع إنّ | ma3 inn | although; even though | conjunctions
+أغسطس | aghusTus | August | time
+ثلث | thulth | third (fraction) | numbers
+جبد | jbad | to pull | verbs-core
+اشتكى | ishtkā | to complain | verbs-communication
+خلط | khlaT | to mix | verbs-daily
+اهتم | ihtamm | to care; to pay attention | verbs-mind
+رفع | rfa3 | to lift; to raise | verbs-work
+عميق | 3mīg | deep | adjectives
+غرام | gharām | passion; deep love | emotions
+خطيب | khTīb | fiancé | family
+بطن | baTn | belly; abdomen | body
+وصفة | waSfa | prescription | health
+شال | shāl | shawl; scarf | clothing
+مروحة | marwa7a | fan | home
+لوبيا | lūbya | green beans; black-eyed beans | food
+بلا سكر | bla sukkar | without sugar; unsweetened | drink
+غطا | ghTa | lid; cover | kitchen
+عرض | 3arD | special offer; deal | shopping
+أزرق فاتح | azrag fāti7 | light blue | colors
+رصيف | rSīf | sidewalk; pavement | city
+مسافر | msāfir | traveler; passenger | travel
+تراب | trāb | soil; dirt; dust | nature
+أرنب | arnab | rabbit | animals
+عسكري | 3askari | soldier; military | work
+تاريخ | tārīkh | history (subject) | school
+موَلِّد | mwallid | generator | tech
+دين | dīn | religion | culture
+سبتمبر | sibtambar | September | time
+ثلاث ارباع | thlāth rbā3 | three quarters | numbers
+حرق | 7rag | to burn | verbs-core
+وصّى | waSSā | to instruct; to ask (someone) to do | verbs-communication
+قلى | glā | to fry | verbs-daily
+اشتاق | ishtāg | to long for; to miss | verbs-mind
+جمع | jma3 | to collect; to gather | verbs-work
+مضحك | muD7ik | funny; comical | adjectives
+أمل | amal | hope | emotions
+خطيبة | khTība | fiancée | family
+جلد | jild | skin; leather | body
+نظر | naDHar | eyesight; vision | health
+محرمة | ma7rma | handkerchief; tissue | clothing
+فرن | furn | oven | home
+عدس | 3ads | lentils | food
+مغسلة | maghsla | sink | kitchen
+كيس | kīs | bag; sack | shopping
+أشقر | ashgar | blond; fair-haired | colors
+مبنى | mabna | building | city
+حجز | 7ajz | reservation; booking | travel
+موج | mūj | waves | nature
+توقيع | tawgī3 | signature | work
+حرف | 7arf | letter (of alphabet) | school
+إيميل | īmēl | email | tech
+صدقة | Sadga | charity; alms | culture
+أكتوبر | uktūbar | October | time
+زوج | zōj | pair; couple | numbers
+سرق | srag | to steal | verbs-core
+عرّف | 3arraf | to introduce | verbs-communication
+شوى | shwā | to grill; to roast | verbs-daily
+غار | ghār | to be jealous | verbs-mind
+فرّق | farrag | to distribute; to separate | verbs-work
+سخيف | sakhīf | silly; lame; pointless | adjectives
+حفيد | 7fīd | grandson | family
+عظم | 3aDHm | bone | body
+خاتم | khātim | ring | clothing
+بريزة | brīza | electrical socket | home
+معدنوس | ma3danūs | parsley | food
+سفرة | sufra | dining spread; table set for a meal | kitchen
+سلة | salla | basket | shopping
+أسمر | asmar | dark-skinned; brown (skin) | colors
+نادي | nādi | club (sports or social) | city
+حدود | 7udūd | border | travel
+ظل | DHull | shade; shadow | nature
+بطّال | baTTāl | unemployed (person) | work
+روضة | rawDa | kindergarten | school
+حساب فيسبوك | 7sāb fēsbūk | Facebook account | tech
+حكومة | 7ukūma | government | culture
+نوفمبر | nufambar | November | time
+في المية | fi limya | percent | numbers
+شمّ | shamm | to smell | verbs-core
+غلّى | ghallā | to boil | verbs-daily
+احتار | i7tār | to be at a loss; to be confused | verbs-mind
+عدّ | 3add | to count | verbs-work
+مسموح | masmū7 | allowed | adjectives
+مخ | mukh | brain | body
+سلسلة | silsla | chain; necklace | clothing
+حنفية | 7anafiyya | tap; faucet | home
+عنب | 3inab | grapes | food
+وقيد | wgīd | matches | kitchen
+كروسة | karrūsa | shopping cart; trolley | shopping
+ألوان | alwān | colors; paints | colors
+شرق | sharg | east | travel
+درجة الحرارة | darajat il-7arāra | temperature | nature
+فسحة | fus7a | break; recess | school
+برنامج | barnāmij | program; TV show; software | tech
+ديسمبر | disambar | December | time
+ذاق | dhāg | to taste | verbs-core
+رقّد | raggad | to put to sleep | verbs-daily
+نوى | nwā | to intend | verbs-mind
+زرع | zra3 | to plant; to grow | verbs-work
+حر | 7urr | free (not restricted) | adjectives
+دموع | dmū3 | tears | body
+مكنسة | mukunsa | broom | home
+كرموس | karmūs | figs | food
+محرمة | ma7rma | napkin; tissue | kitchen
+ميزان | mīzān | scale (for weighing) | shopping
+غرب | gharb | west | travel
+الربيع | irrbī3 | spring | time
+لمس | lmas | to touch | verbs-core
+غطّى | ghaTTā | to cover | verbs-daily
+لاحظ | lā7aDH | to notice | verbs-mind
+دهن | dhan | to paint | verbs-work
+واجد | wājid | ready | adjectives
+خزان | khazzān | water tank | home
+عصيدة | 3aSīda | 3aSīda (wheat-flour porridge with date syrup/honey) | food
+كرطونة | karTūna | carton; cardboard box | shopping
+شمال | shimāl | north | travel
+الخريف | ilkhrīf | autumn | time
+بات | bāt | to spend the night | verbs-core
+كبّس | kabbas | to press (a button) | verbs-daily
+استاهل | istāhil | to deserve | verbs-mind
+قاس | gās | to measure | verbs-work
+جرس | jaras | doorbell; bell | home
+عصبان | 3uSbān | 3uSbān (stuffed sheep tripe sausages) | food
+سيولة | siyūla | cash availability; liquidity | shopping
+جنوب | janūb | south | travel
+الوقت الكل | ilwagt ilkull | all the time | time
+فرّغ | farragh | to empty | verbs-daily
+احترم | i7taram | to respect | verbs-mind
+سجّل | sajjal | to register; to record | verbs-work
+بوابة | bawwāba | gate (of a house) | home
+مبطن | mbaTTan | mbaṭṭan (fried potato slices stuffed with meat) | food
+بطاقة | biTāga | card (bank card) | shopping
+الصبح بكري | iSSba7 bakri | early in the morning | time
+ربط | rbaT | to tie | verbs-daily
+ملّ | mall | to get bored; to get tired of | verbs-mind
+كسب | ksab | to earn | verbs-work
+شمعة | sham3a | candle | home
+بوريك | būrīk | būrīk (stuffed pastry rolls) | food
+دين | dēn | debt; credit | shopping
+فكّ | fakk | to untie; to free; to break up (a fight) | verbs-daily
+ضنّ | Dann | to think; to suppose | verbs-mind
+ساوم | sāwam | to bargain; to haggle | verbs-work
+طنجرة | Tanjra | cooking pot | home
+محشي | ma7shi | stuffed vegetables | food
+شرا | shra | buying; purchase | shopping
+نعس | n3as | to get sleepy; to doze | verbs-daily
+حسب | 7sab | to count; to calculate | verbs-mind
+سحب | s7ab | to withdraw (money); to pull | verbs-work
+كرا | kra | rent | home
+شكشوكة | shakshūka | shakshuka (eggs poached in tomato-pepper sauce) | food
+بيع | bē3 | selling; sale | shopping
+طاب | Tāb | to be cooked; to ripen | verbs-daily
+حمّل | 7ammal | to load; to download | verbs-work
+كمون | kammūn | cumin | food
+عملة | 3umla | currency | shopping
+قرفة | girfa | cinnamon | food
+سوق سودا | sūg sūda | black market | shopping
+سميد | smīd | semolina | food
+مستعمل | musta3mal | used; second-hand | shopping
+شعير | sh3īr | barley | food
+صندوق | Sandūg | checkout; till; cash box | shopping
+سحور | s7ūr | suhoor (pre-dawn Ramadan meal) | food
+مقاس | mgās | size (clothes, shoes) | shopping
+مقروض | magrūD | makrūḍ (date-filled semolina pastry in honey) | food
+كعك | ka3k | ka3k (ring-shaped biscuits) | food
+سفنز | sfinz | sfinz (Libyan fried dough; doughnut) | food
+مربى | mrabba | jam | food
+شكلاطة | shuklāTa | chocolate | food
+بسكويت | biskwīt | biscuits; cookies | food
+كيكة | kēka | cake | food
+جيلاطي | jīlāTi | ice cream | food
+لوز | lūz | almonds | food
+شاورما | shāwarma | shawarma | food
+كفتة | kufta | meatballs; kofta | food
+حوت مشوي | 7ūt mashwi | grilled fish | food
+ليش | lēsh | why (variant) | questions
+حول | 7awl | around; about | prepositions
+سادس | sādis | sixth | numbers
+عضّ | 3aDD | to bite | verbs-core
+عجن | 3jan | to knead | verbs-daily
+حفر | 7far | to dig | verbs-work
+عافاك | 3afāk | please (lit. may God keep you well) | social
+كره | kurh | hatred | emotions
+يتيم | ytīm | orphan | people
+ولد خالة | wild khāla | cousin (son of maternal aunt) | family
+حاجب | 7ājib | eyebrow | body
+جبس | jibs | plaster cast | health
+تنورة | tannūra | skirt | clothing
+طاقة | Tāga | small window; opening | home
+لحم جمل | la7am jmal | camel meat | food
+نسكافيه | naskāfēh | instant coffee | drink
+كانون | kānūn | charcoal brazier | kitchen
+عطار | 3aTTār | spice seller; herbalist | shopping
+زيتي | zēti | olive green | colors
+مقبرة | magbra | cemetery | city
+بابور | bābūr | ship; steamer | travel
+ثلج | thalj | snow; ice | nature
+ناقة | nāga | she-camel | animals
+نجّار | najjār | carpenter | work
+مسطرة | masTra | ruler | school
+فلاشة | flāsha | USB flash drive | tech
+مالوف | mālūf | malouf (Andalusian-style music) | culture
+فيش | fīsh | in what | questions
+زي | zayy | like; similar to | prepositions
+سابع | sābi3 | seventh | numbers
+لصق | lSag | to stick; to glue | verbs-work
+عدو | 3dū | enemy | people
+حرمة | 7urma | wife (respectful) | family
+رمش | rimsh | eyelash | body
+إسهال | is-hāl | diarrhoea | health
+فراشية | farrāshiyya | farrashiya (traditional white wrap for women) | clothing
+رف | raff | shelf | home
+كسبر | kusbur | coriander; cilantro | food
+رايب | rāyib | curdled milk; yogurt drink | drink
+مهراس | mahrās | mortar (and pestle) | kitchen
+صك | Sakk | cheque | shopping
+عسلي | 3asali | hazel; honey-colored | colors
+سوق الجمعة | sūg ij-jum3a | Souq al-Juma (Tripoli district) | city
+فلوكة | flūka | small boat; fishing boat | travel
+ضباب | Dbāb | fog | nature
+فرس | faras | mare; horse | animals
+بنّاي | bannāy | builder; mason | work
+قاموس | gāmūs | dictionary | school
+طابعة | Tāb3a | printer | tech
+ثامن | thāmin | eighth | numbers
+خيّط | khayyaT | to sew | verbs-work
+بدوي | badwi | Bedouin | people
+حفيدة | 7fīda | granddaughter | family
+كوع | kū3 | elbow | body
+حكة | 7akka | itch; itching | health
+جرد | jard | jard (traditional men's woollen wrap) | clothing
+كليم | klīm | kilim (flat-woven rug) | home
+رمان | rummān | pomegranate | food
+لاقبي | lāgbi | lāgbi (fresh palm sap drink) | drink
+ززوة | zazwa | coffee pot (cezve) | kitchen
+صراف | Sarrāf | money changer | shopping
+أخضر غامق | akhDar ghāmig | dark green | colors
+الجبل الأخضر | ij-jbal il-akhDar | the Green Mountain (Jebel Akhdar) | city
+مطب | maTabb | speed bump | travel
+عين | 3ēn | spring (of water) | nature
+جرو | jirw | puppy | animals
+مصنع | maSna3 | factory | work
+تحميل | ta7mīl | download; downloading | tech
+تاسع | tāsi3 | ninth | numbers
+جيل | jīl | generation | people
+أرملة | armla | widow | family
+ظفر | DHfar | fingernail | body
+ورم | waram | swelling; tumour | health
+حولي | 7awli | hawli (traditional woollen wrap) | clothing
+موكيت | mūkēt | wall-to-wall carpet | home
+خوخ | khūkh | peach; peaches | food
+كاكاو | kākāw | hot chocolate; cocoa | drink
+برطمان | barTmān | jar | kitchen
+ضمان | Damān | warranty; guarantee | shopping
+أحمر غامق | a7mar ghāmig | dark red; crimson | colors
+جمرك | jumruk | customs | travel
+جزيرة | jzīra | island | nature
+نعجة | na3ja | ewe | animals
+صحفي | Sa7afi | journalist | work
+عاشر | 3āshir | tenth | numbers
+توأم | taw'am | twin; twins | family
+فخذ | fkhadh | thigh | body
+تطعيم | taT3īm | vaccination | health
+فرملة | farmla | farmla (embroidered waistcoat) | clothing
+سطل | saTl | bucket | home
+مشماش | mishmāsh | apricot; apricots | food
+زهر | zhar | orange-blossom water | drink
+سفنجة | sfinja | sponge (for dishes) | kitchen
+بالجملة | bij-jumla | wholesale | shopping
+واحة | wā7a | oasis | nature
+نملة | namla | ant | animals
+ختم | khatm | stamp; seal | work
+دزينة | dzīna | dozen | numbers
+كعب | ka3b | heel | body
+شاش | shāsh | gauze; bandage | health
+كبوس | kabbūs | kabbous (traditional red felt hat) | clothing
+مكواة | makwa | iron (for clothes) | home
+فراولة | frāwla | strawberry; strawberries | food
+عشبة | 3ashba | herbal tea; infusion | drink
+ترمس | tirmis | thermos; vacuum flask | kitchen
+فلوس الشهرية | flūs ish-shahriyya | monthly salary money | shopping
+غابة | ghāba | forest; woods | nature
+صرصور | SarSūr | cockroach | animals
+معاش | ma3āsh | pension | work
+كبدة | kibda | liver | body
+شنّة | shanna | shanna (traditional felt cap) | clothing
+رخام | rkhām | marble (flooring) | home
+مكرونة مبطنة | makarūna mbaTTna | baked pasta with meat and egg | food
+لوحة | lō7a | cutting board | kitchen
+برق | barg | lightning | nature
+فكرون | fakrūn | turtle; tortoise | animals
+كلوة | kilwa | kidney | body
+جبة | jibba | jubba (long traditional robe) | clothing
+رشتة | rishta | rishta (thin homemade noodles) | food
+رعد | ra3d | thunder | nature
+ذيب | dhīb | wolf; jackal | animals
+رية | riyya | lung | body
+كرافطة | krāfaTTa | necktie | clothing
+حرايمي | 7rāymi | 7rāymi (fish in spicy tomato-garlic sauce) | food
+طبيعة | Tabī3a | nature | nature
+غزال | ghzāl | gazelle | animals
+ساق | sāg | shin; lower leg | body
+حلق | 7lag | earring | clothing
+بسيسة | bsīsa | bsīsa (roasted barley-flour mix) | food
+نحلة | na7la | bee | animals
+كف | kaff | palm of the hand | body
+كركم | kurkum | turmeric | food
+أسد | asad | lion | animals
+غريبة | ghrība | ghrība (crumbly shortbread cookie) | food
+بقلاوة | baglāwa | baklava | food
+زلابية | zlābya | zlābya (syrup-soaked fried spirals) | food
+رب | rubb | date syrup; molasses | food
+قمح | gam7 | wheat | food
+ماكلة بحرية | mākla ba7riyya | seafood | food
+قمبري | gambri | shrimp; prawns | food
+لسان عصفور | lsān 3aSfūr | orzo (rice-shaped pasta) | food
+رز بالحليب | ruzz bil-7līb | rice pudding | food
+برشة | barsha | a lot (Tunisian-influenced) | adverbs
+سرة | Surra | navel; belly button | body
+قلادة | glāda | necklace | clothing
+زميتة | zummīta | zummīta (roasted barley flour with oil and spices) | food
+قرش | girsh | piaster (10 dirhams, colloquial) | shopping
+خمري | khamri | burgundy; wine-red | colors
+كرّوسة | karrōsa | horse-drawn carriage; cart | travel
+سبخة | sabkha | salt flat; salt marsh | nature
+حوار | 7wār | camel calf | animals
+زمزامة | zamzāma | female wedding singer | culture
+مصارين | mSārīn | intestines; guts | body
+أخضر زيتوني | akhDar zītūni | olive green (lit. olive-like green) | colors
+بغل | baghl | mule | animals
+زكرة | zukra | zukra (Libyan bagpipe) | culture
+تركوازي | turkwāzi | turquoise | colors
+فنك | fanak | fennec fox | animals
+أصفر فاتح | aSfar fāti7 | light yellow; pale yellow | colors

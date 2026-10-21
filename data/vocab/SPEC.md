@@ -32,3 +32,22 @@ Do not invent words. If unsure whether a word is Libyan-specific, use the common
 
 Output must be valid JSON (UTF-8). Validate with:
 `node -e "const a=require('./data/vocab/PARTFILE');console.log(a.length)"`
+
+## v2 additions (5000-word deck)
+
+Two more fields are **required on every entry**:
+
+| field     | description |
+|-----------|-------------|
+| `usage`   | Integer 1–100: estimated **usage rank band** in everyday Libyan speech. The deck is ranked by this. Calibrate as: **95–100** among the ~50 most frequent words (و, في, أني, شن, مش…); **85–94** top 200; **75–84** top 500; **65–74** top 1000; **55–64** top 2000; **45–54** top 3000; **35–44** top 4000; **25–34** top 5000; **below 25** rarer than top 5000. Use the whole range inside a band (e.g. 71 vs 66) to order words. |
+| `phrases` | Array of **at least 2** extra natural Libyan phrases/sentences that use the word (in any inflected form), each `{ "ar": "...", "tr": "...", "en": "..." }`. They must be different from `ex_ar` and from each other, short (2–8 words), and everyday — collocations, fixed expressions, typical questions/answers. |
+
+So every word has at least 3 usages: `ex_*` plus `phrases[]`.
+
+Checking a part file (schema, required fields, duplicates against every other part):
+
+    node scripts/check-part.js data/vocab/partN.json
+
+Fix every `ERROR`. A `DUP` means that word (same Arabic + same meaning) is already in another file — remove it from yours. `SAME-AR` is only a warning (homographs with a different meaning are fine).
+
+Use your **own scratch folder** for any helper files: `/tmp/claude-0/-home-user-arabic/9763037e-5c23-56f2-aac7-f638c4292a09/scratchpad/<your-part-name>/` — other agents share the scratchpad.

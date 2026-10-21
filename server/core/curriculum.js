@@ -603,7 +603,7 @@ export const lessonById = new Map(LESSONS.map((l) => [l.id, l]));
  * remaining days" so the deck finishes on time without cramming.
  */
 export const CORE_WORDS = 1000;
-export const AFTER_CORE_PER_DAY = 10;
+export const AFTER_CORE_PER_DAY = 15;
 
 export function buildPlan({ totalWords, introduced, startedAt, targetDays, now = Date.now() }) {
   const DAY = 86_400_000;

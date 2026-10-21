@@ -172,6 +172,15 @@ const greetingAr = () => {
   return h < 12 ? ['صباح الخير!', 'ṣbā7 ilkhēr!', 'Good morning!'] : ['مساء الخير!', 'masā ilkhēr!', 'Good evening!'];
 };
 
+// Extra phrases that use the word ("collocations"), each with audio.
+const phraseList = (w, max = 3) =>
+  w.phrases?.length
+    ? `<ul class="phrases">${w.phrases
+        .slice(0, max)
+        .map((p) => `<li><span class="ar">${esc(p.ar)}</span> ${speakBtn(p.ar)}<div class="tr small">${esc(p.tr)}</div><div class="small">${esc(p.en)}</div></li>`)
+        .join('')}</ul>`
+    : '';
+
 const speakBtn = (text) =>
   `<button class="btn speak" data-speak="${esc(text)}" title="Listen (S)" aria-label="Listen">🔊</button>`;
 document.addEventListener('click', (e) => {
@@ -374,7 +383,7 @@ route(/^\/$/, async () => {
       <div>
         <span class="badge green">Libyan Arabic · ليبي</span>
         <h1>Speak Libyan Arabic in weeks, not years.</h1>
-        <p class="lead">A complete training system: 1000+ high-frequency Libyan words, a 6-week fluency path, spaced repetition and retrieval practice, and a GitHub-style profile that tracks every day you show up.</p>
+        <p class="lead">A complete training system: the 5,000 most-used Libyan words ranked by usage, each with real phrases, a 6-week fluency path, spaced repetition and retrieval practice, and a GitHub-style profile that tracks every day you show up.</p>
         <div class="row" style="margin-top:20px">
           <a href="/signup" data-link class="btn primary lg">Start learning — free</a>
           <a href="/login" data-link class="btn lg">Log in</a>
@@ -411,7 +420,7 @@ route(/^\/science$/, async () => {
       <p class="muted">The fastest route to conversational fluency is to learn the most useful words and patterns first, and to review them in the way the brain retains best. Every part of the app is built around one of these principles.</p>
       ${PRINCIPLES.map(([i, t, d]) => `<h3 style="margin-top:20px">${i} ${esc(t)}</h3><p>${esc(d)}</p>`).join('')}
       <h3 style="margin-top:20px">📅 The path to fluency</h3>
-      <p>By default the path lasts 6 weeks (you can choose 2 weeks to a year). The app spreads the remaining words evenly over the remaining days, so that the 1000 most frequent words — the core that covers most everyday speech — are introduced by your target date: about 24 new words per day on the 6-week plan, after which the rest of the 1600+ word deck follows at 10 per day, plus the reviews that fall due. Each week has a theme and short grammar lessons — pronouns, wanting and having, the present tense, <em>gā3id</em> for "-ing", <em>ma…sh</em> negation, the past tense, <em>bash</em> for the future, commands and conditionals — so the vocabulary turns into speech.</p>
+      <p>By default the path lasts 6 weeks (you can choose 2 weeks to a year). The app spreads the remaining words evenly over the remaining days, so that the 1000 most frequent words — the core that covers most everyday speech — are introduced by your target date: about 24 new words per day on the 6-week plan, after which the rest of the 5000-word deck follows at 15 per day, in order of how often each word is used, plus the reviews that fall due. Each week has a theme and short grammar lessons — pronouns, wanting and having, the present tense, <em>gā3id</em> for "-ing", <em>ma…sh</em> negation, the past tense, <em>bash</em> for the future, commands and conditionals — so the vocabulary turns into speech.</p>
       <h3 style="margin-top:20px">⏱ What a day looks like</h3>
       <ol><li>Clear the reviews that are due (they keep what you already know).</li><li>Learn today's new words. Each one is shown with audio and an example, then tested straight away.</li><li>Do one grammar lesson or a 2-minute practice drill.</li><li>Stop when you reach your XP goal. Coming back tomorrow does more than cramming today.</li></ol>
       <h3 style="margin-top:20px">📊 What the numbers mean</h3>
@@ -592,6 +601,7 @@ route(
         ${w.alt && w.alt !== w.ar ? `<div class="small muted">${state.user.dialect === 'msa' ? 'Libyan' : 'MSA'}: <span class="ar">${esc(w.alt)}</span></div>` : ''}
         ${w.ex_ar ? `<div class="example"><span class="ar">${esc(w.ex_ar)}</span> ${speakBtn(w.ex_ar)}<div class="tr small">${esc(w.ex_tr)}</div><div class="small">${esc(w.ex_en)}</div></div>` : ''}
         ${w.note ? `<div class="note">💡 ${esc(w.note)}</div>` : ''}
+        ${phraseList(w)}
       </div>`;
     }
 
@@ -611,7 +621,7 @@ route(
       let body = '';
       if (phase === 'intro') {
         body = `<div class="flash">
-          <span class="kind badge blue">New word · #${w.rank} · ${esc(catLabel(w.cat))}</span>
+          <span class="kind badge blue" title="Usage rank: #1 is the most used word">New word · usage rank #${w.rank} · ${esc(catLabel(w.cat))}</span>
           <div class="big-ar">${esc(w.ar)}</div>
           ${w.tr ? `<div class="tr" style="font-size:1.2rem">${esc(w.tr)}</div>` : ''}
           <div style="margin:8px 0">${speakBtn(w.ar)}</div>
@@ -619,6 +629,7 @@ route(
           <div class="small muted">${esc(w.pos)}</div>
           ${w.ex_ar ? `<div class="example" style="width:100%"><span class="ar">${esc(w.ex_ar)}</span> ${speakBtn(w.ex_ar)}<div class="tr small">${esc(w.ex_tr)}</div><div class="small">${esc(w.ex_en)}</div></div>` : ''}
           ${w.note ? `<div class="note">💡 ${esc(w.note)}</div>` : ''}
+          ${phraseList(w, 2)}
           <p class="small muted" style="margin-top:14px">Say it out loud, picture a scene with it — then test yourself.</p>
           <button class="btn primary lg" id="toQuiz">Test me <span class="kbd">Space</span></button>
         </div>`;
@@ -817,11 +828,12 @@ route(
     $app.innerHTML = `
       <h1>Practice</h1>
       <p class="muted">Quick drills on words you have met. They don't change your review schedule, but they earn XP and add to your contribution graph. Mixing directions and senses strengthens retrieval.</p>
-      <div class="grid cols-3">
+      <div class="grid cols-4">
         ${[
           ['ar-en', '👁️ Read', 'See Arabic, pick the meaning.'],
           ['en-ar', '✍️ Produce', 'See English, pick the Arabic.'],
           ['listen', '👂 Listen', 'Hear the word, pick the meaning.'],
+          ['phrase', '💬 Phrases', 'Read a real Libyan phrase, pick what it means.'],
         ]
           .map(([m, t, d]) => `<div class="card"><h3>${t}</h3><p class="muted small">${d}</p><button class="btn primary" data-mode="${m}">Start</button></div>`)
           .join('')}
@@ -841,25 +853,32 @@ async function runDrill(mode, cat) {
   let i = 0, correct = 0;
   const start = Date.now();
   let locked = false;
-  const onKey = (e) => { if (/^[1-4]$/.test(e.key)) pick(Number(e.key) - 1); else if (e.key === 's' || e.key === 'S') speak(questions[i]?.word.ar, true); };
+  const onKey = (e) => { if (/^[1-4]$/.test(e.key)) pick(Number(e.key) - 1); else if ((e.key === 's' || e.key === 'S') && questions[i]) speak(sayNow(questions[i]), true); };
   document.addEventListener('keydown', onKey);
   cleanup = () => document.removeEventListener('keydown', onKey);
+
+  // Phrase mode: each option word contributes one of its usage phrases.
+  const usages = (o) => [{ ar: o.ex_ar, tr: o.ex_tr, en: o.ex_en }, ...(o.phrases ?? [])].filter((p) => p.ar && p.en);
+  if (mode === 'phrase') for (const q of questions) q.ph = q.options.map((o) => shuffle(usages(o))[0] ?? { ar: o.ar, tr: o.tr, en: o.en });
+  const sayNow = (q) => (mode === 'phrase' ? q.ph[q.answer].ar : q.word.ar);
 
   function drawQ() {
     if (i >= questions.length) return done();
     const q = questions[i];
     const prompt =
-      mode === 'ar-en'
+      mode === 'phrase'
+        ? `<div class="ar" style="font-size:2rem;line-height:1.6;margin:22px 0 4px">${esc(q.ph[q.answer].ar)}</div>${state.showTr ? `<div class="tr">${esc(q.ph[q.answer].tr)}</div>` : ''}<div style="margin-top:6px">${speakBtn(q.ph[q.answer].ar)}</div>`
+        : mode === 'ar-en'
         ? `<div class="big-ar">${esc(q.word.ar)}</div>${state.showTr && q.word.tr ? `<div class="tr">${esc(q.word.tr)}</div>` : ''}`
         : mode === 'en-ar'
           ? `<div class="big-en">${esc(q.word.en)}</div>`
           : `<div style="margin:30px 0 10px"><button class="btn lg" data-speak="${esc(q.word.ar)}">🔊 Play again</button></div>`;
-    const label = (o) => (mode === 'en-ar' ? `<span class="ar">${esc(o.ar)}</span>${o.tr ? `<div class="tr small">${esc(o.tr)}</div>` : ''}` : esc(o.en));
+    const label = (o, j) => (mode === 'phrase' ? esc(q.ph[j].en) : mode === 'en-ar' ? `<span class="ar">${esc(o.ar)}</span>${o.tr ? `<div class="tr small">${esc(o.tr)}</div>` : ''}` : esc(o.en));
     $app.innerHTML = `<div class="study-wrap"><div class="study-top"><a href="/practice" data-link class="btn ghost">✕</a><div class="progress"><span style="width:${(100 * i) / questions.length}%"></span></div><span class="small muted">${i}/${questions.length}</span></div>
       <div class="flash"><span class="kind badge">Drill · ${esc(mode)}</span>${prompt}
-      <div class="choices">${q.options.map((o, j) => `<button class="btn choice ${mode === 'en-ar' ? 'ar-choice' : ''}" data-c="${j}">${label(o)}</button>`).join('')}</div></div></div>`;
+      <div class="choices">${q.options.map((o, j) => `<button class="btn choice ${mode === 'en-ar' ? 'ar-choice' : ''}" data-c="${j}">${label(o, j)}</button>`).join('')}</div></div></div>`;
     document.querySelectorAll('[data-c]').forEach((b) => b.addEventListener('click', () => pick(Number(b.dataset.c))));
-    if (mode !== 'en-ar') speak(q.word.ar, mode === 'listen');
+    if (mode !== 'en-ar') speak(sayNow(q), mode === 'listen');
   }
   async function pick(j) {
     if (locked || i >= questions.length) return;
@@ -1008,7 +1027,7 @@ route(/^\/words$/, async () => {
       <select id="fc"><option value="">All categories</option>${state.categories.map((c) => `<option value="${esc(c)}">${esc(catLabel(c))} (${state.words.filter((w) => w.cat === c).length})</option>`).join('')}</select>
       ${state.user ? '<select id="fs"><option value="">Any status</option><option value="new">Not started</option><option value="learning">Learning</option><option value="known">Known</option><option value="mature">Mature</option></select>' : '<span></span>'}
     </div></div>
-    <div class="card" style="margin-top:12px;padding:0;overflow-x:auto"><table class="table"><thead><tr><th>#</th><th style="text-align:right">Arabic</th><th>Transliteration</th><th>English</th><th>Category</th>${state.user ? '<th>Status</th>' : ''}<th></th></tr></thead><tbody id="rows"></tbody></table></div>
+    <div class="card" style="margin-top:12px;padding:0;overflow-x:auto"><table class="table"><thead><tr><th title="Usage rank: #1 is the most used word">Rank</th><th style="text-align:right">Arabic</th><th>Transliteration</th><th>English &amp; phrases</th><th>Category</th>${state.user ? '<th>Status</th>' : ''}<th></th></tr></thead><tbody id="rows"></tbody></table></div>
     <div class="center" style="margin-top:12px"><button class="btn" id="more">Show more</button></div>`;
   let limit = 100;
   const statusOf = (id) => {
@@ -1030,7 +1049,7 @@ route(/^\/words$/, async () => {
     document.getElementById('rows').innerHTML = list
       .slice(0, limit)
       .map(
-        (w) => `<tr title="${esc(w.ex_ar ? `${w.ex_ar} — ${w.ex_en}` : '')}"><td class="muted small">${w.rank}</td><td class="ar">${esc(w.ar)}</td><td class="tr">${esc(w.tr)}</td><td>${esc(w.en)}${w.note ? `<div class="small muted">${esc(w.note)}</div>` : ''}</td><td class="small">${esc(catLabel(w.cat))}</td>${state.user ? `<td>${badge(w.id)}</td>` : ''}<td>${speakBtn(w.ar)}</td></tr>`,
+        (w) => `<tr title="${esc(w.ex_ar ? `${w.ex_ar} — ${w.ex_en}` : '')}"><td class="muted small" title="usage score ${w.usage ?? '?'} / 100">#${w.rank}</td><td class="ar">${esc(w.ar)}</td><td class="tr">${esc(w.tr)}</td><td>${esc(w.en)}${w.note ? `<div class="small muted">${esc(w.note)}</div>` : ''}${w.phrases?.length ? `<details class="small"><summary>${w.phrases.length + 1} phrases</summary>${phraseList({ phrases: [{ ar: w.ex_ar, tr: w.ex_tr, en: w.ex_en }, ...w.phrases] }, 6)}</details>` : ''}</td><td class="small">${esc(catLabel(w.cat))}</td>${state.user ? `<td>${badge(w.id)}</td>` : ''}<td>${speakBtn(w.ar)}</td></tr>`,
       )
       .join('') || `<tr><td colspan="7" class="empty">No matching words.</td></tr>`;
     document.getElementById('more').classList.toggle('hidden', list.length <= limit);

@@ -25,5 +25,7 @@ export function present(word, dialect = 'libyan') {
     ex_tr: word.ex_tr,
     ex_en: word.ex_en,
     note: word.note,
+    usage: word.usage,
+    phrases: word.phrases ?? [],
   };
 }

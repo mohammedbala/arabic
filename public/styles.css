@@ -384,3 +384,8 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
 .dubbi-intro { display: flex; gap: 14px; align-items: center; }
 .dubbi-intro .dubbi { width: 64px; height: 80px; flex: none; }
 body.has-dubbi .footer { padding-left: max(100px, calc((100vw - 1180px) / 2)); }
+.phrases { list-style: none; padding: 0; margin: 10px 0 0; width: 100%; text-align: left; }
+.phrases li { border-left: 3px solid var(--heat-2); padding: 4px 10px; margin-bottom: 6px; }
+.phrases li .ar { font-size: 1.15rem; }
+.phrases .speak { width: 28px; height: 28px; font-size: 0.8rem; vertical-align: middle; }
+details summary { cursor: pointer; color: var(--link); margin-top: 4px; }
