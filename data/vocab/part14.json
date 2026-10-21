@@ -1,0 +1,1940 @@
+[
+ {
+  "ar": "سبّاك",
+  "tr": "sabbāk",
+  "en": "plumber",
+  "msa": "سبّاك",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 2,
+  "usage": 60,
+  "ex_ar": "الحنفية تقطّر، لازمنا سبّاك.",
+  "ex_tr": "il-7anafiyya tgaTTar, lāzimna sabbāk.",
+  "ex_en": "The tap is dripping, we need a plumber.",
+  "note": "pl. سبّاكة sabbāka",
+  "phrases": [
+   {
+    "ar": "عيّط للسبّاك",
+    "tr": "3ayyiT lis-sabbāk",
+    "en": "call the plumber"
+   },
+   {
+    "ar": "السبّاك ما جاش اليوم",
+    "tr": "is-sabbāk ma jāsh il-yōm",
+    "en": "the plumber didn't come today"
+   }
+  ]
+ },
+ {
+  "ar": "بلّاط",
+  "tr": "ballāT",
+  "en": "tiler",
+  "msa": "مبلّط",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "البلّاط بيكمّل الكوجينة غدوة.",
+  "ex_tr": "il-ballāT bikammil il-kūjīna ghudwa.",
+  "ex_en": "The tiler will finish the kitchen tomorrow.",
+  "note": "from بلاط \"tiles\"",
+  "phrases": [
+   {
+    "ar": "نبّي بلّاط شاطر",
+    "tr": "nibbi ballāT shāTir",
+    "en": "I want a skilled tiler"
+   },
+   {
+    "ar": "البلّاط طالب هلبة",
+    "tr": "il-ballāT Tālib hallba",
+    "en": "the tiler is asking a lot"
+   }
+  ]
+ },
+ {
+  "ar": "دهّان",
+  "tr": "dahhān",
+  "en": "house painter",
+  "msa": "دهّان",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "الدهّان بيدهن الحوش كله في جمعة.",
+  "ex_tr": "id-dahhān bidhin il-7ōsh kullah fi jum3a.",
+  "ex_en": "The painter will paint the whole house in a week.",
+  "note": "from دهن \"to paint\"",
+  "phrases": [
+   {
+    "ar": "جبنا دهّان للدار",
+    "tr": "jibna dahhān lid-dār",
+    "en": "we got a painter for the room"
+   },
+   {
+    "ar": "الدهّان خلّط اللون غلط",
+    "tr": "id-dahhān khallaT il-lōn ghalaT",
+    "en": "the painter mixed the colour wrong"
+   }
+  ]
+ },
+ {
+  "ar": "حدّاد",
+  "tr": "7addād",
+  "en": "blacksmith; metalworker",
+  "msa": "حدّاد",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "الحدّاد صنعلنا باب حديد.",
+  "ex_tr": "il-7addād Sna3lna bāb 7dīd.",
+  "ex_en": "The blacksmith made us an iron door.",
+  "note": "makes gates, window bars and railings",
+  "phrases": [
+   {
+    "ar": "محل الحدّاد",
+    "tr": "ma7all il-7addād",
+    "en": "the metalworker's shop"
+   },
+   {
+    "ar": "الحدّاد بيركّب الشبابيك",
+    "tr": "il-7addād birakkib ish-shbābīk",
+    "en": "the metalworker will fit the window grilles"
+   }
+  ]
+ },
+ {
+  "ar": "لحّام",
+  "tr": "la77ām",
+  "en": "welder",
+  "msa": "لحّام",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 35,
+  "ex_ar": "الكرهبة تبي لحّام.",
+  "ex_tr": "il-karhba tibbi la77ām.",
+  "ex_en": "The car needs a welder.",
+  "phrases": [
+   {
+    "ar": "لحّام كويس",
+    "tr": "la77ām kwayyis",
+    "en": "a good welder"
+   },
+   {
+    "ar": "خدم لحّام في الشركة",
+    "tr": "khdim la77ām fish-sharika",
+    "en": "he worked as a welder at the company"
+   }
+  ]
+ },
+ {
+  "ar": "خيّاط",
+  "tr": "khayyāT",
+  "en": "tailor",
+  "msa": "خيّاط",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 2,
+  "usage": 56,
+  "ex_ar": "خذيت القماش للخيّاط.",
+  "ex_tr": "khdhēt il-gmāsh lil-khayyāT.",
+  "ex_en": "I took the fabric to the tailor.",
+  "phrases": [
+   {
+    "ar": "الخيّاط ضيّقلي السروال",
+    "tr": "il-khayyāT Dayyaglī is-sirwāl",
+    "en": "the tailor took in my trousers"
+   },
+   {
+    "ar": "خيّاط رجالي",
+    "tr": "khayyāT rjāli",
+    "en": "men's tailor"
+   }
+  ]
+ },
+ {
+  "ar": "خيّاطة",
+  "tr": "khayyāTa",
+  "en": "seamstress; dressmaker",
+  "msa": "خيّاطة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 47,
+  "ex_ar": "أمي تفصّل حوايجها عند خيّاطة.",
+  "ex_tr": "ummi tfaSSil 7wāyijha 3and khayyāTa.",
+  "ex_en": "My mum has her clothes made at a seamstress.",
+  "phrases": [
+   {
+    "ar": "الخيّاطة ما كمّلتش الفستان",
+    "tr": "il-khayyāTa ma kammlitsh il-fustān",
+    "en": "the seamstress hasn't finished the dress"
+   },
+   {
+    "ar": "نعرف خيّاطة شاطرة",
+    "tr": "na3raf khayyāTa shāTra",
+    "en": "I know a skilled seamstress"
+   }
+  ]
+ },
+ {
+  "ar": "ممرّض",
+  "tr": "mumarriD",
+  "en": "nurse (male)",
+  "msa": "ممرّض",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "الممرّض عطاني الإبرة.",
+  "ex_tr": "il-mumarriD 3Tāni il-ibra.",
+  "ex_en": "The nurse gave me the injection.",
+  "note": "pl. ممرّضين; female ممرّضة",
+  "phrases": [
+   {
+    "ar": "الممرّض المناوب",
+    "tr": "il-mumarriD il-mnāwib",
+    "en": "the nurse on duty"
+   },
+   {
+    "ar": "خوي يخدم ممرّض",
+    "tr": "khūy yikhdim mumarriD",
+    "en": "my brother works as a nurse"
+   }
+  ]
+ },
+ {
+  "ar": "قاضي",
+  "tr": "gāDi",
+  "en": "judge",
+  "msa": "قاضٍ",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 48,
+  "ex_ar": "القاضي أجّل القضية.",
+  "ex_tr": "il-gāDi ajjal il-gaDiyya.",
+  "ex_en": "The judge postponed the case.",
+  "note": "pl. قضاة guDāt",
+  "phrases": [
+   {
+    "ar": "قدّام القاضي",
+    "tr": "guddām il-gāDi",
+    "en": "in front of the judge"
+   },
+   {
+    "ar": "حكم القاضي",
+    "tr": "7ukm il-gāDi",
+    "en": "the judge's ruling"
+   }
+  ]
+ },
+ {
+  "ar": "جندي",
+  "tr": "jundi",
+  "en": "soldier; private",
+  "msa": "جندي",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "الجندي واقف في البوابة.",
+  "ex_tr": "il-jundi wāgif fil-bawwāba.",
+  "ex_en": "The soldier is standing at the checkpoint.",
+  "note": "pl. جنود jnūd",
+  "phrases": [
+   {
+    "ar": "جندي في الجيش",
+    "tr": "jundi fil-jēsh",
+    "en": "a soldier in the army"
+   },
+   {
+    "ar": "الجنود رجعوا",
+    "tr": "il-jnūd rij3u",
+    "en": "the soldiers came back"
+   }
+  ]
+ },
+ {
+  "ar": "إمام",
+  "tr": "imām",
+  "en": "imam; prayer leader",
+  "msa": "إمام",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 2,
+  "usage": 58,
+  "ex_ar": "الإمام صوته حلو في التراويح.",
+  "ex_tr": "il-imām Sōtah 7ilu fit-tarāwī7.",
+  "ex_en": "The imam has a beautiful voice in Taraweeh.",
+  "note": "pl. أيمّة a'imma",
+  "phrases": [
+   {
+    "ar": "إمام الجامع",
+    "tr": "imām ij-jāmi3",
+    "en": "the mosque's imam"
+   },
+   {
+    "ar": "صلّى بينا الإمام",
+    "tr": "Salla bīna il-imām",
+    "en": "the imam led us in prayer"
+   }
+  ]
+ },
+ {
+  "ar": "صيّاد",
+  "tr": "Sayyād",
+  "en": "fisherman; hunter",
+  "msa": "صيّاد",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 48,
+  "ex_ar": "جاري صيّاد، يطلع البحر كل فجر.",
+  "ex_tr": "jāri Sayyād, yiTla3 il-ba7r kull fajr.",
+  "ex_en": "My neighbour is a fisherman, he goes to sea every dawn.",
+  "note": "pl. صيّادين",
+  "phrases": [
+   {
+    "ar": "صيّاد حوت",
+    "tr": "Sayyād 7ūt",
+    "en": "fisherman"
+   },
+   {
+    "ar": "صيّاد غزال",
+    "tr": "Sayyād ghzāl",
+    "en": "gazelle hunter"
+   }
+  ]
+ },
+ {
+  "ar": "حوّات",
+  "tr": "7awwāt",
+  "en": "fishmonger; fisherman",
+  "msa": "بائع سمك",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 43,
+  "ex_ar": "الحوّات عنده حوت طازة اليوم.",
+  "ex_tr": "il-7awwāt 3andah 7ūt Tāza il-yōm.",
+  "ex_en": "The fishmonger has fresh fish today.",
+  "note": "Libyan: from حوت 7ūt \"fish\"",
+  "phrases": [
+   {
+    "ar": "سوق الحوّاتة",
+    "tr": "sūg il-7awwāta",
+    "en": "the fish market (fishmongers' market)"
+   },
+   {
+    "ar": "سوّلت الحوّات على الثمن",
+    "tr": "sawwalt il-7awwāt 3ala ith-thaman",
+    "en": "I asked the fishmonger the price"
+   }
+  ]
+ },
+ {
+  "ar": "مولى",
+  "tr": "mūla",
+  "en": "owner (of a house, car, shop)",
+  "msa": "مالك",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 1,
+  "usage": 74,
+  "ex_ar": "شكون مولى الكرهبة هذي؟",
+  "ex_tr": "shkūn mūla il-karhba hādhi?",
+  "ex_en": "Who owns this car?",
+  "note": "Libyan/Maghrebi; fem. مولاة mūlāt; pl. موالين",
+  "phrases": [
+   {
+    "ar": "مولى الحوش",
+    "tr": "mūla il-7ōsh",
+    "en": "the landlord / owner of the house"
+   },
+   {
+    "ar": "مولى المحل مش موجود",
+    "tr": "mūla il-ma7all mush mawjūd",
+    "en": "the shop owner isn't here"
+   }
+  ]
+ },
+ {
+  "ar": "مقاول",
+  "tr": "mugāwil",
+  "en": "contractor; builder (company)",
+  "msa": "مقاول",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "المقاول وقّف الخدمة.",
+  "ex_tr": "il-mugāwil waggaf il-khidma.",
+  "ex_en": "The contractor stopped the work.",
+  "note": "pl. مقاولين",
+  "phrases": [
+   {
+    "ar": "مقاول بناء",
+    "tr": "mugāwil binā'",
+    "en": "building contractor"
+   },
+   {
+    "ar": "اتفقنا مع مقاول",
+    "tr": "ittafagna ma3a mugāwil",
+    "en": "we made a deal with a contractor"
+   }
+  ]
+ },
+ {
+  "ar": "عامل",
+  "tr": "3āmil",
+  "en": "worker; labourer",
+  "msa": "عامل",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 2,
+  "usage": 60,
+  "ex_ar": "العمال جوا الصبح بدري.",
+  "ex_tr": "il-3ummāl jaw iS-SbaH badri.",
+  "ex_en": "The workers came early in the morning.",
+  "note": "pl. عمّال 3ummāl",
+  "phrases": [
+   {
+    "ar": "عامل نظافة",
+    "tr": "3āmil naDHāfa",
+    "en": "cleaner; street sweeper"
+   },
+   {
+    "ar": "عيد العمال",
+    "tr": "3īd il-3ummāl",
+    "en": "Labour Day"
+   }
+  ]
+ },
+ {
+  "ar": "فنّي",
+  "tr": "fanni",
+  "en": "technician",
+  "msa": "فنّي",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "جا فنّي صلّح الكوندشن.",
+  "ex_tr": "ja fanni Salla7 il-kondishin.",
+  "ex_en": "A technician came and fixed the AC.",
+  "note": "pl. فنّيين",
+  "phrases": [
+   {
+    "ar": "فنّي كهربا",
+    "tr": "fanni kahraba",
+    "en": "electrical technician"
+   },
+   {
+    "ar": "عيّطنا للفنّي",
+    "tr": "3ayyiTna lil-fanni",
+    "en": "we called the technician"
+   }
+  ]
+ },
+ {
+  "ar": "بيطري",
+  "tr": "bēTari",
+  "en": "vet; veterinarian",
+  "msa": "طبيب بيطري",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "الكلب مريض، خذيناه للبيطري.",
+  "ex_tr": "il-kalb mrīD, khdhēnāh lil-bēTari.",
+  "ex_en": "The dog is sick, we took it to the vet.",
+  "phrases": [
+   {
+    "ar": "دكتور بيطري",
+    "tr": "doktōr bēTari",
+    "en": "veterinary doctor"
+   },
+   {
+    "ar": "عيادة بيطرية",
+    "tr": "3iyāda bēTariyya",
+    "en": "vet clinic"
+   }
+  ]
+ },
+ {
+  "ar": "صيدلي",
+  "tr": "Sēdali",
+  "en": "pharmacist",
+  "msa": "صيدلي",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 45,
+  "ex_ar": "سوّل الصيدلي على الدوا.",
+  "ex_tr": "sawwil iS-Sēdali 3ad-dwa.",
+  "ex_en": "Ask the pharmacist about the medicine.",
+  "note": "fem. صيدلية Sēdaliyya",
+  "phrases": [
+   {
+    "ar": "الصيدلي قالّي نشربه بعد الماكلة",
+    "tr": "iS-Sēdali gālli nishrbah ba3d il-mākla",
+    "en": "the pharmacist told me to take it after food"
+   },
+   {
+    "ar": "ولدها صيدلي",
+    "tr": "wildha Sēdali",
+    "en": "her son is a pharmacist"
+   }
+  ]
+ },
+ {
+  "ar": "محاسب",
+  "tr": "m7āsib",
+  "en": "accountant",
+  "msa": "محاسب",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "نخدم محاسب في شركة نفط.",
+  "ex_tr": "nikhdim m7āsib fi sharikat nafT.",
+  "ex_en": "I work as an accountant in an oil company.",
+  "note": "pl. محاسبين",
+  "phrases": [
+   {
+    "ar": "المحاسب ما صرفش المرتبات",
+    "tr": "il-m7āsib ma Srafsh il-murattabāt",
+    "en": "the accountant hasn't paid the salaries"
+   },
+   {
+    "ar": "محاسب قانوني",
+    "tr": "m7āsib gānūni",
+    "en": "chartered accountant"
+   }
+  ]
+ },
+ {
+  "ar": "سكرتيرة",
+  "tr": "sekretēra",
+  "en": "secretary",
+  "msa": "سكرتيرة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "السكرتيرة قالتلي المدير مش موجود.",
+  "ex_tr": "is-sekretēra gāltli il-mudīr mush mawjūd.",
+  "ex_en": "The secretary told me the manager isn't in.",
+  "note": "masc. سكرتير",
+  "phrases": [
+   {
+    "ar": "خلّي رقمك عند السكرتيرة",
+    "tr": "khalli ragmik 3and is-sekretēra",
+    "en": "leave your number with the secretary"
+   },
+   {
+    "ar": "سكرتيرة المدير",
+    "tr": "sekretērat il-mudīr",
+    "en": "the manager's secretary"
+   }
+  ]
+ },
+ {
+  "ar": "مترجم",
+  "tr": "mutarjim",
+  "en": "translator; interpreter",
+  "msa": "مترجم",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "جبنا مترجم للاجتماع.",
+  "ex_tr": "jibna mutarjim lil-ijtimā3.",
+  "ex_en": "We brought an interpreter for the meeting.",
+  "note": "pl. مترجمين",
+  "phrases": [
+   {
+    "ar": "مترجم محلّف",
+    "tr": "mutarjim m7allaf",
+    "en": "sworn translator"
+   },
+   {
+    "ar": "نبّي مترجم إنجليزي",
+    "tr": "nibbi mutarjim inglīzi",
+    "en": "I need an English translator"
+   }
+  ]
+ },
+ {
+  "ar": "مذيع",
+  "tr": "mudhī3",
+  "en": "broadcaster; presenter",
+  "msa": "مذيع",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "المذيع هذا صوته معروف.",
+  "ex_tr": "il-mudhī3 hādha Sōtah ma3rūf.",
+  "ex_en": "This presenter's voice is well known.",
+  "note": "fem. مذيعة",
+  "phrases": [
+   {
+    "ar": "مذيع راديو",
+    "tr": "mudhī3 rādyu",
+    "en": "radio presenter"
+   },
+   {
+    "ar": "مذيعة الأخبار",
+    "tr": "mudhī3at il-akhbār",
+    "en": "the newsreader"
+   }
+  ]
+ },
+ {
+  "ar": "مصوّر",
+  "tr": "mSawwir",
+  "en": "photographer; cameraman",
+  "msa": "مصوّر",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 45,
+  "ex_ar": "جبنا مصوّر للعرس.",
+  "ex_tr": "jibna mSawwir lil-3urs.",
+  "ex_en": "We hired a photographer for the wedding.",
+  "note": "fem. مصوّرة (popular for women's wedding halls)",
+  "phrases": [
+   {
+    "ar": "مصوّر أعراس",
+    "tr": "mSawwir a3rās",
+    "en": "wedding photographer"
+   },
+   {
+    "ar": "المصوّرة جات بدري",
+    "tr": "il-mSawwira jāt badri",
+    "en": "the (female) photographer came early"
+   }
+  ]
+ },
+ {
+  "ar": "رسّام",
+  "tr": "rassām",
+  "en": "painter (artist)",
+  "msa": "رسّام",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 35,
+  "ex_ar": "ولدي يبي يولّي رسّام.",
+  "ex_tr": "wildi yibbi ywalli rassām.",
+  "ex_en": "My son wants to become a painter.",
+  "phrases": [
+   {
+    "ar": "رسّام مشهور",
+    "tr": "rassām mashhūr",
+    "en": "a famous painter"
+   },
+   {
+    "ar": "رسّام كاريكاتير",
+    "tr": "rassām karikatīr",
+    "en": "cartoonist"
+   }
+  ]
+ },
+ {
+  "ar": "فنّان",
+  "tr": "fannān",
+  "en": "artist; performer; singer",
+  "msa": "فنّان",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "هو فنّان معروف في ليبيا.",
+  "ex_tr": "hu fannān ma3rūf fi lībya.",
+  "ex_en": "He's a well-known artist in Libya.",
+  "note": "pl. فنّانين; fem. فنّانة. Also used jokingly: \"you're an artist!\"",
+  "phrases": [
+   {
+    "ar": "يا فنّان!",
+    "tr": "ya fannān!",
+    "en": "nice one, you artist!"
+   },
+   {
+    "ar": "فنّانة شعبية",
+    "tr": "fannāna sha3biyya",
+    "en": "folk singer (female)"
+   }
+  ]
+ },
+ {
+  "ar": "مغنّي",
+  "tr": "mghanni",
+  "en": "singer",
+  "msa": "مغنٍّ",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 45,
+  "ex_ar": "المغنّي غنّى في العرس لين الفجر.",
+  "ex_tr": "il-mghanni ghanna fil-3urs līn il-fajr.",
+  "ex_en": "The singer sang at the wedding till dawn.",
+  "note": "fem. مغنّية",
+  "phrases": [
+   {
+    "ar": "مغنّي شعبي",
+    "tr": "mghanni sha3bi",
+    "en": "folk singer"
+   },
+   {
+    "ar": "نحب المغنّي هذا",
+    "tr": "n7ibb il-mghanni hādha",
+    "en": "I like this singer"
+   }
+  ]
+ },
+ {
+  "ar": "ممثّل",
+  "tr": "mumaththil",
+  "en": "actor; representative",
+  "msa": "ممثّل",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "الممثّل هذا يطلع في المسلسل.",
+  "ex_tr": "il-mumaththil hādha yiTla3 fil-musalsal.",
+  "ex_en": "This actor appears in the series.",
+  "note": "fem. ممثّلة; pl. ممثّلين",
+  "phrases": [
+   {
+    "ar": "ممثّل كوميدي",
+    "tr": "mumaththil kōmīdi",
+    "en": "comic actor"
+   },
+   {
+    "ar": "ممثّل الشركة",
+    "tr": "mumaththil ish-sharika",
+    "en": "the company's representative"
+   }
+  ]
+ },
+ {
+  "ar": "كاتب",
+  "tr": "kātib",
+  "en": "writer; author; clerk",
+  "msa": "كاتب",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 48,
+  "ex_ar": "الكاتب هذا كتب على طرابلس القديمة.",
+  "ex_tr": "il-kātib hādha ktib 3ala Trābilis il-gdīma.",
+  "ex_en": "This writer wrote about old Tripoli.",
+  "note": "pl. كتّاب kuttāb",
+  "phrases": [
+   {
+    "ar": "كاتب ليبي",
+    "tr": "kātib lībi",
+    "en": "a Libyan writer"
+   },
+   {
+    "ar": "كاتب في المحكمة",
+    "tr": "kātib fil-ma7kama",
+    "en": "a court clerk"
+   }
+  ]
+ },
+ {
+  "ar": "شاعر",
+  "tr": "shā3ir",
+  "en": "poet",
+  "msa": "شاعر",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "جدّي كان شاعر شعبي.",
+  "ex_tr": "jiddi kān shā3ir sha3bi.",
+  "ex_en": "My grandfather was a folk poet.",
+  "note": "pl. شعراء shu3arā'",
+  "phrases": [
+   {
+    "ar": "شاعر شعبي",
+    "tr": "shā3ir sha3bi",
+    "en": "folk poet"
+   },
+   {
+    "ar": "قصيدة الشاعر",
+    "tr": "gaSīdat ish-shā3ir",
+    "en": "the poet's poem"
+   }
+  ]
+ },
+ {
+  "ar": "طيّار",
+  "tr": "Tayyār",
+  "en": "pilot",
+  "msa": "طيّار",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 45,
+  "ex_ar": "ولد عمي طيّار في الخطوط الليبية.",
+  "ex_tr": "wild 3ammi Tayyār fil-khuTūT il-lībiyya.",
+  "ex_en": "My cousin is a pilot with Libyan Airlines.",
+  "note": "pl. طيّارين",
+  "phrases": [
+   {
+    "ar": "طيّار مدني",
+    "tr": "Tayyār madani",
+    "en": "civil pilot"
+   },
+   {
+    "ar": "يبي يولّي طيّار",
+    "tr": "yibbi ywalli Tayyār",
+    "en": "he wants to become a pilot"
+   }
+  ]
+ },
+ {
+  "ar": "بحّار",
+  "tr": "ba77ār",
+  "en": "sailor; seaman",
+  "msa": "بحّار",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "خدم بحّار على باخرة.",
+  "ex_tr": "khdim ba77ār 3ala bākhra.",
+  "ex_en": "He worked as a sailor on a ship.",
+  "note": "pl. بحّارة ba77āra",
+  "phrases": [
+   {
+    "ar": "البحّارة رجعوا للميناء",
+    "tr": "il-ba77āra rij3u lil-mīna",
+    "en": "the sailors returned to port"
+   },
+   {
+    "ar": "بحّار قديم",
+    "tr": "ba77ār gdīm",
+    "en": "an old sailor"
+   }
+  ]
+ },
+ {
+  "ar": "قبطان",
+  "tr": "gubTān",
+  "en": "captain (of a ship or plane)",
+  "msa": "قبطان",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "القبطان قال البحر هايج.",
+  "ex_tr": "il-gubTān gāl il-ba7r hāyij.",
+  "ex_en": "The captain said the sea is rough.",
+  "phrases": [
+   {
+    "ar": "قبطان الطيّارة",
+    "tr": "gubTān iT-Tayyāra",
+    "en": "the plane's captain"
+   },
+   {
+    "ar": "قبطان الباخرة",
+    "tr": "gubTān il-bākhra",
+    "en": "the ship's captain"
+   }
+  ]
+ },
+ {
+  "ar": "راعي",
+  "tr": "rā3i",
+  "en": "shepherd; herdsman",
+  "msa": "راعٍ",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "الراعي طلّع الغنم بدري.",
+  "ex_tr": "ir-rā3i Talla3 il-ghanam badri.",
+  "ex_en": "The shepherd took the sheep out early.",
+  "note": "pl. رعيان ru3yān",
+  "phrases": [
+   {
+    "ar": "راعي غنم",
+    "tr": "rā3i ghanam",
+    "en": "sheep herder"
+   },
+   {
+    "ar": "راعي بل",
+    "tr": "rā3i bil",
+    "en": "camel herder"
+   }
+  ]
+ },
+ {
+  "ar": "خضّار",
+  "tr": "khaDDār",
+  "en": "greengrocer",
+  "msa": "بائع خضار",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "الخضّار عنده طماطم زينة.",
+  "ex_tr": "il-khaDDār 3andah TamāTim zēna.",
+  "ex_en": "The greengrocer has nice tomatoes.",
+  "phrases": [
+   {
+    "ar": "عند الخضّار",
+    "tr": "3and il-khaDDār",
+    "en": "at the greengrocer's"
+   },
+   {
+    "ar": "الخضّار رفع الأسعار",
+    "tr": "il-khaDDār rfa3 il-as3ār",
+    "en": "the greengrocer raised prices"
+   }
+  ]
+ },
+ {
+  "ar": "سمسار",
+  "tr": "samsār",
+  "en": "broker; real-estate agent; middleman",
+  "msa": "سمسار",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 47,
+  "ex_ar": "لقينا الشقة عن طريق سمسار.",
+  "ex_tr": "lgēna ish-shagga 3an Trīg samsār.",
+  "ex_en": "We found the flat through a broker.",
+  "note": "pl. سماسرة samāsra",
+  "phrases": [
+   {
+    "ar": "سمسار حوش",
+    "tr": "samsār 7ōsh",
+    "en": "estate agent"
+   },
+   {
+    "ar": "السمسار خذا عمولته",
+    "tr": "is-samsār khdha 3umūltah",
+    "en": "the broker took his commission"
+   }
+  ]
+ },
+ {
+  "ar": "دلّال",
+  "tr": "dallāl",
+  "en": "auctioneer (in the souq)",
+  "msa": "دلّال",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الدلّال يعيّط على السلعة في سوق الجمعة.",
+  "ex_tr": "id-dallāl y3ayyiT 3as-sil3a fi sūg ij-jum3a.",
+  "ex_en": "The auctioneer calls out the goods at the Friday market.",
+  "note": "pl. دلّالة dallāla",
+  "phrases": [
+   {
+    "ar": "دلّال السيارات",
+    "tr": "dallāl is-sayyārāt",
+    "en": "car-auction crier"
+   },
+   {
+    "ar": "باعها عند الدلّال",
+    "tr": "bā3ha 3and id-dallāl",
+    "en": "he sold it via the auctioneer"
+   }
+  ]
+ },
+ {
+  "ar": "صايغ",
+  "tr": "Sāyigh",
+  "en": "goldsmith; jeweller",
+  "msa": "صائغ",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "العروسة اختارت ذهبها عند الصايغ.",
+  "ex_tr": "il-3arūsa khtārit dhahabha 3and iS-Sāyigh.",
+  "ex_en": "The bride chose her gold at the jeweller's.",
+  "note": "pl. صياغة Syāgha; Souq al-Mushir in old Tripoli has many",
+  "phrases": [
+   {
+    "ar": "سوق الصياغة",
+    "tr": "sūg iS-Syāgha",
+    "en": "the goldsmiths' souq"
+   },
+   {
+    "ar": "الصايغ وزن الذهب",
+    "tr": "iS-Sāyigh wzan id-dhahab",
+    "en": "the jeweller weighed the gold"
+   }
+  ]
+ },
+ {
+  "ar": "خرّاز",
+  "tr": "kharrāz",
+  "en": "shoemaker; cobbler",
+  "msa": "إسكافي",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "خذيت الصبّاط للخرّاز يخيّطه.",
+  "ex_tr": "khdhēt iS-Sabbāt lil-kharrāz ykhayyTah.",
+  "ex_en": "I took the shoe to the cobbler to stitch it.",
+  "note": "Maghrebi word; also traditional slipper maker",
+  "phrases": [
+   {
+    "ar": "سوق الخرّازة",
+    "tr": "sūg il-kharrāza",
+    "en": "the cobblers' market"
+   },
+   {
+    "ar": "الخرّاز صلّح الشنطة",
+    "tr": "il-kharrāz Salla7 ish-shanTa",
+    "en": "the cobbler fixed the bag"
+   }
+  ]
+ },
+ {
+  "ar": "حمّال",
+  "tr": "7ammāl",
+  "en": "porter",
+  "msa": "حمّال",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "الحمّال طلّع الشناطي للفوق.",
+  "ex_tr": "il-7ammāl Talla3 ish-shanāTi lil-fōg.",
+  "ex_en": "The porter carried the bags upstairs.",
+  "note": "pl. حمّالة",
+  "phrases": [
+   {
+    "ar": "حمّال في المطار",
+    "tr": "7ammāl fil-maTār",
+    "en": "airport porter"
+   },
+   {
+    "ar": "عيّط حمّال",
+    "tr": "3ayyiT 7ammāl",
+    "en": "call a porter"
+   }
+  ]
+ },
+ {
+  "ar": "بوّاب",
+  "tr": "bawwāb",
+  "en": "doorman; gatekeeper",
+  "msa": "بوّاب",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 35,
+  "ex_ar": "البوّاب ما خلّاناش ندخلوا.",
+  "ex_tr": "il-bawwāb ma khallānāsh nidkhlu.",
+  "ex_en": "The doorman didn't let us in.",
+  "phrases": [
+   {
+    "ar": "بوّاب العمارة",
+    "tr": "bawwāb il-3imāra",
+    "en": "the building's doorman"
+   },
+   {
+    "ar": "سوّل البوّاب",
+    "tr": "sawwil il-bawwāb",
+    "en": "ask the doorman"
+   }
+  ]
+ },
+ {
+  "ar": "حارس",
+  "tr": "7āris",
+  "en": "guard; watchman",
+  "msa": "حارس",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 2,
+  "usage": 55,
+  "ex_ar": "الحارس طلب البطاقة.",
+  "ex_tr": "il-7āris Tlab il-bTāga.",
+  "ex_en": "The guard asked for the ID card.",
+  "note": "pl. حرّاس 7urrās",
+  "phrases": [
+   {
+    "ar": "حارس أمن",
+    "tr": "7āris amn",
+    "en": "security guard"
+   },
+   {
+    "ar": "حارس المرمى",
+    "tr": "7āris il-marma",
+    "en": "goalkeeper"
+   }
+  ]
+ },
+ {
+  "ar": "عسّاس",
+  "tr": "3assās",
+  "en": "night watchman",
+  "msa": "حارس ليلي",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "العسّاس يقعد في الكشك طول الليل.",
+  "ex_tr": "il-3assās yug3ud fil-kushk Tūl il-lēl.",
+  "ex_en": "The night watchman sits in the booth all night.",
+  "note": "Maghrebi word for a (night) guard",
+  "phrases": [
+   {
+    "ar": "عسّاس السوق",
+    "tr": "3assās is-sūg",
+    "en": "the market's watchman"
+   },
+   {
+    "ar": "خدم عسّاس في مخزن",
+    "tr": "khdim 3assās fi makhzan",
+    "en": "he worked as a watchman at a warehouse"
+   }
+  ]
+ },
+ {
+  "ar": "طبّاخ",
+  "tr": "Tabbākh",
+  "en": "cook; chef",
+  "msa": "طبّاخ",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 48,
+  "ex_ar": "الطبّاخ في المطعم هذا ممتاز.",
+  "ex_tr": "iT-Tabbākh fil-maT3am hādha mumtāz.",
+  "ex_en": "The cook in this restaurant is excellent.",
+  "note": "fem. طبّاخة (woman hired to cook for weddings)",
+  "phrases": [
+   {
+    "ar": "طبّاخة الأعراس",
+    "tr": "Tabbākhat il-a3rās",
+    "en": "wedding cook"
+   },
+   {
+    "ar": "طبّاخ ماهر",
+    "tr": "Tabbākh māhir",
+    "en": "a skilled chef"
+   }
+  ]
+ },
+ {
+  "ar": "قهوجي",
+  "tr": "gahwaji",
+  "en": "café worker; coffee maker",
+  "msa": "قهوجي",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "القهوجي يعرف شنو نشرب كل يوم.",
+  "ex_tr": "il-gahwaji ya3raf shinu nishrab kull yōm.",
+  "ex_en": "The café guy knows what I drink every day.",
+  "note": "Turkish -ji suffix",
+  "phrases": [
+   {
+    "ar": "يا قهوجي، زوز مكياطة",
+    "tr": "ya gahwaji, zūz makyāTa",
+    "en": "waiter, two macchiatos"
+   },
+   {
+    "ar": "قهوجي المقهى",
+    "tr": "gahwaji il-gahwa",
+    "en": "the café's barista"
+   }
+  ]
+ },
+ {
+  "ar": "جرسون",
+  "tr": "garsōn",
+  "en": "waiter",
+  "msa": "نادل",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "الجرسون جاب الحساب.",
+  "ex_tr": "il-garsōn jāb il-7sāb.",
+  "ex_en": "The waiter brought the bill.",
+  "note": "from French garçon; also قارسون",
+  "phrases": [
+   {
+    "ar": "عيّط للجرسون",
+    "tr": "3ayyiT lil-garsōn",
+    "en": "call the waiter"
+   },
+   {
+    "ar": "جرسون في مطعم",
+    "tr": "garsōn fi maT3am",
+    "en": "a waiter in a restaurant"
+   }
+  ]
+ },
+ {
+  "ar": "بيّاع",
+  "tr": "bayyā3",
+  "en": "seller; vendor; salesman",
+  "msa": "بائع",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 2,
+  "usage": 57,
+  "ex_ar": "البيّاع قالّي هذا آخر ثمن.",
+  "ex_tr": "il-bayyā3 gālli hādha ākhir thaman.",
+  "ex_en": "The seller told me this is the final price.",
+  "note": "pl. بيّاعة bayyā3a",
+  "phrases": [
+   {
+    "ar": "بيّاع خضرة",
+    "tr": "bayyā3 khuDra",
+    "en": "vegetable seller"
+   },
+   {
+    "ar": "بيّاع في الشارع",
+    "tr": "bayyā3 fish-shāri3",
+    "en": "street vendor"
+   }
+  ]
+ },
+ {
+  "ar": "راجل أعمال",
+  "tr": "rājil a3māl",
+  "en": "businessman",
+  "msa": "رجل أعمال",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "بوه راجل أعمال معروف.",
+  "ex_tr": "būh rājil a3māl ma3rūf.",
+  "ex_en": "His father is a well-known businessman.",
+  "note": "pl. رجال أعمال; fem. سيدة أعمال",
+  "phrases": [
+   {
+    "ar": "راجل أعمال ناجح",
+    "tr": "rājil a3māl nāji7",
+    "en": "a successful businessman"
+   },
+   {
+    "ar": "رجال الأعمال الليبيين",
+    "tr": "rijāl il-a3māl il-lībiyyīn",
+    "en": "Libyan businessmen"
+   }
+  ]
+ },
+ {
+  "ar": "رئيس",
+  "tr": "ra'īs",
+  "en": "president; head; boss",
+  "msa": "رئيس",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 2,
+  "usage": 62,
+  "ex_ar": "الرئيس متاعي في الخدمة صعيب.",
+  "ex_tr": "ir-ra'īs mtā3i fil-khidma Sa3īb.",
+  "ex_en": "My boss at work is tough.",
+  "note": "pl. رؤساء ru'asā'",
+  "phrases": [
+   {
+    "ar": "رئيس القسم",
+    "tr": "ra'īs il-gism",
+    "en": "head of department"
+   },
+   {
+    "ar": "رئيس الحكومة",
+    "tr": "ra'īs il-7ukūma",
+    "en": "head of government"
+   }
+  ]
+ },
+ {
+  "ar": "نايب",
+  "tr": "nāyib",
+  "en": "deputy; member of parliament",
+  "msa": "نائب",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "النايب جا للمنطقة قبل الانتخابات.",
+  "ex_tr": "in-nāyib ja lil-manTiga gabl il-intikhābāt.",
+  "ex_en": "The MP came to the area before the elections.",
+  "note": "pl. نوّاب nuwwāb",
+  "phrases": [
+   {
+    "ar": "نايب المدير",
+    "tr": "nāyib il-mudīr",
+    "en": "deputy manager"
+   },
+   {
+    "ar": "مجلس النوّاب",
+    "tr": "majlis in-nuwwāb",
+    "en": "House of Representatives"
+   }
+  ]
+ },
+ {
+  "ar": "مساعد",
+  "tr": "msā3id",
+  "en": "assistant",
+  "msa": "مساعد",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "خلّي المساعد متاعي يكمّلها.",
+  "ex_tr": "khalli il-msā3id mtā3i ykammilha.",
+  "ex_en": "Let my assistant finish it.",
+  "note": "pl. مساعدين",
+  "phrases": [
+   {
+    "ar": "مساعد المدير",
+    "tr": "msā3id il-mudīr",
+    "en": "the manager's assistant"
+   },
+   {
+    "ar": "مساعد طبّاخ",
+    "tr": "msā3id Tabbākh",
+    "en": "kitchen assistant"
+   }
+  ]
+ },
+ {
+  "ar": "زميل",
+  "tr": "zmīl",
+  "en": "colleague; classmate",
+  "msa": "زميل",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 2,
+  "usage": 58,
+  "ex_ar": "هذا زميلي في الخدمة.",
+  "ex_tr": "hādha zmīli fil-khidma.",
+  "ex_en": "This is my colleague from work.",
+  "note": "pl. زملاء zumalā'",
+  "phrases": [
+   {
+    "ar": "زميل في الدراسة",
+    "tr": "zmīl fid-dirāsa",
+    "en": "classmate"
+   },
+   {
+    "ar": "زملاي في المكتب",
+    "tr": "zmalāy fil-maktab",
+    "en": "my colleagues at the office"
+   }
+  ]
+ },
+ {
+  "ar": "زميلة",
+  "tr": "zmīla",
+  "en": "colleague (female)",
+  "msa": "زميلة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 48,
+  "ex_ar": "زميلتي تساعدني في التقارير.",
+  "ex_tr": "zmīlti tsā3idni fit-tagārīr.",
+  "ex_en": "My (female) colleague helps me with reports.",
+  "phrases": [
+   {
+    "ar": "زميلتي في الجامعة",
+    "tr": "zmīlti fij-jām3a",
+    "en": "my classmate at university"
+   },
+   {
+    "ar": "زميلتنا الجديدة",
+    "tr": "zmīlitna ij-jdīda",
+    "en": "our new colleague"
+   }
+  ]
+ },
+ {
+  "ar": "متدرّب",
+  "tr": "mutadarrib",
+  "en": "trainee; intern",
+  "msa": "متدرّب",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "عندنا متدرّبين جدد في الشركة.",
+  "ex_tr": "3andna mutadarrbīn jdād fish-sharika.",
+  "ex_en": "We have new trainees at the company.",
+  "note": "pl. متدرّبين",
+  "phrases": [
+   {
+    "ar": "متدرّب في المستشفى",
+    "tr": "mutadarrib fil-mustashfa",
+    "en": "hospital intern"
+   },
+   {
+    "ar": "فترة المتدرّب",
+    "tr": "fatrat il-mutadarrib",
+    "en": "the trainee period"
+   }
+  ]
+ },
+ {
+  "ar": "خبير",
+  "tr": "khabīr",
+  "en": "expert; specialist",
+  "msa": "خبير",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 45,
+  "ex_ar": "جابوا خبير من برّا.",
+  "ex_tr": "jābu khabīr min barra.",
+  "ex_en": "They brought an expert from abroad.",
+  "note": "pl. خبراء khubarā'",
+  "phrases": [
+   {
+    "ar": "خبير في الكهربا",
+    "tr": "khabīr fil-kahraba",
+    "en": "an expert in electricity"
+   },
+   {
+    "ar": "عامل روحه خبير",
+    "tr": "3āmil rū7ah khabīr",
+    "en": "he acts like an expert"
+   }
+  ]
+ },
+ {
+  "ar": "مستشار",
+  "tr": "mustashār",
+  "en": "adviser; consultant",
+  "msa": "مستشار",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "خدم مستشار في الوزارة.",
+  "ex_tr": "khdim mustashār fil-wizāra.",
+  "ex_en": "He worked as an adviser in the ministry.",
+  "note": "pl. مستشارين",
+  "phrases": [
+   {
+    "ar": "مستشار قانوني",
+    "tr": "mustashār gānūni",
+    "en": "legal adviser"
+   },
+   {
+    "ar": "مستشار الرئيس",
+    "tr": "mustashār ir-ra'īs",
+    "en": "the president's adviser"
+   }
+  ]
+ },
+ {
+  "ar": "مشرف",
+  "tr": "mushrif",
+  "en": "supervisor",
+  "msa": "مشرف",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 43,
+  "ex_ar": "المشرف يمرّ علينا كل ساعة.",
+  "ex_tr": "il-mushrif ymurr 3alēna kull sā3a.",
+  "ex_en": "The supervisor checks on us every hour.",
+  "note": "pl. مشرفين",
+  "phrases": [
+   {
+    "ar": "مشرف العمّال",
+    "tr": "mushrif il-3ummāl",
+    "en": "workers' supervisor"
+   },
+   {
+    "ar": "المشرف وقّع الورقة",
+    "tr": "il-mushrif wagga3 il-warga",
+    "en": "the supervisor signed the paper"
+   }
+  ]
+ },
+ {
+  "ar": "مفتّش",
+  "tr": "mfattish",
+  "en": "inspector",
+  "msa": "مفتّش",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "جا مفتّش من البلدية.",
+  "ex_tr": "ja mfattish min il-baladiyya.",
+  "ex_en": "An inspector came from the municipality.",
+  "note": "pl. مفتّشين",
+  "phrases": [
+   {
+    "ar": "مفتّش صحّي",
+    "tr": "mfattish Si77i",
+    "en": "health inspector"
+   },
+   {
+    "ar": "المفتّش كتب مخالفة",
+    "tr": "il-mfattish ktib mukhālfa",
+    "en": "the inspector wrote a violation"
+   }
+  ]
+ },
+ {
+  "ar": "كوافيرة",
+  "tr": "kwāfīra",
+  "en": "hairdresser (women's)",
+  "msa": "مصفّفة شعر",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "العروسة حجزت عند الكوافيرة.",
+  "ex_tr": "il-3arūsa 7ajzit 3and il-kwāfīra.",
+  "ex_en": "The bride booked with the hairdresser.",
+  "note": "from French coiffeuse; also the salon itself",
+  "phrases": [
+   {
+    "ar": "مشت للكوافيرة",
+    "tr": "mshat lil-kwāfīra",
+    "en": "she went to the hairdresser"
+   },
+   {
+    "ar": "الكوافيرة غالية",
+    "tr": "il-kwāfīra ghālya",
+    "en": "the hairdresser is expensive"
+   }
+  ]
+ },
+ {
+  "ar": "مؤذّن",
+  "tr": "mu'adhdhin",
+  "en": "muezzin",
+  "msa": "مؤذّن",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "المؤذّن أذّن الفجر.",
+  "ex_tr": "il-mu'adhdhin adhdhan il-fajr.",
+  "ex_en": "The muezzin called the dawn prayer.",
+  "phrases": [
+   {
+    "ar": "صوت المؤذّن",
+    "tr": "Sōt il-mu'adhdhin",
+    "en": "the muezzin's voice"
+   },
+   {
+    "ar": "مؤذّن الجامع",
+    "tr": "mu'adhdhin ij-jāmi3",
+    "en": "the mosque's muezzin"
+   }
+  ]
+ },
+ {
+  "ar": "فقي",
+  "tr": "fgi",
+  "en": "Quran teacher (in the kuttab); religious scholar",
+  "msa": "فقيه",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "قريت القرآن عند الفقي وانا صغير.",
+  "ex_tr": "grēt il-gur'ān 3and il-fgi w-āna Sghīr.",
+  "ex_en": "I learned the Quran with the fqi when I was little.",
+  "note": "Libyan form of فقيه; pl. فقها fugha",
+  "phrases": [
+   {
+    "ar": "عند الفقي",
+    "tr": "3and il-fgi",
+    "en": "at the Quran teacher's"
+   },
+   {
+    "ar": "الفقي ضربنا بالعصا",
+    "tr": "il-fgi Darabna bil-3Sa",
+    "en": "the Quran teacher hit us with the stick"
+   }
+  ]
+ },
+ {
+  "ar": "مفتي",
+  "tr": "mufti",
+  "en": "mufti",
+  "msa": "مفتٍ",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "المفتي أعلن أول رمضان.",
+  "ex_tr": "il-mufti a3lan awwal ramaDān.",
+  "ex_en": "The mufti announced the start of Ramadan.",
+  "note": "دار الإفتاء = the fatwa office",
+  "phrases": [
+   {
+    "ar": "سوّل المفتي",
+    "tr": "sawwil il-mufti",
+    "en": "ask the mufti"
+   },
+   {
+    "ar": "فتوى المفتي",
+    "tr": "fatwa il-mufti",
+    "en": "the mufti's ruling"
+   }
+  ]
+ },
+ {
+  "ar": "حافظ",
+  "tr": "7āfiDH",
+  "en": "Quran memoriser",
+  "msa": "حافظ",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "ولدها حافظ القرآن كامل.",
+  "ex_tr": "wildha 7āfiDH il-gur'ān kāmil.",
+  "ex_en": "Her son has memorised the whole Quran.",
+  "note": "pl. حفّاظ 7uffāDH",
+  "phrases": [
+   {
+    "ar": "حافظ لكتاب الله",
+    "tr": "7āfiDH li-ktāb allah",
+    "en": "one who knows the Quran by heart"
+   },
+   {
+    "ar": "مسابقة الحفّاظ",
+    "tr": "musābagat il-7uffāDH",
+    "en": "Quran memorisers' competition"
+   }
+  ]
+ },
+ {
+  "ar": "ضابط",
+  "tr": "DābiT",
+  "en": "officer (army, police)",
+  "msa": "ضابط",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 47,
+  "ex_ar": "بوه ضابط في الجيش.",
+  "ex_tr": "būh DābiT fij-jēsh.",
+  "ex_en": "His father is an army officer.",
+  "note": "pl. ضبّاط DubbāT",
+  "phrases": [
+   {
+    "ar": "ضابط شرطة",
+    "tr": "DābiT shurTa",
+    "en": "police officer (rank)"
+   },
+   {
+    "ar": "ضابط متقاعد",
+    "tr": "DābiT mitgā3id",
+    "en": "retired officer"
+   }
+  ]
+ },
+ {
+  "ar": "عقيد",
+  "tr": "3agīd",
+  "en": "colonel",
+  "msa": "عقيد",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "العقيد هو اللي يقرّر.",
+  "ex_tr": "il-3agīd hu illi ygarrir.",
+  "ex_en": "The colonel is the one who decides.",
+  "phrases": [
+   {
+    "ar": "رتبة عقيد",
+    "tr": "rutbat 3agīd",
+    "en": "the rank of colonel"
+   },
+   {
+    "ar": "ترقّى لعقيد",
+    "tr": "traggā l-3agīd",
+    "en": "he was promoted to colonel"
+   }
+  ]
+ },
+ {
+  "ar": "محقّق",
+  "tr": "mu7aggig",
+  "en": "investigator; detective",
+  "msa": "محقّق",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 33,
+  "ex_ar": "المحقّق سوّلني على كل شي.",
+  "ex_tr": "il-mu7aggig sawwalni 3ala kull shay.",
+  "ex_en": "The investigator asked me about everything.",
+  "note": "pl. محقّقين",
+  "phrases": [
+   {
+    "ar": "محقّق في النيابة",
+    "tr": "mu7aggig fin-niyāba",
+    "en": "investigator at the prosecutor's office"
+   },
+   {
+    "ar": "قدّام المحقّق",
+    "tr": "guddām il-mu7aggig",
+    "en": "before the investigator"
+   }
+  ]
+ },
+ {
+  "ar": "وكيل",
+  "tr": "wakīl",
+  "en": "agent; dealer; prosecutor",
+  "msa": "وكيل",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "مشينا لوكيل تويوتا.",
+  "ex_tr": "mshēna l-wakīl tōyōta.",
+  "ex_en": "We went to the Toyota dealer.",
+  "note": "pl. وكلاء",
+  "phrases": [
+   {
+    "ar": "وكيل النيابة",
+    "tr": "wakīl in-niyāba",
+    "en": "public prosecutor"
+   },
+   {
+    "ar": "وكيل الشركة",
+    "tr": "wakīl ish-sharika",
+    "en": "the company's agent"
+   }
+  ]
+ },
+ {
+  "ar": "مأذون",
+  "tr": "ma'dhūn",
+  "en": "marriage registrar; officiant",
+  "msa": "مأذون",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "المأذون جا وكتب العقد.",
+  "ex_tr": "il-ma'dhūn ja w-ktib il-3agd.",
+  "ex_en": "The registrar came and wrote the contract.",
+  "note": "performs the marriage contract (الملاك)",
+  "phrases": [
+   {
+    "ar": "جابوا المأذون",
+    "tr": "jābu il-ma'dhūn",
+    "en": "they brought the registrar"
+   },
+   {
+    "ar": "المأذون طلب الشهود",
+    "tr": "il-ma'dhūn Tlab ish-shuhūd",
+    "en": "the registrar asked for witnesses"
+   }
+  ]
+ },
+ {
+  "ar": "سفير",
+  "tr": "safīr",
+  "en": "ambassador",
+  "msa": "سفير",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "السفير الإيطالي زار طرابلس.",
+  "ex_tr": "is-safīr il-iTāli zār Trābilis.",
+  "ex_en": "The Italian ambassador visited Tripoli.",
+  "note": "pl. سفراء sufarā'",
+  "phrases": [
+   {
+    "ar": "سفير ليبيا",
+    "tr": "safīr lībya",
+    "en": "Libya's ambassador"
+   },
+   {
+    "ar": "سفيرة",
+    "tr": "safīra",
+    "en": "(female) ambassador"
+   }
+  ]
+ },
+ {
+  "ar": "وزير",
+  "tr": "wazīr",
+  "en": "minister",
+  "msa": "وزير",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "الوزير الجديد وعد بزيادة المرتبات.",
+  "ex_tr": "il-wazīr ij-jdīd wa3ad bi-ziyādat il-murattabāt.",
+  "ex_en": "The new minister promised a salary increase.",
+  "note": "pl. وزراء wuzarā'",
+  "phrases": [
+   {
+    "ar": "وزير الصحة",
+    "tr": "wazīr iS-Si77a",
+    "en": "health minister"
+   },
+   {
+    "ar": "وزير التعليم",
+    "tr": "wazīr it-ta3līm",
+    "en": "education minister"
+   }
+  ]
+ },
+ {
+  "ar": "مختار",
+  "tr": "mukhtār",
+  "en": "neighbourhood headman",
+  "msa": "مختار",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "مختار المحلّة يعرف كل العايلات.",
+  "ex_tr": "mukhtār il-ma7alla ya3raf kull il-3āylāt.",
+  "ex_en": "The neighbourhood headman knows every family.",
+  "note": "Libyan admin: مختار المحلّة issues local papers",
+  "phrases": [
+   {
+    "ar": "ورقة من المختار",
+    "tr": "warga min il-mukhtār",
+    "en": "a paper from the headman"
+   },
+   {
+    "ar": "مختار المحلّة",
+    "tr": "mukhtār il-ma7alla",
+    "en": "the neighbourhood headman"
+   }
+  ]
+ },
+ {
+  "ar": "عميد بلدية",
+  "tr": "3amīd baladiyya",
+  "en": "mayor",
+  "msa": "عميد بلدية",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "عميد البلدية فتح الطريق الجديد.",
+  "ex_tr": "3amīd il-baladiyya fta7 iT-Trīg ij-jdīd.",
+  "ex_en": "The mayor opened the new road.",
+  "note": "Libyan title for mayor",
+  "phrases": [
+   {
+    "ar": "عميد بلدية طرابلس",
+    "tr": "3amīd baladiyyat Trābilis",
+    "en": "the mayor of Tripoli"
+   },
+   {
+    "ar": "انتخبوا عميد جديد",
+    "tr": "intakhbu 3amīd jdīd",
+    "en": "they elected a new mayor"
+   }
+  ]
+ },
+ {
+  "ar": "قابلة",
+  "tr": "gābla",
+  "en": "midwife",
+  "msa": "قابلة",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "زمان كانت القابلة تولّد في الحوش.",
+  "ex_tr": "zmān kānt il-gābla twallid fil-7ōsh.",
+  "ex_en": "In the old days the midwife delivered babies at home.",
+  "phrases": [
+   {
+    "ar": "قابلة الحومة",
+    "tr": "gāblat il-7ōma",
+    "en": "the neighbourhood midwife"
+   },
+   {
+    "ar": "جابوا القابلة",
+    "tr": "jābu il-gābla",
+    "en": "they fetched the midwife"
+   }
+  ]
+ },
+ {
+  "ar": "صانع",
+  "tr": "Sāni3",
+  "en": "apprentice; shop hand",
+  "msa": "صانع",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "حطّ ولده صانع عند الحلّاق.",
+  "ex_tr": "7aTT wildah Sāni3 3and il-7allāg.",
+  "ex_en": "He placed his son as an apprentice with the barber.",
+  "note": "Maghrebi: worker under a master (معلّم)",
+  "phrases": [
+   {
+    "ar": "صانع عند المعلّم",
+    "tr": "Sāni3 3and il-m3allim",
+    "en": "apprentice to the master"
+   },
+   {
+    "ar": "بدا صانع وولّى معلّم",
+    "tr": "bda Sāni3 w-walla m3allim",
+    "en": "he started as an apprentice and became a master"
+   }
+  ]
+ },
+ {
+  "ar": "جبّاس",
+  "tr": "jabbās",
+  "en": "plasterer",
+  "msa": "جبّاس",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "الجبّاس سوّى السقف جبس.",
+  "ex_tr": "ij-jabbās sawwa is-sagf jibs.",
+  "ex_en": "The plasterer did the ceiling in plaster.",
+  "note": "from جبس \"plaster\"",
+  "phrases": [
+   {
+    "ar": "نبّي جبّاس للصالة",
+    "tr": "nibbi jabbās liS-Sāla",
+    "en": "I need a plasterer for the living room"
+   },
+   {
+    "ar": "الجبّاس خدمته نظيفة",
+    "tr": "ij-jabbās khidmtah nDHīfa",
+    "en": "the plasterer's work is clean"
+   }
+  ]
+ }
+]

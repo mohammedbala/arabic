@@ -1,0 +1,1751 @@
+[
+ {
+  "ar": "كل",
+  "tr": "kull",
+  "en": "each; every; all",
+  "msa": "كل",
+  "pos": "pron",
+  "cat": "adverbs",
+  "freq": 1,
+  "usage": 97,
+  "ex_ar": "كل واحد ياخذ كرسي.",
+  "ex_tr": "kull wā7id yākhudh kursi.",
+  "ex_en": "Everyone takes a chair.",
+  "phrases": [
+   {
+    "ar": "كل الناس",
+    "tr": "kull innās",
+    "en": "all the people"
+   },
+   {
+    "ar": "كل صبح نشرب قهوة",
+    "tr": "kull Sba7 nishrab gahwa",
+    "en": "every morning I drink coffee"
+   },
+   {
+    "ar": "كل حاجة بوقتها",
+    "tr": "kull 7āja b-wagtha",
+    "en": "everything in its own time"
+   }
+  ]
+ },
+ {
+  "ar": "بعض",
+  "tr": "ba3D",
+  "en": "some; a few; each other",
+  "msa": "بعض",
+  "pos": "pron",
+  "cat": "adverbs",
+  "freq": 2,
+  "usage": 78,
+  "ex_ar": "بعض الناس ما يحبوش الحر.",
+  "ex_tr": "ba3D innās ma y7ibbūsh il7arr.",
+  "ex_en": "Some people don't like the heat.",
+  "phrases": [
+   {
+    "ar": "بعض المرات",
+    "tr": "ba3D ilmarrāt",
+    "en": "some times; occasionally"
+   },
+   {
+    "ar": "يعرفوا بعض",
+    "tr": "ya3rfu ba3D",
+    "en": "they know each other"
+   }
+  ]
+ },
+ {
+  "ar": "كل شي",
+  "tr": "kull shay",
+  "en": "everything",
+  "msa": "كل شيء",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 1,
+  "usage": 86,
+  "ex_ar": "كل شي باهي الحمد لله.",
+  "ex_tr": "kull shay bāhi il7amdulillah.",
+  "ex_en": "Everything is fine, thank God.",
+  "phrases": [
+   {
+    "ar": "كل شي جاهز؟",
+    "tr": "kull shay jāhiz?",
+    "en": "is everything ready?"
+   },
+   {
+    "ar": "يعرف كل شي",
+    "tr": "ya3rif kull shay",
+    "en": "he knows everything"
+   }
+  ]
+ },
+ {
+  "ar": "كل حد",
+  "tr": "kull 7add",
+  "en": "everybody; everyone",
+  "msa": "كل أحد",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 66,
+  "ex_ar": "كل حد يبي يرتاح.",
+  "ex_tr": "kull 7add yibbi yirtā7.",
+  "ex_en": "Everybody wants to rest.",
+  "phrases": [
+   {
+    "ar": "كل حد وراسه",
+    "tr": "kull 7add w-rāsa",
+    "en": "everyone for himself"
+   },
+   {
+    "ar": "كل حد في داره",
+    "tr": "kull 7add fi dāra",
+    "en": "everyone at his own home"
+   }
+  ]
+ },
+ {
+  "ar": "كل مرة",
+  "tr": "kull marra",
+  "en": "every time",
+  "msa": "كل مرة",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 68,
+  "ex_ar": "كل مرة نقولك نفس الكلام.",
+  "ex_tr": "kull marra ngullik nafs ilklām.",
+  "ex_en": "Every time I tell you the same thing.",
+  "phrases": [
+   {
+    "ar": "كل مرة يتأخر",
+    "tr": "kull marra yit'akhkhar",
+    "en": "he's late every time"
+   },
+   {
+    "ar": "مش كل مرة",
+    "tr": "mush kull marra",
+    "en": "not every time"
+   }
+  ]
+ },
+ {
+  "ar": "كل ما",
+  "tr": "kull ma",
+  "en": "whenever; every time that",
+  "msa": "كلما",
+  "pos": "conj",
+  "cat": "conjunctions",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "كل ما نجي نلقاك راقد.",
+  "ex_tr": "kull ma nji nilgāk rāgid.",
+  "ex_en": "Whenever I come I find you asleep.",
+  "phrases": [
+   {
+    "ar": "كل ما نشوفه نضحك",
+    "tr": "kull ma nshūfa nuDHHak",
+    "en": "whenever I see him I laugh"
+   },
+   {
+    "ar": "كل ما تبي، كلمني",
+    "tr": "kull ma tibbi, kallimni",
+    "en": "whenever you want, call me"
+   }
+  ]
+ },
+ {
+  "ar": "الكل",
+  "tr": "ilkull",
+  "en": "everyone; all of it",
+  "msa": "الكل",
+  "pos": "pron",
+  "cat": "adverbs",
+  "freq": 2,
+  "usage": 70,
+  "ex_ar": "الكل جا للعرس.",
+  "ex_tr": "ilkull ja lil3ors.",
+  "ex_en": "Everyone came to the wedding.",
+  "phrases": [
+   {
+    "ar": "كليته الكل",
+    "tr": "kalītah ilkull",
+    "en": "I ate all of it"
+   },
+   {
+    "ar": "الكل يعرفه",
+    "tr": "ilkull ya3rfa",
+    "en": "everybody knows him"
+   }
+  ]
+ },
+ {
+  "ar": "كاملين",
+  "tr": "kāmlīn",
+  "en": "all of them; all together; entire",
+  "msa": "جميعاً",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 62,
+  "ex_ar": "جو كاملين للحوش.",
+  "ex_tr": "jaw kāmlīn lil7ōsh.",
+  "ex_en": "They all came to the house.",
+  "note": "plural of كامل; after a pronoun or verb means 'all of them'",
+  "phrases": [
+   {
+    "ar": "إحنا كاملين",
+    "tr": "i7na kāmlīn",
+    "en": "all of us"
+   },
+   {
+    "ar": "ثلاث أيام كاملين",
+    "tr": "thlāth iyyām kāmlīn",
+    "en": "three whole days"
+   }
+  ]
+ },
+ {
+  "ar": "أي",
+  "tr": "ayy",
+  "en": "any; whichever",
+  "msa": "أي",
+  "pos": "pron",
+  "cat": "adverbs",
+  "freq": 2,
+  "usage": 80,
+  "ex_ar": "خوذ أي واحد يعجبك.",
+  "ex_tr": "khūdh ayy wā7id y3ajbik.",
+  "ex_en": "Take whichever one you like.",
+  "phrases": [
+   {
+    "ar": "في أي بلاصة",
+    "tr": "fi ayy blāSa",
+    "en": "anywhere"
+   },
+   {
+    "ar": "أي سؤال؟",
+    "tr": "ayy su'āl?",
+    "en": "any questions?"
+   }
+  ]
+ },
+ {
+  "ar": "أي حاجة",
+  "tr": "ayy 7āja",
+  "en": "anything",
+  "msa": "أي شيء",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 68,
+  "ex_ar": "لو تبي أي حاجة قولي.",
+  "ex_tr": "lu tibbi ayy 7āja gūli.",
+  "ex_en": "If you want anything, tell me.",
+  "phrases": [
+   {
+    "ar": "أي حاجة تمشي",
+    "tr": "ayy 7āja timshi",
+    "en": "anything will do"
+   },
+   {
+    "ar": "ما كليتش أي حاجة",
+    "tr": "ma kalītsh ayy 7āja",
+    "en": "I didn't eat anything"
+   }
+  ]
+ },
+ {
+  "ar": "أي واحد",
+  "tr": "ayy wā7id",
+  "en": "anyone; any one",
+  "msa": "أي واحد",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "أي واحد يقدر يديرها.",
+  "ex_tr": "ayy wā7id yigdar ydīrha.",
+  "ex_en": "Anyone can do it.",
+  "phrases": [
+   {
+    "ar": "اسأل أي واحد",
+    "tr": "is'al ayy wā7id",
+    "en": "ask anyone"
+   },
+   {
+    "ar": "أي واحد فيهم",
+    "tr": "ayy wā7id fīhum",
+    "en": "any one of them"
+   }
+  ]
+ },
+ {
+  "ar": "أي وقت",
+  "tr": "ayy wagt",
+  "en": "any time",
+  "msa": "أي وقت",
+  "pos": "phrase",
+  "cat": "time",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "تعال أي وقت تبي.",
+  "ex_tr": "ta3āl ayy wagt tibbi.",
+  "ex_en": "Come any time you want.",
+  "phrases": [
+   {
+    "ar": "في أي وقت",
+    "tr": "fi ayy wagt",
+    "en": "at any time"
+   },
+   {
+    "ar": "كلمني أي وقت",
+    "tr": "kallimni ayy wagt",
+    "en": "call me any time"
+   }
+  ]
+ },
+ {
+  "ar": "ولا حاجة",
+  "tr": "wala 7āja",
+  "en": "nothing; nothing at all",
+  "msa": "لا شيء",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 66,
+  "ex_ar": "شن صار؟ — ولا حاجة.",
+  "ex_tr": "shin Sār? — wala 7āja.",
+  "ex_en": "What happened? — Nothing.",
+  "phrases": [
+   {
+    "ar": "ما عنديش ولا حاجة",
+    "tr": "ma 3andīsh wala 7āja",
+    "en": "I have nothing at all"
+   },
+   {
+    "ar": "ولا حاجة تستاهل",
+    "tr": "wala 7āja tistāhil",
+    "en": "nothing worth it"
+   }
+  ]
+ },
+ {
+  "ar": "ولا واحد",
+  "tr": "wala wā7id",
+  "en": "not a single one; none",
+  "msa": "ولا واحد",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "ولا واحد فيهم جا.",
+  "ex_tr": "wala wā7id fīhum ja.",
+  "ex_en": "Not one of them came.",
+  "phrases": [
+   {
+    "ar": "ولا واحد يعرف",
+    "tr": "wala wā7id ya3rif",
+    "en": "nobody knows"
+   },
+   {
+    "ar": "ما بقى ولا واحد",
+    "tr": "ma bga wala wā7id",
+    "en": "not a single one is left"
+   }
+  ]
+ },
+ {
+  "ar": "ولا حد",
+  "tr": "wala 7add",
+  "en": "no one; nobody",
+  "msa": "لا أحد",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "ما فيش ولا حد في الشارع.",
+  "ex_tr": "ma fīsh wala 7add fishshāri3.",
+  "ex_en": "There's nobody in the street.",
+  "phrases": [
+   {
+    "ar": "ولا حد سأل عليا",
+    "tr": "wala 7add sa'al 3layya",
+    "en": "nobody asked about me"
+   },
+   {
+    "ar": "ولا حد يقدر",
+    "tr": "wala 7add yigdar",
+    "en": "no one can"
+   }
+  ]
+ },
+ {
+  "ar": "حتى حد",
+  "tr": "7atta 7add",
+  "en": "nobody (at all); not anybody",
+  "msa": "لا أحد",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 55,
+  "ex_ar": "ما شفت حتى حد.",
+  "ex_tr": "ma shuft 7atta 7add.",
+  "ex_en": "I didn't see anybody at all.",
+  "phrases": [
+   {
+    "ar": "حتى حد ما جا",
+    "tr": "7atta 7add ma ja",
+    "en": "nobody at all came"
+   },
+   {
+    "ar": "ما قلت لحتى حد",
+    "tr": "ma gult l-7atta 7add",
+    "en": "I didn't tell anybody"
+   }
+  ]
+ },
+ {
+  "ar": "حتى شي",
+  "tr": "7atta shay",
+  "en": "nothing (at all); not anything",
+  "msa": "لا شيء",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "ما فهمت حتى شي.",
+  "ex_tr": "ma fhimt 7atta shay.",
+  "ex_en": "I didn't understand anything.",
+  "phrases": [
+   {
+    "ar": "حتى شي ما تغير",
+    "tr": "7atta shay ma tghayyar",
+    "en": "nothing changed"
+   },
+   {
+    "ar": "ما خلالي حتى شي",
+    "tr": "ma khallāli 7atta shay",
+    "en": "he left me nothing"
+   }
+  ]
+ },
+ {
+  "ar": "حتى واحد",
+  "tr": "7atta wā7id",
+  "en": "not even one",
+  "msa": "ولا واحد",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "ما لقيت حتى واحد.",
+  "ex_tr": "ma lgīt 7atta wā7id.",
+  "ex_en": "I didn't find even one.",
+  "phrases": [
+   {
+    "ar": "حتى واحد ما رد",
+    "tr": "7atta wā7id ma radd",
+    "en": "not even one answered"
+   },
+   {
+    "ar": "ما بقاش حتى واحد",
+    "tr": "ma bgāsh 7atta wā7id",
+    "en": "not even one is left"
+   }
+  ]
+ },
+ {
+  "ar": "أغلب",
+  "tr": "aghlab",
+  "en": "most; the majority of",
+  "msa": "أغلب",
+  "pos": "adj",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "أغلب الناس مسافرين.",
+  "ex_tr": "aghlab innās msāfrīn.",
+  "ex_en": "Most people are travelling.",
+  "phrases": [
+   {
+    "ar": "أغلب الوقت",
+    "tr": "aghlab ilwagt",
+    "en": "most of the time"
+   },
+   {
+    "ar": "أغلبهم شباب",
+    "tr": "aghlabhum shabāb",
+    "en": "most of them are young men"
+   }
+  ]
+ },
+ {
+  "ar": "معظم",
+  "tr": "mu3DHam",
+  "en": "most of",
+  "msa": "معظم",
+  "pos": "adj",
+  "cat": "adverbs",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "معظم المحلات مسكرة يوم الجمعة.",
+  "ex_tr": "mu3DHam ilma7allāt msakkra yōm ijjum3a.",
+  "ex_en": "Most shops are closed on Friday.",
+  "phrases": [
+   {
+    "ar": "معظم الوقت",
+    "tr": "mu3DHam ilwagt",
+    "en": "most of the time"
+   },
+   {
+    "ar": "معظمهم ليبيين",
+    "tr": "mu3DHamhum lībiyyīn",
+    "en": "most of them are Libyan"
+   }
+  ]
+ },
+ {
+  "ar": "كم واحد",
+  "tr": "kam wā7id",
+  "en": "a few people; several (ones)",
+  "msa": "بعض الأشخاص",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "جو كم واحد من الحومة.",
+  "ex_tr": "jaw kam wā7id min il7ūma.",
+  "ex_en": "A few people from the neighbourhood came.",
+  "phrases": [
+   {
+    "ar": "كم واحد بس",
+    "tr": "kam wā7id bass",
+    "en": "just a few"
+   },
+   {
+    "ar": "نعرف كم واحد غادي",
+    "tr": "na3rif kam wā7id ghādi",
+    "en": "I know a few people there"
+   }
+  ]
+ },
+ {
+  "ar": "واحد ثاني",
+  "tr": "wā7id thāni",
+  "en": "someone else; another one",
+  "msa": "شخص آخر",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "عطيني واحد ثاني، هذا مكسور.",
+  "ex_tr": "3Tīni wā7id thāni, hādha maksūr.",
+  "ex_en": "Give me another one, this is broken.",
+  "phrases": [
+   {
+    "ar": "اسأل واحد ثاني",
+    "tr": "is'al wā7id thāni",
+    "en": "ask someone else"
+   },
+   {
+    "ar": "مش هو، واحد ثاني",
+    "tr": "mush huwa, wā7id thāni",
+    "en": "not him, someone else"
+   }
+  ]
+ },
+ {
+  "ar": "حاجة ثانية",
+  "tr": "7āja thānya",
+  "en": "something else; another thing",
+  "msa": "شيء آخر",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "تبي حاجة ثانية؟",
+  "ex_tr": "tibbi 7āja thānya?",
+  "ex_en": "Do you want anything else?",
+  "phrases": [
+   {
+    "ar": "هذي حاجة ثانية",
+    "tr": "hādhi 7āja thānya",
+    "en": "that's a different matter"
+   },
+   {
+    "ar": "وحاجة ثانية…",
+    "tr": "w-7āja thānya…",
+    "en": "and another thing…"
+   }
+  ]
+ },
+ {
+  "ar": "غيره",
+  "tr": "ghēra",
+  "en": "other than it/him; something else",
+  "msa": "غيره",
+  "pos": "pron",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "ما عنديش غيره.",
+  "ex_tr": "ma 3andīsh ghēra.",
+  "ex_en": "I don't have anything else (but this).",
+  "phrases": [
+   {
+    "ar": "وغيره وغيره",
+    "tr": "w-ghēra w-ghēra",
+    "en": "and so on and so forth"
+   },
+   {
+    "ar": "نبي غيره",
+    "tr": "nibbi ghēra",
+    "en": "I want a different one"
+   }
+  ]
+ },
+ {
+  "ar": "نفس",
+  "tr": "nafs",
+  "en": "same; the same",
+  "msa": "نفس",
+  "pos": "adj",
+  "cat": "adverbs",
+  "freq": 2,
+  "usage": 74,
+  "ex_ar": "عندنا نفس السيارة.",
+  "ex_tr": "3andna nafs issayyāra.",
+  "ex_en": "We have the same car.",
+  "phrases": [
+   {
+    "ar": "نفس الحاجة",
+    "tr": "nafs il7āja",
+    "en": "the same thing"
+   },
+   {
+    "ar": "في نفس الوقت",
+    "tr": "fi nafs ilwagt",
+    "en": "at the same time"
+   },
+   {
+    "ar": "نفس الشي",
+    "tr": "nafs ishshay",
+    "en": "same thing"
+   }
+  ]
+ },
+ {
+  "ar": "بروحي",
+  "tr": "b-rū7i",
+  "en": "by myself; on my own",
+  "msa": "بنفسي",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 64,
+  "ex_ar": "نديرها بروحي، ما تتعبش.",
+  "ex_tr": "ndīrha b-rū7i, ma tit3absh.",
+  "ex_en": "I'll do it by myself, don't trouble yourself.",
+  "phrases": [
+   {
+    "ar": "سكنت بروحي",
+    "tr": "sakant b-rū7i",
+    "en": "I lived on my own"
+   },
+   {
+    "ar": "بروحك؟",
+    "tr": "b-rū7ik?",
+    "en": "by yourself?"
+   },
+   {
+    "ar": "جا بروحه",
+    "tr": "ja b-rū7a",
+    "en": "he came by himself"
+   }
+  ]
+ },
+ {
+  "ar": "عندي",
+  "tr": "3andi",
+  "en": "I have",
+  "msa": "لدي",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 1,
+  "usage": 98,
+  "ex_ar": "عندي زوز خوت.",
+  "ex_tr": "3andi zūz khūt.",
+  "ex_en": "I have two brothers.",
+  "note": "عند + -i; possession in Libyan is expressed with عند",
+  "phrases": [
+   {
+    "ar": "عندي شغل",
+    "tr": "3andi shughl",
+    "en": "I have work"
+   },
+   {
+    "ar": "عندي سؤال",
+    "tr": "3andi su'āl",
+    "en": "I have a question"
+   },
+   {
+    "ar": "عندي فكرة",
+    "tr": "3andi fikra",
+    "en": "I have an idea"
+   }
+  ]
+ },
+ {
+  "ar": "عندك",
+  "tr": "3andik",
+  "en": "you have; do you have?",
+  "msa": "لديك",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 1,
+  "usage": 92,
+  "ex_ar": "عندك ولاعة؟",
+  "ex_tr": "3andik wallā3a?",
+  "ex_en": "Do you have a lighter?",
+  "phrases": [
+   {
+    "ar": "عندك وقت؟",
+    "tr": "3andik wagt?",
+    "en": "do you have time?"
+   },
+   {
+    "ar": "شن عندك؟",
+    "tr": "shin 3andik?",
+    "en": "what have you got?"
+   }
+  ]
+ },
+ {
+  "ar": "عنده",
+  "tr": "3anda",
+  "en": "he has",
+  "msa": "لديه",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 1,
+  "usage": 86,
+  "ex_ar": "عنده سيارة جديدة.",
+  "ex_tr": "3anda sayyāra jdīda.",
+  "ex_en": "He has a new car.",
+  "phrases": [
+   {
+    "ar": "عنده الحق",
+    "tr": "3anda il7agg",
+    "en": "he's right"
+   },
+   {
+    "ar": "ما عندهش فلوس",
+    "tr": "ma 3andahsh flūs",
+    "en": "he has no money"
+   }
+  ]
+ },
+ {
+  "ar": "عندنا",
+  "tr": "3andna",
+  "en": "we have; at our place",
+  "msa": "لدينا",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 2,
+  "usage": 78,
+  "ex_ar": "عندنا ضيوف الليلة.",
+  "ex_tr": "3andna Dyūf illēla.",
+  "ex_en": "We have guests tonight.",
+  "phrases": [
+   {
+    "ar": "تعال عندنا",
+    "tr": "ta3āl 3andna",
+    "en": "come over to our place"
+   },
+   {
+    "ar": "عندنا في ليبيا",
+    "tr": "3andna fi lībya",
+    "en": "here in Libya (with us)"
+   }
+  ]
+ },
+ {
+  "ar": "ما عنديش",
+  "tr": "ma 3andīsh",
+  "en": "I don't have",
+  "msa": "ليس لدي",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 1,
+  "usage": 86,
+  "ex_ar": "ما عنديش فكة.",
+  "ex_tr": "ma 3andīsh fakka.",
+  "ex_en": "I don't have change.",
+  "phrases": [
+   {
+    "ar": "ما عنديش وقت",
+    "tr": "ma 3andīsh wagt",
+    "en": "I don't have time"
+   },
+   {
+    "ar": "ما عنديش فكرة",
+    "tr": "ma 3andīsh fikra",
+    "en": "I have no idea"
+   }
+  ]
+ },
+ {
+  "ar": "عندك حق",
+  "tr": "3andik 7agg",
+  "en": "you're right",
+  "msa": "معك حق",
+  "pos": "phrase",
+  "cat": "social",
+  "freq": 3,
+  "usage": 66,
+  "ex_ar": "عندك حق، غلطت.",
+  "ex_tr": "3andik 7agg, ghlaTt.",
+  "ex_en": "You're right, I was wrong.",
+  "phrases": [
+   {
+    "ar": "والله عندك حق",
+    "tr": "walla 3andik 7agg",
+    "en": "honestly, you're right"
+   },
+   {
+    "ar": "ما عندكش حق",
+    "tr": "ma 3andiksh 7agg",
+    "en": "you're not right"
+   }
+  ]
+ },
+ {
+  "ar": "فيه",
+  "tr": "fīh",
+  "en": "there is; there are; in it",
+  "msa": "يوجد",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 1,
+  "usage": 96,
+  "ex_ar": "فيه حد في الباب.",
+  "ex_tr": "fīh 7add fil-bāb.",
+  "ex_en": "There's someone at the door.",
+  "phrases": [
+   {
+    "ar": "فيه خبزة؟",
+    "tr": "fīh khubza?",
+    "en": "is there any bread?"
+   },
+   {
+    "ar": "فيه زحمة",
+    "tr": "fīh za7ma",
+    "en": "there's traffic"
+   },
+   {
+    "ar": "فيه ناس",
+    "tr": "fīh nās",
+    "en": "there are people"
+   }
+  ]
+ },
+ {
+  "ar": "ما فيش",
+  "tr": "ma fīsh",
+  "en": "there isn't; there's no",
+  "msa": "لا يوجد",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 1,
+  "usage": 92,
+  "ex_ar": "ما فيش ضي اليوم.",
+  "ex_tr": "ma fīsh Daw ilyōm.",
+  "ex_en": "There's no electricity today.",
+  "phrases": [
+   {
+    "ar": "ما فيش حد",
+    "tr": "ma fīsh 7add",
+    "en": "there's nobody"
+   },
+   {
+    "ar": "ما فيش وقت",
+    "tr": "ma fīsh wagt",
+    "en": "there's no time"
+   }
+  ]
+ },
+ {
+  "ar": "كان فيه",
+  "tr": "kān fīh",
+  "en": "there was; there were",
+  "msa": "كان يوجد",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 3,
+  "usage": 66,
+  "ex_ar": "كان فيه عرس في الحومة.",
+  "ex_tr": "kān fīh 3ors fil-7ūma.",
+  "ex_en": "There was a wedding in the neighbourhood.",
+  "phrases": [
+   {
+    "ar": "كان فيه زحمة",
+    "tr": "kān fīh za7ma",
+    "en": "there was traffic"
+   },
+   {
+    "ar": "ما كانش فيه حد",
+    "tr": "ma kānsh fīh 7add",
+    "en": "there was nobody"
+   }
+  ]
+ },
+ {
+  "ar": "ليا",
+  "tr": "līya",
+  "en": "to me; for me; mine",
+  "msa": "لي",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 2,
+  "usage": 82,
+  "ex_ar": "هذا الكتاب ليا.",
+  "ex_tr": "hādha ilktāb līya.",
+  "ex_en": "This book is mine.",
+  "note": "attached form -li after verbs (قولّي, جيبلي)",
+  "phrases": [
+   {
+    "ar": "جيبه ليا",
+    "tr": "jība līya",
+    "en": "bring it to me"
+   },
+   {
+    "ar": "قولّي",
+    "tr": "gulli",
+    "en": "tell me"
+   },
+   {
+    "ar": "ليا ساعة نستنى",
+    "tr": "līya sā3a nistanna",
+    "en": "I've been waiting for an hour"
+   }
+  ]
+ },
+ {
+  "ar": "ليك",
+  "tr": "līk",
+  "en": "to you; for you; yours",
+  "msa": "لك",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 2,
+  "usage": 76,
+  "ex_ar": "جبت ليك هدية.",
+  "ex_tr": "jibt līk hadiyya.",
+  "ex_en": "I brought you a present.",
+  "phrases": [
+   {
+    "ar": "هذا ليك",
+    "tr": "hādha līk",
+    "en": "this is for you"
+   },
+   {
+    "ar": "ليك زمان",
+    "tr": "līk zmān",
+    "en": "it's been a long time for you"
+   }
+  ]
+ },
+ {
+  "ar": "ليه",
+  "tr": "līh",
+  "en": "to him; for him",
+  "msa": "له",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 2,
+  "usage": 70,
+  "ex_ar": "قلت ليه يجي بكري.",
+  "ex_tr": "gult līh yiji bakri.",
+  "ex_en": "I told him to come early.",
+  "phrases": [
+   {
+    "ar": "ابعث ليه ميساج",
+    "tr": "ab3ath līh mīsāj",
+    "en": "send him a message"
+   },
+   {
+    "ar": "خلي ليه شوية",
+    "tr": "khalli līh shwayya",
+    "en": "leave him a little"
+   }
+  ]
+ },
+ {
+  "ar": "عليا",
+  "tr": "3layya",
+  "en": "on me; I owe; up to me",
+  "msa": "علي",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 2,
+  "usage": 72,
+  "ex_ar": "القهوة عليا اليوم.",
+  "ex_tr": "ilgahwa 3layya ilyōm.",
+  "ex_en": "Coffee's on me today.",
+  "phrases": [
+   {
+    "ar": "عليا دين",
+    "tr": "3layya dēn",
+    "en": "I owe a debt"
+   },
+   {
+    "ar": "سأل عليا",
+    "tr": "sa'al 3layya",
+    "en": "he asked about me"
+   },
+   {
+    "ar": "خليها عليا",
+    "tr": "khallīha 3layya",
+    "en": "leave it to me"
+   }
+  ]
+ },
+ {
+  "ar": "عليك",
+  "tr": "3alēk",
+  "en": "on you; you must; it's up to you",
+  "msa": "عليك",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 2,
+  "usage": 76,
+  "ex_ar": "عليك تجي بكري غدوة.",
+  "ex_tr": "3alēk tiji bakri ghudwa.",
+  "ex_en": "You must come early tomorrow.",
+  "phrases": [
+   {
+    "ar": "الدور عليك",
+    "tr": "iddōr 3alēk",
+    "en": "it's your turn"
+   },
+   {
+    "ar": "شن عليك",
+    "tr": "shin 3alēk",
+    "en": "what do you care / what's it to you"
+   },
+   {
+    "ar": "عليك الله",
+    "tr": "3alēk allah",
+    "en": "please, I beg you"
+   }
+  ]
+ },
+ {
+  "ar": "عليه",
+  "tr": "3alēh",
+  "en": "on him; about it; he must",
+  "msa": "عليه",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 3,
+  "usage": 66,
+  "ex_ar": "سألت عليه وما لقيتاش.",
+  "ex_tr": "sa'alt 3alēh w-ma lgītāsh.",
+  "ex_en": "I asked about him and didn't find him.",
+  "phrases": [
+   {
+    "ar": "عليه دين",
+    "tr": "3alēh dēn",
+    "en": "he owes money"
+   },
+   {
+    "ar": "ما عليهش",
+    "tr": "ma 3alēhsh",
+    "en": "it's not his fault / no blame on him"
+   }
+  ]
+ },
+ {
+  "ar": "معايا",
+  "tr": "m3āya",
+  "en": "with me",
+  "msa": "معي",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 1,
+  "usage": 86,
+  "ex_ar": "تعال معايا للسوق.",
+  "ex_tr": "ta3āl m3āya lissūg.",
+  "ex_en": "Come with me to the market.",
+  "phrases": [
+   {
+    "ar": "ما عنديش فلوس معايا",
+    "tr": "ma 3andīsh flūs m3āya",
+    "en": "I have no money on me"
+   },
+   {
+    "ar": "إنت معايا؟",
+    "tr": "inta m3āya?",
+    "en": "are you with me? (following me?)"
+   }
+  ]
+ },
+ {
+  "ar": "معاك",
+  "tr": "m3āk",
+  "en": "with you",
+  "msa": "معك",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 2,
+  "usage": 82,
+  "ex_ar": "مين معاك؟",
+  "ex_tr": "mīn m3āk?",
+  "ex_en": "Who's with you?",
+  "phrases": [
+   {
+    "ar": "نمشي معاك",
+    "tr": "nimshi m3āk",
+    "en": "I'll go with you"
+   },
+   {
+    "ar": "ربي معاك",
+    "tr": "rabbi m3āk",
+    "en": "God be with you"
+   },
+   {
+    "ar": "معاك فلان",
+    "tr": "m3āk flān",
+    "en": "this is so-and-so speaking (phone)"
+   }
+  ]
+ },
+ {
+  "ar": "معاه",
+  "tr": "m3āh",
+  "en": "with him",
+  "msa": "معه",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 2,
+  "usage": 70,
+  "ex_ar": "حكيت معاه البارح.",
+  "ex_tr": "7kēt m3āh ilbār7a.",
+  "ex_en": "I talked with him yesterday.",
+  "phrases": [
+   {
+    "ar": "مشى معاه",
+    "tr": "masha m3āh",
+    "en": "he went with him"
+   },
+   {
+    "ar": "الحق معاه",
+    "tr": "il7agg m3āh",
+    "en": "he's in the right"
+   }
+  ]
+ },
+ {
+  "ar": "منه",
+  "tr": "minna",
+  "en": "from him; from it; of it",
+  "msa": "منه",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 2,
+  "usage": 70,
+  "ex_ar": "خوذ منه شوية.",
+  "ex_tr": "khūdh minna shwayya.",
+  "ex_en": "Take a little of it.",
+  "phrases": [
+   {
+    "ar": "زهقت منه",
+    "tr": "zhigt minna",
+    "en": "I'm fed up with him"
+   },
+   {
+    "ar": "خايف منه",
+    "tr": "khāyif minna",
+    "en": "afraid of him"
+   }
+  ]
+ },
+ {
+  "ar": "مني",
+  "tr": "minni",
+  "en": "from me; than me",
+  "msa": "مني",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 3,
+  "usage": 64,
+  "ex_ar": "هو أكبر مني بعامين.",
+  "ex_tr": "huwa akbar minni b-3āmēn.",
+  "ex_en": "He's two years older than me.",
+  "phrases": [
+   {
+    "ar": "شن تبي مني؟",
+    "tr": "shin tibbi minni?",
+    "en": "what do you want from me?"
+   },
+   {
+    "ar": "خوذها مني",
+    "tr": "khūdhha minni",
+    "en": "take it from me"
+   }
+  ]
+ },
+ {
+  "ar": "بيه",
+  "tr": "bīh",
+  "en": "with it; by it; about him",
+  "msa": "به",
+  "pos": "phrase",
+  "cat": "prepositions",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "شن نديروا بيه؟",
+  "ex_tr": "shin ndīru bīh?",
+  "ex_en": "What shall we do with it?",
+  "phrases": [
+   {
+    "ar": "ما عنديش دخل بيه",
+    "tr": "ma 3andīsh dakhl bīh",
+    "en": "I have nothing to do with him"
+   },
+   {
+    "ar": "شن بيه؟",
+    "tr": "shin bīh?",
+    "en": "what's wrong with him?"
+   }
+  ]
+ },
+ {
+  "ar": "لعند",
+  "tr": "l-3and",
+  "en": "to (someone's place)",
+  "msa": "إلى عند",
+  "pos": "prep",
+  "cat": "prepositions",
+  "freq": 3,
+  "usage": 62,
+  "ex_ar": "ماشي لعند خوي.",
+  "ex_tr": "māshi l-3and khūy.",
+  "ex_en": "I'm going to my brother's.",
+  "phrases": [
+   {
+    "ar": "روّح لعند أمك",
+    "tr": "rawwa7 l-3and ummik",
+    "en": "go home to your mother"
+   },
+   {
+    "ar": "نمشوا لعند الطبيب",
+    "tr": "nimshu l-3and iTTbīb",
+    "en": "we'll go to the doctor's"
+   }
+  ]
+ },
+ {
+  "ar": "هنا",
+  "tr": "hnā",
+  "en": "here",
+  "msa": "هنا",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 55,
+  "ex_ar": "حط الشنطة هنا.",
+  "ex_tr": "7oTT ishshanTa hnā.",
+  "ex_en": "Put the bag here.",
+  "note": "Tripoli speech prefers هني hni; هنا is also heard",
+  "phrases": [
+   {
+    "ar": "من هنا",
+    "tr": "min hnā",
+    "en": "from here; this way"
+   },
+   {
+    "ar": "هنا وغادي",
+    "tr": "hnā w-ghādi",
+    "en": "here and there"
+   }
+  ]
+ },
+ {
+  "ar": "لهني",
+  "tr": "l-hni",
+  "en": "(to) here; this way",
+  "msa": "إلى هنا",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "تعال لهني.",
+  "ex_tr": "ta3āl l-hni.",
+  "ex_en": "Come here.",
+  "phrases": [
+   {
+    "ar": "جيبه لهني",
+    "tr": "jība l-hni",
+    "en": "bring it here"
+   },
+   {
+    "ar": "لين لهني",
+    "tr": "līn l-hni",
+    "en": "up to here"
+   }
+  ]
+ },
+ {
+  "ar": "من هني",
+  "tr": "min hni",
+  "en": "from here; this way",
+  "msa": "من هنا",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "الطريق من هني أقرب.",
+  "ex_tr": "iTTrīg min hni agrab.",
+  "ex_en": "The road is shorter this way.",
+  "phrases": [
+   {
+    "ar": "امشي من هني",
+    "tr": "imshi min hni",
+    "en": "go this way"
+   },
+   {
+    "ar": "قريب من هني",
+    "tr": "grayyib min hni",
+    "en": "close to here"
+   }
+  ]
+ },
+ {
+  "ar": "لغادي",
+  "tr": "l-ghādi",
+  "en": "(to) over there; that way",
+  "msa": "إلى هناك",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "امشي لغادي شوية.",
+  "ex_tr": "imshi l-ghādi shwayya.",
+  "ex_en": "Move over there a bit.",
+  "phrases": [
+   {
+    "ar": "حطه لغادي",
+    "tr": "7oTTa l-ghādi",
+    "en": "put it over there"
+   },
+   {
+    "ar": "من غادي لغادي",
+    "tr": "min ghādi l-ghādi",
+    "en": "from there to there"
+   }
+  ]
+ },
+ {
+  "ar": "هناك",
+  "tr": "hnāk",
+  "en": "there",
+  "msa": "هناك",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "كنت هناك البارح.",
+  "ex_tr": "kunt hnāk ilbār7a.",
+  "ex_en": "I was there yesterday.",
+  "phrases": [
+   {
+    "ar": "لين هناك",
+    "tr": "līn hnāk",
+    "en": "up to there"
+   },
+   {
+    "ar": "هناك فرق",
+    "tr": "hnāk farg",
+    "en": "there's a difference"
+   }
+  ]
+ },
+ {
+  "ar": "لبرا",
+  "tr": "l-barra",
+  "en": "out; outside (direction); abroad",
+  "msa": "إلى الخارج",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 62,
+  "ex_ar": "اطلع لبرا شوية.",
+  "ex_tr": "iTla3 l-barra shwayya.",
+  "ex_en": "Go outside for a bit.",
+  "phrases": [
+   {
+    "ar": "سافر لبرا",
+    "tr": "sāfar l-barra",
+    "en": "he travelled abroad"
+   },
+   {
+    "ar": "ماشي لبرا",
+    "tr": "māshi l-barra",
+    "en": "I'm going out"
+   }
+  ]
+ },
+ {
+  "ar": "لداخل",
+  "tr": "l-dākhil",
+  "en": "in; inside (direction)",
+  "msa": "إلى الداخل",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "ادخل لداخل، برا برد.",
+  "ex_tr": "udkhul l-dākhil, barra bard.",
+  "ex_en": "Come inside, it's cold out.",
+  "phrases": [
+   {
+    "ar": "خش لداخل",
+    "tr": "khushsh l-dākhil",
+    "en": "go on in"
+   },
+   {
+    "ar": "جيبه لداخل",
+    "tr": "jība l-dākhil",
+    "en": "bring it inside"
+   }
+  ]
+ },
+ {
+  "ar": "من برا",
+  "tr": "min barra",
+  "en": "from outside; on the outside; from abroad",
+  "msa": "من الخارج",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "جايبه من برا.",
+  "ex_tr": "jāyba min barra.",
+  "ex_en": "He brought it from abroad.",
+  "phrases": [
+   {
+    "ar": "من برا حلو",
+    "tr": "min barra 7ilu",
+    "en": "nice from the outside"
+   },
+   {
+    "ar": "سكر من برا",
+    "tr": "sakkar min barra",
+    "en": "lock it from outside"
+   }
+  ]
+ },
+ {
+  "ar": "لتحت",
+  "tr": "l-ta7t",
+  "en": "down; downwards",
+  "msa": "إلى الأسفل",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "انزل لتحت.",
+  "ex_tr": "inzil l-ta7t.",
+  "ex_en": "Come down.",
+  "phrases": [
+   {
+    "ar": "طاح لتحت",
+    "tr": "Tā7 l-ta7t",
+    "en": "it fell down"
+   },
+   {
+    "ar": "شوف لتحت",
+    "tr": "shūf l-ta7t",
+    "en": "look down"
+   }
+  ]
+ },
+ {
+  "ar": "لفوق",
+  "tr": "l-fōg",
+  "en": "up; upwards",
+  "msa": "إلى الأعلى",
+  "pos": "adv",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 54,
+  "ex_ar": "اطلع لفوق وجيب الكراسي.",
+  "ex_tr": "iTla3 l-fōg w-jīb ilkarāsi.",
+  "ex_en": "Go up and bring the chairs.",
+  "phrases": [
+   {
+    "ar": "ارفع راسك لفوق",
+    "tr": "arfa3 rāsik l-fōg",
+    "en": "lift your head up"
+   },
+   {
+    "ar": "من تحت لفوق",
+    "tr": "min ta7t l-fōg",
+    "en": "from bottom to top"
+   }
+  ]
+ },
+ {
+  "ar": "جنب",
+  "tr": "janb",
+  "en": "beside; next to; side",
+  "msa": "بجانب",
+  "pos": "prep",
+  "cat": "prepositions",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "اقعد جنبي.",
+  "ex_tr": "ug3ud janbi.",
+  "ex_en": "Sit next to me.",
+  "phrases": [
+   {
+    "ar": "جنب الجامع",
+    "tr": "janb ijjāmi3",
+    "en": "next to the mosque"
+   },
+   {
+    "ar": "على جنب",
+    "tr": "3la janb",
+    "en": "aside; to one side"
+   }
+  ]
+ },
+ {
+  "ar": "على جنب",
+  "tr": "3la janb",
+  "en": "aside; to the side; pull over",
+  "msa": "جانباً",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "وقف على جنب.",
+  "ex_tr": "wagguf 3la janb.",
+  "ex_en": "Pull over to the side.",
+  "phrases": [
+   {
+    "ar": "حط هذا على جنب",
+    "tr": "7oTT hādha 3la janb",
+    "en": "put this aside"
+   },
+   {
+    "ar": "خلي الهدرة على جنب",
+    "tr": "khalli il-hadra 3la janb",
+    "en": "leave that talk aside"
+   }
+  ]
+ },
+ {
+  "ar": "في كل بلاصة",
+  "tr": "fi kull blāSa",
+  "en": "everywhere",
+  "msa": "في كل مكان",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "دورت عليه في كل بلاصة.",
+  "ex_tr": "dawwart 3alēh fi kull blāSa.",
+  "ex_en": "I looked for it everywhere.",
+  "phrases": [
+   {
+    "ar": "موجود في كل بلاصة",
+    "tr": "mawjūd fi kull blāSa",
+    "en": "found everywhere"
+   },
+   {
+    "ar": "زبالة في كل بلاصة",
+    "tr": "zibāla fi kull blāSa",
+    "en": "rubbish everywhere"
+   }
+  ]
+ },
+ {
+  "ar": "حتى بلاصة",
+  "tr": "7atta blāSa",
+  "en": "nowhere",
+  "msa": "لا مكان",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "ما مشيت حتى بلاصة.",
+  "ex_tr": "ma mshīt 7atta blāSa.",
+  "ex_en": "I didn't go anywhere.",
+  "phrases": [
+   {
+    "ar": "ما لقيته في حتى بلاصة",
+    "tr": "ma lgītah fi 7atta blāSa",
+    "en": "I found it nowhere"
+   },
+   {
+    "ar": "حتى بلاصة ما فيها",
+    "tr": "7atta blāSa ma fīha",
+    "en": "not a single place has it"
+   }
+  ]
+ },
+ {
+  "ar": "وين ما",
+  "tr": "wīn ma",
+  "en": "wherever",
+  "msa": "أينما",
+  "pos": "conj",
+  "cat": "conjunctions",
+  "freq": 3,
+  "usage": 55,
+  "ex_ar": "وين ما تمشي نمشي معاك.",
+  "ex_tr": "wīn ma timshi nimshi m3āk.",
+  "ex_en": "Wherever you go, I'll go with you.",
+  "phrases": [
+   {
+    "ar": "وين ما كان",
+    "tr": "wīn ma kān",
+    "en": "wherever it is"
+   },
+   {
+    "ar": "اقعد وين ما تبي",
+    "tr": "ug3ud wīn ma tibbi",
+    "en": "sit wherever you like"
+   }
+  ]
+ },
+ {
+  "ar": "شن ما",
+  "tr": "shin ma",
+  "en": "whatever",
+  "msa": "مهما",
+  "pos": "conj",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "شن ما تقول ما نصدقكش.",
+  "ex_tr": "shin ma tgūl ma nSaddgiksh.",
+  "ex_en": "Whatever you say, I won't believe you.",
+  "phrases": [
+   {
+    "ar": "شن ما صار",
+    "tr": "shin ma Sār",
+    "en": "whatever happened"
+   },
+   {
+    "ar": "كول شن ما تبي",
+    "tr": "kūl shin ma tibbi",
+    "en": "eat whatever you want"
+   }
+  ]
+ },
+ {
+  "ar": "وقتاش ما",
+  "tr": "waktāsh ma",
+  "en": "whenever",
+  "msa": "متى ما",
+  "pos": "conj",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "وقتاش ما تفضى كلمني.",
+  "ex_tr": "waktāsh ma tifDa kallimni.",
+  "ex_en": "Whenever you're free, call me.",
+  "phrases": [
+   {
+    "ar": "وقتاش ما تبي",
+    "tr": "waktāsh ma tibbi",
+    "en": "whenever you want"
+   },
+   {
+    "ar": "وقتاش ما جا",
+    "tr": "waktāsh ma ja",
+    "en": "whenever he came"
+   }
+  ]
+ },
+ {
+  "ar": "مين ما",
+  "tr": "mīn ma",
+  "en": "whoever",
+  "msa": "من ما",
+  "pos": "conj",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "مين ما يجي قوله نرقد.",
+  "ex_tr": "mīn ma yiji gūlah nargud.",
+  "ex_en": "Whoever comes, tell him I'm asleep.",
+  "phrases": [
+   {
+    "ar": "مين ما كان",
+    "tr": "mīn ma kān",
+    "en": "whoever it is"
+   },
+   {
+    "ar": "مين ما يبي يجي",
+    "tr": "mīn ma yibbi yiji",
+    "en": "whoever wants can come"
+   }
+  ]
+ },
+ {
+  "ar": "قداش ما",
+  "tr": "gaddāsh ma",
+  "en": "however much; no matter how much",
+  "msa": "مهما",
+  "pos": "conj",
+  "cat": "conjunctions",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "قداش ما نقرا ما نفهمش.",
+  "ex_tr": "gaddāsh ma nagra ma nifhimsh.",
+  "ex_en": "However much I study, I don't understand.",
+  "phrases": [
+   {
+    "ar": "قداش ما كان السوم",
+    "tr": "gaddāsh ma kān issōm",
+    "en": "whatever the price"
+   },
+   {
+    "ar": "قداش ما تعطيه",
+    "tr": "gaddāsh ma ta3Tīh",
+    "en": "no matter how much you give him"
+   }
+  ]
+ },
+ {
+  "ar": "كيف ما جات",
+  "tr": "kīf ma jāt",
+  "en": "however it turns out; whatever happens",
+  "msa": "كيفما كان",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "كيف ما جات، جات.",
+  "ex_tr": "kīf ma jāt, jāt.",
+  "ex_en": "Whatever happens, happens.",
+  "phrases": [
+   {
+    "ar": "خوذها كيف ما جات",
+    "tr": "khūdhha kīf ma jāt",
+    "en": "take it as it comes"
+   },
+   {
+    "ar": "كيف ما جات باهية",
+    "tr": "kīf ma jāt bāhya",
+    "en": "it's fine either way"
+   }
+  ]
+ }
+]
