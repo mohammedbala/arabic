@@ -1,0 +1,2038 @@
+[
+ {
+  "ar": "فرينو",
+  "tr": "frēnu",
+  "en": "brakes; brake",
+  "msa": "فرامل",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "الفرينو متاع الماكينة ضعيف.",
+  "ex_tr": "il-frēnu mtā3 il-makīna Da3īf.",
+  "ex_en": "The car's brakes are weak.",
+  "note": "Italian loan (freno); also فرامل frāmil",
+  "phrases": [
+   {
+    "ar": "دوس على الفرينو!",
+    "tr": "dūs 3ala l-frēnu!",
+    "en": "Hit the brakes!"
+   },
+   {
+    "ar": "بدّلت الفرينو أمس.",
+    "tr": "baddalt il-frēnu ams.",
+    "en": "I changed the brakes yesterday."
+   }
+  ]
+ },
+ {
+  "ar": "كامبيو",
+  "tr": "kambyu",
+  "en": "gearbox; transmission",
+  "msa": "ناقل الحركة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "الكامبيو فيه حس غريب.",
+  "ex_tr": "il-kambyu fīh 7iss gharīb.",
+  "ex_en": "The gearbox is making a strange noise.",
+  "note": "Italian loan (cambio)",
+  "phrases": [
+   {
+    "ar": "كامبيو أوتوماتيك",
+    "tr": "kambyu otomatīk",
+    "en": "automatic gearbox"
+   },
+   {
+    "ar": "الكامبيو خسران.",
+    "tr": "il-kambyu khasrān.",
+    "en": "The gearbox is broken."
+   }
+  ]
+ },
+ {
+  "ar": "رادياتير",
+  "tr": "radyatēr",
+  "en": "radiator (car)",
+  "msa": "مشعاع",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 33,
+  "ex_ar": "الرادياتير يقطر مية.",
+  "ex_tr": "ir-radyatēr yigaTTar mayya.",
+  "ex_en": "The radiator is leaking water.",
+  "note": "Italian/European loan; also رادياتور",
+  "phrases": [
+   {
+    "ar": "زيد مية للرادياتير.",
+    "tr": "zīd mayya lir-radyatēr.",
+    "en": "Add water to the radiator."
+   },
+   {
+    "ar": "الرادياتير سخن هلبة.",
+    "tr": "ir-radyatēr sukhun halba.",
+    "en": "The radiator got very hot."
+   }
+  ]
+ },
+ {
+  "ar": "فولانتي",
+  "tr": "volanti",
+  "en": "steering wheel",
+  "msa": "مقود",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "شد الفولانتي بيديك الزوز.",
+  "ex_tr": "shidd il-volanti b-īdēk iz-zūz.",
+  "ex_en": "Hold the steering wheel with both hands.",
+  "note": "Italian loan (volante)",
+  "phrases": [
+   {
+    "ar": "الفولانتي ثقيل.",
+    "tr": "il-volanti thgīl.",
+    "en": "The steering is heavy."
+   },
+   {
+    "ar": "دوّر الفولانتي ليمين.",
+    "tr": "dawwir il-volanti l-yimīn.",
+    "en": "Turn the wheel to the right."
+   }
+  ]
+ },
+ {
+  "ar": "فريزيوني",
+  "tr": "frizyōni",
+  "en": "clutch (car)",
+  "msa": "قابض",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 35,
+  "ex_ar": "دوس الفريزيوني قبل ما تبدل.",
+  "ex_tr": "dūs il-frizyōni gbal ma tbaddil.",
+  "ex_en": "Press the clutch before you change gear.",
+  "note": "Italian loan (frizione)",
+  "phrases": [
+   {
+    "ar": "الفريزيوني تاكل.",
+    "tr": "il-frizyōni tākil.",
+    "en": "The clutch is worn out."
+   },
+   {
+    "ar": "ماكينة بلا فريزيوني",
+    "tr": "makīna bla frizyōni",
+    "en": "a car without a clutch (automatic)"
+   }
+  ]
+ },
+ {
+  "ar": "مارشا",
+  "tr": "mārsha",
+  "en": "gear (car)",
+  "msa": "سرعة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "حط المارشا الأولى.",
+  "ex_tr": "7uTT il-mārsha l-ūla.",
+  "ex_en": "Put it in first gear.",
+  "note": "Italian loan (marcia); pl. مارشات mārshāt",
+  "phrases": [
+   {
+    "ar": "طلّع المارشا.",
+    "tr": "Talla3 il-mārsha.",
+    "en": "Take it out of gear."
+   },
+   {
+    "ar": "مارشا ورا",
+    "tr": "mārsha wara",
+    "en": "reverse gear"
+   }
+  ]
+ },
+ {
+  "ar": "موتور",
+  "tr": "mōtōr",
+  "en": "engine; motor",
+  "msa": "محرك",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "الموتور متاعها قوي.",
+  "ex_tr": "il-mōtōr mtā3ha gawi.",
+  "ex_en": "Its engine is powerful.",
+  "note": "Italian/French loan; pl. موتورات mōtōrāt",
+  "phrases": [
+   {
+    "ar": "الموتور ما يشعلش.",
+    "tr": "il-mōtōr ma yish3alsh.",
+    "en": "The engine won't start."
+   },
+   {
+    "ar": "طفّي الموتور.",
+    "tr": "Taffi l-mōtōr.",
+    "en": "Turn off the engine."
+   }
+  ]
+ },
+ {
+  "ar": "شكمان",
+  "tr": "shakmān",
+  "en": "exhaust pipe; silencer",
+  "msa": "عادم",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "الشكمان يدير في حس كبير.",
+  "ex_tr": "ish-shakmān ydīr fi 7iss kbīr.",
+  "ex_en": "The exhaust is making a loud noise.",
+  "note": "from Turkish/Persian",
+  "phrases": [
+   {
+    "ar": "شكمان مقطوع",
+    "tr": "shakmān magTū3",
+    "en": "a broken exhaust"
+   },
+   {
+    "ar": "دخان من الشكمان",
+    "tr": "dukhān min ish-shakmān",
+    "en": "smoke from the exhaust"
+   }
+  ]
+ },
+ {
+  "ar": "فلتر",
+  "tr": "filtar",
+  "en": "filter (oil, air)",
+  "msa": "مرشح",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "بدّل الفلتر مع الزيت.",
+  "ex_tr": "baddal il-filtar ma3a z-zēt.",
+  "ex_en": "Change the filter with the oil.",
+  "note": "European loan; pl. فلاتر flātir",
+  "phrases": [
+   {
+    "ar": "فلتر الزيت",
+    "tr": "filtar iz-zēt",
+    "en": "oil filter"
+   },
+   {
+    "ar": "فلتر الهوا مسكّر.",
+    "tr": "filtar il-hwa msakkar.",
+    "en": "The air filter is clogged."
+   }
+  ]
+ },
+ {
+  "ar": "بوجي",
+  "tr": "būji",
+  "en": "spark plug",
+  "msa": "شمعة الاحتراق",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "البوجيات لازمها تتبدل.",
+  "ex_tr": "il-būjiyyāt lāzimha titbaddil.",
+  "ex_en": "The spark plugs need changing.",
+  "note": "French loan (bougie); pl. بوجيات būjiyyāt",
+  "phrases": [
+   {
+    "ar": "بوجي جديد",
+    "tr": "būji jdīd",
+    "en": "a new spark plug"
+   },
+   {
+    "ar": "نظّف البوجيات",
+    "tr": "naDHDHif il-būjiyyāt",
+    "en": "clean the spark plugs"
+   }
+  ]
+ },
+ {
+  "ar": "كريكو",
+  "tr": "krīko",
+  "en": "car jack",
+  "msa": "رافعة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "عندك كريكو في الماكينة؟",
+  "ex_tr": "3andak krīko fil-makīna?",
+  "ex_en": "Do you have a jack in the car?",
+  "note": "Italian loan (cricco)",
+  "phrases": [
+   {
+    "ar": "طلّع الكريكو من الصندوق.",
+    "tr": "Talla3 il-krīko min iS-Sandūg.",
+    "en": "Get the jack out of the boot."
+   },
+   {
+    "ar": "حط الكريكو تحت.",
+    "tr": "7uTT il-krīko ta7t.",
+    "en": "Put the jack underneath."
+   }
+  ]
+ },
+ {
+  "ar": "سبير",
+  "tr": "spēr",
+  "en": "spare part; spare tyre",
+  "msa": "قطعة غيار",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "السبير متاعها غالي هلبة.",
+  "ex_tr": "is-spēr mtā3ha ghāli halba.",
+  "ex_en": "Its spare parts are very expensive.",
+  "note": "from English spare; pl. سبيرات spērāt",
+  "phrases": [
+   {
+    "ar": "محل سبيرات",
+    "tr": "ma7all spērāt",
+    "en": "a spare-parts shop"
+   },
+   {
+    "ar": "عجلة سبير",
+    "tr": "3ajla spēr",
+    "en": "spare tyre"
+   }
+  ]
+ },
+ {
+  "ar": "قطع غيار",
+  "tr": "giTa3 ghiyār",
+  "en": "spare parts",
+  "msa": "قطع غيار",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "قطع الغيار ما فيش في السوق.",
+  "ex_tr": "giTa3 il-ghiyār ma fīsh fis-sūg.",
+  "ex_en": "There are no spare parts on the market.",
+  "note": "MSA term, also used; sing. قطعة غيار",
+  "phrases": [
+   {
+    "ar": "قطع غيار أصلية",
+    "tr": "giTa3 ghiyār aSliyya",
+    "en": "original spare parts"
+   },
+   {
+    "ar": "قطع غيار مستعملة",
+    "tr": "giTa3 ghiyār musta3mala",
+    "en": "used spare parts"
+   }
+  ]
+ },
+ {
+  "ar": "بنشر",
+  "tr": "banshar",
+  "en": "puncture; flat tyre",
+  "msa": "ثقب في الإطار",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "العجلة فيها بنشر.",
+  "ex_tr": "il-3ajla fīha banshar.",
+  "ex_en": "The tyre has a puncture.",
+  "note": "from English puncture",
+  "phrases": [
+   {
+    "ar": "صلّح البنشر",
+    "tr": "Salla7 il-banshar",
+    "en": "fix the puncture"
+   },
+   {
+    "ar": "صارلي بنشر في الطريق.",
+    "tr": "Sārli banshar fiT-Trīg.",
+    "en": "I got a flat on the road."
+   }
+  ]
+ },
+ {
+  "ar": "جنط",
+  "tr": "janT",
+  "en": "wheel rim",
+  "msa": "جنط",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "الجنط تعوّج من الحفرة.",
+  "ex_tr": "ij-janT t3awwaj min il-7ufra.",
+  "ex_en": "The rim got bent from the pothole.",
+  "note": "pl. جنوط jnūT",
+  "phrases": [
+   {
+    "ar": "جنوط ألومنيوم",
+    "tr": "jnūT alumunyūm",
+    "en": "alloy rims"
+   },
+   {
+    "ar": "جنط ستة عشر",
+    "tr": "janT sitta3sh",
+    "en": "a 16-inch rim"
+   }
+  ]
+ },
+ {
+  "ar": "فنار",
+  "tr": "fnār",
+  "en": "headlight",
+  "msa": "مصباح أمامي",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "شعّل الفنارات، الدنيا ظلام.",
+  "ex_tr": "sha33il il-fnārāt, id-dinya DHlām.",
+  "ex_en": "Turn on the headlights, it's dark.",
+  "note": "pl. فنارات fnārāt; also lighthouse",
+  "phrases": [
+   {
+    "ar": "فنار مكسور",
+    "tr": "fnār maksūr",
+    "en": "a broken headlight"
+   },
+   {
+    "ar": "طفّي الفنار العالي.",
+    "tr": "Taffi l-fnār il-3āli.",
+    "en": "Turn off the high beam."
+   }
+  ]
+ },
+ {
+  "ar": "فريتشا",
+  "tr": "frēcha",
+  "en": "indicator; turn signal",
+  "msa": "إشارة الانعطاف",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "شعّل الفريتشا قبل ما تدور.",
+  "ex_tr": "sha33il il-frēcha gbal ma ddūr.",
+  "ex_en": "Put the indicator on before you turn.",
+  "note": "Italian loan (freccia)",
+  "phrases": [
+   {
+    "ar": "ما يشعلش في الفريتشا.",
+    "tr": "ma yish3alsh fil-frēcha.",
+    "en": "He never uses his indicator."
+   },
+   {
+    "ar": "الفريتشا اليمين",
+    "tr": "il-frēcha l-yimīn",
+    "en": "the right indicator"
+   }
+  ]
+ },
+ {
+  "ar": "بارابريزا",
+  "tr": "parabrēza",
+  "en": "windscreen",
+  "msa": "الزجاج الأمامي",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "البارابريزا تشققت من حجرة.",
+  "ex_tr": "il-parabrēza tshaggagat min 7ajra.",
+  "ex_en": "The windscreen cracked from a stone.",
+  "note": "Italian loan (parabrezza)",
+  "phrases": [
+   {
+    "ar": "نظّف البارابريزا.",
+    "tr": "naDHDHif il-parabrēza.",
+    "en": "Clean the windscreen."
+   },
+   {
+    "ar": "بارابريزا جديدة",
+    "tr": "parabrēza jdīda",
+    "en": "a new windscreen"
+   }
+  ]
+ },
+ {
+  "ar": "مساحات",
+  "tr": "mas7āt",
+  "en": "windscreen wipers",
+  "msa": "ماسحات",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "المساحات ما يمسحوش مليح.",
+  "ex_tr": "il-mas7āt ma yimis7ūsh mlī7.",
+  "ex_en": "The wipers don't wipe well.",
+  "note": "sing. مساحة mas7a",
+  "phrases": [
+   {
+    "ar": "شعّل المساحات.",
+    "tr": "sha33il il-mas7āt.",
+    "en": "Turn on the wipers."
+   },
+   {
+    "ar": "مساحات جداد",
+    "tr": "mas7āt jdād",
+    "en": "new wipers"
+   }
+  ]
+ },
+ {
+  "ar": "زمارة",
+  "tr": "zammāra",
+  "en": "car horn",
+  "msa": "منبه",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "ما تضربش الزمارة في الليل.",
+  "ex_tr": "ma tiDrabsh iz-zammāra fil-līl.",
+  "ex_en": "Don't sound the horn at night.",
+  "note": "also used for a whistle",
+  "phrases": [
+   {
+    "ar": "زمارة العرس",
+    "tr": "zammārit il-3ors",
+    "en": "wedding honking"
+   },
+   {
+    "ar": "الزمارة متاعه عالية.",
+    "tr": "iz-zammāra mtā3ah 3ālya.",
+    "en": "His horn is loud."
+   }
+  ]
+ },
+ {
+  "ar": "حزام الأمان",
+  "tr": "7zām il-amān",
+  "en": "seatbelt",
+  "msa": "حزام الأمان",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "اربط حزام الأمان.",
+  "ex_tr": "urbuT 7zām il-amān.",
+  "ex_en": "Fasten your seatbelt.",
+  "phrases": [
+   {
+    "ar": "المرور يخالف على حزام الأمان.",
+    "tr": "il-murūr ykhālif 3ala 7zām il-amān.",
+    "en": "Traffic police fine you for no seatbelt."
+   },
+   {
+    "ar": "حزام الأمان مقطوع.",
+    "tr": "7zām il-amān magTū3.",
+    "en": "The seatbelt is broken."
+   }
+  ]
+ },
+ {
+  "ar": "نافطة",
+  "tr": "nāfTa",
+  "en": "diesel fuel",
+  "msa": "ديزل",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الكميون يمشي بالنافطة.",
+  "ex_tr": "il-kamyūn yimshi bin-nāfTa.",
+  "ex_en": "The lorry runs on diesel.",
+  "note": "Libyan word for diesel",
+  "phrases": [
+   {
+    "ar": "محطة ما فيهاش نافطة",
+    "tr": "ma7aTTa ma fīhāsh nāfTa",
+    "en": "a station with no diesel"
+   },
+   {
+    "ar": "ماكينة نافطة",
+    "tr": "makīna nāfTa",
+    "en": "a diesel car"
+   }
+  ]
+ },
+ {
+  "ar": "تانكي",
+  "tr": "tanki",
+  "en": "fuel tank",
+  "msa": "خزان الوقود",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 35,
+  "ex_ar": "عبّي التانكي كامل.",
+  "ex_tr": "3abbi t-tanki kāmil.",
+  "ex_en": "Fill the tank up completely.",
+  "note": "from English tank; pl. تانكيات",
+  "phrases": [
+   {
+    "ar": "التانكي فاضي.",
+    "tr": "it-tanki fāDi.",
+    "en": "The tank is empty."
+   },
+   {
+    "ar": "نص تانكي",
+    "tr": "nuSS tanki",
+    "en": "half a tank"
+   }
+  ]
+ },
+ {
+  "ar": "عداد",
+  "tr": "3addād",
+  "en": "meter; speedometer; odometer",
+  "msa": "عداد",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "العداد يقول مية وعشرين.",
+  "ex_tr": "il-3addād ygūl mya w 3ishrīn.",
+  "ex_en": "The speedometer says 120.",
+  "note": "pl. عدادات 3addādāt; also electricity/water meter",
+  "phrases": [
+   {
+    "ar": "عداد الضي",
+    "tr": "3addād iD-Dayy",
+    "en": "electricity meter"
+   },
+   {
+    "ar": "الماكينة عدادها قليل.",
+    "tr": "il-makīna 3addādha glīl.",
+    "en": "The car has low mileage."
+   }
+  ]
+ },
+ {
+  "ar": "ورشة",
+  "tr": "warsha",
+  "en": "workshop; garage (repair)",
+  "msa": "ورشة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "الماكينة في الورشة من جمعة.",
+  "ex_tr": "il-makīna fil-warsha min jum3a.",
+  "ex_en": "The car has been at the workshop for a week.",
+  "note": "pl. ورش wirash",
+  "phrases": [
+   {
+    "ar": "ورشة ميكانيكا",
+    "tr": "warshit mēkanīka",
+    "en": "a mechanic's workshop"
+   },
+   {
+    "ar": "ورشة سمكرة ودهان",
+    "tr": "warshit samkara w dhān",
+    "en": "a body and paint shop"
+   }
+  ]
+ },
+ {
+  "ar": "لافاجو",
+  "tr": "lavāju",
+  "en": "car wash",
+  "msa": "مغسلة سيارات",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "نمشي للافاجو نغسل الماكينة.",
+  "ex_tr": "nimshi lil-lavāju nughsil il-makīna.",
+  "ex_en": "I'm going to the car wash to wash the car.",
+  "note": "Italian loan (lavaggio)",
+  "phrases": [
+   {
+    "ar": "لافاجو كامل من جوا وبرا",
+    "tr": "lavāju kāmil min jūwa w barra",
+    "en": "a full wash inside and out"
+   },
+   {
+    "ar": "اللافاجو مسكّر اليوم.",
+    "tr": "il-lavāju msakkar il-yōm.",
+    "en": "The car wash is closed today."
+   }
+  ]
+ },
+ {
+  "ar": "تبديل زيت",
+  "tr": "tabdīl zēt",
+  "en": "oil change",
+  "msa": "تغيير الزيت",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "الماكينة تبي تبديل زيت.",
+  "ex_tr": "il-makīna tibbi tabdīl zēt.",
+  "ex_en": "The car needs an oil change.",
+  "note": "Libyans also say غيار زيت ghiyār zēt",
+  "phrases": [
+   {
+    "ar": "كل خمسة آلاف كيلو تبديل زيت",
+    "tr": "kull khamsa ālāf kīlu tabdīl zēt",
+    "en": "an oil change every 5,000 km"
+   },
+   {
+    "ar": "قداش تبديل الزيت؟",
+    "tr": "gaddāsh tabdīl iz-zēt?",
+    "en": "How much is an oil change?"
+   }
+  ]
+ },
+ {
+  "ar": "كميون",
+  "tr": "kamyūn",
+  "en": "lorry; truck",
+  "msa": "شاحنة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "الكميون سكّر الطريق.",
+  "ex_tr": "il-kamyūn sakkar iT-Trīg.",
+  "ex_en": "The lorry blocked the road.",
+  "note": "Italian/French loan (camion); pl. كميونات kamyūnāt",
+  "phrases": [
+   {
+    "ar": "سواق كميون",
+    "tr": "sawwāg kamyūn",
+    "en": "a lorry driver"
+   },
+   {
+    "ar": "كميون رملة",
+    "tr": "kamyūn ramla",
+    "en": "a sand lorry"
+   }
+  ]
+ },
+ {
+  "ar": "تريلا",
+  "tr": "trēla",
+  "en": "articulated lorry; trailer",
+  "msa": "مقطورة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "التريلات يمشوا في الطريق الساحلي.",
+  "ex_tr": "it-trēlāt yimshu fiT-Trīg is-sā7ili.",
+  "ex_en": "The big lorries drive on the coastal road.",
+  "note": "from English trailer; pl. تريلات",
+  "phrases": [
+   {
+    "ar": "سواق تريلا",
+    "tr": "sawwāg trēla",
+    "en": "a lorry driver"
+   },
+   {
+    "ar": "تريلا مقلوبة",
+    "tr": "trēla maglūba",
+    "en": "an overturned lorry"
+   }
+  ]
+ },
+ {
+  "ar": "ونش",
+  "tr": "winsh",
+  "en": "tow truck; crane",
+  "msa": "ونش",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "جابوا الونش وهزوا الماكينة.",
+  "ex_tr": "jābu l-winsh w hazzu l-makīna.",
+  "ex_en": "They brought the tow truck and took the car away.",
+  "note": "from English winch",
+  "phrases": [
+   {
+    "ar": "عيّط للونش",
+    "tr": "3ayyiT lil-winsh",
+    "en": "call the tow truck"
+   },
+   {
+    "ar": "الونش هز الماكينة للورشة.",
+    "tr": "il-winsh hazz il-makīna lil-warsha.",
+    "en": "The tow truck took the car to the workshop."
+   }
+  ]
+ },
+ {
+  "ar": "بيكوب",
+  "tr": "pikap",
+  "en": "pickup truck",
+  "msa": "شاحنة صغيرة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "جيب البيكوب نهزو العفش.",
+  "ex_tr": "jīb il-pikap nhizzu l-3afsh.",
+  "ex_en": "Bring the pickup so we can move the furniture.",
+  "note": "from English pickup; also called شبح (for Toyota Hilux style)",
+  "phrases": [
+   {
+    "ar": "بيكوب تويوتا",
+    "tr": "pikap toyōta",
+    "en": "a Toyota pickup"
+   },
+   {
+    "ar": "ورا البيكوب",
+    "tr": "wara l-pikap",
+    "en": "in the back of the pickup"
+   }
+  ]
+ },
+ {
+  "ar": "حافلة",
+  "tr": "7āfla",
+  "en": "bus; coach",
+  "msa": "حافلة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "الحافلة تمشي لمصراتة كل ساعة.",
+  "ex_tr": "il-7āfla timshi l-maSrāta kull sā3a.",
+  "ex_en": "The bus goes to Misrata every hour.",
+  "note": "MSA/formal; pl. حافلات 7āflāt; everyday word is باص",
+  "phrases": [
+   {
+    "ar": "حافلة نقل عام",
+    "tr": "7āflit nagl 3āmm",
+    "en": "a public bus"
+   },
+   {
+    "ar": "ركبنا الحافلة",
+    "tr": "rkibna l-7āfla",
+    "en": "we took the bus"
+   }
+  ]
+ },
+ {
+  "ar": "تراكتور",
+  "tr": "trāktōr",
+  "en": "tractor",
+  "msa": "جرار",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "الفلاح يحرث بالتراكتور.",
+  "ex_tr": "il-fallā7 yi7rith bit-trāktōr.",
+  "ex_en": "The farmer ploughs with the tractor.",
+  "note": "European loan; pl. تراكتورات",
+  "phrases": [
+   {
+    "ar": "تراكتور قديم",
+    "tr": "trāktōr gdīm",
+    "en": "an old tractor"
+   },
+   {
+    "ar": "سايق تراكتور",
+    "tr": "sāyig trāktōr",
+    "en": "driving a tractor"
+   }
+  ]
+ },
+ {
+  "ar": "لوحة",
+  "tr": "lō7a",
+  "en": "number plate; licence plate",
+  "msa": "لوحة السيارة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "الماكينة ما عندهاش لوحة.",
+  "ex_tr": "il-makīna ma 3andhāsh lō7a.",
+  "ex_en": "The car has no number plate.",
+  "note": "pl. لوحات lō7āt",
+  "phrases": [
+   {
+    "ar": "رقم اللوحة",
+    "tr": "ragm il-lō7a",
+    "en": "the plate number"
+   },
+   {
+    "ar": "لوحة مؤقتة",
+    "tr": "lō7a mu'aqqata",
+    "en": "a temporary plate"
+   }
+  ]
+ },
+ {
+  "ar": "كتيّب",
+  "tr": "ktayyib",
+  "en": "vehicle registration booklet; small booklet",
+  "msa": "دفتر تسجيل المركبة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "وريني الكتيّب والرخصة.",
+  "ex_tr": "warrīni l-ktayyib wir-rukhSa.",
+  "ex_en": "Show me the registration and the licence.",
+  "note": "Libyan usage for car papers; also كتيّب العائلة family booklet",
+  "phrases": [
+   {
+    "ar": "الكتيّب باسم بوي.",
+    "tr": "il-ktayyib b-ism būy.",
+    "en": "The registration is in my father's name."
+   },
+   {
+    "ar": "جدّد الكتيّب",
+    "tr": "jaddid il-ktayyib",
+    "en": "renew the registration"
+   }
+  ]
+ },
+ {
+  "ar": "تأمين",
+  "tr": "ta'mīn",
+  "en": "insurance",
+  "msa": "تأمين",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "التأمين متاع الماكينة خلص.",
+  "ex_tr": "it-ta'mīn mtā3 il-makīna khlaS.",
+  "ex_en": "The car insurance has expired.",
+  "phrases": [
+   {
+    "ar": "شركة تأمين",
+    "tr": "sharikat ta'mīn",
+    "en": "an insurance company"
+   },
+   {
+    "ar": "تأمين صحي",
+    "tr": "ta'mīn Si77i",
+    "en": "health insurance"
+   }
+  ]
+ },
+ {
+  "ar": "فحص",
+  "tr": "fa7S",
+  "en": "inspection; check-up; test",
+  "msa": "فحص",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "الماكينة تبي فحص قبل السفر.",
+  "ex_tr": "il-makīna tibbi fa7S gbal is-safar.",
+  "ex_en": "The car needs a check before the trip.",
+  "note": "pl. فحوصات fu7ūSāt",
+  "phrases": [
+   {
+    "ar": "فحص فني",
+    "tr": "fa7S fanni",
+    "en": "technical (MOT) inspection"
+   },
+   {
+    "ar": "فحص كمبيوتر",
+    "tr": "fa7S kumbyūtar",
+    "en": "computer diagnostic check"
+   }
+  ]
+ },
+ {
+  "ar": "تصليح",
+  "tr": "taSlī7",
+  "en": "repair; repairing",
+  "msa": "إصلاح",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "التصليح ياخذ يومين.",
+  "ex_tr": "it-taSlī7 yākhudh yōmēn.",
+  "ex_en": "The repair will take two days.",
+  "phrases": [
+   {
+    "ar": "قداش التصليح؟",
+    "tr": "gaddāsh it-taSlī7?",
+    "en": "How much is the repair?"
+   },
+   {
+    "ar": "محل تصليح موبايلات",
+    "tr": "ma7all taSlī7 mōbāylāt",
+    "en": "a phone-repair shop"
+   }
+  ]
+ },
+ {
+  "ar": "صيانة",
+  "tr": "Siyāna",
+  "en": "maintenance; servicing",
+  "msa": "صيانة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "الماكينة تبي صيانة كاملة.",
+  "ex_tr": "il-makīna tibbi Siyāna kāmla.",
+  "ex_en": "The car needs a full service.",
+  "phrases": [
+   {
+    "ar": "تحت الصيانة",
+    "tr": "ta7t iS-Siyāna",
+    "en": "under maintenance"
+   },
+   {
+    "ar": "صيانة دورية",
+    "tr": "Siyāna dawriyya",
+    "en": "regular maintenance"
+   }
+  ]
+ },
+ {
+  "ar": "عطل",
+  "tr": "3uTl",
+  "en": "breakdown; fault",
+  "msa": "عطل",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "فيه عطل في الموتور.",
+  "ex_tr": "fīh 3uTl fil-mōtōr.",
+  "ex_en": "There's a fault in the engine.",
+  "note": "pl. أعطال a3TāL; Libyans also say عطب 3aTab",
+  "phrases": [
+   {
+    "ar": "عطل كهربا",
+    "tr": "3uTl kahraba",
+    "en": "an electrical fault"
+   },
+   {
+    "ar": "شن العطل؟",
+    "tr": "shin il-3uTl?",
+    "en": "What's the problem?"
+   }
+  ]
+ },
+ {
+  "ar": "دواسة",
+  "tr": "dawwāsa",
+  "en": "pedal (car or bicycle)",
+  "msa": "دواسة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "الدواسة لاصقة.",
+  "ex_tr": "id-dawwāsa lāSga.",
+  "ex_en": "The pedal is sticking.",
+  "note": "pl. دواسات dawwāsāt",
+  "phrases": [
+   {
+    "ar": "دواسة البنزينة",
+    "tr": "dawwāsit il-banzīna",
+    "en": "the accelerator"
+   },
+   {
+    "ar": "دواسة الفرينو",
+    "tr": "dawwāsit il-frēnu",
+    "en": "the brake pedal"
+   }
+  ]
+ },
+ {
+  "ar": "مارشا ورا",
+  "tr": "mārsha wara",
+  "en": "reverse gear; reversing",
+  "msa": "ترجيع",
+  "pos": "phrase",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "ادخل مارشا ورا شوية.",
+  "ex_tr": "udkhul mārsha wara shwayya.",
+  "ex_en": "Reverse a little.",
+  "note": "lit. backwards gear; Italian marcia",
+  "phrases": [
+   {
+    "ar": "رد بالك وانت مارشا ورا.",
+    "tr": "rudd bālak w inti mārsha wara.",
+    "en": "Be careful while reversing."
+   },
+   {
+    "ar": "ضوّ المارشا ورا",
+    "tr": "Daww il-mārsha wara",
+    "en": "the reversing light"
+   }
+  ]
+ },
+ {
+  "ar": "سمكرة",
+  "tr": "samkara",
+  "en": "panel beating; bodywork repair",
+  "msa": "سمكرة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "الماكينة تبي سمكرة بعد الحادث.",
+  "ex_tr": "il-makīna tibbi samkara ba3d il-7ādith.",
+  "ex_en": "The car needs bodywork after the accident.",
+  "phrases": [
+   {
+    "ar": "سمكرة ودهان",
+    "tr": "samkara w dhān",
+    "en": "body and paint"
+   },
+   {
+    "ar": "محل سمكرة",
+    "tr": "ma7all samkara",
+    "en": "a body shop"
+   }
+  ]
+ },
+ {
+  "ar": "دهان",
+  "tr": "dhān",
+  "en": "paint (car); painting",
+  "msa": "طلاء",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "الدهان متاع الماكينة مخدوش.",
+  "ex_tr": "id-dhān mtā3 il-makīna makhdūsh.",
+  "ex_en": "The car's paint is scratched.",
+  "phrases": [
+   {
+    "ar": "دهان أصلي",
+    "tr": "dhān aSli",
+    "en": "original paint"
+   },
+   {
+    "ar": "دهان جديد",
+    "tr": "dhān jdīd",
+    "en": "a fresh paint job"
+   }
+  ]
+ },
+ {
+  "ar": "خدشة",
+  "tr": "khadsha",
+  "en": "scratch",
+  "msa": "خدش",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "فيه خدشة في الباب.",
+  "ex_tr": "fīh khadsha fil-bāb.",
+  "ex_en": "There's a scratch on the door.",
+  "note": "pl. خدوش khdūsh",
+  "phrases": [
+   {
+    "ar": "خدشة صغيرة",
+    "tr": "khadsha Sghīra",
+    "en": "a small scratch"
+   },
+   {
+    "ar": "الماكينة ما فيهاش ولا خدشة.",
+    "tr": "il-makīna ma fīhāsh wala khadsha.",
+    "en": "The car doesn't have a single scratch."
+   }
+  ]
+ },
+ {
+  "ar": "ضربة",
+  "tr": "Darba",
+  "en": "dent; knock; hit",
+  "msa": "ضربة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "الماكينة فيها ضربة من ورا.",
+  "ex_tr": "il-makīna fīha Darba min wara.",
+  "ex_en": "The car has a dent at the back.",
+  "note": "pl. ضربات Darbāt",
+  "phrases": [
+   {
+    "ar": "بلا ولا ضربة",
+    "tr": "bla wala Darba",
+    "en": "without a single dent"
+   },
+   {
+    "ar": "ضربة خفيفة",
+    "tr": "Darba khfīfa",
+    "en": "a light knock"
+   }
+  ]
+ },
+ {
+  "ar": "شحم",
+  "tr": "sha7m",
+  "en": "grease (lubricant)",
+  "msa": "شحم",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "حط شوية شحم للباب.",
+  "ex_tr": "7uTT shwayya sha7m lil-bāb.",
+  "ex_en": "Put a little grease on the door.",
+  "note": "also animal fat",
+  "phrases": [
+   {
+    "ar": "يديه كلهن شحم.",
+    "tr": "īdēh kullhin sha7m.",
+    "en": "His hands are covered in grease."
+   },
+   {
+    "ar": "شحم ومية",
+    "tr": "sha7m w mayya",
+    "en": "grease and water"
+   }
+  ]
+ },
+ {
+  "ar": "مكينة أوتوماتيك",
+  "tr": "makīna otomatīk",
+  "en": "automatic car",
+  "msa": "سيارة أوتوماتيكية",
+  "pos": "phrase",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "نبي مكينة أوتوماتيك، ما نعرفش الفريزيوني.",
+  "ex_tr": "nibbi makīna otomatīk, ma na3rafsh il-frizyōni.",
+  "ex_en": "I want an automatic, I can't use a clutch.",
+  "phrases": [
+   {
+    "ar": "أوتوماتيك ولا عادي؟",
+    "tr": "otomatīk walla 3ādi?",
+    "en": "Automatic or manual?"
+   },
+   {
+    "ar": "المكاين الأوتوماتيك هلبة",
+    "tr": "il-makāyin il-otomatīk halba",
+    "en": "there are lots of automatic cars"
+   }
+  ]
+ },
+ {
+  "ar": "معرض سيارات",
+  "tr": "ma3raD sayyārāt",
+  "en": "car showroom; car dealership",
+  "msa": "معرض سيارات",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "شريت الماكينة من معرض.",
+  "ex_tr": "shrēt il-makīna min ma3raD.",
+  "ex_en": "I bought the car from a showroom.",
+  "note": "pl. معارض ma3āriD",
+  "phrases": [
+   {
+    "ar": "معرض في طريق المطار",
+    "tr": "ma3raD fi Trīg il-maTār",
+    "en": "a showroom on Airport Road"
+   },
+   {
+    "ar": "صاحب المعرض",
+    "tr": "Sā7ib il-ma3raD",
+    "en": "the showroom owner"
+   }
+  ]
+ },
+ {
+  "ar": "سوق السيارات",
+  "tr": "sūg is-sayyārāt",
+  "en": "car market (used cars)",
+  "msa": "سوق السيارات",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "نمشوا الجمعة لسوق السيارات.",
+  "ex_tr": "nimshu j-jum3a l-sūg is-sayyārāt.",
+  "ex_en": "We'll go to the car market on Friday.",
+  "note": "Libyans also say سوق الماكينات",
+  "phrases": [
+   {
+    "ar": "الأسعار في سوق السيارات طالعة.",
+    "tr": "il-as3ār fi sūg is-sayyārāt Tāl3a.",
+    "en": "Prices at the car market are up."
+   },
+   {
+    "ar": "باع ماكينته في السوق.",
+    "tr": "bā3 makīnatah fis-sūg.",
+    "en": "He sold his car at the market."
+   }
+  ]
+ },
+ {
+  "ar": "دلّال",
+  "tr": "dallāl",
+  "en": "broker; auctioneer; middleman",
+  "msa": "سمسار",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "الدلّال ياخذ نسبة.",
+  "ex_tr": "id-dallāl yākhudh nisba.",
+  "ex_en": "The broker takes a percentage.",
+  "note": "pl. دلّالة dallāla",
+  "phrases": [
+   {
+    "ar": "دلّال سيارات",
+    "tr": "dallāl sayyārāt",
+    "en": "car broker"
+   },
+   {
+    "ar": "ما تشريش من الدلّال.",
+    "tr": "ma tishrīsh min id-dallāl.",
+    "en": "Don't buy from the middleman."
+   }
+  ]
+ },
+ {
+  "ar": "بطارية الماكينة",
+  "tr": "baTTāriyyit il-makīna",
+  "en": "car battery",
+  "msa": "بطارية السيارة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "بطارية الماكينة ماتت.",
+  "ex_tr": "baTTāriyyit il-makīna mātat.",
+  "ex_en": "The car battery is dead.",
+  "phrases": [
+   {
+    "ar": "اشحن البطارية بالكابلات.",
+    "tr": "ishi7n il-baTTāriyya bil-kablāt.",
+    "en": "Jump-start the battery with the cables."
+   },
+   {
+    "ar": "بطارية جديدة للماكينة",
+    "tr": "baTTāriyya jdīda lil-makīna",
+    "en": "a new car battery"
+   }
+  ]
+ },
+ {
+  "ar": "كابلات",
+  "tr": "kablāt",
+  "en": "jump leads; cables",
+  "msa": "كابلات",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "عندك كابلات؟ البطارية فاضية.",
+  "ex_tr": "3andak kablāt? il-baTTāriyya fāDya.",
+  "ex_en": "Do you have jump leads? The battery is flat.",
+  "note": "sing. كابل kābil",
+  "phrases": [
+   {
+    "ar": "كابلات الضي",
+    "tr": "kablāt iD-Dayy",
+    "en": "electric cables"
+   },
+   {
+    "ar": "كابل شحن",
+    "tr": "kābil sha7n",
+    "en": "charging cable"
+   }
+  ]
+ },
+ {
+  "ar": "موقف",
+  "tr": "mawgif",
+  "en": "car park; parking place; stop",
+  "msa": "موقف",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "ما لقيتش موقف قدام البنك.",
+  "ex_tr": "ma lgītsh mawgif guddām il-bank.",
+  "ex_en": "I couldn't find a parking spot in front of the bank.",
+  "note": "pl. مواقف mawāgif",
+  "phrases": [
+   {
+    "ar": "موقف باص",
+    "tr": "mawgif bāS",
+    "en": "bus stop"
+   },
+   {
+    "ar": "موقف التاكسيات",
+    "tr": "mawgif it-tāksiyyāt",
+    "en": "taxi rank"
+   }
+  ]
+ },
+ {
+  "ar": "باركينج",
+  "tr": "parkīnj",
+  "en": "car park; parking lot",
+  "msa": "موقف سيارات",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "حط الماكينة في الباركينج.",
+  "ex_tr": "7uTT il-makīna fil-parkīnj.",
+  "ex_en": "Put the car in the car park.",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "باركينج المول",
+    "tr": "parkīnj il-mōl",
+    "en": "the mall car park"
+   },
+   {
+    "ar": "باركينج بفلوس",
+    "tr": "parkīnj b-flūs",
+    "en": "paid parking"
+   }
+  ]
+ },
+ {
+  "ar": "سواقة",
+  "tr": "swāga",
+  "en": "driving",
+  "msa": "قيادة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 3,
+  "usage": 54,
+  "ex_ar": "السواقة في طرابلس صعيبة.",
+  "ex_tr": "is-swāga fi Trābles S3ība.",
+  "ex_en": "Driving in Tripoli is hard.",
+  "phrases": [
+   {
+    "ar": "تعليم سواقة",
+    "tr": "ta3līm swāga",
+    "en": "driving lessons"
+   },
+   {
+    "ar": "سواقته خايبة.",
+    "tr": "swāgtah khāyba.",
+    "en": "His driving is bad."
+   }
+  ]
+ },
+ {
+  "ar": "مدرسة تعليم السواقة",
+  "tr": "madrasit ta3līm is-swāga",
+  "en": "driving school",
+  "msa": "مدرسة تعليم القيادة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "سجلت في مدرسة تعليم السواقة.",
+  "ex_tr": "sajjalt fi madrasit ta3līm is-swāga.",
+  "ex_en": "I signed up at a driving school.",
+  "phrases": [
+   {
+    "ar": "مدرب السواقة",
+    "tr": "mudarrib is-swāga",
+    "en": "driving instructor"
+   },
+   {
+    "ar": "امتحان السواقة",
+    "tr": "imti7ān is-swāga",
+    "en": "driving test"
+   }
+  ]
+ },
+ {
+  "ar": "سرعة",
+  "tr": "sur3a",
+  "en": "speed",
+  "msa": "سرعة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "خفف السرعة، فيه رادار.",
+  "ex_tr": "khaffif is-sur3a, fīh radār.",
+  "ex_en": "Slow down, there's a speed camera.",
+  "phrases": [
+   {
+    "ar": "بالسرعة",
+    "tr": "bis-sur3a",
+    "en": "quickly"
+   },
+   {
+    "ar": "سرعة زايدة",
+    "tr": "sur3a zāyda",
+    "en": "excessive speed"
+   }
+  ]
+ },
+ {
+  "ar": "رادار",
+  "tr": "radār",
+  "en": "speed camera; radar",
+  "msa": "رادار",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "الرادار صوّرني.",
+  "ex_tr": "ir-radār Sawwarni.",
+  "ex_en": "The speed camera caught me.",
+  "phrases": [
+   {
+    "ar": "رادار متحرك",
+    "tr": "radār muta7arrik",
+    "en": "mobile speed trap"
+   },
+   {
+    "ar": "فيه رادار عند الكوبري.",
+    "tr": "fīh radār 3and il-kubri.",
+    "en": "There's a speed camera by the bridge."
+   }
+  ]
+ },
+ {
+  "ar": "مخالفة",
+  "tr": "mukhālfa",
+  "en": "traffic ticket; fine; violation",
+  "msa": "مخالفة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "خذيت مخالفة على السرعة.",
+  "ex_tr": "khdhēt mukhālfa 3as-sur3a.",
+  "ex_en": "I got a ticket for speeding.",
+  "note": "pl. مخالفات mukhālfāt",
+  "phrases": [
+   {
+    "ar": "دفعت المخالفة",
+    "tr": "dfa3t il-mukhālfa",
+    "en": "I paid the fine"
+   },
+   {
+    "ar": "مخالفة وقوف",
+    "tr": "mukhālfit wgūf",
+    "en": "a parking ticket"
+   }
+  ]
+ },
+ {
+  "ar": "حادث",
+  "tr": "7ādith",
+  "en": "accident; crash",
+  "msa": "حادث",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "صار حادث في الطريق السريع.",
+  "ex_tr": "Sār 7ādith fiT-Trīg is-sarī3.",
+  "ex_en": "There was an accident on the motorway.",
+  "note": "pl. حوادث 7awādith; also حادثة 7ādtha",
+  "phrases": [
+   {
+    "ar": "حادث سير",
+    "tr": "7ādith sēr",
+    "en": "a road accident"
+   },
+   {
+    "ar": "الحمد لله ما صار شي في الحادث.",
+    "tr": "il-7amdulla ma Sār shay fil-7ādith.",
+    "en": "Thank God nobody was hurt in the accident."
+   }
+  ]
+ },
+ {
+  "ar": "مرور",
+  "tr": "murūr",
+  "en": "traffic police; traffic",
+  "msa": "المرور",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "المرور واقفين عند الدوران.",
+  "ex_tr": "il-murūr wāgfīn 3and id-dawarān.",
+  "ex_en": "The traffic police are standing at the roundabout.",
+  "phrases": [
+   {
+    "ar": "شرطة المرور",
+    "tr": "shurTit il-murūr",
+    "en": "traffic police"
+   },
+   {
+    "ar": "إدارة المرور",
+    "tr": "idārit il-murūr",
+    "en": "the traffic department (licences, plates)"
+   }
+  ]
+ },
+ {
+  "ar": "بوابة",
+  "tr": "bawwāba",
+  "en": "checkpoint; roadblock",
+  "msa": "نقطة تفتيش",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "وقفونا في البوابة وشافوا الوراق.",
+  "ex_tr": "wagqafūna fil-bawwāba w shāfu l-wrāg.",
+  "ex_en": "They stopped us at the checkpoint and checked the papers.",
+  "note": "Libyan usage; pl. بوابات bawwābāt",
+  "phrases": [
+   {
+    "ar": "بوابة الكتيبة",
+    "tr": "bawwābit il-katība",
+    "en": "the brigade's checkpoint"
+   },
+   {
+    "ar": "من غير بوابات",
+    "tr": "min ghēr bawwābāt",
+    "en": "without checkpoints"
+   }
+  ]
+ },
+ {
+  "ar": "طريق سريع",
+  "tr": "Trīg sarī3",
+  "en": "motorway; highway",
+  "msa": "طريق سريع",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "خش من الطريق السريع أسرع.",
+  "ex_tr": "khushsh min iT-Trīg is-sarī3 asra3.",
+  "ex_en": "Take the motorway, it's faster.",
+  "note": "pl. طرق سريعة",
+  "phrases": [
+   {
+    "ar": "مخرج الطريق السريع",
+    "tr": "makhraj iT-Trīg is-sarī3",
+    "en": "the motorway exit"
+   },
+   {
+    "ar": "الطريق السريع مزحوم.",
+    "tr": "iT-Trīg is-sarī3 maz7ūm.",
+    "en": "The motorway is jammed."
+   }
+  ]
+ },
+ {
+  "ar": "الطريق الساحلي",
+  "tr": "iT-Trīg is-sā7ili",
+  "en": "the coastal road",
+  "msa": "الطريق الساحلي",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "الطريق الساحلي يربط تونس بمصر.",
+  "ex_tr": "iT-Trīg is-sā7ili yurbuT tūnis b-maSr.",
+  "ex_en": "The coastal road links Tunisia and Egypt.",
+  "note": "Libya's main east-west highway",
+  "phrases": [
+   {
+    "ar": "مشينا بالطريق الساحلي",
+    "tr": "mshēna biT-Trīg is-sā7ili",
+    "en": "we went by the coastal road"
+   },
+   {
+    "ar": "حوادث الطريق الساحلي",
+    "tr": "7awādith iT-Trīg is-sā7ili",
+    "en": "coastal road accidents"
+   }
+  ]
+ },
+ {
+  "ar": "كورفة",
+  "tr": "kurva",
+  "en": "bend; curve (in a road)",
+  "msa": "منعطف",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "خفف في الكورفة.",
+  "ex_tr": "khaffif fil-kurva.",
+  "ex_en": "Slow down at the bend.",
+  "note": "Italian loan (curva); pl. كورفات",
+  "phrases": [
+   {
+    "ar": "كورفة خطيرة",
+    "tr": "kurva khaTīra",
+    "en": "a dangerous bend"
+   },
+   {
+    "ar": "بعد الكورفة على اليمين",
+    "tr": "ba3d il-kurva 3al-yimīn",
+    "en": "right after the bend"
+   }
+  ]
+ },
+ {
+  "ar": "تقاطع",
+  "tr": "tagāTu3",
+  "en": "intersection; crossroads",
+  "msa": "تقاطع",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "وقف عند التقاطع.",
+  "ex_tr": "wugaf 3and it-tagāTu3.",
+  "ex_en": "Stop at the intersection.",
+  "note": "pl. تقاطعات",
+  "phrases": [
+   {
+    "ar": "التقاطع الجاي",
+    "tr": "it-tagāTu3 ij-jāy",
+    "en": "the next intersection"
+   },
+   {
+    "ar": "عند تقاطع الشارعين",
+    "tr": "3and tagāTu3 ish-shāri3ēn",
+    "en": "where the two streets cross"
+   }
+  ]
+ },
+ {
+  "ar": "تحويلة",
+  "tr": "ta7wīla",
+  "en": "detour; diversion",
+  "msa": "تحويلة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "فيه تحويلة بسبب الحفريات.",
+  "ex_tr": "fīh ta7wīla b-sabab il-7afriyyāt.",
+  "ex_en": "There's a detour because of the roadworks.",
+  "phrases": [
+   {
+    "ar": "خذ التحويلة",
+    "tr": "khudh it-ta7wīla",
+    "en": "take the detour"
+   },
+   {
+    "ar": "التحويلة طويلة",
+    "tr": "it-ta7wīla Twīla",
+    "en": "the detour is long"
+   }
+  ]
+ },
+ {
+  "ar": "حفرة",
+  "tr": "7ufra",
+  "en": "pothole; hole; pit",
+  "msa": "حفرة",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "الطريق كله حفر.",
+  "ex_tr": "iT-Trīg kullah 7ufar.",
+  "ex_en": "The road is full of potholes.",
+  "note": "pl. حفر 7ufar",
+  "phrases": [
+   {
+    "ar": "رد بالك من الحفرة!",
+    "tr": "rudd bālak min il-7ufra!",
+    "en": "Watch out for the pothole!"
+   },
+   {
+    "ar": "حفرة كبيرة",
+    "tr": "7ufra kbīra",
+    "en": "a big hole"
+   }
+  ]
+ },
+ {
+  "ar": "زفت",
+  "tr": "zift",
+  "en": "asphalt; tarmac",
+  "msa": "إسفلت",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "الشارع ما فيهش زفت.",
+  "ex_tr": "ish-shāri3 ma fīhsh zift.",
+  "ex_en": "The street isn't paved.",
+  "note": "also slang 'awful'",
+  "phrases": [
+   {
+    "ar": "زفّتوا الطريق",
+    "tr": "zaffitu T-Trīg",
+    "en": "they paved the road"
+   },
+   {
+    "ar": "طريق زفت",
+    "tr": "Trīg zift",
+    "en": "a paved road"
+   }
+  ]
+ },
+ {
+  "ar": "طريق ترابي",
+  "tr": "Trīg turābi",
+  "en": "dirt road; unpaved track",
+  "msa": "طريق ترابي",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "بعد القرية الطريق ترابي.",
+  "ex_tr": "ba3d il-garya T-Trīg turābi.",
+  "ex_en": "After the village the road is unpaved.",
+  "phrases": [
+   {
+    "ar": "الطريق الترابية تتعب الماكينة.",
+    "tr": "iT-Trīg it-turābiyya tta33ib il-makīna.",
+    "en": "Dirt roads wear out the car."
+   },
+   {
+    "ar": "عجاج في الطريق الترابي",
+    "tr": "3ajāj fiT-Trīg it-turābi",
+    "en": "dust on the dirt road"
+   }
+  ]
+ },
+ {
+  "ar": "يافطة",
+  "tr": "yāfTa",
+  "en": "sign; signboard",
+  "msa": "لافتة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "اقرا اليافطة اللي قدامك.",
+  "ex_tr": "igra l-yāfTa illi guddāmak.",
+  "ex_en": "Read the sign in front of you.",
+  "note": "pl. يافطات yāfTāt",
+  "phrases": [
+   {
+    "ar": "يافطة المحل",
+    "tr": "yāfTit il-ma7all",
+    "en": "the shop sign"
+   },
+   {
+    "ar": "يافطة ممنوع الوقوف",
+    "tr": "yāfTit mamnū3 il-wgūf",
+    "en": "a no-parking sign"
+   }
+  ]
+ },
+ {
+  "ar": "إشارة مرور",
+  "tr": "ishārit murūr",
+  "en": "road sign; traffic sign",
+  "msa": "إشارة مرور",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "ما شافش إشارة المرور.",
+  "ex_tr": "ma shāfsh ishārit il-murūr.",
+  "ex_en": "He didn't see the road sign.",
+  "note": "pl. إشارات مرور",
+  "phrases": [
+   {
+    "ar": "احترم إشارات المرور",
+    "tr": "i7tarim ishārāt il-murūr",
+    "en": "obey the road signs"
+   },
+   {
+    "ar": "إشارة قف",
+    "tr": "ishārit gif",
+    "en": "a stop sign"
+   }
+  ]
+ },
+ {
+  "ar": "ممنوع الوقوف",
+  "tr": "mamnū3 il-wgūf",
+  "en": "no parking; no stopping",
+  "msa": "ممنوع الوقوف",
+  "pos": "phrase",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "هنا ممنوع الوقوف.",
+  "ex_tr": "hni mamnū3 il-wgūf.",
+  "ex_en": "No parking here.",
+  "phrases": [
+   {
+    "ar": "حط الماكينة في ممنوع الوقوف",
+    "tr": "7aTT il-makīna fi mamnū3 il-wgūf",
+    "en": "he parked in a no-parking zone"
+   },
+   {
+    "ar": "ممنوع الدخول",
+    "tr": "mamnū3 id-dukhūl",
+    "en": "no entry"
+   }
+  ]
+ },
+ {
+  "ar": "تجاوز",
+  "tr": "tajāwuz",
+  "en": "overtaking",
+  "msa": "تجاوز",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "التجاوز في الكورفة خطير.",
+  "ex_tr": "it-tajāwuz fil-kurva khaTīr.",
+  "ex_en": "Overtaking on a bend is dangerous.",
+  "phrases": [
+   {
+    "ar": "ممنوع التجاوز",
+    "tr": "mamnū3 it-tajāwuz",
+    "en": "no overtaking"
+   },
+   {
+    "ar": "تجاوز من اليمين",
+    "tr": "tajāwuz min il-yimīn",
+    "en": "overtaking on the right"
+   }
+  ]
+ },
+ {
+  "ar": "حزام",
+  "tr": "7zām",
+  "en": "ring road",
+  "msa": "طريق دائري",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "خذ الحزام وتوصل أسرع.",
+  "ex_tr": "khudh il-7zām w tūSal asra3.",
+  "ex_en": "Take the ring road and you'll get there faster.",
+  "note": "lit. belt; also الدائري id-dāyri",
+  "phrases": [
+   {
+    "ar": "الحزام الأخضر",
+    "tr": "il-7zām il-akhDar",
+    "en": "the green belt"
+   },
+   {
+    "ar": "الطريق الدائري الثاني",
+    "tr": "iT-Trīg id-dāyri th-thāni",
+    "en": "the second ring road"
+   }
+  ]
+ },
+ {
+  "ar": "خط",
+  "tr": "khaTT",
+  "en": "lane; route; line",
+  "msa": "خط",
+  "pos": "noun",
+  "cat": "cars",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "امشي في الخط اليمين.",
+  "ex_tr": "imshi fil-khaTT il-yimīn.",
+  "ex_en": "Drive in the right lane.",
+  "note": "pl. خطوط khTūT",
+  "phrases": [
+   {
+    "ar": "خط الباص",
+    "tr": "khaTT il-bāS",
+    "en": "bus route"
+   },
+   {
+    "ar": "الخط مقطوع",
+    "tr": "il-khaTT magTū3",
+    "en": "the line is cut"
+   }
+  ]
+ },
+ {
+  "ar": "راكب",
+  "tr": "rākib",
+  "en": "passenger",
+  "msa": "راكب",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الباص فيه خمسين راكب.",
+  "ex_tr": "il-bāS fīh khamsīn rākib.",
+  "ex_en": "The bus holds fifty passengers.",
+  "note": "pl. ركّاب rukkāb",
+  "phrases": [
+   {
+    "ar": "ركّاب الطيارة",
+    "tr": "rukkāb iT-Tayyāra",
+    "en": "the plane's passengers"
+   },
+   {
+    "ar": "كرسي الراكب",
+    "tr": "kursi r-rākib",
+    "en": "passenger seat"
+   }
+  ]
+ },
+ {
+  "ar": "أجرة",
+  "tr": "ujra",
+  "en": "fare; fee; wage",
+  "msa": "أجرة",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "الأجرة لوسط البلاد دينارين.",
+  "ex_tr": "il-ujra l-wusT il-blād dīnārēn.",
+  "ex_en": "The fare to downtown is two dinars.",
+  "phrases": [
+   {
+    "ar": "سيارة أجرة",
+    "tr": "sayyārit ujra",
+    "en": "a taxi"
+   },
+   {
+    "ar": "أجرة الطريق",
+    "tr": "ujrit iT-Trīg",
+    "en": "the travel fare"
+   }
+  ]
+ }
+]

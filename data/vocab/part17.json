@@ -1,0 +1,1860 @@
+[
+ {
+  "ar": "مادة",
+  "tr": "mādda",
+  "en": "school subject; material",
+  "msa": "مادة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 62,
+  "ex_ar": "شن أصعب مادة عندك؟",
+  "ex_tr": "shin aS3ab mādda 3andik?",
+  "ex_en": "What's your hardest subject?",
+  "note": "pl. مواد mawādd",
+  "phrases": [
+   {
+    "ar": "عندي سبع مواد هالترم",
+    "tr": "3andi sab3 mawādd hat-tirm",
+    "en": "I have seven subjects this term"
+   },
+   {
+    "ar": "سقطت في مادة وحدة",
+    "tr": "sgaTt fi mādda wa7da",
+    "en": "I failed one subject"
+   }
+  ]
+ },
+ {
+  "ar": "رياضيات",
+  "tr": "riyāDiyyāt",
+  "en": "mathematics; maths",
+  "msa": "الرياضيات",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 55,
+  "ex_ar": "أستاذ الرياضيات صعيب هلبا",
+  "ex_tr": "ustādh ir-riyāDiyyāt Sa3īb hallba",
+  "ex_en": "The maths teacher is really strict",
+  "note": "In primary school also called حساب 7sāb",
+  "phrases": [
+   {
+    "ar": "درجتي في الرياضيات عالية",
+    "tr": "darajti fir-riyāDiyyāt 3ālya",
+    "en": "My maths grade is high"
+   },
+   {
+    "ar": "نبي دروس في الرياضيات",
+    "tr": "nibbi drūs fir-riyāDiyyāt",
+    "en": "I want lessons in maths"
+   }
+  ]
+ },
+ {
+  "ar": "علوم",
+  "tr": "3ulūm",
+  "en": "science (school subject); sciences",
+  "msa": "العلوم",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "عندنا امتحان علوم بكرة",
+  "ex_tr": "3andna imti7ān 3ulūm bukra",
+  "ex_en": "We have a science exam tomorrow",
+  "note": "sing. علم 3ilm (knowledge)",
+  "phrases": [
+   {
+    "ar": "كتاب العلوم تقيل",
+    "tr": "ktāb il-3ulūm tgīl",
+    "en": "The science book is heavy"
+   },
+   {
+    "ar": "كلية العلوم",
+    "tr": "kulliyyat il-3ulūm",
+    "en": "Faculty of Science"
+   }
+  ]
+ },
+ {
+  "ar": "فيزيا",
+  "tr": "fīzya",
+  "en": "physics",
+  "msa": "الفيزياء",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "الفيزيا صعيبة عليا",
+  "ex_tr": "il-fīzya Sa3ība 3layya",
+  "ex_en": "Physics is hard for me",
+  "note": "MSA فيزياء, said without the final hamza",
+  "phrases": [
+   {
+    "ar": "قسم الفيزيا",
+    "tr": "gism il-fīzya",
+    "en": "the physics department"
+   },
+   {
+    "ar": "مسألة فيزيا",
+    "tr": "mas'alat fīzya",
+    "en": "a physics problem"
+   }
+  ]
+ },
+ {
+  "ar": "كيميا",
+  "tr": "kīmya",
+  "en": "chemistry",
+  "msa": "الكيمياء",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "نحب الكيميا والتجارب",
+  "ex_tr": "n7ibb il-kīmya wit-tajārib",
+  "ex_en": "I love chemistry and experiments",
+  "note": "MSA كيمياء",
+  "phrases": [
+   {
+    "ar": "معمل الكيميا",
+    "tr": "ma3mal il-kīmya",
+    "en": "the chemistry lab"
+   },
+   {
+    "ar": "أستاذة كيميا",
+    "tr": "ustādhat kīmya",
+    "en": "a chemistry teacher (f.)"
+   }
+  ]
+ },
+ {
+  "ar": "جغرافيا",
+  "tr": "jughrāfya",
+  "en": "geography",
+  "msa": "الجغرافيا",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "في الجغرافيا قرينا على الصحرا",
+  "ex_tr": "fil-jughrāfya grīna 3aS-Sa7ra",
+  "ex_en": "In geography we studied the desert",
+  "phrases": [
+   {
+    "ar": "خريطة الجغرافيا",
+    "tr": "khārTat il-jughrāfya",
+    "en": "the geography map"
+   },
+   {
+    "ar": "امتحان جغرافيا",
+    "tr": "imti7ān jughrāfya",
+    "en": "a geography exam"
+   }
+  ]
+ },
+ {
+  "ar": "تربية إسلامية",
+  "tr": "tarbiya islāmiyya",
+  "en": "Islamic education (school subject)",
+  "msa": "التربية الإسلامية",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "التربية الإسلامية فيها حفظ هلبا",
+  "ex_tr": "it-tarbiya l-islāmiyya fīha 7ifDH hallba",
+  "ex_en": "Islamic education involves a lot of memorizing",
+  "note": "Often shortened to الإسلامية il-islāmiyya",
+  "phrases": [
+   {
+    "ar": "حصة التربية الإسلامية",
+    "tr": "7iSSat it-tarbiya l-islāmiyya",
+    "en": "the Islamic education class"
+   },
+   {
+    "ar": "جبت فيها الدرجة كاملة",
+    "tr": "jibt fīha d-daraja kāmla",
+    "en": "I got full marks in it"
+   }
+  ]
+ },
+ {
+  "ar": "فرنساوي",
+  "tr": "fransāwi",
+  "en": "French (language); French person",
+  "msa": "الفرنسية",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "خوي يقرا فرنساوي في المعهد",
+  "ex_tr": "khūy yagra fransāwi fil-ma3had",
+  "ex_en": "My brother studies French at the institute",
+  "note": "f. فرنساوية fransāwiyya",
+  "phrases": [
+   {
+    "ar": "تعرف تهدرز فرنساوي؟",
+    "tr": "ta3rif thadriz fransāwi?",
+    "en": "Can you speak French?"
+   },
+   {
+    "ar": "كلمة فرنساوية",
+    "tr": "kilma fransāwiyya",
+    "en": "a French word"
+   }
+  ]
+ },
+ {
+  "ar": "درجة",
+  "tr": "daraja",
+  "en": "mark; grade; degree",
+  "msa": "درجة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 2,
+  "usage": 66,
+  "ex_ar": "خديت درجة كاملة في الحساب",
+  "ex_tr": "khdēt daraja kāmla fil-7sāb",
+  "ex_en": "I got full marks in arithmetic",
+  "note": "pl. درجات darajāt",
+  "phrases": [
+   {
+    "ar": "كم جبت من درجة؟",
+    "tr": "kam jibt min daraja?",
+    "en": "What mark did you get?"
+   },
+   {
+    "ar": "الدرجات طلعت",
+    "tr": "id-darajāt Tal3at",
+    "en": "The grades are out"
+   }
+  ]
+ },
+ {
+  "ar": "معدل",
+  "tr": "mu3addal",
+  "en": "grade average; GPA; rate",
+  "msa": "معدل",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "معدلي هالسنة عالي",
+  "ex_tr": "mu3addali has-sana 3āli",
+  "ex_en": "My average this year is high",
+  "note": "pl. معدلات mu3addalāt",
+  "phrases": [
+   {
+    "ar": "معدلك قداش؟",
+    "tr": "mu3addalik gaddāsh?",
+    "en": "What's your average?"
+   },
+   {
+    "ar": "المعدل ما يكفيش للطب",
+    "tr": "il-mu3addal ma ykaffīsh liT-Tibb",
+    "en": "The average isn't enough for medicine"
+   }
+  ]
+ },
+ {
+  "ar": "نسبة",
+  "tr": "nisba",
+  "en": "percentage (final exam score); ratio",
+  "msa": "نسبة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "جاب نسبة تسعين في الثانوية",
+  "ex_tr": "jāb nisba tis3īn fith-thānawiyya",
+  "ex_en": "He got ninety percent in secondary school",
+  "note": "Libyans talk about a student's nisba for university admission. pl. نسب nisab",
+  "phrases": [
+   {
+    "ar": "نسبتك قداش؟",
+    "tr": "nisbtik gaddāsh?",
+    "en": "What's your percentage?"
+   },
+   {
+    "ar": "نسبة النجاح عالية",
+    "tr": "nisbat in-najā7 3ālya",
+    "en": "The pass rate is high"
+   }
+  ]
+ },
+ {
+  "ar": "نجاح",
+  "tr": "najā7",
+  "en": "success; passing (an exam)",
+  "msa": "نجاح",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "مبروك النجاح!",
+  "ex_tr": "mabrūk in-najā7!",
+  "ex_en": "Congratulations on passing!",
+  "phrases": [
+   {
+    "ar": "ربي يكتبلك النجاح",
+    "tr": "rabbi yiktiblak in-najā7",
+    "en": "May God grant you success"
+   },
+   {
+    "ar": "حفلة نجاح",
+    "tr": "7aflat najā7",
+    "en": "a party for passing exams"
+   }
+  ]
+ },
+ {
+  "ar": "رسوب",
+  "tr": "rusūb",
+  "en": "failing (an exam or school year)",
+  "msa": "رسوب",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "خايف من الرسوب",
+  "ex_tr": "khāyif min ir-rusūb",
+  "ex_en": "I'm afraid of failing",
+  "note": "Everyday verb is سقط sgaT (to fail)",
+  "phrases": [
+   {
+    "ar": "الرسوب في سنة مش نهاية الدنيا",
+    "tr": "ir-rusūb fi sana mush nihāyat id-dinya",
+    "en": "Failing a year isn't the end of the world"
+   },
+   {
+    "ar": "نسبة الرسوب",
+    "tr": "nisbat ir-rusūb",
+    "en": "the failure rate"
+   }
+  ]
+ },
+ {
+  "ar": "دور تاني",
+  "tr": "dōr tāni",
+  "en": "resit exam; second exam session",
+  "msa": "الدور الثاني",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 45,
+  "ex_ar": "عنده دور تاني في الإنجليزي",
+  "ex_tr": "3anda dōr tāni fil-ingilīzi",
+  "ex_en": "He has a resit in English",
+  "note": "Lit. \"second round\"; MSA الدور الثاني",
+  "phrases": [
+   {
+    "ar": "نجح في الدور التاني",
+    "tr": "nja7 fid-dōr it-tāni",
+    "en": "He passed in the resit"
+   },
+   {
+    "ar": "الصيف كله قراية للدور التاني",
+    "tr": "iS-Sēf kulla grāya lid-dōr it-tāni",
+    "en": "The whole summer is studying for the resit"
+   }
+  ]
+ },
+ {
+  "ar": "ثانوية",
+  "tr": "thānawiyya",
+  "en": "secondary school; high school",
+  "msa": "الثانوية",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "بنتي في تالتة ثانوي",
+  "ex_tr": "binti fi tālta thānawi",
+  "ex_en": "My daughter is in third year of secondary",
+  "note": "Also شهادة الثانوية the secondary certificate",
+  "phrases": [
+   {
+    "ar": "شهادة الثانوية",
+    "tr": "shahādat ith-thānawiyya",
+    "en": "the secondary school certificate"
+   },
+   {
+    "ar": "كمّل الثانوية العام الماضي",
+    "tr": "kammal ith-thānawiyya l-3ām il-māDi",
+    "en": "He finished secondary school last year"
+   }
+  ]
+ },
+ {
+  "ar": "إعدادي",
+  "tr": "i3dādi",
+  "en": "middle school; preparatory stage",
+  "msa": "الإعدادية",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "ولدي في تانية إعدادي",
+  "ex_tr": "wildi fi tānya i3dādi",
+  "ex_en": "My son is in second year of middle school",
+  "note": "Also شهادة الإعدادية (end-of-middle-school certificate)",
+  "phrases": [
+   {
+    "ar": "مدرسة إعدادية",
+    "tr": "madrasa i3dādiyya",
+    "en": "a middle school"
+   },
+   {
+    "ar": "امتحانات الإعدادية",
+    "tr": "imti7ānāt il-i3dādiyya",
+    "en": "the middle-school exams"
+   }
+  ]
+ },
+ {
+  "ar": "ابتدائي",
+  "tr": "ibtidā'i",
+  "en": "primary school; elementary stage",
+  "msa": "الابتدائية",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "الصغير في أولى ابتدائي",
+  "ex_tr": "iS-Sghīr fi ūla ibtidā'i",
+  "ex_en": "The little one is in first grade of primary",
+  "note": "f. ابتدائية ibtidā'iyya",
+  "phrases": [
+   {
+    "ar": "مدرسة ابتدائية",
+    "tr": "madrasa ibtidā'iyya",
+    "en": "a primary school"
+   },
+   {
+    "ar": "من الابتدائي لتوا",
+    "tr": "min il-ibtidā'i li-tawwa",
+    "en": "from primary school until now"
+   }
+  ]
+ },
+ {
+  "ar": "فصل",
+  "tr": "faSl",
+  "en": "classroom; class; semester",
+  "msa": "فصل",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 64,
+  "ex_ar": "الفصل فيه تلاتين تلميذ",
+  "ex_tr": "il-faSl fīh tlātīn tilmīdh",
+  "ex_en": "The class has thirty pupils",
+  "note": "pl. فصول fuSūl",
+  "phrases": [
+   {
+    "ar": "الفصل الأول",
+    "tr": "il-faSl il-awwal",
+    "en": "the first semester"
+   },
+   {
+    "ar": "اطلع من الفصل!",
+    "tr": "iTla3 min il-faSl!",
+    "en": "Get out of the classroom!"
+   }
+  ]
+ },
+ {
+  "ar": "حصة",
+  "tr": "7iSSa",
+  "en": "class period; lesson (in the timetable)",
+  "msa": "حصة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "الحصة الأولى رياضيات",
+  "ex_tr": "il-7iSSa l-ūla riyāDiyyāt",
+  "ex_en": "The first period is maths",
+  "note": "pl. حصص 7iSaS",
+  "phrases": [
+   {
+    "ar": "الحصة كملت",
+    "tr": "il-7iSSa kammlat",
+    "en": "The lesson is over"
+   },
+   {
+    "ar": "عندنا ست حصص اليوم",
+    "tr": "3andna sitt 7iSaS ilyōm",
+    "en": "We have six periods today"
+   }
+  ]
+ },
+ {
+  "ar": "جدول",
+  "tr": "jadwal",
+  "en": "timetable; schedule; table",
+  "msa": "جدول",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "جدول الامتحانات طلع",
+  "ex_tr": "jadwal il-imti7ānāt Tla3",
+  "ex_en": "The exam timetable is out",
+  "note": "pl. جداول jadāwil",
+  "phrases": [
+   {
+    "ar": "شن عندنا في الجدول بكرة؟",
+    "tr": "shin 3andna fil-jadwal bukra?",
+    "en": "What's on the timetable tomorrow?"
+   },
+   {
+    "ar": "جدول المباريات",
+    "tr": "jadwal il-mubārayāt",
+    "en": "the match schedule"
+   }
+  ]
+ },
+ {
+  "ar": "قومة",
+  "tr": "gōmma",
+  "en": "eraser; rubber",
+  "msa": "ممحاة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "عندك قومة نسلفها؟",
+  "ex_tr": "3andik gōmma nsallifha?",
+  "ex_en": "Do you have an eraser I can borrow?",
+  "note": "From Italian gomma",
+  "phrases": [
+   {
+    "ar": "امسحها بالقومة",
+    "tr": "imsa7ha bil-gōmma",
+    "en": "Rub it out with the eraser"
+   },
+   {
+    "ar": "القومة ضاعت",
+    "tr": "il-gōmma Dā3at",
+    "en": "The eraser got lost"
+   }
+  ]
+ },
+ {
+  "ar": "برّاية",
+  "tr": "barrāya",
+  "en": "pencil sharpener",
+  "msa": "برّاية",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "القلم يبي برّاية",
+  "ex_tr": "il-galam yibbi barrāya",
+  "ex_en": "The pencil needs a sharpener",
+  "note": "From بري (to sharpen)",
+  "phrases": [
+   {
+    "ar": "برّاية بالخزانة",
+    "tr": "barrāya bil-khazzāna",
+    "en": "a sharpener with a container"
+   },
+   {
+    "ar": "سلفني البرّاية",
+    "tr": "sallifni l-barrāya",
+    "en": "Lend me the sharpener"
+   }
+  ]
+ },
+ {
+  "ar": "طباشير",
+  "tr": "Tabāshīr",
+  "en": "chalk",
+  "msa": "طباشير",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 5,
+  "usage": 33,
+  "ex_ar": "الأستاذ كتب بالطباشير على السبورة",
+  "ex_tr": "il-ustādh kteb biT-Tabāshīr 3as-sabbūra",
+  "ex_en": "The teacher wrote on the board with chalk",
+  "note": "One stick: حبة طباشير",
+  "phrases": [
+   {
+    "ar": "حبة طباشير",
+    "tr": "7abbat Tabāshīr",
+    "en": "a stick of chalk"
+   },
+   {
+    "ar": "غبرة الطباشير",
+    "tr": "ghabrat iT-Tabāshīr",
+    "en": "chalk dust"
+   }
+  ]
+ },
+ {
+  "ar": "مقلمة",
+  "tr": "maglama",
+  "en": "pencil case",
+  "msa": "مقلمة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "حط الأقلام في المقلمة",
+  "ex_tr": "7oTT il-aglām fil-maglama",
+  "ex_en": "Put the pens in the pencil case",
+  "phrases": [
+   {
+    "ar": "مقلمة جديدة للمدرسة",
+    "tr": "maglama jdīda lil-madrasa",
+    "en": "a new pencil case for school"
+   },
+   {
+    "ar": "المقلمة في الشنطة",
+    "tr": "il-maglama fish-shanTa",
+    "en": "The pencil case is in the bag"
+   }
+  ]
+ },
+ {
+  "ar": "آلة حاسبة",
+  "tr": "āla 7āsba",
+  "en": "calculator",
+  "msa": "آلة حاسبة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "ممنوع الآلة الحاسبة في الامتحان",
+  "ex_tr": "mamnū3 il-āla l-7āsba fil-imti7ān",
+  "ex_en": "Calculators are not allowed in the exam",
+  "note": "Often just حاسبة 7āsba",
+  "phrases": [
+   {
+    "ar": "احسبها بالحاسبة",
+    "tr": "i7sibha bil-7āsba",
+    "en": "Work it out with the calculator"
+   },
+   {
+    "ar": "حاسبة النقال",
+    "tr": "7āsbat in-naggāl",
+    "en": "the phone's calculator"
+   }
+  ]
+ },
+ {
+  "ar": "دبّاسة",
+  "tr": "dabbāsa",
+  "en": "stapler",
+  "msa": "دبّاسة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "دبّس الأوراق بالدبّاسة",
+  "ex_tr": "dabbis il-awrāg bid-dabbāsa",
+  "ex_en": "Staple the papers with the stapler",
+  "note": "Staples: دبابيس dbābīs",
+  "phrases": [
+   {
+    "ar": "الدبّاسة فاضية",
+    "tr": "id-dabbāsa fāDya",
+    "en": "The stapler is empty"
+   },
+   {
+    "ar": "جيبلي الدبّاسة من المكتب",
+    "tr": "jībli d-dabbāsa min il-maktab",
+    "en": "Bring me the stapler from the office"
+   }
+  ]
+ },
+ {
+  "ar": "ورقة",
+  "tr": "warga",
+  "en": "sheet of paper; paper; form",
+  "msa": "ورقة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 2,
+  "usage": 72,
+  "ex_ar": "عطيني ورقة وقلم",
+  "ex_tr": "3aTīni warga w galam",
+  "ex_en": "Give me a sheet of paper and a pen",
+  "note": "pl. أوراق awrāg; collective ورق warag",
+  "phrases": [
+   {
+    "ar": "ورقة الأسئلة",
+    "tr": "wargat il-as'ila",
+    "en": "the question paper"
+   },
+   {
+    "ar": "عبّي الورقة هادي",
+    "tr": "3abbi l-warga hādi",
+    "en": "Fill in this form"
+   }
+  ]
+ },
+ {
+  "ar": "قلم رصاص",
+  "tr": "galam raSāS",
+  "en": "pencil",
+  "msa": "قلم رصاص",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 45,
+  "ex_ar": "اكتب بقلم الرصاص",
+  "ex_tr": "ikteb b-galam ir-raSāS",
+  "ex_en": "Write in pencil",
+  "note": "Lit. \"lead pen\"; pl. أقلام رصاص",
+  "phrases": [
+   {
+    "ar": "قلم رصاص وقومة",
+    "tr": "galam raSāS w gōmma",
+    "en": "a pencil and an eraser"
+   },
+   {
+    "ar": "قلم الرصاص تكسّر",
+    "tr": "galam ir-raSāS tkassar",
+    "en": "The pencil broke"
+   }
+  ]
+ },
+ {
+  "ar": "حبر",
+  "tr": "7ibr",
+  "en": "ink",
+  "msa": "حبر",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 35,
+  "ex_ar": "القلم كمل فيه الحبر",
+  "ex_tr": "il-galam kammal fīh il-7ibr",
+  "ex_en": "The pen has run out of ink",
+  "note": "Also printer ink: حبر الطابعة",
+  "phrases": [
+   {
+    "ar": "حبر أزرق",
+    "tr": "7ibr azrag",
+    "en": "blue ink"
+   },
+   {
+    "ar": "حبر الطابعة غالي",
+    "tr": "7ibr iT-Tāb3a ghāli",
+    "en": "Printer ink is expensive"
+   }
+  ]
+ },
+ {
+  "ar": "محاضرة",
+  "tr": "mu7āDra",
+  "en": "lecture",
+  "msa": "محاضرة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "عندي محاضرة الساعة تمنية",
+  "ex_tr": "3andi mu7āDra s-sā3a tmanya",
+  "ex_en": "I have a lecture at eight",
+  "note": "pl. محاضرات mu7āDrāt",
+  "phrases": [
+   {
+    "ar": "فاتتني المحاضرة",
+    "tr": "fātatni l-mu7āDra",
+    "en": "I missed the lecture"
+   },
+   {
+    "ar": "المحاضرة تلغت",
+    "tr": "il-mu7āDra tilghat",
+    "en": "The lecture was cancelled"
+   }
+  ]
+ },
+ {
+  "ar": "قسم",
+  "tr": "gism",
+  "en": "department (university); section; ward",
+  "msa": "قسم",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 54,
+  "ex_ar": "في أي قسم تقرا؟",
+  "ex_tr": "fi ayy gism tagra?",
+  "ex_en": "Which department do you study in?",
+  "note": "pl. أقسام agsām",
+  "phrases": [
+   {
+    "ar": "رئيس القسم",
+    "tr": "ra'īs il-gism",
+    "en": "the head of department"
+   },
+   {
+    "ar": "قسم الإنجليزي",
+    "tr": "gism il-ingilīzi",
+    "en": "the English department"
+   }
+  ]
+ },
+ {
+  "ar": "تخصص",
+  "tr": "takhaSSuS",
+  "en": "major; specialization",
+  "msa": "تخصص",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "شن تخصصك في الجامعة؟",
+  "ex_tr": "shin takhaSSuSik fil-jāmi3a?",
+  "ex_en": "What's your major at university?",
+  "note": "pl. تخصصات takhaSSuSāt",
+  "phrases": [
+   {
+    "ar": "غيّرت التخصص",
+    "tr": "ghayyart it-takhaSSuS",
+    "en": "I changed my major"
+   },
+   {
+    "ar": "تخصص مطلوب في السوق",
+    "tr": "takhaSSuS maTlūb fis-sūg",
+    "en": "a major in demand on the job market"
+   }
+  ]
+ },
+ {
+  "ar": "ليسانس",
+  "tr": "līsāns",
+  "en": "bachelor's degree (arts, law)",
+  "msa": "الليسانس",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "خدا الليسانس في القانون",
+  "ex_tr": "khda l-līsāns fil-gānūn",
+  "ex_en": "He got his bachelor's in law",
+  "note": "From French licence; science degrees are usually بكالوريوس bakalōryūs",
+  "phrases": [
+   {
+    "ar": "عنده ليسانس آداب",
+    "tr": "3anda līsāns ādāb",
+    "en": "He has a BA in arts"
+   },
+   {
+    "ar": "بعد الليسانس نبي نكمّل",
+    "tr": "ba3d il-līsāns nibbi nkammil",
+    "en": "After the bachelor's I want to continue"
+   }
+  ]
+ },
+ {
+  "ar": "ماجستير",
+  "tr": "mājistēr",
+  "en": "master's degree",
+  "msa": "ماجستير",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "تقرا ماجستير برا",
+  "ex_tr": "tagra mājistēr barra",
+  "ex_en": "She's doing a master's abroad",
+  "phrases": [
+   {
+    "ar": "رسالة ماجستير",
+    "tr": "risālat mājistēr",
+    "en": "a master's thesis"
+   },
+   {
+    "ar": "كمّل الماجستير السنة هادي",
+    "tr": "kammal il-mājistēr is-sana hādi",
+    "en": "He finished his master's this year"
+   }
+  ]
+ },
+ {
+  "ar": "دكتوراة",
+  "tr": "doktōra",
+  "en": "PhD; doctorate",
+  "msa": "الدكتوراه",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "عنده دكتوراة من بريطانيا",
+  "ex_tr": "3anda doktōra min briTānya",
+  "ex_en": "He has a PhD from Britain",
+  "note": "MSA دكتوراه",
+  "phrases": [
+   {
+    "ar": "يحضّر في الدكتوراة",
+    "tr": "yi7aDDir fid-doktōra",
+    "en": "He's preparing his PhD"
+   },
+   {
+    "ar": "بعد الدكتوراة رجع لليبيا",
+    "tr": "ba3d id-doktōra rja3 li-lībya",
+    "en": "After the PhD he returned to Libya"
+   }
+  ]
+ },
+ {
+  "ar": "منحة",
+  "tr": "min7a",
+  "en": "scholarship; grant",
+  "msa": "منحة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "خدا منحة يقرا في ماليزيا",
+  "ex_tr": "khda min7a yagra fi mālīzya",
+  "ex_en": "He got a scholarship to study in Malaysia",
+  "note": "pl. منح mina7",
+  "phrases": [
+   {
+    "ar": "منحة دراسية",
+    "tr": "min7a dirāsiyya",
+    "en": "a study scholarship"
+   },
+   {
+    "ar": "المنحة تأخرت",
+    "tr": "il-min7a t'akhkharat",
+    "en": "The grant payment is late"
+   }
+  ]
+ },
+ {
+  "ar": "إيفاد",
+  "tr": "īfād",
+  "en": "study-abroad scholarship (state-sponsored)",
+  "msa": "إيفاد",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "ولد عمي في إيفاد في كندا",
+  "ex_tr": "wild 3ammi fi īfād fi kanada",
+  "ex_en": "My cousin is on a state scholarship in Canada",
+  "note": "Very Libyan term; a student on it is موفد mūfad",
+  "phrases": [
+   {
+    "ar": "طلع إيفاد",
+    "tr": "Tla3 īfād",
+    "en": "He went abroad on a scholarship"
+   },
+   {
+    "ar": "مستحقات الإيفاد",
+    "tr": "musta7aggāt il-īfād",
+    "en": "scholarship allowances"
+   }
+  ]
+ },
+ {
+  "ar": "قسم داخلي",
+  "tr": "gism dākhili",
+  "en": "university dorm; student hostel",
+  "msa": "السكن الجامعي",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "ساكن في القسم الداخلي",
+  "ex_tr": "sākin fil-gism id-dākhili",
+  "ex_en": "He lives in the dorm",
+  "note": "Libyan/older term for student housing",
+  "phrases": [
+   {
+    "ar": "القسم الداخلي متاع البنات",
+    "tr": "il-gism id-dākhili mtā3 il-banāt",
+    "en": "the girls' dorm"
+   },
+   {
+    "ar": "الأكل في القسم الداخلي",
+    "tr": "il-ākil fil-gism id-dākhili",
+    "en": "the food in the dorm"
+   }
+  ]
+ },
+ {
+  "ar": "تسجيل",
+  "tr": "tasjīl",
+  "en": "registration; enrolment; recording",
+  "msa": "تسجيل",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 54,
+  "ex_ar": "التسجيل في الجامعة بدا",
+  "ex_tr": "it-tasjīl fil-jāmi3a bda",
+  "ex_en": "University registration has started",
+  "note": "pl. تسجيلات tasjīlāt",
+  "phrases": [
+   {
+    "ar": "آخر يوم للتسجيل",
+    "tr": "ākhir yōm lit-tasjīl",
+    "en": "the last day for registration"
+   },
+   {
+    "ar": "تسجيل صوتي",
+    "tr": "tasjīl Sōti",
+    "en": "a voice recording"
+   }
+  ]
+ },
+ {
+  "ar": "رسوم",
+  "tr": "rusūm",
+  "en": "fees; charges",
+  "msa": "رسوم",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "رسوم المدرسة الخاصة غالية",
+  "ex_tr": "rusūm il-madrasa l-khāSSa ghālya",
+  "ex_en": "Private school fees are expensive",
+  "note": "sing. رسم rasm",
+  "phrases": [
+   {
+    "ar": "دفعت الرسوم؟",
+    "tr": "dfa3t ir-rusūm?",
+    "en": "Did you pay the fees?"
+   },
+   {
+    "ar": "رسوم التسجيل",
+    "tr": "rusūm it-tasjīl",
+    "en": "registration fees"
+   }
+  ]
+ },
+ {
+  "ar": "بحث",
+  "tr": "ba7th",
+  "en": "research; research paper; search",
+  "msa": "بحث",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "الأستاذ طلب منا بحث",
+  "ex_tr": "il-ustādh Tlab minna ba7th",
+  "ex_en": "The teacher asked us for a research paper",
+  "note": "pl. بحوث bu7ūth / أبحاث ab7āth",
+  "phrases": [
+   {
+    "ar": "سلّمت البحث؟",
+    "tr": "sallamt il-ba7th?",
+    "en": "Did you hand in the paper?"
+   },
+   {
+    "ar": "بحث تخرج",
+    "tr": "ba7th takharruj",
+    "en": "a graduation paper"
+   }
+  ]
+ },
+ {
+  "ar": "مشروع تخرج",
+  "tr": "mashrū3 takharruj",
+  "en": "graduation project",
+  "msa": "مشروع تخرج",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "قاعد نخدم في مشروع التخرج",
+  "ex_tr": "gā3id nikhdim fi mashrū3 it-takharruj",
+  "ex_en": "I'm working on my graduation project",
+  "note": "pl. مشاريع تخرج",
+  "phrases": [
+   {
+    "ar": "مناقشة مشروع التخرج",
+    "tr": "munāgshat mashrū3 it-takharruj",
+    "en": "the graduation project defence"
+   },
+   {
+    "ar": "مشروع التخرج عن الطاقة",
+    "tr": "mashrū3 it-takharruj 3an iT-Tāga",
+    "en": "the graduation project is about energy"
+   }
+  ]
+ },
+ {
+  "ar": "تخرج",
+  "tr": "takharruj",
+  "en": "graduation",
+  "msa": "تخرج",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "حفلة التخرج الخميس",
+  "ex_tr": "7aflat it-takharruj il-khamīs",
+  "ex_en": "The graduation party is on Thursday",
+  "phrases": [
+   {
+    "ar": "مبروك التخرج!",
+    "tr": "mabrūk it-takharruj!",
+    "en": "Congratulations on graduating!"
+   },
+   {
+    "ar": "بعد التخرج شن ناوي؟",
+    "tr": "ba3d it-takharruj shin nāwi?",
+    "en": "What do you plan after graduation?"
+   }
+  ]
+ },
+ {
+  "ar": "خرّيج",
+  "tr": "khirrīj",
+  "en": "graduate",
+  "msa": "خرّيج",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "هو خرّيج هندسة",
+  "ex_tr": "huwwa khirrīj handasa",
+  "ex_en": "He's an engineering graduate",
+  "note": "pl. خرّيجين khirrījīn; f. خرّيجة",
+  "phrases": [
+   {
+    "ar": "خرّيجين بلا خدمة",
+    "tr": "khirrījīn bla khidma",
+    "en": "graduates without jobs"
+   },
+   {
+    "ar": "خرّيجة طب",
+    "tr": "khirrījat Tibb",
+    "en": "a medicine graduate (f.)"
+   }
+  ]
+ },
+ {
+  "ar": "غياب",
+  "tr": "ghiyāb",
+  "en": "absence",
+  "msa": "غياب",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "الغياب يأثر على الدرجة",
+  "ex_tr": "il-ghiyāb y'aththir 3ad-daraja",
+  "ex_en": "Absences affect the grade",
+  "phrases": [
+   {
+    "ar": "عنده غياب هلبا",
+    "tr": "3anda ghiyāb hallba",
+    "en": "He has lots of absences"
+   },
+   {
+    "ar": "ورقة غياب",
+    "tr": "wargat ghiyāb",
+    "en": "an absence note"
+   }
+  ]
+ },
+ {
+  "ar": "حضور",
+  "tr": "7uDūr",
+  "en": "attendance; presence",
+  "msa": "حضور",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "الحضور إجباري",
+  "ex_tr": "il-7uDūr ijbāri",
+  "ex_en": "Attendance is compulsory",
+  "phrases": [
+   {
+    "ar": "ورقة الحضور",
+    "tr": "wargat il-7uDūr",
+    "en": "the attendance sheet"
+   },
+   {
+    "ar": "سجّل حضورك",
+    "tr": "sajjil 7uDūrik",
+    "en": "Sign in your attendance"
+   }
+  ]
+ },
+ {
+  "ar": "إملاء",
+  "tr": "imlā",
+  "en": "dictation; spelling",
+  "msa": "إملاء",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "اليوم عندنا إملاء",
+  "ex_tr": "ilyōm 3andna imlā",
+  "ex_en": "We have dictation today",
+  "note": "MSA إملاء",
+  "phrases": [
+   {
+    "ar": "غلطة إملاء",
+    "tr": "ghalTat imlā",
+    "en": "a spelling mistake"
+   },
+   {
+    "ar": "خطه حلو بس الإملاء ضعيف",
+    "tr": "khaTTa 7ilu bass il-imlā Da3īf",
+    "en": "His handwriting is nice but his spelling is weak"
+   }
+  ]
+ },
+ {
+  "ar": "تعبير",
+  "tr": "ta3bīr",
+  "en": "composition; essay; expression",
+  "msa": "تعبير",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "كتبت تعبير على العيد",
+  "ex_tr": "ktibt ta3bīr 3al-3īd",
+  "ex_en": "I wrote an essay about Eid",
+  "phrases": [
+   {
+    "ar": "موضوع تعبير",
+    "tr": "mawDū3 ta3bīr",
+    "en": "an essay topic"
+   },
+   {
+    "ar": "حرية التعبير",
+    "tr": "7urriyyat it-ta3bīr",
+    "en": "freedom of expression"
+   }
+  ]
+ },
+ {
+  "ar": "قواعد",
+  "tr": "gawā3id",
+  "en": "grammar; rules",
+  "msa": "قواعد",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "قواعد الإنجليزي ساهلة",
+  "ex_tr": "gawā3id il-ingilīzi sāhla",
+  "ex_en": "English grammar is easy",
+  "note": "sing. قاعدة gā3da",
+  "phrases": [
+   {
+    "ar": "قواعد اللعبة",
+    "tr": "gawā3id il-li3ba",
+    "en": "the rules of the game"
+   },
+   {
+    "ar": "درس قواعد",
+    "tr": "dars gawā3id",
+    "en": "a grammar lesson"
+   }
+  ]
+ },
+ {
+  "ar": "حفظ",
+  "tr": "7ifDH",
+  "en": "memorization; memorizing; saving (a file)",
+  "msa": "حفظ",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "حفظ القرآن من صغره",
+  "ex_tr": "7ifDH il-gur'ān min Sghura",
+  "ex_en": "He memorized the Quran from a young age",
+  "phrases": [
+   {
+    "ar": "الامتحان كله حفظ",
+    "tr": "il-imti7ān kulla 7ifDH",
+    "en": "The exam is all memorization"
+   },
+   {
+    "ar": "حفظ الملف",
+    "tr": "7ifDH il-milaff",
+    "en": "saving the file"
+   }
+  ]
+ },
+ {
+  "ar": "مراجعة",
+  "tr": "murāj3a",
+  "en": "revision; review; follow-up appointment",
+  "msa": "مراجعة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 54,
+  "ex_ar": "نبدا المراجعة من تَوّا",
+  "ex_tr": "nibda l-murāj3a min tawwa",
+  "ex_en": "I'm starting revision now",
+  "note": "pl. مراجعات",
+  "phrases": [
+   {
+    "ar": "مراجعة قبل الامتحان",
+    "tr": "murāj3a gbal il-imti7ān",
+    "en": "revision before the exam"
+   },
+   {
+    "ar": "حصة مراجعة",
+    "tr": "7iSSat murāj3a",
+    "en": "a revision class"
+   }
+  ]
+ },
+ {
+  "ar": "غش",
+  "tr": "ghashsh",
+  "en": "cheating",
+  "msa": "غش",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "شدوه يغش في الامتحان",
+  "ex_tr": "shaddūh yghishsh fil-imti7ān",
+  "ex_en": "They caught him cheating in the exam",
+  "note": "Also \"fraud\" in trade",
+  "phrases": [
+   {
+    "ar": "الغش ممنوع",
+    "tr": "il-ghashsh mamnū3",
+    "en": "Cheating is forbidden"
+   },
+   {
+    "ar": "ورقة غش",
+    "tr": "wargat ghashsh",
+    "en": "a cheat sheet"
+   }
+  ]
+ },
+ {
+  "ar": "شرح",
+  "tr": "shar7",
+  "en": "explanation",
+  "msa": "شرح",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "شرح الأستاذ واضح",
+  "ex_tr": "shar7 il-ustādh wāDi7",
+  "ex_en": "The teacher's explanation is clear",
+  "phrases": [
+   {
+    "ar": "ما فهمتش الشرح",
+    "tr": "ma fhimtish ish-shar7",
+    "en": "I didn't understand the explanation"
+   },
+   {
+    "ar": "فيديو فيه شرح",
+    "tr": "vīdyo fīh shar7",
+    "en": "a video with an explanation"
+   }
+  ]
+ },
+ {
+  "ar": "تمرين",
+  "tr": "tamrīn",
+  "en": "exercise; drill; training session",
+  "msa": "تمرين",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 54,
+  "ex_ar": "حل التمرين التالت",
+  "ex_tr": "7ill it-tamrīn it-tālit",
+  "ex_en": "Solve the third exercise",
+  "note": "pl. تمارين tamārīn",
+  "phrases": [
+   {
+    "ar": "عندي تمرين في النادي",
+    "tr": "3andi tamrīn fin-nādi",
+    "en": "I have training at the club"
+   },
+   {
+    "ar": "تمارين البيت",
+    "tr": "tamārīn il-bēt",
+    "en": "homework exercises"
+   }
+  ]
+ },
+ {
+  "ar": "مسألة",
+  "tr": "mas'ala",
+  "en": "(maths) problem; matter; issue",
+  "msa": "مسألة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "المسألة هادي صعيبة",
+  "ex_tr": "il-mas'ala hādi Sa3ība",
+  "ex_en": "This problem is difficult",
+  "note": "pl. مسائل masā'il",
+  "phrases": [
+   {
+    "ar": "حليت المسألة؟",
+    "tr": "7allēt il-mas'ala?",
+    "en": "Did you solve the problem?"
+   },
+   {
+    "ar": "مسألة وقت",
+    "tr": "mas'alat wagt",
+    "en": "a matter of time"
+   }
+  ]
+ },
+ {
+  "ar": "جدول الضرب",
+  "tr": "jadwal iD-Darb",
+  "en": "multiplication table; times table",
+  "msa": "جدول الضرب",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "لازم تحفظ جدول الضرب",
+  "ex_tr": "lāzim ti7fiDH jadwal iD-Darb",
+  "ex_en": "You must memorize the times table",
+  "phrases": [
+   {
+    "ar": "جدول الضرب متاع ستة",
+    "tr": "jadwal iD-Darb mtā3 sitta",
+    "en": "the six times table"
+   },
+   {
+    "ar": "سمّعلي جدول الضرب",
+    "tr": "samma3li jadwal iD-Darb",
+    "en": "Recite the times table for me"
+   }
+  ]
+ },
+ {
+  "ar": "طابور الصباح",
+  "tr": "Tābūr iS-Sbā7",
+  "en": "morning assembly (at school)",
+  "msa": "طابور الصباح",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "تأخرت على طابور الصباح",
+  "ex_tr": "t'akhkhart 3ala Tābūr iS-Sbā7",
+  "ex_en": "I was late for morning assembly",
+  "phrases": [
+   {
+    "ar": "في طابور الصباح نقولوا النشيد",
+    "tr": "fi Tābūr iS-Sbā7 ngūlu n-nashīd",
+    "en": "At morning assembly we sing the anthem"
+   },
+   {
+    "ar": "المدير هدرز في الطابور",
+    "tr": "il-mudīr hadraz fiT-Tābūr",
+    "en": "The principal spoke at assembly"
+   }
+  ]
+ },
+ {
+  "ar": "نشيد",
+  "tr": "nashīd",
+  "en": "anthem; song (school, religious)",
+  "msa": "نشيد",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "كل يوم نقولوا النشيد الوطني",
+  "ex_tr": "kull yōm ngūlu n-nashīd il-waTani",
+  "ex_en": "Every day we sing the national anthem",
+  "note": "pl. أناشيد anāshīd",
+  "phrases": [
+   {
+    "ar": "النشيد الوطني",
+    "tr": "in-nashīd il-waTani",
+    "en": "the national anthem"
+   },
+   {
+    "ar": "أناشيد أطفال",
+    "tr": "anāshīd aTfāl",
+    "en": "children's songs"
+   }
+  ]
+ },
+ {
+  "ar": "مدرج",
+  "tr": "mudarraj",
+  "en": "lecture hall; amphitheatre",
+  "msa": "مدرج",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "المحاضرة في المدرج الكبير",
+  "ex_tr": "il-mu7āDra fil-mudarraj il-kbīr",
+  "ex_en": "The lecture is in the big lecture hall",
+  "note": "pl. مدرجات mudarrajāt (also stadium stands)",
+  "phrases": [
+   {
+    "ar": "المدرج مليان طلبة",
+    "tr": "il-mudarraj milyān Talba",
+    "en": "The lecture hall is full of students"
+   },
+   {
+    "ar": "مدرجات الملعب",
+    "tr": "mudarrajāt il-mal3ab",
+    "en": "the stadium stands"
+   }
+  ]
+ },
+ {
+  "ar": "معمل",
+  "tr": "ma3mal",
+  "en": "laboratory; lab; workshop",
+  "msa": "مختبر",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "عندنا عملي في المعمل",
+  "ex_tr": "3andna 3amali fil-ma3mal",
+  "ex_en": "We have a practical in the lab",
+  "note": "pl. معامل ma3āmil; also مختبر mukhtabar",
+  "phrases": [
+   {
+    "ar": "معمل الحاسوب",
+    "tr": "ma3mal il-7āsūb",
+    "en": "the computer lab"
+   },
+   {
+    "ar": "معمل تحاليل",
+    "tr": "ma3mal ta7ālīl",
+    "en": "a medical testing lab"
+   }
+  ]
+ },
+ {
+  "ar": "رسم",
+  "tr": "rasm",
+  "en": "drawing; art (subject)",
+  "msa": "رسم",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "بنتي تحب الرسم",
+  "ex_tr": "binti t7ibb ir-rasm",
+  "ex_en": "My daughter loves drawing",
+  "note": "pl. رسومات rusūmāt (drawings)",
+  "phrases": [
+   {
+    "ar": "كراسة رسم",
+    "tr": "karrāsat rasm",
+    "en": "a drawing book"
+   },
+   {
+    "ar": "حصة الرسم",
+    "tr": "7iSSat ir-rasm",
+    "en": "the art class"
+   }
+  ]
+ },
+ {
+  "ar": "كورس",
+  "tr": "kōrs",
+  "en": "course (e.g. language course)",
+  "msa": "دورة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "داير كورس إنجليزي",
+  "ex_tr": "dāyir kōrs ingilīzi",
+  "ex_en": "He's doing an English course",
+  "note": "English loan; also دورة dawra",
+  "phrases": [
+   {
+    "ar": "كورس كمبيوتر",
+    "tr": "kōrs kombyūtar",
+    "en": "a computer course"
+   },
+   {
+    "ar": "الكورس بفلوس ولا بلاش؟",
+    "tr": "il-kōrs b-flūs walla blāsh?",
+    "en": "Is the course paid or free?"
+   }
+  ]
+ },
+ {
+  "ar": "معهد",
+  "tr": "ma3had",
+  "en": "institute; vocational college",
+  "msa": "معهد",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "يقرا في معهد عالي",
+  "ex_tr": "yagra fi ma3had 3āli",
+  "ex_en": "He studies at a higher institute",
+  "note": "pl. معاهد ma3āhid",
+  "phrases": [
+   {
+    "ar": "معهد لغات",
+    "tr": "ma3had lughāt",
+    "en": "a language institute"
+   },
+   {
+    "ar": "معهد التمريض",
+    "tr": "ma3had it-tamrīD",
+    "en": "the nursing institute"
+   }
+  ]
+ },
+ {
+  "ar": "سنة دراسية",
+  "tr": "sana dirāsiyya",
+  "en": "school year; academic year",
+  "msa": "سنة دراسية",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "السنة الدراسية تبدا في أكتوبر",
+  "ex_tr": "is-sana d-dirāsiyya tibda fi oktōbar",
+  "ex_en": "The school year starts in October",
+  "note": "pl. سنوات دراسية",
+  "phrases": [
+   {
+    "ar": "بداية السنة الدراسية",
+    "tr": "bidāyat is-sana d-dirāsiyya",
+    "en": "the start of the school year"
+   },
+   {
+    "ar": "آخر السنة الدراسية",
+    "tr": "ākhir is-sana d-dirāsiyya",
+    "en": "the end of the school year"
+   }
+  ]
+ },
+ {
+  "ar": "ترم",
+  "tr": "tirm",
+  "en": "term; semester",
+  "msa": "فصل دراسي",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "الترم هادا صعيب",
+  "ex_tr": "it-tirm hāda Sa3īb",
+  "ex_en": "This term is hard",
+  "note": "English loan; also فصل faSl",
+  "phrases": [
+   {
+    "ar": "امتحانات آخر الترم",
+    "tr": "imti7ānāt ākhir it-tirm",
+    "en": "end-of-term exams"
+   },
+   {
+    "ar": "نزّلت خمس مواد في الترم",
+    "tr": "nazzalt khams mawādd fit-tirm",
+    "en": "I registered five subjects this term"
+   }
+  ]
+ },
+ {
+  "ar": "دروس خصوصية",
+  "tr": "drūs khuSūSiyya",
+  "en": "private tutoring; private lessons",
+  "msa": "دروس خصوصية",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "كل التلاميذ ياخدوا دروس خصوصية",
+  "ex_tr": "kull it-talāmīdh yākhdu drūs khuSūSiyya",
+  "ex_en": "All the pupils take private lessons",
+  "note": "sing. درس خصوصي",
+  "phrases": [
+   {
+    "ar": "الدروس الخصوصية غالية",
+    "tr": "id-drūs il-khuSūSiyya ghālya",
+    "en": "Private lessons are expensive"
+   },
+   {
+    "ar": "نجيبله أستاذ خصوصي",
+    "tr": "njība ustādh khuSūSi",
+    "en": "I'll get him a private tutor"
+   }
+  ]
+ },
+ {
+  "ar": "سكوتش",
+  "tr": "skōtsh",
+  "en": "sticky tape; Sellotape",
+  "msa": "شريط لاصق",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "سكّر الكرطونة بالسكوتش",
+  "ex_tr": "sakkir il-karTōna bis-skōtsh",
+  "ex_en": "Seal the box with tape",
+  "note": "From the brand Scotch",
+  "phrases": [
+   {
+    "ar": "حبة سكوتش",
+    "tr": "7abbat skōtsh",
+    "en": "a roll of tape"
+   },
+   {
+    "ar": "لزّقها بالسكوتش",
+    "tr": "lazzigha bis-skōtsh",
+    "en": "Stick it with tape"
+   }
+  ]
+ },
+ {
+  "ar": "صمغ",
+  "tr": "Samgh",
+  "en": "glue",
+  "msa": "صمغ",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "لزّق الصورة بالصمغ",
+  "ex_tr": "lazzig iS-Sūra biS-Samgh",
+  "ex_en": "Stick the picture with glue",
+  "phrases": [
+   {
+    "ar": "صمغ أبيض",
+    "tr": "Samgh abyaD",
+    "en": "white glue"
+   },
+   {
+    "ar": "الصمغ نشف",
+    "tr": "iS-Samgh nshif",
+    "en": "The glue dried up"
+   }
+  ]
+ },
+ {
+  "ar": "معيد",
+  "tr": "mu3īd",
+  "en": "teaching assistant (university)",
+  "msa": "معيد",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "المعيد يشرحلنا العملي",
+  "ex_tr": "il-mu3īd yishra7lna l-3amali",
+  "ex_en": "The TA explains the practical to us",
+  "note": "f. معيدة mu3īda",
+  "phrases": [
+   {
+    "ar": "تعيّن معيد في الكلية",
+    "tr": "t3ayyan mu3īd fil-kulliyya",
+    "en": "He was appointed TA at the faculty"
+   },
+   {
+    "ar": "اسأل المعيد",
+    "tr": "is'al il-mu3īd",
+    "en": "Ask the teaching assistant"
+   }
+  ]
+ },
+ {
+  "ar": "علامة",
+  "tr": "3alāma",
+  "en": "mark; sign; tick",
+  "msa": "علامة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "حط علامة على الجواب الصح",
+  "ex_tr": "7oTT 3alāma 3al-jawāb iS-Sa7",
+  "ex_en": "Put a tick by the right answer",
+  "note": "pl. علامات 3alāmāt",
+  "phrases": [
+   {
+    "ar": "علامة استفهام",
+    "tr": "3alāmat istifhām",
+    "en": "question mark"
+   },
+   {
+    "ar": "علامة كاملة",
+    "tr": "3alāma kāmla",
+    "en": "full marks"
+   }
+  ]
+ },
+ {
+  "ar": "مدرسة خاصة",
+  "tr": "madrasa khāSSa",
+  "en": "private school",
+  "msa": "مدرسة خاصة",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "حطيته في مدرسة خاصة",
+  "ex_tr": "7aTTētah fi madrasa khāSSa",
+  "ex_en": "I put him in a private school",
+  "note": "pl. مدارس خاصة",
+  "phrases": [
+   {
+    "ar": "المدارس الخاصة كترت",
+    "tr": "il-madāris il-khāSSa kthrat",
+    "en": "Private schools have multiplied"
+   },
+   {
+    "ar": "مدرسة عامة ولا خاصة؟",
+    "tr": "madrasa 3āmma walla khāSSa?",
+    "en": "A public or a private school?"
+   }
+  ]
+ },
+ {
+  "ar": "كشف درجات",
+  "tr": "kashf darajāt",
+  "en": "transcript; grade report",
+  "msa": "كشف درجات",
+  "pos": "noun",
+  "cat": "school",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "نبي كشف درجات من الكلية",
+  "ex_tr": "nibbi kashf darajāt min il-kulliyya",
+  "ex_en": "I need a transcript from the faculty",
+  "phrases": [
+   {
+    "ar": "طلّع كشف الدرجات",
+    "tr": "Talla3 kashf id-darajāt",
+    "en": "Get the transcript issued"
+   },
+   {
+    "ar": "كشف درجات مختوم",
+    "tr": "kashf darajāt makhtūm",
+    "en": "a stamped transcript"
+   }
+  ]
+ }
+]

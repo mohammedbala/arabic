@@ -1,0 +1,1989 @@
+[
+ {
+  "ar": "كراع",
+  "tr": "kurā3",
+  "en": "leg; foot",
+  "msa": "ساق",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 2,
+  "usage": 68,
+  "ex_ar": "كراعي توجع فيا من الصبح.",
+  "ex_tr": "kurā3i twajja3 fiyya min iSSub7.",
+  "ex_en": "My leg has been hurting since the morning.",
+  "note": "Very common Libyan word for leg; pl. كرعين kur3ēn.",
+  "phrases": [
+   {
+    "ar": "كراعه مكسورة",
+    "tr": "kurā3a maksūra",
+    "en": "his leg is broken"
+   },
+   {
+    "ar": "ما نقدرش نوقف على كراعي",
+    "tr": "ma nigdarsh nūgaf 3la kurā3i",
+    "en": "I can't stand on my leg"
+   }
+  ]
+ },
+ {
+  "ar": "إبهام",
+  "tr": "ibhām",
+  "en": "thumb",
+  "msa": "إبهام",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "جرحت الإبهام متاعي بالموس.",
+  "ex_tr": "jara7t il-ibhām mtā3i bil-mūs.",
+  "ex_en": "I cut my thumb with the razor.",
+  "note": "Also commonly just الصبع الكبير.",
+  "phrases": [
+   {
+    "ar": "حط الإبهام هنا",
+    "tr": "7uTT il-ibhām hni",
+    "en": "put your thumb here"
+   },
+   {
+    "ar": "بصمة الإبهام",
+    "tr": "baSmat il-ibhām",
+    "en": "thumbprint"
+   }
+  ]
+ },
+ {
+  "ar": "صبع الرجل",
+  "tr": "Sba3 irrijl",
+  "en": "toe",
+  "msa": "إصبع القدم",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 36,
+  "ex_ar": "ضربت صبع رجلي في الباب.",
+  "ex_tr": "Darabt Sba3 rijli fil-bāb.",
+  "ex_en": "I stubbed my toe on the door.",
+  "note": "pl. صوابع الرجلين Swāba3 irrijlēn.",
+  "phrases": [
+   {
+    "ar": "صبع رجلي الصغير",
+    "tr": "Sba3 rijli iSSghīr",
+    "en": "my little toe"
+   },
+   {
+    "ar": "صوابع رجليه باردين",
+    "tr": "Swāba3 rijlēh bārdīn",
+    "en": "his toes are cold"
+   }
+  ]
+ },
+ {
+  "ar": "معصم",
+  "tr": "ma3Sam",
+  "en": "wrist",
+  "msa": "معصم",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "لوّيت معصمي وأني نلعب.",
+  "ex_tr": "lawwēt ma3Sami w-āni nil3ab.",
+  "ex_en": "I twisted my wrist while playing.",
+  "phrases": [
+   {
+    "ar": "الساعة في معصمه",
+    "tr": "issā3a fi ma3Samah",
+    "en": "the watch is on his wrist"
+   },
+   {
+    "ar": "معصمي منفوخ",
+    "tr": "ma3Sami manfūkh",
+    "en": "my wrist is swollen"
+   }
+  ]
+ },
+ {
+  "ar": "كاحل",
+  "tr": "kā7il",
+  "en": "ankle",
+  "msa": "كاحل",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الكاحل متاعه تلوى في الكورة.",
+  "ex_tr": "il-kā7il mtā3a tlawwa fil-kūra.",
+  "ex_en": "He twisted his ankle in the football game.",
+  "phrases": [
+   {
+    "ar": "كاحلي يوجع فيا",
+    "tr": "kā7li ywajja3 fiyya",
+    "en": "my ankle hurts"
+   },
+   {
+    "ar": "ربطلي الكاحل",
+    "tr": "rbaTli il-kā7il",
+    "en": "bandage my ankle for me"
+   }
+  ]
+ },
+ {
+  "ar": "خصر",
+  "tr": "khaSr",
+  "en": "waist",
+  "msa": "خصر",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "الحزام واسع على خصري.",
+  "ex_tr": "il-7zām wāsi3 3la khaSri.",
+  "ex_en": "The belt is loose on my waist.",
+  "phrases": [
+   {
+    "ar": "خصرها رقيق",
+    "tr": "khaSrha rgīg",
+    "en": "her waist is slim"
+   },
+   {
+    "ar": "قيس خصرك",
+    "tr": "gīs khaSrik",
+    "en": "measure your waist"
+   }
+  ]
+ },
+ {
+  "ar": "ورك",
+  "tr": "wirk",
+  "en": "hip",
+  "msa": "ورك",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "جدتي طاحت وانكسر وركها.",
+  "ex_tr": "jaddti Tā7it w-inkasar wirkha.",
+  "ex_en": "My grandmother fell and broke her hip.",
+  "note": "pl. وراك wrāk.",
+  "phrases": [
+   {
+    "ar": "وركي يوجع فيا",
+    "tr": "wirki ywajja3 fiyya",
+    "en": "my hip hurts"
+   },
+   {
+    "ar": "عملية في الورك",
+    "tr": "3amaliyya fil-wirk",
+    "en": "a hip operation"
+   }
+  ]
+ },
+ {
+  "ar": "جنب",
+  "tr": "jamb",
+  "en": "side (of the body); flank",
+  "msa": "جنب",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 48,
+  "ex_ar": "عندي وجع في جنبي اليمين.",
+  "ex_tr": "3andi wja3 fi jambi il-yimīn.",
+  "ex_en": "I have a pain in my right side.",
+  "note": "Pronounced jamb; also used as 'next to'.",
+  "phrases": [
+   {
+    "ar": "رقد على جنبك",
+    "tr": "rgud 3la jambik",
+    "en": "lie on your side"
+   },
+   {
+    "ar": "جنبي يقرص فيا",
+    "tr": "jambi ygruS fiyya",
+    "en": "I've got a stitch in my side"
+   }
+  ]
+ },
+ {
+  "ar": "ضلع",
+  "tr": "Dil3",
+  "en": "rib",
+  "msa": "ضلع",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "انكسرله ضلع في الحادث.",
+  "ex_tr": "inkasarla Dil3 fil-7ādith.",
+  "ex_en": "He broke a rib in the accident.",
+  "note": "pl. ضلوع Dlū3.",
+  "phrases": [
+   {
+    "ar": "ضلوعي توجع فيا",
+    "tr": "Dlū3i twajja3 fiyya",
+    "en": "my ribs hurt"
+   },
+   {
+    "ar": "ضلع مكسور",
+    "tr": "Dil3 maksūr",
+    "en": "a broken rib"
+   }
+  ]
+ },
+ {
+  "ar": "عمود فقري",
+  "tr": "3amūd fagri",
+  "en": "spine; backbone",
+  "msa": "عمود فقري",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الدكتور قال عنده مشكلة في العمود الفقري.",
+  "ex_tr": "id-doktōr gāl 3andah mushkila fil-3amūd il-fagri.",
+  "ex_en": "The doctor said he has a problem with his spine.",
+  "phrases": [
+   {
+    "ar": "صورة للعمود الفقري",
+    "tr": "Sūra lil-3amūd il-fagri",
+    "en": "an X-ray of the spine"
+   },
+   {
+    "ar": "حافظ على عمودك الفقري",
+    "tr": "7āfiDH 3la 3amūdik il-fagri",
+    "en": "take care of your spine"
+   }
+  ]
+ },
+ {
+  "ar": "عرق",
+  "tr": "3irg",
+  "en": "vein",
+  "msa": "وريد",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "الممرضة ما لقتش العرق باش تحط الإبرة.",
+  "ex_tr": "il-mumarriDa ma lgatsh il-3irg bāsh t7uTT il-ibra.",
+  "ex_en": "The nurse couldn't find the vein to put the needle in.",
+  "note": "pl. عروق 3rūg. Not to be confused with عرق 3arag 'sweat'.",
+  "phrases": [
+   {
+    "ar": "عروق يدي باينين",
+    "tr": "3rūg yiddi bāyinīn",
+    "en": "the veins in my hand show"
+   },
+   {
+    "ar": "خذوا الدم من العرق",
+    "tr": "khdhu iddamm min il-3irg",
+    "en": "they took blood from the vein"
+   }
+  ]
+ },
+ {
+  "ar": "شريان",
+  "tr": "shiryān",
+  "en": "artery",
+  "msa": "شريان",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "عنده انسداد في الشريان.",
+  "ex_tr": "3andah insidād fish-shiryān.",
+  "ex_en": "He has a blocked artery.",
+  "note": "pl. شرايين sharāyīn.",
+  "phrases": [
+   {
+    "ar": "شرايين القلب",
+    "tr": "sharāyīn il-galb",
+    "en": "the heart's arteries"
+   },
+   {
+    "ar": "شريان مسكّر",
+    "tr": "shiryān msakkar",
+    "en": "a blocked artery"
+   }
+  ]
+ },
+ {
+  "ar": "عضلة",
+  "tr": "3aDla",
+  "en": "muscle",
+  "msa": "عضلة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 45,
+  "ex_ar": "عندي شد في عضلة الكراع.",
+  "ex_tr": "3andi shadd fi 3aDlat il-kurā3.",
+  "ex_en": "I've got a cramp in my leg muscle.",
+  "note": "pl. عضلات 3aDalāt.",
+  "phrases": [
+   {
+    "ar": "عضلاته كبار",
+    "tr": "3aDalātah kbār",
+    "en": "he has big muscles"
+   },
+   {
+    "ar": "العضلات توجع بعد الجيم",
+    "tr": "il-3aDalāt twajja3 ba3d ij-jīm",
+    "en": "muscles ache after the gym"
+   }
+  ]
+ },
+ {
+  "ar": "مفصل",
+  "tr": "mafSal",
+  "en": "joint",
+  "msa": "مفصل",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "جدي يشكي من المفاصل في الشتا.",
+  "ex_tr": "jiddi yishki min il-mfāSil fish-shta.",
+  "ex_en": "My grandfather complains of his joints in winter.",
+  "note": "pl. مفاصل mfāSil.",
+  "phrases": [
+   {
+    "ar": "وجع المفاصل",
+    "tr": "wja3 il-mfāSil",
+    "en": "joint pain"
+   },
+   {
+    "ar": "مفاصلي يابسين",
+    "tr": "mfāSli yābsīn",
+    "en": "my joints are stiff"
+   }
+  ]
+ },
+ {
+  "ar": "غضروف",
+  "tr": "ghuDrūf",
+  "en": "cartilage; slipped disc",
+  "msa": "غضروف",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "عنده غضروف في ظهره وما يقدرش يشيل.",
+  "ex_tr": "3andah ghuDrūf fi DHahrah w-ma yigdarsh yshīl.",
+  "ex_en": "He has a slipped disc in his back and can't lift things.",
+  "note": "In Libya عنده غضروف usually means a herniated disc.",
+  "phrases": [
+   {
+    "ar": "عملية غضروف",
+    "tr": "3amaliyyat ghuDrūf",
+    "en": "disc surgery"
+   },
+   {
+    "ar": "الغضروف ضاغط على العصب",
+    "tr": "il-ghuDrūf DāghiT 3al-3aSab",
+    "en": "the disc is pressing on the nerve"
+   }
+  ]
+ },
+ {
+  "ar": "جمجمة",
+  "tr": "jumjma",
+  "en": "skull",
+  "msa": "جمجمة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "الخوذة تحمي الجمجمة.",
+  "ex_tr": "il-khūdha t7mi ij-jumjma.",
+  "ex_en": "The helmet protects the skull.",
+  "phrases": [
+   {
+    "ar": "كسر في الجمجمة",
+    "tr": "kasr fij-jumjma",
+    "en": "a skull fracture"
+   },
+   {
+    "ar": "صورة للجمجمة",
+    "tr": "Sūra lij-jumjma",
+    "en": "an X-ray of the skull"
+   }
+  ]
+ },
+ {
+  "ar": "حنك",
+  "tr": "7nak",
+  "en": "jaw; mouth (colloquial)",
+  "msa": "فك",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "ضربه بونية في حنكه.",
+  "ex_tr": "Darbah būnya fi 7nakah.",
+  "ex_en": "He punched him in the jaw.",
+  "note": "Also rudely: سكّر حنكك 'shut your mouth'.",
+  "phrases": [
+   {
+    "ar": "سكّر حنكك",
+    "tr": "sakkir 7nakik",
+    "en": "shut your mouth (rude)"
+   },
+   {
+    "ar": "حنكي يوجع فيا من الضرس",
+    "tr": "7naki ywajja3 fiyya min iD-Dirs",
+    "en": "my jaw hurts from the molar"
+   }
+  ]
+ },
+ {
+  "ar": "فك",
+  "tr": "fakk",
+  "en": "jaw (bone)",
+  "msa": "فك",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "الفك الفوقاني والفك اللوطاني.",
+  "ex_tr": "il-fakk il-fōgāni wil-fakk il-lōTāni.",
+  "ex_en": "The upper jaw and the lower jaw.",
+  "phrases": [
+   {
+    "ar": "كسر في الفك",
+    "tr": "kasr fil-fakk",
+    "en": "a broken jaw"
+   },
+   {
+    "ar": "الفك يطقطق",
+    "tr": "il-fakk yTagTig",
+    "en": "the jaw clicks"
+   }
+  ]
+ },
+ {
+  "ar": "ذقن",
+  "tr": "dhgin",
+  "en": "chin",
+  "msa": "ذقن",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "عنده جرح صغير في ذقنه.",
+  "ex_tr": "3andah jur7 Sghīr fi dhginah.",
+  "ex_en": "He has a small cut on his chin.",
+  "phrases": [
+   {
+    "ar": "ذقنه طويل",
+    "tr": "dhginah Twīl",
+    "en": "he has a long chin"
+   },
+   {
+    "ar": "حط يدك تحت ذقنك",
+    "tr": "7uTT yiddik ta7t dhginik",
+    "en": "put your hand under your chin"
+   }
+  ]
+ },
+ {
+  "ar": "صدغ",
+  "tr": "Sudgh",
+  "en": "temple (side of head)",
+  "msa": "صدغ",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "الوجع في صدغي اليسار.",
+  "ex_tr": "il-wja3 fi Sudghi il-yisār.",
+  "ex_en": "The pain is in my left temple.",
+  "phrases": [
+   {
+    "ar": "دلّك صداغك",
+    "tr": "dallik Sdāghik",
+    "en": "massage your temples"
+   },
+   {
+    "ar": "شعر أبيض في الصدغ",
+    "tr": "sha3r abyaD fiS-Sudgh",
+    "en": "grey hair at the temples"
+   }
+  ]
+ },
+ {
+  "ar": "جفن",
+  "tr": "jifn",
+  "en": "eyelid",
+  "msa": "جفن",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "جفن عيني منفوخ من الصبح.",
+  "ex_tr": "jifn 3ēni manfūkh min iSSub7.",
+  "ex_en": "My eyelid has been swollen since the morning.",
+  "note": "pl. جفون jfūn.",
+  "phrases": [
+   {
+    "ar": "جفوني ثقال",
+    "tr": "jfūni thgāl",
+    "en": "my eyelids are heavy"
+   },
+   {
+    "ar": "جفنه يرف",
+    "tr": "jifnah yriff",
+    "en": "his eyelid is twitching"
+   }
+  ]
+ },
+ {
+  "ar": "شحمة الوذن",
+  "tr": "sha7mat il-widhn",
+  "en": "earlobe",
+  "msa": "شحمة الأذن",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "ثقبوا شحمة وذنها للحلق.",
+  "ex_tr": "thagbu sha7mat widhinha lil-7lag.",
+  "ex_en": "They pierced her earlobe for earrings.",
+  "phrases": [
+   {
+    "ar": "شحمة وذني حمرا",
+    "tr": "sha7mat widhni 7amra",
+    "en": "my earlobe is red"
+   },
+   {
+    "ar": "مسكه من شحمة وذنه",
+    "tr": "maskah min sha7mat widhnah",
+    "en": "he grabbed him by the earlobe"
+   }
+  ]
+ },
+ {
+  "ar": "لثة",
+  "tr": "litha",
+  "en": "gums",
+  "msa": "لثة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "لثتي تنزل دم كي نغسل سنوني.",
+  "ex_tr": "lithti tnazzil damm kī nghassil snūni.",
+  "ex_en": "My gums bleed when I brush my teeth.",
+  "phrases": [
+   {
+    "ar": "التهاب في اللثة",
+    "tr": "iltihāb fil-litha",
+    "en": "gum inflammation"
+   },
+   {
+    "ar": "اللثة منفوخة",
+    "tr": "il-litha manfūkha",
+    "en": "the gums are swollen"
+   }
+  ]
+ },
+ {
+  "ar": "ناب",
+  "tr": "nāb",
+  "en": "canine tooth; fang",
+  "msa": "ناب",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 25,
+  "ex_ar": "طاحله الناب متاع الحليب.",
+  "ex_tr": "Tā7la in-nāb mtā3 il-7līb.",
+  "ex_en": "His baby canine tooth fell out.",
+  "note": "pl. نياب nyāb.",
+  "phrases": [
+   {
+    "ar": "ناب الكلب",
+    "tr": "nāb il-kalb",
+    "en": "the dog's fang"
+   },
+   {
+    "ar": "نابه طالع لقدام",
+    "tr": "nābah Tāli3 lgiddām",
+    "en": "his canine sticks out"
+   }
+  ]
+ },
+ {
+  "ar": "ضرس العقل",
+  "tr": "Dirs il-3agl",
+  "en": "wisdom tooth",
+  "msa": "ضرس العقل",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "لازم نقلع ضرس العقل.",
+  "ex_tr": "lāzim nigla3 Dirs il-3agl.",
+  "ex_en": "I have to get my wisdom tooth pulled.",
+  "phrases": [
+   {
+    "ar": "ضرس العقل طالع",
+    "tr": "Dirs il-3agl Tāli3",
+    "en": "the wisdom tooth is coming in"
+   },
+   {
+    "ar": "وجع ضرس العقل",
+    "tr": "wja3 Dirs il-3agl",
+    "en": "wisdom tooth pain"
+   }
+  ]
+ },
+ {
+  "ar": "ريق",
+  "tr": "rīg",
+  "en": "saliva; spit",
+  "msa": "ريق",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "ما كليتش شي، أني على الريق.",
+  "ex_tr": "ma kalītsh shay, āni 3ar-rīg.",
+  "ex_en": "I haven't eaten anything, I'm on an empty stomach.",
+  "note": "على الريق = on an empty stomach (before breakfast).",
+  "phrases": [
+   {
+    "ar": "خوذ الحبة على الريق",
+    "tr": "khūdh il-7abba 3ar-rīg",
+    "en": "take the pill on an empty stomach"
+   },
+   {
+    "ar": "ريقي ناشف",
+    "tr": "rīgi nāshif",
+    "en": "my mouth is dry"
+   }
+  ]
+ },
+ {
+  "ar": "خنونة",
+  "tr": "khnūna",
+  "en": "snot; nasal mucus",
+  "msa": "مخاط",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "امسح خنونتك يا وليدي.",
+  "ex_tr": "imsa7 khnūntik ya wlīdi.",
+  "ex_en": "Wipe your nose, my boy.",
+  "note": "Libyan/Tunisian colloquial.",
+  "phrases": [
+   {
+    "ar": "خنونته سايلة",
+    "tr": "khnūntah sāyla",
+    "en": "his nose is running"
+   },
+   {
+    "ar": "عطيه كلينكس للخنونة",
+    "tr": "3Tīh klīneks lil-khnūna",
+    "en": "give him a tissue for his nose"
+   }
+  ]
+ },
+ {
+  "ar": "صلعة",
+  "tr": "Sal3a",
+  "en": "bald patch; baldness",
+  "msa": "صلع",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 36,
+  "ex_ar": "بدت تبان عنده صلعة.",
+  "ex_tr": "bdat tbān 3andah Sal3a.",
+  "ex_en": "A bald patch is starting to show on him.",
+  "phrases": [
+   {
+    "ar": "غطّى صلعته بالطاقية",
+    "tr": "ghaTTa Sal3tah biT-Tāgiyya",
+    "en": "he covered his bald head with a cap"
+   },
+   {
+    "ar": "صلعة وراثية",
+    "tr": "Sal3a wirāthiyya",
+    "en": "hereditary baldness"
+   }
+  ]
+ },
+ {
+  "ar": "باط",
+  "tr": "bāT",
+  "en": "armpit",
+  "msa": "إبط",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الحرارة نقيسوها تحت الباط.",
+  "ex_tr": "il-7arāra ngīsūha ta7t il-bāT.",
+  "ex_en": "We take the temperature under the armpit.",
+  "phrases": [
+   {
+    "ar": "عرق في الباط",
+    "tr": "3arag fil-bāT",
+    "en": "armpit sweat"
+   },
+   {
+    "ar": "شيله تحت باطه",
+    "tr": "shīlah ta7t bāTah",
+    "en": "carry it under your arm"
+   }
+  ]
+ },
+ {
+  "ar": "قفا",
+  "tr": "gfa",
+  "en": "nape; back of the neck",
+  "msa": "قفا",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "ضربه على قفاه.",
+  "ex_tr": "Darbah 3la gfāh.",
+  "ex_en": "He slapped him on the back of the neck.",
+  "phrases": [
+   {
+    "ar": "حلّق القفا",
+    "tr": "7allig il-gfa",
+    "en": "shave the back of the neck"
+   },
+   {
+    "ar": "الشمس حرقتلي قفاي",
+    "tr": "ish-shams 7argatli gfāy",
+    "en": "the sun burned the back of my neck"
+   }
+  ]
+ },
+ {
+  "ar": "لوزتين",
+  "tr": "lōztēn",
+  "en": "tonsils",
+  "msa": "اللوزتان",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 36,
+  "ex_ar": "عنده التهاب في اللوزتين.",
+  "ex_tr": "3andah iltihāb fil-lōztēn.",
+  "ex_en": "He has tonsillitis.",
+  "note": "Often just اللوز il-lōz.",
+  "phrases": [
+   {
+    "ar": "نحّوله اللوزتين",
+    "tr": "na77ūla il-lōztēn",
+    "en": "they removed his tonsils"
+   },
+   {
+    "ar": "اللوز منفوخ",
+    "tr": "il-lōz manfūkh",
+    "en": "the tonsils are swollen"
+   }
+  ]
+ },
+ {
+  "ar": "حنجرة",
+  "tr": "7anjra",
+  "en": "larynx; voice box",
+  "msa": "حنجرة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "غنّى لين وجعته الحنجرة.",
+  "ex_tr": "ghanna lēn wja3atah il-7anjra.",
+  "ex_en": "He sang until his voice box hurt.",
+  "phrases": [
+   {
+    "ar": "التهاب الحنجرة",
+    "tr": "iltihāb il-7anjra",
+    "en": "laryngitis"
+   },
+   {
+    "ar": "حنجرته قوية",
+    "tr": "7anjirtah gwiyya",
+    "en": "he has a strong voice"
+   }
+  ]
+ },
+ {
+  "ar": "مرارة",
+  "tr": "marāra",
+  "en": "gallbladder",
+  "msa": "مرارة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "عمل عملية ونحّاله المرارة.",
+  "ex_tr": "3mal 3amaliyya w-na77āla il-marāra.",
+  "ex_en": "He had an operation and they removed his gallbladder.",
+  "note": "Same word also means bitterness.",
+  "phrases": [
+   {
+    "ar": "حصوة في المرارة",
+    "tr": "7aSwa fil-marāra",
+    "en": "a gallstone"
+   },
+   {
+    "ar": "عملية مرارة",
+    "tr": "3amaliyyat marāra",
+    "en": "gallbladder surgery"
+   }
+  ]
+ },
+ {
+  "ar": "زايدة",
+  "tr": "zāyda",
+  "en": "appendix",
+  "msa": "الزائدة الدودية",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 36,
+  "ex_ar": "دخلوه طوارئ بسبب الزايدة.",
+  "ex_tr": "dakhkhlūh Tawāri' bsabab iz-zāyda.",
+  "ex_en": "They took him to the ER because of his appendix.",
+  "phrases": [
+   {
+    "ar": "عملية زايدة",
+    "tr": "3amaliyyat zāyda",
+    "en": "an appendix operation"
+   },
+   {
+    "ar": "الزايدة انفجرت",
+    "tr": "iz-zāyda infajrat",
+    "en": "the appendix burst"
+   }
+  ]
+ },
+ {
+  "ar": "مثانة",
+  "tr": "mathāna",
+  "en": "bladder",
+  "msa": "مثانة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "عنده التهاب في المثانة.",
+  "ex_tr": "3andah iltihāb fil-mathāna.",
+  "ex_en": "He has a bladder infection.",
+  "phrases": [
+   {
+    "ar": "المثانة مليانة",
+    "tr": "il-mathāna malyāna",
+    "en": "the bladder is full"
+   },
+   {
+    "ar": "صورة للمثانة",
+    "tr": "Sūra lil-mathāna",
+    "en": "a scan of the bladder"
+   }
+  ]
+ },
+ {
+  "ar": "طحال",
+  "tr": "Ti7āl",
+  "en": "spleen",
+  "msa": "طحال",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 18,
+  "ex_ar": "الطحال جاي على اليسار تحت الضلوع.",
+  "ex_tr": "iT-Ti7āl jāy 3al-yisār ta7t iD-Dlū3.",
+  "ex_en": "The spleen is on the left under the ribs.",
+  "phrases": [
+   {
+    "ar": "تضخم في الطحال",
+    "tr": "taDakhkhum fiT-Ti7āl",
+    "en": "an enlarged spleen"
+   },
+   {
+    "ar": "الطحال والكبدة",
+    "tr": "iT-Ti7āl wil-kibda",
+    "en": "the spleen and the liver"
+   }
+  ]
+ },
+ {
+  "ar": "بنكرياس",
+  "tr": "bankiryās",
+  "en": "pancreas",
+  "msa": "بنكرياس",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 20,
+  "ex_ar": "السكر عنده علاقة بالبنكرياس.",
+  "ex_tr": "is-sukkar 3andah 3alāga bil-bankiryās.",
+  "ex_en": "Diabetes is related to the pancreas.",
+  "phrases": [
+   {
+    "ar": "التهاب البنكرياس",
+    "tr": "iltihāb il-bankiryās",
+    "en": "pancreatitis"
+   },
+   {
+    "ar": "البنكرياس ما يخدمش باهي",
+    "tr": "il-bankiryās ma yikhdimsh bāhi",
+    "en": "the pancreas isn't working well"
+   }
+  ]
+ },
+ {
+  "ar": "قولون",
+  "tr": "kōlōn",
+  "en": "colon; irritable bowel",
+  "msa": "قولون",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "عنده القولون من الأعصاب.",
+  "ex_tr": "3andah il-kōlōn min il-a3Sāb.",
+  "ex_en": "He has irritable bowel from stress.",
+  "note": "In Libya عنده القولون = he suffers from IBS.",
+  "phrases": [
+   {
+    "ar": "القولون العصبي",
+    "tr": "il-kōlōn il-3aSabi",
+    "en": "irritable bowel syndrome"
+   },
+   {
+    "ar": "القولون تاعبني",
+    "tr": "il-kōlōn tā3bni",
+    "en": "my colon is bothering me"
+   }
+  ]
+ },
+ {
+  "ar": "رحم",
+  "tr": "ra7im",
+  "en": "womb; uterus",
+  "msa": "رحم",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "الدكتورة شافت الرحم بالإيكو.",
+  "ex_tr": "id-doktōra shāfat ir-ra7im bil-ēkō.",
+  "ex_en": "The doctor checked the womb with an ultrasound.",
+  "phrases": [
+   {
+    "ar": "في رحم أمه",
+    "tr": "fi ra7im ummah",
+    "en": "in his mother's womb"
+   },
+   {
+    "ar": "عملية في الرحم",
+    "tr": "3amaliyya fir-ra7im",
+    "en": "a uterine operation"
+   }
+  ]
+ },
+ {
+  "ar": "غدة",
+  "tr": "ghudda",
+  "en": "gland; thyroid",
+  "msa": "غدة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "عندها الغدة وتاخذ في دوا كل يوم.",
+  "ex_tr": "3andha il-ghudda w-tākhidh fi dwa kull yōm.",
+  "ex_en": "She has thyroid trouble and takes medicine every day.",
+  "note": "عندها الغدة = she has a thyroid problem.",
+  "phrases": [
+   {
+    "ar": "الغدة الدرقية",
+    "tr": "il-ghudda id-daragiyya",
+    "en": "the thyroid gland"
+   },
+   {
+    "ar": "تحليل الغدة",
+    "tr": "ta7līl il-ghudda",
+    "en": "a thyroid test"
+   }
+  ]
+ },
+ {
+  "ar": "عضو",
+  "tr": "3uDw",
+  "en": "organ; limb",
+  "msa": "عضو",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "تبرع بعضو من أعضاءه.",
+  "ex_tr": "tbarra3 b-3uDw min a3Dā'ah.",
+  "ex_en": "He donated one of his organs.",
+  "note": "pl. أعضاء a3Dā'. Also 'member'.",
+  "phrases": [
+   {
+    "ar": "زراعة أعضاء",
+    "tr": "zirā3at a3Dā'",
+    "en": "organ transplant"
+   },
+   {
+    "ar": "كل أعضاءه سليمة",
+    "tr": "kull a3Dā'ah salīma",
+    "en": "all his organs are healthy"
+   }
+  ]
+ },
+ {
+  "ar": "شحم",
+  "tr": "sha7m",
+  "en": "body fat; fat",
+  "msa": "شحم",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "عنده شحم على كرشه.",
+  "ex_tr": "3andah sha7m 3la karshah.",
+  "ex_en": "He has fat on his belly.",
+  "phrases": [
+   {
+    "ar": "نسبة الشحم",
+    "tr": "nisbat ish-sha7m",
+    "en": "body fat percentage"
+   },
+   {
+    "ar": "حرق الشحم",
+    "tr": "7arg ish-sha7m",
+    "en": "fat burning"
+   }
+  ]
+ },
+ {
+  "ar": "بشرة",
+  "tr": "bashra",
+  "en": "skin; complexion",
+  "msa": "بشرة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "بشرتها ناعمة.",
+  "ex_tr": "bashritha nā3ma.",
+  "ex_en": "Her skin is soft.",
+  "phrases": [
+   {
+    "ar": "بشرة جافة",
+    "tr": "bashra jāffa",
+    "en": "dry skin"
+   },
+   {
+    "ar": "كريم للبشرة",
+    "tr": "krēm lil-bashra",
+    "en": "a skin cream"
+   }
+  ]
+ },
+ {
+  "ar": "شامة",
+  "tr": "shāma",
+  "en": "mole; beauty mark",
+  "msa": "شامة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "عندها شامة على خدها.",
+  "ex_tr": "3andha shāma 3la khaddha.",
+  "ex_en": "She has a beauty mark on her cheek.",
+  "phrases": [
+   {
+    "ar": "شامة سودا",
+    "tr": "shāma sūda",
+    "en": "a dark mole"
+   },
+   {
+    "ar": "نحّى الشامة",
+    "tr": "na77a ish-shāma",
+    "en": "he had the mole removed"
+   }
+  ]
+ },
+ {
+  "ar": "تجاعيد",
+  "tr": "tajā3īd",
+  "en": "wrinkles",
+  "msa": "تجاعيد",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "بدت تبان التجاعيد في وجهها.",
+  "ex_tr": "bdat tbān it-tajā3īd fi wijhha.",
+  "ex_en": "Wrinkles started to show on her face.",
+  "phrases": [
+   {
+    "ar": "كريم ضد التجاعيد",
+    "tr": "krēm Didd it-tajā3īd",
+    "en": "anti-wrinkle cream"
+   },
+   {
+    "ar": "تجاعيد حول العين",
+    "tr": "tajā3īd 7ōl il-3ēn",
+    "en": "wrinkles around the eyes"
+   }
+  ]
+ },
+ {
+  "ar": "ملامح",
+  "tr": "malāmi7",
+  "en": "facial features",
+  "msa": "ملامح",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "ملامحه تشبه لبوه.",
+  "ex_tr": "malāmi7ah tishbah l-būh.",
+  "ex_en": "His features look like his father's.",
+  "phrases": [
+   {
+    "ar": "ملامح وجهه",
+    "tr": "malāmi7 wijhah",
+    "en": "his facial features"
+   },
+   {
+    "ar": "ملامحها حلوة",
+    "tr": "malāmi7ha 7ilwa",
+    "en": "she has nice features"
+   }
+  ]
+ },
+ {
+  "ar": "شيب",
+  "tr": "shēb",
+  "en": "grey hair",
+  "msa": "شيب",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 36,
+  "ex_ar": "بدا يطلع فيه الشيب.",
+  "ex_tr": "bda yiTla3 fīh ish-shēb.",
+  "ex_en": "He's starting to go grey.",
+  "phrases": [
+   {
+    "ar": "شيب بدري",
+    "tr": "shēb badri",
+    "en": "premature grey hair"
+   },
+   {
+    "ar": "صبغ الشيب",
+    "tr": "Sbagh ish-shēb",
+    "en": "he dyed his grey hair"
+   }
+  ]
+ },
+ {
+  "ar": "وزن",
+  "tr": "wazn",
+  "en": "weight (body)",
+  "msa": "وزن",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 2,
+  "usage": 58,
+  "ex_ar": "وزني زاد في رمضان.",
+  "ex_tr": "wazni zād fi rumDān.",
+  "ex_en": "My weight went up in Ramadan.",
+  "phrases": [
+   {
+    "ar": "قداش وزنك؟",
+    "tr": "gaddāsh waznik?",
+    "en": "how much do you weigh?"
+   },
+   {
+    "ar": "نقص في الوزن",
+    "tr": "nagS fil-wazn",
+    "en": "weight loss"
+   }
+  ]
+ },
+ {
+  "ar": "نفس",
+  "tr": "nafas",
+  "en": "breath",
+  "msa": "نفس",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 2,
+  "usage": 52,
+  "ex_ar": "خوذ نفس طويل.",
+  "ex_tr": "khūdh nafas Twīl.",
+  "ex_en": "Take a deep breath.",
+  "phrases": [
+   {
+    "ar": "نفسي مقطوع",
+    "tr": "nafasi magTū3",
+    "en": "I'm out of breath"
+   },
+   {
+    "ar": "ريحة النفس",
+    "tr": "rī7at in-nafas",
+    "en": "bad breath"
+   }
+  ]
+ },
+ {
+  "ar": "نبض",
+  "tr": "nabD",
+  "en": "pulse",
+  "msa": "نبض",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "الممرضة قاست النبض والضغط.",
+  "ex_tr": "il-mumarriDa gāsit in-nabD wiD-DaghT.",
+  "ex_en": "The nurse took the pulse and the blood pressure.",
+  "phrases": [
+   {
+    "ar": "النبض سريع",
+    "tr": "in-nabD sarī3",
+    "en": "the pulse is fast"
+   },
+   {
+    "ar": "ما فيهش نبض",
+    "tr": "ma fīhsh nabD",
+    "en": "there's no pulse"
+   }
+  ]
+ },
+ {
+  "ar": "حاسة",
+  "tr": "7āssa",
+  "en": "sense (sight, hearing...)",
+  "msa": "حاسة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "عنده حاسة شم قوية.",
+  "ex_tr": "3andah 7āssat shamm gwiyya.",
+  "ex_en": "He has a strong sense of smell.",
+  "note": "pl. حواس 7awāss.",
+  "phrases": [
+   {
+    "ar": "الحواس الخمسة",
+    "tr": "il-7awāss il-khamsa",
+    "en": "the five senses"
+   },
+   {
+    "ar": "حاسة الذوق",
+    "tr": "7āssat idh-dhōg",
+    "en": "the sense of taste"
+   }
+  ]
+ },
+ {
+  "ar": "سمع",
+  "tr": "sam3",
+  "en": "hearing (sense)",
+  "msa": "سمع",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 38,
+  "ex_ar": "سمعه ضعيف شوية.",
+  "ex_tr": "sam3ah Da3īf shwayya.",
+  "ex_en": "His hearing is a bit weak.",
+  "phrases": [
+   {
+    "ar": "فحص السمع",
+    "tr": "fa7S is-sam3",
+    "en": "hearing test"
+   },
+   {
+    "ar": "فقد السمع",
+    "tr": "fagad is-sam3",
+    "en": "he lost his hearing"
+   }
+  ]
+ },
+ {
+  "ar": "شم",
+  "tr": "shamm",
+  "en": "sense of smell",
+  "msa": "شم",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "بعد الكورونا راح منه الشم.",
+  "ex_tr": "ba3d il-kōrōna rā7 minnah ish-shamm.",
+  "ex_en": "After Covid he lost his sense of smell.",
+  "phrases": [
+   {
+    "ar": "ما عنديش شم",
+    "tr": "ma 3andīsh shamm",
+    "en": "I can't smell anything"
+   },
+   {
+    "ar": "رجعلي الشم",
+    "tr": "rja3li ish-shamm",
+    "en": "my sense of smell came back"
+   }
+  ]
+ },
+ {
+  "ar": "ذوق",
+  "tr": "dhōg",
+  "en": "taste (sense); good taste",
+  "msa": "ذوق",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "الزكام خلاني بلا ذوق.",
+  "ex_tr": "iz-zukām khallāni bla dhōg.",
+  "ex_en": "The cold left me with no sense of taste.",
+  "note": "Also 'good taste/manners': عنده ذوق.",
+  "phrases": [
+   {
+    "ar": "عنده ذوق في اللبس",
+    "tr": "3andah dhōg fil-libs",
+    "en": "he dresses with taste"
+   },
+   {
+    "ar": "راح الذوق والشم",
+    "tr": "rā7 idh-dhōg wish-shamm",
+    "en": "taste and smell are gone"
+   }
+  ]
+ },
+ {
+  "ar": "لمس",
+  "tr": "lams",
+  "en": "touch (sense)",
+  "msa": "لمس",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "الشاشة تخدم باللمس.",
+  "ex_tr": "ish-shāsha tikhdim bil-lams.",
+  "ex_en": "The screen works by touch.",
+  "phrases": [
+   {
+    "ar": "حاسة اللمس",
+    "tr": "7āssat il-lams",
+    "en": "the sense of touch"
+   },
+   {
+    "ar": "يوجعه مع اللمس",
+    "tr": "ywajj3ah ma3 il-lams",
+    "en": "it hurts when touched"
+   }
+  ]
+ },
+ {
+  "ar": "ريحة",
+  "tr": "rī7a",
+  "en": "smell; odour",
+  "msa": "رائحة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 2,
+  "usage": 64,
+  "ex_ar": "شن هالريحة؟",
+  "ex_tr": "shin ha-rrī7a?",
+  "ex_en": "What's that smell?",
+  "note": "Also used for perfume.",
+  "phrases": [
+   {
+    "ar": "ريحة خايبة",
+    "tr": "rī7a khāyba",
+    "en": "a bad smell"
+   },
+   {
+    "ar": "ريحة الخبزة طيبة",
+    "tr": "rī7at il-khubza Tayba",
+    "en": "the bread smells good"
+   }
+  ]
+ },
+ {
+  "ar": "صوت",
+  "tr": "Sōt",
+  "en": "voice",
+  "msa": "صوت",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 2,
+  "usage": 60,
+  "ex_ar": "صوتي راح من الكحة.",
+  "ex_tr": "Sōti rā7 min il-ku77a.",
+  "ex_en": "I lost my voice from the cough.",
+  "note": "pl. أصوات aSwāt.",
+  "phrases": [
+   {
+    "ar": "وطّي صوتك",
+    "tr": "waTTi Sōtik",
+    "en": "lower your voice"
+   },
+   {
+    "ar": "صوته حلو",
+    "tr": "Sōtah 7ilu",
+    "en": "he has a nice voice"
+   }
+  ]
+ },
+ {
+  "ar": "طول",
+  "tr": "Tūl",
+  "en": "height (of a person)",
+  "msa": "طول",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 45,
+  "ex_ar": "قداش طولك؟",
+  "ex_tr": "gaddāsh Tūlik?",
+  "ex_en": "How tall are you?",
+  "phrases": [
+   {
+    "ar": "في طول بوه",
+    "tr": "fi Tūl būh",
+    "en": "as tall as his father"
+   },
+   {
+    "ar": "طوله متر وتمانين",
+    "tr": "Tūlah mitr w-tmānīn",
+    "en": "he's one metre eighty"
+   }
+  ]
+ },
+ {
+  "ar": "عرق",
+  "tr": "3arag",
+  "en": "sweat",
+  "msa": "عرق",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "كنت نصب عرق من السخانة.",
+  "ex_tr": "kunt nSubb 3arag min is-skhāna.",
+  "ex_en": "I was pouring with sweat from the heat.",
+  "note": "Not to be confused with عرق 3irg 'vein'.",
+  "phrases": [
+   {
+    "ar": "غرقان في العرق",
+    "tr": "gharqān fil-3arag",
+    "en": "drenched in sweat"
+   },
+   {
+    "ar": "ريحة العرق",
+    "tr": "rī7at il-3arag",
+    "en": "the smell of sweat"
+   }
+  ]
+ },
+ {
+  "ar": "عطسة",
+  "tr": "3aTsa",
+  "en": "sneeze",
+  "msa": "عطسة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "عطسة قوية خلعتني.",
+  "ex_tr": "3aTsa gwiyya khal3atni.",
+  "ex_en": "A loud sneeze startled me.",
+  "note": "After a sneeze people say يرحمك الله.",
+  "phrases": [
+   {
+    "ar": "عطسة ورا عطسة",
+    "tr": "3aTsa wara 3aTsa",
+    "en": "one sneeze after another"
+   },
+   {
+    "ar": "غطّي فمك في العطسة",
+    "tr": "ghaTTi fummik fil-3aTsa",
+    "en": "cover your mouth when you sneeze"
+   }
+  ]
+ },
+ {
+  "ar": "عطش",
+  "tr": "3aTash",
+  "en": "thirst",
+  "msa": "عطش",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "مت بالعطش في القايلة.",
+  "ex_tr": "mitt bil-3aTash fil-gāyla.",
+  "ex_en": "I was dying of thirst in the afternoon heat.",
+  "phrases": [
+   {
+    "ar": "العطش في رمضان",
+    "tr": "il-3aTash fi rumDān",
+    "en": "thirst in Ramadan"
+   },
+   {
+    "ar": "ماء يقطع العطش",
+    "tr": "mā yigTa3 il-3aTash",
+    "en": "water that quenches thirst"
+   }
+  ]
+ },
+ {
+  "ar": "جوع",
+  "tr": "jū3",
+  "en": "hunger",
+  "msa": "جوع",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "كرشي تزغرط من الجوع.",
+  "ex_tr": "karshi tzaghraT min ij-jū3.",
+  "ex_en": "My stomach is rumbling from hunger.",
+  "phrases": [
+   {
+    "ar": "مت بالجوع",
+    "tr": "mitt bij-jū3",
+    "en": "I'm starving"
+   },
+   {
+    "ar": "الجوع كافر",
+    "tr": "ij-jū3 kāfir",
+    "en": "hunger is cruel (saying)"
+   }
+  ]
+ },
+ {
+  "ar": "عطشان",
+  "tr": "3aTshān",
+  "en": "thirsty",
+  "msa": "عطشان",
+  "pos": "adj",
+  "cat": "body",
+  "freq": 2,
+  "usage": 66,
+  "ex_ar": "أني عطشان، عطيني شوية ماء.",
+  "ex_tr": "āni 3aTshān, 3Tīni shwayya mā.",
+  "ex_en": "I'm thirsty, give me some water.",
+  "note": "fem. عطشانة 3aTshāna.",
+  "phrases": [
+   {
+    "ar": "عطشان بالحيل",
+    "tr": "3aTshān bil-7ēl",
+    "en": "very thirsty"
+   },
+   {
+    "ar": "الصغار عطشانين",
+    "tr": "iS-Sghār 3aTshānīn",
+    "en": "the kids are thirsty"
+   }
+  ]
+ },
+ {
+  "ar": "جيعان",
+  "tr": "ji3ān",
+  "en": "hungry",
+  "msa": "جائع",
+  "pos": "adj",
+  "cat": "body",
+  "freq": 2,
+  "usage": 68,
+  "ex_ar": "أني جيعان، شن فيه للغدا؟",
+  "ex_tr": "āni ji3ān, shin fīh lil-ghda?",
+  "ex_en": "I'm hungry, what's for lunch?",
+  "note": "fem. جيعانة ji3āna.",
+  "phrases": [
+   {
+    "ar": "جيعان هلبة",
+    "tr": "ji3ān halba",
+    "en": "really hungry"
+   },
+   {
+    "ar": "كان جيعان كول",
+    "tr": "kān ji3ān kūl",
+    "en": "if you're hungry, eat"
+   }
+  ]
+ },
+ {
+  "ar": "شبعان",
+  "tr": "shab3ān",
+  "en": "full (after eating)",
+  "msa": "شبعان",
+  "pos": "adj",
+  "cat": "body",
+  "freq": 2,
+  "usage": 60,
+  "ex_ar": "لا شكرا، أني شبعان.",
+  "ex_tr": "la shukran, āni shab3ān.",
+  "ex_en": "No thanks, I'm full.",
+  "note": "fem. شبعانة shab3āna.",
+  "phrases": [
+   {
+    "ar": "شبعت الحمد لله",
+    "tr": "shba3t il7amdulillah",
+    "en": "I'm full, thank God"
+   },
+   {
+    "ar": "عينه مش شبعانة",
+    "tr": "3ēnah mush shab3āna",
+    "en": "he's never satisfied (lit. his eye isn't full)"
+   }
+  ]
+ },
+ {
+  "ar": "صاحي",
+  "tr": "Sā7i",
+  "en": "awake",
+  "msa": "مستيقظ",
+  "pos": "adj",
+  "cat": "body",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "مازال صاحي لتوا؟",
+  "ex_tr": "māzāl Sā7i l-tawwa?",
+  "ex_en": "Are you still awake?",
+  "note": "fem. صاحية Sā7ya.",
+  "phrases": [
+   {
+    "ar": "صاحي من الفجر",
+    "tr": "Sā7i min il-fajr",
+    "en": "awake since dawn"
+   },
+   {
+    "ar": "الصغير مش صاحي",
+    "tr": "iS-Sghīr mush Sā7i",
+    "en": "the little one isn't awake"
+   }
+  ]
+ },
+ {
+  "ar": "نوم",
+  "tr": "nōm",
+  "en": "sleep",
+  "msa": "نوم",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 2,
+  "usage": 66,
+  "ex_ar": "النوم مهم للصحة.",
+  "ex_tr": "in-nōm muhimm liS-Sa77a.",
+  "ex_en": "Sleep is important for health.",
+  "phrases": [
+   {
+    "ar": "نومي خفيف",
+    "tr": "nōmi khfīf",
+    "en": "I'm a light sleeper"
+   },
+   {
+    "ar": "ما جانيش النوم",
+    "tr": "ma jānīsh in-nōm",
+    "en": "I couldn't fall asleep"
+   }
+  ]
+ },
+ {
+  "ar": "شخير",
+  "tr": "shkhīr",
+  "en": "snoring",
+  "msa": "شخير",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "ما رقدتش من شخيره.",
+  "ex_tr": "ma rgadtsh min shkhīrah.",
+  "ex_en": "I couldn't sleep because of his snoring.",
+  "phrases": [
+   {
+    "ar": "شخيره عالي",
+    "tr": "shkhīrah 3āli",
+    "en": "his snoring is loud"
+   },
+   {
+    "ar": "علاج الشخير",
+    "tr": "3lāj ish-shkhīr",
+    "en": "treatment for snoring"
+   }
+  ]
+ },
+ {
+  "ar": "كابوس",
+  "tr": "kābūs",
+  "en": "nightmare",
+  "msa": "كابوس",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "نضت مخلوع من كابوس.",
+  "ex_tr": "nuDt makhlū3 min kābūs.",
+  "ex_en": "I woke up frightened from a nightmare.",
+  "note": "pl. كوابيس kwābīs.",
+  "phrases": [
+   {
+    "ar": "حلمت بكابوس",
+    "tr": "7lamt b-kābūs",
+    "en": "I had a nightmare"
+   },
+   {
+    "ar": "كان كابوس",
+    "tr": "kān kābūs",
+    "en": "it was a nightmare"
+   }
+  ]
+ },
+ {
+  "ar": "أرق",
+  "tr": "arag",
+  "en": "insomnia",
+  "msa": "أرق",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 4,
+  "usage": 28,
+  "ex_ar": "عنده أرق وما يرقدش في الليل.",
+  "ex_tr": "3andah arag w-ma yurgudsh fil-lēl.",
+  "ex_en": "He has insomnia and doesn't sleep at night.",
+  "phrases": [
+   {
+    "ar": "يعاني من الأرق",
+    "tr": "yi3āni min il-arag",
+    "en": "he suffers from insomnia"
+   },
+   {
+    "ar": "دوا للأرق",
+    "tr": "dwa lil-arag",
+    "en": "medicine for insomnia"
+   }
+  ]
+ },
+ {
+  "ar": "بونية",
+  "tr": "būnya",
+  "en": "fist; punch",
+  "msa": "لكمة",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "عطاه بونية في وجهه.",
+  "ex_tr": "3Tāh būnya fi wijhah.",
+  "ex_en": "He punched him in the face.",
+  "note": "From Italian pugno.",
+  "phrases": [
+   {
+    "ar": "ضربه بالبونية",
+    "tr": "Darbah bil-būnya",
+    "en": "he hit him with his fist"
+   },
+   {
+    "ar": "سكّر بونيتك",
+    "tr": "sakkir būnītik",
+    "en": "make a fist"
+   }
+  ]
+ },
+ {
+  "ar": "حوض",
+  "tr": "7ōD",
+  "en": "pelvis",
+  "msa": "حوض",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 20,
+  "ex_ar": "عنده كسر في الحوض.",
+  "ex_tr": "3andah kasr fil-7ōD.",
+  "ex_en": "He has a fractured pelvis.",
+  "note": "Also 'sink; basin'.",
+  "phrases": [
+   {
+    "ar": "عظم الحوض",
+    "tr": "3aDHm il-7ōD",
+    "en": "the pelvic bone"
+   },
+   {
+    "ar": "صورة للحوض",
+    "tr": "Sūra lil-7ōD",
+    "en": "an X-ray of the pelvis"
+   }
+  ]
+ },
+ {
+  "ar": "طبلة الوذن",
+  "tr": "Tablat il-widhn",
+  "en": "eardrum",
+  "msa": "طبلة الأذن",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "الصوت العالي يضر طبلة الوذن.",
+  "ex_tr": "iS-Sōt il-3āli yDurr Tablat il-widhn.",
+  "ex_en": "Loud noise damages the eardrum.",
+  "phrases": [
+   {
+    "ar": "طبلة وذنه مثقوبة",
+    "tr": "Tablat widhnah mathgūba",
+    "en": "his eardrum is perforated"
+   },
+   {
+    "ar": "ثقب في الطبلة",
+    "tr": "thagb fiT-Tabla",
+    "en": "a hole in the eardrum"
+   }
+  ]
+ },
+ {
+  "ar": "خلية",
+  "tr": "khaliyya",
+  "en": "cell (biology)",
+  "msa": "خلية",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "الدم فيه خلايا حمرا وبيضا.",
+  "ex_tr": "id-damm fīh khalāya 7umr w-bīD.",
+  "ex_en": "Blood has red and white cells.",
+  "note": "pl. خلايا khalāya.",
+  "phrases": [
+   {
+    "ar": "خلايا الدم",
+    "tr": "khalāya id-damm",
+    "en": "blood cells"
+   },
+   {
+    "ar": "خلايا جديدة",
+    "tr": "khalāya jdīda",
+    "en": "new cells"
+   }
+  ]
+ },
+ {
+  "ar": "هرمون",
+  "tr": "hormōn",
+  "en": "hormone",
+  "msa": "هرمون",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "عندها مشكلة في الهرمونات.",
+  "ex_tr": "3andha mushkila fil-hormonāt.",
+  "ex_en": "She has a hormone problem.",
+  "note": "pl. هرمونات hormonāt.",
+  "phrases": [
+   {
+    "ar": "تحليل هرمونات",
+    "tr": "ta7līl hormonāt",
+    "en": "a hormone test"
+   },
+   {
+    "ar": "هرمونات الحمل",
+    "tr": "hormonāt il-7aml",
+    "en": "pregnancy hormones"
+   }
+  ]
+ },
+ {
+  "ar": "مناعة",
+  "tr": "manā3a",
+  "en": "immunity",
+  "msa": "مناعة",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "مناعته ضعيفة ويمرض ديما.",
+  "ex_tr": "manā3tah Da3īfa w-yimraD dīma.",
+  "ex_en": "His immunity is weak and he's always getting sick.",
+  "phrases": [
+   {
+    "ar": "قوّي مناعتك",
+    "tr": "gawwi manā3tik",
+    "en": "boost your immunity"
+   },
+   {
+    "ar": "نقص المناعة",
+    "tr": "nagS il-manā3a",
+    "en": "immune deficiency"
+   }
+  ]
+ },
+ {
+  "ar": "دورة",
+  "tr": "dawra",
+  "en": "period (menstruation)",
+  "msa": "الدورة الشهرية",
+  "pos": "noun",
+  "cat": "health",
+  "freq": 3,
+  "usage": 34,
+  "ex_ar": "جاتها الدورة وعندها مغص.",
+  "ex_tr": "jātha id-dawra w-3andha maghS.",
+  "ex_en": "She got her period and has cramps.",
+  "note": "Also 'course; cycle; round'.",
+  "phrases": [
+   {
+    "ar": "الدورة الشهرية",
+    "tr": "id-dawra ish-shahriyya",
+    "en": "the monthly period"
+   },
+   {
+    "ar": "الدورة متأخرة",
+    "tr": "id-dawra mit'akhkhra",
+    "en": "the period is late"
+   }
+  ]
+ },
+ {
+  "ar": "أعضاء الحواس",
+  "tr": "a3Dā' il-7awāss",
+  "en": "sense organs",
+  "msa": "أعضاء الحواس",
+  "pos": "noun",
+  "cat": "body",
+  "freq": 5,
+  "usage": 18,
+  "ex_ar": "العين والوذن من أعضاء الحواس.",
+  "ex_tr": "il-3ēn wil-widhn min a3Dā' il-7awāss.",
+  "ex_en": "The eye and ear are sense organs.",
+  "phrases": [
+   {
+    "ar": "درس أعضاء الحواس",
+    "tr": "dars a3Dā' il-7awāss",
+    "en": "a lesson on the sense organs"
+   },
+   {
+    "ar": "كل أعضاء الحواس",
+    "tr": "kull a3Dā' il-7awāss",
+    "en": "all the sense organs"
+   }
+  ]
+ }
+]

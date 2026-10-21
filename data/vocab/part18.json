@@ -2111,5 +2111,2355 @@
         "en": "that's enough for you"
       }
     ]
+  },
+  {
+    "ar": "مسجد",
+    "tr": "masjid",
+    "en": "mosque (formal)",
+    "msa": "مسجد",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "بنوا مسجد جديد في الحومة.",
+    "ex_tr": "bnu masjid jdīd fi l-7ōma.",
+    "ex_en": "They built a new mosque in the neighbourhood.",
+    "note": "pl. مساجد masājid. Everyday word is جامع jāmi3.",
+    "phrases": [
+      {
+        "ar": "المسجد الحرام",
+        "tr": "il-masjid il-7arām",
+        "en": "the Grand Mosque (Mecca)"
+      },
+      {
+        "ar": "مسجد الحومة",
+        "tr": "masjid il-7ōma",
+        "en": "the neighbourhood mosque"
+      }
+    ]
+  },
+  {
+    "ar": "إمام",
+    "tr": "imām",
+    "en": "imam; prayer leader",
+    "msa": "إمام",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "الإمام صوته حلو.",
+    "ex_tr": "il-imām Sōtah 7ilu.",
+    "ex_en": "The imam has a beautiful voice.",
+    "note": "pl. أئمة a'imma",
+    "phrases": [
+      {
+        "ar": "إمام الجامع",
+        "tr": "imām il-jāmi3",
+        "en": "the mosque's imam"
+      },
+      {
+        "ar": "ورا الإمام",
+        "tr": "wara l-imām",
+        "en": "behind the imam"
+      }
+    ]
+  },
+  {
+    "ar": "وضو",
+    "tr": "wuDū",
+    "en": "ablution (before prayer)",
+    "msa": "وضوء",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "ندير الوضو ونصلي.",
+    "ex_tr": "ndīr il-wuDū w-nSalli.",
+    "ex_en": "I do my ablutions and pray.",
+    "note": "Usually said with درّ (to do) or توضى (to perform ablution).",
+    "phrases": [
+      {
+        "ar": "عندك وضو؟",
+        "tr": "3andik wuDū?",
+        "en": "are you in a state of ablution?"
+      },
+      {
+        "ar": "مية الوضو",
+        "tr": "mayyat il-wuDū",
+        "en": "ablution water"
+      }
+    ]
+  },
+  {
+    "ar": "زكاة",
+    "tr": "zakā",
+    "en": "zakat; obligatory alms",
+    "msa": "زكاة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "طلعنا الزكاة متاع الفلوس.",
+    "ex_tr": "Talla3na z-zakā mtā3 il-flūs.",
+    "ex_en": "We paid the zakat on the money.",
+    "phrases": [
+      {
+        "ar": "زكاة الفطر",
+        "tr": "zakāt il-fiTr",
+        "en": "zakat al-fitr (end of Ramadan alms)"
+      },
+      {
+        "ar": "زكاة المال",
+        "tr": "zakāt il-māl",
+        "en": "wealth zakat"
+      }
+    ]
+  },
+  {
+    "ar": "فطرة",
+    "tr": "fiTra",
+    "en": "fitra (end-of-Ramadan alms); innate nature",
+    "msa": "فطرة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "طلعت الفطرة قبل صلاة العيد.",
+    "ex_tr": "Talla3t il-fiTra gbal Salāt il-3īd.",
+    "ex_en": "I gave the fitra alms before the Eid prayer.",
+    "note": "Libyans often call zakat al-fitr simply الفطرة.",
+    "phrases": [
+      {
+        "ar": "فطرة العيد",
+        "tr": "fiTrat il-3īd",
+        "en": "Eid fitra alms"
+      },
+      {
+        "ar": "بالفطرة",
+        "tr": "bil-fiTra",
+        "en": "by nature; instinctively"
+      }
+    ]
+  },
+  {
+    "ar": "عمرة",
+    "tr": "3umra",
+    "en": "umrah (minor pilgrimage)",
+    "msa": "عمرة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "أمي مشت للعمرة في رمضان.",
+    "ex_tr": "ummi mshat lil-3umra fi ramDān.",
+    "ex_en": "My mother went for umrah in Ramadan.",
+    "note": "pl. عمرات 3umrāt",
+    "phrases": [
+      {
+        "ar": "عمرة مقبولة",
+        "tr": "3umra magbūla",
+        "en": "may your umrah be accepted"
+      },
+      {
+        "ar": "ناوي عمرة",
+        "tr": "nāwi 3umra",
+        "en": "planning to do umrah"
+      }
+    ]
+  },
+  {
+    "ar": "تراويح",
+    "tr": "tarāwī7",
+    "en": "tarawih (night prayers in Ramadan)",
+    "msa": "تراويح",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "بعد الفطور نمشوا للتراويح.",
+    "ex_tr": "ba3d il-fTūr nimshu lit-tarāwī7.",
+    "ex_en": "After iftar we go to tarawih prayers.",
+    "note": "Plural form; singular ترويحة is rare.",
+    "phrases": [
+      {
+        "ar": "صلاة التراويح",
+        "tr": "Salāt it-tarāwī7",
+        "en": "tarawih prayer"
+      },
+      {
+        "ar": "التراويح في الجامع",
+        "tr": "it-tarāwī7 fi l-jāmi3",
+        "en": "tarawih at the mosque"
+      }
+    ]
+  },
+  {
+    "ar": "خطبة",
+    "tr": "khuTba",
+    "en": "sermon (Friday)",
+    "msa": "خطبة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "الخطبة اليوم كانت طويلة.",
+    "ex_tr": "il-khuTba l-yōm kānat Twīla.",
+    "ex_en": "Today's sermon was long.",
+    "note": "pl. خطب khuTab. Do not confuse with خطوبة (engagement).",
+    "phrases": [
+      {
+        "ar": "خطبة الجمعة",
+        "tr": "khuTbat ij-jum3a",
+        "en": "the Friday sermon"
+      },
+      {
+        "ar": "خطبة العيد",
+        "tr": "khuTbat il-3īd",
+        "en": "the Eid sermon"
+      }
+    ]
+  },
+  {
+    "ar": "سبحة",
+    "tr": "sib7a",
+    "en": "prayer beads",
+    "msa": "سبحة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "جدي ديما في يده سبحة.",
+    "ex_tr": "jiddi dīma fi īdah sib7a.",
+    "ex_en": "My grandfather always has prayer beads in his hand.",
+    "note": "pl. سبح sibe7; also مسبحة misb7a",
+    "phrases": [
+      {
+        "ar": "سبحة من مكة",
+        "tr": "sib7a min makka",
+        "en": "prayer beads from Mecca"
+      },
+      {
+        "ar": "يسبح بالسبحة",
+        "tr": "ysabba7 bis-sib7a",
+        "en": "he counts praises on the beads"
+      }
+    ]
+  },
+  {
+    "ar": "كعبة",
+    "tr": "ka3ba",
+    "en": "the Kaaba",
+    "msa": "كعبة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "الحجاج يطوفوا بالكعبة.",
+    "ex_tr": "il-7ujjāj yTūfu bil-ka3ba.",
+    "ex_en": "The pilgrims circle the Kaaba.",
+    "phrases": [
+      {
+        "ar": "شفت الكعبة",
+        "tr": "shuft il-ka3ba",
+        "en": "I saw the Kaaba"
+      },
+      {
+        "ar": "ستار الكعبة",
+        "tr": "sitār il-ka3ba",
+        "en": "the Kaaba cover"
+      }
+    ]
+  },
+  {
+    "ar": "مكة",
+    "tr": "makka",
+    "en": "Mecca",
+    "msa": "مكة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "نبي نمشي لمكة قبل ما نموت.",
+    "ex_tr": "nibbi nimshi l-makka gbal ma nmūt.",
+    "ex_en": "I want to go to Mecca before I die.",
+    "phrases": [
+      {
+        "ar": "مكة المكرمة",
+        "tr": "makka l-mukarrama",
+        "en": "Holy Mecca"
+      },
+      {
+        "ar": "مكة والمدينة",
+        "tr": "makka w-il-madīna",
+        "en": "Mecca and Medina"
+      }
+    ]
+  },
+  {
+    "ar": "قبلة",
+    "tr": "qibla",
+    "en": "qibla (direction of prayer)",
+    "msa": "قبلة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "وين القبلة هني؟",
+    "ex_tr": "wīn il-qibla hni?",
+    "ex_en": "Which way is the qibla here?",
+    "note": "Do not confuse with بوسة (kiss).",
+    "phrases": [
+      {
+        "ar": "اتجاه القبلة",
+        "tr": "ittijāh il-qibla",
+        "en": "the qibla direction"
+      },
+      {
+        "ar": "مستقبل القبلة",
+        "tr": "mistagbil il-qibla",
+        "en": "facing the qibla"
+      }
+    ]
+  },
+  {
+    "ar": "ركعة",
+    "tr": "rak3a",
+    "en": "rak'a (unit of prayer)",
+    "msa": "ركعة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "الصبح ركعتين.",
+    "ex_tr": "iS-Sub7 rak3tēn.",
+    "ex_en": "The dawn prayer is two rak'as.",
+    "note": "pl. ركعات rak3āt",
+    "phrases": [
+      {
+        "ar": "كم ركعة؟",
+        "tr": "kam rak3a?",
+        "en": "how many rak'as?"
+      },
+      {
+        "ar": "أربع ركعات",
+        "tr": "arba3 rak3āt",
+        "en": "four rak'as"
+      }
+    ]
+  },
+  {
+    "ar": "فرض",
+    "tr": "farD",
+    "en": "obligatory prayer; duty",
+    "msa": "فرض",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "صليت الفرض في وقته.",
+    "ex_tr": "Sallēt il-farD fi wagtah.",
+    "ex_en": "I prayed the obligatory prayer on time.",
+    "note": "pl. فروض frūD. Also 'assumption' (فرضاً = supposing).",
+    "phrases": [
+      {
+        "ar": "الفرض والسنة",
+        "tr": "il-farD w-is-sunna",
+        "en": "obligatory and recommended (prayers)"
+      },
+      {
+        "ar": "فرض عليك",
+        "tr": "farD 3alēk",
+        "en": "it's your duty"
+      }
+    ]
+  },
+  {
+    "ar": "سنة",
+    "tr": "sunna",
+    "en": "Sunna; recommended practice",
+    "msa": "سنة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "الصدقة سنة.",
+    "ex_tr": "iS-Sadga sunna.",
+    "ex_en": "Giving charity is a Sunna.",
+    "note": "Same spelling as سنة sana (year).",
+    "phrases": [
+      {
+        "ar": "سنة النبي",
+        "tr": "sunnat in-nabi",
+        "en": "the Prophet's tradition"
+      },
+      {
+        "ar": "سنة ولا فرض؟",
+        "tr": "sunna wala farD?",
+        "en": "recommended or obligatory?"
+      }
+    ]
+  },
+  {
+    "ar": "عبادة",
+    "tr": "3ibāda",
+    "en": "worship",
+    "msa": "عبادة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "رمضان شهر عبادة.",
+    "ex_tr": "ramDān shahr 3ibāda.",
+    "ex_en": "Ramadan is a month of worship.",
+    "note": "pl. عبادات 3ibādāt",
+    "phrases": [
+      {
+        "ar": "العبادة لله",
+        "tr": "il-3ibāda lillāh",
+        "en": "worship is for God"
+      },
+      {
+        "ar": "وقت العبادة",
+        "tr": "wagt il-3ibāda",
+        "en": "time for worship"
+      }
+    ]
+  },
+  {
+    "ar": "توبة",
+    "tr": "tōba",
+    "en": "repentance",
+    "msa": "توبة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "باب التوبة مفتوح.",
+    "ex_tr": "bāb it-tōba maftū7.",
+    "ex_en": "The door of repentance is open.",
+    "phrases": [
+      {
+        "ar": "توبة نصوح",
+        "tr": "tōba naSū7",
+        "en": "sincere repentance"
+      },
+      {
+        "ar": "توبة من هالحاجة",
+        "tr": "tōba min ha-l-7āja",
+        "en": "never again (I swear off this)"
+      }
+    ]
+  },
+  {
+    "ar": "أجر",
+    "tr": "ajr",
+    "en": "divine reward",
+    "msa": "أجر",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "ربي يعطيك الأجر.",
+    "ex_tr": "rabbi ya3Tīk il-ajr.",
+    "ex_en": "May God reward you.",
+    "note": "Also 'wage' in formal use.",
+    "phrases": [
+      {
+        "ar": "أجر وثواب",
+        "tr": "ajr w-thawāb",
+        "en": "reward and merit"
+      },
+      {
+        "ar": "فيها أجر",
+        "tr": "fīha ajr",
+        "en": "it earns a reward (from God)"
+      }
+    ]
+  },
+  {
+    "ar": "حسنة",
+    "tr": "7asana",
+    "en": "good deed; charity given",
+    "msa": "حسنة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "الحسنة بعشر أمثالها.",
+    "ex_tr": "il-7asana b-3ashr amthālha.",
+    "ex_en": "A good deed is rewarded tenfold.",
+    "note": "pl. حسنات 7asanāt",
+    "phrases": [
+      {
+        "ar": "ديرها حسنة",
+        "tr": "dīrha 7asana",
+        "en": "do it as a good deed"
+      },
+      {
+        "ar": "حسنات وسيئات",
+        "tr": "7asanāt w-sayyi'āt",
+        "en": "good and bad deeds"
+      }
+    ]
+  },
+  {
+    "ar": "ثواب",
+    "tr": "thawāb",
+    "en": "reward (from God)",
+    "msa": "ثواب",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "فيها ثواب كبير.",
+    "ex_tr": "fīha thawāb kbīr.",
+    "ex_en": "There's great reward in it.",
+    "phrases": [
+      {
+        "ar": "على الثواب",
+        "tr": "3la th-thawāb",
+        "en": "for the sake of reward"
+      },
+      {
+        "ar": "ثواب الصيام",
+        "tr": "thawāb iS-Siyām",
+        "en": "the reward of fasting"
+      }
+    ]
+  },
+  {
+    "ar": "حرام",
+    "tr": "7arām",
+    "en": "sin; forbidden thing (noun)",
+    "msa": "حرام",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 2,
+    "usage": 60,
+    "ex_ar": "هذا من الحرام.",
+    "ex_tr": "hādha min il-7arām.",
+    "ex_en": "This is something forbidden.",
+    "note": "Exists in the deck as an exclamation; this card is the noun sense.",
+    "phrases": [
+      {
+        "ar": "فلوس حرام",
+        "tr": "flūs 7arām",
+        "en": "ill-gotten money"
+      },
+      {
+        "ar": "الحلال والحرام",
+        "tr": "il-7lāl w-il-7arām",
+        "en": "the permitted and the forbidden"
+      }
+    ]
+  },
+  {
+    "ar": "استخارة",
+    "tr": "istikhāra",
+    "en": "prayer for guidance",
+    "msa": "استخارة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 36,
+    "ex_ar": "صلي استخارة قبل ما تقرر.",
+    "ex_tr": "Salli istikhāra gbal ma tgarrir.",
+    "ex_en": "Pray istikhara before you decide.",
+    "phrases": [
+      {
+        "ar": "صلاة الاستخارة",
+        "tr": "Salāt il-istikhāra",
+        "en": "the guidance prayer"
+      },
+      {
+        "ar": "دار استخارة",
+        "tr": "dār istikhāra",
+        "en": "he prayed for guidance"
+      }
+    ]
+  },
+  {
+    "ar": "رقية",
+    "tr": "ruqya",
+    "en": "Quranic healing recitation",
+    "msa": "رقية",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "مشت للشيخ يديرلها رقية.",
+    "ex_tr": "mshat lish-shēkh ydīrilha ruqya.",
+    "ex_en": "She went to the sheikh to recite healing verses over her.",
+    "note": "Common practice in Libya against envy and evil eye.",
+    "phrases": [
+      {
+        "ar": "رقية شرعية",
+        "tr": "ruqya shar3iyya",
+        "en": "legitimate Quranic healing"
+      },
+      {
+        "ar": "مية رقية",
+        "tr": "mayyat ruqya",
+        "en": "water recited over"
+      }
+    ]
+  },
+  {
+    "ar": "مصحف",
+    "tr": "muS7af",
+    "en": "copy of the Quran",
+    "msa": "مصحف",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 42,
+    "ex_ar": "حط المصحف فوق الرف.",
+    "ex_tr": "7uTT il-muS7af fōg ir-raff.",
+    "ex_en": "Put the Quran copy on top of the shelf.",
+    "note": "pl. مصاحف maSā7if",
+    "phrases": [
+      {
+        "ar": "مصحف صغير",
+        "tr": "muS7af Sghīr",
+        "en": "a pocket Quran"
+      },
+      {
+        "ar": "قرا في المصحف",
+        "tr": "gra fi l-muS7af",
+        "en": "he read from the Quran"
+      }
+    ]
+  },
+  {
+    "ar": "سورة",
+    "tr": "sūra",
+    "en": "sura (chapter of the Quran)",
+    "msa": "سورة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "حفظ سورة جديدة اليوم.",
+    "ex_tr": "7faDH sūra jdīda l-yōm.",
+    "ex_en": "He memorised a new sura today.",
+    "note": "pl. سور suwar",
+    "phrases": [
+      {
+        "ar": "سورة الفاتحة",
+        "tr": "sūrat il-fāti7a",
+        "en": "Surat al-Fatiha"
+      },
+      {
+        "ar": "سورة قصيرة",
+        "tr": "sūra gSīra",
+        "en": "a short sura"
+      }
+    ]
+  },
+  {
+    "ar": "آية",
+    "tr": "āya",
+    "en": "verse (of the Quran); sign",
+    "msa": "آية",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "قرا آية الكرسي.",
+    "ex_tr": "gra āyat il-kursi.",
+    "ex_en": "He recited the Throne Verse.",
+    "note": "pl. آيات āyāt. Also 'a marvel': آية في الجمال.",
+    "phrases": [
+      {
+        "ar": "آية الكرسي",
+        "tr": "āyat il-kursi",
+        "en": "the Throne Verse"
+      },
+      {
+        "ar": "آية من القرآن",
+        "tr": "āya min il-qur'ān",
+        "en": "a verse of the Quran"
+      }
+    ]
+  },
+  {
+    "ar": "فاتحة",
+    "tr": "fāti7a",
+    "en": "al-Fatiha; recitation to seal an agreement",
+    "msa": "فاتحة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "قرينا الفاتحة على روحه.",
+    "ex_tr": "grēna l-fāti7a 3la rū7ah.",
+    "ex_en": "We recited al-Fatiha for his soul.",
+    "note": "In Libya reciting the Fatiha also seals an engagement.",
+    "phrases": [
+      {
+        "ar": "نقروا الفاتحة",
+        "tr": "nigru l-fāti7a",
+        "en": "let's recite al-Fatiha"
+      },
+      {
+        "ar": "قراية الفاتحة",
+        "tr": "grāyat il-fāti7a",
+        "en": "the Fatiha (engagement) ceremony"
+      }
+    ]
+  },
+  {
+    "ar": "حديث",
+    "tr": "7adīth",
+    "en": "hadith (Prophet's saying); talk",
+    "msa": "حديث",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "فيه حديث يقول هكي.",
+    "ex_tr": "fīh 7adīth ygūl hakki.",
+    "ex_en": "There's a hadith that says so.",
+    "note": "pl. أحاديث a7ādīth",
+    "phrases": [
+      {
+        "ar": "حديث شريف",
+        "tr": "7adīth sharīf",
+        "en": "a noble hadith"
+      },
+      {
+        "ar": "في الحديث",
+        "tr": "fi l-7adīth",
+        "en": "in the hadith"
+      }
+    ]
+  },
+  {
+    "ar": "نبي",
+    "tr": "nabi",
+    "en": "prophet",
+    "msa": "نبي",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 2,
+    "usage": 60,
+    "ex_ar": "صلي على النبي.",
+    "ex_tr": "Salli 3la n-nabi.",
+    "ex_en": "Pray for the Prophet (calm down).",
+    "note": "pl. أنبياء anbiyā. 'صلي على النبي' is said to calm someone.",
+    "phrases": [
+      {
+        "ar": "النبي محمد",
+        "tr": "in-nabi m7ammad",
+        "en": "the Prophet Muhammad"
+      },
+      {
+        "ar": "عليه الصلاة والسلام",
+        "tr": "3alēh iS-Salā w-is-salām",
+        "en": "peace be upon him"
+      }
+    ]
+  },
+  {
+    "ar": "رسول",
+    "tr": "rasūl",
+    "en": "messenger (of God)",
+    "msa": "رسول",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "رسول الله قال…",
+    "ex_tr": "rasūl allah gāl…",
+    "ex_en": "The Messenger of God said…",
+    "note": "pl. رسل rusul",
+    "phrases": [
+      {
+        "ar": "رسول الله",
+        "tr": "rasūl allah",
+        "en": "the Messenger of God"
+      },
+      {
+        "ar": "حب الرسول",
+        "tr": "7ubb ir-rasūl",
+        "en": "love of the Prophet"
+      }
+    ]
+  },
+  {
+    "ar": "إيمان",
+    "tr": "īmān",
+    "en": "faith",
+    "msa": "إيمان",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "إيمانه قوي.",
+    "ex_tr": "īmānah gawi.",
+    "ex_en": "His faith is strong.",
+    "phrases": [
+      {
+        "ar": "بالإيمان",
+        "tr": "bil-īmān",
+        "en": "with faith"
+      },
+      {
+        "ar": "ضعف الإيمان",
+        "tr": "Da3f il-īmān",
+        "en": "weak faith"
+      }
+    ]
+  },
+  {
+    "ar": "روح",
+    "tr": "rū7",
+    "en": "soul; spirit",
+    "msa": "روح",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 2,
+    "usage": 60,
+    "ex_ar": "الله يرحم روحه.",
+    "ex_tr": "allah yir7am rū7ah.",
+    "ex_en": "May God have mercy on his soul.",
+    "note": "pl. أرواح arwā7. Also 'self': روحي = myself.",
+    "phrases": [
+      {
+        "ar": "على روحه",
+        "tr": "3la rū7ah",
+        "en": "for his soul"
+      },
+      {
+        "ar": "روحي",
+        "tr": "rū7i",
+        "en": "myself; my dear"
+      }
+    ]
+  },
+  {
+    "ar": "جنة",
+    "tr": "janna",
+    "en": "paradise",
+    "msa": "جنة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "ربي يدخلك الجنة.",
+    "ex_tr": "rabbi ydakhlik il-janna.",
+    "ex_en": "May God admit you to paradise.",
+    "note": "Also 'garden' in old usage.",
+    "phrases": [
+      {
+        "ar": "الجنة تحت أقدام الأمهات",
+        "tr": "il-janna ta7t agdām il-ummahāt",
+        "en": "paradise lies under mothers' feet"
+      },
+      {
+        "ar": "جنة على الأرض",
+        "tr": "janna 3la l-arD",
+        "en": "heaven on earth"
+      }
+    ]
+  },
+  {
+    "ar": "جهنم",
+    "tr": "jahannam",
+    "en": "hell",
+    "msa": "جهنم",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "الدنيا جهنم في الصيف.",
+    "ex_tr": "id-dinya jahannam fi S-Sēf.",
+    "ex_en": "It's hell in the summer.",
+    "note": "Also النار in-nār (the Fire).",
+    "phrases": [
+      {
+        "ar": "نار جهنم",
+        "tr": "nār jahannam",
+        "en": "hellfire"
+      },
+      {
+        "ar": "يمشي لجهنم",
+        "tr": "yimshi l-jahannam",
+        "en": "let him go to hell"
+      }
+    ]
+  },
+  {
+    "ar": "آخرة",
+    "tr": "ākhra",
+    "en": "the hereafter",
+    "msa": "آخرة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "نخدموا للدنيا والآخرة.",
+    "ex_tr": "nikhdmu lid-dinya w-il-ākhra.",
+    "ex_en": "We work for this world and the hereafter.",
+    "phrases": [
+      {
+        "ar": "في الآخرة",
+        "tr": "fi l-ākhra",
+        "en": "in the hereafter"
+      },
+      {
+        "ar": "دار الآخرة",
+        "tr": "dār il-ākhra",
+        "en": "the abode of the hereafter"
+      }
+    ]
+  },
+  {
+    "ar": "يوم القيامة",
+    "tr": "yōm il-qiyāma",
+    "en": "Judgment Day",
+    "msa": "يوم القيامة",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "نستنى فيك ليوم القيامة؟",
+    "ex_tr": "nistanna fīk l-yōm il-qiyāma?",
+    "ex_en": "Am I to wait for you till Judgment Day?",
+    "note": "Used jokingly for 'forever'.",
+    "phrases": [
+      {
+        "ar": "ليوم القيامة",
+        "tr": "l-yōm il-qiyāma",
+        "en": "forever"
+      },
+      {
+        "ar": "علامات القيامة",
+        "tr": "3alāmāt il-qiyāma",
+        "en": "signs of the end of days"
+      }
+    ]
+  },
+  {
+    "ar": "ملك",
+    "tr": "malak",
+    "en": "angel",
+    "msa": "ملاك",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "نايم كيف الملك.",
+    "ex_tr": "nāyim kīf il-malak.",
+    "ex_en": "He's sleeping like an angel.",
+    "note": "pl. ملايكة malāyka. Not ملك malik (king).",
+    "phrases": [
+      {
+        "ar": "ملايكة الرحمة",
+        "tr": "malāykat ir-ra7ma",
+        "en": "angels of mercy"
+      },
+      {
+        "ar": "وجه ملك",
+        "tr": "wajh malak",
+        "en": "an angelic face"
+      }
+    ]
+  },
+  {
+    "ar": "شيطان",
+    "tr": "shiTān",
+    "en": "devil; Satan",
+    "msa": "شيطان",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "أعوذ بالله من الشيطان.",
+    "ex_tr": "a3ūdh billāh min ish-shiTān.",
+    "ex_en": "I seek refuge in God from Satan.",
+    "note": "pl. شياطين shayāTīn. Also a naughty child.",
+    "phrases": [
+      {
+        "ar": "ولد شيطان",
+        "tr": "wild shiTān",
+        "en": "a little devil (naughty kid)"
+      },
+      {
+        "ar": "الشيطان شاطر",
+        "tr": "ish-shiTān shāTir",
+        "en": "the devil is clever (temptation)"
+      }
+    ]
+  },
+  {
+    "ar": "جن",
+    "tr": "jinn",
+    "en": "jinn; spirits",
+    "msa": "جن",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "جدتي تحكيلنا حكايات على الجن.",
+    "ex_tr": "jaddti t7kīlna 7kāyāt 3la l-jinn.",
+    "ex_en": "My grandmother tells us stories about the jinn.",
+    "note": "Collective; one is جني jinni.",
+    "phrases": [
+      {
+        "ar": "فيه جن",
+        "tr": "fīh jinn",
+        "en": "he's possessed"
+      },
+      {
+        "ar": "حكايات الجن",
+        "tr": "7kāyāt il-jinn",
+        "en": "jinn stories"
+      }
+    ]
+  },
+  {
+    "ar": "حسد",
+    "tr": "7asad",
+    "en": "envy; evil eye",
+    "msa": "حسد",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "هذا من الحسد.",
+    "ex_tr": "hādha min il-7asad.",
+    "ex_en": "This is from envy (the evil eye).",
+    "note": "Libyans say ما شاء الله to ward it off; also called العين.",
+    "phrases": [
+      {
+        "ar": "عين وحسد",
+        "tr": "3ēn w-7asad",
+        "en": "evil eye and envy"
+      },
+      {
+        "ar": "يخاف من الحسد",
+        "tr": "ykhāf min il-7asad",
+        "en": "he fears the evil eye"
+      }
+    ]
+  },
+  {
+    "ar": "بخور",
+    "tr": "bkhūr",
+    "en": "incense",
+    "msa": "بخور",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "دارت البخور في الحوش.",
+    "ex_tr": "dārat il-bkhūr fi l-7ō sh.",
+    "ex_en": "She burned incense in the house.",
+    "note": "Burned at weddings, Fridays and against the evil eye.",
+    "phrases": [
+      {
+        "ar": "ريحة البخور",
+        "tr": "rī7t il-bkhūr",
+        "en": "the smell of incense"
+      },
+      {
+        "ar": "بخور العرس",
+        "tr": "bkhūr il-3ers",
+        "en": "wedding incense"
+      }
+    ]
+  },
+  {
+    "ar": "شهيد",
+    "tr": "shahīd",
+    "en": "martyr",
+    "msa": "شهيد",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "ربي يرحم الشهدا.",
+    "ex_tr": "rabbi yir7am ish-shuhada.",
+    "ex_en": "May God have mercy on the martyrs.",
+    "note": "pl. شهدا shuhada",
+    "phrases": [
+      {
+        "ar": "ميدان الشهدا",
+        "tr": "mīdān ish-shuhada",
+        "en": "Martyrs' Square (Tripoli)"
+      },
+      {
+        "ar": "مات شهيد",
+        "tr": "māt shahīd",
+        "en": "he died a martyr"
+      }
+    ]
+  },
+  {
+    "ar": "جنازة",
+    "tr": "janāza",
+    "en": "funeral",
+    "msa": "جنازة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "الجنازة بعد صلاة العصر.",
+    "ex_tr": "ij-janāza ba3d Salāt il-3aSr.",
+    "ex_en": "The funeral is after the afternoon prayer.",
+    "note": "pl. جنايز janāyiz",
+    "phrases": [
+      {
+        "ar": "صلاة الجنازة",
+        "tr": "Salāt ij-janāza",
+        "en": "funeral prayer"
+      },
+      {
+        "ar": "مشينا للجنازة",
+        "tr": "mshēna lij-janāza",
+        "en": "we went to the funeral"
+      }
+    ]
+  },
+  {
+    "ar": "قبر",
+    "tr": "gabr",
+    "en": "grave; tomb",
+    "msa": "قبر",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 48,
+    "ex_ar": "زرنا قبر جدي.",
+    "ex_tr": "zirna gabr jiddi.",
+    "ex_en": "We visited my grandfather's grave.",
+    "note": "pl. قبور gbūr",
+    "phrases": [
+      {
+        "ar": "زيارة القبور",
+        "tr": "ziyārat il-gbūr",
+        "en": "visiting the graves"
+      },
+      {
+        "ar": "عذاب القبر",
+        "tr": "3adhāb il-gabr",
+        "en": "torment of the grave"
+      }
+    ]
+  },
+  {
+    "ar": "هلال",
+    "tr": "hilāl",
+    "en": "crescent moon (new month)",
+    "msa": "هلال",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "شافوا الهلال؟ بكرة العيد؟",
+    "ex_tr": "shāfu l-hilāl? bukra l-3īd?",
+    "ex_en": "Did they see the crescent? Is Eid tomorrow?",
+    "note": "The sighting of the crescent decides when Ramadan and Eid begin.",
+    "phrases": [
+      {
+        "ar": "هلال رمضان",
+        "tr": "hilāl ramDān",
+        "en": "the Ramadan crescent"
+      },
+      {
+        "ar": "الهلال الأحمر",
+        "tr": "il-hilāl il-a7mar",
+        "en": "the Red Crescent"
+      }
+    ]
+  },
+  {
+    "ar": "ليلة القدر",
+    "tr": "lēlat il-qadr",
+    "en": "Night of Power (27 Ramadan)",
+    "msa": "ليلة القدر",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "ليلة القدر الناس الكل في الجوامع.",
+    "ex_tr": "lēlat il-qadr in-nās il-kull fi l-jwāmi3.",
+    "ex_en": "On the Night of Power everyone is at the mosques.",
+    "note": "In Libya kids often get new clothes and girls get henna on the 27th.",
+    "phrases": [
+      {
+        "ar": "ليلة سبعة وعشرين",
+        "tr": "lēlat sab3a w-3ishrīn",
+        "en": "the 27th night (of Ramadan)"
+      },
+      {
+        "ar": "دعاء ليلة القدر",
+        "tr": "du3a lēlat il-qadr",
+        "en": "prayer on the Night of Power"
+      }
+    ]
+  },
+  {
+    "ar": "عاشوراء",
+    "tr": "3āshūra",
+    "en": "Ashura (10th of Muharram)",
+    "msa": "عاشوراء",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 4,
+    "usage": 36,
+    "ex_ar": "في عاشورا يديروا القديد.",
+    "ex_tr": "fi 3āshūra ydīru l-gaddīd.",
+    "ex_en": "On Ashura they make dried meat dishes.",
+    "note": "Libyans cook dishes with قديد (cured meat) from Eid al-Adha.",
+    "phrases": [
+      {
+        "ar": "صيام عاشورا",
+        "tr": "Siyām 3āshūra",
+        "en": "the Ashura fast"
+      },
+      {
+        "ar": "نهار عاشورا",
+        "tr": "nhār 3āshūra",
+        "en": "the day of Ashura"
+      }
+    ]
+  },
+  {
+    "ar": "إمساك",
+    "tr": "imsāk",
+    "en": "start of the daily fast (pre-dawn)",
+    "msa": "إمساك",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "الإمساك الساعة أربعة ونص.",
+    "ex_tr": "il-imsāk is-sā3a arb3a w-nuSS.",
+    "ex_en": "Imsak is at half past four.",
+    "phrases": [
+      {
+        "ar": "وقت الإمساك",
+        "tr": "wagt il-imsāk",
+        "en": "time to stop eating"
+      },
+      {
+        "ar": "إمساكية رمضان",
+        "tr": "imsākiyyat ramDān",
+        "en": "the Ramadan timetable"
+      }
+    ]
+  },
+  {
+    "ar": "صيام",
+    "tr": "Siyām",
+    "en": "fasting (religious duty)",
+    "msa": "صيام",
+    "pos": "noun",
+    "cat": "religion",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "الصيام في الصيف صعيب.",
+    "ex_tr": "iS-Siyām fi S-Sēf Sa3īb.",
+    "ex_en": "Fasting in summer is hard.",
+    "note": "Same meaning as صوم; صيام is more common in religious talk.",
+    "phrases": [
+      {
+        "ar": "صيام رمضان",
+        "tr": "Siyām ramDān",
+        "en": "the Ramadan fast"
+      },
+      {
+        "ar": "صيام الست",
+        "tr": "Siyām is-sitt",
+        "en": "the six days of Shawwal fast"
+      }
+    ]
+  },
+  {
+    "ar": "صايم",
+    "tr": "Sāyim",
+    "en": "fasting (person)",
+    "msa": "صائم",
+    "pos": "adj",
+    "cat": "religion",
+    "freq": 2,
+    "usage": 62,
+    "ex_ar": "ما نقدرش نشرب، أني صايم.",
+    "ex_tr": "ma ngdarsh nishrib, āni Sāyim.",
+    "ex_en": "I can't drink, I'm fasting.",
+    "note": "fem. صايمة Sāyma; pl. صايمين Sāymīn",
+    "phrases": [
+      {
+        "ar": "صايم اليوم؟",
+        "tr": "Sāyim il-yōm?",
+        "en": "are you fasting today?"
+      },
+      {
+        "ar": "صايمين كلنا",
+        "tr": "Sāymīn kullna",
+        "en": "we're all fasting"
+      }
+    ]
+  },
+  {
+    "ar": "ضيافة",
+    "tr": "Diyāfa",
+    "en": "hospitality",
+    "msa": "ضيافة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "الضيافة الليبية مشهورة.",
+    "ex_tr": "iD-Diyāfa l-lībiyya mashhūra.",
+    "ex_en": "Libyan hospitality is famous.",
+    "phrases": [
+      {
+        "ar": "حسن الضيافة",
+        "tr": "7usn iD-Diyāfa",
+        "en": "good hospitality"
+      },
+      {
+        "ar": "واجب الضيافة",
+        "tr": "wājib iD-Diyāfa",
+        "en": "the duty of hospitality"
+      }
+    ]
+  },
+  {
+    "ar": "كرم",
+    "tr": "karam",
+    "en": "generosity",
+    "msa": "كرم",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "الكرم من عاداتنا.",
+    "ex_tr": "il-karam min 3ādātna.",
+    "ex_en": "Generosity is one of our customs.",
+    "phrases": [
+      {
+        "ar": "من كرمك",
+        "tr": "min karamik",
+        "en": "that's very generous of you"
+      },
+      {
+        "ar": "كرم الضيافة",
+        "tr": "karam iD-Diyāfa",
+        "en": "generous hospitality"
+      }
+    ]
+  },
+  {
+    "ar": "عزومة",
+    "tr": "3zūma",
+    "en": "invitation to a meal; dinner party",
+    "msa": "عزومة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "عندنا عزومة الليلة في حوش خالي.",
+    "ex_tr": "3andna 3zūma l-lēla fi 7ōsh khāli.",
+    "ex_en": "We have a dinner invitation tonight at my uncle's.",
+    "note": "pl. عزايم 3zāyim",
+    "phrases": [
+      {
+        "ar": "عزومة عشا",
+        "tr": "3zūmat 3sha",
+        "en": "a dinner invitation"
+      },
+      {
+        "ar": "عزومة على الغدا",
+        "tr": "3zūma 3la l-ghda",
+        "en": "a lunch invitation"
+      }
+    ]
+  },
+  {
+    "ar": "وليمة",
+    "tr": "walīma",
+    "en": "banquet; feast",
+    "msa": "وليمة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "دار وليمة كبيرة للعرس.",
+    "ex_tr": "dār walīma kbīra lil-3ers.",
+    "ex_en": "He held a big banquet for the wedding.",
+    "note": "pl. ولايم walāyim",
+    "phrases": [
+      {
+        "ar": "وليمة العرس",
+        "tr": "walīmat il-3ers",
+        "en": "the wedding feast"
+      },
+      {
+        "ar": "ذبح ودار وليمة",
+        "tr": "dhba7 w-dār walīma",
+        "en": "he slaughtered and held a feast"
+      }
+    ]
+  },
+  {
+    "ar": "زردة",
+    "tr": "zarda",
+    "en": "outing feast; picnic with food",
+    "msa": "زردة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "الجمعة عندنا زردة في البحر.",
+    "ex_tr": "ij-jum3a 3andna zarda fi l-ba7r.",
+    "ex_en": "On Friday we have a picnic at the beach.",
+    "note": "Libyan/Maghrebi word for a festive outing with a big meal.",
+    "phrases": [
+      {
+        "ar": "زردة في الغابة",
+        "tr": "zarda fi l-ghāba",
+        "en": "a picnic in the woods"
+      },
+      {
+        "ar": "زردة صحاب",
+        "tr": "zardat S7āb",
+        "en": "a friends' outing"
+      }
+    ]
+  },
+  {
+    "ar": "مناسبة",
+    "tr": "munāsba",
+    "en": "occasion; event",
+    "msa": "مناسبة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 2,
+    "usage": 58,
+    "ex_ar": "جبتلك هدية بمناسبة نجاحك.",
+    "ex_tr": "jibtilik hdiyya b-munāsbat najā7ik.",
+    "ex_en": "I brought you a gift on the occasion of your success.",
+    "note": "pl. مناسبات munāsbāt",
+    "phrases": [
+      {
+        "ar": "في المناسبات",
+        "tr": "fi l-munāsbāt",
+        "en": "on special occasions"
+      },
+      {
+        "ar": "بالمناسبة",
+        "tr": "bil-munāsba",
+        "en": "by the way"
+      }
+    ]
+  },
+  {
+    "ar": "هدية",
+    "tr": "hdiyya",
+    "en": "gift; present",
+    "msa": "هدية",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 2,
+    "usage": 64,
+    "ex_ar": "هذي هدية ليك.",
+    "ex_tr": "hādhi hdiyya līk.",
+    "ex_en": "This is a gift for you.",
+    "note": "pl. هدايا hdāya",
+    "phrases": [
+      {
+        "ar": "هدية عيد ميلاد",
+        "tr": "hdiyyat 3īd mīlād",
+        "en": "birthday present"
+      },
+      {
+        "ar": "ما تتعبش روحك بالهدايا",
+        "tr": "ma tit3absh rū7ik bil-hdāya",
+        "en": "don't trouble yourself with gifts"
+      }
+    ]
+  },
+  {
+    "ar": "زيارة",
+    "tr": "ziyāra",
+    "en": "visit",
+    "msa": "زيارة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 2,
+    "usage": 62,
+    "ex_ar": "جاونا زيارة البارح.",
+    "ex_tr": "jāwna ziyāra l-bār7a.",
+    "ex_en": "We had visitors yesterday.",
+    "note": "pl. زيارات ziyārāt",
+    "phrases": [
+      {
+        "ar": "زيارة المريض",
+        "tr": "ziyārat il-marīD",
+        "en": "visiting the sick"
+      },
+      {
+        "ar": "زيارة خفيفة",
+        "tr": "ziyāra khfīfa",
+        "en": "a short visit"
+      }
+    ]
+  },
+  {
+    "ar": "دعوة",
+    "tr": "da3wa",
+    "en": "invitation; prayer (said for someone)",
+    "msa": "دعوة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "شكرا على الدعوة.",
+    "ex_tr": "shukran 3la d-da3wa.",
+    "ex_en": "Thanks for the invitation.",
+    "note": "pl. دعوات da3wāt. دعوة أمي = my mother's blessing/prayer.",
+    "phrases": [
+      {
+        "ar": "دعوة عرس",
+        "tr": "da3wat 3ers",
+        "en": "a wedding invitation"
+      },
+      {
+        "ar": "دعوة الوالدين",
+        "tr": "da3wat il-wāldēn",
+        "en": "parents' prayers (blessing)"
+      }
+    ]
+  },
+  {
+    "ar": "تحية",
+    "tr": "ta7iyya",
+    "en": "greeting; regards",
+    "msa": "تحية",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "وصلني تحية من صاحبك.",
+    "ex_tr": "waSSalni ta7iyya min Sā7bik.",
+    "ex_en": "Pass on greetings from your friend to me.",
+    "note": "pl. تحيات ta7iyyāt",
+    "phrases": [
+      {
+        "ar": "تحياتي",
+        "tr": "ta7iyyāti",
+        "en": "my regards; best wishes"
+      },
+      {
+        "ar": "تحية للجميع",
+        "tr": "ta7iyya lil-jamī3",
+        "en": "greetings to everyone"
+      }
+    ]
+  },
+  {
+    "ar": "خطوبة",
+    "tr": "khuTūba",
+    "en": "engagement (to marry)",
+    "msa": "خطوبة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 52,
+    "ex_ar": "الخطوبة متاعهم الجمعة الجاية.",
+    "ex_tr": "il-khuTūba mtā3hum ij-jum3a j-jāya.",
+    "ex_en": "Their engagement is next week.",
+    "phrases": [
+      {
+        "ar": "حفلة الخطوبة",
+        "tr": "7aflat il-khuTūba",
+        "en": "engagement party"
+      },
+      {
+        "ar": "خاتم الخطوبة",
+        "tr": "khātim il-khuTūba",
+        "en": "engagement ring"
+      }
+    ]
+  },
+  {
+    "ar": "ملاك",
+    "tr": "mlāk",
+    "en": "marriage contract ceremony",
+    "msa": "عقد القران",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "الملاك يوم الخميس والعرس بعد شهر.",
+    "ex_tr": "il-mlāk yōm il-khmīs w-il-3ers ba3d shahr.",
+    "ex_en": "The marriage contract is Thursday and the wedding a month later.",
+    "note": "Libyan word for the signing of the marriage contract (عقد القران).",
+    "phrases": [
+      {
+        "ar": "كتبوا الملاك",
+        "tr": "katbu l-mlāk",
+        "en": "they signed the marriage contract"
+      },
+      {
+        "ar": "حفلة ملاك",
+        "tr": "7aflat mlāk",
+        "en": "contract-signing party"
+      }
+    ]
+  },
+  {
+    "ar": "مهر",
+    "tr": "mahr",
+    "en": "dowry; bride price",
+    "msa": "مهر",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "المهر غالي هالأيام.",
+    "ex_tr": "il-mahr ghāli ha-l-ayyām.",
+    "ex_en": "Dowries are expensive these days.",
+    "note": "pl. مهور mhūr",
+    "phrases": [
+      {
+        "ar": "قداش المهر؟",
+        "tr": "gaddāsh il-mahr?",
+        "en": "how much is the dowry?"
+      },
+      {
+        "ar": "مهر غالي",
+        "tr": "mahr ghāli",
+        "en": "an expensive dowry"
+      }
+    ]
+  },
+  {
+    "ar": "جهاز",
+    "tr": "jhāz",
+    "en": "bride's trousseau",
+    "msa": "جهاز",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "العروسة قاعدة تشري في الجهاز متاعها.",
+    "ex_tr": "il-3arūsa gā3da tishri fi j-jhāz mtā3ha.",
+    "ex_en": "The bride is buying her trousseau.",
+    "note": "Also 'device/appliance' in other contexts.",
+    "phrases": [
+      {
+        "ar": "جهاز العروسة",
+        "tr": "jhāz il-3arūsa",
+        "en": "the bride's trousseau"
+      },
+      {
+        "ar": "كمل الجهاز",
+        "tr": "kammal ij-jhāz",
+        "en": "the trousseau is complete"
+      }
+    ]
+  },
+  {
+    "ar": "حنة",
+    "tr": "7inna",
+    "en": "henna",
+    "msa": "حناء",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "دارت الحنة في يديها للعيد.",
+    "ex_tr": "dārat il-7inna fi īdēha lil-3īd.",
+    "ex_en": "She put henna on her hands for Eid.",
+    "phrases": [
+      {
+        "ar": "ليلة الحنة",
+        "tr": "lēlat il-7inna",
+        "en": "henna night (see deck)"
+      },
+      {
+        "ar": "نقش الحنة",
+        "tr": "nagsh il-7inna",
+        "en": "henna design"
+      }
+    ]
+  },
+  {
+    "ar": "زغرودة",
+    "tr": "zaghrūda",
+    "en": "ululation (joyful cry)",
+    "msa": "زغرودة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "العجايز طلقوا الزغاريد.",
+    "ex_tr": "il-3jāyiz Tallgu z-zghārīd.",
+    "ex_en": "The old ladies let out ululations.",
+    "note": "pl. زغاريد zghārīd",
+    "phrases": [
+      {
+        "ar": "زغرطت",
+        "tr": "zaghraTat",
+        "en": "she ululated"
+      },
+      {
+        "ar": "زغاريد العرس",
+        "tr": "zghārīd il-3ers",
+        "en": "wedding ululations"
+      }
+    ]
+  },
+  {
+    "ar": "تقاليد",
+    "tr": "tagālīd",
+    "en": "traditions",
+    "msa": "تقاليد",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "نحافظوا على تقاليدنا.",
+    "ex_tr": "n7āfDHu 3la tagālīdna.",
+    "ex_en": "We preserve our traditions.",
+    "note": "Plural; singular تقليد taglīd (also 'imitation').",
+    "phrases": [
+      {
+        "ar": "عادات وتقاليد",
+        "tr": "3ādāt w-tagālīd",
+        "en": "customs and traditions"
+      },
+      {
+        "ar": "تقاليد ليبية",
+        "tr": "tagālīd lībiyya",
+        "en": "Libyan traditions"
+      }
+    ]
+  },
+  {
+    "ar": "تراث",
+    "tr": "turāth",
+    "en": "heritage",
+    "msa": "تراث",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "المالوف جزء من تراثنا.",
+    "ex_tr": "il-mālūf juz' min turāthna.",
+    "ex_en": "Malouf is part of our heritage.",
+    "phrases": [
+      {
+        "ar": "التراث الشعبي",
+        "tr": "it-turāth ish-sha3bi",
+        "en": "folk heritage"
+      },
+      {
+        "ar": "حوش تراثي",
+        "tr": "7ōsh turāthi",
+        "en": "a traditional (heritage) house"
+      }
+    ]
+  },
+  {
+    "ar": "ثقافة",
+    "tr": "thagāfa",
+    "en": "culture",
+    "msa": "ثقافة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "الثقافة الليبية فيها خليط.",
+    "ex_tr": "ith-thagāfa l-lībiyya fīha khlīT.",
+    "ex_en": "Libyan culture is a mix.",
+    "note": "pl. ثقافات thagāfāt",
+    "phrases": [
+      {
+        "ar": "ثقافة عامة",
+        "tr": "thagāfa 3āmma",
+        "en": "general knowledge"
+      },
+      {
+        "ar": "وزارة الثقافة",
+        "tr": "wizārat ith-thagāfa",
+        "en": "Ministry of Culture"
+      }
+    ]
+  },
+  {
+    "ar": "لهجة",
+    "tr": "lahja",
+    "en": "dialect; accent",
+    "msa": "لهجة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "اللهجة الليبية فيها كلمات طليانية.",
+    "ex_tr": "il-lahja l-lībiyya fīha kilmāt Talyāniyya.",
+    "ex_en": "The Libyan dialect has Italian words.",
+    "note": "pl. لهجات lahjāt",
+    "phrases": [
+      {
+        "ar": "لهجة طرابلسية",
+        "tr": "lahja Trābulsiyya",
+        "en": "Tripoli accent"
+      },
+      {
+        "ar": "لهجة الشرق",
+        "tr": "lahjat ish-shark",
+        "en": "the eastern dialect"
+      }
+    ]
+  },
+  {
+    "ar": "مثل",
+    "tr": "mathal",
+    "en": "proverb; saying",
+    "msa": "مثل",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "كيف ما يقول المثل…",
+    "ex_tr": "kīf ma ygūl il-mathal…",
+    "ex_en": "As the proverb says…",
+    "note": "pl. أمثال amthāl. Not مثل mithl (like).",
+    "phrases": [
+      {
+        "ar": "مثل شعبي",
+        "tr": "mathal sha3bi",
+        "en": "a folk proverb"
+      },
+      {
+        "ar": "الأمثال الليبية",
+        "tr": "il-amthāl il-lībiyya",
+        "en": "Libyan proverbs"
+      }
+    ]
+  },
+  {
+    "ar": "نكتة",
+    "tr": "nukta",
+    "en": "joke",
+    "msa": "نكتة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 2,
+    "usage": 56,
+    "ex_ar": "حكالنا نكتة تضحك.",
+    "ex_tr": "7kālna nukta tiD7ik.",
+    "ex_en": "He told us a funny joke.",
+    "note": "pl. نكت nukat",
+    "phrases": [
+      {
+        "ar": "نكتة باهية",
+        "tr": "nukta bāhya",
+        "en": "a good joke"
+      },
+      {
+        "ar": "ما فهمتش النكتة",
+        "tr": "ma fhimtsh in-nukta",
+        "en": "I didn't get the joke"
+      }
+    ]
+  },
+  {
+    "ar": "حكمة",
+    "tr": "7ikma",
+    "en": "wisdom; wise saying",
+    "msa": "حكمة",
+    "pos": "noun",
+    "cat": "abstract",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "جدي عنده حكمة كبيرة.",
+    "ex_tr": "jiddi 3indah 7ikma kbīra.",
+    "ex_en": "My grandfather has great wisdom.",
+    "note": "pl. حكم 7ikam",
+    "phrases": [
+      {
+        "ar": "فيها حكمة",
+        "tr": "fīha 7ikma",
+        "en": "there's a wisdom in it"
+      },
+      {
+        "ar": "لحكمة ربي",
+        "tr": "li-7ikmat rabbi",
+        "en": "for God's own reasons"
+      }
+    ]
+  },
+  {
+    "ar": "شعر",
+    "tr": "shi3r",
+    "en": "poetry",
+    "msa": "شعر",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "يحب الشعر الشعبي.",
+    "ex_tr": "y7ibb ish-shi3r ish-sha3bi.",
+    "ex_en": "He loves folk poetry.",
+    "note": "Same spelling as شعر sha3r (hair).",
+    "phrases": [
+      {
+        "ar": "بيت شعر",
+        "tr": "bēt shi3r",
+        "en": "a line of poetry"
+      },
+      {
+        "ar": "شعر شعبي",
+        "tr": "shi3r sha3bi",
+        "en": "folk poetry"
+      }
+    ]
+  },
+  {
+    "ar": "شاعر",
+    "tr": "shā3ir",
+    "en": "poet",
+    "msa": "شاعر",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "خاله شاعر معروف.",
+    "ex_tr": "khālah shā3ir ma3rūf.",
+    "ex_en": "His uncle is a well-known poet.",
+    "note": "pl. شعرا shu3ara",
+    "phrases": [
+      {
+        "ar": "شاعر شعبي",
+        "tr": "shā3ir sha3bi",
+        "en": "a folk poet"
+      },
+      {
+        "ar": "شاعر وفنان",
+        "tr": "shā3ir w-fannān",
+        "en": "a poet and artist"
+      }
+    ]
+  },
+  {
+    "ar": "غناوة",
+    "tr": "ghnāwa",
+    "en": "ghnawa (short Libyan sung poem)",
+    "msa": "غناوة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 4,
+    "usage": 30,
+    "ex_ar": "قالها غناوة علم.",
+    "ex_tr": "gālha ghnāwat 3alam.",
+    "ex_en": "He said it as a ghnawat 3alam.",
+    "note": "Bedouin genre (غناوة العلم): a one-line sung poem of love or longing.",
+    "phrases": [
+      {
+        "ar": "غناوة العلم",
+        "tr": "ghnāwat il-3alam",
+        "en": "ghnawat al-alam genre"
+      },
+      {
+        "ar": "يحفظ غناوي هلبة",
+        "tr": "yi7fDH ghnāwi hallba",
+        "en": "he knows lots of ghnawa lines"
+      }
+    ]
+  },
+  {
+    "ar": "مرسكاوي",
+    "tr": "marskāwi",
+    "en": "marskawi (Libyan folk music style)",
+    "msa": "مرسكاوي",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 4,
+    "usage": 30,
+    "ex_ar": "في العرس حطوا مرسكاوي.",
+    "ex_tr": "fi l-3ers 7aTTu marskāwi.",
+    "ex_en": "At the wedding they played marskawi.",
+    "note": "Popular Libyan wedding music genre, originally from the east/south.",
+    "phrases": [
+      {
+        "ar": "أغاني مرسكاوي",
+        "tr": "aghāni marskāwi",
+        "en": "marskawi songs"
+      },
+      {
+        "ar": "فنان مرسكاوي",
+        "tr": "fannān marskāwi",
+        "en": "a marskawi singer"
+      }
+    ]
+  },
+  {
+    "ar": "فن",
+    "tr": "fann",
+    "en": "art",
+    "msa": "فن",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "يحب الفن والرسم.",
+    "ex_tr": "y7ibb il-fann w-ir-rasm.",
+    "ex_en": "He loves art and drawing.",
+    "note": "pl. فنون fnūn",
+    "phrases": [
+      {
+        "ar": "فن شعبي",
+        "tr": "fann sha3bi",
+        "en": "folk art"
+      },
+      {
+        "ar": "هذا فن!",
+        "tr": "hādha fann!",
+        "en": "that's an art!"
+      }
+    ]
+  },
+  {
+    "ar": "فنان",
+    "tr": "fannān",
+    "en": "artist; singer",
+    "msa": "فنان",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 50,
+    "ex_ar": "هو فنان معروف في ليبيا.",
+    "ex_tr": "hu fannān ma3rūf fi lībya.",
+    "ex_en": "He's a well-known artist in Libya.",
+    "note": "pl. فنانين fannānīn; in Libya often means a singer.",
+    "phrases": [
+      {
+        "ar": "فنان شعبي",
+        "tr": "fannān sha3bi",
+        "en": "a folk singer"
+      },
+      {
+        "ar": "يا فنان!",
+        "tr": "ya fannān!",
+        "en": "you artist! (praise)"
+      }
+    ]
+  },
+  {
+    "ar": "رسم",
+    "tr": "rasm",
+    "en": "drawing; painting (activity); fee",
+    "msa": "رسم",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "بنتي تحب الرسم.",
+    "ex_tr": "binti t7ibb ir-rasm.",
+    "ex_en": "My daughter loves drawing.",
+    "note": "pl. رسوم rsūm (also fees: رسوم التسجيل).",
+    "phrases": [
+      {
+        "ar": "كراس رسم",
+        "tr": "karrās rasm",
+        "en": "a sketchbook"
+      },
+      {
+        "ar": "رسوم الدراسة",
+        "tr": "rsūm id-dirāsa",
+        "en": "tuition fees"
+      }
+    ]
+  },
+  {
+    "ar": "لوحة",
+    "tr": "lō7a",
+    "en": "painting; picture; sign; plate",
+    "msa": "لوحة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "علقنا لوحة في الصالة.",
+    "ex_tr": "3allagna lō7a fi S-Sāla.",
+    "ex_en": "We hung a painting in the living room.",
+    "note": "pl. لوحات lō7āt. Also number plate (لوحة السيارة).",
+    "phrases": [
+      {
+        "ar": "لوحة زيتية",
+        "tr": "lō7a zētiyya",
+        "en": "an oil painting"
+      },
+      {
+        "ar": "لوحة الإعلانات",
+        "tr": "lō7at il-i3lānāt",
+        "en": "notice board"
+      }
+    ]
+  },
+  {
+    "ar": "مسرح",
+    "tr": "masra7",
+    "en": "theatre",
+    "msa": "مسرح",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "مشينا للمسرح نتفرجوا مسرحية.",
+    "ex_tr": "mshēna lil-masra7 nitfarraju masra7iyya.",
+    "ex_en": "We went to the theatre to see a play.",
+    "note": "pl. مسارح masāri7; a play is مسرحية masra7iyya.",
+    "phrases": [
+      {
+        "ar": "مسرح الكشاف",
+        "tr": "masra7 il-kashshāf",
+        "en": "the Scouts' theatre (Tripoli)"
+      },
+      {
+        "ar": "مسرحية مضحكة",
+        "tr": "masra7iyya muD7ika",
+        "en": "a funny play"
+      }
+    ]
+  },
+  {
+    "ar": "رقص",
+    "tr": "rugS",
+    "en": "dancing",
+    "msa": "رقص",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "في العرس فيه رقص لنص الليل.",
+    "ex_tr": "fi l-3ers fīh rugS l-nuSS il-lēl.",
+    "ex_en": "At the wedding there's dancing till midnight.",
+    "phrases": [
+      {
+        "ar": "رقص شعبي",
+        "tr": "rugS sha3bi",
+        "en": "folk dancing"
+      },
+      {
+        "ar": "رقص وغنا",
+        "tr": "rugS w-ghna",
+        "en": "dancing and singing"
+      }
+    ]
+  },
+  {
+    "ar": "طبل",
+    "tr": "Tabl",
+    "en": "drum",
+    "msa": "طبل",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "سمعت الطبل؟ فيه عرس.",
+    "ex_tr": "smi3t iT-Tabl? fīh 3ers.",
+    "ex_en": "Did you hear the drum? There's a wedding.",
+    "note": "pl. طبول Tbūl",
+    "phrases": [
+      {
+        "ar": "طبل وزكرة",
+        "tr": "Tabl w-zukra",
+        "en": "drum and bagpipe"
+      },
+      {
+        "ar": "ضرب الطبل",
+        "tr": "Darb iT-Tabl",
+        "en": "drumming"
+      }
+    ]
+  },
+  {
+    "ar": "دربوكة",
+    "tr": "darbūka",
+    "en": "darbuka (goblet drum)",
+    "msa": "دربوكة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 4,
+    "usage": 36,
+    "ex_ar": "يعرف يضرب على الدربوكة.",
+    "ex_tr": "ya3rif yuDrub 3la d-darbūka.",
+    "ex_en": "He knows how to play the darbuka.",
+    "phrases": [
+      {
+        "ar": "دربوكة وعود",
+        "tr": "darbūka w-3ūd",
+        "en": "darbuka and oud"
+      },
+      {
+        "ar": "سهرية بالدربوكة",
+        "tr": "sahriyya bid-darbūka",
+        "en": "an evening party with darbuka"
+      }
+    ]
+  },
+  {
+    "ar": "عود",
+    "tr": "3ūd",
+    "en": "oud (lute)",
+    "msa": "عود",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 4,
+    "usage": 38,
+    "ex_ar": "عمي يعزف على العود.",
+    "ex_tr": "3ammi ya3zif 3la l-3ūd.",
+    "ex_en": "My uncle plays the oud.",
+    "note": "pl. أعواد a3wād. Also 'stick' / 'agarwood incense'.",
+    "phrases": [
+      {
+        "ar": "عزف عود",
+        "tr": "3azf 3ūd",
+        "en": "oud playing"
+      },
+      {
+        "ar": "عود البخور",
+        "tr": "3ūd il-bkhūr",
+        "en": "agarwood (incense)"
+      }
+    ]
+  },
+  {
+    "ar": "فرقة",
+    "tr": "firga",
+    "en": "band; troupe; group",
+    "msa": "فرقة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "جابوا فرقة للعرس.",
+    "ex_tr": "jābu firga lil-3ers.",
+    "ex_en": "They brought a band for the wedding.",
+    "note": "pl. فرق firag",
+    "phrases": [
+      {
+        "ar": "فرقة شعبية",
+        "tr": "firga sha3biyya",
+        "en": "a folk troupe"
+      },
+      {
+        "ar": "فرقة المالوف",
+        "tr": "firgat il-mālūf",
+        "en": "the malouf ensemble"
+      }
+    ]
+  },
+  {
+    "ar": "مهرجان",
+    "tr": "mahrajān",
+    "en": "festival",
+    "msa": "مهرجان",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 4,
+    "usage": 40,
+    "ex_ar": "فيه مهرجان في المدينة القديمة.",
+    "ex_tr": "fīh mahrajān fi l-madīna l-gdīma.",
+    "ex_en": "There's a festival in the Old City.",
+    "note": "pl. مهرجانات mahrajānāt",
+    "phrases": [
+      {
+        "ar": "مهرجان غدامس",
+        "tr": "mahrajān ghadāmis",
+        "en": "the Ghadames festival"
+      },
+      {
+        "ar": "مهرجان صيفي",
+        "tr": "mahrajān Sēfi",
+        "en": "a summer festival"
+      }
+    ]
+  },
+  {
+    "ar": "معرض",
+    "tr": "ma3raD",
+    "en": "exhibition; fair; showroom",
+    "msa": "معرض",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 46,
+    "ex_ar": "مشينا لمعرض الكتاب.",
+    "ex_tr": "mshēna l-ma3raD il-ktāb.",
+    "ex_en": "We went to the book fair.",
+    "note": "pl. معارض ma3āriD",
+    "phrases": [
+      {
+        "ar": "معرض طرابلس الدولي",
+        "tr": "ma3raD Trābulus id-dawli",
+        "en": "the Tripoli International Fair"
+      },
+      {
+        "ar": "معرض سيارات",
+        "tr": "ma3raD sayyārāt",
+        "en": "a car showroom"
+      }
+    ]
+  },
+  {
+    "ar": "آثار",
+    "tr": "āthār",
+    "en": "ruins; antiquities; traces",
+    "msa": "آثار",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 3,
+    "usage": 44,
+    "ex_ar": "لبدة فيها آثار رومانية.",
+    "ex_tr": "libda fīha āthār rūmāniyya.",
+    "ex_en": "Leptis Magna has Roman ruins.",
+    "note": "Plural of أثر athar (trace, effect).",
+    "phrases": [
+      {
+        "ar": "آثار صبراتة",
+        "tr": "āthār Sabrāta",
+        "en": "the ruins of Sabratha"
+      },
+      {
+        "ar": "مصلحة الآثار",
+        "tr": "maSla7at il-āthār",
+        "en": "the Antiquities Department"
+      }
+    ]
+  },
+  {
+    "ar": "حضارة",
+    "tr": "7aDāra",
+    "en": "civilization",
+    "msa": "حضارة",
+    "pos": "noun",
+    "cat": "culture",
+    "freq": 4,
+    "usage": 36,
+    "ex_ar": "ليبيا فيها حضارات قديمة.",
+    "ex_tr": "lībya fīha 7aDārāt gdīma.",
+    "ex_en": "Libya has ancient civilizations.",
+    "note": "pl. حضارات 7aDārāt",
+    "phrases": [
+      {
+        "ar": "حضارة قديمة",
+        "tr": "7aDāra gdīma",
+        "en": "an ancient civilization"
+      },
+      {
+        "ar": "حضارة الإغريق",
+        "tr": "7aDārat il-ighrīg",
+        "en": "Greek civilization"
+      }
+    ]
   }
 ]
