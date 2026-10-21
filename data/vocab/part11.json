@@ -4972,5 +4972,1722 @@
     "en": "untie the bundle"
    }
   ]
+ },
+ {
+  "ar": "باب الحوش",
+  "tr": "bāb il-7ōsh",
+  "en": "front door (of the house)",
+  "msa": "باب المنزل",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 2,
+  "usage": 58,
+  "ex_ar": "سكّر باب الحوش وانت طالع.",
+  "ex_tr": "sakkir bāb il-7ōsh w inta Tāli3.",
+  "ex_en": "Shut the front door when you go out.",
+  "note": "the main door to the street",
+  "phrases": [
+   {
+    "ar": "حد يدق في باب الحوش",
+    "tr": "7add yidugg fi bāb il-7ōsh",
+    "en": "someone's knocking at the front door"
+   },
+   {
+    "ar": "مفتاح باب الحوش",
+    "tr": "mufta7 bāb il-7ōsh",
+    "en": "the front-door key"
+   }
+  ]
+ },
+ {
+  "ar": "بيت الصغار",
+  "tr": "bēt iS-Sghār",
+  "en": "children's room; kids' bedroom",
+  "msa": "غرفة الأطفال",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "اللعب كلها في بيت الصغار.",
+  "ex_tr": "il-li3ab kullha fi bēt iS-Sghār.",
+  "ex_en": "All the toys are in the kids' room.",
+  "phrases": [
+   {
+    "ar": "رتّب بيت الصغار",
+    "tr": "rattib bēt iS-Sghār",
+    "en": "tidy the kids' room"
+   },
+   {
+    "ar": "دهنّا بيت الصغار أزرق",
+    "tr": "dhanna bēt iS-Sghār azrag",
+    "en": "we painted the kids' room blue"
+   }
+  ]
+ },
+ {
+  "ar": "بيت الغسيل",
+  "tr": "bēt il-ghsīl",
+  "en": "laundry room; utility room",
+  "msa": "غرفة الغسيل",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الغسالة في بيت الغسيل.",
+  "ex_tr": "il-ghassāla fi bēt il-ghsīl.",
+  "ex_en": "The washing machine is in the laundry room.",
+  "phrases": [
+   {
+    "ar": "بيت الغسيل جنب الكوزينة",
+    "tr": "bēt il-ghsīl jamb il-kūzīna",
+    "en": "the laundry room is next to the kitchen"
+   },
+   {
+    "ar": "حط الحوايج الوسخة في بيت الغسيل",
+    "tr": "7uTT il-7wāyij il-wiskha fi bēt il-ghsīl",
+    "en": "put the dirty clothes in the laundry room"
+   }
+  ]
+ },
+ {
+  "ar": "بيت الخزين",
+  "tr": "bēt il-khzīn",
+  "en": "pantry; storeroom for provisions",
+  "msa": "غرفة المؤونة",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "الدقيق والزيت في بيت الخزين.",
+  "ex_tr": "id-dgīg w iz-zēt fi bēt il-khzīn.",
+  "ex_en": "The flour and oil are in the pantry.",
+  "note": "خزين = stored provisions (oil, flour, couscous…)",
+  "phrases": [
+   {
+    "ar": "بيت الخزين مليان",
+    "tr": "bēt il-khzīn malyān",
+    "en": "the pantry is full"
+   },
+   {
+    "ar": "رتّبنا بيت الخزين",
+    "tr": "rattabna bēt il-khzīn",
+    "en": "we organised the pantry"
+   }
+  ]
+ },
+ {
+  "ar": "سرداب",
+  "tr": "sirdāb",
+  "en": "basement; cellar",
+  "msa": "قبو",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "الحوش فيه سرداب تحت.",
+  "ex_tr": "il-7ōsh fīh sirdāb ta7t.",
+  "ex_en": "The house has a basement underneath.",
+  "note": "pl. سراديب sarādīb",
+  "phrases": [
+   {
+    "ar": "نزل للسرداب",
+    "tr": "nzil lis-sirdāb",
+    "en": "go down to the cellar"
+   },
+   {
+    "ar": "سرداب رطب",
+    "tr": "sirdāb raTib",
+    "en": "a damp cellar"
+   }
+  ]
+ },
+ {
+  "ar": "فتحة",
+  "tr": "fat7a",
+  "en": "opening; hole; vent",
+  "msa": "فتحة",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "سكّر الفتحة اللي في السقف.",
+  "ex_tr": "sakkir il-fat7a illi fis-sagf.",
+  "ex_en": "Close up the opening in the ceiling.",
+  "note": "pl. فتحات fat7āt",
+  "phrases": [
+   {
+    "ar": "فتحة تهوية",
+    "tr": "fat7at tahwiya",
+    "en": "an air vent"
+   },
+   {
+    "ar": "فتحة صغيرة",
+    "tr": "fat7a Sghīra",
+    "en": "a small opening"
+   }
+  ]
+ },
+ {
+  "ar": "قوس",
+  "tr": "gōs",
+  "en": "arch; archway",
+  "msa": "قوس",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "الصالة فيها قوس كبير.",
+  "ex_tr": "iS-Sāla fīha gōs kbīr.",
+  "ex_en": "The living room has a big arch.",
+  "note": "pl. أقواس agwās; also a bow",
+  "phrases": [
+   {
+    "ar": "قوس الباب",
+    "tr": "gōs il-bāb",
+    "en": "the door arch"
+   },
+   {
+    "ar": "أقواس المدينة القديمة",
+    "tr": "agwās il-mdīna il-gdīma",
+    "en": "the arches of the old city"
+   }
+  ]
+ },
+ {
+  "ar": "قبّة",
+  "tr": "gubba",
+  "en": "dome; cupola",
+  "msa": "قبة",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "الجامع عنده قبّة خضرا.",
+  "ex_tr": "ij-jāmi3 3indah gubba khaDra.",
+  "ex_en": "The mosque has a green dome.",
+  "note": "pl. قباب gbāb",
+  "phrases": [
+   {
+    "ar": "قبّة الحمّام القديم",
+    "tr": "gubbat il-7ammām il-gdīm",
+    "en": "the old bathhouse dome"
+   },
+   {
+    "ar": "تحت القبّة",
+    "tr": "ta7t il-gubba",
+    "en": "under the dome"
+   }
+  ]
+ },
+ {
+  "ar": "واجهة",
+  "tr": "wājha",
+  "en": "façade; front (of a building)",
+  "msa": "واجهة",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "دهنّا الواجهة أبيض.",
+  "ex_tr": "dhanna il-wājha abyaD.",
+  "ex_en": "We painted the front of the house white.",
+  "note": "pl. واجهات wājhāt",
+  "phrases": [
+   {
+    "ar": "واجهة حجر",
+    "tr": "wājhat 7ajar",
+    "en": "a stone façade"
+   },
+   {
+    "ar": "واجهة العمارة",
+    "tr": "wājhat il-3mara",
+    "en": "the building front"
+   }
+  ]
+ },
+ {
+  "ar": "باب سحّاب",
+  "tr": "bāb sa77āb",
+  "en": "sliding door",
+  "msa": "باب منزلق",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "البلكونة عندها باب سحّاب.",
+  "ex_tr": "il-balkōna 3indha bāb sa77āb.",
+  "ex_en": "The balcony has a sliding door.",
+  "note": "pl. بيبان سحّابة",
+  "phrases": [
+   {
+    "ar": "باب سحّاب ألمنيوم",
+    "tr": "bāb sa77āb alumanyōm",
+    "en": "an aluminium sliding door"
+   },
+   {
+    "ar": "افتح الباب السحّاب",
+    "tr": "ifta7 il-bāb is-sa77āb",
+    "en": "open the sliding door"
+   }
+  ]
+ },
+ {
+  "ar": "مظلّة",
+  "tr": "maDHalla",
+  "en": "canopy; carport shade",
+  "msa": "مظلة",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "حط السيارة تحت المظلّة.",
+  "ex_tr": "7uTT is-sayyāra ta7t il-maDHalla.",
+  "ex_en": "Put the car under the shade.",
+  "note": "pl. مظلّات; many houses have a shade for the car in front",
+  "phrases": [
+   {
+    "ar": "مظلّة سيارات",
+    "tr": "maDHallat sayyārāt",
+    "en": "a carport"
+   },
+   {
+    "ar": "مظلّة قماش",
+    "tr": "maDHalla gmāsh",
+    "en": "a fabric canopy"
+   }
+  ]
+ },
+ {
+  "ar": "مخطّط",
+  "tr": "mukhaTTaT",
+  "en": "house plan; blueprint; layout",
+  "msa": "مخطط",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "المهندس عطانا مخطّط الحوش.",
+  "ex_tr": "il-mhandis 3Tāna mukhaTTaT il-7ōsh.",
+  "ex_en": "The engineer gave us the house plan.",
+  "note": "pl. مخطّطات",
+  "phrases": [
+   {
+    "ar": "مخطّط البنا",
+    "tr": "mukhaTTaT il-bina",
+    "en": "the building plan"
+   },
+   {
+    "ar": "غيّرنا المخطّط",
+    "tr": "ghayyarna il-mukhaTTaT",
+    "en": "we changed the plan"
+   }
+  ]
+ },
+ {
+  "ar": "شغل الحوش",
+  "tr": "shughl il-7ōsh",
+  "en": "housework; household chores",
+  "msa": "أعمال المنزل",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 2,
+  "usage": 58,
+  "ex_ar": "شغل الحوش ما يكملش.",
+  "ex_tr": "shughl il-7ōsh ma ykammilsh.",
+  "ex_en": "Housework never ends.",
+  "phrases": [
+   {
+    "ar": "نعاون في شغل الحوش",
+    "tr": "n3āwin fi shughl il-7ōsh",
+    "en": "I help with the housework"
+   },
+   {
+    "ar": "تعبت من شغل الحوش",
+    "tr": "t3abt min shughl il-7ōsh",
+    "en": "I'm tired from the housework"
+   }
+  ]
+ },
+ {
+  "ar": "تركيب",
+  "tr": "tarkīb",
+  "en": "installation; fitting",
+  "msa": "تركيب",
+  "pos": "noun",
+  "cat": "tools",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "التركيب مجاني مع المكيف.",
+  "ex_tr": "it-tarkīb majjāni ma3 il-mkayyif.",
+  "ex_en": "Installation is free with the AC.",
+  "phrases": [
+   {
+    "ar": "تركيب ستاير",
+    "tr": "tarkīb stāyir",
+    "en": "curtain fitting"
+   },
+   {
+    "ar": "تركيب الدش",
+    "tr": "tarkīb id-dish",
+    "en": "installing the satellite dish"
+   }
+  ]
+ },
+ {
+  "ar": "سباكة",
+  "tr": "sibāka",
+  "en": "plumbing",
+  "msa": "سباكة",
+  "pos": "noun",
+  "cat": "tools",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "الحوش يبي سباكة جديدة.",
+  "ex_tr": "il-7ōsh yibbi sibāka jdīda.",
+  "ex_en": "The house needs new plumbing.",
+  "phrases": [
+   {
+    "ar": "شغل سباكة",
+    "tr": "shughl sibāka",
+    "en": "plumbing work"
+   },
+   {
+    "ar": "مواد سباكة",
+    "tr": "mawādd sibāka",
+    "en": "plumbing supplies"
+   }
+  ]
+ },
+ {
+  "ar": "نجارة",
+  "tr": "njāra",
+  "en": "carpentry; woodwork",
+  "msa": "نجارة",
+  "pos": "noun",
+  "cat": "tools",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "نجارة البيبان خدمة نظيفة.",
+  "ex_tr": "njārat il-bībān khidma nDHīfa.",
+  "ex_en": "The carpentry on the doors is neat work.",
+  "phrases": [
+   {
+    "ar": "ورشة نجارة",
+    "tr": "warshat njāra",
+    "en": "a carpentry workshop"
+   },
+   {
+    "ar": "عدّة النجارة",
+    "tr": "3iddat in-njāra",
+    "en": "carpentry tools"
+   }
+  ]
+ },
+ {
+  "ar": "تمديدات",
+  "tr": "tamdīdāt",
+  "en": "wiring; pipework (installed runs)",
+  "msa": "تمديدات",
+  "pos": "noun",
+  "cat": "tools",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "التمديدات قديمة ولازم تتبدل.",
+  "ex_tr": "it-tamdīdāt gdīma w lāzim titbaddal.",
+  "ex_en": "The wiring is old and has to be replaced.",
+  "note": "تمديدات كهربا = wiring, تمديدات مية = pipework",
+  "phrases": [
+   {
+    "ar": "تمديدات كهربا",
+    "tr": "tamdīdāt kahraba",
+    "en": "electrical wiring"
+   },
+   {
+    "ar": "تمديدات مية",
+    "tr": "tamdīdāt mayya",
+    "en": "water pipework"
+   }
+  ]
+ },
+ {
+  "ar": "تبليط",
+  "tr": "tablīT",
+  "en": "tiling (the work)",
+  "msa": "تبليط",
+  "pos": "noun",
+  "cat": "tools",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "التبليط خلص في الصالة.",
+  "ex_tr": "it-tablīT khlaS fiS-Sāla.",
+  "ex_en": "The tiling is finished in the living room.",
+  "phrases": [
+   {
+    "ar": "تبليط الحمّام",
+    "tr": "tablīT il-7ammām",
+    "en": "tiling the bathroom"
+   },
+   {
+    "ar": "قداش متر التبليط؟",
+    "tr": "gaddāsh mitr it-tablīT?",
+    "en": "How much per metre for tiling?"
+   }
+  ]
+ },
+ {
+  "ar": "ترميم",
+  "tr": "tarmīm",
+  "en": "renovation; restoration",
+  "msa": "ترميم",
+  "pos": "noun",
+  "cat": "tools",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "الحوش العربي يبي ترميم.",
+  "ex_tr": "il-7ōsh il-3arbi yibbi tarmīm.",
+  "ex_en": "The old house needs renovating.",
+  "phrases": [
+   {
+    "ar": "ترميم المدينة القديمة",
+    "tr": "tarmīm il-mdīna il-gdīma",
+    "en": "restoring the old city"
+   },
+   {
+    "ar": "تحت الترميم",
+    "tr": "ta7t it-tarmīm",
+    "en": "under renovation"
+   }
+  ]
+ },
+ {
+  "ar": "توسعة",
+  "tr": "tawsi3a",
+  "en": "extension (to a house)",
+  "msa": "توسعة",
+  "pos": "noun",
+  "cat": "tools",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "درنا توسعة للكوزينة.",
+  "ex_tr": "dirna tawsi3a lil-kūzīna.",
+  "ex_en": "We built an extension to the kitchen.",
+  "phrases": [
+   {
+    "ar": "توسعة الحوش",
+    "tr": "tawsi3at il-7ōsh",
+    "en": "extending the house"
+   },
+   {
+    "ar": "توسعة فوق السطح",
+    "tr": "tawsi3a fōg is-sTa7",
+    "en": "a rooftop extension"
+   }
+  ]
+ },
+ {
+  "ar": "عزل",
+  "tr": "3azl",
+  "en": "waterproofing; insulation",
+  "msa": "عزل",
+  "pos": "noun",
+  "cat": "tools",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "السطح يبي عزل قبل الشتا.",
+  "ex_tr": "is-sTa7 yibbi 3azl gabl ish-shta.",
+  "ex_en": "The roof needs waterproofing before the rains.",
+  "note": "in Libya mostly roof waterproofing before winter",
+  "phrases": [
+   {
+    "ar": "عزل السطح",
+    "tr": "3azl is-sTa7",
+    "en": "roof waterproofing"
+   },
+   {
+    "ar": "عزل حراري",
+    "tr": "3azl 7arāri",
+    "en": "thermal insulation"
+   }
+  ]
+ },
+ {
+  "ar": "حديد تسليح",
+  "tr": "7dīd taslī7",
+  "en": "rebar; reinforcing steel",
+  "msa": "حديد تسليح",
+  "pos": "noun",
+  "cat": "tools",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "سوم حديد التسليح غالي.",
+  "ex_tr": "sōm 7dīd it-taslī7 ghāli.",
+  "ex_en": "Rebar is expensive.",
+  "phrases": [
+   {
+    "ar": "حديد تسليح ١٢",
+    "tr": "7dīd taslī7 itnāsh",
+    "en": "12 mm rebar"
+   },
+   {
+    "ar": "ربط حديد التسليح",
+    "tr": "rabT 7dīd it-taslī7",
+    "en": "tying the rebar"
+   }
+  ]
+ },
+ {
+  "ar": "موزاييك",
+  "tr": "mozāyik",
+  "en": "terrazzo; mosaic tiles",
+  "msa": "فسيفساء",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "الأرضية القديمة موزاييك.",
+  "ex_tr": "il-arDiyya il-gdīma mozāyik.",
+  "ex_en": "The old floor is terrazzo.",
+  "note": "old Libyan floors are often terrazzo",
+  "phrases": [
+   {
+    "ar": "بلاط موزاييك",
+    "tr": "blāT mozāyik",
+    "en": "terrazzo tiles"
+   },
+   {
+    "ar": "موزاييك ملوّن",
+    "tr": "mozāyik mlawwan",
+    "en": "coloured mosaic"
+   }
+  ]
+ },
+ {
+  "ar": "ورنيش",
+  "tr": "warnīsh",
+  "en": "varnish",
+  "msa": "ورنيش",
+  "pos": "noun",
+  "cat": "tools",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "عدّي ورنيش على الباب الخشب.",
+  "ex_tr": "3addi warnīsh 3al-bāb il-khashab.",
+  "ex_en": "Put a coat of varnish on the wooden door.",
+  "phrases": [
+   {
+    "ar": "ورنيش لمّاع",
+    "tr": "warnīsh lammā3",
+    "en": "gloss varnish"
+   },
+   {
+    "ar": "ريحة الورنيش",
+    "tr": "rī7t il-warnīsh",
+    "en": "the smell of varnish"
+   }
+  ]
+ },
+ {
+  "ar": "سيليكون",
+  "tr": "silīkōn",
+  "en": "silicone sealant",
+  "msa": "سيليكون",
+  "pos": "noun",
+  "cat": "tools",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "سكّر الفراغ بالسيليكون.",
+  "ex_tr": "sakkir il-fragh bis-silīkōn.",
+  "ex_en": "Seal the gap with silicone.",
+  "phrases": [
+   {
+    "ar": "سيليكون أبيض",
+    "tr": "silīkōn abyaD",
+    "en": "white silicone"
+   },
+   {
+    "ar": "سيليكون الحمّام",
+    "tr": "silīkōn il-7ammām",
+    "en": "bathroom sealant"
+   }
+  ]
+ },
+ {
+  "ar": "معجون",
+  "tr": "ma3jūn",
+  "en": "wall filler; putty",
+  "msa": "معجون",
+  "pos": "noun",
+  "cat": "tools",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "سكّر الشقوق بالمعجون قبل الدهان.",
+  "ex_tr": "sakkir ish-shgūg bil-ma3jūn gabl id-dhān.",
+  "ex_en": "Fill the cracks with filler before painting.",
+  "note": "also toothpaste",
+  "phrases": [
+   {
+    "ar": "معجون حيوط",
+    "tr": "ma3jūn 7yūT",
+    "en": "wall filler"
+   },
+   {
+    "ar": "معجون قزاز",
+    "tr": "ma3jūn gzāz",
+    "en": "glazing putty"
+   }
+  ]
+ },
+ {
+  "ar": "تكييف",
+  "tr": "takyīf",
+  "en": "air conditioning",
+  "msa": "تكييف",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "الحوش فيه تكييف في كل بيت.",
+  "ex_tr": "il-7ōsh fīh takyīf fi kull bēt.",
+  "ex_en": "The house has air conditioning in every room.",
+  "phrases": [
+   {
+    "ar": "تكييف مركزي",
+    "tr": "takyīf markazi",
+    "en": "central air conditioning"
+   },
+   {
+    "ar": "التكييف طافي",
+    "tr": "it-takyīf Tāfi",
+    "en": "the AC is off"
+   }
+  ]
+ },
+ {
+  "ar": "تدفئة",
+  "tr": "tadfi'a",
+  "en": "heating",
+  "msa": "تدفئة",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "ما عندناش تدفئة، نستعملوا الدفّاية.",
+  "ex_tr": "ma 3indnāsh tadfi'a, nista3mlu id-daffāya.",
+  "ex_en": "We don't have heating, we use the heater.",
+  "phrases": [
+   {
+    "ar": "تدفئة مركزية",
+    "tr": "tadfi'a markaziyya",
+    "en": "central heating"
+   },
+   {
+    "ar": "تدفئة أرضية",
+    "tr": "tadfi'a arDiyya",
+    "en": "underfloor heating"
+   }
+  ]
+ },
+ {
+  "ar": "إضاءة",
+  "tr": "iDā'a",
+  "en": "lighting",
+  "msa": "إضاءة",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "الإضاءة في الصالة ضعيفة.",
+  "ex_tr": "il-iDā'a fiS-Sāla Da3īfa.",
+  "ex_en": "The lighting in the living room is weak.",
+  "phrases": [
+   {
+    "ar": "إضاءة مخفية",
+    "tr": "iDā'a makhfiyya",
+    "en": "hidden lighting"
+   },
+   {
+    "ar": "إضاءة الجنان",
+    "tr": "iDā'at ij-jnān",
+    "en": "garden lighting"
+   }
+  ]
+ },
+ {
+  "ar": "تهوية",
+  "tr": "tahwiya",
+  "en": "ventilation",
+  "msa": "تهوية",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الحمّام ما فيه تهوية.",
+  "ex_tr": "il-7ammām ma fīh tahwiya.",
+  "ex_en": "The bathroom has no ventilation.",
+  "phrases": [
+   {
+    "ar": "تهوية باهية",
+    "tr": "tahwiya bāhya",
+    "en": "good ventilation"
+   },
+   {
+    "ar": "فتحة تهوية",
+    "tr": "fat7at tahwiya",
+    "en": "an air vent"
+   }
+  ]
+ },
+ {
+  "ar": "شبكة المية",
+  "tr": "shabkat il-mayya",
+  "en": "water mains; water network",
+  "msa": "شبكة المياه",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "الحومة الجديدة ما وصلتهاش شبكة المية.",
+  "ex_tr": "il-7ōma il-jdīda ma waSlat-hāsh shabkat il-mayya.",
+  "ex_en": "The water mains haven't reached the new neighbourhood.",
+  "phrases": [
+   {
+    "ar": "مربوط على شبكة المية",
+    "tr": "marbūT 3la shabkat il-mayya",
+    "en": "connected to the mains"
+   },
+   {
+    "ar": "عطل في شبكة المية",
+    "tr": "3uTl fi shabkat il-mayya",
+    "en": "a fault in the water network"
+   }
+  ]
+ },
+ {
+  "ar": "صهريج",
+  "tr": "Sahrīj",
+  "en": "water tanker; water tank lorry",
+  "msa": "صهريج",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "طلبنا صهريج مية للخزان.",
+  "ex_tr": "Tlabna Sahrīj mayya lil-khazzān.",
+  "ex_en": "We ordered a water tanker for the tank.",
+  "note": "pl. صهاريج Sahārīj; ordered to fill the house tank when mains water is off",
+  "phrases": [
+   {
+    "ar": "صهريج مية",
+    "tr": "Sahrīj mayya",
+    "en": "a water tanker"
+   },
+   {
+    "ar": "قداش الصهريج؟",
+    "tr": "gaddāsh iS-Sahrīj?",
+    "en": "How much is a tanker load?"
+   }
+  ]
+ },
+ {
+  "ar": "منظّم",
+  "tr": "munaDHDHim",
+  "en": "voltage stabiliser",
+  "msa": "منظم جهد",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "الثلاجة على منظّم.",
+  "ex_tr": "ith-thallāja 3la munaDHDHim.",
+  "ex_en": "The fridge is on a stabiliser.",
+  "note": "pl. منظّمات; used to protect the fridge and TV from power surges",
+  "phrases": [
+   {
+    "ar": "منظّم كهربا",
+    "tr": "munaDHDHim kahraba",
+    "en": "a voltage regulator"
+   },
+   {
+    "ar": "المنظّم يحمي التلفزيون",
+    "tr": "il-munaDHDHim y7mi it-tilifizyōn",
+    "en": "the stabiliser protects the TV"
+   }
+  ]
+ },
+ {
+  "ar": "إنذار",
+  "tr": "indhār",
+  "en": "alarm (burglar or fire)",
+  "msa": "إنذار",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "ركّبنا جهاز إنذار في الحوش.",
+  "ex_tr": "rakkabna jhāz indhār fil-7ōsh.",
+  "ex_en": "We installed an alarm in the house.",
+  "note": "pl. إنذارات",
+  "phrases": [
+   {
+    "ar": "إنذار حريق",
+    "tr": "indhār 7arīg",
+    "en": "fire alarm"
+   },
+   {
+    "ar": "الإنذار ضرب في الليل",
+    "tr": "il-indhār Darab fil-lēl",
+    "en": "the alarm went off in the night"
+   }
+  ]
+ },
+ {
+  "ar": "تحويلة",
+  "tr": "ta7wīla",
+  "en": "plug adaptor",
+  "msa": "محول قابس",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الفيشة هذي تبي تحويلة.",
+  "ex_tr": "il-fīsha hādhi tibbi ta7wīla.",
+  "ex_en": "This plug needs an adaptor.",
+  "note": "pl. تحويلات",
+  "phrases": [
+   {
+    "ar": "تحويلة ثلاثية",
+    "tr": "ta7wīla thlāthiyya",
+    "en": "a three-way adaptor"
+   },
+   {
+    "ar": "تحويلة سفر",
+    "tr": "ta7wīlat safar",
+    "en": "a travel adaptor"
+   }
+  ]
+ },
+ {
+  "ar": "لمبة شحن",
+  "tr": "lambat sha7n",
+  "en": "rechargeable lamp; emergency light",
+  "msa": "مصباح قابل للشحن",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 3,
+  "usage": 42,
+  "ex_ar": "شعّل لمبة الشحن، الضي طفى.",
+  "ex_tr": "sha33il lambat ish-sha7n, iD-Dayy Tfa.",
+  "ex_en": "Turn on the rechargeable lamp, the power went off.",
+  "note": "a must-have in Libyan homes for power cuts",
+  "phrases": [
+   {
+    "ar": "لمبة شحن جديدة",
+    "tr": "lamba sha7n jdīda",
+    "en": "a new rechargeable lamp"
+   },
+   {
+    "ar": "اشحن لمبة الشحن",
+    "tr": "ish7an lambat ish-sha7n",
+    "en": "charge the rechargeable lamp"
+   }
+  ]
+ },
+ {
+  "ar": "مروحة سقف",
+  "tr": "marwa7at sagf",
+  "en": "ceiling fan",
+  "msa": "مروحة سقف",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "شغّل مروحة السقف، الدنيا سخانة.",
+  "ex_tr": "shaghghil marwa7at is-sagf, id-dinya skhāna.",
+  "ex_en": "Turn on the ceiling fan, it's hot.",
+  "note": "pl. مراوح سقف",
+  "phrases": [
+   {
+    "ar": "مروحة سقف بضو",
+    "tr": "marwa7at sagf b-Daw",
+    "en": "a ceiling fan with a light"
+   },
+   {
+    "ar": "المروحة تدور بشوية",
+    "tr": "il-marwa7a tdūr bishwayya",
+    "en": "the fan turns slowly"
+   }
+  ]
+ },
+ {
+  "ar": "ساعة حيط",
+  "tr": "sā3at 7ēT",
+  "en": "wall clock",
+  "msa": "ساعة حائط",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "ساعة الحيط واقفة، بدّل الحجرة.",
+  "ex_tr": "sā3at il-7ēT wāgfa, baddil il-7ajra.",
+  "ex_en": "The wall clock has stopped, change the battery.",
+  "note": "pl. سوايع حيط",
+  "phrases": [
+   {
+    "ar": "ساعة حيط كبيرة",
+    "tr": "sā3at 7ēT kbīra",
+    "en": "a big wall clock"
+   },
+   {
+    "ar": "علّق ساعة الحيط",
+    "tr": "3allig sā3at il-7ēT",
+    "en": "hang the wall clock"
+   }
+  ]
+ },
+ {
+  "ar": "قنديل",
+  "tr": "gandīl",
+  "en": "oil lamp",
+  "msa": "قنديل",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "كانوا يشعّلوا القنديل بالزيت.",
+  "ex_tr": "kānu ysha33lu il-gandīl biz-zēt.",
+  "ex_en": "They used to light the oil lamp with oil.",
+  "note": "pl. قناديل gnādīl",
+  "phrases": [
+   {
+    "ar": "قنديل نحاس",
+    "tr": "gandīl n7ās",
+    "en": "a brass oil lamp"
+   },
+   {
+    "ar": "ضو القنديل",
+    "tr": "Daw il-gandīl",
+    "en": "the lamplight"
+   }
+  ]
+ },
+ {
+  "ar": "كنبة سرير",
+  "tr": "kanabat srīr",
+  "en": "sofa bed",
+  "msa": "أريكة سرير",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "فرشنا الكنبة السرير للضيف.",
+  "ex_tr": "farashna il-kanaba is-srīr liD-Dēf.",
+  "ex_en": "We pulled out the sofa bed for the guest.",
+  "phrases": [
+   {
+    "ar": "كنبة سرير تتفتح",
+    "tr": "kanabat srīr titfta7",
+    "en": "a pull-out sofa bed"
+   },
+   {
+    "ar": "راقد على الكنبة السرير",
+    "tr": "rāgid 3al-kanaba is-srīr",
+    "en": "sleeping on the sofa bed"
+   }
+  ]
+ },
+ {
+  "ar": "درج",
+  "tr": "durj",
+  "en": "drawer",
+  "msa": "درج",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "المقص في الدرج اللي تحت.",
+  "ex_tr": "il-mgaSS fid-durj illi ta7t.",
+  "ex_en": "The scissors are in the bottom drawer.",
+  "note": "pl. أدراج adrāj; Libyans also say كاشيتو",
+  "phrases": [
+   {
+    "ar": "درج المكتب",
+    "tr": "durj il-maktab",
+    "en": "the desk drawer"
+   },
+   {
+    "ar": "سكّر الدرج",
+    "tr": "sakkir id-durj",
+    "en": "close the drawer"
+   }
+  ]
+ },
+ {
+  "ar": "إطار",
+  "tr": "iTār",
+  "en": "frame (picture or window)",
+  "msa": "إطار",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "حطّيت صورة العرس في إطار.",
+  "ex_tr": "7aTTēt Sūrt il-3ers fi iTār.",
+  "ex_en": "I put the wedding photo in a frame.",
+  "note": "pl. إطارات iTārāt; also a tyre",
+  "phrases": [
+   {
+    "ar": "إطار صورة",
+    "tr": "iTār Sūra",
+    "en": "a picture frame"
+   },
+   {
+    "ar": "إطار ذهبي",
+    "tr": "iTār dhahabi",
+    "en": "a gold frame"
+   }
+  ]
+ },
+ {
+  "ar": "ورد صناعي",
+  "tr": "ward Snā3i",
+  "en": "artificial flowers",
+  "msa": "زهور صناعية",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "حطّت ورد صناعي في المزهرية.",
+  "ex_tr": "7aTTat ward Snā3i fil-maz-hariyya.",
+  "ex_en": "She put artificial flowers in the vase.",
+  "phrases": [
+   {
+    "ar": "ورد صناعي ما يذبلش",
+    "tr": "ward Snā3i ma yidhbalsh",
+    "en": "artificial flowers don't wilt"
+   },
+   {
+    "ar": "باقة ورد صناعي",
+    "tr": "bāgat ward Snā3i",
+    "en": "a bunch of artificial flowers"
+   }
+  ]
+ },
+ {
+  "ar": "رخامة",
+  "tr": "rkhāma",
+  "en": "countertop; marble slab",
+  "msa": "لوح رخام",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "حط الصينية على الرخامة.",
+  "ex_tr": "7uTT iS-Sīniyya 3ar-rkhāma.",
+  "ex_en": "Put the tray on the counter.",
+  "note": "pl. رخامات",
+  "phrases": [
+   {
+    "ar": "رخامة الكوزينة",
+    "tr": "rkhāmat il-kūzīna",
+    "en": "the kitchen countertop"
+   },
+   {
+    "ar": "رخامة جرانيت",
+    "tr": "rkhāma granīt",
+    "en": "a granite worktop"
+   }
+  ]
+ },
+ {
+  "ar": "فخّار",
+  "tr": "fakhkhār",
+  "en": "pottery; earthenware",
+  "msa": "فخار",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "جبنا فخّار من غريان.",
+  "ex_tr": "jibna fakhkhār min gharyān.",
+  "ex_en": "We brought pottery back from Gharyan.",
+  "note": "Gharyan is famous for its pottery",
+  "phrases": [
+   {
+    "ar": "أواني فخّار",
+    "tr": "awāni fakhkhār",
+    "en": "earthenware pots"
+   },
+   {
+    "ar": "فخّار تقليدي",
+    "tr": "fakhkhār taglīdi",
+    "en": "traditional pottery"
+   }
+  ]
+ },
+ {
+  "ar": "كريستال",
+  "tr": "kristāl",
+  "en": "crystal (glassware)",
+  "msa": "كريستال",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "طقم الكاسات كريستال.",
+  "ex_tr": "Tagm il-kāsāt kristāl.",
+  "ex_en": "The glass set is crystal.",
+  "phrases": [
+   {
+    "ar": "ثريا كريستال",
+    "tr": "thurayya kristāl",
+    "en": "a crystal chandelier"
+   },
+   {
+    "ar": "كاسات كريستال",
+    "tr": "kāsāt kristāl",
+    "en": "crystal glasses"
+   }
+  ]
+ },
+ {
+  "ar": "إسفنج",
+  "tr": "isfanj",
+  "en": "foam (rubber); upholstery foam",
+  "msa": "إسفنج",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "المطرح هذا إسفنج.",
+  "ex_tr": "il-maTra7 hādha isfanj.",
+  "ex_en": "This mattress is foam.",
+  "note": "a mattress of foam is مطرح إسفنج",
+  "phrases": [
+   {
+    "ar": "مطرح إسفنج",
+    "tr": "maTra7 isfanj",
+    "en": "a foam mattress"
+   },
+   {
+    "ar": "إسفنج الكنبة",
+    "tr": "isfanj il-kanaba",
+    "en": "the sofa foam"
+   }
+  ]
+ },
+ {
+  "ar": "فلّين",
+  "tr": "fallīn",
+  "en": "polystyrene; styrofoam; cork",
+  "msa": "فلين",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "التلفزيون جا ملفوف في فلّين.",
+  "ex_tr": "it-tilifizyōn ja malfūf fi fallīn.",
+  "ex_en": "The TV came packed in polystyrene.",
+  "note": "in Libya فلين usually means white polystyrene packing foam",
+  "phrases": [
+   {
+    "ar": "صندوق فلّين",
+    "tr": "Sandūg fallīn",
+    "en": "a polystyrene box"
+   },
+   {
+    "ar": "فلّين أبيض",
+    "tr": "fallīn abyaD",
+    "en": "white styrofoam"
+   }
+  ]
+ },
+ {
+  "ar": "طشت",
+  "tr": "TashT",
+  "en": "washtub; large basin",
+  "msa": "طست",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "غسلت الحوايج في الطشت.",
+  "ex_tr": "ghsalt il-7wāyij fiT-TashT.",
+  "ex_en": "I washed the clothes in the tub.",
+  "note": "pl. طشوت Tshūt",
+  "phrases": [
+   {
+    "ar": "طشت بلاستيك",
+    "tr": "TashT blāstīk",
+    "en": "a plastic washtub"
+   },
+   {
+    "ar": "طشت مية سخونة",
+    "tr": "TashT mayya skhūna",
+    "en": "a basin of hot water"
+   }
+  ]
+ },
+ {
+  "ar": "سلة غسيل",
+  "tr": "sallat ghsīl",
+  "en": "laundry basket",
+  "msa": "سلة غسيل",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "حط الحوايج الوسخة في سلة الغسيل.",
+  "ex_tr": "7uTT il-7wāyij il-wiskha fi sallat il-ghsīl.",
+  "ex_en": "Put the dirty clothes in the laundry basket.",
+  "note": "pl. سلال غسيل",
+  "phrases": [
+   {
+    "ar": "سلة الغسيل مليانة",
+    "tr": "sallat il-ghsīl malyāna",
+    "en": "the laundry basket is full"
+   },
+   {
+    "ar": "سلة غسيل بغطا",
+    "tr": "sallat ghsīl b-ghTa",
+    "en": "a laundry basket with a lid"
+   }
+  ]
+ },
+ {
+  "ar": "حبل غسيل",
+  "tr": "7abl ghsīl",
+  "en": "washing line; clothesline",
+  "msa": "حبل غسيل",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "انشر الحوايج على حبل الغسيل.",
+  "ex_tr": "inshur il-7wāyij 3la 7abl il-ghsīl.",
+  "ex_en": "Hang the clothes on the washing line.",
+  "phrases": [
+   {
+    "ar": "حبل الغسيل في السطح",
+    "tr": "7abl il-ghsīl fis-sTa7",
+    "en": "the washing line is on the roof"
+   },
+   {
+    "ar": "طاح الغسيل من الحبل",
+    "tr": "Tā7 il-ghsīl min il-7abl",
+    "en": "the washing fell off the line"
+   }
+  ]
+ },
+ {
+  "ar": "طاولة كوي",
+  "tr": "Tāwlat kayy",
+  "en": "ironing board",
+  "msa": "طاولة كي",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "افتح طاولة الكوي.",
+  "ex_tr": "ifta7 Tāwlat il-kayy.",
+  "ex_en": "Open up the ironing board.",
+  "phrases": [
+   {
+    "ar": "طاولة كوي جديدة",
+    "tr": "Tāwlat kayy jdīda",
+    "en": "a new ironing board"
+   },
+   {
+    "ar": "غطا طاولة الكوي",
+    "tr": "ghTa Tāwlat il-kayy",
+    "en": "the ironing-board cover"
+   }
+  ]
+ },
+ {
+  "ar": "ملمّع",
+  "tr": "mulammi3",
+  "en": "polish (furniture, shoes, etc.)",
+  "msa": "ملمع",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "امسح الطاولة بالملمّع.",
+  "ex_tr": "imsa7 iT-Tāwla bil-mulammi3.",
+  "ex_en": "Wipe the table with polish.",
+  "note": "pl. ملمّعات",
+  "phrases": [
+   {
+    "ar": "ملمّع خشب",
+    "tr": "mulammi3 khashab",
+    "en": "furniture polish"
+   },
+   {
+    "ar": "ملمّع قزاز",
+    "tr": "mulammi3 gzāz",
+    "en": "glass polish"
+   }
+  ]
+ },
+ {
+  "ar": "جوانتي",
+  "tr": "gwānti",
+  "en": "gloves; rubber gloves",
+  "msa": "قفازات",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 3,
+  "usage": 40,
+  "ex_ar": "البس جوانتي وانت تغسل بالجافيل.",
+  "ex_tr": "ilbis gwānti w inta tighsil bij-jāvēl.",
+  "ex_en": "Wear gloves when you clean with bleach.",
+  "note": "from Italian guanti",
+  "phrases": [
+   {
+    "ar": "جوانتي بلاستيك",
+    "tr": "gwānti blāstīk",
+    "en": "rubber gloves"
+   },
+   {
+    "ar": "جوانتي صوف",
+    "tr": "gwānti Sūf",
+    "en": "woollen gloves"
+   }
+  ]
+ },
+ {
+  "ar": "مصيدة",
+  "tr": "maSyada",
+  "en": "trap (mousetrap)",
+  "msa": "مصيدة",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "حطّينا مصيدة للفار في الكوزينة.",
+  "ex_tr": "7aTTēna maSyada lil-fār fil-kūzīna.",
+  "ex_en": "We put a mousetrap in the kitchen.",
+  "note": "pl. مصايد maSāyid",
+  "phrases": [
+   {
+    "ar": "مصيدة فيران",
+    "tr": "maSyadat fīrān",
+    "en": "a mousetrap"
+   },
+   {
+    "ar": "طاح في المصيدة",
+    "tr": "Tā7 fil-maSyada",
+    "en": "it got caught in the trap"
+   }
+  ]
+ },
+ {
+  "ar": "عفن",
+  "tr": "3afan",
+  "en": "mould; mildew",
+  "msa": "عفن",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "فيه عفن في سقف الحمّام.",
+  "ex_tr": "fīh 3afan fi sagf il-7ammām.",
+  "ex_en": "There's mould on the bathroom ceiling.",
+  "phrases": [
+   {
+    "ar": "ريحة عفن",
+    "tr": "rī7t 3afan",
+    "en": "a mouldy smell"
+   },
+   {
+    "ar": "نظّف العفن بالجافيل",
+    "tr": "naDHDHif il-3afan bij-jāvēl",
+    "en": "clean the mould with bleach"
+   }
+  ]
+ },
+ {
+  "ar": "صدا",
+  "tr": "Sda",
+  "en": "rust",
+  "msa": "صدأ",
+  "pos": "noun",
+  "cat": "tools",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "البوابة كلها صدا.",
+  "ex_tr": "il-bawwāba kullha Sda.",
+  "ex_en": "The gate is all rust.",
+  "phrases": [
+   {
+    "ar": "نحّي الصدا",
+    "tr": "na77i iS-Sda",
+    "en": "remove the rust"
+   },
+   {
+    "ar": "بقع صدا",
+    "tr": "buga3 Sda",
+    "en": "rust spots"
+   }
+  ]
+ },
+ {
+  "ar": "بكرة",
+  "tr": "bakra",
+  "en": "spool; reel; pulley",
+  "msa": "بكرة",
+  "pos": "noun",
+  "cat": "tools",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "بكرة خيط بيضا.",
+  "ex_tr": "bakrat khēT bēDa.",
+  "ex_en": "A reel of white thread.",
+  "note": "pl. بكرات bakrāt",
+  "phrases": [
+   {
+    "ar": "بكرة سلك",
+    "tr": "bakrat silk",
+    "en": "a spool of wire"
+   },
+   {
+    "ar": "بكرة البير",
+    "tr": "bakrat il-bīr",
+    "en": "the well pulley"
+   }
+  ]
+ },
+ {
+  "ar": "خيط",
+  "tr": "khēT",
+  "en": "thread; string",
+  "msa": "خيط",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "عندك خيط وإبرة؟",
+  "ex_tr": "3indak khēT w ibra?",
+  "ex_en": "Do you have a needle and thread?",
+  "note": "pl. خيوط khyūT",
+  "phrases": [
+   {
+    "ar": "خيط أسود",
+    "tr": "khēT aswad",
+    "en": "black thread"
+   },
+   {
+    "ar": "اربطها بخيط",
+    "tr": "urbuTha b-khēT",
+    "en": "tie it with string"
+   }
+  ]
+ },
+ {
+  "ar": "سدّادة",
+  "tr": "saddāda",
+  "en": "plug; stopper (sink, bath)",
+  "msa": "سدادة",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "حط السدّادة وعبّي البانيو.",
+  "ex_tr": "7uTT is-saddāda w 3abbi il-bānyu.",
+  "ex_en": "Put the plug in and fill the bath.",
+  "note": "pl. سدّادات",
+  "phrases": [
+   {
+    "ar": "سدّادة المغسلة",
+    "tr": "saddādat il-maghsla",
+    "en": "the sink plug"
+   },
+   {
+    "ar": "سدّادة القرعة",
+    "tr": "saddādat il-gar3a",
+    "en": "the bottle stopper"
+   }
+  ]
+ },
+ {
+  "ar": "حمّام عربي",
+  "tr": "7ammām 3arbi",
+  "en": "squat toilet",
+  "msa": "مرحاض أرضي",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "الحوش القديم فيه حمّام عربي بس.",
+  "ex_tr": "il-7ōsh il-gdīm fīh 7ammām 3arbi bass.",
+  "ex_en": "The old house only has a squat toilet.",
+  "note": "as opposed to حمّام إفرنجي 7ammām ifranji, a Western sit-down toilet",
+  "phrases": [
+   {
+    "ar": "حمّام عربي وحمّام إفرنجي",
+    "tr": "7ammām 3arbi w 7ammām ifranji",
+    "en": "a squat and a Western toilet"
+   },
+   {
+    "ar": "بدّلنا الحمّام العربي",
+    "tr": "baddalna il-7ammām il-3arbi",
+    "en": "we replaced the squat toilet"
+   }
+  ]
+ },
+ {
+  "ar": "حوض سمك",
+  "tr": "7ōD samak",
+  "en": "aquarium; fish tank",
+  "msa": "حوض سمك",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "عنده حوض سمك في الصالة.",
+  "ex_tr": "3indah 7ōD samak fiS-Sāla.",
+  "ex_en": "He has an aquarium in the living room.",
+  "note": "in everyday speech fish is حوت 7ūt, but the tank is usually حوض سمك",
+  "phrases": [
+   {
+    "ar": "حوض سمك صغير",
+    "tr": "7ōD samak Sghīr",
+    "en": "a small fish tank"
+   },
+   {
+    "ar": "نظّف حوض السمك",
+    "tr": "naDHDHif 7ōD is-samak",
+    "en": "clean the fish tank"
+   }
+  ]
+ },
+ {
+  "ar": "نجيلة",
+  "tr": "njīla",
+  "en": "lawn; turf grass",
+  "msa": "نجيلة",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "زرعنا نجيلة في الجنان.",
+  "ex_tr": "zra3na njīla fij-jnān.",
+  "ex_en": "We planted a lawn in the garden.",
+  "phrases": [
+   {
+    "ar": "نجيلة صناعية",
+    "tr": "njīla Snā3iyya",
+    "en": "artificial turf"
+   },
+   {
+    "ar": "قصّ النجيلة",
+    "tr": "guSS in-njīla",
+    "en": "mow the lawn"
+   }
+  ]
+ },
+ {
+  "ar": "سياج",
+  "tr": "siyāj",
+  "en": "fence",
+  "msa": "سياج",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "درنا سياج حول الجنان.",
+  "ex_tr": "dirna siyāj 7ōl ij-jnān.",
+  "ex_en": "We put a fence around the garden.",
+  "note": "pl. سياجات",
+  "phrases": [
+   {
+    "ar": "سياج حديد",
+    "tr": "siyāj 7dīd",
+    "en": "an iron fence"
+   },
+   {
+    "ar": "سياج أخضر",
+    "tr": "siyāj akhDar",
+    "en": "a hedge"
+   }
+  ]
+ },
+ {
+  "ar": "أدوات منزلية",
+  "tr": "adawāt manziliyya",
+  "en": "household goods; housewares",
+  "msa": "أدوات منزلية",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "محل أدوات منزلية في سوق الثلاثا.",
+  "ex_tr": "ma7all adawāt manziliyya fi sūg ith-thlātha.",
+  "ex_en": "A housewares shop in Souq al-Thulatha.",
+  "note": "a common shop sign",
+  "phrases": [
+   {
+    "ar": "قسم الأدوات المنزلية",
+    "tr": "gism il-adawāt il-manziliyya",
+    "en": "the housewares department"
+   },
+   {
+    "ar": "أدوات منزلية بلاستيك",
+    "tr": "adawāt manziliyya blāstīk",
+    "en": "plastic housewares"
+   }
+  ]
+ },
+ {
+  "ar": "كهربائيات",
+  "tr": "kahrabā'iyyāt",
+  "en": "electrical goods; appliances",
+  "msa": "أجهزة كهربائية",
+  "pos": "noun",
+  "cat": "home",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "شرينا الثلاجة من محل كهربائيات.",
+  "ex_tr": "shrēna ith-thallāja min ma7all kahrabā'iyyāt.",
+  "ex_en": "We bought the fridge from an electrical shop.",
+  "note": "محل كهربائيات = electrical shop",
+  "phrases": [
+   {
+    "ar": "محل كهربائيات",
+    "tr": "ma7all kahrabā'iyyāt",
+    "en": "an electrical goods shop"
+   },
+   {
+    "ar": "كهربائيات الحوش",
+    "tr": "kahrabā'iyyāt il-7ōsh",
+    "en": "the household appliances"
+   }
+  ]
+ },
+ {
+  "ar": "خردوات",
+  "tr": "khurdawāt",
+  "en": "hardware; small household items",
+  "msa": "خردوات",
+  "pos": "noun",
+  "cat": "tools",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "المسامير والبراغي في محل الخردوات.",
+  "ex_tr": "il-msāmīr w il-barāghi fi ma7all il-khurdawāt.",
+  "ex_en": "Nails and screws are at the hardware shop.",
+  "note": "محل خردوات = hardware shop",
+  "phrases": [
+   {
+    "ar": "محل خردوات",
+    "tr": "ma7all khurdawāt",
+    "en": "a hardware store"
+   },
+   {
+    "ar": "خردوات وعدّة",
+    "tr": "khurdawāt w 3idda",
+    "en": "hardware and tools"
+   }
+  ]
  }
 ]
