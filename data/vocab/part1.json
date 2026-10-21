@@ -9,7 +9,20 @@
     "freq": 1,
     "ex_ar": "أنا ليبي من طرابلس.",
     "ex_tr": "ana lībi min Trābulus.",
-    "ex_en": "I am Libyan, from Tripoli."
+    "ex_en": "I am Libyan, from Tripoli.",
+    "usage": 99,
+    "phrases": [
+      {
+        "ar": "أنا نبي شاهي",
+        "tr": "ana nibbi shāhi",
+        "en": "I want tea"
+      },
+      {
+        "ar": "أنا مش فاهم",
+        "tr": "ana mush fāhim",
+        "en": "I don't understand"
+      }
+    ]
   },
   {
     "ar": "إنتَ",
@@ -21,7 +34,20 @@
     "freq": 1,
     "ex_ar": "إنت وين ماشي؟",
     "ex_tr": "inta wīn māshi?",
-    "ex_en": "Where are you going? (to a man)"
+    "ex_en": "Where are you going? (to a man)",
+    "usage": 97,
+    "phrases": [
+      {
+        "ar": "إنت باهي؟",
+        "tr": "inta bāhi?",
+        "en": "Are you OK? (to a man)"
+      },
+      {
+        "ar": "إنت شن تبي؟",
+        "tr": "inta shin tibbi?",
+        "en": "What do you want? (to a man)"
+      }
+    ]
   },
   {
     "ar": "إنتِ",
@@ -33,7 +59,20 @@
     "freq": 1,
     "ex_ar": "إنتِ شن تبي؟",
     "ex_tr": "inti shin tibbi?",
-    "ex_en": "What do you want? (to a woman)"
+    "ex_en": "What do you want? (to a woman)",
+    "usage": 94,
+    "phrases": [
+      {
+        "ar": "إنتِ من وين؟",
+        "tr": "inti min wīn?",
+        "en": "Where are you from? (to a woman)"
+      },
+      {
+        "ar": "إنتِ باهية؟",
+        "tr": "inti bāhya?",
+        "en": "Are you OK? (to a woman)"
+      }
+    ]
   },
   {
     "ar": "هو",
@@ -45,7 +84,20 @@
     "freq": 1,
     "ex_ar": "هو صاحبي من زمان.",
     "ex_tr": "huwa Sā7bi min zmān.",
-    "ex_en": "He has been my friend for a long time."
+    "ex_en": "He has been my friend for a long time.",
+    "usage": 96,
+    "phrases": [
+      {
+        "ar": "هو مش هني",
+        "tr": "huwa mush hni",
+        "en": "He's not here"
+      },
+      {
+        "ar": "هو قاعد يخدم تَوّا",
+        "tr": "huwa gā3id yikhdim tawwa",
+        "en": "He is working now"
+      }
+    ]
   },
   {
     "ar": "هي",
@@ -57,7 +109,20 @@
     "freq": 1,
     "ex_ar": "هي تخدم في المستشفى.",
     "ex_tr": "hiya tikhdim fi limustashfa.",
-    "ex_en": "She works at the hospital."
+    "ex_en": "She works at the hospital.",
+    "usage": 95,
+    "phrases": [
+      {
+        "ar": "هي مازالت صغيرة",
+        "tr": "hiya māzālit Sghīra",
+        "en": "She is still young"
+      },
+      {
+        "ar": "هي مش في الحوش",
+        "tr": "hiya mush fi l7ōsh",
+        "en": "She isn't at home"
+      }
+    ]
   },
   {
     "ar": "إحنا",
@@ -69,7 +134,20 @@
     "freq": 1,
     "ex_ar": "إحنا جايين غدوة.",
     "ex_tr": "i7na jāyyīn ghudwa.",
-    "ex_en": "We are coming tomorrow."
+    "ex_en": "We are coming tomorrow.",
+    "usage": 96,
+    "phrases": [
+      {
+        "ar": "إحنا بنمشوا للبحر",
+        "tr": "i7na bnimshu lil-ba7r",
+        "en": "We're going to go to the beach"
+      },
+      {
+        "ar": "إحنا ما نعرفوش",
+        "tr": "i7na ma na3rfūsh",
+        "en": "We don't know"
+      }
+    ]
   },
   {
     "ar": "إنتو",
@@ -82,7 +160,20 @@
     "ex_ar": "إنتو من وين؟",
     "ex_tr": "intu min wīn?",
     "ex_en": "Where are you (pl.) from?",
-    "note": "Also heard as إنتوما intūma."
+    "note": "Also heard as إنتوما intūma.",
+    "usage": 91,
+    "phrases": [
+      {
+        "ar": "إنتو شن تبوا؟",
+        "tr": "intu shin tibbu?",
+        "en": "What do you (pl.) want?"
+      },
+      {
+        "ar": "إنتو جايين معانا؟",
+        "tr": "intu jāyyīn ma3āna?",
+        "en": "Are you (pl.) coming with us?"
+      }
+    ]
   },
   {
     "ar": "هما",
@@ -95,7 +186,20 @@
     "ex_ar": "هما في الحوش تَوّا.",
     "ex_tr": "humma fi l7ōsh tawwa.",
     "ex_en": "They are at home now.",
-    "note": "Also heard as هوما hūma."
+    "note": "Also heard as هوما hūma.",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "هما ما جوش",
+        "tr": "humma ma jōsh",
+        "en": "They didn't come"
+      },
+      {
+        "ar": "هما قاعدين يستنوا",
+        "tr": "humma gā3dīn yistannu",
+        "en": "They are waiting"
+      }
+    ]
   },
   {
     "ar": "متاعي",
@@ -108,7 +212,20 @@
     "ex_ar": "الكتاب هذا متاعي.",
     "ex_tr": "likitāb hādha mtā3i.",
     "ex_en": "This book is mine.",
-    "note": "Libyan possessive particle متاع mtā3 + suffix (also shortened تاعي tā3i). Moroccan ديالي is not Libyan."
+    "note": "Libyan possessive particle متاع mtā3 + suffix (also shortened تاعي tā3i). Moroccan ديالي is not Libyan.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "هذا التلفون متاعي",
+        "tr": "hādha ttilifōn mtā3i",
+        "en": "This phone is mine"
+      },
+      {
+        "ar": "وين الشنطة متاعي؟",
+        "tr": "wīn ishshanTa mtā3i?",
+        "en": "Where is my bag?"
+      }
+    ]
   },
   {
     "ar": "متاعك",
@@ -120,7 +237,20 @@
     "freq": 1,
     "ex_ar": "هذي الشنطة متاعك؟",
     "ex_tr": "hādhi shshanTa mtā3ik?",
-    "ex_en": "Is this bag yours?"
+    "ex_en": "Is this bag yours?",
+    "usage": 85,
+    "phrases": [
+      {
+        "ar": "الكرهبة متاعك؟",
+        "tr": "likarhba mtā3ik?",
+        "en": "Is the car yours?"
+      },
+      {
+        "ar": "هات التلفون متاعك",
+        "tr": "hāt ittilifōn mtā3ik",
+        "en": "Give me your phone"
+      }
+    ]
   },
   {
     "ar": "متاعه",
@@ -133,7 +263,20 @@
     "ex_ar": "الكرهبة متاعه جديدة.",
     "ex_tr": "likarhba mtā3a jdīda.",
     "ex_en": "His car is new.",
-    "note": "Written متاعه, pronounced mtā3a/mtā3u."
+    "note": "Written متاعه, pronounced mtā3a/mtā3u.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "خوه جا بالكرهبة متاعه",
+        "tr": "khūh ja bil-karhba mtā3a",
+        "en": "His brother came in his car"
+      },
+      {
+        "ar": "ما نعرفش الدار متاعه",
+        "tr": "ma na3rafsh iddār mtā3a",
+        "en": "I don't know his house"
+      }
+    ]
   },
   {
     "ar": "متاعها",
@@ -145,7 +288,20 @@
     "freq": 2,
     "ex_ar": "التلفون هذا متاعها.",
     "ex_tr": "ittilifōn hādha mtā3ha.",
-    "ex_en": "This phone is hers."
+    "ex_en": "This phone is hers.",
+    "usage": 77,
+    "phrases": [
+      {
+        "ar": "الشنطة متاعها حمرا",
+        "tr": "ishshanTa mtā3ha 7amra",
+        "en": "Her bag is red"
+      },
+      {
+        "ar": "خذيت النمرة متاعها",
+        "tr": "khdhīt innimra mtā3ha",
+        "en": "I took her number"
+      }
+    ]
   },
   {
     "ar": "متاعنا",
@@ -157,7 +313,20 @@
     "freq": 1,
     "ex_ar": "الحوش هذا متاعنا.",
     "ex_tr": "l7ōsh hādha mtā3na.",
-    "ex_en": "This house is ours."
+    "ex_en": "This house is ours.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "الجيران متاعنا ناس باهيين",
+        "tr": "ijjīrān mtā3na nās bāhyīn",
+        "en": "Our neighbors are good people"
+      },
+      {
+        "ar": "هذي الكرهبة متاعنا",
+        "tr": "hādhi likarhba mtā3na",
+        "en": "This is our car"
+      }
+    ]
   },
   {
     "ar": "متاعكم",
@@ -169,7 +338,20 @@
     "freq": 2,
     "ex_ar": "وين الحوايج متاعكم؟",
     "ex_tr": "wīn l7wāyij mtā3kum?",
-    "ex_en": "Where are your (pl.) things?"
+    "ex_en": "Where are your (pl.) things?",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "وين الحوش متاعكم؟",
+        "tr": "wīn l7ōsh mtā3kum?",
+        "en": "Where is your (pl.) house?"
+      },
+      {
+        "ar": "الأستاذ متاعكم جا",
+        "tr": "il'ustādh mtā3kum ja",
+        "en": "Your (pl.) teacher came"
+      }
+    ]
   },
   {
     "ar": "متاعهم",
@@ -181,7 +363,20 @@
     "freq": 2,
     "ex_ar": "الأرض هذي متاعهم.",
     "ex_tr": "l'arD hādhi mtā3hum.",
-    "ex_en": "This land is theirs."
+    "ex_en": "This land is theirs.",
+    "usage": 71,
+    "phrases": [
+      {
+        "ar": "الصغار متاعهم في المدرسة",
+        "tr": "iSSghār mtā3hum fi limadrsa",
+        "en": "Their kids are at school"
+      },
+      {
+        "ar": "الحوش متاعهم كبير",
+        "tr": "l7ōsh mtā3hum kbīr",
+        "en": "Their house is big"
+      }
+    ]
   },
   {
     "ar": "متاع",
@@ -194,7 +389,20 @@
     "ex_ar": "هذا مفتاح متاع الباب.",
     "ex_tr": "hādha muftā7 mtā3 lbāb.",
     "ex_en": "This is the key of the door.",
-    "note": "Agrees: متاعت mtā3t (f.) and متاعين mtā3īn (pl.) are also heard."
+    "note": "Agrees: متاعت mtā3t (f.) and متاعين mtā3īn (pl.) are also heard.",
+    "usage": 93,
+    "phrases": [
+      {
+        "ar": "الكرهبة متاع خوي",
+        "tr": "likarhba mtā3 khūy",
+        "en": "The car is my brother's"
+      },
+      {
+        "ar": "هذا متاع مين؟",
+        "tr": "hādha mtā3 mīn?",
+        "en": "Whose is this?"
+      }
+    ]
   },
   {
     "ar": "هذا",
@@ -206,7 +414,20 @@
     "freq": 1,
     "ex_ar": "هذا خوي الكبير.",
     "ex_tr": "hādha khūy likbīr.",
-    "ex_en": "This is my older brother."
+    "ex_en": "This is my older brother.",
+    "usage": 98,
+    "phrases": [
+      {
+        "ar": "هذا شن؟",
+        "tr": "hādha shin?",
+        "en": "What is this?"
+      },
+      {
+        "ar": "هذا باهي ياسر",
+        "tr": "hādha bāhi yāsir",
+        "en": "This is very good"
+      }
+    ]
   },
   {
     "ar": "هذي",
@@ -218,7 +439,20 @@
     "freq": 1,
     "ex_ar": "هذي أختي.",
     "ex_tr": "hādhi ukhti.",
-    "ex_en": "This is my sister."
+    "ex_en": "This is my sister.",
+    "usage": 96,
+    "phrases": [
+      {
+        "ar": "هذي أول مرة",
+        "tr": "hādhi awwil marra",
+        "en": "This is the first time"
+      },
+      {
+        "ar": "هذي متاعك؟",
+        "tr": "hādhi mtā3ik?",
+        "en": "Is this (f.) yours?"
+      }
+    ]
   },
   {
     "ar": "هذوما",
@@ -231,7 +465,20 @@
     "ex_ar": "هذوما صحابي من الخدمة.",
     "ex_tr": "hādhūma S7ābi min likhidma.",
     "ex_en": "These are my friends from work.",
-    "note": "Also هذوم hādhōm."
+    "note": "Also هذوم hādhōm.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "هذوما متاع مين؟",
+        "tr": "hādhūma mtā3 mīn?",
+        "en": "Whose are these?"
+      },
+      {
+        "ar": "هذوما باهيين",
+        "tr": "hādhūma bāhyīn",
+        "en": "These are good"
+      }
+    ]
   },
   {
     "ar": "هذاكا",
@@ -244,7 +491,20 @@
     "ex_ar": "هذاكا الراجل جارنا.",
     "ex_tr": "hādhāka rrājil jārna.",
     "ex_en": "That man is our neighbour.",
-    "note": "Also short هذاك hādhāk."
+    "note": "Also short هذاك hādhāk.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "هذاكا شنو؟",
+        "tr": "hādhāka shinu?",
+        "en": "What's that?"
+      },
+      {
+        "ar": "نبي هذاكا مش هذا",
+        "tr": "nibbi hādhāka mush hādha",
+        "en": "I want that one, not this one"
+      }
+    ]
   },
   {
     "ar": "هذيكا",
@@ -257,7 +517,20 @@
     "ex_ar": "هذيكا المرا تعرفها؟",
     "ex_tr": "hādhīka limra ta3rifha?",
     "ex_en": "Do you know that woman?",
-    "note": "Also short هذيك hādhīk."
+    "note": "Also short هذيك hādhīk.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "هذيكا الكرهبة متاعي",
+        "tr": "hādhīka likarhba mtā3i",
+        "en": "That car is mine"
+      },
+      {
+        "ar": "هذيكا الدار متاع خالي",
+        "tr": "hādhīka iddār mtā3 khāli",
+        "en": "That house is my uncle's"
+      }
+    ]
   },
   {
     "ar": "هذوماكا",
@@ -270,7 +543,20 @@
     "ex_ar": "هذوماكا الصغار ولاد عمي.",
     "ex_tr": "hādhūmāka SSghār wlād 3ammi.",
     "ex_en": "Those kids are my cousins.",
-    "note": "Also هذوماك hādhūmāk."
+    "note": "Also هذوماك hādhūmāk.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "هذوماكا مش متاعنا",
+        "tr": "hādhūmāka mush mtā3na",
+        "en": "Those aren't ours"
+      },
+      {
+        "ar": "شن هذوماكا؟",
+        "tr": "shin hādhūmāka?",
+        "en": "What are those?"
+      }
+    ]
   },
   {
     "ar": "روحي",
@@ -283,7 +569,20 @@
     "ex_ar": "درتها بروحي.",
     "ex_tr": "dirtha b-rū7i.",
     "ex_en": "I did it by myself.",
-    "note": "Reflexive with روح rū7 'soul' + suffix: روحك rū7ik yourself, روحه rū7a himself."
+    "note": "Reflexive with روح rū7 'soul' + suffix: روحك rū7ik yourself, روحه rū7a himself.",
+    "usage": 67,
+    "phrases": [
+      {
+        "ar": "نطيب بروحي",
+        "tr": "nTayyib b-rū7i",
+        "en": "I cook by myself"
+      },
+      {
+        "ar": "شفتها بروحي",
+        "tr": "shiftha b-rū7i",
+        "en": "I saw it myself"
+      }
+    ]
   },
   {
     "ar": "روحك",
@@ -295,7 +594,20 @@
     "freq": 2,
     "ex_ar": "رد بالك على روحك.",
     "ex_tr": "rudd bālik 3la rū7ik.",
-    "ex_en": "Take care of yourself."
+    "ex_en": "Take care of yourself.",
+    "usage": 69,
+    "phrases": [
+      {
+        "ar": "دير على روحك",
+        "tr": "dīr 3la rū7ik",
+        "en": "Look after yourself / do it yourself"
+      },
+      {
+        "ar": "ما تتعبش روحك",
+        "tr": "ma tit3abbish rū7ik",
+        "en": "Don't tire yourself out"
+      }
+    ]
   },
   {
     "ar": "وحدي",
@@ -308,7 +620,20 @@
     "ex_ar": "نسكن وحدي في الشقة.",
     "ex_tr": "naskun wa7di fi shshigga.",
     "ex_en": "I live alone in the flat.",
-    "note": "وحدك wa7dik (you alone), وحده wa7da (he alone)."
+    "note": "وحدك wa7dik (you alone), وحده wa7da (he alone).",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "خليني وحدي",
+        "tr": "khallīni wa7di",
+        "en": "Leave me alone"
+      },
+      {
+        "ar": "جيت وحدي",
+        "tr": "jīt wa7di",
+        "en": "I came by myself"
+      }
+    ]
   },
   {
     "ar": "كل واحد",
@@ -320,7 +645,20 @@
     "freq": 2,
     "ex_ar": "كل واحد ياخذ دوره.",
     "ex_tr": "kull wā7id yākhudh dōra.",
-    "ex_en": "Everyone takes their turn."
+    "ex_en": "Everyone takes their turn.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "كل واحد وحظه",
+        "tr": "kull wā7id w 7aDHDHa",
+        "en": "To each his own luck"
+      },
+      {
+        "ar": "كل واحد يجيب حاجة",
+        "tr": "kull wā7id yjīb 7āja",
+        "en": "Everyone brings something"
+      }
+    ]
   },
   {
     "ar": "حد",
@@ -332,7 +670,20 @@
     "freq": 1,
     "ex_ar": "ما فيش حد في الحوش.",
     "ex_tr": "ma fīsh 7add fi l7ōsh.",
-    "ex_en": "There is no one at home."
+    "ex_en": "There is no one at home.",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "في حد هني؟",
+        "tr": "fi 7add hni?",
+        "en": "Is anyone here?"
+      },
+      {
+        "ar": "ما تقول لحد",
+        "tr": "ma tgūl li-7add",
+        "en": "Don't tell anyone"
+      }
+    ]
   },
   {
     "ar": "حاجة",
@@ -344,7 +695,20 @@
     "freq": 1,
     "ex_ar": "نبي نقولك حاجة.",
     "ex_tr": "nibbi ngūlik 7āja.",
-    "ex_en": "I want to tell you something."
+    "ex_en": "I want to tell you something.",
+    "usage": 93,
+    "phrases": [
+      {
+        "ar": "عندك حاجة؟",
+        "tr": "3andik 7āja?",
+        "en": "Do you have something / need anything?"
+      },
+      {
+        "ar": "ما في حتى حاجة",
+        "tr": "ma fi 7atta 7āja",
+        "en": "There's nothing at all"
+      }
+    ]
   },
   {
     "ar": "شي",
@@ -357,7 +721,20 @@
     "ex_ar": "ما فهمت شي.",
     "ex_tr": "ma fhimt shay.",
     "ex_en": "I didn't understand anything.",
-    "note": "Common in negatives: ما ... شي."
+    "note": "Common in negatives: ما ... شي.",
+    "usage": 85,
+    "phrases": [
+      {
+        "ar": "تبي شي؟",
+        "tr": "tibbi shay?",
+        "en": "Do you want anything?"
+      },
+      {
+        "ar": "ما صار شي",
+        "tr": "ma Sār shay",
+        "en": "Nothing happened"
+      }
+    ]
   },
   {
     "ar": "بعضهم",
@@ -369,7 +746,20 @@
     "freq": 3,
     "ex_ar": "يعرفوا بعضهم من زمان.",
     "ex_tr": "ya3rfu ba3Dhum min zmān.",
-    "ex_en": "They have known each other for a long time."
+    "ex_en": "They have known each other for a long time.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "ساعدوا بعضهم",
+        "tr": "sā3du ba3Dhum",
+        "en": "They helped each other"
+      },
+      {
+        "ar": "بعضهم جو وبعضهم لا",
+        "tr": "ba3Dhum jaw w ba3Dhum lā",
+        "en": "Some of them came, some didn't"
+      }
+    ]
   },
   {
     "ar": "الثانيين",
@@ -382,7 +772,20 @@
     "ex_ar": "وين الثانيين؟",
     "ex_tr": "wīn ithānyīn?",
     "ex_en": "Where are the others?",
-    "note": "Also الباقيين lbāgyīn 'the rest'."
+    "note": "Also الباقيين lbāgyīn 'the rest'.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "الثانيين جايين بعدين",
+        "tr": "ithānyīn jāyyīn ba3dēn",
+        "en": "The others are coming later"
+      },
+      {
+        "ar": "خلي الثانيين يستنوا",
+        "tr": "khalli ithānyīn yistannu",
+        "en": "Let the others wait"
+      }
+    ]
   },
   {
     "ar": "كلهم",
@@ -394,7 +797,20 @@
     "freq": 1,
     "ex_ar": "جو كلهم للعرس.",
     "ex_tr": "jaw kullhum lil3urs.",
-    "ex_en": "They all came to the wedding."
+    "ex_en": "They all came to the wedding.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "كلهم مشوا",
+        "tr": "kullhum mshaw",
+        "en": "They all left"
+      },
+      {
+        "ar": "كلهم باهيين",
+        "tr": "kullhum bāhyīn",
+        "en": "They are all good"
+      }
+    ]
   },
   {
     "ar": "كلنا",
@@ -406,7 +822,20 @@
     "freq": 2,
     "ex_ar": "كلنا نبوا نمشوا.",
     "ex_tr": "kullna nibbu nimshu.",
-    "ex_en": "All of us want to go."
+    "ex_en": "All of us want to go.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "كلنا نعرفوه",
+        "tr": "kullna na3rfūh",
+        "en": "We all know him"
+      },
+      {
+        "ar": "كلنا مع بعض",
+        "tr": "kullna ma3 ba3D",
+        "en": "All of us together"
+      }
+    ]
   },
   {
     "ar": "اللي",
@@ -419,7 +848,20 @@
     "ex_ar": "الراجل اللي جا البارح خالي.",
     "ex_tr": "rrājil illi ja lbār7a khāli.",
     "ex_en": "The man who came yesterday is my uncle.",
-    "note": "Invariable relative pronoun for all genders and numbers."
+    "note": "Invariable relative pronoun for all genders and numbers.",
+    "usage": 98,
+    "phrases": [
+      {
+        "ar": "اللي تبيه",
+        "tr": "illi tibbīh",
+        "en": "Whatever you want"
+      },
+      {
+        "ar": "هذا اللي قلتلك عليه",
+        "tr": "hādha illi gultlik 3lēh",
+        "en": "This is what I told you about"
+      }
+    ]
   },
   {
     "ar": "هاني",
@@ -432,7 +874,20 @@
     "ex_ar": "هاني جاي تَوّا.",
     "ex_tr": "hāni jāy tawwa.",
     "ex_en": "Here I am, coming now.",
-    "note": "Presentative ها + pronoun: هاك hāk (here you are), هاهو hāhu (there he is)."
+    "note": "Presentative ها + pronoun: هاك hāk (here you are), هاهو hāhu (there he is).",
+    "usage": 73,
+    "phrases": [
+      {
+        "ar": "هاني جيت",
+        "tr": "hāni jīt",
+        "en": "Here I am, I've come"
+      },
+      {
+        "ar": "هاني نستنى فيك",
+        "tr": "hāni nistanna fīk",
+        "en": "Here I am waiting for you"
+      }
+    ]
   },
   {
     "ar": "راني",
@@ -445,7 +900,20 @@
     "ex_ar": "راني تعبان اليوم.",
     "ex_tr": "rāni ta3bān ilyōm.",
     "ex_en": "I'm tired today.",
-    "note": "Presentative راه rā + suffix; more common in western Libya."
+    "note": "Presentative راه rā + suffix; more common in western Libya.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "راني نخدم",
+        "tr": "rāni nikhdim",
+        "en": "I'm working"
+      },
+      {
+        "ar": "راني قلتلك",
+        "tr": "rāni gultlik",
+        "en": "I did tell you"
+      }
+    ]
   },
   {
     "ar": "شنو",
@@ -458,7 +926,20 @@
     "ex_ar": "شنو اسمك؟",
     "ex_tr": "shinu ismik?",
     "ex_en": "What is your name?",
-    "note": "Short form شن shin is very common: شن تبي؟"
+    "note": "Short form شن shin is very common: شن تبي؟",
+    "usage": 95,
+    "phrases": [
+      {
+        "ar": "شنو تبي تاكل؟",
+        "tr": "shinu tibbi tākil?",
+        "en": "What do you want to eat?"
+      },
+      {
+        "ar": "شنو هذا؟",
+        "tr": "shinu hādha?",
+        "en": "What is this?"
+      }
+    ]
   },
   {
     "ar": "شن",
@@ -470,7 +951,20 @@
     "freq": 1,
     "ex_ar": "شن تدير تَوّا؟",
     "ex_tr": "shin tdīr tawwa?",
-    "ex_en": "What are you doing now?"
+    "ex_en": "What are you doing now?",
+    "usage": 99,
+    "phrases": [
+      {
+        "ar": "شن تبي؟",
+        "tr": "shin tibbi?",
+        "en": "What do you want?"
+      },
+      {
+        "ar": "شن الجو؟",
+        "tr": "shin ijjaw?",
+        "en": "How's it going? / What's up?"
+      }
+    ]
   },
   {
     "ar": "وين",
@@ -482,7 +976,20 @@
     "freq": 1,
     "ex_ar": "وين الحمام؟",
     "ex_tr": "wīn l7ammām?",
-    "ex_en": "Where is the bathroom?"
+    "ex_en": "Where is the bathroom?",
+    "usage": 97,
+    "phrases": [
+      {
+        "ar": "وين ماشي؟",
+        "tr": "wīn māshi?",
+        "en": "Where are you going?"
+      },
+      {
+        "ar": "وين كنت؟",
+        "tr": "wīn kunt?",
+        "en": "Where were you?"
+      }
+    ]
   },
   {
     "ar": "وينه",
@@ -495,7 +1002,20 @@
     "ex_ar": "وينه خوك؟",
     "ex_tr": "wīna khūk?",
     "ex_en": "Where is your brother?",
-    "note": "وينها wīnha (where is she?), وينهم wīnhum (where are they?)."
+    "note": "وينها wīnha (where is she?), وينهم wīnhum (where are they?).",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "وينه التلفون؟",
+        "tr": "wīna ttilifōn?",
+        "en": "Where's the phone?"
+      },
+      {
+        "ar": "وينه بوك؟",
+        "tr": "wīna būk?",
+        "en": "Where's your father?"
+      }
+    ]
   },
   {
     "ar": "لوين",
@@ -507,7 +1027,20 @@
     "freq": 1,
     "ex_ar": "لوين ماشيين؟",
     "ex_tr": "l-wīn mashyīn?",
-    "ex_en": "Where are you (pl.) heading?"
+    "ex_en": "Where are you (pl.) heading?",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "لوين بتمشي غدوة؟",
+        "tr": "l-wīn bitimshi ghudwa?",
+        "en": "Where will you go tomorrow?"
+      },
+      {
+        "ar": "لوين يمشي الطريق هذا؟",
+        "tr": "l-wīn yimshi TTrīg hādha?",
+        "en": "Where does this road go?"
+      }
+    ]
   },
   {
     "ar": "منين",
@@ -520,7 +1053,20 @@
     "ex_ar": "إنت منين؟",
     "ex_tr": "inta mnīn?",
     "ex_en": "Where are you from?",
-    "note": "Also من وين min wīn."
+    "note": "Also من وين min wīn.",
+    "usage": 79,
+    "phrases": [
+      {
+        "ar": "منين جبتها؟",
+        "tr": "mnīn jibtha?",
+        "en": "Where did you get it from?"
+      },
+      {
+        "ar": "منين جاي؟",
+        "tr": "mnīn jāy?",
+        "en": "Where are you coming from?"
+      }
+    ]
   },
   {
     "ar": "كيف",
@@ -532,7 +1078,20 @@
     "freq": 1,
     "ex_ar": "كيف حالك؟",
     "ex_tr": "kīf 7ālik?",
-    "ex_en": "How are you?"
+    "ex_en": "How are you?",
+    "usage": 98,
+    "phrases": [
+      {
+        "ar": "كيف الحال؟",
+        "tr": "kīf l7āl?",
+        "en": "How are you?"
+      },
+      {
+        "ar": "كيف نمشي للسوق؟",
+        "tr": "kīf nimshi lis-sūg?",
+        "en": "How do I get to the market?"
+      }
+    ]
   },
   {
     "ar": "علاش",
@@ -544,7 +1103,20 @@
     "freq": 1,
     "ex_ar": "علاش ما جيتش؟",
     "ex_tr": "3lāsh ma jītish?",
-    "ex_en": "Why didn't you come?"
+    "ex_en": "Why didn't you come?",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "علاش زعلان؟",
+        "tr": "3lāsh za3lān?",
+        "en": "Why are you upset?"
+      },
+      {
+        "ar": "علاش لا؟",
+        "tr": "3lāsh lā?",
+        "en": "Why not?"
+      }
+    ]
   },
   {
     "ar": "علاش لا",
@@ -556,7 +1128,20 @@
     "freq": 3,
     "ex_ar": "نمشوا للبحر؟ علاش لا!",
     "ex_tr": "nimshu lil-ba7r? 3lāsh lā!",
-    "ex_en": "Shall we go to the beach? Why not!"
+    "ex_en": "Shall we go to the beach? Why not!",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "علاش لا، نجربوا",
+        "tr": "3lāsh lā, njarrbu",
+        "en": "Why not, let's try"
+      },
+      {
+        "ar": "نجي معاك؟ علاش لا",
+        "tr": "nji ma3āk? 3lāsh lā",
+        "en": "Shall I come with you? Why not"
+      }
+    ]
   },
   {
     "ar": "قداش",
@@ -568,7 +1153,20 @@
     "freq": 1,
     "ex_ar": "قداش الحساب؟",
     "ex_tr": "gaddāsh l7sāb?",
-    "ex_en": "How much is the bill?"
+    "ex_en": "How much is the bill?",
+    "usage": 89,
+    "phrases": [
+      {
+        "ar": "قداش تبي؟",
+        "tr": "gaddāsh tibbi?",
+        "en": "How much do you want?"
+      },
+      {
+        "ar": "قداش عندك صغار؟",
+        "tr": "gaddāsh 3andik Sghār?",
+        "en": "How many kids do you have?"
+      }
+    ]
   },
   {
     "ar": "بقداش",
@@ -580,7 +1178,20 @@
     "freq": 1,
     "ex_ar": "بقداش الطماطم اليوم؟",
     "ex_tr": "b-gaddāsh TTmāTim ilyōm?",
-    "ex_en": "How much are tomatoes today?"
+    "ex_en": "How much are tomatoes today?",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "بقداش الكيلو؟",
+        "tr": "b-gaddāsh likīlu?",
+        "en": "How much per kilo?"
+      },
+      {
+        "ar": "بقداش شريتها؟",
+        "tr": "b-gaddāsh shrētha?",
+        "en": "How much did you buy it for?"
+      }
+    ]
   },
   {
     "ar": "قداش الساعة",
@@ -592,7 +1203,20 @@
     "freq": 2,
     "ex_ar": "قداش الساعة تَوّا؟",
     "ex_tr": "gaddāsh issā3a tawwa?",
-    "ex_en": "What time is it now?"
+    "ex_en": "What time is it now?",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "سمحني، قداش الساعة؟",
+        "tr": "sma7ni, gaddāsh issā3a?",
+        "en": "Excuse me, what time is it?"
+      },
+      {
+        "ar": "تعرف قداش الساعة؟",
+        "tr": "ta3rif gaddāsh issā3a?",
+        "en": "Do you know what time it is?"
+      }
+    ]
   },
   {
     "ar": "مين",
@@ -605,7 +1229,20 @@
     "ex_ar": "مين جا؟",
     "ex_tr": "mīn ja?",
     "ex_en": "Who came?",
-    "note": "Also مينو mīnu; شكون shkūn is understood but more Tunisian/Moroccan."
+    "note": "Also مينو mīnu; شكون shkūn is understood but more Tunisian/Moroccan.",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "مين هذا؟",
+        "tr": "mīn hādha?",
+        "en": "Who is this?"
+      },
+      {
+        "ar": "مين قالك؟",
+        "tr": "mīn gālik?",
+        "en": "Who told you?"
+      }
+    ]
   },
   {
     "ar": "متاع مين",
@@ -617,7 +1254,20 @@
     "freq": 2,
     "ex_ar": "الكرهبة هذي متاع مين؟",
     "ex_tr": "likarhba hādhi mtā3 mīn?",
-    "ex_en": "Whose car is this?"
+    "ex_en": "Whose car is this?",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "التلفون هذا متاع مين؟",
+        "tr": "ittilifōn hādha mtā3 mīn?",
+        "en": "Whose phone is this?"
+      },
+      {
+        "ar": "متاع مين الشنطة؟",
+        "tr": "mtā3 mīn ishshanTa?",
+        "en": "Whose bag is it?"
+      }
+    ]
   },
   {
     "ar": "لمين",
@@ -629,7 +1279,20 @@
     "freq": 3,
     "ex_ar": "لمين جبت الهدية؟",
     "ex_tr": "l-mīn jibt lhdiyya?",
-    "ex_en": "Who did you bring the gift for?"
+    "ex_en": "Who did you bring the gift for?",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "لمين الفلوس هذي؟",
+        "tr": "l-mīn liflūs hādhi?",
+        "en": "Whom is this money for?"
+      },
+      {
+        "ar": "لمين قلت؟",
+        "tr": "l-mīn gult?",
+        "en": "Whom did you tell?"
+      }
+    ]
   },
   {
     "ar": "مع مين",
@@ -641,7 +1304,20 @@
     "freq": 2,
     "ex_ar": "مع مين ماشي؟",
     "ex_tr": "ma3 mīn māshi?",
-    "ex_en": "Who are you going with?"
+    "ex_en": "Who are you going with?",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "مع مين تخدم؟",
+        "tr": "ma3 mīn tikhdim?",
+        "en": "Who do you work with?"
+      },
+      {
+        "ar": "مع مين كنت تحكي؟",
+        "tr": "ma3 mīn kunt t7ki?",
+        "en": "Who were you talking with?"
+      }
+    ]
   },
   {
     "ar": "وقتاش",
@@ -654,7 +1330,20 @@
     "ex_ar": "وقتاش توصل؟",
     "ex_tr": "waktāsh tūSil?",
     "ex_en": "When will you arrive?",
-    "note": "Also إمتى imta."
+    "note": "Also إمتى imta.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "وقتاش نتلاقوا؟",
+        "tr": "waktāsh nitlāgu?",
+        "en": "When shall we meet?"
+      },
+      {
+        "ar": "وقتاش جيت؟",
+        "tr": "waktāsh jīt?",
+        "en": "When did you come?"
+      }
+    ]
   },
   {
     "ar": "إمتى",
@@ -666,7 +1355,20 @@
     "freq": 2,
     "ex_ar": "إمتى بتجي؟",
     "ex_tr": "imta bitji?",
-    "ex_en": "When will you come?"
+    "ex_en": "When will you come?",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "إمتى تخلص الخدمة؟",
+        "tr": "imta tukhluS likhidma?",
+        "en": "When does work finish?"
+      },
+      {
+        "ar": "إمتى جيت؟",
+        "tr": "imta jīt?",
+        "en": "When did you arrive?"
+      }
+    ]
   },
   {
     "ar": "آني",
@@ -679,7 +1381,20 @@
     "ex_ar": "آني وحدة تبي؟",
     "ex_tr": "āni wa7da tibbi?",
     "ex_en": "Which one do you want?",
-    "note": "Libyan; also آنهي ānhi."
+    "note": "Libyan; also آنهي ānhi.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "آني واحد؟",
+        "tr": "āni wā7id?",
+        "en": "Which one?"
+      },
+      {
+        "ar": "آني طريق نمشي؟",
+        "tr": "āni Trīg nimshi?",
+        "en": "Which road do I take?"
+      }
+    ]
   },
   {
     "ar": "كم",
@@ -692,7 +1407,20 @@
     "ex_ar": "كم واحد جا؟",
     "ex_tr": "kam wā7id ja?",
     "ex_en": "How many people came?",
-    "note": "قداش gaddāsh is more common."
+    "note": "قداش gaddāsh is more common.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "كم يوم قعدت؟",
+        "tr": "kam yōm ga3adt?",
+        "en": "How many days did you stay?"
+      },
+      {
+        "ar": "كم مرة قلتلك؟",
+        "tr": "kam marra gultlik?",
+        "en": "How many times have I told you?"
+      }
+    ]
   },
   {
     "ar": "شن بيك",
@@ -705,7 +1433,20 @@
     "ex_ar": "شن بيك؟ مريض؟",
     "ex_tr": "shin bīk? marīD?",
     "ex_en": "What's wrong with you? Are you ill?",
-    "note": "Feminine شن بيكي shin bīki."
+    "note": "Feminine شن بيكي shin bīki.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "شن بيك ساكت؟",
+        "tr": "shin bīk sākit?",
+        "en": "Why are you so quiet?"
+      },
+      {
+        "ar": "شن بيك زعلان؟",
+        "tr": "shin bīk za3lān?",
+        "en": "What's upsetting you?"
+      }
+    ]
   },
   {
     "ar": "شن صار",
@@ -717,7 +1458,20 @@
     "freq": 2,
     "ex_ar": "شن صار في الطريق؟",
     "ex_tr": "shin Sār fi TTrīg?",
-    "ex_en": "What happened on the road?"
+    "ex_en": "What happened on the road?",
+    "usage": 79,
+    "phrases": [
+      {
+        "ar": "شن صار معاك؟",
+        "tr": "shin Sār ma3āk?",
+        "en": "What happened with you?"
+      },
+      {
+        "ar": "شن صار البارح؟",
+        "tr": "shin Sār ilbār7a?",
+        "en": "What happened yesterday?"
+      }
+    ]
   },
   {
     "ar": "شن قلت",
@@ -729,7 +1483,20 @@
     "freq": 2,
     "ex_ar": "سمحني، شن قلت؟",
     "ex_tr": "sma7ni, shin gult?",
-    "ex_en": "Sorry, what did you say?"
+    "ex_en": "Sorry, what did you say?",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "شن قلت؟ ما سمعتش",
+        "tr": "shin gult? ma sma3tish",
+        "en": "What did you say? I didn't hear"
+      },
+      {
+        "ar": "عاود شن قلت",
+        "tr": "3āwid shin gult",
+        "en": "Repeat what you said"
+      }
+    ]
   },
   {
     "ar": "ليش",
@@ -742,7 +1509,20 @@
     "ex_ar": "ليش زعلان؟",
     "ex_tr": "lēsh za3lān?",
     "ex_en": "Why are you upset?",
-    "note": "Mostly eastern Libya; علاش 3lāsh in Tripoli."
+    "note": "Mostly eastern Libya; علاش 3lāsh in Tripoli.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "ليش ما جيتش؟",
+        "tr": "lēsh ma jītish?",
+        "en": "Why didn't you come?"
+      },
+      {
+        "ar": "ليش هكي؟",
+        "tr": "lēsh hakki?",
+        "en": "Why like this?"
+      }
+    ]
   },
   {
     "ar": "كيفاش",
@@ -755,7 +1535,20 @@
     "ex_ar": "كيفاش درتها؟",
     "ex_tr": "kīfāsh dirtha?",
     "ex_en": "How did you do it?",
-    "note": "Emphatic variant of كيف kīf."
+    "note": "Emphatic variant of كيف kīf.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "كيفاش نديرها؟",
+        "tr": "kīfāsh ndīrha?",
+        "en": "How do I do it?"
+      },
+      {
+        "ar": "كيفاش عرفت؟",
+        "tr": "kīfāsh 3rift?",
+        "en": "How did you find out?"
+      }
+    ]
   },
   {
     "ar": "قداش عمرك",
@@ -767,7 +1560,20 @@
     "freq": 2,
     "ex_ar": "قداش عمرك يا وليدي؟",
     "ex_tr": "gaddāsh 3umrik ya wlīdi?",
-    "ex_en": "How old are you, my boy?"
+    "ex_en": "How old are you, my boy?",
+    "usage": 69,
+    "phrases": [
+      {
+        "ar": "قداش عمرك تَوّا؟",
+        "tr": "gaddāsh 3umrik tawwa?",
+        "en": "How old are you now?"
+      },
+      {
+        "ar": "قداش عمر بنتك؟",
+        "tr": "gaddāsh 3umr bintik?",
+        "en": "How old is your daughter?"
+      }
+    ]
   },
   {
     "ar": "شني",
@@ -780,7 +1586,20 @@
     "ex_ar": "شني هذي؟",
     "ex_tr": "shini hādhi?",
     "ex_en": "What is this (f.)?",
-    "note": "شنو shinu used with masculine, شني shini with feminine referents."
+    "note": "شنو shinu used with masculine, شني shini with feminine referents.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "شني الحكاية؟",
+        "tr": "shini l7kāya?",
+        "en": "What's the story?"
+      },
+      {
+        "ar": "شني هذي الريحة؟",
+        "tr": "shini hādhi rrī7a?",
+        "en": "What's this smell?"
+      }
+    ]
   },
   {
     "ar": "على شنو",
@@ -792,7 +1611,20 @@
     "freq": 3,
     "ex_ar": "على شنو تتكلموا؟",
     "ex_tr": "3la shinu titkallmu?",
-    "ex_en": "What are you (pl.) talking about?"
+    "ex_en": "What are you (pl.) talking about?",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "على شنو زعلان؟",
+        "tr": "3la shinu za3lān?",
+        "en": "What are you upset about?"
+      },
+      {
+        "ar": "على شنو تدور؟",
+        "tr": "3la shinu tdawwir?",
+        "en": "What are you looking for?"
+      }
+    ]
   },
   {
     "ar": "فيش",
@@ -805,7 +1637,20 @@
     "ex_ar": "فيش تفكر؟",
     "ex_tr": "fīsh tfakkir?",
     "ex_en": "What are you thinking about?",
-    "note": "Contraction of في شنو fi shinu."
+    "note": "Contraction of في شنو fi shinu.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "فيش قاعد تفكر؟",
+        "tr": "fīsh gā3id tfakkir?",
+        "en": "What are you thinking about?"
+      },
+      {
+        "ar": "فيش تخدم؟",
+        "tr": "fīsh tikhdim?",
+        "en": "What do you work in?"
+      }
+    ]
   },
   {
     "ar": "ولا لا",
@@ -817,7 +1662,20 @@
     "freq": 2,
     "ex_ar": "جاي ولا لا؟",
     "ex_tr": "jāy walla lā?",
-    "ex_en": "Are you coming or not?"
+    "ex_en": "Are you coming or not?",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "تبي ولا لا؟",
+        "tr": "tibbi walla lā?",
+        "en": "Do you want it or not?"
+      },
+      {
+        "ar": "باهي ولا لا؟",
+        "tr": "bāhi walla lā?",
+        "en": "Is it good or not?"
+      }
+    ]
   },
   {
     "ar": "صح",
@@ -829,7 +1687,20 @@
     "freq": 2,
     "ex_ar": "الخدمة غدوة، صح؟",
     "ex_tr": "likhidma ghudwa, Sa77?",
-    "ex_en": "Work is tomorrow, right?"
+    "ex_en": "Work is tomorrow, right?",
+    "usage": 77,
+    "phrases": [
+      {
+        "ar": "صح ولا لا؟",
+        "tr": "Sa77 walla lā?",
+        "en": "Right or not?"
+      },
+      {
+        "ar": "إنت ليبي، صح؟",
+        "tr": "inta lībi, Sa77?",
+        "en": "You're Libyan, right?"
+      }
+    ]
   },
   {
     "ar": "في",
@@ -841,7 +1712,20 @@
     "freq": 1,
     "ex_ar": "نسكن في طرابلس.",
     "ex_tr": "naskun fi Trābulus.",
-    "ex_en": "I live in Tripoli."
+    "ex_en": "I live in Tripoli.",
+    "usage": 100,
+    "phrases": [
+      {
+        "ar": "في الحوش",
+        "tr": "fi l7ōsh",
+        "en": "at home"
+      },
+      {
+        "ar": "في الطريق",
+        "tr": "fi TTrīg",
+        "en": "on the way"
+      }
+    ]
   },
   {
     "ar": "على",
@@ -854,7 +1738,20 @@
     "ex_ar": "الكتاب على الطاولة.",
     "ex_tr": "likitāb 3la TTāwla.",
     "ex_en": "The book is on the table.",
-    "note": "Often reduced to عَ 3a before the article."
+    "note": "Often reduced to عَ 3a before the article.",
+    "usage": 99,
+    "phrases": [
+      {
+        "ar": "على طول",
+        "tr": "3la Tūl",
+        "en": "right away"
+      },
+      {
+        "ar": "نحكي عليك",
+        "tr": "n7ki 3lēk",
+        "en": "I'm talking about you"
+      }
+    ]
   },
   {
     "ar": "من",
@@ -866,7 +1763,20 @@
     "freq": 1,
     "ex_ar": "جيت من المطار تَوّا.",
     "ex_tr": "jīt min limaTār tawwa.",
-    "ex_en": "I've just come from the airport."
+    "ex_en": "I've just come from the airport.",
+    "usage": 99,
+    "phrases": [
+      {
+        "ar": "من وين إنت؟",
+        "tr": "min wīn inta?",
+        "en": "Where are you from?"
+      },
+      {
+        "ar": "من زمان ما شفتك",
+        "tr": "min zmān ma shiftik",
+        "en": "Long time no see"
+      }
+    ]
   },
   {
     "ar": "لـ",
@@ -879,7 +1789,20 @@
     "ex_ar": "نمشي للسوق.",
     "ex_tr": "nimshi lis-sūg.",
     "ex_en": "I'm going to the market.",
-    "note": "Libyan uses لـ li- for 'to (a place)' where MSA uses إلى."
+    "note": "Libyan uses لـ li- for 'to (a place)' where MSA uses إلى.",
+    "usage": 97,
+    "phrases": [
+      {
+        "ar": "جبتها ليك",
+        "tr": "jibtha līk",
+        "en": "I brought it for you"
+      },
+      {
+        "ar": "ماشي للخدمة",
+        "tr": "māshi lil-khidma",
+        "en": "Going to work"
+      }
+    ]
   },
   {
     "ar": "مع",
@@ -892,7 +1815,20 @@
     "ex_ar": "نمشي معاك.",
     "ex_tr": "nimshi ma3āk.",
     "ex_en": "I'll go with you.",
-    "note": "With suffixes: معاي ma3āy, معاك ma3āk, معاه ma3āh."
+    "note": "With suffixes: معاي ma3āy, معاك ma3āk, معاه ma3āh.",
+    "usage": 96,
+    "phrases": [
+      {
+        "ar": "تعال معاي",
+        "tr": "ta3āl ma3āy",
+        "en": "Come with me"
+      },
+      {
+        "ar": "قهوة مع حليب",
+        "tr": "gahwa ma3 7līb",
+        "en": "Coffee with milk"
+      }
+    ]
   },
   {
     "ar": "عند",
@@ -905,7 +1841,20 @@
     "ex_ar": "عندي زوز خوت.",
     "ex_tr": "3andi zūz khūt.",
     "ex_en": "I have two brothers.",
-    "note": "عند + suffix is the normal way to say 'to have'."
+    "note": "عند + suffix is the normal way to say 'to have'.",
+    "usage": 97,
+    "phrases": [
+      {
+        "ar": "عندك وقت؟",
+        "tr": "3andik wagt?",
+        "en": "Do you have time?"
+      },
+      {
+        "ar": "نتغدوا عند خالتي",
+        "tr": "nitghaddu 3and khālti",
+        "en": "We'll have lunch at my aunt's"
+      }
+    ]
   },
   {
     "ar": "تحت",
@@ -917,7 +1866,20 @@
     "freq": 1,
     "ex_ar": "القطوس تحت الكرسي.",
     "ex_tr": "ilgaTTūs ta7t likursi.",
-    "ex_en": "The cat is under the chair."
+    "ex_en": "The cat is under the chair.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "تحت السرير",
+        "tr": "ta7t issrīr",
+        "en": "under the bed"
+      },
+      {
+        "ar": "نستناك تحت",
+        "tr": "nistannāk ta7t",
+        "en": "I'll wait for you downstairs"
+      }
+    ]
   },
   {
     "ar": "فوق",
@@ -929,7 +1891,20 @@
     "freq": 1,
     "ex_ar": "المفاتيح فوق الثلاجة.",
     "ex_tr": "limfātī7 fōg ittallāja.",
-    "ex_en": "The keys are on top of the fridge."
+    "ex_en": "The keys are on top of the fridge.",
+    "usage": 79,
+    "phrases": [
+      {
+        "ar": "فوق الطاولة",
+        "tr": "fōg TTāwla",
+        "en": "on the table"
+      },
+      {
+        "ar": "حطه فوق",
+        "tr": "7uTTa fōg",
+        "en": "Put it on top"
+      }
+    ]
   },
   {
     "ar": "قدام",
@@ -941,7 +1916,20 @@
     "freq": 1,
     "ex_ar": "نستناك قدام الجامع.",
     "ex_tr": "nistannāk giddām ijjāmi3.",
-    "ex_en": "I'll wait for you in front of the mosque."
+    "ex_en": "I'll wait for you in front of the mosque.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "قدام الحوش",
+        "tr": "giddām l7ōsh",
+        "en": "in front of the house"
+      },
+      {
+        "ar": "قعد قدامي",
+        "tr": "ga3ad giddāmi",
+        "en": "He sat in front of me"
+      }
+    ]
   },
   {
     "ar": "ورا",
@@ -953,7 +1941,20 @@
     "freq": 1,
     "ex_ar": "الكرهبة ورا الحوش.",
     "ex_tr": "likarhba wra l7ōsh.",
-    "ex_en": "The car is behind the house."
+    "ex_en": "The car is behind the house.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "ورا الجامع",
+        "tr": "wra ijjāmi3",
+        "en": "behind the mosque"
+      },
+      {
+        "ar": "شوف وراك",
+        "tr": "shūf wrāk",
+        "en": "Look behind you"
+      }
+    ]
   },
   {
     "ar": "بين",
@@ -965,7 +1966,20 @@
     "freq": 1,
     "ex_ar": "الصيدلية بين البنك والمطعم.",
     "ex_tr": "iSSaydaliyya bīn lbank wilmaT3am.",
-    "ex_en": "The pharmacy is between the bank and the restaurant."
+    "ex_en": "The pharmacy is between the bank and the restaurant.",
+    "usage": 81,
+    "phrases": [
+      {
+        "ar": "بيني وبينك",
+        "tr": "bīni w bīnik",
+        "en": "between you and me"
+      },
+      {
+        "ar": "بين الصلاتين",
+        "tr": "bīn iSSalātēn",
+        "en": "between the two prayers"
+      }
+    ]
   },
   {
     "ar": "بـ",
@@ -977,7 +1991,20 @@
     "freq": 1,
     "ex_ar": "نكتب بالقلم.",
     "ex_tr": "niktib bil-galam.",
-    "ex_en": "I write with a pen."
+    "ex_en": "I write with a pen.",
+    "usage": 94,
+    "phrases": [
+      {
+        "ar": "بالشوية عليا",
+        "tr": "bi-shwayya 3layya",
+        "en": "Easy on me"
+      },
+      {
+        "ar": "نمشوا بالكرهبة",
+        "tr": "nimshu bil-karhba",
+        "en": "We'll go by car"
+      }
+    ]
   },
   {
     "ar": "حدا",
@@ -990,7 +2017,20 @@
     "ex_ar": "قعد حدايا.",
     "ex_tr": "ga3ad 7dāya.",
     "ex_en": "He sat next to me.",
-    "note": "Libyan; with suffixes: حداك 7dāk, حداه 7dāh."
+    "note": "Libyan; with suffixes: حداك 7dāk, حداه 7dāh.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "اقعد حدايا",
+        "tr": "ug3ud 7dāya",
+        "en": "Sit next to me"
+      },
+      {
+        "ar": "الدكان حدا الجامع",
+        "tr": "iddukkān 7dā ijjāmi3",
+        "en": "The shop is next to the mosque"
+      }
+    ]
   },
   {
     "ar": "بلا",
@@ -1002,7 +2042,20 @@
     "freq": 2,
     "ex_ar": "نشرب القهوة بلا سكر.",
     "ex_tr": "nushrub lgahwa blā sukkar.",
-    "ex_en": "I drink coffee without sugar."
+    "ex_en": "I drink coffee without sugar.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "بلا فلوس",
+        "tr": "blā flūs",
+        "en": "without money"
+      },
+      {
+        "ar": "شاهي بلا سكر",
+        "tr": "shāhi blā sukkar",
+        "en": "tea without sugar"
+      }
+    ]
   },
   {
     "ar": "من غير",
@@ -1014,7 +2067,20 @@
     "freq": 2,
     "ex_ar": "ما نقدرش نمشي من غيرك.",
     "ex_tr": "ma nigdarsh nimshi min ghērik.",
-    "ex_en": "I can't go without you."
+    "ex_en": "I can't go without you.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "من غير ما تقولي",
+        "tr": "min ghēr ma tgūlli",
+        "en": "without telling me"
+      },
+      {
+        "ar": "كلهم جو من غيره",
+        "tr": "kullhum jaw min ghēra",
+        "en": "They all came except him"
+      }
+    ]
   },
   {
     "ar": "كيف",
@@ -1026,7 +2092,20 @@
     "freq": 1,
     "ex_ar": "هو كيف بوه.",
     "ex_tr": "huwa kīf būh.",
-    "ex_en": "He is like his father."
+    "ex_en": "He is like his father.",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "كيف خوه",
+        "tr": "kīf khūh",
+        "en": "like his brother"
+      },
+      {
+        "ar": "دير كيفي",
+        "tr": "dīr kīfi",
+        "en": "Do like me"
+      }
+    ]
   },
   {
     "ar": "بعد",
@@ -1038,7 +2117,20 @@
     "freq": 1,
     "ex_ar": "نتلاقوا بعد الصلاة.",
     "ex_tr": "nitlāgu ba3d iSSala.",
-    "ex_en": "Let's meet after the prayer."
+    "ex_en": "Let's meet after the prayer.",
+    "usage": 93,
+    "phrases": [
+      {
+        "ar": "بعد الخدمة",
+        "tr": "ba3d likhidma",
+        "en": "after work"
+      },
+      {
+        "ar": "نجيك بعد الغدا",
+        "tr": "njīk ba3d lghda",
+        "en": "I'll come to you after lunch"
+      }
+    ]
   },
   {
     "ar": "قبل",
@@ -1050,7 +2142,20 @@
     "freq": 1,
     "ex_ar": "لازم نوصلوا قبل المغرب.",
     "ex_tr": "lāzim nūSlu gbal limaghrib.",
-    "ex_en": "We must arrive before sunset."
+    "ex_en": "We must arrive before sunset.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "قبل الغدا",
+        "tr": "gbal lghda",
+        "en": "before lunch"
+      },
+      {
+        "ar": "كلمني قبل الساعة ستة",
+        "tr": "kallimni gbal issā3a sitta",
+        "en": "Call me before six"
+      }
+    ]
   },
   {
     "ar": "لين",
@@ -1063,7 +2168,20 @@
     "ex_ar": "نخدم لين الساعة خمسة.",
     "ex_tr": "nikhdim līn issā3a khamsa.",
     "ex_en": "I work until five o'clock.",
-    "note": "Also لي lī, لمّا lamma in some areas."
+    "note": "Also لي lī, لمّا lamma in some areas.",
+    "usage": 87,
+    "phrases": [
+      {
+        "ar": "لين غدوة",
+        "tr": "līn ghudwa",
+        "en": "until tomorrow"
+      },
+      {
+        "ar": "استنى لين نجي",
+        "tr": "stanna līn nji",
+        "en": "Wait until I come"
+      }
+    ]
   },
   {
     "ar": "وسط",
@@ -1075,7 +2193,20 @@
     "freq": 2,
     "ex_ar": "الدكان في وسط البلاد.",
     "ex_tr": "iddukkān fi wusT libilād.",
-    "ex_en": "The shop is in the middle of town."
+    "ex_en": "The shop is in the middle of town.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "في وسط الطريق",
+        "tr": "fi wusT TTrīg",
+        "en": "in the middle of the road"
+      },
+      {
+        "ar": "وسط الليل",
+        "tr": "wusT illēl",
+        "en": "in the middle of the night"
+      }
+    ]
   },
   {
     "ar": "داخل",
@@ -1087,7 +2218,20 @@
     "freq": 2,
     "ex_ar": "خش داخل الحوش.",
     "ex_tr": "khushsh dākhil l7ōsh.",
-    "ex_en": "Go inside the house."
+    "ex_en": "Go inside the house.",
+    "usage": 69,
+    "phrases": [
+      {
+        "ar": "داخل الكرهبة",
+        "tr": "dākhil likarhba",
+        "en": "inside the car"
+      },
+      {
+        "ar": "الماكلة داخل الثلاجة",
+        "tr": "limākla dākhil ittallāja",
+        "en": "The food is inside the fridge"
+      }
+    ]
   },
   {
     "ar": "برا",
@@ -1100,7 +2244,20 @@
     "ex_ar": "الصغار يلعبوا برا.",
     "ex_tr": "iSSghār yil3bu barra.",
     "ex_en": "The kids are playing outside.",
-    "note": "Also an adverb; برا! barra! = get out!"
+    "note": "Also an adverb; برا! barra! = get out!",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "اطلع برا",
+        "tr": "uTla3 barra",
+        "en": "Get out"
+      },
+      {
+        "ar": "نتعشوا برا الليلة",
+        "tr": "nit3ashshu barra illēla",
+        "en": "We're eating out tonight"
+      }
+    ]
   },
   {
     "ar": "قبالة",
@@ -1112,7 +2269,20 @@
     "freq": 2,
     "ex_ar": "المطعم قبالة البنك.",
     "ex_tr": "limaT3am gbāla lbank.",
-    "ex_en": "The restaurant is opposite the bank."
+    "ex_en": "The restaurant is opposite the bank.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "قبالة الجامع",
+        "tr": "gbāla ijjāmi3",
+        "en": "opposite the mosque"
+      },
+      {
+        "ar": "يسكن قبالتنا",
+        "tr": "yaskun gbālitna",
+        "en": "He lives across from us"
+      }
+    ]
   },
   {
     "ar": "حول",
@@ -1125,7 +2295,20 @@
     "ex_ar": "يدوروا حول الملعب.",
     "ex_tr": "ydūru 7awl limal3ab.",
     "ex_en": "They run around the stadium.",
-    "note": "Somewhat formal; دايِر بـ dāyir b- also used."
+    "note": "Somewhat formal; دايِر بـ dāyir b- also used.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "حول المدينة",
+        "tr": "7awl limdīna",
+        "en": "around the city"
+      },
+      {
+        "ar": "حول الطاولة",
+        "tr": "7awl TTāwla",
+        "en": "around the table"
+      }
+    ]
   },
   {
     "ar": "ضد",
@@ -1137,7 +2320,20 @@
     "freq": 3,
     "ex_ar": "المنتخب يلعب ضد تونس.",
     "ex_tr": "limuntakhab yil3ab Didd tūnis.",
-    "ex_en": "The national team plays against Tunisia."
+    "ex_en": "The national team plays against Tunisia.",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "أنا ضد هذا",
+        "tr": "ana Didd hādha",
+        "en": "I'm against this"
+      },
+      {
+        "ar": "ضد الريح",
+        "tr": "Didd irrī7",
+        "en": "against the wind"
+      }
+    ]
   },
   {
     "ar": "من عند",
@@ -1149,7 +2345,20 @@
     "freq": 2,
     "ex_ar": "جبتها من عند خالتي.",
     "ex_tr": "jibtha min 3and khālti.",
-    "ex_en": "I got it from my aunt's."
+    "ex_en": "I got it from my aunt's.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "جبت الخبزة من عند الكوشة",
+        "tr": "jibt likhubza min 3and likūsha",
+        "en": "I got the bread from the bakery"
+      },
+      {
+        "ar": "جاي من عند الطبيب",
+        "tr": "jāy min 3and iTTbīb",
+        "en": "I'm coming from the doctor's"
+      }
+    ]
   },
   {
     "ar": "عقب",
@@ -1162,7 +2371,20 @@
     "ex_ar": "نجيك عقب العشا.",
     "ex_tr": "njīk 3gub il3asha.",
     "ex_en": "I'll come to you after dinner.",
-    "note": "Libyan/Bedouin synonym of بعد ba3d."
+    "note": "Libyan/Bedouin synonym of بعد ba3d.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "عقب الغدا",
+        "tr": "3gub lghda",
+        "en": "after lunch"
+      },
+      {
+        "ar": "نكلمك عقب",
+        "tr": "nkallmik 3gub",
+        "en": "I'll call you after"
+      }
+    ]
   },
   {
     "ar": "على جال",
@@ -1175,7 +2397,20 @@
     "ex_ar": "درتها على جالك.",
     "ex_tr": "dirtha 3la jālik.",
     "ex_en": "I did it for your sake.",
-    "note": "Libyan; also على خاطر 3la khāTir."
+    "note": "Libyan; also على خاطر 3la khāTir.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "على جال ربي",
+        "tr": "3la jāl rabbi",
+        "en": "for God's sake"
+      },
+      {
+        "ar": "جيت على جالك",
+        "tr": "jīt 3la jālik",
+        "en": "I came for your sake"
+      }
+    ]
   },
   {
     "ar": "بدل",
@@ -1187,7 +2422,20 @@
     "freq": 3,
     "ex_ar": "خوذ هذا بدل هذاكا.",
     "ex_tr": "khūdh hādha badal hādhāka.",
-    "ex_en": "Take this instead of that one."
+    "ex_en": "Take this instead of that one.",
+    "usage": 63,
+    "phrases": [
+      {
+        "ar": "بدل ما تقعد، عاوني",
+        "tr": "badal ma tug3ud, 3āwinni",
+        "en": "Instead of sitting, help me"
+      },
+      {
+        "ar": "خوذ الشاهي بدل القهوة",
+        "tr": "khūdh ishshāhi badal lgahwa",
+        "en": "Take tea instead of coffee"
+      }
+    ]
   },
   {
     "ar": "زي",
@@ -1200,7 +2448,20 @@
     "ex_ar": "لونها زي لون السما.",
     "ex_tr": "lōnha zayy lōn issma.",
     "ex_en": "Its colour is like the colour of the sky.",
-    "note": "Understood in Libya, but كيف kīf is more typical."
+    "note": "Understood in Libya, but كيف kīf is more typical.",
+    "usage": 35,
+    "phrases": [
+      {
+        "ar": "زي بعضه",
+        "tr": "zayy ba3Da",
+        "en": "all the same"
+      },
+      {
+        "ar": "زي ما تبي",
+        "tr": "zayy ma tibbi",
+        "en": "as you like"
+      }
+    ]
   },
   {
     "ar": "قريب من",
@@ -1212,7 +2473,20 @@
     "freq": 2,
     "ex_ar": "الحوش قريب من البحر.",
     "ex_tr": "l7ōsh grayyib min lba7r.",
-    "ex_en": "The house is close to the sea."
+    "ex_en": "The house is close to the sea.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "قريب من الحوش",
+        "tr": "grayyib min l7ōsh",
+        "en": "close to the house"
+      },
+      {
+        "ar": "الدكان قريب من هني",
+        "tr": "iddukkān grayyib min hni",
+        "en": "The shop is close to here"
+      }
+    ]
   },
   {
     "ar": "بعيد على",
@@ -1225,7 +2499,20 @@
     "ex_ar": "المطار بعيد على البلاد.",
     "ex_tr": "limaTār b3īd 3la libilād.",
     "ex_en": "The airport is far from town.",
-    "note": "Libyan uses على 3la where MSA uses عن 3an."
+    "note": "Libyan uses على 3la where MSA uses عن 3an.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "بعيد على هني؟",
+        "tr": "b3īd 3la hni?",
+        "en": "Is it far from here?"
+      },
+      {
+        "ar": "ساكن بعيد على الخدمة",
+        "tr": "sākin b3īd 3la likhidma",
+        "en": "He lives far from work"
+      }
+    ]
   },
   {
     "ar": "و",
@@ -1238,7 +2525,20 @@
     "ex_ar": "جبت خبزة وحليب.",
     "ex_tr": "jibt khubza w 7līb.",
     "ex_en": "I bought bread and milk.",
-    "note": "Pronounced u before consonant clusters."
+    "note": "Pronounced u before consonant clusters.",
+    "usage": 100,
+    "phrases": [
+      {
+        "ar": "أنا وإنت",
+        "tr": "ana w inta",
+        "en": "you and me"
+      },
+      {
+        "ar": "شاهي وكعك",
+        "tr": "shāhi w ka3k",
+        "en": "tea and biscuits"
+      }
+    ]
   },
   {
     "ar": "ولا",
@@ -1250,7 +2550,20 @@
     "freq": 1,
     "ex_ar": "تبي شاهي ولا قهوة؟",
     "ex_tr": "tibbi shāhi walla gahwa?",
-    "ex_en": "Do you want tea or coffee?"
+    "ex_en": "Do you want tea or coffee?",
+    "usage": 94,
+    "phrases": [
+      {
+        "ar": "اليوم ولا غدوة؟",
+        "tr": "ilyōm walla ghudwa?",
+        "en": "Today or tomorrow?"
+      },
+      {
+        "ar": "كبير ولا صغير؟",
+        "tr": "kbīr walla Sghīr?",
+        "en": "Big or small?"
+      }
+    ]
   },
   {
     "ar": "لكن",
@@ -1262,7 +2575,20 @@
     "freq": 1,
     "ex_ar": "نبي نجي لكن ما عنديش وقت.",
     "ex_tr": "nibbi nji lākin ma 3andīsh wagt.",
-    "ex_en": "I want to come but I don't have time."
+    "ex_en": "I want to come but I don't have time.",
+    "usage": 89,
+    "phrases": [
+      {
+        "ar": "باهي لكن غالي",
+        "tr": "bāhi lākin ghāli",
+        "en": "Nice but expensive"
+      },
+      {
+        "ar": "نبي نجي لكن تعبان",
+        "tr": "nibbi nji lākin ta3bān",
+        "en": "I want to come but I'm tired"
+      }
+    ]
   },
   {
     "ar": "على خاطر",
@@ -1274,7 +2600,20 @@
     "freq": 1,
     "ex_ar": "ما جيتش على خاطر كنت مريض.",
     "ex_tr": "ma jītish 3la khāTir kunt marīD.",
-    "ex_en": "I didn't come because I was ill."
+    "ex_en": "I didn't come because I was ill.",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "على خاطر تعبان",
+        "tr": "3la khāTir ta3bān",
+        "en": "because I'm tired"
+      },
+      {
+        "ar": "ما مشيتش على خاطر المطر",
+        "tr": "ma mshītish 3la khāTir ilmTar",
+        "en": "I didn't go because of the rain"
+      }
+    ]
   },
   {
     "ar": "خاطر",
@@ -1286,7 +2625,20 @@
     "freq": 2,
     "ex_ar": "تأخرت خاطر الطريق زحمة.",
     "ex_tr": "t'akhkhart khāTir TTrīg za7ma.",
-    "ex_en": "I was late because the road was jammed."
+    "ex_en": "I was late because the road was jammed.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "خاطر ما عنديش وقت",
+        "tr": "khāTir ma 3andīsh wagt",
+        "en": "because I don't have time"
+      },
+      {
+        "ar": "ما جاش خاطر مريض",
+        "tr": "ma jāsh khāTir marīD",
+        "en": "He didn't come because he's sick"
+      }
+    ]
   },
   {
     "ar": "كان",
@@ -1299,7 +2651,20 @@
     "ex_ar": "كان تبي، نمشوا مع بعض.",
     "ex_tr": "kān tibbi, nimshu ma3 ba3D.",
     "ex_en": "If you want, we'll go together.",
-    "note": "Libyan conditional 'if' (real conditions)."
+    "note": "Libyan conditional 'if' (real conditions).",
+    "usage": 93,
+    "phrases": [
+      {
+        "ar": "كان جيت، كلمني",
+        "tr": "kān jīt, kallimni",
+        "en": "If you come, call me"
+      },
+      {
+        "ar": "كان ربي راد",
+        "tr": "kān rabbi rād",
+        "en": "If God wills"
+      }
+    ]
   },
   {
     "ar": "لو",
@@ -1312,7 +2677,20 @@
     "ex_ar": "لو عندي فلوس، نشري حوش.",
     "ex_tr": "lu 3andi flūs, nishri 7ōsh.",
     "ex_en": "If I had money, I'd buy a house.",
-    "note": "Also لو كان lu kān."
+    "note": "Also لو كان lu kān.",
+    "usage": 71,
+    "phrases": [
+      {
+        "ar": "لو كنت نعرف",
+        "tr": "lu kunt na3rif",
+        "en": "If I had known"
+      },
+      {
+        "ar": "لو جيت بكري",
+        "tr": "lu jīt bakri",
+        "en": "If you had come early"
+      }
+    ]
   },
   {
     "ar": "باش",
@@ -1325,7 +2703,20 @@
     "ex_ar": "جيت باش نشوفك.",
     "ex_tr": "jīt bāsh nshūfik.",
     "ex_en": "I came to see you.",
-    "note": "Same word as the future marker باش/بش."
+    "note": "Same word as the future marker باش/بش.",
+    "usage": 91,
+    "phrases": [
+      {
+        "ar": "باش نشوف",
+        "tr": "bāsh nshūf",
+        "en": "so I can see"
+      },
+      {
+        "ar": "جيت باش نعاونك",
+        "tr": "jīt bāsh n3āwnik",
+        "en": "I came to help you"
+      }
+    ]
   },
   {
     "ar": "حتى",
@@ -1337,7 +2728,20 @@
     "freq": 2,
     "ex_ar": "حتى هو ما يعرفش.",
     "ex_tr": "7atta huwa ma ya3rafsh.",
-    "ex_en": "Even he doesn't know."
+    "ex_en": "Even he doesn't know.",
+    "usage": 85,
+    "phrases": [
+      {
+        "ar": "حتى أنا",
+        "tr": "7atta ana",
+        "en": "me too"
+      },
+      {
+        "ar": "ما عنديش حتى فلس",
+        "tr": "ma 3andīsh 7atta fils",
+        "en": "I don't have even a penny"
+      }
+    ]
   },
   {
     "ar": "لما",
@@ -1349,7 +2753,20 @@
     "freq": 2,
     "ex_ar": "لما نوصل نكلمك.",
     "ex_tr": "lamma nūSil nkallmik.",
-    "ex_en": "When I arrive I'll call you."
+    "ex_en": "When I arrive I'll call you.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "لما توصل كلمني",
+        "tr": "lamma tūSil kallimni",
+        "en": "Call me when you arrive"
+      },
+      {
+        "ar": "لما كنت صغير",
+        "tr": "lamma kunt Sghīr",
+        "en": "When I was little"
+      }
+    ]
   },
   {
     "ar": "وقت اللي",
@@ -1361,7 +2778,20 @@
     "freq": 3,
     "ex_ar": "وقت اللي جيت كان راقد.",
     "ex_tr": "wagt illi jīt kān rāgid.",
-    "ex_en": "When I came he was asleep."
+    "ex_en": "When I came he was asleep.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "وقت اللي تبي",
+        "tr": "wagt illi tibbi",
+        "en": "whenever you want"
+      },
+      {
+        "ar": "وقت اللي كنا صغار",
+        "tr": "wagt illi kunna Sghār",
+        "en": "back when we were kids"
+      }
+    ]
   },
   {
     "ar": "بعد ما",
@@ -1373,7 +2803,20 @@
     "freq": 2,
     "ex_ar": "بعد ما نتعشوا نطلعوا.",
     "ex_tr": "ba3d ma nit3ashshu nuTl3u.",
-    "ex_en": "After we have dinner we'll go out."
+    "ex_en": "After we have dinner we'll go out.",
+    "usage": 73,
+    "phrases": [
+      {
+        "ar": "بعد ما نخلص الخدمة",
+        "tr": "ba3d ma nkhalliS likhidma",
+        "en": "after I finish work"
+      },
+      {
+        "ar": "بعد ما مشيت",
+        "tr": "ba3d ma mshīt",
+        "en": "after you left"
+      }
+    ]
   },
   {
     "ar": "قبل ما",
@@ -1385,7 +2828,20 @@
     "freq": 2,
     "ex_ar": "كلمني قبل ما تجي.",
     "ex_tr": "kallimni gbal ma tji.",
-    "ex_en": "Call me before you come."
+    "ex_en": "Call me before you come.",
+    "usage": 73,
+    "phrases": [
+      {
+        "ar": "قبل ما ننسى",
+        "tr": "gbal ma nansa",
+        "en": "before I forget"
+      },
+      {
+        "ar": "قبل ما نرقد",
+        "tr": "gbal ma nurgud",
+        "en": "before I sleep"
+      }
+    ]
   },
   {
     "ar": "إنّ",
@@ -1398,7 +2854,20 @@
     "ex_ar": "قالي إنّه تعبان.",
     "ex_tr": "gālli inna ta3bān.",
     "ex_en": "He told me that he's tired.",
-    "note": "Often omitted: قالي تعبان."
+    "note": "Often omitted: قالي تعبان.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "نعرف إنّك تعبان",
+        "tr": "na3rif innik ta3bān",
+        "en": "I know that you're tired"
+      },
+      {
+        "ar": "قالولي إنّه مسافر",
+        "tr": "gālūli inna msāfir",
+        "en": "They told me that he's travelling"
+      }
+    ]
   },
   {
     "ar": "يا ... يا",
@@ -1410,7 +2879,20 @@
     "freq": 3,
     "ex_ar": "يا تجي يا نمشي أنا.",
     "ex_tr": "yā tji yā nimshi ana.",
-    "ex_en": "Either you come or I'll go."
+    "ex_en": "Either you come or I'll go.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "يا اليوم يا غدوة",
+        "tr": "yā ilyōm yā ghudwa",
+        "en": "either today or tomorrow"
+      },
+      {
+        "ar": "يا هذا يا هذاكا",
+        "tr": "yā hādha yā hādhāka",
+        "en": "either this one or that one"
+      }
+    ]
   },
   {
     "ar": "لا ... ولا",
@@ -1422,7 +2904,20 @@
     "freq": 3,
     "ex_ar": "لا عندي وقت ولا فلوس.",
     "ex_tr": "lā 3andi wagt wala flūs.",
-    "ex_en": "I have neither time nor money."
+    "ex_en": "I have neither time nor money.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "لا هذا ولا هذاكا",
+        "tr": "lā hādha wala hādhāka",
+        "en": "neither this nor that"
+      },
+      {
+        "ar": "لا شاف ولا سمع",
+        "tr": "lā shāf wala smi3",
+        "en": "He neither saw nor heard"
+      }
+    ]
   },
   {
     "ar": "وإلا",
@@ -1434,7 +2929,20 @@
     "freq": 2,
     "ex_ar": "أسرع وإلا بتفوتك الطيارة.",
     "ex_tr": "asri3 willa bitfūtik TTayyāra.",
-    "ex_en": "Hurry or else you'll miss the plane."
+    "ex_en": "Hurry or else you'll miss the plane.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "كول وإلا نزعل",
+        "tr": "kūl willa niz3al",
+        "en": "Eat or else I'll be upset"
+      },
+      {
+        "ar": "اسكت وإلا",
+        "tr": "uskut willa",
+        "en": "Be quiet, or else"
+      }
+    ]
   },
   {
     "ar": "مادام",
@@ -1446,7 +2954,20 @@
     "freq": 3,
     "ex_ar": "مادام إنت هني، نقعد.",
     "ex_tr": "mādām inta hni, nug3ud.",
-    "ex_en": "Since you're here, I'll stay."
+    "ex_en": "Since you're here, I'll stay.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "مادام جيت، اقعد",
+        "tr": "mādām jīt, ug3ud",
+        "en": "Since you've come, sit down"
+      },
+      {
+        "ar": "مادام نقدر",
+        "tr": "mādām nigdar",
+        "en": "as long as I can"
+      }
+    ]
   },
   {
     "ar": "كيف ما",
@@ -1458,7 +2979,20 @@
     "freq": 2,
     "ex_ar": "دير كيف ما تبي.",
     "ex_tr": "dīr kīf ma tibbi.",
-    "ex_en": "Do as you like."
+    "ex_en": "Do as you like.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "كيف ما قلتلك",
+        "tr": "kīf ma gultlik",
+        "en": "just as I told you"
+      },
+      {
+        "ar": "كيف ما تبي",
+        "tr": "kīf ma tibbi",
+        "en": "however you like"
+      }
+    ]
   },
   {
     "ar": "زعما",
@@ -1471,7 +3005,20 @@
     "ex_ar": "زعما هو اللي دارها؟",
     "ex_tr": "za3ma huwa illi dārha?",
     "ex_en": "So supposedly he's the one who did it?",
-    "note": "Common Maghrebi discourse particle."
+    "note": "Common Maghrebi discourse particle.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "زعما إنت تعرف؟",
+        "tr": "za3ma inta ta3rif?",
+        "en": "So you supposedly know?"
+      },
+      {
+        "ar": "زعما ما يعرفش؟",
+        "tr": "za3ma ma ya3rafsh?",
+        "en": "As if he doesn't know?"
+      }
+    ]
   },
   {
     "ar": "يعني",
@@ -1483,7 +3030,20 @@
     "freq": 1,
     "ex_ar": "يعني ما تبيش تجي؟",
     "ex_tr": "ya3ni ma tibbīsh tji?",
-    "ex_en": "So you mean you don't want to come?"
+    "ex_en": "So you mean you don't want to come?",
+    "usage": 96,
+    "phrases": [
+      {
+        "ar": "يعني شن؟",
+        "tr": "ya3ni shin?",
+        "en": "Meaning what?"
+      },
+      {
+        "ar": "يعني باهي",
+        "tr": "ya3ni bāhi",
+        "en": "I mean, it's OK"
+      }
+    ]
   },
   {
     "ar": "إمبعد",
@@ -1496,7 +3056,20 @@
     "ex_ar": "مشينا للسوق إمبعد روحنا.",
     "ex_tr": "mshēna lis-sūg umba3d raww7na.",
     "ex_en": "We went to the market and then went home.",
-    "note": "Libyan; from و من بعد."
+    "note": "Libyan; from و من بعد.",
+    "usage": 87,
+    "phrases": [
+      {
+        "ar": "إمبعد شن صار؟",
+        "tr": "umba3d shin Sār?",
+        "en": "And then what happened?"
+      },
+      {
+        "ar": "كمل الماكلة إمبعد العب",
+        "tr": "kammil limākla umba3d il3ab",
+        "en": "Finish your food, then play"
+      }
+    ]
   },
   {
     "ar": "بس",
@@ -1509,7 +3082,20 @@
     "ex_ar": "حلو، بس غالي.",
     "ex_tr": "7ilu, bass ghāli.",
     "ex_en": "Nice, but expensive.",
-    "note": "Heard in Libya, especially among youth; لكن lākin is the neutral choice."
+    "note": "Heard in Libya, especially among youth; لكن lākin is the neutral choice.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "بس شوية",
+        "tr": "bass shwayya",
+        "en": "just a little"
+      },
+      {
+        "ar": "حلو بس بعيد",
+        "tr": "7ilu bass b3īd",
+        "en": "Nice but far"
+      }
+    ]
   },
   {
     "ar": "أما",
@@ -1521,7 +3107,20 @@
     "freq": 3,
     "ex_ar": "أنا جاي، أما هو ما نعرفش.",
     "ex_tr": "ana jāy, amma huwa ma na3rafsh.",
-    "ex_en": "I'm coming; as for him, I don't know."
+    "ex_en": "I'm coming; as for him, I don't know.",
+    "usage": 57,
+    "phrases": [
+      {
+        "ar": "أما أنا، ما نبيش",
+        "tr": "amma ana, ma nibbīsh",
+        "en": "As for me, I don't want to"
+      },
+      {
+        "ar": "أما خوه باهي",
+        "tr": "amma khūh bāhi",
+        "en": "As for his brother, he's fine"
+      }
+    ]
   },
   {
     "ar": "كأنه",
@@ -1533,7 +3132,20 @@
     "freq": 3,
     "ex_ar": "كأنه تعبان اليوم.",
     "ex_tr": "ka'inna ta3bān ilyōm.",
-    "ex_en": "It looks like he's tired today."
+    "ex_en": "It looks like he's tired today.",
+    "usage": 63,
+    "phrases": [
+      {
+        "ar": "كأنه نايم",
+        "tr": "ka'inna nāyim",
+        "en": "It seems he's asleep"
+      },
+      {
+        "ar": "كأنه ما سمعنيش",
+        "tr": "ka'inna ma sma3nīsh",
+        "en": "It's as if he didn't hear me"
+      }
+    ]
   },
   {
     "ar": "حتى لو",
@@ -1545,7 +3157,20 @@
     "freq": 3,
     "ex_ar": "نجي حتى لو تصب المطر.",
     "ex_tr": "nji 7atta lu tSubb ilmTar.",
-    "ex_en": "I'll come even if it rains."
+    "ex_en": "I'll come even if it rains.",
+    "usage": 61,
+    "phrases": [
+      {
+        "ar": "حتى لو تزعل",
+        "tr": "7atta lu tiz3al",
+        "en": "even if you get upset"
+      },
+      {
+        "ar": "حتى لو غالي، نشريه",
+        "tr": "7atta lu ghāli, nishrīh",
+        "en": "Even if it's expensive, I'll buy it"
+      }
+    ]
   },
   {
     "ar": "مع إنّ",
@@ -1557,7 +3182,20 @@
     "freq": 3,
     "ex_ar": "جا مع إنّه مريض.",
     "ex_tr": "ja ma3 inna marīD.",
-    "ex_en": "He came even though he's ill."
+    "ex_en": "He came even though he's ill.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "مع إنّه غني",
+        "tr": "ma3 inna ghani",
+        "en": "although he's rich"
+      },
+      {
+        "ar": "مع إنّي قلتله",
+        "tr": "ma3 inni gultla",
+        "en": "even though I told him"
+      }
+    ]
   },
   {
     "ar": "والله",
@@ -1570,7 +3208,20 @@
     "ex_ar": "والله ما نعرف.",
     "ex_tr": "walla ma na3rif.",
     "ex_en": "Honestly, I don't know.",
-    "note": "Distinct in usage from ولا walla 'or'; written والله."
+    "note": "Distinct in usage from ولا walla 'or'; written والله.",
+    "usage": 97,
+    "phrases": [
+      {
+        "ar": "والله باهي",
+        "tr": "walla bāhi",
+        "en": "Really, that's good"
+      },
+      {
+        "ar": "والله ما نكذب",
+        "tr": "walla ma nikdhib",
+        "en": "I swear I'm not lying"
+      }
+    ]
   },
   {
     "ar": "تَوّا",
@@ -1583,7 +3234,20 @@
     "ex_ar": "تَوّا نجيك.",
     "ex_tr": "tawwa njīk.",
     "ex_en": "I'll come to you now.",
-    "note": "Also 'in a moment'. تَوّا تَوّا = right now."
+    "note": "Also 'in a moment'. تَوّا تَوّا = right now.",
+    "usage": 99,
+    "phrases": [
+      {
+        "ar": "تَوّا نجي",
+        "tr": "tawwa nji",
+        "en": "I'm coming now"
+      },
+      {
+        "ar": "وين إنت تَوّا؟",
+        "tr": "wīn inta tawwa?",
+        "en": "Where are you now?"
+      }
+    ]
   },
   {
     "ar": "بعدين",
@@ -1595,7 +3259,20 @@
     "freq": 1,
     "ex_ar": "نكلمك بعدين.",
     "ex_tr": "nkallmik ba3dēn.",
-    "ex_en": "I'll call you later."
+    "ex_en": "I'll call you later.",
+    "usage": 93,
+    "phrases": [
+      {
+        "ar": "بعدين نشوفوا",
+        "tr": "ba3dēn nshūfu",
+        "en": "We'll see later"
+      },
+      {
+        "ar": "نحكيلك بعدين",
+        "tr": "n7kīlik ba3dēn",
+        "en": "I'll tell you later"
+      }
+    ]
   },
   {
     "ar": "ديما",
@@ -1607,7 +3284,20 @@
     "freq": 1,
     "ex_ar": "هو ديما يتأخر.",
     "ex_tr": "huwa dīma yit'akhkhar.",
-    "ex_en": "He's always late."
+    "ex_en": "He's always late.",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "ديما هكي",
+        "tr": "dīma hakki",
+        "en": "always like this"
+      },
+      {
+        "ar": "ديما معاك",
+        "tr": "dīma ma3āk",
+        "en": "always with you"
+      }
+    ]
   },
   {
     "ar": "ياسر",
@@ -1620,7 +3310,20 @@
     "ex_ar": "الجو سخون ياسر.",
     "ex_tr": "ijjaw skhūn yāsir.",
     "ex_en": "The weather is very hot.",
-    "note": "Also adj. 'many': ناس ياسرين nās yāsrīn."
+    "note": "Also adj. 'many': ناس ياسرين nās yāsrīn.",
+    "usage": 94,
+    "phrases": [
+      {
+        "ar": "شكراً ياسر",
+        "tr": "shukran yāsir",
+        "en": "Thanks a lot"
+      },
+      {
+        "ar": "غالي ياسر",
+        "tr": "ghāli yāsir",
+        "en": "too expensive"
+      }
+    ]
   },
   {
     "ar": "هلبة",
@@ -1633,7 +3336,20 @@
     "ex_ar": "نحبك هلبة.",
     "ex_tr": "n7ibbik hallba.",
     "ex_en": "I love you a lot.",
-    "note": "Typically Libyan (also Tunisian هلبة/برشا)."
+    "note": "Typically Libyan (also Tunisian هلبة/برشا).",
+    "usage": 95,
+    "phrases": [
+      {
+        "ar": "هلبة ناس",
+        "tr": "hallba nās",
+        "en": "lots of people"
+      },
+      {
+        "ar": "تعبت هلبة",
+        "tr": "t3abt hallba",
+        "en": "I got very tired"
+      }
+    ]
   },
   {
     "ar": "شوية",
@@ -1645,7 +3361,20 @@
     "freq": 1,
     "ex_ar": "استنى شوية.",
     "ex_tr": "stanna shwayya.",
-    "ex_en": "Wait a little."
+    "ex_en": "Wait a little.",
+    "usage": 93,
+    "phrases": [
+      {
+        "ar": "شوية شوية",
+        "tr": "shwayya shwayya",
+        "en": "little by little"
+      },
+      {
+        "ar": "شوية سكر",
+        "tr": "shwayya sukkar",
+        "en": "a little sugar"
+      }
+    ]
   },
   {
     "ar": "بالشوية",
@@ -1657,7 +3386,20 @@
     "freq": 2,
     "ex_ar": "سوق بالشوية.",
     "ex_tr": "sūg bi-shwayya.",
-    "ex_en": "Drive slowly."
+    "ex_en": "Drive slowly.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "بالشوية عليه",
+        "tr": "bi-shwayya 3lēh",
+        "en": "go easy on him"
+      },
+      {
+        "ar": "احكي بالشوية",
+        "tr": "i7ki bi-shwayya",
+        "en": "Speak slowly / quietly"
+      }
+    ]
   },
   {
     "ar": "هني",
@@ -1670,7 +3412,20 @@
     "ex_ar": "تعال هني.",
     "ex_tr": "ta3āl hni.",
     "ex_en": "Come here.",
-    "note": "Also هنايا hnāya."
+    "note": "Also هنايا hnāya.",
+    "usage": 96,
+    "phrases": [
+      {
+        "ar": "تعال لهني",
+        "tr": "ta3āl l-hni",
+        "en": "Come over here"
+      },
+      {
+        "ar": "أنا هني",
+        "tr": "ana hni",
+        "en": "I'm here"
+      }
+    ]
   },
   {
     "ar": "غادي",
@@ -1683,7 +3438,20 @@
     "ex_ar": "حط الكرسي غادي.",
     "ex_tr": "7uTT likursi ghādi.",
     "ex_en": "Put the chair over there.",
-    "note": "Typically Libyan for 'there'."
+    "note": "Typically Libyan for 'there'.",
+    "usage": 83,
+    "phrases": [
+      {
+        "ar": "حطه غادي",
+        "tr": "7uTTa ghādi",
+        "en": "Put it over there"
+      },
+      {
+        "ar": "شوف غادي",
+        "tr": "shūf ghādi",
+        "en": "Look over there"
+      }
+    ]
   },
   {
     "ar": "زادة",
@@ -1695,7 +3463,20 @@
     "freq": 1,
     "ex_ar": "وأنا زادة نبي نجي.",
     "ex_tr": "w ana zāda nibbi nji.",
-    "ex_en": "I want to come too."
+    "ex_en": "I want to come too.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "أنا زادة",
+        "tr": "ana zāda",
+        "en": "me too"
+      },
+      {
+        "ar": "جيب خبزة زادة",
+        "tr": "jīb khubza zāda",
+        "en": "Bring bread too"
+      }
+    ]
   },
   {
     "ar": "طول",
@@ -1708,7 +3489,20 @@
     "ex_ar": "امشي طول وبعدين ليمين.",
     "ex_tr": "imshi Tūl w ba3dēn l-limīn.",
     "ex_en": "Go straight and then right.",
-    "note": "Also 'immediately': جا طول ja Tūl."
+    "note": "Also 'immediately': جا طول ja Tūl.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "طول لقدام",
+        "tr": "Tūl l-giddām",
+        "en": "straight ahead"
+      },
+      {
+        "ar": "مشى طول للحوش",
+        "tr": "msha Tūl lil-7ōsh",
+        "en": "He went straight home"
+      }
+    ]
   },
   {
     "ar": "فيسع",
@@ -1721,7 +3515,20 @@
     "ex_ar": "تعال فيسع!",
     "ex_tr": "ta3āl fīsa3!",
     "ex_en": "Come quickly!",
-    "note": "Libyan/Tunisian."
+    "note": "Libyan/Tunisian.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "ارجع فيسع",
+        "tr": "irja3 fīsa3",
+        "en": "Come back quickly"
+      },
+      {
+        "ar": "فيسع فيسع!",
+        "tr": "fīsa3 fīsa3!",
+        "en": "Hurry, hurry!"
+      }
+    ]
   },
   {
     "ar": "قاع",
@@ -1734,7 +3541,20 @@
     "ex_ar": "ما فهمت شي قاع.",
     "ex_tr": "ma fhimt shay gā3.",
     "ex_en": "I didn't understand anything at all.",
-    "note": "Also كلهم قاع kullhum gā3 'every one of them'."
+    "note": "Also كلهم قاع kullhum gā3 'every one of them'.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "ما نبيش قاع",
+        "tr": "ma nibbīsh gā3",
+        "en": "I don't want it at all"
+      },
+      {
+        "ar": "خوذهم قاع",
+        "tr": "khūdhhum gā3",
+        "en": "Take them all"
+      }
+    ]
   },
   {
     "ar": "بالكل",
@@ -1746,7 +3566,20 @@
     "freq": 2,
     "ex_ar": "ما نعرفاش بالكل.",
     "ex_tr": "ma na3rfāsh bilkull.",
-    "ex_en": "I don't know her at all."
+    "ex_en": "I don't know her at all.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "نسيته بالكل",
+        "tr": "nsīta bilkull",
+        "en": "I forgot it completely"
+      },
+      {
+        "ar": "ما يحكيش بالكل",
+        "tr": "ma y7kīsh bilkull",
+        "en": "He doesn't speak at all"
+      }
+    ]
   },
   {
     "ar": "أبداً",
@@ -1758,7 +3591,20 @@
     "freq": 2,
     "ex_ar": "ما مشيتش لمصر أبداً.",
     "ex_tr": "ma mshītish l-maSr abadan.",
-    "ex_en": "I've never been to Egypt."
+    "ex_en": "I've never been to Egypt.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "أبداً، ما صار شي",
+        "tr": "abadan, ma Sār shay",
+        "en": "Not at all, nothing happened"
+      },
+      {
+        "ar": "ما نكذب أبداً",
+        "tr": "ma nikdhib abadan",
+        "en": "I never lie"
+      }
+    ]
   },
   {
     "ar": "مازال",
@@ -1771,7 +3617,20 @@
     "ex_ar": "مازال ما جاش.",
     "ex_tr": "māzāl ma jāsh.",
     "ex_en": "He still hasn't come.",
-    "note": "مازالني māzālni 'I'm still', مازال ما ... 'not yet'."
+    "note": "مازالني māzālni 'I'm still', مازال ما ... 'not yet'.",
+    "usage": 89,
+    "phrases": [
+      {
+        "ar": "مازال بكري",
+        "tr": "māzāl bakri",
+        "en": "It's still early"
+      },
+      {
+        "ar": "مازال تخدم هناك؟",
+        "tr": "māzāl tikhdim hnāk?",
+        "en": "Do you still work there?"
+      }
+    ]
   },
   {
     "ar": "خلاص",
@@ -1784,7 +3643,20 @@
     "ex_ar": "خلاص، فهمت.",
     "ex_tr": "khalāS, fhimt.",
     "ex_en": "OK, enough, I understand.",
-    "note": "Also 'finished': الخدمة خلاص likhidma khalāS."
+    "note": "Also 'finished': الخدمة خلاص likhidma khalāS.",
+    "usage": 93,
+    "phrases": [
+      {
+        "ar": "خلاص، باهي",
+        "tr": "khalāS, bāhi",
+        "en": "OK, fine"
+      },
+      {
+        "ar": "خلاص، كمّلت",
+        "tr": "khalāS, kammalt",
+        "en": "That's it, I'm done"
+      }
+    ]
   },
   {
     "ar": "هكي",
@@ -1797,7 +3669,20 @@
     "ex_ar": "دير هكي.",
     "ex_tr": "dīr hakki.",
     "ex_en": "Do it like this.",
-    "note": "Libyan; also هكا hakka."
+    "note": "Libyan; also هكا hakka.",
+    "usage": 91,
+    "phrases": [
+      {
+        "ar": "هكي باهي؟",
+        "tr": "hakki bāhi?",
+        "en": "Is it good like this?"
+      },
+      {
+        "ar": "مش هكي",
+        "tr": "mush hakki",
+        "en": "Not like this"
+      }
+    ]
   },
   {
     "ar": "قريب",
@@ -1809,7 +3694,20 @@
     "freq": 2,
     "ex_ar": "الحوش قريب من هني.",
     "ex_tr": "l7ōsh grayyib min hni.",
-    "ex_en": "The house is near here."
+    "ex_en": "The house is near here.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "العيد قريب",
+        "tr": "il3īd grayyib",
+        "en": "Eid is soon"
+      },
+      {
+        "ar": "ساكن قريب",
+        "tr": "sākin grayyib",
+        "en": "I live nearby"
+      }
+    ]
   },
   {
     "ar": "بعيد",
@@ -1821,7 +3719,20 @@
     "freq": 2,
     "ex_ar": "المطار بعيد شوية.",
     "ex_tr": "limaTār b3īd shwayya.",
-    "ex_en": "The airport is a bit far."
+    "ex_en": "The airport is a bit far.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "بعيد شوية",
+        "tr": "b3īd shwayya",
+        "en": "a bit far"
+      },
+      {
+        "ar": "مش بعيد",
+        "tr": "mush b3īd",
+        "en": "It's not far"
+      }
+    ]
   },
   {
     "ar": "الفوق",
@@ -1833,7 +3744,20 @@
     "freq": 2,
     "ex_ar": "أمي الفوق.",
     "ex_tr": "ummi l-fōg.",
-    "ex_en": "My mum is upstairs."
+    "ex_en": "My mum is upstairs.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "اطلع الفوق",
+        "tr": "uTla3 l-fōg",
+        "en": "Go upstairs"
+      },
+      {
+        "ar": "الصغار نايمين الفوق",
+        "tr": "iSSghār nāymīn l-fōg",
+        "en": "The kids are asleep upstairs"
+      }
+    ]
   },
   {
     "ar": "اللوطة",
@@ -1846,7 +3770,20 @@
     "ex_ar": "استناني اللوطة.",
     "ex_tr": "stannāni l-lūTa.",
     "ex_en": "Wait for me downstairs.",
-    "note": "Maghrebi لوطة lūTa 'down'."
+    "note": "Maghrebi لوطة lūTa 'down'.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "انزل اللوطة",
+        "tr": "inzil l-lūTa",
+        "en": "Go downstairs"
+      },
+      {
+        "ar": "الكرهبة اللوطة",
+        "tr": "likarhba l-lūTa",
+        "en": "The car is down below"
+      }
+    ]
   },
   {
     "ar": "لقدام",
@@ -1858,7 +3795,20 @@
     "freq": 2,
     "ex_ar": "امشي شوية لقدام.",
     "ex_tr": "imshi shwayya l-giddām.",
-    "ex_en": "Go forward a bit."
+    "ex_en": "Go forward a bit.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "زيد لقدام",
+        "tr": "zīd l-giddām",
+        "en": "Move forward"
+      },
+      {
+        "ar": "خش لقدام شوية",
+        "tr": "khushsh l-giddām shwayya",
+        "en": "Go in a bit further forward"
+      }
+    ]
   },
   {
     "ar": "لورا",
@@ -1870,7 +3820,20 @@
     "freq": 2,
     "ex_ar": "رجع الكرهبة لورا.",
     "ex_tr": "rajja3 likarhba l-wra.",
-    "ex_en": "Back the car up."
+    "ex_en": "Back the car up.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "ارجع لورا",
+        "tr": "irja3 l-wra",
+        "en": "Go back"
+      },
+      {
+        "ar": "شوف لورا",
+        "tr": "shūf l-wra",
+        "en": "Look back"
+      }
+    ]
   },
   {
     "ar": "يمكن",
@@ -1882,7 +3845,20 @@
     "freq": 1,
     "ex_ar": "يمكن نجي غدوة.",
     "ex_tr": "yimkin nji ghudwa.",
-    "ex_en": "Maybe I'll come tomorrow."
+    "ex_en": "Maybe I'll come tomorrow.",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "يمكن غدوة",
+        "tr": "yimkin ghudwa",
+        "en": "maybe tomorrow"
+      },
+      {
+        "ar": "يمكن ما يجيش",
+        "tr": "yimkin ma yjīsh",
+        "en": "Maybe he won't come"
+      }
+    ]
   },
   {
     "ar": "أكيد",
@@ -1894,7 +3870,20 @@
     "freq": 1,
     "ex_ar": "أكيد نجي!",
     "ex_tr": "akīd nji!",
-    "ex_en": "Of course I'll come!"
+    "ex_en": "Of course I'll come!",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "أكيد جاي؟",
+        "tr": "akīd jāy?",
+        "en": "Are you sure you're coming?"
+      },
+      {
+        "ar": "أكيد، ما في مشكلة",
+        "tr": "akīd, ma fi mushkila",
+        "en": "Sure, no problem"
+      }
+    ]
   },
   {
     "ar": "طبعاً",
@@ -1906,7 +3895,20 @@
     "freq": 2,
     "ex_ar": "طبعاً نعرفه.",
     "ex_tr": "Tab3an na3rfa.",
-    "ex_en": "Of course I know him."
+    "ex_en": "Of course I know him.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "طبعاً لا",
+        "tr": "Tab3an lā",
+        "en": "Of course not"
+      },
+      {
+        "ar": "طبعاً تعال",
+        "tr": "Tab3an ta3āl",
+        "en": "Of course, come"
+      }
+    ]
   },
   {
     "ar": "تقريباً",
@@ -1918,7 +3920,20 @@
     "freq": 2,
     "ex_ar": "وصلنا تقريباً.",
     "ex_tr": "wiSilna tagrīban.",
-    "ex_en": "We've almost arrived."
+    "ex_en": "We've almost arrived.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "تقريباً ساعة",
+        "tr": "tagrīban sā3a",
+        "en": "about an hour"
+      },
+      {
+        "ar": "كمّلت تقريباً",
+        "tr": "kammalt tagrīban",
+        "en": "I'm almost done"
+      }
+    ]
   },
   {
     "ar": "بالضبط",
@@ -1930,7 +3945,20 @@
     "freq": 2,
     "ex_ar": "الساعة خمسة بالضبط.",
     "ex_tr": "issā3a khamsa biDDabT.",
-    "ex_en": "It's exactly five o'clock."
+    "ex_en": "It's exactly five o'clock.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "هذا بالضبط",
+        "tr": "hādha biDDabT",
+        "en": "exactly this"
+      },
+      {
+        "ar": "بالضبط كيف ما قلت",
+        "tr": "biDDabT kīf ma gult",
+        "en": "exactly as you said"
+      }
+    ]
   },
   {
     "ar": "كيف كيف",
@@ -1942,7 +3970,20 @@
     "freq": 2,
     "ex_ar": "هذا وهذاكا كيف كيف.",
     "ex_tr": "hādha w hādhāka kīf kīf.",
-    "ex_en": "This and that are the same."
+    "ex_en": "This and that are the same.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "كيف كيف عندي",
+        "tr": "kīf kīf 3andi",
+        "en": "It's all the same to me"
+      },
+      {
+        "ar": "الحال كيف كيف",
+        "tr": "l7āl kīf kīf",
+        "en": "Things are the same"
+      }
+    ]
   },
   {
     "ar": "مع بعض",
@@ -1954,7 +3995,20 @@
     "freq": 1,
     "ex_ar": "نتغدوا مع بعض.",
     "ex_tr": "nitghaddu ma3 ba3D.",
-    "ex_en": "Let's have lunch together."
+    "ex_en": "Let's have lunch together.",
+    "usage": 83,
+    "phrases": [
+      {
+        "ar": "نمشوا مع بعض",
+        "tr": "nimshu ma3 ba3D",
+        "en": "Let's go together"
+      },
+      {
+        "ar": "ساكنين مع بعض",
+        "tr": "sāknīn ma3 ba3D",
+        "en": "They live together"
+      }
+    ]
   },
   {
     "ar": "ساعات",
@@ -1967,7 +4021,20 @@
     "ex_ar": "ساعات نمشي للبحر.",
     "ex_tr": "sā3āt nimshi lil-ba7r.",
     "ex_en": "Sometimes I go to the beach.",
-    "note": "Also مرات marrāt."
+    "note": "Also مرات marrāt.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "ساعات نتأخر",
+        "tr": "sā3āt nit'akhkhar",
+        "en": "Sometimes I'm late"
+      },
+      {
+        "ar": "ساعات إيه وساعات لا",
+        "tr": "sā3āt īh w sā3āt lā",
+        "en": "Sometimes yes, sometimes no"
+      }
+    ]
   },
   {
     "ar": "مرات",
@@ -1979,7 +4046,20 @@
     "freq": 2,
     "ex_ar": "مرات يجي معانا.",
     "ex_tr": "marrāt yji ma3āna.",
-    "ex_en": "Sometimes he comes with us."
+    "ex_en": "Sometimes he comes with us.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "مرات نطيب أنا",
+        "tr": "marrāt nTayyib ana",
+        "en": "Sometimes I cook"
+      },
+      {
+        "ar": "مرات هلبة",
+        "tr": "marrāt hallba",
+        "en": "many times"
+      }
+    ]
   },
   {
     "ar": "أكثر",
@@ -1991,7 +4071,20 @@
     "freq": 2,
     "ex_ar": "كول أكثر شوية.",
     "ex_tr": "kūl akthar shwayya.",
-    "ex_en": "Eat a bit more."
+    "ex_en": "Eat a bit more.",
+    "usage": 79,
+    "phrases": [
+      {
+        "ar": "نبي أكثر",
+        "tr": "nibbi akthar",
+        "en": "I want more"
+      },
+      {
+        "ar": "أكثر من هكي",
+        "tr": "akthar min hakki",
+        "en": "more than this"
+      }
+    ]
   },
   {
     "ar": "أقل",
@@ -2003,7 +4096,20 @@
     "freq": 3,
     "ex_ar": "لازم ناكل سكر أقل.",
     "ex_tr": "lāzim nākil sukkar agall.",
-    "ex_en": "I need to eat less sugar."
+    "ex_en": "I need to eat less sugar.",
+    "usage": 63,
+    "phrases": [
+      {
+        "ar": "أقل من عشرة",
+        "tr": "agall min 3ashra",
+        "en": "less than ten"
+      },
+      {
+        "ar": "بسعر أقل",
+        "tr": "b-si3r agall",
+        "en": "at a lower price"
+      }
+    ]
   },
   {
     "ar": "كفاية",
@@ -2015,7 +4121,20 @@
     "freq": 2,
     "ex_ar": "كفاية، شبعت.",
     "ex_tr": "kifāya, shba3t.",
-    "ex_en": "That's enough, I'm full."
+    "ex_en": "That's enough, I'm full.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "كفاية حكي",
+        "tr": "kifāya 7aki",
+        "en": "Enough talk"
+      },
+      {
+        "ar": "كفاية عليك",
+        "tr": "kifāya 3lēk",
+        "en": "That's enough for you"
+      }
+    ]
   },
   {
     "ar": "برشة",
@@ -2028,7 +4147,20 @@
     "ex_ar": "يحكي برشة.",
     "ex_tr": "y7ki barsha.",
     "ex_en": "He talks a lot.",
-    "note": "Heard in western border areas; هلبة hallba and ياسر yāsir are the Libyan norm."
+    "note": "Heard in western border areas; هلبة hallba and ياسر yāsir are the Libyan norm.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "برشة ناس",
+        "tr": "barsha nās",
+        "en": "lots of people"
+      },
+      {
+        "ar": "يعيشك برشة",
+        "tr": "y3ayshik barsha",
+        "en": "Thanks a lot (Tunisian style)"
+      }
+    ]
   },
   {
     "ar": "فعلاً",
@@ -2040,7 +4172,20 @@
     "freq": 3,
     "ex_ar": "فعلاً، عندك الحق.",
     "ex_tr": "fi3lan, 3andik l7agg.",
-    "ex_en": "Indeed, you're right."
+    "ex_en": "Indeed, you're right.",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "فعلاً باهي",
+        "tr": "fi3lan bāhi",
+        "en": "Really good"
+      },
+      {
+        "ar": "فعلاً هكي صار؟",
+        "tr": "fi3lan hakki Sār?",
+        "en": "Did it really happen like that?"
+      }
+    ]
   },
   {
     "ar": "بالحق",
@@ -2052,7 +4197,20 @@
     "freq": 2,
     "ex_ar": "بالحق؟ ما صدقتش.",
     "ex_tr": "bil7agg? ma Saddagtish.",
-    "ex_en": "Really? I can't believe it."
+    "ex_en": "Really? I can't believe it.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "بالحق تحكي؟",
+        "tr": "bil7agg t7ki?",
+        "en": "Are you serious?"
+      },
+      {
+        "ar": "بالحق باهي",
+        "tr": "bil7agg bāhi",
+        "en": "It's really good"
+      }
+    ]
   },
   {
     "ar": "لازم",
@@ -2064,7 +4222,20 @@
     "freq": 1,
     "ex_ar": "لازم نمشي تَوّا.",
     "ex_tr": "lāzim nimshi tawwa.",
-    "ex_en": "I have to go now."
+    "ex_en": "I have to go now.",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "لازم نمشي",
+        "tr": "lāzim nimshi",
+        "en": "I have to go"
+      },
+      {
+        "ar": "مش لازم",
+        "tr": "mush lāzim",
+        "en": "Not necessary"
+      }
+    ]
   },
   {
     "ar": "بكري",
@@ -2077,7 +4248,20 @@
     "ex_ar": "نوض بكري الصبح.",
     "ex_tr": "nūD bakri iSSba7.",
     "ex_en": "Get up early in the morning.",
-    "note": "Maghrebi; also بدري badri."
+    "note": "Maghrebi; also بدري badri.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "جيت بكري",
+        "tr": "jīt bakri",
+        "en": "I came early"
+      },
+      {
+        "ar": "بكري كانت الدنيا غير",
+        "tr": "bakri kānit iddinya ghēr",
+        "en": "In the old days, things were different"
+      }
+    ]
   },
   {
     "ar": "متأخر",
@@ -2089,7 +4273,20 @@
     "freq": 2,
     "ex_ar": "جيت متأخر اليوم.",
     "ex_tr": "jīt mit'akhkhir ilyōm.",
-    "ex_en": "I came late today."
+    "ex_en": "I came late today.",
+    "usage": 67,
+    "phrases": [
+      {
+        "ar": "الوقت متأخر",
+        "tr": "ilwagt mit'akhkhir",
+        "en": "It's late"
+      },
+      {
+        "ar": "نوصل متأخر شوية",
+        "tr": "nūSil mit'akhkhir shwayya",
+        "en": "I'll arrive a bit late"
+      }
+    ]
   },
   {
     "ar": "توا توا",
@@ -2101,7 +4298,20 @@
     "freq": 2,
     "ex_ar": "تعال توا توا!",
     "ex_tr": "ta3āl tawwa tawwa!",
-    "ex_en": "Come right now!"
+    "ex_en": "Come right now!",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "تَوّا تَوّا نجيك",
+        "tr": "tawwa tawwa njīk",
+        "en": "I'm coming right away"
+      },
+      {
+        "ar": "نبيها تَوّا تَوّا",
+        "tr": "nibbīha tawwa tawwa",
+        "en": "I want it right now"
+      }
+    ]
   },
   {
     "ar": "مرة",
@@ -2113,7 +4323,20 @@
     "freq": 2,
     "ex_ar": "مشيت لتونس مرة وحدة.",
     "ex_tr": "mshīt l-tūnis marra wa7da.",
-    "ex_en": "I went to Tunisia once."
+    "ex_en": "I went to Tunisia once.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "مرة وحدة",
+        "tr": "marra wa7da",
+        "en": "just once"
+      },
+      {
+        "ar": "مرة ثانية",
+        "tr": "marra thānya",
+        "en": "another time; again"
+      }
+    ]
   },
   {
     "ar": "من جديد",
@@ -2126,7 +4349,20 @@
     "ex_ar": "عاود من جديد.",
     "ex_tr": "3āwid min jdīd.",
     "ex_en": "Do it again from scratch.",
-    "note": "Libyan: عاود 3āwid 'repeat'."
+    "note": "Libyan: عاود 3āwid 'repeat'.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "نبدوا من جديد",
+        "tr": "nibdu min jdīd",
+        "en": "Let's start over"
+      },
+      {
+        "ar": "كتبتها من جديد",
+        "tr": "ktibtha min jdīd",
+        "en": "I wrote it again from scratch"
+      }
+    ]
   },
   {
     "ar": "برك",
@@ -2139,7 +4375,20 @@
     "ex_ar": "نبي شاهي برك.",
     "ex_tr": "nibbi shāhi bark.",
     "ex_en": "I just want tea.",
-    "note": "Libyan/Maghrebi; also فقط faqaT."
+    "note": "Libyan/Maghrebi; also فقط faqaT.",
+    "usage": 79,
+    "phrases": [
+      {
+        "ar": "شوية برك",
+        "tr": "shwayya bark",
+        "en": "just a little"
+      },
+      {
+        "ar": "نتفرج برك",
+        "tr": "nitfarraj bark",
+        "en": "I'm just looking"
+      }
+    ]
   },
   {
     "ar": "ع الأقل",
@@ -2151,7 +4400,20 @@
     "freq": 3,
     "ex_ar": "كلمني ع الأقل.",
     "ex_tr": "kallimni 3al-agall.",
-    "ex_en": "At least call me."
+    "ex_en": "At least call me.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "ع الأقل سلم عليه",
+        "tr": "3al-agall sallim 3lēh",
+        "en": "At least say hello to him"
+      },
+      {
+        "ar": "ع الأقل عشرة",
+        "tr": "3al-agall 3ashra",
+        "en": "at least ten"
+      }
+    ]
   },
   {
     "ar": "بالزور",
@@ -2163,7 +4425,20 @@
     "freq": 3,
     "ex_ar": "كلا الماكلة بالزور.",
     "ex_tr": "kla limākla bizzūr.",
-    "ex_en": "He ate the food reluctantly."
+    "ex_en": "He ate the food reluctantly.",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "خشّ بالزور",
+        "tr": "khashsh bizzūr",
+        "en": "He forced his way in"
+      },
+      {
+        "ar": "مشى معاهم بالزور",
+        "tr": "msha ma3āhum bizzūr",
+        "en": "He went with them reluctantly"
+      }
+    ]
   },
   {
     "ar": "فجأة",
@@ -2175,7 +4450,20 @@
     "freq": 3,
     "ex_ar": "فجأة طفا الضو.",
     "ex_tr": "faj'a Tfa iDDaw.",
-    "ex_en": "Suddenly the lights went out."
+    "ex_en": "Suddenly the lights went out.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "فجأة جا",
+        "tr": "faj'a ja",
+        "en": "He suddenly came"
+      },
+      {
+        "ar": "وقف فجأة",
+        "tr": "wgaf faj'a",
+        "en": "He stopped suddenly"
+      }
+    ]
   },
   {
     "ar": "على طول",
@@ -2187,7 +4475,20 @@
     "freq": 2,
     "ex_ar": "رد علي على طول.",
     "ex_tr": "radd 3layya 3la Tūl.",
-    "ex_en": "He answered me right away."
+    "ex_en": "He answered me right away.",
+    "usage": 73,
+    "phrases": [
+      {
+        "ar": "على طول نجيك",
+        "tr": "3la Tūl njīk",
+        "en": "I'll come right away"
+      },
+      {
+        "ar": "على طول يحكي",
+        "tr": "3la Tūl y7ki",
+        "en": "He talks all the time"
+      }
+    ]
   },
   {
     "ar": "ممكن",
@@ -2199,7 +4500,20 @@
     "freq": 1,
     "ex_ar": "ممكن تعاوني؟",
     "ex_tr": "mumkin t3āwinni?",
-    "ex_en": "Could you help me?"
+    "ex_en": "Could you help me?",
+    "usage": 87,
+    "phrases": [
+      {
+        "ar": "ممكن سؤال؟",
+        "tr": "mumkin su'āl?",
+        "en": "May I ask a question?"
+      },
+      {
+        "ar": "ممكن نجي معاك؟",
+        "tr": "mumkin nji ma3āk?",
+        "en": "Can I come with you?"
+      }
+    ]
   },
   {
     "ar": "ميسالش",
@@ -2212,7 +4526,20 @@
     "ex_ar": "ميسالش، مرة أخرى.",
     "ex_tr": "mīsālish, marra ukhra.",
     "ex_en": "Never mind, another time.",
-    "note": "Libyan; from ما يسالش 'it doesn't owe anything'."
+    "note": "Libyan; from ما يسالش 'it doesn't owe anything'.",
+    "usage": 71,
+    "phrases": [
+      {
+        "ar": "ميسالش، ما صار شي",
+        "tr": "mīsālish, ma Sār shay",
+        "en": "Never mind, nothing happened"
+      },
+      {
+        "ar": "قلتله ميسالش",
+        "tr": "gultla mīsālish",
+        "en": "I told him it doesn't matter"
+      }
+    ]
   },
   {
     "ar": "على كل حال",
@@ -2224,7 +4551,20 @@
     "freq": 3,
     "ex_ar": "على كل حال، نشوفك غدوة.",
     "ex_tr": "3la kull 7āl, nshūfik ghudwa.",
-    "ex_en": "Anyway, see you tomorrow."
+    "ex_en": "Anyway, see you tomorrow.",
+    "usage": 57,
+    "phrases": [
+      {
+        "ar": "على كل حال شكراً",
+        "tr": "3la kull 7āl shukran",
+        "en": "Thanks anyway"
+      },
+      {
+        "ar": "على كل حال نشوفوا",
+        "tr": "3la kull 7āl nshūfu",
+        "en": "Anyway, we'll see"
+      }
+    ]
   },
   {
     "ar": "مش",
@@ -2236,7 +4576,20 @@
     "freq": 1,
     "ex_ar": "هذا مش متاعي.",
     "ex_tr": "hādha mush mtā3i.",
-    "ex_en": "This isn't mine."
+    "ex_en": "This isn't mine.",
+    "usage": 99,
+    "phrases": [
+      {
+        "ar": "مش مشكلة",
+        "tr": "mush mushkila",
+        "en": "No problem"
+      },
+      {
+        "ar": "مش هكي",
+        "tr": "mush hakki",
+        "en": "Not like that"
+      }
+    ]
   },
   {
     "ar": "ما ... ش",
@@ -2249,7 +4602,20 @@
     "ex_ar": "ما نعرفش.",
     "ex_tr": "ma na3rafsh.",
     "ex_en": "I don't know.",
-    "note": "Circumfix around the verb: ما مشيتش ma mshītish."
+    "note": "Circumfix around the verb: ما مشيتش ma mshītish.",
+    "usage": 99,
+    "phrases": [
+      {
+        "ar": "ما نبيش",
+        "tr": "ma nibbīsh",
+        "en": "I don't want"
+      },
+      {
+        "ar": "ما جاش",
+        "tr": "ma jāsh",
+        "en": "He didn't come"
+      }
+    ]
   },
   {
     "ar": "آه",
@@ -2262,7 +4628,20 @@
     "ex_ar": "آه، نعرفه.",
     "ex_tr": "āh, na3rfa.",
     "ex_en": "Yes, I know him.",
-    "note": "Also إيه īh."
+    "note": "Also إيه īh.",
+    "usage": 97,
+    "phrases": [
+      {
+        "ar": "آه، باهي",
+        "tr": "āh, bāhi",
+        "en": "Yes, fine"
+      },
+      {
+        "ar": "آه نبي",
+        "tr": "āh nibbi",
+        "en": "Yes, I want it"
+      }
+    ]
   },
   {
     "ar": "لا",
@@ -2274,7 +4653,20 @@
     "freq": 1,
     "ex_ar": "لا، شكراً.",
     "ex_tr": "lā, shukran.",
-    "ex_en": "No, thanks."
+    "ex_en": "No, thanks.",
+    "usage": 98,
+    "phrases": [
+      {
+        "ar": "لا، مش هكي",
+        "tr": "lā, mush hakki",
+        "en": "No, not like that"
+      },
+      {
+        "ar": "لا لا، خلاص",
+        "tr": "lā lā, khalāS",
+        "en": "No no, that's enough"
+      }
+    ]
   },
   {
     "ar": "اليوم",
@@ -2286,7 +4678,20 @@
     "freq": 1,
     "ex_ar": "اليوم الجو باهي.",
     "ex_tr": "ilyōm ijjaw bāhi.",
-    "ex_en": "The weather is nice today."
+    "ex_en": "The weather is nice today.",
+    "usage": 96,
+    "phrases": [
+      {
+        "ar": "اليوم الخدمة؟",
+        "tr": "ilyōm likhidma?",
+        "en": "Is work today?"
+      },
+      {
+        "ar": "اليوم بالليل",
+        "tr": "ilyōm bil-lēl",
+        "en": "tonight; this evening"
+      }
+    ]
   },
   {
     "ar": "غدوة",
@@ -2298,7 +4703,20 @@
     "freq": 1,
     "ex_ar": "نتلاقوا غدوة الصبح.",
     "ex_tr": "nitlāgu ghudwa iSSba7.",
-    "ex_en": "Let's meet tomorrow morning."
+    "ex_en": "Let's meet tomorrow morning.",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "نشوفك غدوة",
+        "tr": "nshūfik ghudwa",
+        "en": "See you tomorrow"
+      },
+      {
+        "ar": "غدوة إن شاء الله",
+        "tr": "ghudwa in shā' allāh",
+        "en": "Tomorrow, God willing"
+      }
+    ]
   },
   {
     "ar": "البارح",
@@ -2311,7 +4729,20 @@
     "ex_ar": "البارح كنت تعبان.",
     "ex_tr": "ilbār7a kunt ta3bān.",
     "ex_en": "Yesterday I was tired.",
-    "note": "Written البارح, pronounced ilbār7a."
+    "note": "Written البارح, pronounced ilbār7a.",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "البارح بالليل",
+        "tr": "ilbār7a bil-lēl",
+        "en": "last night"
+      },
+      {
+        "ar": "شفته البارح",
+        "tr": "shifta ilbār7a",
+        "en": "I saw him yesterday"
+      }
+    ]
   },
   {
     "ar": "أول البارح",
@@ -2323,7 +4754,20 @@
     "freq": 2,
     "ex_ar": "جا أول البارح.",
     "ex_tr": "ja awwil ilbār7a.",
-    "ex_en": "He came the day before yesterday."
+    "ex_en": "He came the day before yesterday.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "من أول البارح",
+        "tr": "min awwil ilbār7a",
+        "en": "since the day before yesterday"
+      },
+      {
+        "ar": "أول البارح كان الجو باهي",
+        "tr": "awwil ilbār7a kān ijjaw bāhi",
+        "en": "The day before yesterday the weather was nice"
+      }
+    ]
   },
   {
     "ar": "بعد غدوة",
@@ -2335,7 +4779,20 @@
     "freq": 2,
     "ex_ar": "العرس بعد غدوة.",
     "ex_tr": "il3urs ba3d ghudwa.",
-    "ex_en": "The wedding is the day after tomorrow."
+    "ex_en": "The wedding is the day after tomorrow.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "نتلاقوا بعد غدوة",
+        "tr": "nitlāgu ba3d ghudwa",
+        "en": "We'll meet the day after tomorrow"
+      },
+      {
+        "ar": "بعد غدوة نسافر",
+        "tr": "ba3d ghudwa nsāfir",
+        "en": "I travel the day after tomorrow"
+      }
+    ]
   },
   {
     "ar": "الصبح",
@@ -2347,7 +4804,20 @@
     "freq": 1,
     "ex_ar": "نشرب القهوة الصبح.",
     "ex_tr": "nushrub lgahwa iSSba7.",
-    "ex_en": "I drink coffee in the morning."
+    "ex_en": "I drink coffee in the morning.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "الصبح نمشي للخدمة",
+        "tr": "iSSba7 nimshi lil-khidma",
+        "en": "In the morning I go to work"
+      },
+      {
+        "ar": "من الصبح وأنا نخدم",
+        "tr": "min iSSba7 w ana nikhdim",
+        "en": "I've been working since the morning"
+      }
+    ]
   },
   {
     "ar": "العشية",
@@ -2359,7 +4829,20 @@
     "freq": 1,
     "ex_ar": "نجيك العشية.",
     "ex_tr": "njīk il3ashiyya.",
-    "ex_en": "I'll come to you in the afternoon."
+    "ex_en": "I'll come to you in the afternoon.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "نتلاقوا العشية",
+        "tr": "nitlāgu il3ashiyya",
+        "en": "We'll meet in the afternoon"
+      },
+      {
+        "ar": "العشية نطلعوا",
+        "tr": "il3ashiyya nuTl3u",
+        "en": "We go out in the afternoon"
+      }
+    ]
   },
   {
     "ar": "الليل",
@@ -2371,7 +4854,20 @@
     "freq": 1,
     "ex_ar": "ما نرقدش بكري في الليل.",
     "ex_tr": "ma nurgudsh bakri fi llēl.",
-    "ex_en": "I don't sleep early at night."
+    "ex_en": "I don't sleep early at night.",
+    "usage": 85,
+    "phrases": [
+      {
+        "ar": "الليل كله",
+        "tr": "illēl kulla",
+        "en": "all night long"
+      },
+      {
+        "ar": "في الليل نقرا",
+        "tr": "fi llēl nagra",
+        "en": "I study at night"
+      }
+    ]
   },
   {
     "ar": "ليلة",
@@ -2384,7 +4880,20 @@
     "ex_ar": "قعدنا ليلة كاملة نتكلموا.",
     "ex_tr": "ga3adna lēla kāmla nitkallmu.",
     "ex_en": "We spent a whole night talking.",
-    "note": "pl. ليالي liyāli."
+    "note": "pl. ليالي liyāli.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "ليلة سعيدة",
+        "tr": "lēla sa3īda",
+        "en": "Good night (wishing)"
+      },
+      {
+        "ar": "ليلة العرس",
+        "tr": "lēlat il3urs",
+        "en": "the wedding night"
+      }
+    ]
   },
   {
     "ar": "نهار",
@@ -2397,7 +4906,20 @@
     "ex_ar": "نهار كامل وأنا نستنى.",
     "ex_tr": "nhār kāmil w ana nistanna.",
     "ex_en": "A whole day I've been waiting.",
-    "note": "pl. نهارات nhārāt."
+    "note": "pl. نهارات nhārāt.",
+    "usage": 73,
+    "phrases": [
+      {
+        "ar": "نهار كامل",
+        "tr": "nhār kāmil",
+        "en": "a whole day"
+      },
+      {
+        "ar": "نهارك زين",
+        "tr": "nhārik zēn",
+        "en": "Have a nice day"
+      }
+    ]
   },
   {
     "ar": "يوم",
@@ -2410,7 +4932,20 @@
     "ex_ar": "كل يوم نمشي للخدمة.",
     "ex_tr": "kull yōm nimshi lil-khidma.",
     "ex_en": "Every day I go to work.",
-    "note": "pl. أيام iyyām."
+    "note": "pl. أيام iyyām.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "يوم الجمعة",
+        "tr": "yōm ijjum3a",
+        "en": "on Friday"
+      },
+      {
+        "ar": "يوم باهي",
+        "tr": "yōm bāhi",
+        "en": "a nice day"
+      }
+    ]
   },
   {
     "ar": "نص الليل",
@@ -2422,7 +4957,20 @@
     "freq": 2,
     "ex_ar": "روحنا مع نص الليل.",
     "ex_tr": "raww7na ma3 nuSS illēl.",
-    "ex_en": "We went home around midnight."
+    "ex_en": "We went home around midnight.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "نرقد مع نص الليل",
+        "tr": "nurgud ma3 nuSS illēl",
+        "en": "I sleep around midnight"
+      },
+      {
+        "ar": "بعد نص الليل",
+        "tr": "ba3d nuSS illēl",
+        "en": "after midnight"
+      }
+    ]
   },
   {
     "ar": "القايلة",
@@ -2435,7 +4983,20 @@
     "ex_ar": "ما تطلعش في القايلة.",
     "ex_tr": "ma tuTla3sh fi lgāyla.",
     "ex_en": "Don't go out in the midday heat.",
-    "note": "Also 'siesta time'."
+    "note": "Also 'siesta time'.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "في القايلة نرقد",
+        "tr": "fi lgāyla nurgud",
+        "en": "I nap in the midday heat"
+      },
+      {
+        "ar": "سخانة القايلة",
+        "tr": "skhānat ilgāyla",
+        "en": "the midday heat"
+      }
+    ]
   },
   {
     "ar": "الفجر",
@@ -2447,7 +5008,20 @@
     "freq": 2,
     "ex_ar": "نوض مع الفجر.",
     "ex_tr": "nūD ma3 ilfajr.",
-    "ex_en": "Get up at dawn."
+    "ex_en": "Get up at dawn.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "صلاة الفجر",
+        "tr": "Salāt ilfajr",
+        "en": "the dawn prayer"
+      },
+      {
+        "ar": "نوضت قبل الفجر",
+        "tr": "nuDt gbal ilfajr",
+        "en": "I woke up before dawn"
+      }
+    ]
   },
   {
     "ar": "الظهر",
@@ -2459,7 +5033,20 @@
     "freq": 2,
     "ex_ar": "نتغدوا بعد الظهر.",
     "ex_tr": "nitghaddu ba3d iDHDHuhr.",
-    "ex_en": "We have lunch after noon."
+    "ex_en": "We have lunch after noon.",
+    "usage": 65,
+    "phrases": [
+      {
+        "ar": "بعد الظهر",
+        "tr": "ba3d iDHDHuhr",
+        "en": "in the afternoon"
+      },
+      {
+        "ar": "أذّن الظهر",
+        "tr": "adhdhan iDHDHuhr",
+        "en": "The noon call to prayer sounded"
+      }
+    ]
   },
   {
     "ar": "العصر",
@@ -2471,7 +5058,20 @@
     "freq": 2,
     "ex_ar": "نتلاقوا بعد العصر.",
     "ex_tr": "nitlāgu ba3d il3aSr.",
-    "ex_en": "Let's meet after the afternoon prayer."
+    "ex_en": "Let's meet after the afternoon prayer.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "صلاة العصر",
+        "tr": "Salāt il3aSr",
+        "en": "the afternoon prayer"
+      },
+      {
+        "ar": "قبل العصر نروّح",
+        "tr": "gbal il3aSr nrawwa7",
+        "en": "I go home before mid-afternoon"
+      }
+    ]
   },
   {
     "ar": "المغرب",
@@ -2483,7 +5083,20 @@
     "freq": 2,
     "ex_ar": "في رمضان نفطروا مع المغرب.",
     "ex_tr": "fi ramDān nifTru ma3 ilmaghrib.",
-    "ex_en": "In Ramadan we break the fast at sunset."
+    "ex_en": "In Ramadan we break the fast at sunset.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "بعد المغرب",
+        "tr": "ba3d ilmaghrib",
+        "en": "after sunset"
+      },
+      {
+        "ar": "أذّن المغرب",
+        "tr": "adhdhan ilmaghrib",
+        "en": "The sunset prayer was called"
+      }
+    ]
   },
   {
     "ar": "العشا",
@@ -2495,7 +5108,20 @@
     "freq": 2,
     "ex_ar": "العشا جاهز.",
     "ex_tr": "il3asha jāhiz.",
-    "ex_en": "Dinner is ready."
+    "ex_en": "Dinner is ready.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "شن العشا الليلة؟",
+        "tr": "shin il3asha illēla?",
+        "en": "What's for dinner tonight?"
+      },
+      {
+        "ar": "بعد العشا نطلعوا",
+        "tr": "ba3d il3asha nuTl3u",
+        "en": "We'll go out after dinner"
+      }
+    ]
   },
   {
     "ar": "ساعة",
@@ -2508,7 +5134,20 @@
     "ex_ar": "استنيتك ساعة كاملة.",
     "ex_tr": "stannētik sā3a kāmla.",
     "ex_en": "I waited for you a whole hour.",
-    "note": "pl. سوايع swāya3 / ساعات sā3āt."
+    "note": "pl. سوايع swāya3 / ساعات sā3āt.",
+    "usage": 91,
+    "phrases": [
+      {
+        "ar": "الساعة كم؟",
+        "tr": "issā3a kam?",
+        "en": "What time is it?"
+      },
+      {
+        "ar": "ساعة ونص",
+        "tr": "sā3a w nuSS",
+        "en": "an hour and a half"
+      }
+    ]
   },
   {
     "ar": "دقيقة",
@@ -2521,7 +5160,20 @@
     "ex_ar": "استنى دقيقة.",
     "ex_tr": "stanna dgīga.",
     "ex_en": "Wait a minute.",
-    "note": "pl. دقايق dgāyig."
+    "note": "pl. دقايق dgāyig.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "دقيقة برك",
+        "tr": "dgīga bark",
+        "en": "just a minute"
+      },
+      {
+        "ar": "خمس دقايق",
+        "tr": "khams dgāyig",
+        "en": "five minutes"
+      }
+    ]
   },
   {
     "ar": "ثانية",
@@ -2533,7 +5185,20 @@
     "freq": 3,
     "ex_ar": "عطيني ثانية.",
     "ex_tr": "3Tīni thānya.",
-    "ex_en": "Give me a second."
+    "ex_en": "Give me a second.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "ثانية وحدة",
+        "tr": "thānya wa7da",
+        "en": "one second"
+      },
+      {
+        "ar": "في ثانية",
+        "tr": "fi thānya",
+        "en": "in a second"
+      }
+    ]
   },
   {
     "ar": "نص ساعة",
@@ -2545,7 +5210,20 @@
     "freq": 2,
     "ex_ar": "نوصل بعد نص ساعة.",
     "ex_tr": "nūSil ba3d nuSS sā3a.",
-    "ex_en": "I'll arrive in half an hour."
+    "ex_en": "I'll arrive in half an hour.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "استناني نص ساعة",
+        "tr": "stannāni nuSS sā3a",
+        "en": "Wait for me half an hour"
+      },
+      {
+        "ar": "نص ساعة برك",
+        "tr": "nuSS sā3a bark",
+        "en": "only half an hour"
+      }
+    ]
   },
   {
     "ar": "ربع ساعة",
@@ -2557,7 +5235,20 @@
     "freq": 2,
     "ex_ar": "الطريق ربع ساعة برك.",
     "ex_tr": "TTrīg rub3 sā3a bark.",
-    "ex_en": "The trip is only a quarter of an hour."
+    "ex_en": "The trip is only a quarter of an hour.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "بعد ربع ساعة",
+        "tr": "ba3d rub3 sā3a",
+        "en": "in a quarter of an hour"
+      },
+      {
+        "ar": "ربع ساعة وتوصل",
+        "tr": "rub3 sā3a w tūSil",
+        "en": "A quarter of an hour and you'll arrive"
+      }
+    ]
   },
   {
     "ar": "جمعة",
@@ -2570,7 +5261,20 @@
     "ex_ar": "مشيت لتونس جمعة.",
     "ex_tr": "mshīt l-tūnis jum3a.",
     "ex_en": "I went to Tunisia for a week.",
-    "note": "Libyan: جمعة = week (pl. جمعات jum3āt); الجمعة = Friday."
+    "note": "Libyan: جمعة = week (pl. جمعات jum3āt); الجمعة = Friday.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "كل جمعة",
+        "tr": "kull jum3a",
+        "en": "every week"
+      },
+      {
+        "ar": "من جمعة",
+        "tr": "min jum3a",
+        "en": "a week ago"
+      }
+    ]
   },
   {
     "ar": "الجمعة الجاية",
@@ -2582,7 +5286,20 @@
     "freq": 2,
     "ex_ar": "نسافر الجمعة الجاية.",
     "ex_tr": "nsāfir ijjum3a ijjāya.",
-    "ex_en": "I'm travelling next week."
+    "ex_en": "I'm travelling next week.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "الجمعة الجاية نشوفك",
+        "tr": "ijjum3a ijjāya nshūfik",
+        "en": "See you next week"
+      },
+      {
+        "ar": "الجمعة الجاية عندي امتحان",
+        "tr": "ijjum3a ijjāya 3andi imti7ān",
+        "en": "I have an exam next week"
+      }
+    ]
   },
   {
     "ar": "الجمعة اللي فاتت",
@@ -2594,7 +5311,20 @@
     "freq": 2,
     "ex_ar": "شفته الجمعة اللي فاتت.",
     "ex_tr": "shiftah ijjum3a illi fātit.",
-    "ex_en": "I saw him last week."
+    "ex_en": "I saw him last week.",
+    "usage": 65,
+    "phrases": [
+      {
+        "ar": "الجمعة اللي فاتت كنت مريض",
+        "tr": "ijjum3a illi fātit kunt marīD",
+        "en": "Last week I was sick"
+      },
+      {
+        "ar": "من الجمعة اللي فاتت",
+        "tr": "min ijjum3a illi fātit",
+        "en": "since last week"
+      }
+    ]
   },
   {
     "ar": "شهر",
@@ -2607,7 +5337,20 @@
     "ex_ar": "قعد عندنا شهر.",
     "ex_tr": "ga3ad 3andna shahr.",
     "ex_en": "He stayed with us for a month.",
-    "note": "pl. شهور shhūr."
+    "note": "pl. شهور shhūr.",
+    "usage": 83,
+    "phrases": [
+      {
+        "ar": "كل شهر",
+        "tr": "kull shahr",
+        "en": "every month"
+      },
+      {
+        "ar": "شهر رمضان",
+        "tr": "shahr ramDān",
+        "en": "the month of Ramadan"
+      }
+    ]
   },
   {
     "ar": "عام",
@@ -2620,7 +5363,20 @@
     "ex_ar": "العام هذا نكمل القراية.",
     "ex_tr": "il3ām hādha nkammil ilgrāya.",
     "ex_en": "This year I'll finish my studies.",
-    "note": "pl. أعوام a3wām; also سنة sana."
+    "note": "pl. أعوام a3wām; also سنة sana.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "كل عام وإنت بخير",
+        "tr": "kull 3ām w inta bkhēr",
+        "en": "Many happy returns"
+      },
+      {
+        "ar": "عام كامل",
+        "tr": "3ām kāmil",
+        "en": "a whole year"
+      }
+    ]
   },
   {
     "ar": "سنة",
@@ -2633,7 +5389,20 @@
     "ex_ar": "عنده عشرين سنة.",
     "ex_tr": "3anda 3ishrīn sana.",
     "ex_en": "He is twenty years old.",
-    "note": "pl. سنين snīn."
+    "note": "pl. سنين snīn.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "سنة سعيدة",
+        "tr": "sana sa3īda",
+        "en": "Happy new year"
+      },
+      {
+        "ar": "عشر سنين",
+        "tr": "3ashr snīn",
+        "en": "ten years"
+      }
+    ]
   },
   {
     "ar": "العام الجاي",
@@ -2645,7 +5414,20 @@
     "freq": 2,
     "ex_ar": "العام الجاي نعرس.",
     "ex_tr": "il3ām ijjāy n3arris.",
-    "ex_en": "Next year I'm getting married."
+    "ex_en": "Next year I'm getting married.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "العام الجاي إن شاء الله",
+        "tr": "il3ām ijjāy in shā' allāh",
+        "en": "Next year, God willing"
+      },
+      {
+        "ar": "نتخرج العام الجاي",
+        "tr": "nitkharraj il3ām ijjāy",
+        "en": "I graduate next year"
+      }
+    ]
   },
   {
     "ar": "العام اللي فات",
@@ -2657,7 +5439,20 @@
     "freq": 2,
     "ex_ar": "العام اللي فات مشينا للحج.",
     "ex_tr": "il3ām illi fāt mshēna lil7ajj.",
-    "ex_en": "Last year we went on Hajj."
+    "ex_en": "Last year we went on Hajj.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "من العام اللي فات",
+        "tr": "min il3ām illi fāt",
+        "en": "since last year"
+      },
+      {
+        "ar": "العام اللي فات كان صعيب",
+        "tr": "il3ām illi fāt kān Sa3īb",
+        "en": "Last year was hard"
+      }
+    ]
   },
   {
     "ar": "وقت",
@@ -2670,7 +5465,20 @@
     "ex_ar": "ما عنديش وقت.",
     "ex_tr": "ma 3andīsh wagt.",
     "ex_en": "I don't have time.",
-    "note": "pl. أوقات awgāt."
+    "note": "pl. أوقات awgāt.",
+    "usage": 91,
+    "phrases": [
+      {
+        "ar": "الوقت فات",
+        "tr": "ilwagt fāt",
+        "en": "Time is up"
+      },
+      {
+        "ar": "في نفس الوقت",
+        "tr": "fi nafs ilwagt",
+        "en": "at the same time"
+      }
+    ]
   },
   {
     "ar": "زمان",
@@ -2682,7 +5490,20 @@
     "freq": 2,
     "ex_ar": "زمان كانت الحياة أبسط.",
     "ex_tr": "zmān kānit l7ayā absaT.",
-    "ex_en": "In the old days life was simpler."
+    "ex_en": "In the old days life was simpler.",
+    "usage": 77,
+    "phrases": [
+      {
+        "ar": "من زمان",
+        "tr": "min zmān",
+        "en": "for a long time"
+      },
+      {
+        "ar": "زمان كنا نلعبوا برا",
+        "tr": "zmān kunna nil3bu barra",
+        "en": "Long ago we used to play outside"
+      }
+    ]
   },
   {
     "ar": "قبل شوية",
@@ -2694,7 +5515,20 @@
     "freq": 2,
     "ex_ar": "جا قبل شوية.",
     "ex_tr": "ja gbal shwayya.",
-    "ex_en": "He came a little while ago."
+    "ex_en": "He came a little while ago.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "كلمتك قبل شوية",
+        "tr": "kallamtik gbal shwayya",
+        "en": "I called you a little while ago"
+      },
+      {
+        "ar": "مشى قبل شوية",
+        "tr": "msha gbal shwayya",
+        "en": "He left a little while ago"
+      }
+    ]
   },
   {
     "ar": "بعد شوية",
@@ -2706,7 +5540,20 @@
     "freq": 2,
     "ex_ar": "نجيك بعد شوية.",
     "ex_tr": "njīk ba3d shwayya.",
-    "ex_en": "I'll come to you in a bit."
+    "ex_en": "I'll come to you in a bit.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "بعد شوية نكلمك",
+        "tr": "ba3d shwayya nkallmik",
+        "en": "I'll call you in a bit"
+      },
+      {
+        "ar": "بعد شوية نطلعوا",
+        "tr": "ba3d shwayya nuTl3u",
+        "en": "We'll go out in a bit"
+      }
+    ]
   },
   {
     "ar": "تاريخ",
@@ -2718,7 +5565,20 @@
     "freq": 3,
     "ex_ar": "شنو تاريخ اليوم؟",
     "ex_tr": "shinu tārīkh ilyōm?",
-    "ex_en": "What's today's date?"
+    "ex_en": "What's today's date?",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "تاريخ الميلاد",
+        "tr": "tārīkh limīlād",
+        "en": "date of birth"
+      },
+      {
+        "ar": "تاريخ ليبيا",
+        "tr": "tārīkh lībya",
+        "en": "the history of Libya"
+      }
+    ]
   },
   {
     "ar": "الأحد",
@@ -2731,7 +5591,20 @@
     "ex_ar": "الأحد نبدوا الخدمة.",
     "ex_tr": "il7add nibdu likhidma.",
     "ex_en": "On Sunday we start work.",
-    "note": "In Libya the working week starts on Sunday."
+    "note": "In Libya the working week starts on Sunday.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "نهار الأحد",
+        "tr": "nhār il7add",
+        "en": "on Sunday"
+      },
+      {
+        "ar": "الأحد الجاي",
+        "tr": "il7add ijjāy",
+        "en": "next Sunday"
+      }
+    ]
   },
   {
     "ar": "الاثنين",
@@ -2743,7 +5616,20 @@
     "freq": 1,
     "ex_ar": "عندي موعد نهار الاثنين.",
     "ex_tr": "3andi maw3id nhār litnēn.",
-    "ex_en": "I have an appointment on Monday."
+    "ex_en": "I have an appointment on Monday.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "من الاثنين للخميس",
+        "tr": "min litnēn lil-khmīs",
+        "en": "from Monday to Thursday"
+      },
+      {
+        "ar": "الاثنين الجاي",
+        "tr": "litnēn ijjāy",
+        "en": "next Monday"
+      }
+    ]
   },
   {
     "ar": "الثلاثاء",
@@ -2755,7 +5641,20 @@
     "freq": 2,
     "ex_ar": "الثلاثاء نمشي للطبيب.",
     "ex_tr": "ithlātha nimshi liTTbīb.",
-    "ex_en": "On Tuesday I go to the doctor."
+    "ex_en": "On Tuesday I go to the doctor.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "نهار الثلاثاء",
+        "tr": "nhār ithlātha",
+        "en": "on Tuesday"
+      },
+      {
+        "ar": "كل ثلاثاء",
+        "tr": "kull thlātha",
+        "en": "every Tuesday"
+      }
+    ]
   },
   {
     "ar": "الأربعاء",
@@ -2767,7 +5666,20 @@
     "freq": 2,
     "ex_ar": "الأربعاء عندي امتحان.",
     "ex_tr": "larb3a 3andi imti7ān.",
-    "ex_en": "On Wednesday I have an exam."
+    "ex_en": "On Wednesday I have an exam.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "نهار الأربعاء",
+        "tr": "nhār larb3a",
+        "en": "on Wednesday"
+      },
+      {
+        "ar": "الأربعاء الجاي",
+        "tr": "larb3a ijjāy",
+        "en": "next Wednesday"
+      }
+    ]
   },
   {
     "ar": "الخميس",
@@ -2779,7 +5691,20 @@
     "freq": 1,
     "ex_ar": "الخميس آخر نهار خدمة.",
     "ex_tr": "ilkhmīs ākhir nhār khidma.",
-    "ex_en": "Thursday is the last workday."
+    "ex_en": "Thursday is the last workday.",
+    "usage": 67,
+    "phrases": [
+      {
+        "ar": "ليلة الخميس",
+        "tr": "lēlat ilkhmīs",
+        "en": "Thursday night"
+      },
+      {
+        "ar": "نهار الخميس نطلعوا",
+        "tr": "nhār ilkhmīs nuTl3u",
+        "en": "We go out on Thursday"
+      }
+    ]
   },
   {
     "ar": "الجمعة",
@@ -2792,7 +5717,20 @@
     "ex_ar": "نهار الجمعة نمشوا للجامع.",
     "ex_tr": "nhār ijjum3a nimshu lijjāmi3.",
     "ex_en": "On Friday we go to the mosque.",
-    "note": "Weekend day in Libya (Fri–Sat)."
+    "note": "Weekend day in Libya (Fri–Sat).",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "صلاة الجمعة",
+        "tr": "Salāt ijjum3a",
+        "en": "Friday prayer"
+      },
+      {
+        "ar": "الجمعة عطلة",
+        "tr": "ijjum3a 3uTla",
+        "en": "Friday is a day off"
+      }
+    ]
   },
   {
     "ar": "السبت",
@@ -2804,7 +5742,20 @@
     "freq": 1,
     "ex_ar": "السبت نرتاحوا.",
     "ex_tr": "issabt nirtā7u.",
-    "ex_en": "On Saturday we rest."
+    "ex_en": "On Saturday we rest.",
+    "usage": 69,
+    "phrases": [
+      {
+        "ar": "نهار السبت",
+        "tr": "nhār issabt",
+        "en": "on Saturday"
+      },
+      {
+        "ar": "السبت الجاي",
+        "tr": "issabt ijjāy",
+        "en": "next Saturday"
+      }
+    ]
   },
   {
     "ar": "يناير",
@@ -2817,7 +5768,20 @@
     "ex_ar": "نولدت في يناير.",
     "ex_tr": "nwlidt fi yanāyir.",
     "ex_en": "I was born in January.",
-    "note": "Libya uses the Egyptian-style month names; people also say شهر واحد shahr wā7id (month one)."
+    "note": "Libya uses the Egyptian-style month names; people also say شهر واحد shahr wā7id (month one).",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "في أول يناير",
+        "tr": "fi awwil yanāyir",
+        "en": "on the first of January"
+      },
+      {
+        "ar": "يناير برد ياسر",
+        "tr": "yanāyir bard yāsir",
+        "en": "January is very cold"
+      }
+    ]
   },
   {
     "ar": "فبراير",
@@ -2830,7 +5794,20 @@
     "ex_ar": "فبراير فيه برد.",
     "ex_tr": "fibrāyir fīh bard.",
     "ex_en": "February is cold.",
-    "note": "Also شهر زوز shahr zūz."
+    "note": "Also شهر زوز shahr zūz.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "شهر فبراير",
+        "tr": "shahr fibrāyir",
+        "en": "the month of February"
+      },
+      {
+        "ar": "في آخر فبراير",
+        "tr": "fi ākhir fibrāyir",
+        "en": "at the end of February"
+      }
+    ]
   },
   {
     "ar": "مارس",
@@ -2842,7 +5819,20 @@
     "freq": 3,
     "ex_ar": "الربيع يبدا في مارس.",
     "ex_tr": "irrbī3 yibda fi māris.",
-    "ex_en": "Spring starts in March."
+    "ex_en": "Spring starts in March.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "في نص مارس",
+        "tr": "fi nuSS māris",
+        "en": "in mid-March"
+      },
+      {
+        "ar": "مارس الجاي",
+        "tr": "māris ijjāy",
+        "en": "next March"
+      }
+    ]
   },
   {
     "ar": "أبريل",
@@ -2854,7 +5844,20 @@
     "freq": 3,
     "ex_ar": "نسافر في أبريل.",
     "ex_tr": "nsāfir fi abrīl.",
-    "ex_en": "I'm travelling in April."
+    "ex_en": "I'm travelling in April.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "أبريل اللي فات",
+        "tr": "abrīl illi fāt",
+        "en": "last April"
+      },
+      {
+        "ar": "في أبريل الجو باهي",
+        "tr": "fi abrīl ijjaw bāhi",
+        "en": "In April the weather is nice"
+      }
+    ]
   },
   {
     "ar": "مايو",
@@ -2866,7 +5869,20 @@
     "freq": 3,
     "ex_ar": "الامتحانات في مايو.",
     "ex_tr": "limti7ānāt fi māyu.",
-    "ex_en": "Exams are in May."
+    "ex_en": "Exams are in May.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "من مايو",
+        "tr": "min māyu",
+        "en": "since May"
+      },
+      {
+        "ar": "آخر مايو",
+        "tr": "ākhir māyu",
+        "en": "the end of May"
+      }
+    ]
   },
   {
     "ar": "يونيو",
@@ -2878,7 +5894,20 @@
     "freq": 3,
     "ex_ar": "الصيف يبدا في يونيو.",
     "ex_tr": "iSSēf yibda fi yūnyu.",
-    "ex_en": "Summer starts in June."
+    "ex_en": "Summer starts in June.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "في آخر يونيو",
+        "tr": "fi ākhir yūnyu",
+        "en": "at the end of June"
+      },
+      {
+        "ar": "يونيو الجاي",
+        "tr": "yūnyu ijjāy",
+        "en": "next June"
+      }
+    ]
   },
   {
     "ar": "يوليو",
@@ -2890,7 +5919,20 @@
     "freq": 3,
     "ex_ar": "في يوليو الجو سخون ياسر.",
     "ex_tr": "fi yūlyu ijjaw skhūn yāsir.",
-    "ex_en": "In July it's very hot."
+    "ex_en": "In July it's very hot.",
+    "usage": 39,
+    "phrases": [
+      {
+        "ar": "عطلة يوليو",
+        "tr": "3uTlat yūlyu",
+        "en": "the July holiday"
+      },
+      {
+        "ar": "نسافر في يوليو",
+        "tr": "nsāfir fi yūlyu",
+        "en": "I travel in July"
+      }
+    ]
   },
   {
     "ar": "أغسطس",
@@ -2902,7 +5944,20 @@
     "freq": 3,
     "ex_ar": "نمشوا للبحر في أغسطس.",
     "ex_tr": "nimshu lil-ba7r fi aghusTus.",
-    "ex_en": "We go to the beach in August."
+    "ex_en": "We go to the beach in August.",
+    "usage": 39,
+    "phrases": [
+      {
+        "ar": "في أغسطس نسافروا",
+        "tr": "fi aghusTus nsāfru",
+        "en": "We travel in August"
+      },
+      {
+        "ar": "سخانة أغسطس",
+        "tr": "skhānat aghusTus",
+        "en": "the August heat"
+      }
+    ]
   },
   {
     "ar": "سبتمبر",
@@ -2914,7 +5969,20 @@
     "freq": 3,
     "ex_ar": "المدارس تبدا في سبتمبر.",
     "ex_tr": "limdāris tibda fi sibtambar.",
-    "ex_en": "Schools start in September."
+    "ex_en": "Schools start in September.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "أول سبتمبر",
+        "tr": "awwil sibtambar",
+        "en": "the first of September"
+      },
+      {
+        "ar": "من سبتمبر",
+        "tr": "min sibtambar",
+        "en": "since September"
+      }
+    ]
   },
   {
     "ar": "أكتوبر",
@@ -2926,7 +5994,20 @@
     "freq": 3,
     "ex_ar": "عيد ميلادي في أكتوبر.",
     "ex_tr": "3īd mīlādi fi uktūbar.",
-    "ex_en": "My birthday is in October."
+    "ex_en": "My birthday is in October.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "في أكتوبر الجاي",
+        "tr": "fi uktūbar ijjāy",
+        "en": "next October"
+      },
+      {
+        "ar": "أكتوبر اللي فات",
+        "tr": "uktūbar illi fāt",
+        "en": "last October"
+      }
+    ]
   },
   {
     "ar": "نوفمبر",
@@ -2938,7 +6019,20 @@
     "freq": 3,
     "ex_ar": "المطر يبدا في نوفمبر.",
     "ex_tr": "ilmTar yibda fi nufambar.",
-    "ex_en": "The rain starts in November."
+    "ex_en": "The rain starts in November.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "في نوفمبر",
+        "tr": "fi nufambar",
+        "en": "in November"
+      },
+      {
+        "ar": "نص نوفمبر",
+        "tr": "nuSS nufambar",
+        "en": "mid-November"
+      }
+    ]
   },
   {
     "ar": "ديسمبر",
@@ -2950,7 +6044,20 @@
     "freq": 3,
     "ex_ar": "ديسمبر آخر شهر في العام.",
     "ex_tr": "disambar ākhir shahr fi l3ām.",
-    "ex_en": "December is the last month of the year."
+    "ex_en": "December is the last month of the year.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "آخر ديسمبر",
+        "tr": "ākhir disambar",
+        "en": "the end of December"
+      },
+      {
+        "ar": "في ديسمبر الجو برد",
+        "tr": "fi disambar ijjaw bard",
+        "en": "In December it's cold"
+      }
+    ]
   },
   {
     "ar": "الصيف",
@@ -2962,7 +6069,20 @@
     "freq": 2,
     "ex_ar": "في الصيف نمشوا للبحر.",
     "ex_tr": "fi SSēf nimshu lil-ba7r.",
-    "ex_en": "In summer we go to the beach."
+    "ex_en": "In summer we go to the beach.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "عطلة الصيف",
+        "tr": "3uTlat iSSēf",
+        "en": "the summer holiday"
+      },
+      {
+        "ar": "الصيف سخون ياسر",
+        "tr": "iSSēf skhūn yāsir",
+        "en": "Summer is very hot"
+      }
+    ]
   },
   {
     "ar": "الشتا",
@@ -2975,7 +6095,20 @@
     "ex_ar": "الشتا هذا العام برد ياسر.",
     "ex_tr": "ishshta hādha l3ām bard yāsir.",
     "ex_en": "This winter is very cold.",
-    "note": "In Libya الشتا also means 'rain': الشتا تصب."
+    "note": "In Libya الشتا also means 'rain': الشتا تصب.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "الشتا تصب",
+        "tr": "ishshta tSubb",
+        "en": "It's raining"
+      },
+      {
+        "ar": "في الشتا نلبسوا حوايج تقال",
+        "tr": "fi shshta nilbsu 7wāyij tgāl",
+        "en": "In winter we wear heavy clothes"
+      }
+    ]
   },
   {
     "ar": "الربيع",
@@ -2987,7 +6120,20 @@
     "freq": 3,
     "ex_ar": "الربيع أحلى وقت في ليبيا.",
     "ex_tr": "irrbī3 a7la wagt fi lībya.",
-    "ex_en": "Spring is the nicest time in Libya."
+    "ex_en": "Spring is the nicest time in Libya.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "فصل الربيع",
+        "tr": "faSl irrbī3",
+        "en": "the spring season"
+      },
+      {
+        "ar": "في الربيع نطلعوا للبر",
+        "tr": "fi rrbī3 nuTl3u lil-barr",
+        "en": "In spring we go out to the countryside"
+      }
+    ]
   },
   {
     "ar": "الخريف",
@@ -2999,7 +6145,20 @@
     "freq": 3,
     "ex_ar": "في الخريف يبدا البرد.",
     "ex_tr": "fi lkhrīf yibda lbard.",
-    "ex_en": "In autumn the cold begins."
+    "ex_en": "In autumn the cold begins.",
+    "usage": 45,
+    "phrases": [
+      {
+        "ar": "فصل الخريف",
+        "tr": "faSl ilkhrīf",
+        "en": "the autumn season"
+      },
+      {
+        "ar": "الخريف هذا العام برد",
+        "tr": "ilkhrīf hādha l3ām bard",
+        "en": "This autumn is cold"
+      }
+    ]
   },
   {
     "ar": "رمضان",
@@ -3011,7 +6170,20 @@
     "freq": 2,
     "ex_ar": "رمضان كريم!",
     "ex_tr": "ramDān karīm!",
-    "ex_en": "Ramadan Kareem!"
+    "ex_en": "Ramadan Kareem!",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "في رمضان نصوموا",
+        "tr": "fi ramDān nSūmu",
+        "en": "In Ramadan we fast"
+      },
+      {
+        "ar": "قبل رمضان",
+        "tr": "gbal ramDān",
+        "en": "before Ramadan"
+      }
+    ]
   },
   {
     "ar": "العيد",
@@ -3024,7 +6196,20 @@
     "ex_ar": "العيد الكبير الجمعة الجاية.",
     "ex_tr": "il3īd likbīr ijjum3a ijjāya.",
     "ex_en": "Eid al-Adha is next week.",
-    "note": "العيد الصغير = Eid al-Fitr, العيد الكبير = Eid al-Adha."
+    "note": "العيد الصغير = Eid al-Fitr, العيد الكبير = Eid al-Adha.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "عيد مبروك",
+        "tr": "3īd mabrūk",
+        "en": "Happy Eid"
+      },
+      {
+        "ar": "العيد الصغير",
+        "tr": "il3īd iSSghīr",
+        "en": "the Small Eid (Eid al-Fitr)"
+      }
+    ]
   },
   {
     "ar": "عمر",
@@ -3037,7 +6222,20 @@
     "ex_ar": "عمري ما شفت هكي.",
     "ex_tr": "3umri ma shuft hakki.",
     "ex_en": "I've never seen anything like it in my life.",
-    "note": "عمري ما ... = 'I've never ...'."
+    "note": "عمري ما ... = 'I've never ...'.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "طول العمر",
+        "tr": "Tūl il3umr",
+        "en": "a whole lifetime"
+      },
+      {
+        "ar": "ربي يطول عمرك",
+        "tr": "rabbi yTawwil 3umrik",
+        "en": "May God lengthen your life"
+      }
+    ]
   },
   {
     "ar": "الوقت الكل",
@@ -3049,7 +6247,20 @@
     "freq": 3,
     "ex_ar": "يلعب الوقت الكل.",
     "ex_tr": "yil3ab ilwagt ilkull.",
-    "ex_en": "He plays all the time."
+    "ex_en": "He plays all the time.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "يحكي في التلفون الوقت الكل",
+        "tr": "y7ki fi ttilifōn ilwagt ilkull",
+        "en": "He's on the phone all the time"
+      },
+      {
+        "ar": "الوقت الكل نايم",
+        "tr": "ilwagt ilkull nāyim",
+        "en": "He's asleep all the time"
+      }
+    ]
   },
   {
     "ar": "كل يوم",
@@ -3061,7 +6272,20 @@
     "freq": 1,
     "ex_ar": "نشرب شاهي كل يوم.",
     "ex_tr": "nushrub shāhi kull yōm.",
-    "ex_en": "I drink tea every day."
+    "ex_en": "I drink tea every day.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "كل يوم نفس الحكاية",
+        "tr": "kull yōm nafs l7kāya",
+        "en": "The same story every day"
+      },
+      {
+        "ar": "كل يوم الصبح",
+        "tr": "kull yōm iSSba7",
+        "en": "every morning"
+      }
+    ]
   },
   {
     "ar": "الصبح بكري",
@@ -3073,7 +6297,20 @@
     "freq": 3,
     "ex_ar": "نوضنا الصبح بكري.",
     "ex_tr": "nuDna iSSba7 bakri.",
-    "ex_en": "We got up early in the morning."
+    "ex_en": "We got up early in the morning.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "نطلعوا الصبح بكري",
+        "tr": "nuTl3u iSSba7 bakri",
+        "en": "We'll leave early in the morning"
+      },
+      {
+        "ar": "نوّضني الصبح بكري",
+        "tr": "nawwiDni iSSba7 bakri",
+        "en": "Wake me up early in the morning"
+      }
+    ]
   },
   {
     "ar": "الليلة",
@@ -3085,7 +6322,20 @@
     "freq": 1,
     "ex_ar": "الليلة نتعشوا برا.",
     "ex_tr": "illēla nit3ashshu barra.",
-    "ex_en": "Tonight we'll have dinner out."
+    "ex_en": "Tonight we'll have dinner out.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "الليلة نجيك",
+        "tr": "illēla njīk",
+        "en": "I'll come to you tonight"
+      },
+      {
+        "ar": "شن عندك الليلة؟",
+        "tr": "shin 3andik illēla?",
+        "en": "What are you doing tonight?"
+      }
+    ]
   },
   {
     "ar": "موعد",
@@ -3098,7 +6348,20 @@
     "ex_ar": "عندي موعد مع الطبيب.",
     "ex_tr": "3andi maw3id ma3 iTTbīb.",
     "ex_en": "I have an appointment with the doctor.",
-    "note": "pl. مواعيد mawā3īd."
+    "note": "pl. مواعيد mawā3īd.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "عندي موعد الساعة ثلاثة",
+        "tr": "3andi maw3id issā3a thlātha",
+        "en": "I have an appointment at three"
+      },
+      {
+        "ar": "في الموعد",
+        "tr": "fi limaw3id",
+        "en": "on time"
+      }
+    ]
   },
   {
     "ar": "صفر",
@@ -3110,7 +6373,20 @@
     "freq": 2,
     "ex_ar": "النتيجة صفر صفر.",
     "ex_tr": "innatīja Sifr Sifr.",
-    "ex_en": "The score is nil-nil."
+    "ex_en": "The score is nil-nil.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "من الصفر",
+        "tr": "min iSSifr",
+        "en": "from scratch"
+      },
+      {
+        "ar": "صفر دينار",
+        "tr": "Sifr dīnār",
+        "en": "zero dinars"
+      }
+    ]
   },
   {
     "ar": "واحد",
@@ -3123,7 +6399,20 @@
     "ex_ar": "نبي قهوة وحدة وشاهي واحد.",
     "ex_tr": "nibbi gahwa wa7da w shāhi wā7id.",
     "ex_en": "I want one coffee and one tea.",
-    "note": "f. وحدة wa7da. Also 'someone': جا واحد ja wā7id."
+    "note": "f. وحدة wa7da. Also 'someone': جا واحد ja wā7id.",
+    "usage": 93,
+    "phrases": [
+      {
+        "ar": "واحد بس",
+        "tr": "wā7id bass",
+        "en": "just one"
+      },
+      {
+        "ar": "واحد من صحابي",
+        "tr": "wā7id min S7ābi",
+        "en": "one of my friends"
+      }
+    ]
   },
   {
     "ar": "زوز",
@@ -3136,7 +6425,20 @@
     "ex_ar": "عندي زوز صغار.",
     "ex_tr": "3andi zūz Sghār.",
     "ex_en": "I have two children.",
-    "note": "Libyan/Maghrebi; ثنين thnēn also used, esp. when counting."
+    "note": "Libyan/Maghrebi; ثنين thnēn also used, esp. when counting.",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "زوز قهاوي",
+        "tr": "zūz gahāwi",
+        "en": "two coffees"
+      },
+      {
+        "ar": "الزوز مع بعض",
+        "tr": "izzūz ma3 ba3D",
+        "en": "both together"
+      }
+    ]
   },
   {
     "ar": "ثلاثة",
@@ -3149,7 +6451,20 @@
     "ex_ar": "قعدت ثلاثة أيام.",
     "ex_tr": "ga3adt thlāth iyyām.",
     "ex_en": "I stayed three days.",
-    "note": "Before a noun shortened: ثلاث thlāth."
+    "note": "Before a noun shortened: ثلاث thlāth.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "ثلاثة أيام",
+        "tr": "thlāth iyyām",
+        "en": "three days"
+      },
+      {
+        "ar": "الساعة ثلاثة",
+        "tr": "issā3a thlātha",
+        "en": "three o'clock"
+      }
+    ]
   },
   {
     "ar": "أربعة",
@@ -3162,7 +6477,20 @@
     "ex_ar": "عندنا أربعة كراهب.",
     "ex_tr": "3andna arb3a krāhib.",
     "ex_en": "We have four cars.",
-    "note": "Before a noun: أربع arba3."
+    "note": "Before a noun: أربع arba3.",
+    "usage": 81,
+    "phrases": [
+      {
+        "ar": "أربعة دينار",
+        "tr": "arb3a dīnār",
+        "en": "four dinars"
+      },
+      {
+        "ar": "الساعة أربعة",
+        "tr": "issā3a arb3a",
+        "en": "four o'clock"
+      }
+    ]
   },
   {
     "ar": "خمسة",
@@ -3175,7 +6503,20 @@
     "ex_ar": "خمسة دينار برك.",
     "ex_tr": "khamsa dīnār bark.",
     "ex_en": "Only five dinars.",
-    "note": "Before a noun: خمس khams."
+    "note": "Before a noun: خمس khams.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "خمسة دقايق",
+        "tr": "khamsa dgāyig",
+        "en": "five minutes"
+      },
+      {
+        "ar": "الساعة خمسة",
+        "tr": "issā3a khamsa",
+        "en": "five o'clock"
+      }
+    ]
   },
   {
     "ar": "ستة",
@@ -3187,7 +6528,20 @@
     "freq": 1,
     "ex_ar": "الخدمة تبدا الساعة ستة.",
     "ex_tr": "likhidma tibda issā3a sitta.",
-    "ex_en": "Work starts at six."
+    "ex_en": "Work starts at six.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "ستة شهور",
+        "tr": "sitt shhūr",
+        "en": "six months"
+      },
+      {
+        "ar": "عندي ستة كتب",
+        "tr": "3andi sitta ktub",
+        "en": "I have six books"
+      }
+    ]
   },
   {
     "ar": "سبعة",
@@ -3199,7 +6553,20 @@
     "freq": 1,
     "ex_ar": "عنده سبعة خوت.",
     "ex_tr": "3anda sab3a khūt.",
-    "ex_en": "He has seven siblings."
+    "ex_en": "He has seven siblings.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "سبعة أيام",
+        "tr": "sab3a iyyām",
+        "en": "seven days"
+      },
+      {
+        "ar": "الساعة سبعة الصبح",
+        "tr": "issā3a sab3a iSSba7",
+        "en": "seven in the morning"
+      }
+    ]
   },
   {
     "ar": "ثمانية",
@@ -3211,7 +6578,20 @@
     "freq": 1,
     "ex_ar": "نوض الساعة ثمانية.",
     "ex_tr": "nūD issā3a thmānya.",
-    "ex_en": "I get up at eight."
+    "ex_en": "I get up at eight.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "ثمانية ساعات خدمة",
+        "tr": "thmanya sā3āt khidma",
+        "en": "eight hours of work"
+      },
+      {
+        "ar": "الساعة ثمانية بالليل",
+        "tr": "issā3a thmānya bil-lēl",
+        "en": "eight at night"
+      }
+    ]
   },
   {
     "ar": "تسعة",
@@ -3223,7 +6603,20 @@
     "freq": 1,
     "ex_ar": "تسعة دينارات ونص.",
     "ex_tr": "tis3a dīnārāt w nuSS.",
-    "ex_en": "Nine and a half dinars."
+    "ex_en": "Nine and a half dinars.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "الساعة تسعة",
+        "tr": "issā3a tis3a",
+        "en": "nine o'clock"
+      },
+      {
+        "ar": "تسعة شهور",
+        "tr": "tis3a shhūr",
+        "en": "nine months"
+      }
+    ]
   },
   {
     "ar": "عشرة",
@@ -3236,7 +6629,20 @@
     "ex_ar": "استنى عشرة دقايق.",
     "ex_tr": "stanna 3ashra dgāyig.",
     "ex_en": "Wait ten minutes.",
-    "note": "Before a noun: عشر 3ashar."
+    "note": "Before a noun: عشر 3ashar.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "عشرة دينار",
+        "tr": "3ashra dīnār",
+        "en": "ten dinars"
+      },
+      {
+        "ar": "عشرة أيام",
+        "tr": "3ashrat iyyām",
+        "en": "ten days"
+      }
+    ]
   },
   {
     "ar": "حداش",
@@ -3248,7 +6654,20 @@
     "freq": 2,
     "ex_ar": "حداش لاعب في الفريق.",
     "ex_tr": "7dāsh lā3ib fi lfarīg.",
-    "ex_en": "Eleven players on the team."
+    "ex_en": "Eleven players on the team.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "الساعة حداش",
+        "tr": "issā3a 7dāsh",
+        "en": "eleven o'clock"
+      },
+      {
+        "ar": "حداش دينار",
+        "tr": "7dāsh dīnār",
+        "en": "eleven dinars"
+      }
+    ]
   },
   {
     "ar": "اثناش",
@@ -3260,7 +6679,20 @@
     "freq": 2,
     "ex_ar": "الساعة اثناش الظهر.",
     "ex_tr": "issā3a ithnāsh iDHDHuhr.",
-    "ex_en": "It's twelve noon."
+    "ex_en": "It's twelve noon.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "نص الليل الساعة اثناش",
+        "tr": "nuSS illēl issā3a ithnāsh",
+        "en": "midnight is twelve o'clock"
+      },
+      {
+        "ar": "اثناش شهر",
+        "tr": "ithnāsh shahr",
+        "en": "twelve months"
+      }
+    ]
   },
   {
     "ar": "ثلطاش",
@@ -3272,7 +6704,20 @@
     "freq": 2,
     "ex_ar": "عمره ثلطاش سنة.",
     "ex_tr": "3umra thlaTTāsh sana.",
-    "ex_en": "He's thirteen years old."
+    "ex_en": "He's thirteen years old.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "ثلطاش دينار",
+        "tr": "thlaTTāsh dīnār",
+        "en": "thirteen dinars"
+      },
+      {
+        "ar": "الصف ثلطاش",
+        "tr": "iSSaff thlaTTāsh",
+        "en": "row thirteen"
+      }
+    ]
   },
   {
     "ar": "أربعطاش",
@@ -3284,7 +6729,20 @@
     "freq": 2,
     "ex_ar": "أربعطاش طالب في القسم.",
     "ex_tr": "arba3Tāsh Tālib fi lgism.",
-    "ex_en": "Fourteen students in the class."
+    "ex_en": "Fourteen students in the class.",
+    "usage": 57,
+    "phrases": [
+      {
+        "ar": "أربعطاش يوم",
+        "tr": "arba3Tāsh yōm",
+        "en": "fourteen days"
+      },
+      {
+        "ar": "عنده أربعطاش سنة",
+        "tr": "3anda arba3Tāsh sana",
+        "en": "He's fourteen"
+      }
+    ]
   },
   {
     "ar": "خمسطاش",
@@ -3296,7 +6754,20 @@
     "freq": 2,
     "ex_ar": "نوصل بعد خمسطاش دقيقة.",
     "ex_tr": "nūSil ba3d khamusTāsh dgīga.",
-    "ex_en": "I'll arrive in fifteen minutes."
+    "ex_en": "I'll arrive in fifteen minutes.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "خمسطاش دينار",
+        "tr": "khamusTāsh dīnār",
+        "en": "fifteen dinars"
+      },
+      {
+        "ar": "كل خمسطاش يوم",
+        "tr": "kull khamusTāsh yōm",
+        "en": "every fifteen days"
+      }
+    ]
   },
   {
     "ar": "سطاش",
@@ -3308,7 +6779,20 @@
     "freq": 2,
     "ex_ar": "عندها سطاش سنة.",
     "ex_tr": "3andha siTTāsh sana.",
-    "ex_en": "She's sixteen."
+    "ex_en": "She's sixteen.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "سطاش واحد",
+        "tr": "siTTāsh wā7id",
+        "en": "sixteen people"
+      },
+      {
+        "ar": "سطاش دينار",
+        "tr": "siTTāsh dīnār",
+        "en": "sixteen dinars"
+      }
+    ]
   },
   {
     "ar": "سبعطاش",
@@ -3320,7 +6804,20 @@
     "freq": 3,
     "ex_ar": "سبعطاش دينار.",
     "ex_tr": "saba3Tāsh dīnār.",
-    "ex_en": "Seventeen dinars."
+    "ex_en": "Seventeen dinars.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "عنده سبعطاش سنة",
+        "tr": "3anda saba3Tāsh sana",
+        "en": "He's seventeen"
+      },
+      {
+        "ar": "سبعطاش يوم",
+        "tr": "saba3Tāsh yōm",
+        "en": "seventeen days"
+      }
+    ]
   },
   {
     "ar": "ثمنطاش",
@@ -3332,7 +6829,20 @@
     "freq": 3,
     "ex_ar": "لازم يكون عندك ثمنطاش سنة.",
     "ex_tr": "lāzim ykūn 3andik thmanTāsh sana.",
-    "ex_en": "You must be eighteen."
+    "ex_en": "You must be eighteen.",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "ثمنطاش دينار",
+        "tr": "thmanTāsh dīnār",
+        "en": "eighteen dinars"
+      },
+      {
+        "ar": "كمّل ثمنطاش سنة",
+        "tr": "kammal thmanTāsh sana",
+        "en": "He turned eighteen"
+      }
+    ]
   },
   {
     "ar": "تسعطاش",
@@ -3344,7 +6854,20 @@
     "freq": 3,
     "ex_ar": "تسعطاش واحد جو.",
     "ex_tr": "tisa3Tāsh wā7id jaw.",
-    "ex_en": "Nineteen people came."
+    "ex_en": "Nineteen people came.",
+    "usage": 53,
+    "phrases": [
+      {
+        "ar": "تسعطاش دينار",
+        "tr": "tisa3Tāsh dīnār",
+        "en": "nineteen dinars"
+      },
+      {
+        "ar": "عمرها تسعطاش سنة",
+        "tr": "3umrha tisa3Tāsh sana",
+        "en": "She's nineteen"
+      }
+    ]
   },
   {
     "ar": "عشرين",
@@ -3356,7 +6879,20 @@
     "freq": 1,
     "ex_ar": "عشرين دينار، باهي؟",
     "ex_tr": "3ishrīn dīnār, bāhi?",
-    "ex_en": "Twenty dinars, OK?"
+    "ex_en": "Twenty dinars, OK?",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "عشرين دقيقة",
+        "tr": "3ishrīn dgīga",
+        "en": "twenty minutes"
+      },
+      {
+        "ar": "في العشرين من عمره",
+        "tr": "fi l3ishrīn min 3umra",
+        "en": "in his twenties"
+      }
+    ]
   },
   {
     "ar": "واحد وعشرين",
@@ -3369,7 +6905,20 @@
     "ex_ar": "عمري واحد وعشرين سنة.",
     "ex_tr": "3umri wā7id u 3ishrīn sana.",
     "ex_en": "I'm twenty-one.",
-    "note": "Pattern for 21–99: unit + و + ten (خمسة وثلاثين khamsa u thlāthīn = 35)."
+    "note": "Pattern for 21–99: unit + و + ten (خمسة وثلاثين khamsa u thlāthīn = 35).",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "واحد وعشرين دينار",
+        "tr": "wā7id u 3ishrīn dīnār",
+        "en": "twenty-one dinars"
+      },
+      {
+        "ar": "نهار واحد وعشرين",
+        "tr": "nhār wā7id u 3ishrīn",
+        "en": "on the twenty-first"
+      }
+    ]
   },
   {
     "ar": "ثلاثين",
@@ -3381,7 +6930,20 @@
     "freq": 2,
     "ex_ar": "ثلاثين دقيقة.",
     "ex_tr": "thlāthīn dgīga.",
-    "ex_en": "Thirty minutes."
+    "ex_en": "Thirty minutes.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "ثلاثين دينار",
+        "tr": "thlāthīn dīnār",
+        "en": "thirty dinars"
+      },
+      {
+        "ar": "عمره ثلاثين سنة",
+        "tr": "3umra thlāthīn sana",
+        "en": "He's thirty"
+      }
+    ]
   },
   {
     "ar": "أربعين",
@@ -3393,7 +6955,20 @@
     "freq": 2,
     "ex_ar": "الجو اليوم أربعين درجة.",
     "ex_tr": "ijjaw ilyōm arb3īn daraja.",
-    "ex_en": "It's forty degrees today."
+    "ex_en": "It's forty degrees today.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "أربعين دينار",
+        "tr": "arb3īn dīnār",
+        "en": "forty dinars"
+      },
+      {
+        "ar": "أربعين يوم",
+        "tr": "arb3īn yōm",
+        "en": "forty days"
+      }
+    ]
   },
   {
     "ar": "خمسين",
@@ -3405,7 +6980,20 @@
     "freq": 2,
     "ex_ar": "خمسين دينار للكيلو.",
     "ex_tr": "khamsīn dīnār lil-kīlu.",
-    "ex_en": "Fifty dinars a kilo."
+    "ex_en": "Fifty dinars a kilo.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "خمسين في المية",
+        "tr": "khamsīn fi limya",
+        "en": "fifty percent"
+      },
+      {
+        "ar": "عطيني خمسين",
+        "tr": "3Tīni khamsīn",
+        "en": "Give me fifty"
+      }
+    ]
   },
   {
     "ar": "ستين",
@@ -3417,7 +7005,20 @@
     "freq": 2,
     "ex_ar": "جدي عمره ستين سنة.",
     "ex_tr": "jiddi 3umra sittīn sana.",
-    "ex_en": "My grandfather is sixty."
+    "ex_en": "My grandfather is sixty.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "ستين دقيقة",
+        "tr": "sittīn dgīga",
+        "en": "sixty minutes"
+      },
+      {
+        "ar": "ستين دينار",
+        "tr": "sittīn dīnār",
+        "en": "sixty dinars"
+      }
+    ]
   },
   {
     "ar": "سبعين",
@@ -3429,7 +7030,20 @@
     "freq": 3,
     "ex_ar": "سبعين كيلومتر.",
     "ex_tr": "sab3īn kīlumitr.",
-    "ex_en": "Seventy kilometres."
+    "ex_en": "Seventy kilometres.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "سبعين دينار",
+        "tr": "sab3īn dīnār",
+        "en": "seventy dinars"
+      },
+      {
+        "ar": "عمره سبعين سنة",
+        "tr": "3umra sab3īn sana",
+        "en": "He's seventy"
+      }
+    ]
   },
   {
     "ar": "ثمانين",
@@ -3441,7 +7055,20 @@
     "freq": 3,
     "ex_ar": "ثمانين في المية.",
     "ex_tr": "thmānīn fi limya.",
-    "ex_en": "Eighty percent."
+    "ex_en": "Eighty percent.",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "ثمانين دينار",
+        "tr": "thmānīn dīnār",
+        "en": "eighty dinars"
+      },
+      {
+        "ar": "جدتي عمرها ثمانين",
+        "tr": "jaddti 3umrha thmānīn",
+        "en": "My grandmother is eighty"
+      }
+    ]
   },
   {
     "ar": "تسعين",
@@ -3453,7 +7080,20 @@
     "freq": 3,
     "ex_ar": "تسعين دينار.",
     "ex_tr": "tis3īn dīnār.",
-    "ex_en": "Ninety dinars."
+    "ex_en": "Ninety dinars.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "عمره تسعين سنة",
+        "tr": "3umra tis3īn sana",
+        "en": "He's ninety"
+      },
+      {
+        "ar": "تسعين كيلو",
+        "tr": "tis3īn kīlu",
+        "en": "ninety kilos"
+      }
+    ]
   },
   {
     "ar": "مية",
@@ -3466,7 +7106,20 @@
     "ex_ar": "مية دينار.",
     "ex_tr": "mya dīnār.",
     "ex_en": "A hundred dinars.",
-    "note": "Before a noun: ميت mīt (ميت دينار). 300 ثلاث مية thlāth mya."
+    "note": "Before a noun: ميت mīt (ميت دينار). 300 ثلاث مية thlāth mya.",
+    "usage": 85,
+    "phrases": [
+      {
+        "ar": "مية في المية",
+        "tr": "mya fi limya",
+        "en": "one hundred percent"
+      },
+      {
+        "ar": "مية مرة قلتلك",
+        "tr": "mya marra gultlik",
+        "en": "I've told you a hundred times"
+      }
+    ]
   },
   {
     "ar": "ميتين",
@@ -3478,7 +7131,20 @@
     "freq": 2,
     "ex_ar": "الكرسي بميتين دينار.",
     "ex_tr": "likursi b-mītēn dīnār.",
-    "ex_en": "The chair costs two hundred dinars."
+    "ex_en": "The chair costs two hundred dinars.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "ميتين متر",
+        "tr": "mītēn mitr",
+        "en": "two hundred meters"
+      },
+      {
+        "ar": "ميتين دينار",
+        "tr": "mītēn dīnār",
+        "en": "two hundred dinars"
+      }
+    ]
   },
   {
     "ar": "ألف",
@@ -3491,7 +7157,20 @@
     "ex_ar": "ألف دينار.",
     "ex_tr": "alf dīnār.",
     "ex_en": "A thousand dinars.",
-    "note": "pl. آلاف ālāf; 3000 ثلاث آلاف thlāth ālāf."
+    "note": "pl. آلاف ālāf; 3000 ثلاث آلاف thlāth ālāf.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "ألف مبروك",
+        "tr": "alf mabrūk",
+        "en": "Congratulations (a thousand times)"
+      },
+      {
+        "ar": "ألف شكر",
+        "tr": "alf shukr",
+        "en": "A thousand thanks"
+      }
+    ]
   },
   {
     "ar": "ألفين",
@@ -3503,7 +7182,20 @@
     "freq": 2,
     "ex_ar": "ألفين وأربعة وعشرين.",
     "ex_tr": "alfēn w arb3a u 3ishrīn.",
-    "ex_en": "Two thousand twenty-four."
+    "ex_en": "Two thousand twenty-four.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "ألفين دينار",
+        "tr": "alfēn dīnār",
+        "en": "two thousand dinars"
+      },
+      {
+        "ar": "في ألفين وعشرة",
+        "tr": "fi alfēn w 3ashra",
+        "en": "in 2010"
+      }
+    ]
   },
   {
     "ar": "مليون",
@@ -3516,7 +7208,20 @@
     "ex_ar": "الحوش بمليون دينار.",
     "ex_tr": "l7ōsh b-malyūn dīnār.",
     "ex_en": "The house costs a million dinars.",
-    "note": "pl. ملايين malāyīn."
+    "note": "pl. ملايين malāyīn.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "مليون مرة",
+        "tr": "malyūn marra",
+        "en": "a million times"
+      },
+      {
+        "ar": "نص مليون",
+        "tr": "nuSS malyūn",
+        "en": "half a million"
+      }
+    ]
   },
   {
     "ar": "أول",
@@ -3529,7 +7234,20 @@
     "ex_ar": "هذي أول مرة نجي لهني.",
     "ex_tr": "hādhi awwil marra nji l-hni.",
     "ex_en": "This is the first time I've come here.",
-    "note": "f. أولى ūla; often placed before the noun."
+    "note": "f. أولى ūla; often placed before the noun.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "أول واحد",
+        "tr": "awwil wā7id",
+        "en": "the first one"
+      },
+      {
+        "ar": "في الأول",
+        "tr": "fi l'awwil",
+        "en": "at first"
+      }
+    ]
   },
   {
     "ar": "ثاني",
@@ -3542,7 +7260,20 @@
     "ex_ar": "الدار الثانية على اليمين.",
     "ex_tr": "iddār ithānya 3la limīn.",
     "ex_en": "The second house on the right.",
-    "note": "f. ثانية thānya; also 'another': واحد ثاني wā7id thāni."
+    "note": "f. ثانية thānya; also 'another': واحد ثاني wā7id thāni.",
+    "usage": 94,
+    "phrases": [
+      {
+        "ar": "مرة ثانية",
+        "tr": "marra thānya",
+        "en": "another time; again"
+      },
+      {
+        "ar": "حاجة ثانية؟",
+        "tr": "7āja thānya?",
+        "en": "Anything else?"
+      }
+    ]
   },
   {
     "ar": "ثالث",
@@ -3554,7 +7285,20 @@
     "freq": 2,
     "ex_ar": "الطابق الثالث.",
     "ex_tr": "iTTābig ithālith.",
-    "ex_en": "The third floor."
+    "ex_en": "The third floor.",
+    "usage": 65,
+    "phrases": [
+      {
+        "ar": "المرة الثالثة",
+        "tr": "ilmarra ithālitha",
+        "en": "the third time"
+      },
+      {
+        "ar": "الثالث في الصف",
+        "tr": "ithālith fi SSaff",
+        "en": "third in line"
+      }
+    ]
   },
   {
     "ar": "رابع",
@@ -3566,7 +7310,20 @@
     "freq": 3,
     "ex_ar": "جا رابع في السباق.",
     "ex_tr": "ja rābi3 fi ssibāg.",
-    "ex_en": "He came fourth in the race."
+    "ex_en": "He came fourth in the race.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "الدور الرابع",
+        "tr": "iddōr irrābi3",
+        "en": "the fourth floor"
+      },
+      {
+        "ar": "المرة الرابعة",
+        "tr": "ilmarra irrāb3a",
+        "en": "the fourth time"
+      }
+    ]
   },
   {
     "ar": "خامس",
@@ -3578,7 +7335,20 @@
     "freq": 3,
     "ex_ar": "ولدي في الخامس ابتدائي.",
     "ex_tr": "wildi fi lkhāmis ibtidā'i.",
-    "ex_en": "My son is in fifth grade."
+    "ex_en": "My son is in fifth grade.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "الدور الخامس",
+        "tr": "iddōr ilkhāmis",
+        "en": "the fifth floor"
+      },
+      {
+        "ar": "جا الخامس",
+        "tr": "ja lkhāmis",
+        "en": "He came fifth"
+      }
+    ]
   },
   {
     "ar": "سادس",
@@ -3590,7 +7360,20 @@
     "freq": 4,
     "ex_ar": "الصف السادس.",
     "ex_tr": "iSSaff issādis.",
-    "ex_en": "The sixth row."
+    "ex_en": "The sixth row.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "الدور السادس",
+        "tr": "iddōr issādis",
+        "en": "the sixth floor"
+      },
+      {
+        "ar": "المرة السادسة",
+        "tr": "ilmarra issādsa",
+        "en": "the sixth time"
+      }
+    ]
   },
   {
     "ar": "سابع",
@@ -3602,7 +7385,20 @@
     "freq": 4,
     "ex_ar": "اليوم السابع.",
     "ex_tr": "ilyōm issābi3.",
-    "ex_en": "The seventh day."
+    "ex_en": "The seventh day.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "الدور السابع",
+        "tr": "iddōr issābi3",
+        "en": "the seventh floor"
+      },
+      {
+        "ar": "فرحان في السما السابعة",
+        "tr": "fir7ān fi ssma issāb3a",
+        "en": "over the moon (in seventh heaven)"
+      }
+    ]
   },
   {
     "ar": "ثامن",
@@ -3614,7 +7410,20 @@
     "freq": 4,
     "ex_ar": "الشهر الثامن.",
     "ex_tr": "ishshahr ithāmin.",
-    "ex_en": "The eighth month."
+    "ex_en": "The eighth month.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "الدور الثامن",
+        "tr": "iddōr ithāmin",
+        "en": "the eighth floor"
+      },
+      {
+        "ar": "الصف الثامن",
+        "tr": "iSSaff ithāmin",
+        "en": "the eighth grade"
+      }
+    ]
   },
   {
     "ar": "تاسع",
@@ -3626,7 +7435,20 @@
     "freq": 4,
     "ex_ar": "الدور التاسع.",
     "ex_tr": "iddōr ittāsi3.",
-    "ex_en": "The ninth turn."
+    "ex_en": "The ninth turn.",
+    "usage": 35,
+    "phrases": [
+      {
+        "ar": "الشهر التاسع",
+        "tr": "ishshahr ittāsi3",
+        "en": "the ninth month"
+      },
+      {
+        "ar": "المرة التاسعة",
+        "tr": "ilmarra ittās3a",
+        "en": "the ninth time"
+      }
+    ]
   },
   {
     "ar": "عاشر",
@@ -3638,7 +7460,20 @@
     "freq": 4,
     "ex_ar": "الطابق العاشر.",
     "ex_tr": "iTTābig il3āshir.",
-    "ex_en": "The tenth floor."
+    "ex_en": "The tenth floor.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "الشهر العاشر",
+        "tr": "ishshahr il3āshir",
+        "en": "the tenth month"
+      },
+      {
+        "ar": "العاشر في الترتيب",
+        "tr": "il3āshir fi ttartīb",
+        "en": "tenth in order"
+      }
+    ]
   },
   {
     "ar": "آخر",
@@ -3650,7 +7485,20 @@
     "freq": 1,
     "ex_ar": "هذا آخر واحد.",
     "ex_tr": "hādha ākhir wā7id.",
-    "ex_en": "This is the last one."
+    "ex_en": "This is the last one.",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "آخر مرة",
+        "tr": "ākhir marra",
+        "en": "the last time"
+      },
+      {
+        "ar": "في الآخر",
+        "tr": "fi l'ākhir",
+        "en": "in the end"
+      }
+    ]
   },
   {
     "ar": "نص",
@@ -3663,7 +7511,20 @@
     "ex_ar": "عطيني نص كيلو.",
     "ex_tr": "3Tīni nuSS kīlu.",
     "ex_en": "Give me half a kilo.",
-    "note": "الساعة ثلاثة ونص = half past three."
+    "note": "الساعة ثلاثة ونص = half past three.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "نص ونص",
+        "tr": "nuSS w nuSS",
+        "en": "so-so; half and half"
+      },
+      {
+        "ar": "الساعة ستة ونص",
+        "tr": "issā3a sitta w nuSS",
+        "en": "half past six"
+      }
+    ]
   },
   {
     "ar": "ربع",
@@ -3676,7 +7537,20 @@
     "ex_ar": "الساعة خمسة إلا ربع.",
     "ex_tr": "issā3a khamsa illa rub3.",
     "ex_en": "It's a quarter to five.",
-    "note": "pl. ارباع rbā3; ثلاث ارباع thlāth rbā3 = three quarters."
+    "note": "pl. ارباع rbā3; ثلاث ارباع thlāth rbā3 = three quarters.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "ربع ساعة",
+        "tr": "rub3 sā3a",
+        "en": "a quarter of an hour"
+      },
+      {
+        "ar": "الساعة ثلاثة وربع",
+        "tr": "issā3a thlātha w rub3",
+        "en": "quarter past three"
+      }
+    ]
   },
   {
     "ar": "ثلث",
@@ -3689,7 +7563,20 @@
     "ex_ar": "ثلث الكيكة.",
     "ex_tr": "thulth likēka.",
     "ex_en": "A third of the cake.",
-    "note": "الساعة ستة وثلث = twenty past six."
+    "note": "الساعة ستة وثلث = twenty past six.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "ثلث الفلوس",
+        "tr": "thulth liflūs",
+        "en": "a third of the money"
+      },
+      {
+        "ar": "الثلث الأول",
+        "tr": "ithulth il'awwil",
+        "en": "the first third"
+      }
+    ]
   },
   {
     "ar": "ثلاث ارباع",
@@ -3701,7 +7588,20 @@
     "freq": 3,
     "ex_ar": "كملت ثلاث ارباع الخدمة.",
     "ex_tr": "kammalt thlāth rbā3 likhidma.",
-    "ex_en": "I've finished three quarters of the work."
+    "ex_en": "I've finished three quarters of the work.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "ثلاث ارباع ساعة",
+        "tr": "thlāth rbā3 sā3a",
+        "en": "three quarters of an hour"
+      },
+      {
+        "ar": "ثلاث ارباع الناس",
+        "tr": "thlāth rbā3 innās",
+        "en": "three quarters of the people"
+      }
+    ]
   },
   {
     "ar": "إلا",
@@ -3713,7 +7613,20 @@
     "freq": 2,
     "ex_ar": "الساعة ستة إلا ربع.",
     "ex_tr": "issā3a sitta illa rub3.",
-    "ex_en": "It's a quarter to six."
+    "ex_en": "It's a quarter to six.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "الساعة ثمانية إلا ربع",
+        "tr": "issā3a thmānya illa rub3",
+        "en": "quarter to eight"
+      },
+      {
+        "ar": "الساعة تسعة إلا عشرة",
+        "tr": "issā3a tis3a illa 3ashra",
+        "en": "ten to nine"
+      }
+    ]
   },
   {
     "ar": "زوج",
@@ -3726,7 +7639,20 @@
     "ex_ar": "زوج صبابيط.",
     "ex_tr": "zōj SabābīT.",
     "ex_en": "A pair of shoes.",
-    "note": "Also 'husband' in other contexts."
+    "note": "Also 'husband' in other contexts.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "زوج حوايج",
+        "tr": "zōj 7wāyij",
+        "en": "a pair of clothes"
+      },
+      {
+        "ar": "زوج كلسات",
+        "tr": "zōj kalsāt",
+        "en": "a pair of socks"
+      }
+    ]
   },
   {
     "ar": "دزينة",
@@ -3739,7 +7665,20 @@
     "ex_ar": "دزينة بيض.",
     "ex_tr": "dzīna bēD.",
     "ex_en": "A dozen eggs.",
-    "note": "From Italian dozzina."
+    "note": "From Italian dozzina.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "دزينة كؤوس",
+        "tr": "dzīna ku'ūs",
+        "en": "a dozen glasses"
+      },
+      {
+        "ar": "نص دزينة",
+        "tr": "nuSS dzīna",
+        "en": "half a dozen"
+      }
+    ]
   },
   {
     "ar": "في المية",
@@ -3751,7 +7690,20 @@
     "freq": 3,
     "ex_ar": "تخفيض عشرين في المية.",
     "ex_tr": "takhfīD 3ishrīn fi limya.",
-    "ex_en": "Twenty percent discount."
+    "ex_en": "Twenty percent discount.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "عشرة في المية",
+        "tr": "3ashra fi limya",
+        "en": "ten percent"
+      },
+      {
+        "ar": "كم في المية؟",
+        "tr": "kam fi limya?",
+        "en": "What percent?"
+      }
+    ]
   },
   {
     "ar": "نمرة",
@@ -3764,7 +7716,20 @@
     "ex_ar": "عطيني نمرتك.",
     "ex_tr": "3Tīni nimrtik.",
     "ex_en": "Give me your number.",
-    "note": "From Italian/French numero; pl. نمر nimar."
+    "note": "From Italian/French numero; pl. نمر nimar.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "شن نمرتك؟",
+        "tr": "shin nimrtik?",
+        "en": "What's your number?"
+      },
+      {
+        "ar": "نمرة الحوش",
+        "tr": "nimrat l7ōsh",
+        "en": "the house number"
+      }
+    ]
   },
   {
     "ar": "رقم",
@@ -3777,6 +7742,19 @@
     "ex_ar": "شنو رقم الحوش؟",
     "ex_tr": "shinu ragm l7ōsh?",
     "ex_en": "What's the house number?",
-    "note": "pl. أرقام argām."
+    "note": "pl. أرقام argām.",
+    "usage": 63,
+    "phrases": [
+      {
+        "ar": "رقم التلفون",
+        "tr": "ragm ittilifōn",
+        "en": "phone number"
+      },
+      {
+        "ar": "رقم واحد",
+        "tr": "ragm wā7id",
+        "en": "number one"
+      }
+    ]
   }
 ]
