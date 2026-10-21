@@ -8288,5 +8288,211 @@
     "en": "Middle Eastern sweets"
    }
   ]
+ },
+ {
+  "ar": "قطر",
+  "tr": "giTr",
+  "en": "sugar syrup (for sweets)",
+  "msa": "قطر",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "البقلاوة لازم تتسقى بالقطر وهي سخونة.",
+  "ex_tr": "il-baglāwa lāzim titsga bil-giTr w hi skhūna.",
+  "ex_en": "Baklava must be soaked in syrup while hot.",
+  "note": "Sugar, water and lemon, often scented with زهر.",
+  "phrases": [
+   {
+    "ar": "قطر بالزهر",
+    "tr": "giTr biz-zhar",
+    "en": "orange-blossom syrup"
+   },
+   {
+    "ar": "قطر بارد",
+    "tr": "giTr bārid",
+    "en": "cold syrup"
+   }
+  ]
+ },
+ {
+  "ar": "حشوة",
+  "tr": "7ashwa",
+  "en": "filling; stuffing",
+  "msa": "حشوة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 32,
+  "ex_ar": "حشوة المحشي رز ولحم مفروم.",
+  "ex_tr": "7ashwat il-ma7shi ruzz w la7am mafrūm.",
+  "ex_en": "The stuffing for ma7shi is rice and minced meat.",
+  "note": "Also a dental filling.",
+  "phrases": [
+   {
+    "ar": "حشوة البوريك",
+    "tr": "7ashwat il-būrīk",
+    "en": "the būrīk filling"
+   },
+   {
+    "ar": "حشوة بالتمر",
+    "tr": "7ashwa bit-tmar",
+    "en": "date filling"
+   }
+  ]
+ },
+ {
+  "ar": "تتبيلة",
+  "tr": "tatbīla",
+  "en": "marinade; seasoning mix",
+  "msa": "تتبيلة",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "خلي الدجاج في التتبيلة ساعتين.",
+  "ex_tr": "khalli d-djāj fit-tatbīla sā3tēn.",
+  "ex_en": "Leave the chicken in the marinade for two hours.",
+  "phrases": [
+   {
+    "ar": "تتبيلة المشوي",
+    "tr": "tatbīlat il-mashwi",
+    "en": "grill marinade"
+   },
+   {
+    "ar": "تتبيلة بالثوم والليمون",
+    "tr": "tatbīla bith-thūm wil-līmūn",
+    "en": "garlic-lemon marinade"
+   }
+  ]
+ },
+ {
+  "ar": "عسل حر",
+  "tr": "3asal 7urr",
+  "en": "pure natural honey",
+  "msa": "عسل طبيعي",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "العسل الحر غالي لكن يفيد.",
+  "ex_tr": "il-3asal il-7urr ghāli lākin yfīd.",
+  "ex_en": "Pure honey is expensive but beneficial.",
+  "note": "حر = genuine, unadulterated.",
+  "phrases": [
+   {
+    "ar": "عسل حر من الجبل",
+    "tr": "3asal 7urr min ij-jbal",
+    "en": "pure mountain honey"
+   },
+   {
+    "ar": "برطمان عسل حر",
+    "tr": "barTmān 3asal 7urr",
+    "en": "a jar of pure honey"
+   }
+  ]
+ },
+ {
+  "ar": "مرقة حمرا",
+  "tr": "marga 7amra",
+  "en": "red sauce (tomato-pepper base)",
+  "msa": "مرق أحمر",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 3,
+  "usage": 36,
+  "ex_ar": "البازين ياكلوه بالمرقة الحمرا.",
+  "ex_tr": "il-bāzīn yāklūh bil-marga l-7amra.",
+  "ex_en": "Bazin is eaten with red sauce.",
+  "note": "The tomato-paste, red-pepper and oil base of most Libyan dishes.",
+  "phrases": [
+   {
+    "ar": "مرقة حمرا باللحم",
+    "tr": "marga 7amra bil-la7am",
+    "en": "red sauce with meat"
+   },
+   {
+    "ar": "مرقة بيضا",
+    "tr": "marga bēDa",
+    "en": "white sauce (without tomato)"
+   }
+  ]
+ },
+ {
+  "ar": "سكر بني",
+  "tr": "sukkar bunni",
+  "en": "brown sugar",
+  "msa": "سكر بني",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 5,
+  "usage": 20,
+  "ex_ar": "نحط سكر بني في القهوة.",
+  "ex_tr": "in7uTT sukkar bunni fil-gahwa.",
+  "ex_en": "I put brown sugar in my coffee.",
+  "phrases": [
+   {
+    "ar": "ظرف سكر بني",
+    "tr": "Darf sukkar bunni",
+    "en": "a sachet of brown sugar"
+   },
+   {
+    "ar": "كيلو سكر بني",
+    "tr": "kīlu sukkar bunni",
+    "en": "a kilo of brown sugar"
+   }
+  ]
+ },
+ {
+  "ar": "زيتون أكحل",
+  "tr": "zītūn ak7al",
+  "en": "black olives",
+  "msa": "زيتون أسود",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "البيتزا فيها زيتون أكحل.",
+  "ex_tr": "il-pītza fīha zītūn ak7al.",
+  "ex_en": "The pizza has black olives.",
+  "note": "أكحل = black in Libyan.",
+  "phrases": [
+   {
+    "ar": "زيتون أخضر",
+    "tr": "zītūn akhDar",
+    "en": "green olives"
+   },
+   {
+    "ar": "زيتون أكحل بلا نواية",
+    "tr": "zītūn ak7al bla nwāya",
+    "en": "pitted black olives"
+   }
+  ]
+ },
+ {
+  "ar": "حمص بالكمون",
+  "tr": "7ummuS bil-kammūn",
+  "en": "hot chickpeas with cumin (street snack)",
+  "msa": "حمص بالكمون",
+  "pos": "noun",
+  "cat": "food",
+  "freq": 4,
+  "usage": 30,
+  "ex_ar": "في الشتاء ناخذو كاسة حمص بالكمون من الكروسة.",
+  "ex_tr": "fish-shta nākhdhu kāsat 7ummuS bil-kammūn min il-karrōsa.",
+  "ex_en": "In winter we get a cup of cumin chickpeas from the cart.",
+  "note": "Sold hot in cups with harissa and lemon.",
+  "phrases": [
+   {
+    "ar": "حمص سخون",
+    "tr": "7ummuS skhūn",
+    "en": "hot chickpeas"
+   },
+   {
+    "ar": "حمص بالهريسة",
+    "tr": "7ummuS bil-harīsa",
+    "en": "chickpeas with harissa"
+   }
+  ]
  }
 ]
