@@ -5534,32 +5534,6 @@
   ]
  },
  {
-  "ar": "جيم",
-  "tr": "jīm",
-  "en": "gym",
-  "msa": "صالة رياضية",
-  "pos": "noun",
-  "cat": "sports",
-  "freq": 3,
-  "usage": 52,
-  "ex_ar": "نمشي للجيم كل يوم",
-  "ex_tr": "nimshi lij-jīm kull yōm",
-  "ex_en": "I go to the gym every day",
-  "note": "English loan; also صالة sāla",
-  "phrases": [
-   {
-    "ar": "اشتراك في الجيم",
-    "tr": "ishtirāk fij-jīm",
-    "en": "a gym membership"
-   },
-   {
-    "ar": "بعد الجيم نتعشى",
-    "tr": "ba3d ij-jīm nit3ashsha",
-    "en": "After the gym I have dinner"
-   }
-  ]
- },
- {
   "ar": "رياضي",
   "tr": "riyāDi",
   "en": "athlete; sportsman",
@@ -5865,32 +5839,6 @@
     "ar": "يا بطل!",
     "tr": "ya baTal!",
     "en": "Well done, champ!"
-   }
-  ]
- },
- {
-  "ar": "لياقة",
-  "tr": "liyāga",
-  "en": "fitness",
-  "msa": "لياقة بدنية",
-  "pos": "noun",
-  "cat": "sports",
-  "freq": 4,
-  "usage": 36,
-  "ex_ar": "لياقته ضعيفة",
-  "ex_tr": "liyāgta Da3īfa",
-  "ex_en": "His fitness is poor",
-  "note": "Full form لياقة بدنية",
-  "phrases": [
-   {
-    "ar": "لياقة بدنية",
-    "tr": "liyāga badaniyya",
-    "en": "physical fitness"
-   },
-   {
-    "ar": "نبي نرجع لياقتي",
-    "tr": "nibbi nrajji3 liyāgti",
-    "en": "I want to get my fitness back"
    }
   ]
  },
@@ -7623,6 +7571,1691 @@
     "ar": "بروش للفراشية",
     "tr": "brōsh lil-farrāshiyya",
     "en": "a pin for the farrashiya"
+   }
+  ]
+ },
+ {
+  "ar": "فانيلة",
+  "tr": "fanīla",
+  "en": "undershirt; vest; T-shirt",
+  "msa": "فانلة",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "البس فانيلة تحت القميجة",
+  "ex_tr": "ilbis fanīla ta7t il-gamīja",
+  "ex_en": "Wear a vest under the shirt",
+  "note": "Italian flanella; pl. فانيلات fanīlāt",
+  "phrases": [
+   {
+    "ar": "فانيلة بيضا",
+    "tr": "fanīla bēDa",
+    "en": "a white undershirt"
+   },
+   {
+    "ar": "فانيلة الفريق",
+    "tr": "fanīlat il-farīg",
+    "en": "the team shirt"
+   }
+  ]
+ },
+ {
+  "ar": "تريكو",
+  "tr": "trīko",
+  "en": "knitted sweater; jumper",
+  "msa": "كنزة صوف",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "البس التريكو، الدنيا باردة",
+  "ex_tr": "ilbis it-trīko, id-dinya bārda",
+  "ex_en": "Put on your sweater, it's cold",
+  "note": "French tricot; pl. تريكوات",
+  "phrases": [
+   {
+    "ar": "تريكو صوف",
+    "tr": "trīko Sūf",
+    "en": "a wool jumper"
+   },
+   {
+    "ar": "تريكو بقبة عالية",
+    "tr": "trīko b-gubba 3ālya",
+    "en": "a polo-neck sweater"
+   }
+  ]
+ },
+ {
+  "ar": "بلوزة",
+  "tr": "blūza",
+  "en": "blouse; top",
+  "msa": "بلوزة",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "شريت بلوزة حمرا",
+  "ex_tr": "shrēt blūza 7amra",
+  "ex_en": "I bought a red blouse",
+  "note": "French blouse; pl. بلايز blāyiz",
+  "phrases": [
+   {
+    "ar": "بلوزة بكم طويل",
+    "tr": "blūza b-kumm Twīl",
+    "en": "a long-sleeved top"
+   },
+   {
+    "ar": "بلوزة صيفية",
+    "tr": "blūza Sēfiyya",
+    "en": "a summer top"
+   }
+  ]
+ },
+ {
+  "ar": "جيليه",
+  "tr": "jīlē",
+  "en": "waistcoat; gilet; sleeveless vest",
+  "msa": "صدرية",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "لابس جيليه فوق القميجة",
+  "ex_tr": "lābis jīlē fōg il-gamīja",
+  "ex_en": "He's wearing a waistcoat over his shirt",
+  "note": "French gilet",
+  "phrases": [
+   {
+    "ar": "جيليه صوف",
+    "tr": "jīlē Sūf",
+    "en": "a woollen gilet"
+   },
+   {
+    "ar": "جيليه البدلة",
+    "tr": "jīlē l-badla",
+    "en": "the suit waistcoat"
+   }
+  ]
+ },
+ {
+  "ar": "صندل",
+  "tr": "Sandal",
+  "en": "sandal; sandals",
+  "msa": "صندل",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "في الصيف نلبس صندل",
+  "ex_tr": "fiS-Sēf nilbis Sandal",
+  "ex_en": "In summer I wear sandals",
+  "note": "pl. صنادل Sanādil",
+  "phrases": [
+   {
+    "ar": "صندل جلد",
+    "tr": "Sandal jild",
+    "en": "leather sandals"
+   },
+   {
+    "ar": "صندل البحر",
+    "tr": "Sandal il-ba7r",
+    "en": "beach sandals"
+   }
+  ]
+ },
+ {
+  "ar": "جزمة",
+  "tr": "jazma",
+  "en": "boots; rubber boots",
+  "msa": "جزمة",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "البس الجزمة، الطريق كله طين",
+  "ex_tr": "ilbis ij-jazma, iT-Trīg kulla Tīn",
+  "ex_en": "Wear your boots, the road is all mud",
+  "note": "pl. جزم jizam",
+  "phrases": [
+   {
+    "ar": "جزمة بلاستيك",
+    "tr": "jazmat blāstīk",
+    "en": "rubber boots"
+   },
+   {
+    "ar": "جزمة شتوية",
+    "tr": "jazma shitwiyya",
+    "en": "winter boots"
+   }
+  ]
+ },
+ {
+  "ar": "قفازات",
+  "tr": "guffāzāt",
+  "en": "gloves",
+  "msa": "قفازات",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "البس القفازات، يدّيك يبردوا",
+  "ex_tr": "ilbis il-guffāzāt, yiddēk yibirdu",
+  "ex_en": "Wear gloves, your hands will get cold",
+  "note": "sing. قفاز guffāz",
+  "phrases": [
+   {
+    "ar": "قفازات صوف",
+    "tr": "guffāzāt Sūf",
+    "en": "woollen gloves"
+   },
+   {
+    "ar": "قفازات بلاستيك",
+    "tr": "guffāzāt blāstīk",
+    "en": "plastic gloves"
+   }
+  ]
+ },
+ {
+  "ar": "طرحة",
+  "tr": "Tar7a",
+  "en": "veil; light headscarf; bridal veil",
+  "msa": "طرحة",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "العروسة لابسة طرحة بيضا",
+  "ex_tr": "il-3arūsa lābsa Tar7a bēDa",
+  "ex_en": "The bride is wearing a white veil",
+  "note": "pl. طرح Tura7",
+  "phrases": [
+   {
+    "ar": "طرحة العروسة",
+    "tr": "Tar7at il-3arūsa",
+    "en": "the bride's veil"
+   },
+   {
+    "ar": "طرحة شيفون",
+    "tr": "Tar7a shīfōn",
+    "en": "a chiffon scarf"
+   }
+  ]
+ },
+ {
+  "ar": "نقاب",
+  "tr": "nigāb",
+  "en": "niqab; face veil",
+  "msa": "نقاب",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "لابسة نقاب",
+  "ex_tr": "lābsa nigāb",
+  "ex_en": "She wears a niqab",
+  "phrases": [
+   {
+    "ar": "نقاب أسود",
+    "tr": "nigāb aswid",
+    "en": "a black niqab"
+   },
+   {
+    "ar": "بدت تلبس النقاب",
+    "tr": "bdat tilbis in-nigāb",
+    "en": "She started wearing the niqab"
+   }
+  ]
+ },
+ {
+  "ar": "بوطونة",
+  "tr": "bōTōna",
+  "en": "button (on clothes)",
+  "msa": "زر",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "طاحت بوطونة من القميجة",
+  "ex_tr": "Tā7at bōTōna min il-gamīja",
+  "ex_en": "A button fell off the shirt",
+  "note": "Italian bottone; pl. بوطونات bōTōnāt",
+  "phrases": [
+   {
+    "ar": "سكّر البوطونات",
+    "tr": "sakkir il-bōTōnāt",
+    "en": "Do up the buttons"
+   },
+   {
+    "ar": "خيّط البوطونة",
+    "tr": "khayyiT il-bōTōna",
+    "en": "Sew the button on"
+   }
+  ]
+ },
+ {
+  "ar": "ياقة",
+  "tr": "yāga",
+  "en": "collar",
+  "msa": "ياقة",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "ياقة القميجة موسخة",
+  "ex_tr": "yāgat il-gamīja mwassakha",
+  "ex_en": "The shirt collar is dirty",
+  "note": "pl. ياقات yāgāt",
+  "phrases": [
+   {
+    "ar": "ياقة عالية",
+    "tr": "yāga 3ālya",
+    "en": "a high collar"
+   },
+   {
+    "ar": "بلا ياقة",
+    "tr": "bla yāga",
+    "en": "collarless"
+   }
+  ]
+ },
+ {
+  "ar": "كُم",
+  "tr": "kumm",
+  "en": "sleeve",
+  "msa": "كم",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "الكم طويل شوية",
+  "ex_tr": "il-kumm Twīl shwayya",
+  "ex_en": "The sleeve is a bit long",
+  "note": "pl. أكمام akmām; homograph of كم \"how many\"",
+  "phrases": [
+   {
+    "ar": "نص كم",
+    "tr": "nuSS kumm",
+    "en": "short-sleeved"
+   },
+   {
+    "ar": "بلا كمام",
+    "tr": "bla kmām",
+    "en": "sleeveless"
+   }
+  ]
+ },
+ {
+  "ar": "قماش",
+  "tr": "gmāsh",
+  "en": "fabric; cloth; material",
+  "msa": "قماش",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "القماش هادا ناعم",
+  "ex_tr": "il-gmāsh hāda nā3im",
+  "ex_en": "This fabric is soft",
+  "note": "pl. أقمشة agmisha",
+  "phrases": [
+   {
+    "ar": "قماش قطن",
+    "tr": "gmāsh guTn",
+    "en": "cotton fabric"
+   },
+   {
+    "ar": "سوق القماش",
+    "tr": "sūg il-gmāsh",
+    "en": "the fabric market"
+   }
+  ]
+ },
+ {
+  "ar": "قطن",
+  "tr": "guTn",
+  "en": "cotton (fabric)",
+  "msa": "قطن",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "القميجة هادي قطن مية في المية",
+  "ex_tr": "il-gamīja hādi guTn miyya fil-miyya",
+  "ex_en": "This shirt is 100% cotton",
+  "note": "Also cotton wool in pharmacies",
+  "phrases": [
+   {
+    "ar": "حوايج قطن",
+    "tr": "7wāyij guTn",
+    "en": "cotton clothes"
+   },
+   {
+    "ar": "قطن مصري",
+    "tr": "guTn maSri",
+    "en": "Egyptian cotton"
+   }
+  ]
+ },
+ {
+  "ar": "حرير",
+  "tr": "7rīr",
+  "en": "silk",
+  "msa": "حرير",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "شال حرير",
+  "ex_tr": "shāl 7rīr",
+  "ex_en": "a silk shawl",
+  "note": "Also used for soft hair: شعرها حرير",
+  "phrases": [
+   {
+    "ar": "حرير طبيعي",
+    "tr": "7rīr Tabī3i",
+    "en": "real silk"
+   },
+   {
+    "ar": "ناعم كي الحرير",
+    "tr": "nā3im kayy il-7rīr",
+    "en": "as soft as silk"
+   }
+  ]
+ },
+ {
+  "ar": "كتان",
+  "tr": "kittān",
+  "en": "linen",
+  "msa": "كتان",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "قميجة كتان للصيف",
+  "ex_tr": "gamīja kittān liS-Sēf",
+  "ex_en": "a linen shirt for summer",
+  "phrases": [
+   {
+    "ar": "سروال كتان",
+    "tr": "serwāl kittān",
+    "en": "linen trousers"
+   },
+   {
+    "ar": "الكتان يتكمّش",
+    "tr": "il-kittān yitkammash",
+    "en": "Linen creases"
+   }
+  ]
+ },
+ {
+  "ar": "موضة",
+  "tr": "mōDa",
+  "en": "fashion; trend",
+  "msa": "موضة",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "هادي الموضة هالأيام",
+  "ex_tr": "hādi l-mōDa hal-ayyām",
+  "ex_en": "This is the fashion these days",
+  "note": "Italian moda",
+  "phrases": [
+   {
+    "ar": "موضة قديمة",
+    "tr": "mōDa gdīma",
+    "en": "out of fashion"
+   },
+   {
+    "ar": "يمشي مع الموضة",
+    "tr": "yimshi ma3 il-mōDa",
+    "en": "He follows fashion"
+   }
+  ]
+ },
+ {
+  "ar": "موديل",
+  "tr": "modēl",
+  "en": "model; style; design",
+  "msa": "طراز",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "عندكم الموديل هادا بلون تاني؟",
+  "ex_tr": "3andkum il-modēl hāda b-lōn tāni?",
+  "ex_en": "Do you have this style in another colour?",
+  "note": "pl. موديلات modēlāt; also car model year",
+  "phrases": [
+   {
+    "ar": "موديل جديد",
+    "tr": "modēl jdīd",
+    "en": "a new model"
+   },
+   {
+    "ar": "موديل السنة",
+    "tr": "modēl is-sana",
+    "en": "this year's model"
+   }
+  ]
+ },
+ {
+  "ar": "ستايل",
+  "tr": "stāyl",
+  "en": "style; look",
+  "msa": "أسلوب",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "عنده ستايل في اللبس",
+  "ex_tr": "3anda stāyl fil-libs",
+  "ex_en": "He has style in how he dresses",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "ستايل كلاسيك",
+    "tr": "stāyl klāsīk",
+    "en": "a classic style"
+   },
+   {
+    "ar": "غيّر الستايل",
+    "tr": "ghayyar is-stāyl",
+    "en": "He changed his look"
+   }
+  ]
+ },
+ {
+  "ar": "ماركة",
+  "tr": "mārka",
+  "en": "brand; make; label",
+  "msa": "ماركة",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "الصباط هادا ماركة",
+  "ex_tr": "iS-SabbāT hāda mārka",
+  "ex_en": "These shoes are a brand name",
+  "note": "Italian marca; pl. ماركات mārkāt",
+  "phrases": [
+   {
+    "ar": "ماركة أصلية",
+    "tr": "mārka aSliyya",
+    "en": "a genuine brand"
+   },
+   {
+    "ar": "شن ماركة المكينة؟",
+    "tr": "shin mārkat il-makīna?",
+    "en": "What make is the car?"
+   }
+  ]
+ },
+ {
+  "ar": "فترينة",
+  "tr": "fitrīna",
+  "en": "shop window; display case",
+  "msa": "واجهة عرض",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "شفتها في الفترينة",
+  "ex_tr": "shufitha fil-fitrīna",
+  "ex_en": "I saw it in the shop window",
+  "note": "Italian vetrina",
+  "phrases": [
+   {
+    "ar": "الفستان اللي في الفترينة",
+    "tr": "il-fustān illi fil-fitrīna",
+    "en": "the dress in the window"
+   },
+   {
+    "ar": "فترينة الدهب",
+    "tr": "fitrīnat id-dhab",
+    "en": "the jewellery display case"
+   }
+  ]
+ },
+ {
+  "ar": "بوتيك",
+  "tr": "būtīk",
+  "en": "boutique; clothes shop",
+  "msa": "متجر ملابس",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "فتحت بوتيك حوايج نسا",
+  "ex_tr": "fit7at būtīk 7wāyij nsa",
+  "ex_en": "She opened a women's clothes boutique",
+  "note": "French boutique; pl. بوتيكات",
+  "phrases": [
+   {
+    "ar": "بوتيك في قرقارش",
+    "tr": "būtīk fi gargārish",
+    "en": "a boutique in Gargaresh"
+   },
+   {
+    "ar": "بوتيك غالي",
+    "tr": "būtīk ghāli",
+    "en": "an expensive boutique"
+   }
+  ]
+ },
+ {
+  "ar": "مشتريات",
+  "tr": "mushtarayāt",
+  "en": "purchases; shopping (items bought)",
+  "msa": "مشتريات",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "حط المشتريات في المكينة",
+  "ex_tr": "7oTT il-mushtarayāt fil-makīna",
+  "ex_en": "Put the shopping in the car",
+  "phrases": [
+   {
+    "ar": "قايمة المشتريات",
+    "tr": "gāymat il-mushtarayāt",
+    "en": "the shopping list"
+   },
+   {
+    "ar": "مشتريات العيد",
+    "tr": "mushtarayāt il-3īd",
+    "en": "Eid shopping"
+   }
+  ]
+ },
+ {
+  "ar": "تسوق",
+  "tr": "tasawwug",
+  "en": "shopping (activity)",
+  "msa": "تسوق",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "البنات مشوا للتسوق",
+  "ex_tr": "il-banāt mshu lit-tasawwug",
+  "ex_en": "The girls went shopping",
+  "note": "Everyday also قضية gDiyya (groceries)",
+  "phrases": [
+   {
+    "ar": "مركز تسوق",
+    "tr": "markaz tasawwug",
+    "en": "a shopping centre"
+   },
+   {
+    "ar": "تسوق أونلاين",
+    "tr": "tasawwug onlāyn",
+    "en": "online shopping"
+   }
+  ]
+ },
+ {
+  "ar": "قضية",
+  "tr": "gDiyya",
+  "en": "groceries; daily shopping; errand",
+  "msa": "مقاضي",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "مشيت نجيب القضية من الحانوت",
+  "ex_tr": "mshēt njīb il-gDiyya min il-7ānūt",
+  "ex_en": "I went to get the groceries from the shop",
+  "note": "Libyan; pl. قضاوي gDāwi; also \"case, issue\" in MSA",
+  "phrases": [
+   {
+    "ar": "قضية الحوش",
+    "tr": "gDiyyat il-7ōsh",
+    "en": "the household shopping"
+   },
+   {
+    "ar": "كمّلت القضية؟",
+    "tr": "kammalt il-gDiyya?",
+    "en": "Have you finished the shopping?"
+   }
+  ]
+ },
+ {
+  "ar": "إرجاع",
+  "tr": "irjā3",
+  "en": "return (of goods); refund",
+  "msa": "إرجاع",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "الإرجاع خلال أسبوع بس",
+  "ex_tr": "il-irjā3 khilāl usbū3 bass",
+  "ex_en": "Returns only within a week",
+  "phrases": [
+   {
+    "ar": "ممنوع الإرجاع",
+    "tr": "mamnū3 il-irjā3",
+    "en": "No returns"
+   },
+   {
+    "ar": "البضاعة المباعة لا ترد ولا تستبدل",
+    "tr": "il-bDā3a l-mubā3a la turadd wala tustabdal",
+    "en": "Goods sold are non-returnable and non-exchangeable"
+   }
+  ]
+ },
+ {
+  "ar": "مساومة",
+  "tr": "msāwma",
+  "en": "haggling; bargaining",
+  "msa": "مساومة",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "في السوق لازم مساومة",
+  "ex_tr": "fis-sūg lāzim msāwma",
+  "ex_en": "At the market you have to haggle",
+  "note": "Verb سوّم sawwam (to ask/haggle the price)",
+  "phrases": [
+   {
+    "ar": "ما فيش مساومة، السوم ثابت",
+    "tr": "ma fīsh msāwma, is-sōm thābit",
+    "en": "No haggling, the price is fixed"
+   },
+   {
+    "ar": "مساومة طويلة",
+    "tr": "msāwma Twīla",
+    "en": "a long haggle"
+   }
+  ]
+ },
+ {
+  "ar": "غرفة القياس",
+  "tr": "ghurfat il-gyās",
+  "en": "fitting room; changing room",
+  "msa": "غرفة القياس",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "وين غرفة القياس؟",
+  "ex_tr": "wīn ghurfat il-gyās?",
+  "ex_en": "Where's the fitting room?",
+  "note": "Also بروفة brōva (Italian prova) for a fitting",
+  "phrases": [
+   {
+    "ar": "نجرّبها في غرفة القياس",
+    "tr": "njarrabha fi ghurfat il-gyās",
+    "en": "I'll try it in the fitting room"
+   },
+   {
+    "ar": "غرفة القياس مشغولة",
+    "tr": "ghurfat il-gyās mashghūla",
+    "en": "The fitting room is occupied"
+   }
+  ]
+ },
+ {
+  "ar": "بروفة",
+  "tr": "brōva",
+  "en": "fitting; trying on; rehearsal",
+  "msa": "بروفة",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "عندي بروفة للفستان عند الخياطة",
+  "ex_tr": "3andi brōva lil-fustān 3and il-khayyāTa",
+  "ex_en": "I have a dress fitting at the dressmaker's",
+  "note": "Italian prova",
+  "phrases": [
+   {
+    "ar": "بروفة أولى",
+    "tr": "brōva ūla",
+    "en": "a first fitting"
+   },
+   {
+    "ar": "بروفة العرس",
+    "tr": "brōvat il-3urs",
+    "en": "the wedding rehearsal"
+   }
+  ]
+ },
+ {
+  "ar": "مقاسات",
+  "tr": "mgāsāt",
+  "en": "sizes; measurements",
+  "msa": "مقاسات",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "ما عندهمش مقاسات كبيرة",
+  "ex_tr": "ma 3andhumsh mgāsāt kbīra",
+  "ex_en": "They don't have large sizes",
+  "note": "sing. مقاس mgās",
+  "phrases": [
+   {
+    "ar": "كل المقاسات موجودة",
+    "tr": "kull il-mgāsāt mawjūda",
+    "en": "All sizes are available"
+   },
+   {
+    "ar": "خدا مقاساتي",
+    "tr": "khda mgāsāti",
+    "en": "He took my measurements"
+   }
+  ]
+ },
+ {
+  "ar": "لارج",
+  "tr": "lārj",
+  "en": "large (size L)",
+  "msa": "كبير",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "نبي مقاس لارج",
+  "ex_tr": "nibbi mgās lārj",
+  "ex_en": "I want size large",
+  "note": "English loan; also سمول smōl (S), ميديوم mīdyum (M), إكس لارج (XL)",
+  "phrases": [
+   {
+    "ar": "إكس لارج",
+    "tr": "iks lārj",
+    "en": "extra large"
+   },
+   {
+    "ar": "اللارج واسع عليا",
+    "tr": "il-lārj wāsi3 3layya",
+    "en": "The large is loose on me"
+   }
+  ]
+ },
+ {
+  "ar": "ميديوم",
+  "tr": "mīdyum",
+  "en": "medium (size M)",
+  "msa": "متوسط",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "المقاس ميديوم يجيني",
+  "ex_tr": "il-mgās mīdyum yjīni",
+  "ex_en": "Medium fits me",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "عندك ميديوم؟",
+    "tr": "3andik mīdyum?",
+    "en": "Do you have a medium?"
+   },
+   {
+    "ar": "ميديوم ولا لارج؟",
+    "tr": "mīdyum walla lārj?",
+    "en": "Medium or large?"
+   }
+  ]
+ },
+ {
+  "ar": "سمول",
+  "tr": "smōl",
+  "en": "small (size S)",
+  "msa": "صغير",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "السمول ضيّق عليه",
+  "ex_tr": "is-smōl Dayyig 3alēh",
+  "ex_en": "The small is tight on him",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "مقاس سمول",
+    "tr": "mgās smōl",
+    "en": "size small"
+   },
+   {
+    "ar": "كمّل السمول",
+    "tr": "kammal is-smōl",
+    "en": "The small is sold out"
+   }
+  ]
+ },
+ {
+  "ar": "تخفيضات",
+  "tr": "takhfīDāt",
+  "en": "sales; reductions (season)",
+  "msa": "تخفيضات",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "التخفيضات بدت في المول",
+  "ex_tr": "it-takhfīDāt bdat fil-mōl",
+  "ex_en": "The sales have started at the mall",
+  "note": "sing. تخفيض takhfīD",
+  "phrases": [
+   {
+    "ar": "تخفيضات العيد",
+    "tr": "takhfīDāt il-3īd",
+    "en": "Eid sales"
+   },
+   {
+    "ar": "تخفيضات لين خمسين في المية",
+    "tr": "takhfīDāt līn khamsīn fil-miyya",
+    "en": "discounts up to fifty percent"
+   }
+  ]
+ },
+ {
+  "ar": "بالة",
+  "tr": "bāla",
+  "en": "second-hand clothes (bales); used-clothes market",
+  "msa": "بالة",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "شريت الجاكيتة من البالة",
+  "ex_tr": "shrēt ij-jākīta min il-bāla",
+  "ex_en": "I bought the jacket from the second-hand market",
+  "note": "Imported bales of used clothes; homograph of بالة \"shovel\"",
+  "phrases": [
+   {
+    "ar": "حوايج بالة",
+    "tr": "7wāyij bāla",
+    "en": "second-hand clothes"
+   },
+   {
+    "ar": "سوق البالة",
+    "tr": "sūg il-bāla",
+    "en": "the used-clothes market"
+   }
+  ]
+ },
+ {
+  "ar": "تفصيل",
+  "tr": "tafSīl",
+  "en": "tailoring; made-to-measure; detail",
+  "msa": "تفصيل",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "البدلة هادي تفصيل مش جاهزة",
+  "ex_tr": "il-badla hādi tafSīl mush jāhza",
+  "ex_en": "This suit is tailored, not off the rack",
+  "note": "pl. تفاصيل tafāSīl (details)",
+  "phrases": [
+   {
+    "ar": "تفصيل على المقاس",
+    "tr": "tafSīl 3al-mgās",
+    "en": "made to measure"
+   },
+   {
+    "ar": "فصّلت جبة للعيد",
+    "tr": "faSSalt jubba lil-3īd",
+    "en": "I had a jubba tailored for Eid"
+   }
+  ]
+ },
+ {
+  "ar": "خياطة",
+  "tr": "khyāTa",
+  "en": "sewing; tailoring (craft)",
+  "msa": "خياطة",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "أمي تعرف الخياطة",
+  "ex_tr": "ummi ta3rif il-khyāTa",
+  "ex_en": "My mother knows how to sew",
+  "note": "Homograph of خيّاطة \"dressmaker\"",
+  "phrases": [
+   {
+    "ar": "ماكينة خياطة",
+    "tr": "mākīnat khyāTa",
+    "en": "a sewing machine"
+   },
+   {
+    "ar": "دورة خياطة",
+    "tr": "dawrat khyāTa",
+    "en": "a sewing course"
+   }
+  ]
+ },
+ {
+  "ar": "تطريز",
+  "tr": "taTrīz",
+  "en": "embroidery",
+  "msa": "تطريز",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "التطريز في الفرملة باليد",
+  "ex_tr": "it-taTrīz fil-farmla bil-yidd",
+  "ex_en": "The embroidery on the waistcoat is handmade",
+  "phrases": [
+   {
+    "ar": "تطريز دهبي",
+    "tr": "taTrīz dhabi",
+    "en": "gold embroidery"
+   },
+   {
+    "ar": "فستان فيه تطريز",
+    "tr": "fustān fīh taTrīz",
+    "en": "an embroidered dress"
+   }
+  ]
+ },
+ {
+  "ar": "حوايج داخلية",
+  "tr": "7wāyij dākhiliyya",
+  "en": "underwear",
+  "msa": "ملابس داخلية",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "شريت حوايج داخلية جديدة",
+  "ex_tr": "shrēt 7wāyij dākhiliyya jdīda",
+  "ex_en": "I bought new underwear",
+  "note": "Also ملابس داخلية",
+  "phrases": [
+   {
+    "ar": "حوايج داخلية قطن",
+    "tr": "7wāyij dākhiliyya guTn",
+    "en": "cotton underwear"
+   },
+   {
+    "ar": "حوايج داخلية للصغار",
+    "tr": "7wāyij dākhiliyya liS-Sghār",
+    "en": "kids' underwear"
+   }
+  ]
+ },
+ {
+  "ar": "تيشيرت",
+  "tr": "tīshirt",
+  "en": "T-shirt",
+  "msa": "قميص قصير",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "لابس تيشيرت وجينز",
+  "ex_tr": "lābis tīshirt w jīnz",
+  "ex_en": "He's wearing a T-shirt and jeans",
+  "note": "English loan; pl. تيشيرتات",
+  "phrases": [
+   {
+    "ar": "تيشيرت أبيض",
+    "tr": "tīshirt abyaD",
+    "en": "a white T-shirt"
+   },
+   {
+    "ar": "تيشيرت نص كم",
+    "tr": "tīshirt nuSS kumm",
+    "en": "a short-sleeved T-shirt"
+   }
+  ]
+ },
+ {
+  "ar": "كاب",
+  "tr": "kāb",
+  "en": "baseball cap; cap",
+  "msa": "قبعة",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "البس الكاب، الشمس قوية",
+  "ex_tr": "ilbis il-kāb, ish-shams gawiyya",
+  "ex_en": "Wear your cap, the sun is strong",
+  "note": "English loan",
+  "phrases": [
+   {
+    "ar": "كاب رياضي",
+    "tr": "kāb riyāDi",
+    "en": "a sports cap"
+   },
+   {
+    "ar": "كاب مقلوب",
+    "tr": "kāb maglūb",
+    "en": "a backwards cap"
+   }
+  ]
+ },
+ {
+  "ar": "حذا",
+  "tr": "7dha",
+  "en": "shoe; footwear (formal)",
+  "msa": "حذاء",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "محل أحذية في الشارع",
+  "ex_tr": "ma7all a7dhiya fish-shāri3",
+  "ex_en": "a shoe shop on the street",
+  "note": "pl. أحذية a7dhiya; everyday صباط SabbāT",
+  "phrases": [
+   {
+    "ar": "حذا رسمي",
+    "tr": "7dha rasmi",
+    "en": "formal shoes"
+   },
+   {
+    "ar": "محل أحذية",
+    "tr": "ma7all a7dhiya",
+    "en": "a shoe shop"
+   }
+  ]
+ },
+ {
+  "ar": "كعب عالي",
+  "tr": "ka3b 3āli",
+  "en": "high heels",
+  "msa": "كعب عالي",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "ما نقدرش نمشي بالكعب العالي",
+  "ex_tr": "ma nigdarsh nimshi bil-ka3b il-3āli",
+  "ex_en": "I can't walk in high heels",
+  "note": "كعب = heel",
+  "phrases": [
+   {
+    "ar": "صباط بكعب",
+    "tr": "SabbāT b-ka3b",
+    "en": "heeled shoes"
+   },
+   {
+    "ar": "كعب عالي للعرس",
+    "tr": "ka3b 3āli lil-3urs",
+    "en": "high heels for the wedding"
+   }
+  ]
+ },
+ {
+  "ar": "شنطة ظهر",
+  "tr": "shanTat DHahr",
+  "en": "backpack; rucksack",
+  "msa": "حقيبة ظهر",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الصغير ياخد شنطة ظهر للمدرسة",
+  "ex_tr": "iS-Sghīr yākhid shanTat DHahr lil-madrasa",
+  "ex_en": "The little one takes a backpack to school",
+  "note": "pl. شنط ظهر",
+  "phrases": [
+   {
+    "ar": "شنطة ظهر خفيفة",
+    "tr": "shanTat DHahr khfīfa",
+    "en": "a light backpack"
+   },
+   {
+    "ar": "شنطة المدرسة",
+    "tr": "shanTat il-madrasa",
+    "en": "the school bag"
+   }
+  ]
+ },
+ {
+  "ar": "نظارة شمسية",
+  "tr": "naDHDHāra shamsiyya",
+  "en": "sunglasses",
+  "msa": "نظارة شمسية",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "نسيت النظارة الشمسية في المكينة",
+  "ex_tr": "nsīt in-naDHDHāra sh-shamsiyya fil-makīna",
+  "ex_en": "I forgot my sunglasses in the car",
+  "note": "pl. نظارات شمسية",
+  "phrases": [
+   {
+    "ar": "نظارة شمسية أصلية",
+    "tr": "naDHDHāra shamsiyya aSliyya",
+    "en": "genuine sunglasses"
+   },
+   {
+    "ar": "نظارة سودا",
+    "tr": "naDHDHāra sūda",
+    "en": "dark glasses"
+   }
+  ]
+ },
+ {
+  "ar": "توكة",
+  "tr": "tōka",
+  "en": "hair clip; hair slide",
+  "msa": "مشبك شعر",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "حطت توكة في شعرها",
+  "ex_tr": "7aTTat tōka fi sha3rha",
+  "ex_en": "She put a clip in her hair",
+  "note": "Turkish toka; pl. توك",
+  "phrases": [
+   {
+    "ar": "توكة شعر",
+    "tr": "tōkat sha3r",
+    "en": "a hair clip"
+   },
+   {
+    "ar": "توكة ملونة",
+    "tr": "tōka mlawwna",
+    "en": "a coloured hair clip"
+   }
+  ]
+ },
+ {
+  "ar": "ربطة شعر",
+  "tr": "rabTat sha3r",
+  "en": "hair tie; hairband",
+  "msa": "رابطة شعر",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "عندك ربطة شعر؟",
+  "ex_tr": "3andik rabTat sha3r?",
+  "ex_en": "Do you have a hair tie?",
+  "note": "Also لاستيك lastīk (elastic)",
+  "phrases": [
+   {
+    "ar": "ربطة سودا",
+    "tr": "rabTa sūda",
+    "en": "a black hair tie"
+   },
+   {
+    "ar": "ربطت شعرها",
+    "tr": "rubTat sha3rha",
+    "en": "She tied her hair up"
+   }
+  ]
+ },
+ {
+  "ar": "لبس",
+  "tr": "libs",
+  "en": "clothing; way of dressing",
+  "msa": "لباس",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 3,
+  "usage": 54,
+  "ex_ar": "لبسه دايماً مرتب",
+  "ex_tr": "libsa dāyman mrattab",
+  "ex_en": "His clothes are always neat",
+  "note": "Verb لبس libis (to wear)",
+  "phrases": [
+   {
+    "ar": "لبس رسمي",
+    "tr": "libs rasmi",
+    "en": "formal wear"
+   },
+   {
+    "ar": "لبس العيد",
+    "tr": "libs il-3īd",
+    "en": "Eid clothes"
+   }
+  ]
+ },
+ {
+  "ar": "لبسة عربية",
+  "tr": "libsa 3arbiyya",
+  "en": "traditional Libyan outfit",
+  "msa": "زي تقليدي",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "لابس لبسة عربية في العرس",
+  "ex_tr": "lābis libsa 3arbiyya fil-3urs",
+  "ex_en": "He's wearing traditional dress at the wedding",
+  "note": "For men: jard/jubba, waistcoat and kabbous; for women: rida and jewellery",
+  "phrases": [
+   {
+    "ar": "لبسة عربية كاملة",
+    "tr": "libsa 3arbiyya kāmla",
+    "en": "a full traditional outfit"
+   },
+   {
+    "ar": "العروسة في لبستها العربية",
+    "tr": "il-3arūsa fi libsitha l-3arbiyya",
+    "en": "the bride in her traditional dress"
+   }
+  ]
+ },
+ {
+  "ar": "رداء",
+  "tr": "ridā",
+  "en": "traditional women's wrap (rida)",
+  "msa": "رداء",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "الرداء الطرابلسي حرير ودهب",
+  "ex_tr": "ir-ridā T-Trābulsi 7rīr w dhab",
+  "ex_en": "The Tripolitan rida is silk and gold",
+  "note": "Silk wrap worn by brides; pl. أردية",
+  "phrases": [
+   {
+    "ar": "ليلة الرداء",
+    "tr": "lēlat ir-ridā",
+    "en": "the rida night (wedding)"
+   },
+   {
+    "ar": "رداء أحمر",
+    "tr": "ridā a7mar",
+    "en": "a red rida"
+   }
+  ]
+ },
+ {
+  "ar": "قميجة نوم",
+  "tr": "gamījat nōm",
+  "en": "nightgown; nightdress",
+  "msa": "قميص نوم",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "شريت قميجة نوم قطن",
+  "ex_tr": "shrēt gamījat nōm guTn",
+  "ex_en": "I bought a cotton nightgown",
+  "note": "Also قميص نوم",
+  "phrases": [
+   {
+    "ar": "قميجة نوم طويلة",
+    "tr": "gamījat nōm Twīla",
+    "en": "a long nightdress"
+   },
+   {
+    "ar": "قميجة نوم للعروسة",
+    "tr": "gamījat nōm lil-3arūsa",
+    "en": "a nightdress for the bride"
+   }
+  ]
+ },
+ {
+  "ar": "روب",
+  "tr": "rōb",
+  "en": "dressing gown; bathrobe; robe",
+  "msa": "رداء",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "البس الروب بعد الدوش",
+  "ex_tr": "ilbis ir-rōb ba3d id-dūsh",
+  "ex_en": "Put on the bathrobe after the shower",
+  "note": "French robe",
+  "phrases": [
+   {
+    "ar": "روب حمام",
+    "tr": "rōb 7ammām",
+    "en": "a bathrobe"
+   },
+   {
+    "ar": "روب المحامي",
+    "tr": "rōb il-mu7āmi",
+    "en": "the lawyer's gown"
+   }
+  ]
+ },
+ {
+  "ar": "بالطو",
+  "tr": "bālTo",
+  "en": "overcoat; lab coat",
+  "msa": "معطف",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "الدكتور لابس بالطو أبيض",
+  "ex_tr": "id-doktōr lābis bālTo abyaD",
+  "ex_en": "The doctor is wearing a white coat",
+  "note": "Italian paletot / French paletot",
+  "phrases": [
+   {
+    "ar": "بالطو أبيض",
+    "tr": "bālTo abyaD",
+    "en": "a white lab coat"
+   },
+   {
+    "ar": "بالطو شتوي",
+    "tr": "bālTo shitwi",
+    "en": "a winter coat"
+   }
+  ]
+ },
+ {
+  "ar": "كوستيم",
+  "tr": "kostīm",
+  "en": "women's suit; costume",
+  "msa": "بدلة نسائية",
+  "pos": "noun",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "لابسة كوستيم للخدمة",
+  "ex_tr": "lābsa kostīm lil-khidma",
+  "ex_en": "She's wearing a suit to work",
+  "note": "French costume",
+  "phrases": [
+   {
+    "ar": "كوستيم أسود",
+    "tr": "kostīm aswid",
+    "en": "a black suit"
+   },
+   {
+    "ar": "كوستيم رسمي",
+    "tr": "kostīm rasmi",
+    "en": "a formal suit"
+   }
+  ]
+ },
+ {
+  "ar": "سبور",
+  "tr": "sbōr",
+  "en": "casual; sporty (clothing)",
+  "msa": "غير رسمي",
+  "pos": "adj",
+  "cat": "clothing",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "نحب اللبس السبور",
+  "ex_tr": "n7ibb il-libs is-sbōr",
+  "ex_en": "I like casual clothes",
+  "note": "French sport",
+  "phrases": [
+   {
+    "ar": "لبس سبور",
+    "tr": "libs sbōr",
+    "en": "casual wear"
+   },
+   {
+    "ar": "سبور ولا رسمي؟",
+    "tr": "sbōr walla rasmi?",
+    "en": "Casual or formal?"
+   }
+  ]
+ },
+ {
+  "ar": "مزركش",
+  "tr": "mzarkash",
+  "en": "embroidered; patterned; ornate",
+  "msa": "مزركش",
+  "pos": "adj",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "فستان مزركش",
+  "ex_tr": "fustān mzarkash",
+  "ex_en": "a patterned dress",
+  "note": "f. مزركشة mzarksha",
+  "phrases": [
+   {
+    "ar": "قماش مزركش",
+    "tr": "gmāsh mzarkash",
+    "en": "patterned fabric"
+   },
+   {
+    "ar": "طاقية مزركشة",
+    "tr": "Tāgiyya mzarksha",
+    "en": "an embroidered cap"
+   }
+  ]
+ },
+ {
+  "ar": "مخطط",
+  "tr": "mkhaTTaT",
+  "en": "striped",
+  "msa": "مخطط",
+  "pos": "adj",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "قميجة مخططة أزرق وأبيض",
+  "ex_tr": "gamīja mkhaTTaTa azrag w abyaD",
+  "ex_en": "a blue and white striped shirt",
+  "note": "f. مخططة mkhaTTaTa; also \"plan\" مخطط mukhaTTaT",
+  "phrases": [
+   {
+    "ar": "تيشيرت مخطط",
+    "tr": "tīshirt mkhaTTaT",
+    "en": "a striped T-shirt"
+   },
+   {
+    "ar": "مخطط بالطول",
+    "tr": "mkhaTTaT biT-Tūl",
+    "en": "vertically striped"
+   }
+  ]
+ },
+ {
+  "ar": "منقط",
+  "tr": "mnaggaT",
+  "en": "polka-dotted; spotted",
+  "msa": "منقط",
+  "pos": "adj",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "فستان منقط أبيض وأسود",
+  "ex_tr": "fustān mnaggaT abyaD w aswid",
+  "ex_en": "a black and white polka-dot dress",
+  "note": "f. منقطة mnaggTa",
+  "phrases": [
+   {
+    "ar": "قماش منقط",
+    "tr": "gmāsh mnaggaT",
+    "en": "spotted fabric"
+   },
+   {
+    "ar": "شال منقط",
+    "tr": "shāl mnaggaT",
+    "en": "a polka-dot shawl"
+   }
+  ]
+ },
+ {
+  "ar": "مكوية",
+  "tr": "makwiyya",
+  "en": "ironed; pressed",
+  "msa": "مكوي",
+  "pos": "adj",
+  "cat": "clothing",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "القميجة مكوية وجاهزة",
+  "ex_tr": "il-gamīja makwiyya w jāhza",
+  "ex_en": "The shirt is ironed and ready",
+  "note": "m. مكوي makwi",
+  "phrases": [
+   {
+    "ar": "حوايج مكوية",
+    "tr": "7wāyij makwiyya",
+    "en": "ironed clothes"
+   },
+   {
+    "ar": "مش مكوية",
+    "tr": "mush makwiyya",
+    "en": "not ironed"
+   }
+  ]
+ },
+ {
+  "ar": "دفع عند الاستلام",
+  "tr": "daf3 3and il-istilām",
+  "en": "cash on delivery",
+  "msa": "الدفع عند الاستلام",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 5,
+  "usage": 32,
+  "ex_ar": "الصفحة فيها دفع عند الاستلام",
+  "ex_tr": "iS-Saf7a fīha daf3 3and il-istilām",
+  "ex_en": "The page offers cash on delivery",
+  "note": "Standard for Libyan Instagram/Facebook shops",
+  "phrases": [
+   {
+    "ar": "الدفع عند الاستلام بس",
+    "tr": "id-daf3 3and il-istilām bass",
+    "en": "cash on delivery only"
+   },
+   {
+    "ar": "نخلّص لما نستلم",
+    "tr": "nkhalliS lamma nistalim",
+    "en": "I'll pay when I receive it"
+   }
+  ]
+ },
+ {
+  "ar": "كوبون",
+  "tr": "kūbōn",
+  "en": "coupon; voucher",
+  "msa": "قسيمة",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "عندي كوبون خصم",
+  "ex_tr": "3andi kūbōn khaSm",
+  "ex_en": "I have a discount voucher",
+  "note": "French coupon",
+  "phrases": [
+   {
+    "ar": "كوبون هدية",
+    "tr": "kūbōn hadiyya",
+    "en": "a gift voucher"
+   },
+   {
+    "ar": "الكوبون منتهي",
+    "tr": "il-kūbōn muntahi",
+    "en": "The coupon has expired"
+   }
+  ]
+ },
+ {
+  "ar": "بطاقة هدية",
+  "tr": "biTāgat hadiyya",
+  "en": "gift card",
+  "msa": "بطاقة هدية",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "عطيتها بطاقة هدية من المول",
+  "ex_tr": "3aTētha biTāgat hadiyya min il-mōl",
+  "ex_en": "I gave her a gift card from the mall",
+  "note": "pl. بطاقات هدايا",
+  "phrases": [
+   {
+    "ar": "بطاقة هدية بمية دينار",
+    "tr": "biTāgat hadiyya b-miyyat dīnār",
+    "en": "a hundred-dinar gift card"
+   },
+   {
+    "ar": "استعمل البطاقة",
+    "tr": "ista3mil il-biTāga",
+    "en": "Use the card"
+   }
+  ]
+ },
+ {
+  "ar": "قايمة",
+  "tr": "gāyma",
+  "en": "list; menu",
+  "msa": "قائمة",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "كتبت قايمة القضية",
+  "ex_tr": "ktibt gāymat il-gDiyya",
+  "ex_en": "I wrote the shopping list",
+  "note": "pl. قوايم gwāyim",
+  "phrases": [
+   {
+    "ar": "قايمة الأكل",
+    "tr": "gāymat il-ākil",
+    "en": "the menu"
+   },
+   {
+    "ar": "حطه في القايمة",
+    "tr": "7oTTa fil-gāyma",
+    "en": "Put it on the list"
+   }
+  ]
+ },
+ {
+  "ar": "عرض الأسعار",
+  "tr": "3arD il-as3ār",
+  "en": "price quotation; quote",
+  "msa": "عرض أسعار",
+  "pos": "noun",
+  "cat": "work",
+  "freq": 5,
+  "usage": 30,
+  "ex_ar": "نبي عرض أسعار للشغل",
+  "ex_tr": "nibbi 3arD as3ār lish-shughl",
+  "ex_en": "I'd like a quote for the job",
+  "note": "pl. عروض أسعار",
+  "phrases": [
+   {
+    "ar": "ابعتلي عرض الأسعار",
+    "tr": "ib3atli 3arD il-as3ār",
+    "en": "Send me the quotation"
+   },
+   {
+    "ar": "عرض أسعار مكتوب",
+    "tr": "3arD as3ār maktūb",
+    "en": "a written quote"
+   }
+  ]
+ },
+ {
+  "ar": "مقاس الصباط",
+  "tr": "mgās iS-SabbāT",
+  "en": "shoe size",
+  "msa": "مقاس الحذاء",
+  "pos": "noun",
+  "cat": "shopping",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "مقاس صباطي اتنين وأربعين",
+  "ex_tr": "mgās SabbāTi tnēn w arb3īn",
+  "ex_en": "My shoe size is forty-two",
+  "note": "Libyans use European sizes",
+  "phrases": [
+   {
+    "ar": "شن مقاس صباطك؟",
+    "tr": "shin mgās SabbāTik?",
+    "en": "What's your shoe size?"
+   },
+   {
+    "ar": "مقاس أكبر بنمرة",
+    "tr": "mgās akbar b-nimra",
+    "en": "one size bigger"
    }
   ]
  }
