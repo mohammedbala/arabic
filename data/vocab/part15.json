@@ -8674,5 +8674,361 @@
     "en": "a car for the desert road"
    }
   ]
+ },
+ {
+  "ar": "شارع عمر المختار",
+  "tr": "shāri3 3umar il-mukhtār",
+  "en": "Omar Mukhtar Street (Tripoli)",
+  "msa": "شارع عمر المختار",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 26,
+  "ex_ar": "المصارف كلها في شارع عمر المختار.",
+  "ex_tr": "il-maSārif kullha fi shāri3 3umar il-mukhtār.",
+  "ex_en": "All the banks are on Omar Mukhtar Street.",
+  "note": "main downtown street",
+  "phrases": [
+   {
+    "ar": "زحمة شارع عمر المختار",
+    "tr": "za7mit shāri3 3umar il-mukhtār",
+    "en": "Omar Mukhtar Street traffic"
+   },
+   {
+    "ar": "تلاقينا في عمر المختار",
+    "tr": "tlāgēna fi 3umar il-mukhtār",
+    "en": "we met on Omar Mukhtar"
+   }
+  ]
+ },
+ {
+  "ar": "قرقارش",
+  "tr": "gargārish",
+  "en": "Gargaresh (Tripoli district and shopping street)",
+  "msa": "قرقارش",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "نمشوا لقرقارش نشروا حوايج.",
+  "ex_tr": "nimshu l-gargārish nishru 7wāyij.",
+  "ex_en": "Let's go to Gargaresh to buy clothes.",
+  "phrases": [
+   {
+    "ar": "شارع قرقارش",
+    "tr": "shāri3 gargārish",
+    "en": "Gargaresh Street"
+   },
+   {
+    "ar": "قهاوي قرقارش",
+    "tr": "gahāwi gargārish",
+    "en": "the cafés of Gargaresh"
+   }
+  ]
+ },
+ {
+  "ar": "عين زارة",
+  "tr": "3ēn zāra",
+  "en": "Ain Zara (Tripoli suburb)",
+  "msa": "عين زارة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "ساكنين في عين زارة.",
+  "ex_tr": "sāknīn fi 3ēn zāra.",
+  "ex_en": "They live in Ain Zara.",
+  "phrases": [
+   {
+    "ar": "طريق عين زارة",
+    "tr": "Trīg 3ēn zāra",
+    "en": "the Ain Zara road"
+   },
+   {
+    "ar": "سوق عين زارة",
+    "tr": "sūg 3ēn zāra",
+    "en": "the Ain Zara market"
+   }
+  ]
+ },
+ {
+  "ar": "أبو سليم",
+  "tr": "bu slīm",
+  "en": "Abu Salim (Tripoli district)",
+  "msa": "أبو سليم",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "حديقة الحيوانات في بو سليم.",
+  "ex_tr": "7adīgit il-7aywānāt fi bu slīm.",
+  "ex_en": "The zoo is in Abu Salim.",
+  "note": "pronounced بوسليم",
+  "phrases": [
+   {
+    "ar": "من بو سليم",
+    "tr": "min bu slīm",
+    "en": "from Abu Salim"
+   },
+   {
+    "ar": "حومة في بو سليم",
+    "tr": "7ōma fi bu slīm",
+    "en": "a neighbourhood in Abu Salim"
+   }
+  ]
+ },
+ {
+  "ar": "الظهرة",
+  "tr": "iDH-DHahra",
+  "en": "Dahra (central Tripoli district)",
+  "msa": "الظهرة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "الظهرة قريبة من وسط البلاد.",
+  "ex_tr": "iDH-DHahra grība min wusT il-blād.",
+  "ex_en": "Dahra is close to downtown.",
+  "note": "old Italian-era district",
+  "phrases": [
+   {
+    "ar": "جامع الظهرة",
+    "tr": "jāmi3 iDH-DHahra",
+    "en": "the Dahra mosque"
+   },
+   {
+    "ar": "سوق الظهرة",
+    "tr": "sūg iDH-DHahra",
+    "en": "the Dahra market"
+   }
+  ]
+ },
+ {
+  "ar": "حي الأندلس",
+  "tr": "7ayy il-andalus",
+  "en": "Hay al-Andalus (Tripoli district)",
+  "msa": "حي الأندلس",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "المحلات الغالية في حي الأندلس.",
+  "ex_tr": "il-ma7allāt il-ghālya fi 7ayy il-andalus.",
+  "ex_en": "The expensive shops are in Hay al-Andalus.",
+  "phrases": [
+   {
+    "ar": "شارع حي الأندلس",
+    "tr": "shāri3 7ayy il-andalus",
+    "en": "Hay al-Andalus street"
+   },
+   {
+    "ar": "ساكنين في حي الأندلس",
+    "tr": "sāknīn fi 7ayy il-andalus",
+    "en": "they live in Hay al-Andalus"
+   }
+  ]
+ },
+ {
+  "ar": "بن عاشور",
+  "tr": "bin 3āshūr",
+  "en": "Ben Ashour (Tripoli district)",
+  "msa": "بن عاشور",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "العيادة في بن عاشور.",
+  "ex_tr": "il-3iyāda fi bin 3āshūr.",
+  "ex_en": "The clinic is in Ben Ashour.",
+  "phrases": [
+   {
+    "ar": "شارع بن عاشور",
+    "tr": "shāri3 bin 3āshūr",
+    "en": "Ben Ashour Street"
+   },
+   {
+    "ar": "قريب من بن عاشور",
+    "tr": "grīb min bin 3āshūr",
+    "en": "near Ben Ashour"
+   }
+  ]
+ },
+ {
+  "ar": "الهضبة",
+  "tr": "il-haDba",
+  "en": "Hadba (Tripoli district)",
+  "msa": "الهضبة",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "ساكن في الهضبة الخضرا.",
+  "ex_tr": "sākin fil-haDba l-khaDra.",
+  "ex_en": "He lives in Hadba al-Khadra.",
+  "phrases": [
+   {
+    "ar": "الهضبة الخضرا",
+    "tr": "il-haDba l-khaDra",
+    "en": "Hadba al-Khadra"
+   },
+   {
+    "ar": "طريق الهضبة",
+    "tr": "Trīg il-haDba",
+    "en": "the Hadba road"
+   }
+  ]
+ },
+ {
+  "ar": "رأس جدير",
+  "tr": "rās ijdīr",
+  "en": "Ras Ajdir (border crossing with Tunisia)",
+  "msa": "رأس جدير",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "الطابور في رأس جدير ساعات.",
+  "ex_tr": "iT-Tābūr fi rās ijdīr sā3āt.",
+  "ex_en": "The queue at Ras Ajdir takes hours.",
+  "note": "main crossing to Tunisia",
+  "phrases": [
+   {
+    "ar": "معبر رأس جدير",
+    "tr": "ma3bar rās ijdīr",
+    "en": "the Ras Ajdir crossing"
+   },
+   {
+    "ar": "سكّروا رأس جدير",
+    "tr": "sakkru rās ijdīr",
+    "en": "they closed Ras Ajdir"
+   }
+  ]
+ },
+ {
+  "ar": "امساعد",
+  "tr": "imsā3id",
+  "en": "Emsaed (border crossing with Egypt)",
+  "msa": "امساعد",
+  "pos": "noun",
+  "cat": "travel",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "دخلنا مصر من امساعد.",
+  "ex_tr": "dkhalna maSr min imsā3id.",
+  "ex_en": "We entered Egypt via Emsaed.",
+  "note": "crossing near Tobruk",
+  "phrases": [
+   {
+    "ar": "منفذ امساعد",
+    "tr": "manfadh imsā3id",
+    "en": "the Emsaed crossing"
+   },
+   {
+    "ar": "الطريق لامساعد",
+    "tr": "iT-Trīg l-imsā3id",
+    "en": "the road to Emsaed"
+   }
+  ]
+ },
+ {
+  "ar": "الأحوال المدنية",
+  "tr": "il-a7wāl il-madaniyya",
+  "en": "civil status registry",
+  "msa": "الأحوال المدنية",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 28,
+  "ex_ar": "الرقم الوطني من الأحوال المدنية.",
+  "ex_tr": "ir-ragm il-waTani min il-a7wāl il-madaniyya.",
+  "ex_en": "The national number comes from the civil status registry.",
+  "phrases": [
+   {
+    "ar": "مكتب الأحوال المدنية",
+    "tr": "maktab il-a7wāl il-madaniyya",
+    "en": "civil status office"
+   },
+   {
+    "ar": "قيد الأحوال المدنية",
+    "tr": "gēd il-a7wāl il-madaniyya",
+    "en": "civil status record"
+   }
+  ]
+ },
+ {
+  "ar": "مكتب محاماة",
+  "tr": "maktab mu7āmā",
+  "en": "law firm; lawyer's office",
+  "msa": "مكتب محاماة",
+  "pos": "noun",
+  "cat": "admin",
+  "freq": 5,
+  "usage": 24,
+  "ex_ar": "عنده مكتب محاماة في وسط البلاد.",
+  "ex_tr": "3andah maktab mu7āmā fi wusT il-blād.",
+  "ex_en": "He has a law office downtown.",
+  "phrases": [
+   {
+    "ar": "محاماة",
+    "tr": "mu7āmā",
+    "en": "the legal profession"
+   },
+   {
+    "ar": "استشارة في مكتب محاماة",
+    "tr": "istishāra fi maktab mu7āmā",
+    "en": "a consultation at a law firm"
+   }
+  ]
+ },
+ {
+  "ar": "باب بن غشير",
+  "tr": "bāb bin ghashīr",
+  "en": "Bab Ben Ghashir (Tripoli district)",
+  "msa": "باب بن غشير",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "الصيدلية في باب بن غشير.",
+  "ex_tr": "iS-Saydaliyya fi bāb bin ghashīr.",
+  "ex_en": "The pharmacy is in Bab Ben Ghashir.",
+  "phrases": [
+   {
+    "ar": "دوران باب بن غشير",
+    "tr": "dawarān bāb bin ghashīr",
+    "en": "the Bab Ben Ghashir roundabout"
+   },
+   {
+    "ar": "ساكن في باب بن غشير",
+    "tr": "sākin fi bāb bin ghashīr",
+    "en": "he lives in Bab Ben Ghashir"
+   }
+  ]
+ },
+ {
+  "ar": "سوق الثلاثاء",
+  "tr": "sūg ith-thlāthā",
+  "en": "Souq al-Thulatha (Tripoli market area)",
+  "msa": "سوق الثلاثاء",
+  "pos": "noun",
+  "cat": "city",
+  "freq": 5,
+  "usage": 22,
+  "ex_ar": "الملاهي قريبة من سوق الثلاثاء.",
+  "ex_tr": "il-malāhi grība min sūg ith-thlāthā.",
+  "ex_en": "The funfair is near Souq al-Thulatha.",
+  "note": "lit. Tuesday market",
+  "phrases": [
+   {
+    "ar": "نمشوا لسوق الثلاثاء",
+    "tr": "nimshu l-sūg ith-thlāthā",
+    "en": "let's go to Souq al-Thulatha"
+   },
+   {
+    "ar": "منطقة سوق الثلاثاء",
+    "tr": "manTgit sūg ith-thlāthā",
+    "en": "the Souq al-Thulatha area"
+   }
+  ]
  }
 ]

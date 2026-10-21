@@ -4428,8 +4428,8 @@
   "cat": "verbs-work",
   "freq": 4,
   "usage": 40,
-  "ex_ar": "شرى الكرهبة بالتقسيط → n",
-  "ex_tr": "ishra lkarhaba w gassaTha",
+  "ex_ar": "شرى الكرهبة وقسّطها",
+  "ex_tr": "shra lkarhaba w gassaTha",
   "ex_en": "He bought the car and paid for it in instalments",
   "note": "imperfect: نقسّط ngassiT (I pay in instalments), يقسّط ygassiT (he pays in instalments)",
   "phrases": [
@@ -4673,7 +4673,7 @@
     "en": "He won a prize"
    },
    {
-    "ar": "ربي يفوّزك → no; use: شكون فاز؟",
+    "ar": "شكون فاز؟",
     "tr": "shkūn fāz?",
     "en": "Who won?"
    }
@@ -4876,7 +4876,7 @@
   "note": "imperfect: نشحن nish7an (I ship), يشحن yish7an (he ships)",
   "phrases": [
    {
-    "ar": "قدّاش ياخذ الشحن؟ → noun; use: شحنوا الكرهبة في بابور",
+    "ar": "شحنوا الكرهبة في بابور",
     "tr": "sh7nu lkarhaba fi bābūr",
     "en": "They shipped the car on a boat"
    },
@@ -5557,7 +5557,7 @@
     "en": "Hurry them up to finish"
    },
    {
-    "ar": "علاش مستعجل؟ → no; use: ما تستعجلش، الوقت قدّامنا",
+    "ar": "ما تستعجلش، الوقت قدّامنا",
     "tr": "ma tista3jilsh, ilwakt giddāmna",
     "en": "Don't rush, we have time"
    }
@@ -5635,7 +5635,7 @@
     "en": "The medicine helped me"
    },
    {
-    "ar": "ربي يفيدك → hmm; use: شن يفيدك البكا؟",
+    "ar": "شن يفيدك البكا؟",
     "tr": "shin yfīdak ilbka?",
     "en": "What good does crying do you?"
    }
@@ -5806,7 +5806,7 @@
   "cat": "verbs-communication",
   "freq": 2,
   "usage": 66,
-  "ex_ar": "ممنوع → adj; use: منعوه من السفر",
+  "ex_ar": "منعوه من السفر",
   "ex_tr": "mna3ūh min issafar",
   "ex_en": "He was banned from travelling",
   "note": "imperfect: نمنع nimna3 (I forbid), يمنع yimna3 (he forbids)",
@@ -5820,6 +5820,1670 @@
     "ar": "ربي يمنع عنّا الشر",
     "tr": "rabbi yimna3 3anna shsharr",
     "en": "May God keep evil away from us"
+   }
+  ]
+ },
+ {
+  "ar": "نمّ",
+  "tr": "namm",
+  "en": "to gossip; to badmouth",
+  "msa": "نمّ",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "ديما تنمّ على جيرانها",
+  "ex_tr": "dīma tnimm 3la jīrānha",
+  "ex_en": "She's always gossiping about her neighbours",
+  "note": "imperfect: ننمّ nnimm (I gossip), ينمّ ynimm (he gossips). Everyday Libyan also: يتكلّم في الناس yitkallam fi nnās",
+  "phrases": [
+   {
+    "ar": "ما تنمّش على الناس",
+    "tr": "ma tnimmsh 3la nnās",
+    "en": "Don't badmouth people"
+   },
+   {
+    "ar": "قاعدين ينمّوا فيه",
+    "tr": "gā3dīn ynimmu fīh",
+    "en": "They're talking behind his back"
+   }
+  ]
+ },
+ {
+  "ar": "اتّهم",
+  "tr": "ittaham",
+  "en": "to accuse",
+  "msa": "اتّهم",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "اتّهموه بالسرقة",
+  "ex_tr": "ittahmūh bissarga",
+  "ex_en": "They accused him of theft",
+  "note": "imperfect: نتّهم nittihim (I accuse), يتّهم yittihim (he accuses)",
+  "phrases": [
+   {
+    "ar": "ما تتّهمنيش بلاش دليل",
+    "tr": "ma tittihimnīsh blāsh dalīl",
+    "en": "Don't accuse me without proof"
+   },
+   {
+    "ar": "علاش تتّهم فيّ؟",
+    "tr": "3lāsh tittihim fiyya?",
+    "en": "Why are you accusing me?"
+   }
+  ]
+ },
+ {
+  "ar": "شهد",
+  "tr": "shhid",
+  "en": "to testify; to witness",
+  "msa": "شهد",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "شهد قدّام القاضي",
+  "ex_tr": "shhid giddām ilgāDi",
+  "ex_en": "He testified before the judge",
+  "note": "imperfect: نشهد nishhad (I testify), يشهد yishhad (he testifies)",
+  "phrases": [
+   {
+    "ar": "نشهد إنه راجل باهي",
+    "tr": "nishhad innah rājil bāhi",
+    "en": "I can vouch that he's a good man"
+   },
+   {
+    "ar": "شهدوا العرس كلّهم",
+    "tr": "shhdu l3urs kullhum",
+    "en": "They all attended the wedding"
+   }
+  ]
+ },
+ {
+  "ar": "برّر",
+  "tr": "barrar",
+  "en": "to justify; to make excuses",
+  "msa": "برّر",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "ما تبرّرش غلطك",
+  "ex_tr": "ma tbarrirsh ghalTak",
+  "ex_en": "Don't justify your mistake",
+  "note": "imperfect: نبرّر nbarrir (I justify), يبرّر ybarrir (he justifies)",
+  "phrases": [
+   {
+    "ar": "ديما يبرّر في روحه",
+    "tr": "dīma ybarrir fi rū7ah",
+    "en": "He's always making excuses for himself"
+   },
+   {
+    "ar": "برّرلي علاش تأخّرت",
+    "tr": "barrirli 3lāsh t'akhkhart",
+    "en": "Explain to me why you were late"
+   }
+  ]
+ },
+ {
+  "ar": "أثبت",
+  "tr": "athbat",
+  "en": "to prove",
+  "msa": "أثبت",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "أثبت إنه بريء",
+  "ex_tr": "athbat innah barī'",
+  "ex_en": "He proved he was innocent",
+  "note": "imperfect: نثبت nithbit (I prove), يثبت yithbit (he proves)",
+  "phrases": [
+   {
+    "ar": "أثبتلي إنك صادق",
+    "tr": "athbitli innak Sādig",
+    "en": "Prove to me you're telling the truth"
+   },
+   {
+    "ar": "ما نقدرش نثبت حاجة",
+    "tr": "ma nigdarsh nithbit 7āja",
+    "en": "I can't prove anything"
+   }
+  ]
+ },
+ {
+  "ar": "كشف",
+  "tr": "kshaf",
+  "en": "to uncover; to reveal; to examine (medically)",
+  "msa": "كشف",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "كشفوا السرقة",
+  "ex_tr": "kshfu ssarga",
+  "ex_en": "They uncovered the theft",
+  "note": "imperfect: نكشف nikshif (I uncover), يكشف yikshif (he uncovers)",
+  "phrases": [
+   {
+    "ar": "الدكتور كشف عليه",
+    "tr": "iddoktōr kshaf 3lēh",
+    "en": "The doctor examined him"
+   },
+   {
+    "ar": "الوقت يكشف كل شي",
+    "tr": "ilwakt yikshif kull shay",
+    "en": "Time reveals everything"
+   }
+  ]
+ },
+ {
+  "ar": "تدخّل",
+  "tr": "tdakhkhal",
+  "en": "to interfere; to intervene",
+  "msa": "تدخّل",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "ما تتدخّلش في اللي ما يخصّكش",
+  "ex_tr": "ma titdakhkhalsh fi lli ma ykhuSSaksh",
+  "ex_en": "Don't interfere in what's not your business",
+  "note": "imperfect: نتدخّل nitdakhkhal (I interfere), يتدخّل yitdakhkhal (he interferes)",
+  "phrases": [
+   {
+    "ar": "تدخّل باش يفكّهم",
+    "tr": "tdakhkhal bāsh yfukkhum",
+    "en": "He stepped in to break them up"
+   },
+   {
+    "ar": "ما نبّيش نتدخّل",
+    "tr": "ma nibbīsh nitdakhkhal",
+    "en": "I don't want to get involved"
+   }
+  ]
+ },
+ {
+  "ar": "تجاهل",
+  "tr": "tjāhal",
+  "en": "to ignore",
+  "msa": "تجاهل",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 48,
+  "ex_ar": "تجاهلني في الشارع",
+  "ex_tr": "tjāhalni fishshāri3",
+  "ex_en": "He ignored me in the street",
+  "note": "imperfect: نتجاهل nitjāhal (I ignore), يتجاهل yitjāhal (he ignores)",
+  "phrases": [
+   {
+    "ar": "تجاهله وخلاص",
+    "tr": "tjāhlah w khlāS",
+    "en": "Just ignore him"
+   },
+   {
+    "ar": "ما نقدرش نتجاهل اللي صار",
+    "tr": "ma nigdarsh nitjāhal illi Sār",
+    "en": "I can't ignore what happened"
+   }
+  ]
+ },
+ {
+  "ar": "منّ",
+  "tr": "mann",
+  "en": "to remind (someone) of a favour done",
+  "msa": "منّ",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "ديما يمنّ علينا بالي داره",
+  "ex_tr": "dīma ymunn 3lēna billi dārah",
+  "ex_en": "He always reminds us of what he did for us",
+  "note": "imperfect: نمنّ nmunn (I remind  of a favour done), يمنّ ymunn (he reminds  of a favour done)",
+  "phrases": [
+   {
+    "ar": "دير الخير وما تمنّش",
+    "tr": "dīr ilkhēr w ma tmunnsh",
+    "en": "Do good and don't keep reminding people"
+   },
+   {
+    "ar": "منّ عليّ بالفلوس",
+    "tr": "mann 3layya bilflūs",
+    "en": "He threw the money he lent me back in my face"
+   }
+  ]
+ },
+ {
+  "ar": "انتقم",
+  "tr": "intagam",
+  "en": "to take revenge",
+  "msa": "انتقم",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "حلف باش ينتقم",
+  "ex_tr": "7laf bāsh yintagim",
+  "ex_en": "He swore he'd take revenge",
+  "note": "imperfect: ننتقم nintagim (I take revenge), ينتقم yintagim (he takes revenge)",
+  "phrases": [
+   {
+    "ar": "ما تنتقمش، سامح",
+    "tr": "ma tintagimsh, sāmi7",
+    "en": "Don't take revenge, forgive"
+   },
+   {
+    "ar": "انتقم منه",
+    "tr": "intagam minnah",
+    "en": "He got his revenge on him"
+   }
+  ]
+ },
+ {
+  "ar": "ظلم",
+  "tr": "DHlam",
+  "en": "to wrong; to treat unjustly",
+  "msa": "ظلم",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "ظلمني المدير",
+  "ex_tr": "DHlamni lmudīr",
+  "ex_en": "The manager treated me unfairly",
+  "note": "imperfect: نظلم nuDHlum (I wrong), يظلم yuDHlum (he wrongs)",
+  "phrases": [
+   {
+    "ar": "ما تظلمش حد",
+    "tr": "ma tuDHlumsh 7add",
+    "en": "Don't wrong anyone"
+   },
+   {
+    "ar": "حرام عليك، ظلمته",
+    "tr": "7rām 3lēk, DHlamtah",
+    "en": "Shame on you, you were unfair to him"
+   }
+  ]
+ },
+ {
+  "ar": "حقّر",
+  "tr": "7aggar",
+  "en": "to belittle; to look down on",
+  "msa": "حقّر",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "ما تحقّرش حد",
+  "ex_tr": "ma t7aggirsh 7add",
+  "ex_en": "Don't belittle anyone",
+  "note": "imperfect: نحقّر n7aggir (I belittle), يحقّر y7aggir (he belittles)",
+  "phrases": [
+   {
+    "ar": "قاعد يحقّر في خدمتي",
+    "tr": "gā3id y7aggir fi khidmti",
+    "en": "He's belittling my work"
+   },
+   {
+    "ar": "حقّروه لأنه فقير",
+    "tr": "7aggrūh li'annah fagīr",
+    "en": "They looked down on him because he was poor"
+   }
+  ]
+ },
+ {
+  "ar": "خان",
+  "tr": "khān",
+  "en": "to betray; to cheat on",
+  "msa": "خان",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "خان صاحبه",
+  "ex_tr": "khān Sā7bah",
+  "ex_en": "He betrayed his friend",
+  "note": "imperfect: نخون nkhūn (I betray), يخون ykhūn (he betrays)",
+  "phrases": [
+   {
+    "ar": "ما نخونش الأمانة",
+    "tr": "ma nkhūnsh il'amāna",
+    "en": "I don't betray a trust"
+   },
+   {
+    "ar": "الذاكرة خانتني",
+    "tr": "iddhākra khānatni",
+    "en": "My memory failed me"
+   }
+  ]
+ },
+ {
+  "ar": "وثق",
+  "tr": "withig",
+  "en": "to trust",
+  "msa": "وثق",
+  "pos": "verb",
+  "cat": "verbs-mind",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "ما نثقش فيه",
+  "ex_tr": "ma nithigsh fīh",
+  "ex_en": "I don't trust him",
+  "note": "imperfect: نثق nithig (I trust), يثق yithig (he trusts)",
+  "phrases": [
+   {
+    "ar": "وثقت فيك وخذلتني",
+    "tr": "withigt fīk w khdhaltni",
+    "en": "I trusted you and you let me down"
+   },
+   {
+    "ar": "اثق فيّ",
+    "tr": "ithig fiyya",
+    "en": "Trust me"
+   }
+  ]
+ },
+ {
+  "ar": "تضارب",
+  "tr": "tDārab",
+  "en": "to fight (physically); to come to blows",
+  "msa": "تضارب",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 48,
+  "ex_ar": "الصغار تضاربوا في المدرسة",
+  "ex_tr": "iSSghār tDārbu filmadrasa",
+  "ex_en": "The kids got into a fight at school",
+  "note": "imperfect: نتضارب nitDārab (I fight), يتضارب yitDārab (he fights)",
+  "phrases": [
+   {
+    "ar": "ما تتضاربوش",
+    "tr": "ma titDārbūsh",
+    "en": "Don't fight"
+   },
+   {
+    "ar": "قرّبوا يتضاربوا",
+    "tr": "garrbu yitDārbu",
+    "en": "They nearly came to blows"
+   }
+  ]
+ },
+ {
+  "ar": "اعترض",
+  "tr": "a3taraD",
+  "en": "to object; to oppose",
+  "msa": "اعترض",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "ما حد اعترض",
+  "ex_tr": "ma 7add a3taraD",
+  "ex_en": "Nobody objected",
+  "note": "imperfect: نعترض na3tariD (I object), يعترض ya3tariD (he objects)",
+  "phrases": [
+   {
+    "ar": "نعترض على القرار هذا",
+    "tr": "na3tariD 3la lgarār hādha",
+    "en": "I object to this decision"
+   },
+   {
+    "ar": "بوه اعترض على العرس",
+    "tr": "būh a3taraD 3la l3urs",
+    "en": "His father opposed the marriage"
+   }
+  ]
+ },
+ {
+  "ar": "احتجّ",
+  "tr": "i7tajj",
+  "en": "to protest",
+  "msa": "احتجّ",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "الطلبة احتجّوا على النتايج",
+  "ex_tr": "iTTalba i7tajju 3la nnatāyij",
+  "ex_en": "The students protested the results",
+  "note": "imperfect: نحتجّ ni7tajj (I protest), يحتجّ yi7tajj (he protests)",
+  "phrases": [
+   {
+    "ar": "احتجّ عند المدير",
+    "tr": "i7tajj 3and ilmudīr",
+    "en": "He complained formally to the manager"
+   },
+   {
+    "ar": "علاش تحتجّ؟",
+    "tr": "3lāsh ti7tajj?",
+    "en": "Why are you protesting?"
+   }
+  ]
+ },
+ {
+  "ar": "أضرب",
+  "tr": "aDrab",
+  "en": "to go on strike",
+  "msa": "أضرب",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 4,
+  "usage": 34,
+  "ex_ar": "المعلّمين أضربوا على المرتّبات",
+  "ex_tr": "ilmu3allmīn aDrbu 3la lmurattabāt",
+  "ex_en": "The teachers went on strike over salaries",
+  "note": "imperfect: نضرب nuDrub (I go on strike), يضرب yuDrub (he goes on strike)",
+  "phrases": [
+   {
+    "ar": "الخدّامة باش يضربوا",
+    "tr": "ilkhaddāma bāsh yuDrbu",
+    "en": "The workers are going to strike"
+   },
+   {
+    "ar": "أضربوا أسبوع كامل",
+    "tr": "aDrbu usbū3 kāmil",
+    "en": "They were on strike for a whole week"
+   }
+  ]
+ },
+ {
+  "ar": "خالف",
+  "tr": "khālaf",
+  "en": "to break (a rule); to go against",
+  "msa": "خالف",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "خالف قانون المرور",
+  "ex_tr": "khālaf gānūn ilmurūr",
+  "ex_en": "He broke the traffic law",
+  "note": "imperfect: نخالف nkhālif (I break), يخالف ykhālif (he breaks)",
+  "phrases": [
+   {
+    "ar": "ما تخالفش كلام بوك",
+    "tr": "ma tkhālifsh kalām būk",
+    "en": "Don't go against your father's word"
+   },
+   {
+    "ar": "الشرطي خالفه",
+    "tr": "ishshurTi khālfah",
+    "en": "The policeman gave him a ticket"
+   }
+  ]
+ },
+ {
+  "ar": "طاوع",
+  "tr": "Tāwa3",
+  "en": "to obey; to go along with",
+  "msa": "طاوع",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "ما يطاوعش أمّه",
+  "ex_tr": "ma yTāwi3sh ummah",
+  "ex_en": "He doesn't obey his mother",
+  "note": "imperfect: نطاوع nTāwi3 (I obey), يطاوع yTāwi3 (he obeys)",
+  "phrases": [
+   {
+    "ar": "طاوعني مرة وحدة",
+    "tr": "Tāwi3ni marra wa7da",
+    "en": "Listen to me just once"
+   },
+   {
+    "ar": "قلبي ما طاوعنيش",
+    "tr": "galbi ma Tāwa3nīsh",
+    "en": "I didn't have the heart to"
+   }
+  ]
+ },
+ {
+  "ar": "غصب",
+  "tr": "ghSab",
+  "en": "to force; to compel",
+  "msa": "أجبر",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "غصبوه يوقّع",
+  "ex_tr": "ghSbūh ywaggi3",
+  "ex_en": "They forced him to sign",
+  "note": "imperfect: نغصب nighSib (I force), يغصب yighSib (he forces)",
+  "phrases": [
+   {
+    "ar": "ما تغصبش الصغير ياكل",
+    "tr": "ma tighSibsh iSSghīr yākil",
+    "en": "Don't force the child to eat"
+   },
+   {
+    "ar": "غصبًا عنّي",
+    "tr": "ghaSban 3anni",
+    "en": "Against my will"
+   }
+  ]
+ },
+ {
+  "ar": "حكم",
+  "tr": "7kam",
+  "en": "to rule; to judge; to sentence",
+  "msa": "حكم",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "القاضي حكم عليه بعام",
+  "ex_tr": "ilgāDi 7kam 3lēh b3ām",
+  "ex_en": "The judge sentenced him to a year",
+  "note": "imperfect: نحكم nu7kum (I rule), يحكم yu7kum (he rules)",
+  "phrases": [
+   {
+    "ar": "ما تحكمش على الناس من شكلهم",
+    "tr": "ma tu7kumsh 3la nnās min shakilhum",
+    "en": "Don't judge people by their looks"
+   },
+   {
+    "ar": "شكون يحكم البلاد؟",
+    "tr": "shkūn yu7kum ilblād?",
+    "en": "Who rules the country?"
+   }
+  ]
+ },
+ {
+  "ar": "غرّم",
+  "tr": "gharram",
+  "en": "to fine",
+  "msa": "غرّم",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "الشرطة غرّموه خمسين دينار",
+  "ex_tr": "ishshurTa gharrmūh khamsīn dīnār",
+  "ex_en": "The police fined him fifty dinars",
+  "note": "imperfect: نغرّم ngharrim (I fine), يغرّم ygharrim (he fines)",
+  "phrases": [
+   {
+    "ar": "باش يغرّموك لو توقف هني",
+    "tr": "bāsh ygharrmūk law tūgaf hni",
+    "en": "They'll fine you if you park here"
+   },
+   {
+    "ar": "تغرّمت على السرعة",
+    "tr": "tgharramt 3la ssur3a",
+    "en": "I got fined for speeding"
+   }
+  ]
+ },
+ {
+  "ar": "زوّر",
+  "tr": "zawwar",
+  "en": "to forge; to falsify",
+  "msa": "زوّر",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "زوّر الشهادة",
+  "ex_tr": "zawwar ishshahāda",
+  "ex_en": "He forged the certificate",
+  "note": "imperfect: نزوّر nzawwir (I forge), يزوّر yzawwir (he forges)",
+  "phrases": [
+   {
+    "ar": "زوّروا الانتخابات",
+    "tr": "zawwru l'intikhābāt",
+    "en": "They rigged the elections"
+   },
+   {
+    "ar": "ورقة مزوّرة",
+    "tr": "warga mzawwra",
+    "en": "A forged document"
+   }
+  ]
+ },
+ {
+  "ar": "رشى",
+  "tr": "rsha",
+  "en": "to bribe",
+  "msa": "رشا",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "رشى الموظّف باش يمشّيله الأوراق",
+  "ex_tr": "rsha lmuwaDHDHaf bāsh ymashshīlah l'awrāg",
+  "ex_en": "He bribed the clerk to push his papers through",
+  "note": "imperfect: نرشي nirshi (I bribe), يرشي yirshi (he bribes)",
+  "phrases": [
+   {
+    "ar": "ما نرشيش حد",
+    "tr": "ma nirshīsh 7add",
+    "en": "I don't bribe anyone"
+   },
+   {
+    "ar": "حاولوا يرشوه",
+    "tr": "7āwlu yirshūh",
+    "en": "They tried to bribe him"
+   }
+  ]
+ },
+ {
+  "ar": "وكّل",
+  "tr": "wakkal",
+  "en": "to authorise; to give power of attorney",
+  "msa": "وكّل",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "وكّل خوه يبيع الحوش",
+  "ex_tr": "wakkal khūh ybī3 l7ōsh",
+  "ex_en": "He authorised his brother to sell the house",
+  "note": "imperfect: نوكّل nwakkil (I authorise), يوكّل ywakkil (he authorises)",
+  "phrases": [
+   {
+    "ar": "وكّلت محامي",
+    "tr": "wakkalt mu7āmi",
+    "en": "I hired a lawyer"
+   },
+   {
+    "ar": "لازم توكّلني رسمي",
+    "tr": "lāzim twakkilni rasmi",
+    "en": "You have to give me official power of attorney"
+   }
+  ]
+ },
+ {
+  "ar": "تابع",
+  "tr": "tāba3",
+  "en": "to follow up; to keep up with",
+  "msa": "تابع",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "نتابع في الأوراق بروحي",
+  "ex_tr": "ntābi3 fil'awrāg brū7i",
+  "ex_en": "I follow up on the paperwork myself",
+  "note": "imperfect: نتابع ntābi3 (I follow up), يتابع ytābi3 (he follows up)",
+  "phrases": [
+   {
+    "ar": "تتابع المسلسل؟",
+    "tr": "ttābi3 ilmusalsal?",
+    "en": "Are you following the series?"
+   },
+   {
+    "ar": "الدكتور يتابع حالته",
+    "tr": "iddoktōr ytābi3 7āltah",
+    "en": "The doctor is monitoring his condition"
+   }
+  ]
+ },
+ {
+  "ar": "واصل",
+  "tr": "wāSal",
+  "en": "to continue; to keep going",
+  "msa": "واصل",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 3,
+  "usage": 48,
+  "ex_ar": "واصل، ما توقفش",
+  "ex_tr": "wāSil, ma tūgafsh",
+  "ex_en": "Keep going, don't stop",
+  "note": "imperfect: نواصل nwāSil (I continue), يواصل ywāSil (he continues)",
+  "phrases": [
+   {
+    "ar": "واصل قرايته برّا",
+    "tr": "wāSal grāytah barra",
+    "en": "He continued his studies abroad"
+   },
+   {
+    "ar": "ما نقدرش نواصل هكّي",
+    "tr": "ma nigdarsh nwāSil hakki",
+    "en": "I can't go on like this"
+   }
+  ]
+ },
+ {
+  "ar": "حدّث",
+  "tr": "7addath",
+  "en": "to update",
+  "msa": "حدّث",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "حدّث التطبيق",
+  "ex_tr": "7addith ittaTbīg",
+  "ex_en": "Update the app",
+  "note": "imperfect: نحدّث n7addith (I update), يحدّث y7addith (he updates)",
+  "phrases": [
+   {
+    "ar": "لازم نحدّثوا البيانات",
+    "tr": "lāzim n7addthu lbayānāt",
+    "en": "We have to update the data"
+   },
+   {
+    "ar": "التلفون قاعد يحدّث",
+    "tr": "ittilifōn gā3id y7addith",
+    "en": "The phone is updating"
+   }
+  ]
+ },
+ {
+  "ar": "ضبط",
+  "tr": "Dbaṭ",
+  "en": "to set; to adjust; to catch (red-handed)",
+  "msa": "ضبط",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 3,
+  "usage": 48,
+  "ex_ar": "اضبط المنبّه على ستة",
+  "ex_tr": "uDbuT ilmunabbih 3la sitta",
+  "ex_en": "Set the alarm for six",
+  "note": "imperfect: نضبط nuDbuT (I set), يضبط yuDbuT (he sets)",
+  "phrases": [
+   {
+    "ar": "ضبطوه وهو يسرق",
+    "tr": "Dbaṭūh w hū yisrig",
+    "en": "They caught him stealing"
+   },
+   {
+    "ar": "ضبطلي الساعة",
+    "tr": "Dbaṭli ssā3a",
+    "en": "Set the watch for me"
+   }
+  ]
+ },
+ {
+  "ar": "وفى",
+  "tr": "wfa",
+  "en": "to keep (a promise); to repay",
+  "msa": "وفى",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "وفى بوعده",
+  "ex_tr": "wfa bwa3dah",
+  "ex_en": "He kept his promise",
+  "note": "imperfect: نوفي nūfi (I keep), يوفي yūfi (he keeps)",
+  "phrases": [
+   {
+    "ar": "لازم نوفي بديني",
+    "tr": "lāzim nūfi bdēni",
+    "en": "I have to repay my debt"
+   },
+   {
+    "ar": "ما وفاش بكلامه",
+    "tr": "ma wfāsh bkalāmah",
+    "en": "He didn't keep his word"
+   }
+  ]
+ },
+ {
+  "ar": "التزم",
+  "tr": "iltazam",
+  "en": "to commit (to); to stick to",
+  "msa": "التزم",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "التزم بالموعد",
+  "ex_tr": "iltazim bilmaw3id",
+  "ex_en": "Stick to the appointment time",
+  "note": "imperfect: نلتزم niltazim (I commit), يلتزم yiltazim (he commits)",
+  "phrases": [
+   {
+    "ar": "ما يلتزمش بالقوانين",
+    "tr": "ma yiltazimsh bilgawānīn",
+    "en": "He doesn't follow the rules"
+   },
+   {
+    "ar": "التزمت معاهم بعقد",
+    "tr": "iltazamt ma3āhum b3agd",
+    "en": "I committed to them with a contract"
+   }
+  ]
+ },
+ {
+  "ar": "تأقلم",
+  "tr": "t'aglam",
+  "en": "to adapt; to adjust",
+  "msa": "تأقلم",
+  "pos": "verb",
+  "cat": "verbs-mind",
+  "freq": 4,
+  "usage": 36,
+  "ex_ar": "تأقلم مع الجو هني",
+  "ex_tr": "t'aglam ma3 ijjaww hni",
+  "ex_en": "He adapted to the weather here",
+  "note": "imperfect: نتأقلم nit'aglam (I adapt), يتأقلم yit'aglam (he adapts)",
+  "phrases": [
+   {
+    "ar": "صعيب نتأقلم",
+    "tr": "Sa3īb nit'aglam",
+    "en": "It's hard for me to adjust"
+   },
+   {
+    "ar": "الصغار يتأقلموا بسرعة",
+    "tr": "iSSghār yit'aglmu bsur3a",
+    "en": "Kids adapt quickly"
+   }
+  ]
+ },
+ {
+  "ar": "استغلّ",
+  "tr": "istaghall",
+  "en": "to take advantage of; to exploit",
+  "msa": "استغلّ",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "استغلّ الفرصة",
+  "ex_tr": "istaghill ilfurSa",
+  "ex_en": "Seize the opportunity",
+  "note": "imperfect: نستغلّ nistaghill (I take advantage of), يستغلّ yistaghill (he takes advantage of)",
+  "phrases": [
+   {
+    "ar": "قاعد يستغلّ فيك",
+    "tr": "gā3id yistaghill fīk",
+    "en": "He's taking advantage of you"
+   },
+   {
+    "ar": "استغلّوا طيبته",
+    "tr": "istaghallu Tībtah",
+    "en": "They exploited his kindness"
+   }
+  ]
+ },
+ {
+  "ar": "استغنى",
+  "tr": "istaghna",
+  "en": "to do without; to dispense with",
+  "msa": "استغنى",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "ما نقدرش نستغنى على القهوة",
+  "ex_tr": "ma nigdarsh nistaghna 3la lgahwa",
+  "ex_en": "I can't do without coffee",
+  "note": "imperfect: نستغنى nistaghna (I do without), يستغنى yistaghna (he does without)",
+  "phrases": [
+   {
+    "ar": "الشركة استغنت عليه",
+    "tr": "ishsharika istaghnat 3lēh",
+    "en": "The company let him go"
+   },
+   {
+    "ar": "استغنى على الكرهبة",
+    "tr": "istaghna 3la lkarhaba",
+    "en": "He gave up the car"
+   }
+  ]
+ },
+ {
+  "ar": "خطب",
+  "tr": "khTab",
+  "en": "to ask for (a girl's) hand; to get engaged; to give a speech",
+  "msa": "خطب",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 2,
+  "usage": 58,
+  "ex_ar": "خوي خطب بنت جيرانّا",
+  "ex_tr": "khūy khTab bint jīrānna",
+  "ex_en": "My brother got engaged to our neighbours' daughter",
+  "note": "imperfect: نخطب nukhTub (I ask for  hand), يخطب yukhTub (he asks for  hand)",
+  "phrases": [
+   {
+    "ar": "متى باش تخطب؟",
+    "tr": "mita bāsh tukhTub?",
+    "en": "When are you going to get engaged?"
+   },
+   {
+    "ar": "الإمام خطب في الجمعة",
+    "tr": "il'imām khTab fijjum3a",
+    "en": "The imam gave the Friday sermon"
+   }
+  ]
+ },
+ {
+  "ar": "طلّق",
+  "tr": "Tallag",
+  "en": "to divorce",
+  "msa": "طلّق",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 48,
+  "ex_ar": "طلّق مرته بعد عامين",
+  "ex_tr": "Tallag martah ba3d 3āmēn",
+  "ex_en": "He divorced his wife after two years",
+  "note": "imperfect: نطلّق nTallig (I divorce), يطلّق yTallig (he divorces)",
+  "phrases": [
+   {
+    "ar": "تطلّقوا",
+    "tr": "tTallgu",
+    "en": "They got divorced"
+   },
+   {
+    "ar": "ما نبّيش نطلّق",
+    "tr": "ma nibbīsh nTallig",
+    "en": "I don't want a divorce"
+   }
+  ]
+ },
+ {
+  "ar": "عيّد",
+  "tr": "3ayyad",
+  "en": "to celebrate Eid; to wish (someone) happy Eid",
+  "msa": "عيّد",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 2,
+  "usage": 56,
+  "ex_ar": "مشينا نعيّدوا على جدّي",
+  "ex_tr": "mshēna n3ayydu 3la jiddi",
+  "ex_en": "We went to wish my grandfather happy Eid",
+  "note": "imperfect: نعيّد n3ayyid (I celebrate Eid), يعيّد y3ayyid (he celebrates Eid)",
+  "phrases": [
+   {
+    "ar": "وين باش تعيّدوا؟",
+    "tr": "wīn bāsh t3ayydu?",
+    "en": "Where are you spending Eid?"
+   },
+   {
+    "ar": "عيّدت على الجيران",
+    "tr": "3ayyadt 3la jjīrān",
+    "en": "I wished the neighbours happy Eid"
+   }
+  ]
+ },
+ {
+  "ar": "احتفل",
+  "tr": "i7tafal",
+  "en": "to celebrate",
+  "msa": "احتفل",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 50,
+  "ex_ar": "احتفلنا بعيد ميلاده",
+  "ex_tr": "i7tafalna b3īd mīlādah",
+  "ex_en": "We celebrated his birthday",
+  "note": "imperfect: نحتفل ni7tafil (I celebrate), يحتفل yi7tafil (he celebrates)",
+  "phrases": [
+   {
+    "ar": "باش نحتفلوا بالنجاح",
+    "tr": "bāsh ni7tiflu binnajā7",
+    "en": "We're going to celebrate passing"
+   },
+   {
+    "ar": "الناس احتفلت في الشارع",
+    "tr": "innās i7tiflat fishshāri3",
+    "en": "People celebrated in the streets"
+   }
+  ]
+ },
+ {
+  "ar": "أهدى",
+  "tr": "ahda",
+  "en": "to give (as a gift)",
+  "msa": "أهدى",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "أهداني ساعة في عيد ميلادي",
+  "ex_tr": "ahdāni sā3a fi 3īd mīlādi",
+  "ex_en": "He gave me a watch for my birthday",
+  "note": "imperfect: نهدي nihdi (I give), يهدي yihdi (he gives)",
+  "phrases": [
+   {
+    "ar": "نبّي نهدي أمّي حاجة",
+    "tr": "nibbi nihdi ummi 7āja",
+    "en": "I want to give my mother something"
+   },
+   {
+    "ar": "الأغنية هذي نهديها ليك",
+    "tr": "il'ughniya hādhi nihdīha līk",
+    "en": "I dedicate this song to you"
+   }
+  ]
+ },
+ {
+  "ar": "حيّا",
+  "tr": "7ayya",
+  "en": "to greet; to salute",
+  "msa": "حيّا",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "حيّاني من بعيد",
+  "ex_tr": "7ayyāni min b3īd",
+  "ex_en": "He greeted me from afar",
+  "note": "imperfect: نحيّي n7ayyi (I greet), يحيّي y7ayyi (he greets)",
+  "phrases": [
+   {
+    "ar": "نحيّي كل اللي جو",
+    "tr": "n7ayyi kull illi jū",
+    "en": "I salute everyone who came"
+   },
+   {
+    "ar": "الله يحيّيك",
+    "tr": "allah y7ayyīk",
+    "en": "God bless you (reply to a greeting)"
+   }
+  ]
+ },
+ {
+  "ar": "صافح",
+  "tr": "Sāfa7",
+  "en": "to shake hands (with)",
+  "msa": "صافح",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "صافحه وقعد",
+  "ex_tr": "Sāfa7ah w g3ad",
+  "ex_en": "He shook his hand and sat down",
+  "note": "imperfect: نصافح nSāfi7 (I shake hands), يصافح ySāfi7 (he shakes hands)",
+  "phrases": [
+   {
+    "ar": "ما صافحنيش",
+    "tr": "ma Sāfa7nīsh",
+    "en": "He didn't shake my hand"
+   },
+   {
+    "ar": "صافحوا بعض",
+    "tr": "Sāf7u ba3D",
+    "en": "They shook hands"
+   }
+  ]
+ },
+ {
+  "ar": "تزاور",
+  "tr": "tzāwar",
+  "en": "to visit each other",
+  "msa": "تزاور",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "نتزاوروا في العيد",
+  "ex_tr": "nitzāwru fil3īd",
+  "ex_en": "We visit each other at Eid",
+  "note": "imperfect: نتزاور nitzāwar (I visit each other), يتزاور yitzāwar (he visits each other)",
+  "phrases": [
+   {
+    "ar": "العيلة ما عادتش تتزاور",
+    "tr": "il3ēla ma 3ādatsh titzāwar",
+    "en": "The family doesn't visit each other any more"
+   },
+   {
+    "ar": "خلّينا نتزاوروا ديما",
+    "tr": "khallīna nitzāwru dīma",
+    "en": "Let's visit each other often"
+   }
+  ]
+ },
+ {
+  "ar": "عاشر",
+  "tr": "3āshar",
+  "en": "to associate with; to live with; to hang out with",
+  "msa": "عاشر",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "اللي يعاشر القوم أربعين يوم يولّي منهم",
+  "ex_tr": "illi y3āshir ilgōm arb3īn yōm ywalli minhum",
+  "ex_en": "He who lives with people forty days becomes one of them",
+  "note": "imperfect: نعاشر n3āshir (I associate with), يعاشر y3āshir (he associates with)",
+  "phrases": [
+   {
+    "ar": "ما تعاشرش الفاسدين",
+    "tr": "ma t3āshirsh ilfāsdīn",
+    "en": "Don't hang out with bad people"
+   },
+   {
+    "ar": "عاشرته عشر سنين",
+    "tr": "3āshartah 3ashr snīn",
+    "en": "I knew him closely for ten years"
+   }
+  ]
+ },
+ {
+  "ar": "خالط",
+  "tr": "khālaT",
+  "en": "to mix (with people); to socialise",
+  "msa": "خالط",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "ما يخالطش الناس",
+  "ex_tr": "ma ykhāliTsh innās",
+  "ex_en": "He doesn't socialise",
+  "note": "imperfect: نخالط nkhāliT (I mix), يخالط ykhāliT (he mixes)",
+  "phrases": [
+   {
+    "ar": "خالط الناس وتعلّم",
+    "tr": "khāliT innās w t3allam",
+    "en": "Mix with people and learn"
+   },
+   {
+    "ar": "يحب يخالط الكبار",
+    "tr": "y7ibb ykhāliT ilkbār",
+    "en": "He likes being around older people"
+   }
+  ]
+ },
+ {
+  "ar": "دلّع",
+  "tr": "dalla3",
+  "en": "to spoil; to pamper",
+  "msa": "دلّع",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 48,
+  "ex_ar": "جدّته تدلّع فيه هلبا",
+  "ex_tr": "jiddtah tdalli3 fīh hallba",
+  "ex_en": "His grandmother spoils him a lot",
+  "note": "imperfect: ندلّع ndalli3 (I spoil), يدلّع ydalli3 (he spoils)",
+  "phrases": [
+   {
+    "ar": "ما تدلّعش الصغير",
+    "tr": "ma tdalli3sh iSSghīr",
+    "en": "Don't spoil the kid"
+   },
+   {
+    "ar": "يدلّع في مرته",
+    "tr": "ydalli3 fi martah",
+    "en": "He pampers his wife"
+   }
+  ]
+ },
+ {
+  "ar": "تدلّع",
+  "tr": "tdalla3",
+  "en": "to act spoiled; to be coy",
+  "msa": "تدلّع",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "بطّل تتدلّع",
+  "ex_tr": "baTTal titdalla3",
+  "ex_en": "Stop acting spoiled",
+  "note": "imperfect: نتدلّع nitdalla3 (I act spoiled), يتدلّع yitdalla3 (he acts spoiled)",
+  "phrases": [
+   {
+    "ar": "قاعدة تتدلّع على بوها",
+    "tr": "gā3da titdalla3 3la būha",
+    "en": "She's playing up to her father"
+   },
+   {
+    "ar": "تدلّع شوية وبعدين كلا",
+    "tr": "tdalla3 shwayya w ba3dēn kla",
+    "en": "He made a fuss for a bit, then ate"
+   }
+  ]
+ },
+ {
+  "ar": "تحمّل",
+  "tr": "t7ammal",
+  "en": "to bear; to put up with; to take on",
+  "msa": "تحمّل",
+  "pos": "verb",
+  "cat": "verbs-mind",
+  "freq": 2,
+  "usage": 62,
+  "ex_ar": "ما عادش نتحمّل",
+  "ex_tr": "ma 3ādsh nit7ammal",
+  "ex_en": "I can't take it any more",
+  "note": "imperfect: نتحمّل nit7ammal (I bear), يتحمّل yit7ammal (he bears)",
+  "phrases": [
+   {
+    "ar": "تحمّل المسؤولية",
+    "tr": "t7ammal ilmas'ūliyya",
+    "en": "Take responsibility"
+   },
+   {
+    "ar": "كيف تتحمّل الحرّ هذا؟",
+    "tr": "kīf tit7ammal il7arr hādha?",
+    "en": "How do you put up with this heat?"
+   }
+  ]
+ },
+ {
+  "ar": "سهّل",
+  "tr": "sahhal",
+  "en": "to make easy; to facilitate",
+  "msa": "سهّل",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "ربي يسهّل",
+  "ex_tr": "rabbi ysahhil",
+  "ex_en": "God make it easy (polite refusal to a beggar, or good luck)",
+  "note": "imperfect: نسهّل nsahhil (I make easy), يسهّل ysahhil (he makes easy)",
+  "phrases": [
+   {
+    "ar": "سهّللي الأوراق",
+    "tr": "sahhalli l'awrāg",
+    "en": "He made the paperwork easy for me"
+   },
+   {
+    "ar": "التطبيق يسهّل الخدمة",
+    "tr": "ittaTbīg ysahhil ilkhidma",
+    "en": "The app makes the work easier"
+   }
+  ]
+ },
+ {
+  "ar": "صعّب",
+  "tr": "Sa33ab",
+  "en": "to make difficult",
+  "msa": "صعّب",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "ما تصعّبهاش علينا",
+  "ex_tr": "ma tSa33ibhāsh 3lēna",
+  "ex_en": "Don't make it hard for us",
+  "note": "imperfect: نصعّب nSa33ib (I make difficult), يصعّب ySa33ib (he makes difficult)",
+  "phrases": [
+   {
+    "ar": "صعّبوا الامتحان",
+    "tr": "Sa33bu l'imti7ān",
+    "en": "They made the exam hard"
+   },
+   {
+    "ar": "الزحمة تصعّب الحركة",
+    "tr": "izza7ma tSa33ib il7arka",
+    "en": "The traffic makes getting around hard"
+   }
+  ]
+ },
+ {
+  "ar": "عقّد",
+  "tr": "3aggad",
+  "en": "to complicate",
+  "msa": "عقّد",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "ما تعقّدش الأمور",
+  "ex_tr": "ma t3aggidsh il'umūr",
+  "ex_en": "Don't complicate things",
+  "note": "imperfect: نعقّد n3aggid (I complicate), يعقّد y3aggid (he complicates)",
+  "phrases": [
+   {
+    "ar": "عقّدها علينا",
+    "tr": "3aggadha 3lēna",
+    "en": "He made it complicated for us"
+   },
+   {
+    "ar": "الإجراءات معقّدة ياسر",
+    "tr": "il'ijrā'āt m3aggda yāsir",
+    "en": "The procedures are very complicated"
+   }
+  ]
+ },
+ {
+  "ar": "حلّ",
+  "tr": "7all",
+  "en": "to solve; to settle (a problem)",
+  "msa": "حلّ",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 2,
+  "usage": 62,
+  "ex_ar": "حلّينا المشكلة",
+  "ex_tr": "7allēna lmushkila",
+  "ex_en": "We solved the problem",
+  "note": "imperfect: نحلّ n7ill (I solve), يحلّ y7ill (he solves). Also means \"to open\" in Libyan",
+  "phrases": [
+   {
+    "ar": "ربي يحلّها",
+    "tr": "rabbi y7illha",
+    "en": "God will sort it out"
+   },
+   {
+    "ar": "ما نعرفش نحلّ التمرين هذا",
+    "tr": "ma na3rafsh n7ill ittamrīn hādha",
+    "en": "I can't solve this exercise"
+   }
+  ]
+ },
+ {
+  "ar": "احتاج",
+  "tr": "i7tāj",
+  "en": "to need",
+  "msa": "احتاج",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 1,
+  "usage": 76,
+  "ex_ar": "تحتاج حاجة؟",
+  "ex_tr": "ti7tāj 7āja?",
+  "ex_en": "Do you need anything?",
+  "note": "imperfect: نحتاج ni7tāj (I need), يحتاج yi7tāj (he needs)",
+  "phrases": [
+   {
+    "ar": "نحتاج شوية فلوس",
+    "tr": "ni7tāj shwayya flūs",
+    "en": "I need some money"
+   },
+   {
+    "ar": "لو احتجت حاجة اتّصل بيّ",
+    "tr": "law i7tajt 7āja ittaSil biyya",
+    "en": "If you need anything call me"
+   }
+  ]
+ },
+ {
+  "ar": "لزم",
+  "tr": "lzam",
+  "en": "to be needed; to be necessary for",
+  "msa": "لزم",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 2,
+  "usage": 62,
+  "ex_ar": "يلزمك تمشي للبلدية",
+  "ex_tr": "yilzamak timshi lilbaladiyya",
+  "ex_en": "You need to go to the municipality",
+  "note": "imperfect: يلزم yilzam (it is needed), يلزمني yilzamni (I need)",
+  "phrases": [
+   {
+    "ar": "شن يلزمك؟",
+    "tr": "shin yilzamak?",
+    "en": "What do you need?"
+   },
+   {
+    "ar": "ما يلزمنيش شي",
+    "tr": "ma yilzamnīsh shay",
+    "en": "I don't need anything"
+   }
+  ]
+ },
+ {
+  "ar": "دعم",
+  "tr": "da3am",
+  "en": "to support; to back",
+  "msa": "دعم",
+  "pos": "verb",
+  "cat": "verbs-work",
+  "freq": 3,
+  "usage": 46,
+  "ex_ar": "الدولة تدعم الخبزة",
+  "ex_tr": "iddawla tad3am ilkhubza",
+  "ex_en": "The state subsidises bread",
+  "note": "imperfect: ندعم nad3am (I support), يدعم yad3am (he supports)",
+  "phrases": [
+   {
+    "ar": "دعمني في كل حاجة",
+    "tr": "da3amni fi kull 7āja",
+    "en": "He supported me in everything"
+   },
+   {
+    "ar": "لازم ندعموا بعض",
+    "tr": "lāzim nad3mu ba3D",
+    "en": "We have to support each other"
+   }
+  ]
+ },
+ {
+  "ar": "رافق",
+  "tr": "rāfag",
+  "en": "to accompany; to go along with",
+  "msa": "رافق",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 44,
+  "ex_ar": "رافق أمّه للسبيطار",
+  "ex_tr": "rāfag ummah lissbīTār",
+  "ex_en": "He went with his mother to the hospital",
+  "note": "imperfect: نرافق nrāfig (I accompany), يرافق yrāfig (he accompanies)",
+  "phrases": [
+   {
+    "ar": "تبّي نرافقك؟",
+    "tr": "tibbi nrāfgak?",
+    "en": "Do you want me to come with you?"
+   },
+   {
+    "ar": "رافقنا في الرحلة",
+    "tr": "rāfagna firri7la",
+    "en": "He accompanied us on the trip"
+   }
+  ]
+ },
+ {
+  "ar": "تلمّ",
+  "tr": "tlamm",
+  "en": "to get together; to gather",
+  "msa": "تجمّع",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 48,
+  "ex_ar": "العيلة تتلمّ كل جمعة",
+  "ex_tr": "il3ēla titlamm kull jum3a",
+  "ex_en": "The family gets together every Friday",
+  "note": "imperfect: نتلمّ nitlamm (I get together), يتلمّ yitlamm (he gets together). Noun لمّة lamma (get-together)",
+  "phrases": [
+   {
+    "ar": "تلمّوا الناس على الحادث",
+    "tr": "tlammu nnās 3la l7ādith",
+    "en": "People gathered around the accident"
+   },
+   {
+    "ar": "خلّينا نتلمّوا عندي",
+    "tr": "khallīna nitlammu 3andi",
+    "en": "Let's get together at my place"
+   }
+  ]
+ },
+ {
+  "ar": "استسمح",
+  "tr": "istasma7",
+  "en": "to ask forgiveness; to excuse oneself",
+  "msa": "استسمح",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 48,
+  "ex_ar": "نستسمح منك",
+  "ex_tr": "nistasmi7 minnak",
+  "ex_en": "I ask your forgiveness",
+  "note": "imperfect: نستسمح nistasmi7 (I ask forgiveness), يستسمح yistasmi7 (he asks forgiveness)",
+  "phrases": [
+   {
+    "ar": "جا يستسمح من بوه",
+    "tr": "ja yistasmi7 min būh",
+    "en": "He came to ask his father's forgiveness"
+   },
+   {
+    "ar": "استسمحت منهم قبل ما نمشي",
+    "tr": "istasma7t minhum gbal ma nimshi",
+    "en": "I said my goodbyes and asked their pardon before leaving"
+   }
+  ]
+ },
+ {
+  "ar": "تأسّف",
+  "tr": "t'assaf",
+  "en": "to be sorry; to express regret",
+  "msa": "تأسّف",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "نتأسّف على التأخير",
+  "ex_tr": "nit'assaf 3la tta'khīr",
+  "ex_en": "I'm sorry for the delay",
+  "note": "imperfect: نتأسّف nit'assaf (I am sorry), يتأسّف yit'assaf (he is sorry)",
+  "phrases": [
+   {
+    "ar": "تأسّف على اللي صار",
+    "tr": "t'assaf 3la lli Sār",
+    "en": "He apologised for what happened"
+   },
+   {
+    "ar": "ما فيش داعي تتأسّف",
+    "tr": "ma fīsh dā3i tit'assaf",
+    "en": "There's no need to be sorry"
+   }
+  ]
+ },
+ {
+  "ar": "تشاور",
+  "tr": "tshāwar",
+  "en": "to consult (each other); to confer",
+  "msa": "تشاور",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "نتشاوروا ونردّولك",
+  "ex_tr": "nitshāwru w nraddūlak",
+  "ex_en": "We'll talk it over and get back to you",
+  "note": "imperfect: نتشاور nitshāwar (I consult), يتشاور yitshāwar (he consults)",
+  "phrases": [
+   {
+    "ar": "تشاوروا مع بعض",
+    "tr": "tshāwru ma3 ba3D",
+    "en": "They conferred with each other"
+   },
+   {
+    "ar": "لازم نتشاور مع العيلة",
+    "tr": "lāzim nitshāwar ma3 il3ēla",
+    "en": "I have to consult the family"
+   }
+  ]
+ },
+ {
+  "ar": "تفاهم",
+  "tr": "tfāham",
+  "en": "to come to an understanding; to get along",
+  "msa": "تفاهم",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 3,
+  "usage": 52,
+  "ex_ar": "تعال نتفاهموا",
+  "ex_tr": "ta3āl nitfāhmu",
+  "ex_en": "Come, let's sort this out",
+  "note": "imperfect: نتفاهم nitfāham (I come to an understanding), يتفاهم yitfāham (he comes to an understanding)",
+  "phrases": [
+   {
+    "ar": "ما نتفاهمش معاه",
+    "tr": "ma nitfāhamsh ma3āh",
+    "en": "I don't get along with him"
+   },
+   {
+    "ar": "تفاهموا على السوم",
+    "tr": "tfāhmu 3la ssōm",
+    "en": "They agreed on the price"
+   }
+  ]
+ },
+ {
+  "ar": "جادل",
+  "tr": "jādal",
+  "en": "to argue (with)",
+  "msa": "جادل",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "ما تجادلنيش",
+  "ex_tr": "ma tjādilnīsh",
+  "ex_en": "Don't argue with me",
+  "note": "imperfect: نجادل njādil (I argue), يجادل yjādil (he argues)",
+  "phrases": [
+   {
+    "ar": "ديما يجادل في كل حاجة",
+    "tr": "dīma yjādil fi kull 7āja",
+    "en": "He argues about everything"
+   },
+   {
+    "ar": "ما فيش فايدة تجادله",
+    "tr": "ma fīsh fāyda tjādlah",
+    "en": "There's no point arguing with him"
+   }
+  ]
+ },
+ {
+  "ar": "استغفر",
+  "tr": "istaghfar",
+  "en": "to ask God's forgiveness",
+  "msa": "استغفر",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 2,
+  "usage": 58,
+  "ex_ar": "أستغفر الله",
+  "ex_tr": "astaghfiru llāh",
+  "ex_en": "God forgive me (said after a bad thought or word)",
+  "note": "imperfect: نستغفر nistaghfir (I ask God's forgiveness), يستغفر yistaghfir (he asks God's forgiveness)",
+  "phrases": [
+   {
+    "ar": "استغفر ربك",
+    "tr": "istaghfir rabbak",
+    "en": "Ask God's forgiveness"
+   },
+   {
+    "ar": "قاعد يستغفر",
+    "tr": "gā3id yistaghfir",
+    "en": "He's asking for forgiveness"
+   }
+  ]
+ },
+ {
+  "ar": "ترحّم",
+  "tr": "tra77am",
+  "en": "to pray for mercy on (the dead)",
+  "msa": "ترحّم",
+  "pos": "verb",
+  "cat": "verbs-communication",
+  "freq": 4,
+  "usage": 38,
+  "ex_ar": "ترحّموا على جدّي",
+  "ex_tr": "tra77mu 3la jiddi",
+  "ex_en": "They prayed for mercy on my grandfather",
+  "note": "imperfect: نترحّم nitra77am (I pray for mercy on), يترحّم yitra77am (he prays for mercy on)",
+  "phrases": [
+   {
+    "ar": "نترحّم على كل موتانا",
+    "tr": "nitra77am 3la kull mawtāna",
+    "en": "I pray for mercy on all our dead"
+   },
+   {
+    "ar": "ترحّم عليه في كل صلاة",
+    "tr": "tra77am 3lēh fi kull Salā",
+    "en": "He prays for him in every prayer"
    }
   ]
  }

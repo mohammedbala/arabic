@@ -36,7 +36,7 @@
     "ex_ar": "ناض من الرقاد وتمطّى.",
     "ex_tr": "nāD min ir-rgād w-tmaTTā.",
     "ex_en": "He got out of bed and stretched.",
-    "note": "imperfect: نتمطّى nitmaTTā (I stretch), يتمطّى yitmaTTā (he stretches)",
+    "note": "imperfect: نتمطّى nitmaTTā (I stretch (my body)), يتمطّى yitmaTTā (he stretches (his body))",
     "usage": 36,
     "phrases": [
       {
@@ -62,7 +62,7 @@
     "ex_ar": "ركع وسجد ورا الإمام.",
     "ex_tr": "rka3 w-sjad wara l-imām.",
     "ex_en": "He bowed and prostrated behind the imam.",
-    "note": "imperfect: نركع nirka3 (I bow), يركع yirka3 (he bows)",
+    "note": "imperfect: نركع nirka3 (I bow (in prayer)), يركع yirka3 (he bows (in prayer))",
     "usage": 44,
     "phrases": [
       {
@@ -88,7 +88,7 @@
     "ex_ar": "سجد وطوّل في السجود.",
     "ex_tr": "sjad w-Tawwal fi s-sujūd.",
     "ex_en": "He prostrated and stayed long in prostration.",
-    "note": "imperfect: نسجد nisjid (I prostrate), يسجد yisjid (he prostrates)",
+    "note": "imperfect: نسجد nisjid (I prostrate (in prayer)), يسجد yisjid (he prostrates (in prayer))",
     "usage": 40,
     "phrases": [
       {
@@ -114,7 +114,7 @@
     "ex_ar": "تكّى على الحيط وقعد يستنّى.",
     "ex_tr": "takkā 3al-7ēT w-g3ad yistannā.",
     "ex_en": "He leaned on the wall and waited.",
-    "note": "imperfect: نتكّى ntakkā (I lean), يتكّى ytakkā (he leans)",
+    "note": "imperfect: نتكّى ntakkā (I lean (on)), يتكّى ytakkā (he leans (on))",
     "usage": 44,
     "phrases": [
       {
@@ -140,7 +140,7 @@
     "ex_ar": "البارح قعدت نتقلّب للصبح.",
     "ex_tr": "il-bāri7 g3adt nitgallab liS-SbaH.",
     "ex_en": "Last night I tossed and turned till morning.",
-    "note": "imperfect: نتقلّب nitgallab (I toss and turn), يتقلّب yitgallab (he tosses and turn)",
+    "note": "imperfect: نتقلّب nitgallab (I toss and turn), يتقلّب yitgallab (he tosses and turns)",
     "usage": 38,
     "phrases": [
       {
@@ -192,7 +192,7 @@
     "ex_ar": "عيّطتله والتفت ليّا.",
     "ex_tr": "3ayyaTtlah w-ltfat liyya.",
     "ex_en": "I called him and he turned around to me.",
-    "note": "imperfect: نلتفت niltfit (I turn around), يلتفت yiltfit (he turns around)",
+    "note": "imperfect: نلتفت niltfit (I turn around (to look)), يلتفت yiltfit (he turns around (to look))",
     "usage": 46,
     "phrases": [
       {
@@ -218,7 +218,7 @@
     "ex_ar": "غمّض عينيك وارقد.",
     "ex_tr": "ghammiD 3ēnēk w-urgud.",
     "ex_en": "Close your eyes and sleep.",
-    "note": "imperfect: نغمّض nghammiD (I close), يغمّض yghammiD (he closes)",
+    "note": "imperfect: نغمّض nghammiD (I close (my eyes)), يغمّض yghammiD (he closes (his eyes))",
     "usage": 54,
     "phrases": [
       {
@@ -764,7 +764,7 @@
     "ex_ar": "وقّف الكرهبة قدّام الحوش.",
     "ex_tr": "waggif il-karhba guddām il-7ōsh.",
     "ex_en": "Park the car in front of the house.",
-    "note": "imperfect: نوقّف nwaggif (I stop), يوقّف ywaggif (he stops)",
+    "note": "imperfect: نوقّف nwaggif (I stop (something)), يوقّف ywaggif (he stops (something))",
     "usage": 66,
     "phrases": [
       {
@@ -816,7 +816,7 @@
     "ex_ar": "نوّضني بكري، عندي خدمة.",
     "ex_tr": "nawwiDni bakri, 3andi khidma.",
     "ex_en": "Get me up early, I have work.",
-    "note": "imperfect: ننوّض nnawwiD (I get up), ينوّض ynawwiD (he gets up)",
+    "note": "imperfect: ننوّض nnawwiD (I get (someone) up), ينوّض ynawwiD (he gets (someone) up)",
     "usage": 50,
     "phrases": [
       {
@@ -1180,7 +1180,7 @@
     "ex_ar": "أمه تحمّم فيه كل ليلة.",
     "ex_tr": "ummah t7ammim fīh kull lēla.",
     "ex_en": "His mother bathes him every night.",
-    "note": "imperfect: نحمّم n7ammim (I bathe), يحمّم y7ammim (he bathes)",
+    "note": "imperfect: نحمّم n7ammim (I bathe (someone)), يحمّم y7ammim (he bathes (someone))",
     "usage": 44,
     "phrases": [
       {
@@ -1206,7 +1206,7 @@
     "ex_ar": "نشّف راسك قبل ما تطلع.",
     "ex_tr": "nashshif rāsak gabl ma tiTla3.",
     "ex_en": "Dry your hair before you go out.",
-    "note": "imperfect: ننشّف nnashshif (I dry), ينشّف ynashshif (he dries)",
+    "note": "imperfect: ننشّف nnashshif (I dry (something)), ينشّف ynashshif (he dries (something))",
     "usage": 55,
     "phrases": [
       {
@@ -1388,7 +1388,7 @@
     "ex_ar": "لبّست الصغار وطلعنا.",
     "ex_tr": "labbast iS-Sghār w-Tla3na.",
     "ex_en": "I dressed the kids and we went out.",
-    "note": "imperfect: نلبّس nlabbis (I dress), يلبّس ylabbis (he dresses)",
+    "note": "imperfect: نلبّس nlabbis (I dress (someone)), يلبّس ylabbis (he dresses (someone))",
     "usage": 42,
     "phrases": [
       {
@@ -1492,7 +1492,7 @@
     "ex_ar": "قعدنا نتدفّوا قدّام الكانون.",
     "ex_tr": "g3adna nitdaffu guddām il-kānūn.",
     "ex_en": "We sat warming ourselves by the brazier.",
-    "note": "imperfect: نتدفّى nitdaffā (I warm oneself), يتدفّى yitdaffā (he warms oneself)",
+    "note": "imperfect: نتدفّى nitdaffā (I warm myself), يتدفّى yitdaffā (he warms himself)",
     "usage": 38,
     "phrases": [
       {
@@ -1544,7 +1544,7 @@
     "ex_ar": "تغطّى مليح، الليلة باردة.",
     "ex_tr": "tghaTTā mlī7, il-lēla bārda.",
     "ex_en": "Cover up well, tonight is cold.",
-    "note": "imperfect: نتغطّى nitghaTTā (I cover oneself), يتغطّى yitghaTTā (he covers oneself)",
+    "note": "imperfect: نتغطّى nitghaTTā (I cover myself), يتغطّى yitghaTTā (he covers himself)",
     "usage": 44,
     "phrases": [
       {
@@ -1596,7 +1596,7 @@
     "ex_ar": "مضمض بالمية والملح.",
     "ex_tr": "maDmiD bil-mayya w-il-mil7.",
     "ex_en": "Rinse your mouth with salt water.",
-    "note": "imperfect: نمضمض nmaDmiD (I rinse one's mouth), يمضمض ymaDmiD (he rinses one's mouth)",
+    "note": "imperfect: نمضمض nmaDmiD (I rinse my mouth), يمضمض ymaDmiD (he rinses his mouth)",
     "usage": 30,
     "phrases": [
       {
@@ -1648,7 +1648,7 @@
     "ex_ar": "خوذ منديل وتمخّط.",
     "ex_tr": "khūdh mindīl w-tmakhkhaT.",
     "ex_en": "Take a tissue and blow your nose.",
-    "note": "imperfect: نتمخّط nitmakhkhaT (I blow one's nose), يتمخّط yitmakhkhaT (he blows one's nose)",
+    "note": "imperfect: نتمخّط nitmakhkhaT (I blow my nose), يتمخّط yitmakhkhaT (he blows his nose)",
     "usage": 28,
     "phrases": [
       {
@@ -1674,7 +1674,7 @@
     "ex_ar": "شرق بالمية وقعد يكحّ.",
     "ex_tr": "shrig bil-mayya w-g3ad yku77.",
     "ex_en": "He choked on the water and started coughing.",
-    "note": "imperfect: نشرق nishrag (I choke), يشرق yishrag (he chokes)",
+    "note": "imperfect: نشرق nishrag (I choke (on food or drink)), يشرق yishrag (he chokes (on food or drink))",
     "usage": 32,
     "phrases": [
       {
@@ -1752,7 +1752,7 @@
     "ex_ar": "عوّرني في يدي.",
     "ex_tr": "3awwarni fi īdi.",
     "ex_en": "He hurt my hand.",
-    "note": "imperfect: نعوّر n3awwir (I hurt), يعوّر y3awwir (he hurts)",
+    "note": "imperfect: نعوّر n3awwir (I hurt (someone)), يعوّر y3awwir (he hurts (someone))",
     "usage": 44,
     "phrases": [
       {
@@ -2870,7 +2870,7 @@
     "ex_ar": "ذوّب الزبدة على النار.",
     "ex_tr": "dhawwib iz-zibda 3an-nār.",
     "ex_en": "Melt the butter on the stove.",
-    "note": "imperfect: نذوّب ndhawwib (I melt), يذوّب ydhawwib (he melts)",
+    "note": "imperfect: نذوّب ndhawwib (I melt (something)), يذوّب ydhawwib (he melts (something))",
     "usage": 36,
     "phrases": [
       {
@@ -3520,7 +3520,7 @@
     "ex_ar": "الضو انقطع ساعتين اليوم.",
     "ex_tr": "iD-Dō ngTa3 sā3tēn il-yōm.",
     "ex_en": "The power was cut for two hours today.",
-    "note": "imperfect: ننقطع ningTi3 (I be cut off), ينقطع yingTi3 (he is cut off)",
+    "note": "imperfect: ننقطع ningTi3 (I am cut off), ينقطع yingTi3 (he is cut off)",
     "usage": 62,
     "phrases": [
       {
@@ -4404,7 +4404,7 @@
     "ex_ar": "دوّقني من الطبيخة.",
     "ex_tr": "dawwigni mit-Tbīkha.",
     "ex_en": "Let me taste the stew.",
-    "note": "imperfect: ندوّق ndawwig (I give a taste), يدوّق ydawwig (he gives a taste)",
+    "note": "imperfect: ندوّق ndawwig (I give (someone) a taste), يدوّق ydawwig (he gives (someone) a taste)",
     "usage": 34,
     "phrases": [
       {
@@ -5340,7 +5340,7 @@
     "ex_ar": "ارميها وأنا نلقفها.",
     "ex_tr": "irmīha w-āna nilgafha.",
     "ex_en": "Throw it and I'll catch it.",
-    "note": "imperfect: نلقف nilgaf (I catch), يلقف yilgaf (he catches)",
+    "note": "imperfect: نلقف nilgaf (I catch (something thrown)), يلقف yilgaf (he catches (something thrown))",
     "usage": 36,
     "phrases": [
       {
@@ -5392,7 +5392,7 @@
     "ex_ar": "مرّر الكورة لصاحبه.",
     "ex_tr": "marrar il-kōra l-Sā7bah.",
     "ex_en": "He passed the ball to his friend.",
-    "note": "imperfect: نمرّر nmarrir (I pass), يمرّر ymarrir (he passes)",
+    "note": "imperfect: نمرّر nmarrir (I pass (on)), يمرّر ymarrir (he passes (on))",
     "usage": 40,
     "phrases": [
       {
@@ -5860,7 +5860,7 @@
     "ex_ar": "حوّل الكرسي للدار الأخرى.",
     "ex_tr": "7awwil il-kursi lid-dār il-ukhra.",
     "ex_en": "Move the chair to the other room.",
-    "note": "imperfect: نحوّل n7awwil (I move), يحوّل y7awwil (he moves)",
+    "note": "imperfect: نحوّل n7awwil (I move (something)), يحوّل y7awwil (he moves (something))",
     "usage": 50,
     "phrases": [
       {
@@ -5912,7 +5912,7 @@
     "ex_ar": "مطّ العجين بيديه.",
     "ex_tr": "maTT il-3ajīn b-īdēh.",
     "ex_en": "He stretched the dough with his hands.",
-    "note": "imperfect: نمطّ nmuTT (I stretch), يمطّ ymuTT (he stretches)",
+    "note": "imperfect: نمطّ nmuTT (I stretch (something)), يمطّ ymuTT (he stretches (something))",
     "usage": 28,
     "phrases": [
       {
@@ -6250,7 +6250,7 @@
     "ex_ar": "الصغير تخبّى تحت الطاولة.",
     "ex_tr": "iS-Sghīr tkhabbā ta7t iT-Tāwla.",
     "ex_en": "The little one hid under the table.",
-    "note": "imperfect: نتخبّى nitkhabbā (I hide), يتخبّى yitkhabbā (he hides)",
+    "note": "imperfect: نتخبّى nitkhabbā (I hide (myself)), يتخبّى yitkhabbā (he hides (himself))",
     "usage": 46,
     "phrases": [
       {
@@ -6432,7 +6432,7 @@
     "ex_ar": "الدنيا شتّت الليلة كلها.",
     "ex_tr": "id-dinya shattat il-lēla kullha.",
     "ex_en": "It rained all night.",
-    "note": "imperfect: تشتّي tshatti (it rains) (I rain), يشتّي yshatti (he rains: rare) (he rains). usually with الدنيا as subject: الدنيا تشتّي \"it's raining\"",
+    "note": "imperfect: تشتّي tshatti (it rains), as in الدنيا تشتّي \"it's raining\"; the subject is usually الدنيا",
     "usage": 52,
     "phrases": [
       {
@@ -6458,7 +6458,7 @@
     "ex_ar": "الدنيا غيّمت بعد الضهر.",
     "ex_tr": "id-dinya ghayyamat ba3d iDH-DHuhr.",
     "ex_en": "It clouded over in the afternoon.",
-    "note": "imperfect: تغيّم tghayyim (it clouds over) (I cloud over), يغيّم yghayyim (he clouds over). usually with الدنيا as subject",
+    "note": "imperfect: تغيّم tghayyim (it clouds over); the subject is usually الدنيا",
     "usage": 33,
     "phrases": [
       {
@@ -6484,7 +6484,7 @@
     "ex_ar": "الريح هبّت قوية البارح.",
     "ex_tr": "ir-rī7 habbat gawya l-bāri7.",
     "ex_en": "The wind blew hard yesterday.",
-    "note": "imperfect: تهبّ thibb (it blows) (I blow), يهبّ yhibb (he blows)",
+    "note": "imperfect: تهبّ thibb (it blows: of ريح wind), يهبّ yhibb (of a masculine wind such as القبلي)",
     "usage": 36,
     "phrases": [
       {
@@ -6510,7 +6510,7 @@
     "ex_ar": "روّح قبل ما تضلّم.",
     "ex_tr": "rawwa7 gabl ma tDallim.",
     "ex_en": "Come home before it gets dark.",
-    "note": "imperfect: تضلّم tDallim (it gets dark) (I get dark), يضلّم yDallim (he gets dark). usually with الدنيا as subject",
+    "note": "imperfect: تضلّم tDallim (it gets dark); the subject is usually الدنيا",
     "usage": 44,
     "phrases": [
       {
@@ -6588,7 +6588,7 @@
     "ex_ar": "غاب على الخدمة تلاتة أيام.",
     "ex_tr": "ghāb 3al-khidma tlāta ayyām.",
     "ex_en": "He was absent from work for three days.",
-    "note": "imperfect: نغيب nghīb (I be absent), يغيب yghīb (he is absent)",
+    "note": "imperfect: نغيب nghīb (I am absent), يغيب yghīb (he is absent)",
     "usage": 50,
     "phrases": [
       {
