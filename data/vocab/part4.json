@@ -10,7 +10,20 @@
     "ex_ar": "الراجل هذا جارنا الجديد.",
     "ex_tr": "ir-rājil hādha jārna l-jdīd.",
     "ex_en": "This man is our new neighbour.",
-    "note": "pl. رجالة rjāla / رجال rjāl. راجلي rājli = my husband."
+    "note": "pl. رجالة rjāla / رجال rjāl. راجلي rājli = my husband.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "راجل باهي ياسر",
+        "tr": "rājil bāhi yāsir",
+        "en": "a really good man"
+      },
+      {
+        "ar": "راجلي مش في الحوش",
+        "tr": "rājli mush fi l-7ōsh",
+        "en": "My husband isn't at home."
+      }
+    ]
   },
   {
     "ar": "مرا",
@@ -23,7 +36,20 @@
     "ex_ar": "المرا هذي تخدم في السبيطار.",
     "ex_tr": "il-mra hādhi tikhdim fi s-sbīTār.",
     "ex_en": "This woman works at the hospital.",
-    "note": "pl. نسوان niswān / نسا nsa. With a possessive it becomes مرت- mart-: مرتي marti = my wife."
+    "note": "pl. نسوان niswān / نسا nsa. With a possessive it becomes مرت- mart-: مرتي marti = my wife.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "مرتي تسلّم عليك",
+        "tr": "marti tsallim 3alēk",
+        "en": "My wife sends you her greetings."
+      },
+      {
+        "ar": "فيه مرا تسأل عليك",
+        "tr": "fīh mra tis'al 3alēk",
+        "en": "There's a woman asking for you."
+      }
+    ]
   },
   {
     "ar": "طفل",
@@ -36,7 +62,20 @@
     "ex_ar": "الطفل هذا يبكي من الصبح.",
     "ex_tr": "iT-Tifl hādha yibki min iS-Sbā7.",
     "ex_en": "This child has been crying since the morning.",
-    "note": "pl. أطفال aTfāl. Libyans also say صغار Sghār for 'kids'."
+    "note": "pl. أطفال aTfāl. Libyans also say صغار Sghār for 'kids'.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "كان طفل كي جينا لهني",
+        "tr": "kān Tifl kī jīna l-hni",
+        "en": "He was a child when we came here."
+      },
+      {
+        "ar": "الأطفال يحبوا الحلو",
+        "tr": "il-aTfāl y7ibbu l-7ilu",
+        "en": "Kids love sweets."
+      }
+    ]
   },
   {
     "ar": "صغير",
@@ -49,7 +88,20 @@
     "ex_ar": "الصغار قاعدين يلعبوا في الحوش.",
     "ex_tr": "iS-Sghār gā3dīn yil3bu fi l-7ōsh.",
     "ex_en": "The kids are playing in the house.",
-    "note": "pl. صغار Sghār. Also an adjective 'small'; as a noun الصغار = the children."
+    "note": "pl. صغار Sghār. Also an adjective 'small'; as a noun الصغار = the children.",
+    "usage": 85,
+    "phrases": [
+      {
+        "ar": "الصغار راقدين",
+        "tr": "iS-Sghār rāgdīn",
+        "en": "The kids are asleep."
+      },
+      {
+        "ar": "كيف حال الصغار؟",
+        "tr": "kīf 7āl iS-Sghār?",
+        "en": "How are the kids?"
+      }
+    ]
   },
   {
     "ar": "بيبي",
@@ -62,7 +114,20 @@
     "ex_ar": "البيبي راقد، وطّي حسّك.",
     "ex_tr": "il-bēbi rāgid, waTTi 7issik.",
     "ex_en": "The baby is asleep, lower your voice.",
-    "note": "From European 'bebè/baby'; very common in Libyan homes. Formal: رضيع raDī3."
+    "note": "From European 'bebè/baby'; very common in Libyan homes. Formal: رضيع raDī3.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "البيبي يبكي، يبي ياكل",
+        "tr": "il-bēbi yibki, yibbi yākil",
+        "en": "The baby's crying, he wants to eat."
+      },
+      {
+        "ar": "جاها بيبي جديد",
+        "tr": "jāha bēbi jdīd",
+        "en": "She's had a new baby."
+      }
+    ]
   },
   {
     "ar": "ولد",
@@ -75,7 +140,20 @@
     "ex_ar": "عندي ولد واحد وزوز بنات.",
     "ex_tr": "3andi wild wā7id u zōz banāt.",
     "ex_en": "I have one son and two daughters.",
-    "note": "pl. أولاد awlād / ولاد wlād. ولدي wildi = my son. زوز zōz = two (Libyan)."
+    "note": "pl. أولاد awlād / ولاد wlād. ولدي wildi = my son. زوز zōz = two (Libyan).",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "ولدي يقرا في التالت",
+        "tr": "wildi yigra fi t-tālit",
+        "en": "My son is in third grade."
+      },
+      {
+        "ar": "ولد مين انت؟",
+        "tr": "wild mīn inta?",
+        "en": "Whose son are you?"
+      }
+    ]
   },
   {
     "ar": "بنت",
@@ -88,7 +166,20 @@
     "ex_ar": "البنت هذي تقرا معاي في الجامعة.",
     "ex_tr": "il-bint hādhi tigra m3āy fi l-jām3a.",
     "ex_en": "This girl studies with me at university.",
-    "note": "pl. بنات banāt."
+    "note": "pl. بنات banāt.",
+    "usage": 87,
+    "phrases": [
+      {
+        "ar": "بنتي الكبيرة تعرّست",
+        "tr": "binti l-kbīra t3arrsat",
+        "en": "My eldest daughter got married."
+      },
+      {
+        "ar": "البنات في المدرسة",
+        "tr": "il-banāt fi l-madrasa",
+        "en": "The girls are at school."
+      }
+    ]
   },
   {
     "ar": "وليد",
@@ -101,7 +192,20 @@
     "ex_ar": "الوليد هذا ولد مين؟",
     "ex_tr": "il-wlēd hādha wild mīn?",
     "ex_en": "Whose little boy is this?",
-    "note": "Diminutive of ولد wild. Affectionate."
+    "note": "Diminutive of ولد wild. Affectionate.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "يا وليد، تعال هني",
+        "tr": "ya wlēd, ta3āl hni",
+        "en": "Hey little boy, come here."
+      },
+      {
+        "ar": "وليد صغير وذكي",
+        "tr": "wlēd Sghīr w dhki",
+        "en": "a small, clever little boy"
+      }
+    ]
   },
   {
     "ar": "بنية",
@@ -114,7 +218,20 @@
     "ex_ar": "البنية هذي زينة، ربي يحفظها.",
     "ex_tr": "il-bnayya hādhi zēna, rabbi yi7faDHha.",
     "ex_en": "This little girl is lovely, God protect her.",
-    "note": "Diminutive of بنت bint; pl. بنيّات bnayyāt."
+    "note": "Diminutive of بنت bint; pl. بنيّات bnayyāt.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "البنية تبكي على أمها",
+        "tr": "il-bnayya tibki 3ala ummha",
+        "en": "The little girl is crying for her mum."
+      },
+      {
+        "ar": "بنية صغيرة زي القمرة",
+        "tr": "bnayya Sghīra zay il-gamra",
+        "en": "a little girl as pretty as the moon"
+      }
+    ]
   },
   {
     "ar": "صاحب",
@@ -127,7 +244,20 @@
     "ex_ar": "صاحبي جاي من بنغازي اليوم.",
     "ex_tr": "SāHbi jāy min binghāzi il-yōm.",
     "ex_en": "My friend is coming from Benghazi today.",
-    "note": "pl. صحاب S7āb. Also means 'owner' (صاحب الحوش = owner of the house)."
+    "note": "pl. صحاب S7āb. Also means 'owner' (صاحب الحوش = owner of the house).",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "هذا صاحبي من زمان",
+        "tr": "hādha Sā7bi min zmān",
+        "en": "This is my friend from way back."
+      },
+      {
+        "ar": "بنطلع مع صحابي الليلة",
+        "tr": "bnaTla3 ma3 S7ābi l-līla",
+        "en": "I'm going out with my friends tonight."
+      }
+    ]
   },
   {
     "ar": "صاحبة",
@@ -140,7 +270,20 @@
     "ex_ar": "مشيت مع صاحبتي للسوق.",
     "ex_tr": "mshēt ma3 SāHabti li s-sūg.",
     "ex_en": "I went with my (female) friend to the market.",
-    "note": "pl. صاحبات SāHbāt."
+    "note": "pl. صاحبات SāHbāt.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "صاحبتي جاية تقعد عندي",
+        "tr": "Sā7bti jāya tug3ud 3andi",
+        "en": "My friend is coming to stay with me."
+      },
+      {
+        "ar": "هي صاحبة أختي",
+        "tr": "hiyya Sā7bat ukhti",
+        "en": "She's my sister's friend."
+      }
+    ]
   },
   {
     "ar": "رفيق",
@@ -153,7 +296,20 @@
     "ex_ar": "هذا رفيقي من أيام القراية.",
     "ex_tr": "hādha rfīgi min iyyām il-grāya.",
     "ex_en": "This is my friend from school days.",
-    "note": "pl. رفاق rfāg / رفقة. ق pronounced g."
+    "note": "pl. رفاق rfāg / رفقة. ق pronounced g.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "رفيقي في الخدمة",
+        "tr": "rfīgi fi l-khidma",
+        "en": "my mate at work"
+      },
+      {
+        "ar": "رفاقه كلهم مشوا",
+        "tr": "rfāga kullhum mshu",
+        "en": "All his friends have left."
+      }
+    ]
   },
   {
     "ar": "جار",
@@ -166,7 +322,20 @@
     "ex_ar": "جارنا راجل طيب ياسر.",
     "ex_tr": "jārna rājil Tayyib yāsir.",
     "ex_en": "Our neighbour is a very kind man.",
-    "note": "pl. جيران jīrān."
+    "note": "pl. جيران jīrān.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "الجار قبل الدار",
+        "tr": "il-jār gabl id-dār",
+        "en": "Choose the neighbour before the house (proverb)."
+      },
+      {
+        "ar": "جيراننا ناس ملاح",
+        "tr": "jīrānna nās mlā7",
+        "en": "Our neighbours are nice people."
+      }
+    ]
   },
   {
     "ar": "جارة",
@@ -179,7 +348,20 @@
     "ex_ar": "الجارة جابتلنا صحن بازين.",
     "ex_tr": "il-jāra jābitilna Sa7n bāzīn.",
     "ex_en": "The neighbour brought us a plate of bazeen.",
-    "note": "pl. جارات jārāt. بازين bāzīn = Libyan national dish."
+    "note": "pl. جارات jārāt. بازين bāzīn = Libyan national dish.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "الجارة تسأل على أمي",
+        "tr": "il-jāra tis'al 3ala ummi",
+        "en": "The neighbour is asking after my mother."
+      },
+      {
+        "ar": "جارتنا عندها عرس",
+        "tr": "jāratna 3andha 3ars",
+        "en": "Our neighbour has a wedding coming up."
+      }
+    ]
   },
   {
     "ar": "ضيف",
@@ -192,7 +374,20 @@
     "ex_ar": "عندنا ضيوف الليلة.",
     "ex_tr": "3andna Dyūf il-lēla.",
     "ex_en": "We have guests tonight.",
-    "note": "pl. ضيوف Dyūf. Hospitality to ضيوف is a point of honour in Libya."
+    "note": "pl. ضيوف Dyūf. Hospitality to ضيوف is a point of honour in Libya.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "الضيف ضيف ربي",
+        "tr": "iD-Dēf Dēf rabbi",
+        "en": "A guest is God's guest."
+      },
+      {
+        "ar": "جونا ضيوف من مصراتة",
+        "tr": "jūna Dyūf min maSrāta",
+        "en": "We had guests from Misrata."
+      }
+    ]
   },
   {
     "ar": "شخص",
@@ -205,7 +400,20 @@
     "ex_ar": "فيه شخص يستنّى فيك برا.",
     "ex_tr": "fīh shakhS yistanna fīk barra.",
     "ex_en": "There's a person waiting for you outside.",
-    "note": "pl. أشخاص ashkhāS. In speech واحد wā7id 'someone' is also very common."
+    "note": "pl. أشخاص ashkhāS. In speech واحد wā7id 'someone' is also very common.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "كل شخص وراه حكاية",
+        "tr": "kull shakhS wrāh 7kāya",
+        "en": "Every person has a story."
+      },
+      {
+        "ar": "قداش شخص جاي؟",
+        "tr": "gaddāsh shakhS jāy?",
+        "en": "How many people are coming?"
+      }
+    ]
   },
   {
     "ar": "ناس",
@@ -218,7 +426,20 @@
     "ex_ar": "الناس في طرابلس يحبوا البحر.",
     "ex_tr": "in-nās fi Trāblus y7ibbu l-ba7ar.",
     "ex_en": "People in Tripoli love the sea.",
-    "note": "Collective noun, takes plural agreement."
+    "note": "Collective noun, takes plural agreement.",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "الناس شن بتقول؟",
+        "tr": "in-nās shin bitgūl?",
+        "en": "What will people say?"
+      },
+      {
+        "ar": "ناس ملاح ياسر",
+        "tr": "nās mlā7 yāsir",
+        "en": "really nice people"
+      }
+    ]
   },
   {
     "ar": "شباب",
@@ -231,7 +452,20 @@
     "ex_ar": "الشباب مشوا يلعبوا كورة.",
     "ex_tr": "ish-shbāb mshu yil3bu kōra.",
     "ex_en": "The guys went to play football.",
-    "note": "Used as a friendly address: يا شباب yā shbāb = hey guys."
+    "note": "Used as a friendly address: يا شباب yā shbāb = hey guys.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "يا شباب، يلا نمشوا",
+        "tr": "ya shbāb, yalla nimshu",
+        "en": "Guys, let's go."
+      },
+      {
+        "ar": "الشباب قاعدين في القهوة",
+        "tr": "ish-shbāb gā3dīn fi l-gahwa",
+        "en": "The guys are sitting at the café."
+      }
+    ]
   },
   {
     "ar": "شاب",
@@ -244,7 +478,20 @@
     "ex_ar": "الشاب هذا خدام في المصرف.",
     "ex_tr": "ish-shābb hādha khaddām fi l-maSraf.",
     "ex_en": "This young man works at the bank.",
-    "note": "pl. شباب shbāb."
+    "note": "pl. شباب shbāb.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "شاب محترم وخدام",
+        "tr": "shābb mu7taram w khaddām",
+        "en": "a respectable, hard-working young man"
+      },
+      {
+        "ar": "مازال شاب صغير",
+        "tr": "māzāl shābb Sghīr",
+        "en": "He's still a young man."
+      }
+    ]
   },
   {
     "ar": "شابة",
@@ -257,7 +504,20 @@
     "ex_ar": "الشابة هذي دكتورة جديدة.",
     "ex_tr": "ish-shābba hādhi doktōra jdīda.",
     "ex_en": "This young woman is a new doctor.",
-    "note": "pl. شابات shābbāt."
+    "note": "pl. شابات shābbāt.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "شابة ذكية ياسر",
+        "tr": "shābba dhkiyya yāsir",
+        "en": "a very clever young woman"
+      },
+      {
+        "ar": "الشابات يخدموا في الجمعية",
+        "tr": "ish-shābbāt yikhdmu fi l-jam3iyya",
+        "en": "The young women work at the charity."
+      }
+    ]
   },
   {
     "ar": "شيباني",
@@ -270,7 +530,20 @@
     "ex_ar": "الشيباني هذا يعرف تاريخ المدينة كله.",
     "ex_tr": "ish-shībāni hādha ya3rif tārīkh il-mdīna kullah.",
     "ex_en": "This old man knows the whole history of the city.",
-    "note": "pl. شيابين shyābīn. Libyan/Maghrebi word, from شيب 'grey hair'."
+    "note": "pl. شيابين shyābīn. Libyan/Maghrebi word, from شيب 'grey hair'.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "الشيباني قاعد قدام الحوش",
+        "tr": "ish-shībāni gā3id giddām il-7ōsh",
+        "en": "The old man is sitting in front of the house."
+      },
+      {
+        "ar": "ولّى شيباني",
+        "tr": "walla shībāni",
+        "en": "He's become an old man."
+      }
+    ]
   },
   {
     "ar": "عجوز",
@@ -283,7 +556,20 @@
     "ex_ar": "العجوز هذي تحكي خراريف حلوين.",
     "ex_tr": "il-3ajūz hādhi t7ki kharārīf 7lwīn.",
     "ex_en": "This old woman tells lovely folk tales.",
-    "note": "pl. عجايز 3jāyiz. خرّافة kharrāfa = folk tale."
+    "note": "pl. عجايز 3jāyiz. خرّافة kharrāfa = folk tale.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "العجوز ما تقدرش تمشي",
+        "tr": "il-3ajūz ma tagdarsh timshi",
+        "en": "The old woman can't walk."
+      },
+      {
+        "ar": "عاون العجوز تقطع الشارع",
+        "tr": "3āwin il-3ajūz tugTa3 ish-shāri3",
+        "en": "Help the old lady cross the street."
+      }
+    ]
   },
   {
     "ar": "حاج",
@@ -296,7 +582,20 @@
     "ex_ar": "السلام عليكم يا حاج، كيف حالك؟",
     "ex_tr": "is-salāmu 3alēkum yā 7ājj, kīf 7ālik?",
     "ex_en": "Peace be upon you, sir, how are you?",
-    "note": "Respectful address for any older man, pilgrimage or not. Fem. حاجة 7ājja."
+    "note": "Respectful address for any older man, pilgrimage or not. Fem. حاجة 7ājja.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "تفضل يا حاج",
+        "tr": "tfaDDal ya 7ājj",
+        "en": "Please go ahead, sir (to an elder)."
+      },
+      {
+        "ar": "الحاج في الجامع",
+        "tr": "il-7ājj fi j-jāmi3",
+        "en": "The old man is at the mosque."
+      }
+    ]
   },
   {
     "ar": "حاجة",
@@ -309,7 +608,20 @@
     "ex_ar": "الحاجة طيبت لينا شوربة.",
     "ex_tr": "il-7ājja Tayyibit līna shorba.",
     "ex_en": "The old lady cooked soup for us.",
-    "note": "Respectful address for an older woman."
+    "note": "Respectful address for an older woman.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "الحاجة ربي يطوّل عمرها",
+        "tr": "il-7ājja rabbi yTawwil 3umrha",
+        "en": "May God give the old lady long life."
+      },
+      {
+        "ar": "كيف حالك يا حاجة؟",
+        "tr": "kīf 7ālik ya 7ājja?",
+        "en": "How are you, ma'am?"
+      }
+    ]
   },
   {
     "ar": "شيخ",
@@ -322,7 +634,20 @@
     "ex_ar": "شيخ القبيلة حل المشكلة.",
     "ex_tr": "shēkh il-gbīla 7all il-mushkla.",
     "ex_en": "The tribal elder solved the problem.",
-    "note": "pl. شيوخ shyūkh / مشايخ mashāyikh."
+    "note": "pl. شيوخ shyūkh / مشايخ mashāyikh.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "الشيخ يخطب يوم الجمعة",
+        "tr": "ish-shēkh yikhTib yōm ij-jum3a",
+        "en": "The sheikh preaches on Friday."
+      },
+      {
+        "ar": "مشينا للشيخ نسألوه",
+        "tr": "mshēna lish-shēkh nis'alūh",
+        "en": "We went to the sheikh to ask him."
+      }
+    ]
   },
   {
     "ar": "كبار",
@@ -335,7 +660,20 @@
     "ex_ar": "الكبار قاعدين في المربوعة.",
     "ex_tr": "il-kbār gā3dīn fi l-marbū3a.",
     "ex_en": "The grown-ups are sitting in the guest room.",
-    "note": "pl. of كبير kbīr. مربوعة marbū3a = Libyan sitting room for guests."
+    "note": "pl. of كبير kbīr. مربوعة marbū3a = Libyan sitting room for guests.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "اسمع كلام الكبار",
+        "tr": "isma3 klām il-kbār",
+        "en": "Listen to your elders."
+      },
+      {
+        "ar": "الكبار يتغدوا الأول",
+        "tr": "il-kbār yitghaddu l-awwal",
+        "en": "The elders eat lunch first."
+      }
+    ]
   },
   {
     "ar": "جماعة",
@@ -348,7 +686,20 @@
     "ex_ar": "الجماعة كلهم جوا للعرس.",
     "ex_tr": "il-jmā3a kullhum jaw li l-3irs.",
     "ex_en": "The whole group came to the wedding.",
-    "note": "Also 'my folks': جماعتي jmā3ti."
+    "note": "Also 'my folks': جماعتي jmā3ti.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "يا جماعة، اسمعوني",
+        "tr": "ya jmā3a, isma3ūni",
+        "en": "Folks, listen to me."
+      },
+      {
+        "ar": "الجماعة وصلوا",
+        "tr": "il-jmā3a wiSlu",
+        "en": "The folks have arrived."
+      }
+    ]
   },
   {
     "ar": "غريب",
@@ -361,7 +712,20 @@
     "ex_ar": "ما تفتحش الباب لأي غريب.",
     "ex_tr": "ma tiftaHsh il-bāb li ayy gharīb.",
     "ex_en": "Don't open the door to any stranger.",
-    "note": "pl. غُرب ghurb / غرباء ghurabā'."
+    "note": "pl. غُرب ghurb / غرباء ghurabā'.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "أنا غريب على البلاد هذي",
+        "tr": "āna gharīb 3ala l-blād hādhi",
+        "en": "I'm a stranger in this town."
+      },
+      {
+        "ar": "فيه واحد غريب برا",
+        "tr": "fīh wā7id gharīb barra",
+        "en": "There's a stranger outside."
+      }
+    ]
   },
   {
     "ar": "أجنبي",
@@ -374,7 +738,20 @@
     "ex_ar": "فيه أجانب ياسر يخدموا في الشركة.",
     "ex_tr": "fīh ajānib yāsir yikhdmu fi sh-sharika.",
     "ex_en": "Many foreigners work at the company.",
-    "note": "pl. أجانب ajānib."
+    "note": "pl. أجانب ajānib.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "مرته أجنبية",
+        "tr": "marta ajnabiyya",
+        "en": "His wife is a foreigner."
+      },
+      {
+        "ar": "الأجانب يحبوا الصحرا",
+        "tr": "il-ajānib y7ibbu S-Sa7ra",
+        "en": "Foreigners love the desert."
+      }
+    ]
   },
   {
     "ar": "ليبي",
@@ -387,7 +764,20 @@
     "ex_ar": "أنا ليبي من مصراتة.",
     "ex_tr": "āna lībi min miSrāta.",
     "ex_en": "I'm a Libyan from Misrata.",
-    "note": "pl. ليبيين lībiyyīn; fem. ليبية lībiyya."
+    "note": "pl. ليبيين lībiyyīn; fem. ليبية lībiyya.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "الماكلة الليبية بنينة",
+        "tr": "il-mākla l-lībiyya bnīna",
+        "en": "Libyan food is delicious."
+      },
+      {
+        "ar": "انت ليبي ولا تونسي؟",
+        "tr": "inta lībi walla tūnsi?",
+        "en": "Are you Libyan or Tunisian?"
+      }
+    ]
   },
   {
     "ar": "يتيم",
@@ -400,7 +790,20 @@
     "ex_ar": "الجمعية هذي تعاون الأيتام.",
     "ex_tr": "il-jam3iyya hādhi t3āwin il-aytām.",
     "ex_en": "This charity helps orphans.",
-    "note": "pl. يتامى ytāma / أيتام aytām."
+    "note": "pl. يتامى ytāma / أيتام aytām.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "تربّى يتيم",
+        "tr": "trabba ytīm",
+        "en": "He grew up an orphan."
+      },
+      {
+        "ar": "عاونوا اليتامى",
+        "tr": "3āwnu l-ytāma",
+        "en": "Help the orphans."
+      }
+    ]
   },
   {
     "ar": "عدو",
@@ -413,7 +816,20 @@
     "ex_ar": "ما عنديش عدو في الدنيا.",
     "ex_tr": "ma 3andīsh 3dū fi d-dinya.",
     "ex_en": "I don't have an enemy in the world.",
-    "note": "pl. أعداء a3dā'."
+    "note": "pl. أعداء a3dā'.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "هو عدو روحه",
+        "tr": "huwwa 3dū rū7a",
+        "en": "He's his own worst enemy."
+      },
+      {
+        "ar": "العدو ما يرحمش",
+        "tr": "il-3dū ma yir7amsh",
+        "en": "An enemy shows no mercy."
+      }
+    ]
   },
   {
     "ar": "ضنا",
@@ -426,7 +842,20 @@
     "ex_ar": "ربي يخليلك ضناك.",
     "ex_tr": "rabbi ykhallīlik Dnāk.",
     "ex_en": "May God keep your children for you.",
-    "note": "Libyan/Bedouin word for one's kids; very common in blessings."
+    "note": "Libyan/Bedouin word for one's kids; very common in blessings.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "ضناي هم كل شي عندي",
+        "tr": "Dnāy humma kull shay 3andi",
+        "en": "My kids are everything to me."
+      },
+      {
+        "ar": "ربي يحفظ الضنا",
+        "tr": "rabbi yi7faDH iD-Dna",
+        "en": "May God protect the children."
+      }
+    ]
   },
   {
     "ar": "بدوي",
@@ -439,7 +868,20 @@
     "ex_ar": "جدي كان بدوي يعيش في الخيمة.",
     "ex_tr": "jiddi kān badwi y3īsh fi l-khēma.",
     "ex_en": "My grandfather was a Bedouin who lived in a tent.",
-    "note": "pl. بدو badu."
+    "note": "pl. بدو badu.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "عرس بدوي في الخيمة",
+        "tr": "3ars badwi fi l-khēma",
+        "en": "a Bedouin wedding in a tent"
+      },
+      {
+        "ar": "لهجته بدوية",
+        "tr": "lahjta badwiyya",
+        "en": "His dialect is Bedouin."
+      }
+    ]
   },
   {
     "ar": "جيل",
@@ -452,7 +894,20 @@
     "ex_ar": "جيل اليوم يحب التلفون ياسر.",
     "ex_tr": "jīl il-yōm y7ibb it-tilifōn yāsir.",
     "ex_en": "Today's generation loves the phone a lot.",
-    "note": "pl. أجيال ajyāl."
+    "note": "pl. أجيال ajyāl.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "جيلنا غير جيلكم",
+        "tr": "jīlna ghēr jīlkum",
+        "en": "Our generation is different from yours."
+      },
+      {
+        "ar": "الجيل الجديد",
+        "tr": "ij-jīl ij-jdīd",
+        "en": "the new generation"
+      }
+    ]
   },
   {
     "ar": "أم",
@@ -465,7 +920,20 @@
     "ex_ar": "أمي تطيب أحسن كسكسي.",
     "ex_tr": "ummi tTayyib a7san kusksi.",
     "ex_en": "My mother cooks the best couscous.",
-    "note": "pl. أمهات ummahāt. Also الوالدة il-wālda (polite)."
+    "note": "pl. أمهات ummahāt. Also الوالدة il-wālda (polite).",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "أمي تسلّم عليك",
+        "tr": "ummi tsallim 3alēk",
+        "en": "My mother sends her regards."
+      },
+      {
+        "ar": "أم محمد جات",
+        "tr": "umm m7ammad jāt",
+        "en": "Umm Mohammed has come."
+      }
+    ]
   },
   {
     "ar": "بو",
@@ -478,7 +946,20 @@
     "ex_ar": "بوي خدام في طرابلس.",
     "ex_tr": "būy khaddām fi Trāblus.",
     "ex_en": "My father works in Tripoli.",
-    "note": "Libyan form: بوي būy = my father, بوك būk = your father. Also used in names/nicknames (بو بكر). pl. آباء ābā'."
+    "note": "Libyan form: بوي būy = my father, بوك būk = your father. Also used in names/nicknames (بو بكر). pl. آباء ābā'.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "بوك في الحوش؟",
+        "tr": "būk fi l-7ōsh?",
+        "en": "Is your father home?"
+      },
+      {
+        "ar": "بو علي جارنا",
+        "tr": "bū 3ali jārna",
+        "en": "Abu Ali is our neighbour."
+      }
+    ]
   },
   {
     "ar": "بابا",
@@ -491,7 +972,20 @@
     "ex_ar": "بابا جاب لينا حلويات.",
     "ex_tr": "bāba jāb līna 7alawiyyāt.",
     "ex_en": "Dad brought us sweets.",
-    "note": "Affectionate, used by children and adults."
+    "note": "Affectionate, used by children and adults.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "بابا، نبي فلوس",
+        "tr": "bāba, nibbi flūs",
+        "en": "Dad, I want some money."
+      },
+      {
+        "ar": "بابا مازال في الخدمة",
+        "tr": "bāba māzāl fi l-khidma",
+        "en": "Dad is still at work."
+      }
+    ]
   },
   {
     "ar": "ماما",
@@ -504,7 +998,20 @@
     "ex_ar": "ماما، وين المفتاح؟",
     "ex_tr": "māma, wīn il-mufta7?",
     "ex_en": "Mum, where's the key?",
-    "note": "Affectionate."
+    "note": "Affectionate.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "ماما جاية توا",
+        "tr": "māma jāya tawwa",
+        "en": "Mum is coming now."
+      },
+      {
+        "ar": "نبي نكلم ماما",
+        "tr": "nibbi nkallim māma",
+        "en": "I want to talk to Mum."
+      }
+    ]
   },
   {
     "ar": "والد",
@@ -517,7 +1024,20 @@
     "ex_ar": "الوالد ربي يرحمه كان معلم.",
     "ex_tr": "il-wālid rabbi yar7mah kān m3allim.",
     "ex_en": "My late father was a teacher.",
-    "note": "الوالدين il-wāldēn = parents. Fem. والدة wālda."
+    "note": "الوالدين il-wāldēn = parents. Fem. والدة wālda.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "الوالد والوالدة بخير",
+        "tr": "il-wālid wil-wālda bkhēr",
+        "en": "My father and mother are well."
+      },
+      {
+        "ar": "سلّم على الوالد",
+        "tr": "sallim 3ala l-wālid",
+        "en": "Give my regards to your father."
+      }
+    ]
   },
   {
     "ar": "خو",
@@ -530,7 +1050,20 @@
     "ex_ar": "خوي الكبير ساكن في مصراتة.",
     "ex_tr": "khūy il-kbīr sākin fi miSrāta.",
     "ex_en": "My older brother lives in Misrata.",
-    "note": "Libyan: خوي khūy = my brother. pl. خوت khūt (خوتي khūti = my brothers/siblings)."
+    "note": "Libyan: خوي khūy = my brother. pl. خوت khūt (خوتي khūti = my brothers/siblings).",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "خوك وين؟",
+        "tr": "khūk wīn?",
+        "en": "Where's your brother?"
+      },
+      {
+        "ar": "هذا خوي الصغير",
+        "tr": "hādha khūy iS-Sghīr",
+        "en": "This is my little brother."
+      }
+    ]
   },
   {
     "ar": "أخت",
@@ -543,7 +1076,20 @@
     "ex_ar": "أختي تقرا طب.",
     "ex_tr": "ukhti tigra Tibb.",
     "ex_en": "My sister studies medicine.",
-    "note": "pl. خوات khwāt."
+    "note": "pl. خوات khwāt.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "أختي الكبيرة معرّسة",
+        "tr": "ukhti l-kbīra m3arrsa",
+        "en": "My older sister is married."
+      },
+      {
+        "ar": "عندك خوات؟",
+        "tr": "3andik khawāt?",
+        "en": "Do you have sisters?"
+      }
+    ]
   },
   {
     "ar": "عم",
@@ -556,7 +1102,20 @@
     "ex_ar": "عمي جاي يتغدى معانا.",
     "ex_tr": "3ammi jāy yitghadda m3āna.",
     "ex_en": "My (paternal) uncle is coming to have lunch with us.",
-    "note": "pl. عمام 3mām. A wife may also call her father-in-law عمي 3ammi."
+    "note": "pl. عمام 3mām. A wife may also call her father-in-law عمي 3ammi.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "عمي ساكن في الحي هذا",
+        "tr": "3ammi sākin fi l-7ayy hādha",
+        "en": "My uncle lives in this neighbourhood."
+      },
+      {
+        "ar": "كيف حالك يا عمي؟",
+        "tr": "kīf 7ālik ya 3ammi?",
+        "en": "How are you, uncle? (also said to any older man)"
+      }
+    ]
   },
   {
     "ar": "عمة",
@@ -569,7 +1128,20 @@
     "ex_ar": "عمتي ساكنة قريب منا.",
     "ex_tr": "3ammti sākna grīb minna.",
     "ex_en": "My paternal aunt lives near us.",
-    "note": "pl. عمات 3ammāt."
+    "note": "pl. عمات 3ammāt.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "عمتي جابتلي هدية",
+        "tr": "3amti jābatli hadiyya",
+        "en": "My aunt brought me a present."
+      },
+      {
+        "ar": "بنمشوا لعمتك الجمعة",
+        "tr": "bnimshu l-3amtik ij-jum3a",
+        "en": "We'll go to your aunt's on Friday."
+      }
+    ]
   },
   {
     "ar": "خال",
@@ -582,7 +1154,20 @@
     "ex_ar": "خالي عنده حوش في الريف.",
     "ex_tr": "khāli 3andah 7ōsh fi r-rīf.",
     "ex_en": "My maternal uncle has a house in the countryside.",
-    "note": "pl. خوال khwāl."
+    "note": "pl. خوال khwāl.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "خالي يحب الصيد",
+        "tr": "khāli y7ibb iS-Sēd",
+        "en": "My uncle loves hunting."
+      },
+      {
+        "ar": "الخال والد",
+        "tr": "il-khāl wālid",
+        "en": "A maternal uncle is like a father (saying)."
+      }
+    ]
   },
   {
     "ar": "خالة",
@@ -595,7 +1180,20 @@
     "ex_ar": "خالتي جابت هدية للبيبي.",
     "ex_tr": "khālti jābit hdiyya li l-bēbi.",
     "ex_en": "My maternal aunt brought a present for the baby.",
-    "note": "pl. خالات khālāt."
+    "note": "pl. خالات khālāt.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "خالتي تطيب بنين",
+        "tr": "khālti tTayyib bnīn",
+        "en": "My aunt cooks really well."
+      },
+      {
+        "ar": "مشينا لحوش خالتي",
+        "tr": "mshēna l-7ōsh khālti",
+        "en": "We went to my aunt's house."
+      }
+    ]
   },
   {
     "ar": "جد",
@@ -608,7 +1206,20 @@
     "ex_ar": "جدي عمره تسعين سنة.",
     "ex_tr": "jiddi 3umrah tis3īn sna.",
     "ex_en": "My grandfather is ninety years old.",
-    "note": "pl. جدود jdūd (also 'ancestors')."
+    "note": "pl. جدود jdūd (also 'ancestors').",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "جدي ربي يرحمه",
+        "tr": "jiddi rabbi yir7ma",
+        "en": "My late grandfather, God rest him."
+      },
+      {
+        "ar": "حوش جدي في الجبل",
+        "tr": "7ōsh jiddi fi j-jbal",
+        "en": "My grandfather's house is in the mountains."
+      }
+    ]
   },
   {
     "ar": "جدة",
@@ -621,7 +1232,20 @@
     "ex_ar": "جدتي تحكيلنا خراريف.",
     "ex_tr": "jiddti t7kīlna kharārīf.",
     "ex_en": "My grandmother tells us folk tales.",
-    "note": "pl. جدات jiddāt. See also حنّا 7anna."
+    "note": "pl. جدات jiddāt. See also حنّا 7anna.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "جدتي ساكنة معانا",
+        "tr": "jiddti sākna ma3āna",
+        "en": "My grandmother lives with us."
+      },
+      {
+        "ar": "نبي نزور جدتي",
+        "tr": "nibbi nzūr jiddti",
+        "en": "I want to visit my grandmother."
+      }
+    ]
   },
   {
     "ar": "حنّا",
@@ -634,7 +1258,20 @@
     "ex_ar": "حنّا طيبت لينا عصيدة.",
     "ex_tr": "7anna Tayyibit līna 3aSīda.",
     "ex_en": "Granny made us asida.",
-    "note": "Libyan affectionate word for grandmother (حنّي 7anni = my granny). عصيدة 3aSīda = traditional porridge."
+    "note": "Libyan affectionate word for grandmother (حنّي 7anni = my granny). عصيدة 3aSīda = traditional porridge.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "حنّا تقعد معانا",
+        "tr": "7anna tug3ud ma3āna",
+        "en": "Granny stays with us."
+      },
+      {
+        "ar": "يا حنّا، احكيلي خرافة",
+        "tr": "ya 7anna, i7kīli khrāfa",
+        "en": "Granny, tell me a story."
+      }
+    ]
   },
   {
     "ar": "ولد عم",
@@ -647,7 +1284,20 @@
     "ex_ar": "ولد عمي ساكن في بنغازي.",
     "ex_tr": "wild 3ammi sākin fi binghāzi.",
     "ex_en": "My cousin (paternal uncle's son) lives in Benghazi.",
-    "note": "pl. ولاد عم wlād 3amm. Also used loosely for close kin/tribe."
+    "note": "pl. ولاد عم wlād 3amm. Also used loosely for close kin/tribe.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "ولاد عمي ياسرين",
+        "tr": "wlād 3ammi yāsrīn",
+        "en": "I have lots of cousins."
+      },
+      {
+        "ar": "هذا ولد عمي",
+        "tr": "hādha wild 3ammi",
+        "en": "This is my cousin."
+      }
+    ]
   },
   {
     "ar": "بنت عم",
@@ -660,7 +1310,20 @@
     "ex_ar": "بنت عمي تعرّست الصيف اللي فات.",
     "ex_tr": "bint 3ammi t3arrsit iS-Sēf illi fāt.",
     "ex_en": "My cousin got married last summer.",
-    "note": "pl. بنات عم banāt 3amm."
+    "note": "pl. بنات عم banāt 3amm.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "بنت عمي صاحبتي",
+        "tr": "bint 3ammi Sā7bti",
+        "en": "My cousin is my friend."
+      },
+      {
+        "ar": "عرس بنت عمه",
+        "tr": "3ars bint 3amma",
+        "en": "his cousin's wedding"
+      }
+    ]
   },
   {
     "ar": "ولد خال",
@@ -673,7 +1336,20 @@
     "ex_ar": "ولد خالي يخدم معاي.",
     "ex_tr": "wild khāli yikhdim m3āy.",
     "ex_en": "My cousin (maternal uncle's son) works with me.",
-    "note": "pl. ولاد خال wlād khāl."
+    "note": "pl. ولاد خال wlād khāl.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "ولد خالي جا من برا",
+        "tr": "wild khāli ja min barra",
+        "en": "My cousin came back from abroad."
+      },
+      {
+        "ar": "نلعب كورة مع ولد خالي",
+        "tr": "nil3ab kūra ma3 wild khāli",
+        "en": "I play football with my cousin."
+      }
+    ]
   },
   {
     "ar": "بنت خال",
@@ -686,7 +1362,20 @@
     "ex_ar": "بنت خالي تقرا في كلية الهندسة.",
     "ex_tr": "bint khāli tigra fi kulliyyit il-handasa.",
     "ex_en": "My cousin studies in the engineering faculty.",
-    "note": "pl. بنات خال banāt khāl."
+    "note": "pl. بنات خال banāt khāl.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "بنت خالي تعرّست",
+        "tr": "bint khāli t3arrsat",
+        "en": "My cousin got married."
+      },
+      {
+        "ar": "مشيت مع بنت خالي",
+        "tr": "mshēt ma3 bint khāli",
+        "en": "I went with my cousin."
+      }
+    ]
   },
   {
     "ar": "ولد خالة",
@@ -699,7 +1388,20 @@
     "ex_ar": "ولد خالتي جاي يزورنا.",
     "ex_tr": "wild khālti jāy yzūrna.",
     "ex_en": "My cousin (maternal aunt's son) is coming to visit us.",
-    "note": "Arabic distinguishes cousins by which parent's sibling they come from."
+    "note": "Arabic distinguishes cousins by which parent's sibling they come from.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "ولد خالتي في نفس الفصل",
+        "tr": "wild khālti fi nafs il-faSl",
+        "en": "My cousin is in the same class."
+      },
+      {
+        "ar": "هو ولد خالتها",
+        "tr": "huwwa wild khālitha",
+        "en": "He's her cousin."
+      }
+    ]
   },
   {
     "ar": "زوج",
@@ -712,7 +1414,20 @@
     "ex_ar": "زوجها يخدم في الخارج.",
     "ex_tr": "zōjha yikhdim fi l-khārij.",
     "ex_en": "Her husband works abroad.",
-    "note": "Formal-ish; in daily speech راجلها rājilha 'her man' is more common. Careful: زوز zōz = 'two'."
+    "note": "Formal-ish; in daily speech راجلها rājilha 'her man' is more common. Careful: زوز zōz = 'two'.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "زوجي مسافر",
+        "tr": "zōji msāfir",
+        "en": "My husband is travelling."
+      },
+      {
+        "ar": "زوج أختي",
+        "tr": "zōj ukhti",
+        "en": "my sister's husband"
+      }
+    ]
   },
   {
     "ar": "زوجة",
@@ -725,7 +1440,20 @@
     "ex_ar": "زوجته دكتورة أسنان.",
     "ex_tr": "zōjtah doktōrit asnān.",
     "ex_en": "His wife is a dentist.",
-    "note": "Daily speech prefers مرته martah 'his woman' or حرمته 7urmtah."
+    "note": "Daily speech prefers مرته martah 'his woman' or حرمته 7urmtah.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "زوجتي تسلّم عليكم",
+        "tr": "zōjti tsallim 3alēkum",
+        "en": "My wife sends you her greetings."
+      },
+      {
+        "ar": "عنده زوجة وزوز صغار",
+        "tr": "3anda zōja w zūz Sghār",
+        "en": "He has a wife and two kids."
+      }
+    ]
   },
   {
     "ar": "حرمة",
@@ -738,7 +1466,20 @@
     "ex_ar": "سلّملي على الحرمة والصغار.",
     "ex_tr": "sallimli 3ala l-7urma wa S-Sghār.",
     "ex_en": "Give my regards to your wife and kids.",
-    "note": "Polite, indirect way to refer to someone's wife."
+    "note": "Polite, indirect way to refer to someone's wife.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "الحرمة في الحوش",
+        "tr": "il-7urma fi l-7ōsh",
+        "en": "The wife is at home."
+      },
+      {
+        "ar": "كيف حال الحرمة؟",
+        "tr": "kīf 7āl il-7urma?",
+        "en": "How's the wife?"
+      }
+    ]
   },
   {
     "ar": "عايلة",
@@ -751,7 +1492,20 @@
     "ex_ar": "عايلتي كبيرة، عندي سبع خوت.",
     "ex_tr": "3āylti kbīra, 3andi sba3 khūt.",
     "ex_en": "My family is big, I have seven siblings.",
-    "note": "pl. عايلات 3āylāt. Also pronounced عيلة 3ēla."
+    "note": "pl. عايلات 3āylāt. Also pronounced عيلة 3ēla.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "عايلة كبيرة، ربي يبارك",
+        "tr": "3āyla kbīra, rabbi ybārik",
+        "en": "A big family, God bless."
+      },
+      {
+        "ar": "سافرنا مع العايلة",
+        "tr": "sāfarna ma3 il-3āyla",
+        "en": "We travelled with the family."
+      }
+    ]
   },
   {
     "ar": "أهل",
@@ -764,7 +1518,20 @@
     "ex_ar": "نبي نمشي نزور أهلي في العيد.",
     "ex_tr": "nibbi nimshi nzūr ahli fi l-3īd.",
     "ex_en": "I want to go visit my family for Eid.",
-    "note": "أهل الحوش = the household."
+    "note": "أهل الحوش = the household.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "أهلك بخير؟",
+        "tr": "ahlik bkhēr?",
+        "en": "Is your family well?"
+      },
+      {
+        "ar": "مشى لأهله في العيد",
+        "tr": "msha l-ahla fi l-3īd",
+        "en": "He went to his family for Eid."
+      }
+    ]
   },
   {
     "ar": "قرايب",
@@ -777,7 +1544,20 @@
     "ex_ar": "القرايب كلهم جوا للعزا.",
     "ex_tr": "il-grāyib kullhum jaw li l-3za.",
     "ex_en": "All the relatives came to the funeral gathering.",
-    "note": "sg. قريب grīb. ق pronounced g."
+    "note": "sg. قريب grīb. ق pronounced g.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "عندنا قرايب في بنغازي",
+        "tr": "3andna grāyib fi banghāzi",
+        "en": "We have relatives in Benghazi."
+      },
+      {
+        "ar": "هو من قرايبي",
+        "tr": "huwwa min grāybi",
+        "en": "He's one of my relatives."
+      }
+    ]
   },
   {
     "ar": "قبيلة",
@@ -790,7 +1570,20 @@
     "ex_ar": "كل واحد في ليبيا يعرف قبيلته.",
     "ex_tr": "kull wā7id fi lībya ya3rif gbīltah.",
     "ex_en": "Everyone in Libya knows their tribe.",
-    "note": "pl. قبايل gbāyil. Tribal ties remain important in Libyan social life."
+    "note": "pl. قبايل gbāyil. Tribal ties remain important in Libyan social life.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "من أي قبيلة انت؟",
+        "tr": "min ayy gbīla inta?",
+        "en": "Which tribe are you from?"
+      },
+      {
+        "ar": "القبيلة كلها جات للعرس",
+        "tr": "il-gbīla kullha jāt lil-3ars",
+        "en": "The whole tribe came to the wedding."
+      }
+    ]
   },
   {
     "ar": "نسيب",
@@ -803,7 +1596,20 @@
     "ex_ar": "نسيبي راجل محترم.",
     "ex_tr": "nsībi rājil m7taram.",
     "ex_en": "My in-law is a respectable man.",
-    "note": "pl. نسابة nsāba. Covers male in-laws broadly."
+    "note": "pl. نسابة nsāba. Covers male in-laws broadly.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "نسيبي جاي يتغدى",
+        "tr": "nsībi jāy yitghadda",
+        "en": "My brother-in-law is coming for lunch."
+      },
+      {
+        "ar": "ولّينا نسايب",
+        "tr": "wallēna nsāyib",
+        "en": "We've become in-laws."
+      }
+    ]
   },
   {
     "ar": "حماة",
@@ -816,7 +1622,20 @@
     "ex_ar": "حماتي تحبني ياسر.",
     "ex_tr": "7mātti t7ibbni yāsir.",
     "ex_en": "My mother-in-law loves me a lot.",
-    "note": "Also called خالتي khālti or عمتي 3ammti out of politeness."
+    "note": "Also called خالتي khālti or عمتي 3ammti out of politeness.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "حماتها ساكنة معاهم",
+        "tr": "7mātha sākna m3āhum",
+        "en": "Her mother-in-law lives with them."
+      },
+      {
+        "ar": "الحماة والكنة",
+        "tr": "il-7māt wil-kinna",
+        "en": "mother-in-law and daughter-in-law"
+      }
+    ]
   },
   {
     "ar": "عروسة",
@@ -829,7 +1648,20 @@
     "ex_ar": "العروسة لابسة جرد وحلي ليبي.",
     "ex_tr": "il-3arūsa lābsa jard u 7ili lībi.",
     "ex_en": "The bride is wearing a traditional wrap and Libyan jewellery.",
-    "note": "pl. عرايس 3rāyis. Also used for a doll and for a sandwich (عروسة تن)."
+    "note": "pl. عرايس 3rāyis. Also used for a doll and for a sandwich (عروسة تن).",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "مبروك على العروسة",
+        "tr": "mabrūk 3ala l-3arūsa",
+        "en": "Congratulations on the bride."
+      },
+      {
+        "ar": "العروسة زينة ياسر",
+        "tr": "il-3arūsa zēna yāsir",
+        "en": "The bride is very pretty."
+      }
+    ]
   },
   {
     "ar": "عريس",
@@ -842,7 +1674,20 @@
     "ex_ar": "العريس جا بالسيارة المزينة.",
     "ex_tr": "il-3rīs ja bi s-sayyāra l-mzayyna.",
     "ex_en": "The groom came in the decorated car.",
-    "note": "pl. عرسان 3irsān. عرس 3irs = wedding."
+    "note": "pl. عرسان 3irsān. عرس 3irs = wedding.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "مبروك يا عريس",
+        "tr": "mabrūk ya 3rīs",
+        "en": "Congratulations, groom!"
+      },
+      {
+        "ar": "العريس مبسوط ياسر",
+        "tr": "il-3rīs mabsūT yāsir",
+        "en": "The groom is very happy."
+      }
+    ]
   },
   {
     "ar": "خطيب",
@@ -855,7 +1700,20 @@
     "ex_ar": "خطيبها يخدم مهندس.",
     "ex_tr": "khTībha yikhdim muhandis.",
     "ex_en": "Her fiancé works as an engineer.",
-    "note": "Fem. خطيبة khTība = fiancée."
+    "note": "Fem. خطيبة khTība = fiancée.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "هي عندها خطيب",
+        "tr": "hiyya 3andha khTīb",
+        "en": "She has a fiancé."
+      },
+      {
+        "ar": "خطيبها جاب الشبكة",
+        "tr": "khTībha jāb ish-shabka",
+        "en": "Her fiancé brought the engagement jewellery."
+      }
+    ]
   },
   {
     "ar": "خطيبة",
@@ -868,7 +1726,20 @@
     "ex_ar": "جبت هدية لخطيبتي.",
     "ex_tr": "jibt hdiyya li khTībti.",
     "ex_en": "I brought a present for my fiancée.",
-    "note": "خطوبة khTūba = engagement."
+    "note": "خطوبة khTūba = engagement.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "خطيبته من طرابلس",
+        "tr": "khTībta min Trābulus",
+        "en": "His fiancée is from Tripoli."
+      },
+      {
+        "ar": "بنمشي مع خطيبتي للسوق",
+        "tr": "bnimshi ma3 khTībti lis-sūg",
+        "en": "I'll go to the market with my fiancée."
+      }
+    ]
   },
   {
     "ar": "حفيد",
@@ -881,7 +1752,20 @@
     "ex_ar": "الحاج عنده عشرين حفيد.",
     "ex_tr": "il-7ājj 3andah 3ishrīn 7fīd.",
     "ex_en": "The old man has twenty grandchildren.",
-    "note": "pl. أحفاد a7fād / حفدة."
+    "note": "pl. أحفاد a7fād / حفدة.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "جاه حفيد جديد",
+        "tr": "jāh 7fīd jdīd",
+        "en": "He has a new grandson."
+      },
+      {
+        "ar": "الأحفاد يلعبوا في الحوش",
+        "tr": "il-a7fād yil3bu fi l-7ōsh",
+        "en": "The grandkids are playing in the house."
+      }
+    ]
   },
   {
     "ar": "حفيدة",
@@ -894,7 +1778,20 @@
     "ex_ar": "حفيدتي الأولى سميتها على أمي.",
     "ex_tr": "7fīdti l-ūla sammētha 3ala ummi.",
     "ex_en": "I named my first granddaughter after my mother.",
-    "note": "pl. حفيدات 7fīdāt."
+    "note": "pl. حفيدات 7fīdāt.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "حفيدته تقرا في الجامعة",
+        "tr": "7fīdta tigra fi j-jām3a",
+        "en": "His granddaughter studies at university."
+      },
+      {
+        "ar": "جات الحفيدة تزور جدها",
+        "tr": "jāt il-7fīda tzūr jiddha",
+        "en": "The granddaughter came to visit her grandfather."
+      }
+    ]
   },
   {
     "ar": "أرملة",
@@ -907,7 +1804,20 @@
     "ex_ar": "الأرملة هذي تربي في أربع صغار.",
     "ex_tr": "il-armla hādhi trabbi fi arba3 Sghār.",
     "ex_en": "This widow is raising four kids.",
-    "note": "pl. أرامل arāmil. Masc. أرمل armal."
+    "note": "pl. أرامل arāmil. Masc. أرمل armal.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "ولّت أرملة وهي صغيرة",
+        "tr": "wallat armla w hiyya Sghīra",
+        "en": "She became a widow while still young."
+      },
+      {
+        "ar": "عاونوا الأرامل",
+        "tr": "3āwnu l-arāmil",
+        "en": "Help the widows."
+      }
+    ]
   },
   {
     "ar": "توأم",
@@ -920,7 +1830,20 @@
     "ex_ar": "الصغار هذوما توأم.",
     "ex_tr": "iS-Sghār hādhūma taw'am.",
     "ex_en": "These kids are twins.",
-    "note": "Also heard as توام twām in Maghrebi speech."
+    "note": "Also heard as توام twām in Maghrebi speech.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "عندها توأم بنات",
+        "tr": "3andha taw'am banāt",
+        "en": "She has twin girls."
+      },
+      {
+        "ar": "هو وخوه توأم",
+        "tr": "huwwa w khūh taw'am",
+        "en": "He and his brother are twins."
+      }
+    ]
   },
   {
     "ar": "خوت",
@@ -933,7 +1856,20 @@
     "ex_ar": "قداش عندك من خوت؟",
     "ex_tr": "gaddāsh 3andak min khūt?",
     "ex_en": "How many siblings do you have?",
-    "note": "pl. of خو khū. Libyan form."
+    "note": "pl. of خو khū. Libyan form.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "خوتي كلهم في طرابلس",
+        "tr": "khūti kullhum fi Trābulus",
+        "en": "All my siblings are in Tripoli."
+      },
+      {
+        "ar": "احنا خوت، ما فيش فرق",
+        "tr": "i7na khūt, ma fīsh farg",
+        "en": "We're brothers, there's no difference."
+      }
+    ]
   },
   {
     "ar": "راس",
@@ -946,7 +1882,20 @@
     "ex_ar": "راسي يوجع فيا من الصبح.",
     "ex_tr": "rāsi yūja3 fiyya min iS-Sbā7.",
     "ex_en": "My head has been hurting since morning.",
-    "note": "pl. روس rūs / ريوس ryūs."
+    "note": "pl. روس rūs / ريوس ryūs.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "من راسي لرجلي",
+        "tr": "min rāsi l-rijli",
+        "en": "from head to toe"
+      },
+      {
+        "ar": "حط راسك وارقد",
+        "tr": "7uTT rāsik w urgud",
+        "en": "Put your head down and sleep."
+      }
+    ]
   },
   {
     "ar": "عين",
@@ -959,7 +1908,20 @@
     "ex_ar": "عينيها زرق.",
     "ex_tr": "3aynēha zurg.",
     "ex_en": "Her eyes are blue.",
-    "note": "dual عينين 3aynēn; pl. عيون 3yūn."
+    "note": "dual عينين 3aynēn; pl. عيون 3yūn.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "على عيني وراسي",
+        "tr": "3ala 3ēni w rāsi",
+        "en": "With pleasure (lit. on my eye and head)."
+      },
+      {
+        "ar": "عينه حمرا من السهر",
+        "tr": "3ēna 7amra min is-sahar",
+        "en": "His eye is red from staying up late."
+      }
+    ]
   },
   {
     "ar": "يد",
@@ -972,7 +1934,20 @@
     "ex_ar": "اغسل يدّيك قبل الماكلة.",
     "ex_tr": "ighsil yiddēk gabl il-mākla.",
     "ex_en": "Wash your hands before eating.",
-    "note": "dual يدّين yiddēn (used as plural)."
+    "note": "dual يدّين yiddēn (used as plural).",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "يدي مكسورة",
+        "tr": "yiddi maksūra",
+        "en": "My hand is broken."
+      },
+      {
+        "ar": "عطيني يدك",
+        "tr": "3Tīni yiddik",
+        "en": "Give me your hand."
+      }
+    ]
   },
   {
     "ar": "رجل",
@@ -985,7 +1960,20 @@
     "ex_ar": "رجلي توجع فيا من المشي.",
     "ex_tr": "rijli tūja3 fiyya min il-mashi.",
     "ex_en": "My foot hurts from walking.",
-    "note": "dual رجلين rijlēn. Also كراع kurā3 for 'leg' in Maghrebi speech."
+    "note": "dual رجلين rijlēn. Also كراع kurā3 for 'leg' in Maghrebi speech.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "مشيت على رجلي",
+        "tr": "mshēt 3ala rijli",
+        "en": "I went on foot."
+      },
+      {
+        "ar": "رجليه باردين",
+        "tr": "rijlēh bārdīn",
+        "en": "His feet are cold."
+      }
+    ]
   },
   {
     "ar": "قلب",
@@ -998,7 +1986,20 @@
     "ex_ar": "قلبه طيب.",
     "ex_tr": "galbah Tayyib.",
     "ex_en": "He's kind-hearted.",
-    "note": "pl. قلوب glūb. ق pronounced g."
+    "note": "pl. قلوب glūb. ق pronounced g.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "من كل قلبي",
+        "tr": "min kull galbi",
+        "en": "with all my heart"
+      },
+      {
+        "ar": "قلبي معاك",
+        "tr": "galbi m3āk",
+        "en": "My heart is with you."
+      }
+    ]
   },
   {
     "ar": "شعر",
@@ -1011,7 +2012,20 @@
     "ex_ar": "شعرها طويل وأكحل.",
     "ex_tr": "sha3rha Twīl w ak7al.",
     "ex_en": "Her hair is long and black.",
-    "note": "Collective; one hair = شعرة sha3ra. أكحل ak7al = black (Libyan)."
+    "note": "Collective; one hair = شعرة sha3ra. أكحل ak7al = black (Libyan).",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "بنقص شعري بكرة",
+        "tr": "bangiSS sha3ri bukra",
+        "en": "I'll get my hair cut tomorrow."
+      },
+      {
+        "ar": "شعره ولّى أبيض",
+        "tr": "sha3ra walla abyaD",
+        "en": "His hair has turned white."
+      }
+    ]
   },
   {
     "ar": "فم",
@@ -1024,7 +2038,20 @@
     "ex_ar": "سكّر فمك وانت تاكل.",
     "ex_tr": "sakkir fummak w inta tākil.",
     "ex_en": "Close your mouth while you eat.",
-    "note": "pl. أفواه afwāh."
+    "note": "pl. أفواه afwāh.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "حل فمك",
+        "tr": "7ill fummik",
+        "en": "Open your mouth."
+      },
+      {
+        "ar": "الكلمة في فمي",
+        "tr": "il-kilma fi fummi",
+        "en": "The word is on the tip of my tongue."
+      }
+    ]
   },
   {
     "ar": "سنة",
@@ -1037,7 +2064,20 @@
     "ex_ar": "عندي سنة توجع فيا.",
     "ex_tr": "3andi sinna tūja3 fiyya.",
     "ex_en": "I have a tooth that hurts.",
-    "note": "pl. سنون snūn / أسنان asnān."
+    "note": "pl. سنون snūn / أسنان asnān.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "سنّي طاحت",
+        "tr": "sinni Ta7at",
+        "en": "My tooth fell out."
+      },
+      {
+        "ar": "غسّل سنونك قبل ما ترقد",
+        "tr": "ghassil snūnik gabl ma tirgud",
+        "en": "Brush your teeth before you sleep."
+      }
+    ]
   },
   {
     "ar": "ضرس",
@@ -1050,7 +2090,20 @@
     "ex_ar": "ضرس العقل طلع.",
     "ex_tr": "Dirs il-3agl Tla3.",
     "ex_en": "My wisdom tooth came through.",
-    "note": "pl. ضروس Drūs."
+    "note": "pl. ضروس Drūs.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "ضرسي يوجع فيا",
+        "tr": "Dirsi yūja3 fiyya",
+        "en": "My molar hurts."
+      },
+      {
+        "ar": "نحّى ضرسين عند الطبيب",
+        "tr": "na77a Dirsēn 3ind iT-Tbīb",
+        "en": "He had two molars pulled at the dentist."
+      }
+    ]
   },
   {
     "ar": "خشم",
@@ -1063,7 +2116,20 @@
     "ex_ar": "خشمي مسكّر من البرد.",
     "ex_tr": "khashmi msakkar min il-bard.",
     "ex_en": "My nose is blocked from the cold.",
-    "note": "pl. خشوم khshūm. Libyan word; MSA أنف is not used in daily speech."
+    "note": "pl. خشوم khshūm. Libyan word; MSA أنف is not used in daily speech.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "خشمه طويل",
+        "tr": "khashma Twīl",
+        "en": "He has a long nose."
+      },
+      {
+        "ar": "خشمي يجري من الزكام",
+        "tr": "khashmi yijri min iz-zukām",
+        "en": "My nose is running from the cold."
+      }
+    ]
   },
   {
     "ar": "وذن",
@@ -1076,7 +2142,20 @@
     "ex_ar": "وذني توجع فيا.",
     "ex_tr": "widhni tūja3 fiyya.",
     "ex_en": "My ear hurts.",
-    "note": "dual وذنين widhnēn; pl. وذان wdhān."
+    "note": "dual وذنين widhnēn; pl. وذان wdhān.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "ما تسمعش بوذنك؟",
+        "tr": "ma tisma3sh b-widhnik?",
+        "en": "Can't you hear with your ears?"
+      },
+      {
+        "ar": "حط الحلق في وذنها",
+        "tr": "7aTT il-7lag fi widhnha",
+        "en": "He put the earring in her ear."
+      }
+    ]
   },
   {
     "ar": "وجه",
@@ -1089,7 +2168,20 @@
     "ex_ar": "اغسل وجهك وتعال.",
     "ex_tr": "ighsil wijhak w ta3āl.",
     "ex_en": "Wash your face and come.",
-    "note": "pl. وجوه wjūh."
+    "note": "pl. وجوه wjūh.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "وجهه أصفر، مريض",
+        "tr": "wijha aSfar, mrīD",
+        "en": "His face is pale, he's ill."
+      },
+      {
+        "ar": "في وجهي ما قالش حاجة",
+        "tr": "fi wijhi ma gālsh 7āja",
+        "en": "To my face he said nothing."
+      }
+    ]
   },
   {
     "ar": "لسان",
@@ -1102,7 +2194,20 @@
     "ex_ar": "لسانه طويل.",
     "ex_tr": "lsānah Twīl.",
     "ex_en": "He has a sharp tongue (lit. long tongue).",
-    "note": "pl. ألسنة alsina."
+    "note": "pl. ألسنة alsina.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "عضيت لساني",
+        "tr": "3aDDēt lsāni",
+        "en": "I bit my tongue."
+      },
+      {
+        "ar": "اللسان ما فيهش عظم",
+        "tr": "il-lsān ma fīhsh 3aDHm",
+        "en": "The tongue has no bone (watch your words)."
+      }
+    ]
   },
   {
     "ar": "شفة",
@@ -1115,7 +2220,20 @@
     "ex_ar": "شفايفي مشققين من البرد.",
     "ex_tr": "shfāyfi mshaggagīn min il-bard.",
     "ex_en": "My lips are chapped from the cold.",
-    "note": "pl. شفايف shfāyif."
+    "note": "pl. شفايف shfāyif.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "شفتها مجروحة",
+        "tr": "shiffatha majrū7a",
+        "en": "Her lip is cut."
+      },
+      {
+        "ar": "حطت أحمر على شفايفها",
+        "tr": "7aTTat a7mar 3ala shfāyifha",
+        "en": "She put lipstick on her lips."
+      }
+    ]
   },
   {
     "ar": "خد",
@@ -1128,7 +2246,20 @@
     "ex_ar": "باستها على خدها.",
     "ex_tr": "bāsitha 3ala khaddha.",
     "ex_en": "She kissed her on the cheek.",
-    "note": "pl. خدود khdūd."
+    "note": "pl. خدود khdūd.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "خده أحمر من البرد",
+        "tr": "khadda a7mar min il-bard",
+        "en": "His cheek is red from the cold."
+      },
+      {
+        "ar": "بوستين على الخد",
+        "tr": "bōstēn 3ala l-khadd",
+        "en": "two kisses on the cheek"
+      }
+    ]
   },
   {
     "ar": "جبهة",
@@ -1141,7 +2272,20 @@
     "ex_ar": "حط يدك على جبهته، سخون.",
     "ex_tr": "7uTT yiddak 3ala jabhtah, skhūn.",
     "ex_en": "Put your hand on his forehead, he's hot.",
-    "note": "pl. جباه jbāh."
+    "note": "pl. جباه jbāh.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "عرق على جبهته",
+        "tr": "3arag 3ala jabhta",
+        "en": "sweat on his forehead"
+      },
+      {
+        "ar": "ضرب جبهته في الباب",
+        "tr": "Darab jabhta fi l-bāb",
+        "en": "He hit his forehead on the door."
+      }
+    ]
   },
   {
     "ar": "حاجب",
@@ -1154,7 +2298,20 @@
     "ex_ar": "حواجبها رقاق.",
     "ex_tr": "7wājibha rgāg.",
     "ex_en": "Her eyebrows are thin.",
-    "note": "pl. حواجب 7wājib."
+    "note": "pl. حواجب 7wājib.",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "رفع حواجبه",
+        "tr": "rfa3 7wājba",
+        "en": "He raised his eyebrows."
+      },
+      {
+        "ar": "حاجبه مقسوم",
+        "tr": "7ājba magsūm",
+        "en": "His eyebrow has a split in it."
+      }
+    ]
   },
   {
     "ar": "رمش",
@@ -1167,7 +2324,20 @@
     "ex_ar": "رموشه طوال.",
     "ex_tr": "rmūshah Twāl.",
     "ex_en": "His eyelashes are long.",
-    "note": "pl. رموش rmūsh."
+    "note": "pl. رموش rmūsh.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "طاح رمش في عيني",
+        "tr": "Ta7 rimsh fi 3ēni",
+        "en": "An eyelash fell in my eye."
+      },
+      {
+        "ar": "رموشها كحلين",
+        "tr": "rmūshha ku7līn",
+        "en": "Her eyelashes are dark."
+      }
+    ]
   },
   {
     "ar": "لحية",
@@ -1180,7 +2350,20 @@
     "ex_ar": "بوي عنده لحية بيضا.",
     "ex_tr": "būy 3andah la7ya bēDa.",
     "ex_en": "My father has a white beard.",
-    "note": "pl. لحى li7a."
+    "note": "pl. لحى li7a.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "حلق لحيته",
+        "tr": "7lag la7yta",
+        "en": "He shaved his beard."
+      },
+      {
+        "ar": "خلّى لحية طويلة",
+        "tr": "khalla la7ya Twīla",
+        "en": "He grew a long beard."
+      }
+    ]
   },
   {
     "ar": "شوارب",
@@ -1193,7 +2376,20 @@
     "ex_ar": "خلّى شوارب كيف جده.",
     "ex_tr": "khalla shwārib kīf jiddah.",
     "ex_en": "He grew a moustache like his grandfather.",
-    "note": "sg. شارب shārib; the plural is used for one moustache."
+    "note": "sg. شارب shārib; the plural is used for one moustache.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "شواربه بيض",
+        "tr": "shwārba bīD",
+        "en": "His moustache is white."
+      },
+      {
+        "ar": "حلق شواربه",
+        "tr": "7lag shwārba",
+        "en": "He shaved off his moustache."
+      }
+    ]
   },
   {
     "ar": "رقبة",
@@ -1206,7 +2402,20 @@
     "ex_ar": "رقبتي توجع فيا من المخدة.",
     "ex_tr": "rugbti tūja3 fiyya min il-mkhadda.",
     "ex_en": "My neck hurts from the pillow.",
-    "note": "pl. رقاب rgāb."
+    "note": "pl. رقاب rgāb.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "رقبتي ما تدورش",
+        "tr": "rugubti ma tdūrsh",
+        "en": "My neck won't turn."
+      },
+      {
+        "ar": "لف الشال على رقبتك",
+        "tr": "liff ish-shāl 3ala rugubtik",
+        "en": "Wrap the scarf around your neck."
+      }
+    ]
   },
   {
     "ar": "حلق",
@@ -1219,7 +2428,20 @@
     "ex_ar": "حلقي يحرق فيا.",
     "ex_tr": "7algi y7rig fiyya.",
     "ex_en": "My throat is burning.",
-    "note": "pl. حلوق 7lūg."
+    "note": "pl. حلوق 7lūg.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "حلقي ناشف",
+        "tr": "7algi nāshif",
+        "en": "My throat is dry."
+      },
+      {
+        "ar": "عنده التهاب في الحلق",
+        "tr": "3anda iltihāb fi l-7alg",
+        "en": "He has a throat infection."
+      }
+    ]
   },
   {
     "ar": "كتف",
@@ -1232,7 +2454,20 @@
     "ex_ar": "شيلت الشنطة على كتفي.",
     "ex_tr": "shayyalt ish-shanTa 3ala ktifi.",
     "ex_en": "I carried the bag on my shoulder.",
-    "note": "pl. كتاف ktāf."
+    "note": "pl. كتاف ktāf.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "كتفي يوجع فيا",
+        "tr": "ktifi yūja3 fiyya",
+        "en": "My shoulder hurts."
+      },
+      {
+        "ar": "حط يده على كتفي",
+        "tr": "7aTT yidda 3ala ktifi",
+        "en": "He put his hand on my shoulder."
+      }
+    ]
   },
   {
     "ar": "ذراع",
@@ -1245,7 +2480,20 @@
     "ex_ar": "تكسر ذراعه في الماتش.",
     "ex_tr": "tkassar dhrā3ah fi l-mātsh.",
     "ex_en": "He broke his arm in the match.",
-    "note": "pl. ذرعان dhir3ān."
+    "note": "pl. ذرعان dhir3ān.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "ذراعه قوي",
+        "tr": "dhrā3a gwi",
+        "en": "His arm is strong."
+      },
+      {
+        "ar": "شمّر على ذراعيك",
+        "tr": "shammir 3ala dhrā3ēk",
+        "en": "Roll up your sleeves."
+      }
+    ]
   },
   {
     "ar": "كوع",
@@ -1258,7 +2506,20 @@
     "ex_ar": "ضربت كوعي في الباب.",
     "ex_tr": "Darabt kū3i fi l-bāb.",
     "ex_en": "I hit my elbow on the door.",
-    "note": "pl. كيعان kī3ān."
+    "note": "pl. كيعان kī3ān.",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "تجرح كوعه",
+        "tr": "tjarra7 kū3a",
+        "en": "He scraped his elbow."
+      },
+      {
+        "ar": "ما تحطش كوعك على الطاولة",
+        "tr": "ma t7uTTsh kū3ik 3ala T-Tāwla",
+        "en": "Don't put your elbow on the table."
+      }
+    ]
   },
   {
     "ar": "صبع",
@@ -1271,7 +2532,20 @@
     "ex_ar": "تجرح صبعي بالسكينة.",
     "ex_tr": "tjarra7 Sba3i bi s-sikkīna.",
     "ex_en": "I cut my finger with the knife.",
-    "note": "pl. صوابع Swāba3."
+    "note": "pl. صوابع Swāba3.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "صبعي مجروح",
+        "tr": "Sub3i majrū7",
+        "en": "My finger is cut."
+      },
+      {
+        "ar": "عدّ على صوابعك",
+        "tr": "3idd 3ala Swāb3ik",
+        "en": "Count on your fingers."
+      }
+    ]
   },
   {
     "ar": "ظفر",
@@ -1284,7 +2558,20 @@
     "ex_ar": "قص ظوافرك.",
     "ex_tr": "guSS DHwāfrak.",
     "ex_en": "Cut your nails.",
-    "note": "pl. ظوافر DHwāfir."
+    "note": "pl. ظوافر DHwāfir.",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "ظفري تكسر",
+        "tr": "DHifri tkassar",
+        "en": "My fingernail broke."
+      },
+      {
+        "ar": "ما تاكلش في ظوافرك",
+        "tr": "ma tāklsh fi DHwāfrik",
+        "en": "Don't bite your nails."
+      }
+    ]
   },
   {
     "ar": "ظهر",
@@ -1297,7 +2584,20 @@
     "ex_ar": "ظهري يوجع فيا من الخدمة.",
     "ex_tr": "DHahri yūja3 fiyya min il-khidma.",
     "ex_en": "My back hurts from work.",
-    "note": "pl. ظهور DHhūr."
+    "note": "pl. ظهور DHhūr.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "ارقد على ظهرك",
+        "tr": "urgud 3ala DHahrik",
+        "en": "Lie on your back."
+      },
+      {
+        "ar": "شيلته على ظهري",
+        "tr": "shayyalta 3ala DHahri",
+        "en": "I carried him on my back."
+      }
+    ]
   },
   {
     "ar": "صدر",
@@ -1310,7 +2610,20 @@
     "ex_ar": "عنده وجع في صدره.",
     "ex_tr": "3andah wja3 fi Sadrah.",
     "ex_en": "He has a pain in his chest.",
-    "note": "pl. صدور Sdūr."
+    "note": "pl. صدور Sdūr.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "صدري مسكّر",
+        "tr": "Sadri msakkar",
+        "en": "My chest is congested."
+      },
+      {
+        "ar": "حط يده على صدره",
+        "tr": "7aTT yidda 3ala Sadra",
+        "en": "He put his hand on his chest."
+      }
+    ]
   },
   {
     "ar": "كرش",
@@ -1323,7 +2636,20 @@
     "ex_ar": "كرشي يوجع فيا، كليت ياسر.",
     "ex_tr": "karshi yūja3 fiyya, klēt yāsir.",
     "ex_en": "My stomach hurts, I ate too much.",
-    "note": "pl. كروش krūsh. The everyday Libyan word for tummy."
+    "note": "pl. كروش krūsh. The everyday Libyan word for tummy.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "كرشي شبعان",
+        "tr": "karshi shab3ān",
+        "en": "My belly is full."
+      },
+      {
+        "ar": "كرشه كبيرة",
+        "tr": "karsha kbīra",
+        "en": "He has a big belly."
+      }
+    ]
   },
   {
     "ar": "معدة",
@@ -1336,7 +2662,20 @@
     "ex_ar": "عنده مشكلة في المعدة.",
     "ex_tr": "3andah mushkla fi l-mi3da.",
     "ex_en": "He has a stomach problem.",
-    "note": "More medical/formal than كرش karsh."
+    "note": "More medical/formal than كرش karsh.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "معدتي تعبانة",
+        "tr": "mi3dti ta3bāna",
+        "en": "My stomach is upset."
+      },
+      {
+        "ar": "الماكلة الحارة تضر المعدة",
+        "tr": "il-mākla l-7ārra tDurr il-mi3da",
+        "en": "Spicy food is bad for the stomach."
+      }
+    ]
   },
   {
     "ar": "بطن",
@@ -1349,7 +2688,20 @@
     "ex_ar": "نام على بطنه.",
     "ex_tr": "nām 3ala baTnah.",
     "ex_en": "He slept on his stomach.",
-    "note": "pl. بطون bTūn."
+    "note": "pl. بطون bTūn.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "وجع في البطن",
+        "tr": "wja3 fi l-baTn",
+        "en": "a pain in the abdomen"
+      },
+      {
+        "ar": "طفى على بطنه في البحر",
+        "tr": "Tfa 3ala baTna fi l-ba7r",
+        "en": "He floated on his belly in the sea."
+      }
+    ]
   },
   {
     "ar": "سرة",
@@ -1362,7 +2714,20 @@
     "ex_ar": "البيبي سرته مازالت ما طاحتش.",
     "ex_tr": "il-bēbi Surrtah māzālat ma Tā7atsh.",
     "ex_en": "The baby's navel stump hasn't fallen off yet.",
-    "note": "pl. سرر Surar."
+    "note": "pl. سرر Surar.",
+    "usage": 22,
+    "phrases": [
+      {
+        "ar": "سرة البيبي",
+        "tr": "Surrat il-bēbi",
+        "en": "the baby's belly button"
+      },
+      {
+        "ar": "الوجع حدا السرة",
+        "tr": "il-wja3 7da S-Surra",
+        "en": "The pain is near the navel."
+      }
+    ]
   },
   {
     "ar": "ركبة",
@@ -1375,7 +2740,20 @@
     "ex_ar": "طحت وتجرحت ركبتي.",
     "ex_tr": "Ti7t u tjarr7at rukbti.",
     "ex_en": "I fell and grazed my knee.",
-    "note": "pl. ركب rukab."
+    "note": "pl. ركب rukab.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "ركبتي توجع فيا كي نطلع الدروج",
+        "tr": "rukubti tūja3 fiyya kī nuTla3 id-drūj",
+        "en": "My knee hurts when I climb the stairs."
+      },
+      {
+        "ar": "عمل عملية في ركبته",
+        "tr": "3mal 3amaliyya fi rukubta",
+        "en": "He had knee surgery."
+      }
+    ]
   },
   {
     "ar": "فخذ",
@@ -1388,7 +2766,20 @@
     "ex_ar": "عنده تمزق في الفخذ.",
     "ex_tr": "3andah tamazzug fi l-fkhadh.",
     "ex_en": "He has a torn thigh muscle.",
-    "note": "pl. فخاذ fkhādh."
+    "note": "pl. فخاذ fkhādh.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "ضربة في الفخذ",
+        "tr": "Darba fi l-fkhadh",
+        "en": "a blow to the thigh"
+      },
+      {
+        "ar": "فخذ الدجاجة",
+        "tr": "fkhadh id-djāja",
+        "en": "the chicken thigh"
+      }
+    ]
   },
   {
     "ar": "كعب",
@@ -1401,7 +2792,20 @@
     "ex_ar": "كعبي يوجع فيا من الصباط الجديد.",
     "ex_tr": "ka3bi yūja3 fiyya min iS-SabbāT il-jdīd.",
     "ex_en": "My heel hurts from the new shoes.",
-    "note": "pl. كعوب k3ūb. Also 'heel of a shoe'."
+    "note": "pl. كعوب k3ūb. Also 'heel of a shoe'.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "كعب الصباط",
+        "tr": "ka3b iS-SabbāT",
+        "en": "the heel of the shoe"
+      },
+      {
+        "ar": "كعبها مشقق",
+        "tr": "ka3bha mshaggag",
+        "en": "Her heel is cracked."
+      }
+    ]
   },
   {
     "ar": "جسم",
@@ -1414,7 +2818,20 @@
     "ex_ar": "لازم تحافظ على جسمك.",
     "ex_tr": "lāzim t7āfiDH 3ala jismak.",
     "ex_en": "You need to look after your body.",
-    "note": "pl. أجسام ajsām."
+    "note": "pl. أجسام ajsām.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "جسمي كله يوجع فيا",
+        "tr": "jismi kulla yūja3 fiyya",
+        "en": "My whole body aches."
+      },
+      {
+        "ar": "جسمه رياضي",
+        "tr": "jisma riyāDi",
+        "en": "He has an athletic body."
+      }
+    ]
   },
   {
     "ar": "جلد",
@@ -1427,7 +2844,20 @@
     "ex_ar": "جلدي ناشف في الشتا.",
     "ex_tr": "jildi nāshif fi sh-shta.",
     "ex_en": "My skin is dry in winter.",
-    "note": "pl. جلود jlūd."
+    "note": "pl. جلود jlūd.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "جاكيتة جلد",
+        "tr": "jākēta jild",
+        "en": "a leather jacket"
+      },
+      {
+        "ar": "جلده أبيض، يتحرق في الشمس",
+        "tr": "jilda abyaD, yit7arrag fi sh-shams",
+        "en": "He has fair skin, he burns in the sun."
+      }
+    ]
   },
   {
     "ar": "دم",
@@ -1440,7 +2870,20 @@
     "ex_ar": "طلع منه دم من خشمه.",
     "ex_tr": "Tla3 minnah damm min khashmah.",
     "ex_en": "Blood came out of his nose.",
-    "note": "pl. دماء dimā'."
+    "note": "pl. دماء dimā'.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "تحليل دم",
+        "tr": "ta7līl damm",
+        "en": "a blood test"
+      },
+      {
+        "ar": "عطا دم في السبيطار",
+        "tr": "3Ta damm fi s-sbīTār",
+        "en": "He donated blood at the hospital."
+      }
+    ]
   },
   {
     "ar": "عظم",
@@ -1453,7 +2896,20 @@
     "ex_ar": "تكسر عظم في رجله.",
     "ex_tr": "tkassar 3aDHm fi rijlah.",
     "ex_en": "A bone in his leg broke.",
-    "note": "pl. عظام 3DHām; one bone = عظمة 3aDHma."
+    "note": "pl. عظام 3DHām; one bone = عظمة 3aDHma.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "العظم مكسور",
+        "tr": "il-3aDHm maksūr",
+        "en": "The bone is broken."
+      },
+      {
+        "ar": "عطي العظم للكلب",
+        "tr": "3Ti l-3aDHm lil-kalb",
+        "en": "Give the bone to the dog."
+      }
+    ]
   },
   {
     "ar": "مخ",
@@ -1466,7 +2922,20 @@
     "ex_ar": "استعمل مخك!",
     "ex_tr": "ista3mil mukhkhak!",
     "ex_en": "Use your brain!",
-    "note": "pl. مخاخ mkhākh."
+    "note": "pl. مخاخ mkhākh.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "مخي ما عادش يخدم",
+        "tr": "mukhkhi ma 3ādsh yikhdim",
+        "en": "My brain has stopped working."
+      },
+      {
+        "ar": "عنده مخ كبير",
+        "tr": "3anda mukh kbīr",
+        "en": "He's really smart (has a big brain)."
+      }
+    ]
   },
   {
     "ar": "كبدة",
@@ -1479,7 +2948,20 @@
     "ex_ar": "عنده مرض في الكبدة.",
     "ex_tr": "3andah marD fi l-kibda.",
     "ex_en": "He has a liver disease.",
-    "note": "Also used affectionately: يا كبدتي yā kibdti 'my darling'."
+    "note": "Also used affectionately: يا كبدتي yā kibdti 'my darling'.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "كبدة مشوية",
+        "tr": "kibda mashwiyya",
+        "en": "grilled liver"
+      },
+      {
+        "ar": "الكبدة تعبانة من الدوا",
+        "tr": "il-kibda ta3bāna min id-dwa",
+        "en": "The liver is strained by the medicine."
+      }
+    ]
   },
   {
     "ar": "كلوة",
@@ -1492,7 +2974,20 @@
     "ex_ar": "عمل عملية في الكلوة.",
     "ex_tr": "3mal 3amaliyya fi l-kilwa.",
     "ex_en": "He had a kidney operation.",
-    "note": "pl. كلاوي klāwi."
+    "note": "pl. كلاوي klāwi.",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "عنده حصوة في الكلوة",
+        "tr": "3anda 7aSwa fi l-kilwa",
+        "en": "He has a kidney stone."
+      },
+      {
+        "ar": "تبرع بكلوة لخوه",
+        "tr": "tbarra3 b-kilwa l-khūh",
+        "en": "He donated a kidney to his brother."
+      }
+    ]
   },
   {
     "ar": "رية",
@@ -1505,7 +3000,20 @@
     "ex_ar": "الدخان يضر الرية.",
     "ex_tr": "id-dukhkhān yDurr ir-riyya.",
     "ex_en": "Smoking harms the lungs.",
-    "note": "pl. ريات riyyāt."
+    "note": "pl. ريات riyyāt.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "عنده مشكلة في الرية",
+        "tr": "3anda mushkila fi r-riyya",
+        "en": "He has a lung problem."
+      },
+      {
+        "ar": "صورة الرية",
+        "tr": "Sūrat ir-riyya",
+        "en": "a chest (lung) X-ray"
+      }
+    ]
   },
   {
     "ar": "مصارين",
@@ -1518,7 +3026,20 @@
     "ex_ar": "عنده التهاب في المصارين.",
     "ex_tr": "3andah iltihāb fi l-mSārīn.",
     "ex_en": "He has an intestinal inflammation.",
-    "note": "sg. مصران muSrān."
+    "note": "sg. مصران muSrān.",
+    "usage": 22,
+    "phrases": [
+      {
+        "ar": "مصاريني تقرقر",
+        "tr": "mSārīni tgargir",
+        "en": "My guts are rumbling."
+      },
+      {
+        "ar": "وجع في المصارين",
+        "tr": "wja3 fi l-mSārīn",
+        "en": "a pain in the guts"
+      }
+    ]
   },
   {
     "ar": "دموع",
@@ -1531,7 +3052,20 @@
     "ex_ar": "شفت الدموع في عينيه.",
     "ex_tr": "shift id-dmū3 fi 3aynēh.",
     "ex_en": "I saw tears in his eyes.",
-    "note": "sg. دمعة dam3a."
+    "note": "sg. دمعة dam3a.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الدموع في عينيها",
+        "tr": "id-dmū3 fi 3ēnēha",
+        "en": "tears in her eyes"
+      },
+      {
+        "ar": "مسح دموعه",
+        "tr": "msa7 dmū3a",
+        "en": "He wiped his tears."
+      }
+    ]
   },
   {
     "ar": "ساق",
@@ -1544,7 +3078,20 @@
     "ex_ar": "عنده كدمة على الساق.",
     "ex_tr": "3andah kadma 3ala s-sāg.",
     "ex_en": "He has a bruise on his shin.",
-    "note": "pl. سيقان sīgān."
+    "note": "pl. سيقان sīgān.",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "ساقه مكسورة",
+        "tr": "sāga maksūra",
+        "en": "His shin is broken."
+      },
+      {
+        "ar": "ضربه على الساق",
+        "tr": "Darba 3ala s-sāg",
+        "en": "He kicked him on the shin."
+      }
+    ]
   },
   {
     "ar": "كف",
@@ -1557,7 +3104,20 @@
     "ex_ar": "قرات كفه.",
     "ex_tr": "garāt kaffah.",
     "ex_en": "She read his palm.",
-    "note": "pl. كفوف kfūf. Also 'slap': عطاه كف = he slapped him."
+    "note": "pl. كفوف kfūf. Also 'slap': عطاه كف = he slapped him.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "كف يده",
+        "tr": "kaff yidda",
+        "en": "the palm of his hand"
+      },
+      {
+        "ar": "كفوفي عرقانين",
+        "tr": "kfūfi 3argānīn",
+        "en": "My palms are sweaty."
+      }
+    ]
   },
   {
     "ar": "دكتور",
@@ -1570,7 +3130,20 @@
     "ex_ar": "لازم تمشي للدكتور اليوم.",
     "ex_tr": "lāzim timshi li d-doktōr il-yōm.",
     "ex_en": "You need to go to the doctor today.",
-    "note": "pl. دكاترة dakātra. Fem. دكتورة doktōra. The everyday word; طبيب Tbīb is more formal."
+    "note": "pl. دكاترة dakātra. Fem. دكتورة doktōra. The everyday word; طبيب Tbīb is more formal.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "لازمك تشوف دكتور",
+        "tr": "lāzmik tshūf doktōr",
+        "en": "You need to see a doctor."
+      },
+      {
+        "ar": "الدكتور قال ما فيه شي",
+        "tr": "id-doktōr gāl ma fīh shay",
+        "en": "The doctor said there's nothing wrong."
+      }
+    ]
   },
   {
     "ar": "طبيب",
@@ -1583,7 +3156,20 @@
     "ex_ar": "الطبيب قالّي ارتاح جمعة.",
     "ex_tr": "iT-Tbīb gālli rtā7 jum3a.",
     "ex_en": "The physician told me to rest for a week.",
-    "note": "pl. أطباء aTibbā'. جمعة jum3a = week (Libyan)."
+    "note": "pl. أطباء aTibbā'. جمعة jum3a = week (Libyan).",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "طبيب عيون",
+        "tr": "Tbīb 3yūn",
+        "en": "an eye doctor"
+      },
+      {
+        "ar": "خوه طبيب في مصراتة",
+        "tr": "khūh Tbīb fi maSrāta",
+        "en": "His brother is a doctor in Misrata."
+      }
+    ]
   },
   {
     "ar": "دوا",
@@ -1596,7 +3182,20 @@
     "ex_ar": "خوذ الدوا بعد الماكلة.",
     "ex_tr": "khūdh id-dwa ba3d il-mākla.",
     "ex_en": "Take the medicine after eating.",
-    "note": "pl. أدوية adwiya."
+    "note": "pl. أدوية adwiya.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "الدوا هذا مر",
+        "tr": "id-dwa hādha murr",
+        "en": "This medicine is bitter."
+      },
+      {
+        "ar": "مشيت نشري دوا",
+        "tr": "mshēt nishri dwa",
+        "en": "I went to buy medicine."
+      }
+    ]
   },
   {
     "ar": "صيدلية",
@@ -1609,7 +3208,20 @@
     "ex_ar": "فيه صيدلية مفتوحة الليلة؟",
     "ex_tr": "fīh Saydaliyya maftū7a l-lēla?",
     "ex_en": "Is there a pharmacy open tonight?",
-    "note": "pl. صيدليات Saydaliyyāt."
+    "note": "pl. صيدليات Saydaliyyāt.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "الصيدلية قريبة من هني",
+        "tr": "iS-Saydaliyya grība min hni",
+        "en": "The pharmacy is near here."
+      },
+      {
+        "ar": "شريت الحبوب من الصيدلية",
+        "tr": "shrēt il-7būb min iS-Saydaliyya",
+        "en": "I bought the pills from the pharmacy."
+      }
+    ]
   },
   {
     "ar": "سبيطار",
@@ -1622,7 +3234,20 @@
     "ex_ar": "خدوه للسبيطار بالإسعاف.",
     "ex_tr": "khdūh li s-sbīTār bi l-is3āf.",
     "ex_en": "They took him to the hospital by ambulance.",
-    "note": "From Italian ospedale (via Maghrebi). pl. سبيطارات sbīTārāt. مستشفى mustashfa is also used."
+    "note": "From Italian ospedale (via Maghrebi). pl. سبيطارات sbīTārāt. مستشفى mustashfa is also used.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "هو راقد في السبيطار",
+        "tr": "huwwa rāgid fi s-sbīTār",
+        "en": "He's in hospital."
+      },
+      {
+        "ar": "مشينا للسبيطار نزوروه",
+        "tr": "mshēna lis-sbīTār nzūrūh",
+        "en": "We went to the hospital to visit him."
+      }
+    ]
   },
   {
     "ar": "مستشفى",
@@ -1635,7 +3260,20 @@
     "ex_ar": "مستشفى طرابلس المركزي كبير.",
     "ex_tr": "mustashfa Trāblus il-markazi kbīr.",
     "ex_en": "Tripoli Central Hospital is big.",
-    "note": "pl. مستشفيات mustashfayāt. Used in official names."
+    "note": "pl. مستشفيات mustashfayāt. Used in official names.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "خدّام في المستشفى",
+        "tr": "khaddām fi l-mustashfa",
+        "en": "He works at the hospital."
+      },
+      {
+        "ar": "المستشفى الخاص غالي",
+        "tr": "il-mustashfa l-khāSS ghāli",
+        "en": "The private hospital is expensive."
+      }
+    ]
   },
   {
     "ar": "عيادة",
@@ -1648,7 +3286,20 @@
     "ex_ar": "العيادة تفتح الساعة تسعة.",
     "ex_tr": "il-3yāda tifta7 is-sā3a tis3a.",
     "ex_en": "The clinic opens at nine.",
-    "note": "pl. عيادات 3yādāt. Private clinics are very common in Libya."
+    "note": "pl. عيادات 3yādāt. Private clinics are very common in Libya.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "عيادة أسنان",
+        "tr": "3yādat asnān",
+        "en": "a dental clinic"
+      },
+      {
+        "ar": "الدكتور في العيادة توا",
+        "tr": "id-doktōr fi l-3yāda tawwa",
+        "en": "The doctor is at the clinic now."
+      }
+    ]
   },
   {
     "ar": "سخانة",
@@ -1661,7 +3312,20 @@
     "ex_ar": "الصغير عنده سخانة من البارح.",
     "ex_tr": "iS-Sghīr 3andah skhāna min il-bāri7.",
     "ex_en": "The little one has had a fever since yesterday.",
-    "note": "Libyan/Maghrebi, from سخون skhūn 'hot'. MSA حمّى 7umma."
+    "note": "Libyan/Maghrebi, from سخون skhūn 'hot'. MSA حمّى 7umma.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "عندي سخانة ووجع راس",
+        "tr": "3andi skhāna w wja3 rās",
+        "en": "I have a fever and a headache."
+      },
+      {
+        "ar": "السخانة طاحت الحمد لله",
+        "tr": "is-skhāna Ta7at il-7amdu lillāh",
+        "en": "The fever has gone down, thank God."
+      }
+    ]
   },
   {
     "ar": "زكام",
@@ -1674,7 +3338,20 @@
     "ex_ar": "جاني زكام من البرد.",
     "ex_tr": "jāni zukām min il-bard.",
     "ex_en": "I caught a cold from the chilly weather.",
-    "note": "Also خذاني البرد khdhāni l-bard 'the cold got me'."
+    "note": "Also خذاني البرد khdhāni l-bard 'the cold got me'.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "عندي زكام قوي",
+        "tr": "3andi zukām gwi",
+        "en": "I have a bad cold."
+      },
+      {
+        "ar": "الزكام داير في الصغار",
+        "tr": "iz-zukām dāyir fi S-Sghār",
+        "en": "The cold is going around the kids."
+      }
+    ]
   },
   {
     "ar": "برد",
@@ -1687,7 +3364,20 @@
     "ex_ar": "خوذ بالك لا يجيك البرد.",
     "ex_tr": "khūdh bālak la yjīk il-bard.",
     "ex_en": "Be careful you don't catch a cold.",
-    "note": "Also means 'cold weather'."
+    "note": "Also means 'cold weather'.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "خذيت برد",
+        "tr": "khdhēt bard",
+        "en": "I caught a chill."
+      },
+      {
+        "ar": "البرد ضربه في صدره",
+        "tr": "il-bard Darba fi Sadra",
+        "en": "The cold went to his chest."
+      }
+    ]
   },
   {
     "ar": "كحة",
@@ -1700,7 +3390,20 @@
     "ex_ar": "عنده كحة ما بتش تفوت.",
     "ex_tr": "3andah ku77a ma battish tfūt.",
     "ex_en": "He has a cough that won't go away.",
-    "note": "Verb: يكح yku77."
+    "note": "Verb: يكح yku77.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "الكحة ما خلتنيش نرقد",
+        "tr": "il-ku77a ma khallatnīsh nirgud",
+        "en": "The cough wouldn't let me sleep."
+      },
+      {
+        "ar": "دوا للكحة",
+        "tr": "dwa lil-ku77a",
+        "en": "cough medicine"
+      }
+    ]
   },
   {
     "ar": "وجع",
@@ -1713,7 +3416,20 @@
     "ex_ar": "عندي وجع في ظهري.",
     "ex_tr": "3andi wja3 fi DHahri.",
     "ex_en": "I have a pain in my back.",
-    "note": "pl. أوجاع awjā3. Verb يوجع yūja3: راسي يوجع فيا = my head hurts."
+    "note": "pl. أوجاع awjā3. Verb يوجع yūja3: راسي يوجع فيا = my head hurts.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "الوجع زاد في الليل",
+        "tr": "il-wja3 zād fi l-līl",
+        "en": "The pain got worse at night."
+      },
+      {
+        "ar": "شن فيك؟ وين الوجع؟",
+        "tr": "shin fīk? wīn il-wja3?",
+        "en": "What's wrong? Where's the pain?"
+      }
+    ]
   },
   {
     "ar": "وجع راس",
@@ -1726,7 +3442,20 @@
     "ex_ar": "عندي وجع راس من الحس.",
     "ex_tr": "3andi wja3 rās min il-7iss.",
     "ex_en": "I have a headache from the noise.",
-    "note": "Also صداع Sudā3 (more formal)."
+    "note": "Also صداع Sudā3 (more formal).",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "الحس هذا يعطي وجع راس",
+        "tr": "il-7iss hādha y3Ti wja3 rās",
+        "en": "This noise gives you a headache."
+      },
+      {
+        "ar": "خوذ حبة لوجع الراس",
+        "tr": "khūdh 7abba l-wja3 ir-rās",
+        "en": "Take a pill for the headache."
+      }
+    ]
   },
   {
     "ar": "صداع",
@@ -1739,7 +3468,20 @@
     "ex_ar": "عنده صداع نصفي.",
     "ex_tr": "3andah Sudā3 nuSSi.",
     "ex_en": "He has a migraine.",
-    "note": "صداع نصفي = migraine."
+    "note": "صداع نصفي = migraine.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "الصداع ما فاتنيش",
+        "tr": "iS-Sudā3 ma fātnīsh",
+        "en": "The headache hasn't gone."
+      },
+      {
+        "ar": "عنده صداع من الشمس",
+        "tr": "3anda Sudā3 min ish-shams",
+        "en": "He has a headache from the sun."
+      }
+    ]
   },
   {
     "ar": "جرح",
@@ -1752,7 +3494,20 @@
     "ex_ar": "الجرح هذا لازمه غرز.",
     "ex_tr": "il-jur7 hādha lāzmah ghurz.",
     "ex_en": "This wound needs stitches.",
-    "note": "pl. جروح jrū7."
+    "note": "pl. جروح jrū7.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "الجرح بدا يبرا",
+        "tr": "ij-jur7 bda yibra",
+        "en": "The wound is starting to heal."
+      },
+      {
+        "ar": "نظّف الجرح بالمطهر",
+        "tr": "naDHDHif ij-jur7 bil-muTahhir",
+        "en": "Clean the wound with antiseptic."
+      }
+    ]
   },
   {
     "ar": "إصابة",
@@ -1765,7 +3520,20 @@
     "ex_ar": "الإصابة في ركبته خفيفة.",
     "ex_tr": "il-iSāba fi rukbtah khfīfa.",
     "ex_en": "The injury to his knee is minor.",
-    "note": "pl. إصابات iSābāt."
+    "note": "pl. إصابات iSābāt.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "إصابة في الماتش",
+        "tr": "iSāba fi l-mātsh",
+        "en": "an injury in the match"
+      },
+      {
+        "ar": "الإصابة ماهيش خطيرة",
+        "tr": "il-iSāba māhīsh khaTīra",
+        "en": "The injury isn't serious."
+      }
+    ]
   },
   {
     "ar": "كسر",
@@ -1778,7 +3546,20 @@
     "ex_ar": "عنده كسر في يده.",
     "ex_tr": "3andah kasr fi yiddah.",
     "ex_en": "He has a fracture in his arm.",
-    "note": "pl. كسور ksūr."
+    "note": "pl. كسور ksūr.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "كسر في الرجل",
+        "tr": "kasr fi r-rijl",
+        "en": "a broken leg"
+      },
+      {
+        "ar": "الصورة بيّنت كسر",
+        "tr": "iS-Sūra bayyinat kasr",
+        "en": "The X-ray showed a fracture."
+      }
+    ]
   },
   {
     "ar": "جبس",
@@ -1791,7 +3572,20 @@
     "ex_ar": "حطوله الجبس شهر.",
     "ex_tr": "7aTTūlah il-jibs shahr.",
     "ex_en": "They put a cast on him for a month.",
-    "note": "Lit. 'gypsum'."
+    "note": "Lit. 'gypsum'.",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "رجله في الجبس",
+        "tr": "rijla fi j-jibs",
+        "en": "His leg is in a cast."
+      },
+      {
+        "ar": "بينحّوله الجبس الجمعة الجاية",
+        "tr": "biyna77ūla j-jibs ij-jum3a j-jāya",
+        "en": "They'll take his cast off next week."
+      }
+    ]
   },
   {
     "ar": "مرض",
@@ -1804,7 +3598,20 @@
     "ex_ar": "المرض هذا يعدي.",
     "ex_tr": "il-marD hādha y3addi.",
     "ex_en": "This illness is contagious.",
-    "note": "pl. أمراض amrāD."
+    "note": "pl. أمراض amrāD.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "مرض خطير",
+        "tr": "marD khaTīr",
+        "en": "a serious illness"
+      },
+      {
+        "ar": "المرض ما يعرفش كبير ولا صغير",
+        "tr": "il-marD ma ya3rafsh kbīr wala Sghīr",
+        "en": "Illness spares neither old nor young."
+      }
+    ]
   },
   {
     "ar": "مريض",
@@ -1817,7 +3624,20 @@
     "ex_ar": "المريض يستنّى في الدكتور.",
     "ex_tr": "il-mrīD yistanna fi d-doktōr.",
     "ex_en": "The patient is waiting for the doctor.",
-    "note": "pl. مرضى marDa. Also adjective 'sick'."
+    "note": "pl. مرضى marDa. Also adjective 'sick'.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "أنا مريض اليوم، مش بنمشي للخدمة",
+        "tr": "āna mrīD il-yōm, mush bnimshi lil-khidma",
+        "en": "I'm sick today, I won't go to work."
+      },
+      {
+        "ar": "مشينا نزوروا المريض",
+        "tr": "mshēna nzūru l-mrīD",
+        "en": "We went to visit the sick man."
+      }
+    ]
   },
   {
     "ar": "حبة",
@@ -1830,7 +3650,20 @@
     "ex_ar": "خوذ حبة الصبح وحبة في الليل.",
     "ex_tr": "khūdh 7abba S-Sbā7 w 7abba fi l-lēl.",
     "ex_en": "Take one pill in the morning and one at night.",
-    "note": "pl. حبوب 7būb. Also 'a grain/piece'."
+    "note": "pl. حبوب 7būb. Also 'a grain/piece'.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "حبة وجع راس",
+        "tr": "7abbat wja3 rās",
+        "en": "a headache pill"
+      },
+      {
+        "ar": "خذيت حبتين",
+        "tr": "khdhēt 7abbtēn",
+        "en": "I took two pills."
+      }
+    ]
   },
   {
     "ar": "إبرة",
@@ -1843,7 +3676,20 @@
     "ex_ar": "الصغير يخاف من الإبرة.",
     "ex_tr": "iS-Sghīr ykhāf min il-ibra.",
     "ex_en": "The little one is afraid of injections.",
-    "note": "pl. إبر ibar."
+    "note": "pl. إبر ibar.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "عطاه إبرة في يده",
+        "tr": "3Tāh ibra fi yidda",
+        "en": "He gave him an injection in the arm."
+      },
+      {
+        "ar": "ما تخافش، الإبرة ما توجعش",
+        "tr": "ma tkhāfsh, il-ibra ma tūja3sh",
+        "en": "Don't be scared, the needle doesn't hurt."
+      }
+    ]
   },
   {
     "ar": "تحليل",
@@ -1856,7 +3702,20 @@
     "ex_ar": "الدكتور طلب تحليل دم.",
     "ex_tr": "id-doktōr Tlab ta7līl damm.",
     "ex_en": "The doctor ordered a blood test.",
-    "note": "pl. تحاليل ta7ālīl."
+    "note": "pl. تحاليل ta7ālīl.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "نتيجة التحليل باهية",
+        "tr": "natījat it-ta7līl bāhya",
+        "en": "The test result is good."
+      },
+      {
+        "ar": "لازمك تعمل تحاليل",
+        "tr": "lāzmik ta3mal ta7ālīl",
+        "en": "You need to have some tests done."
+      }
+    ]
   },
   {
     "ar": "ممرضة",
@@ -1869,7 +3728,20 @@
     "ex_ar": "الممرضة عطتني الإبرة.",
     "ex_tr": "il-mumarriDa 3aTatni l-ibra.",
     "ex_en": "The nurse gave me the injection.",
-    "note": "pl. ممرضات. Masc. ممرض mumarriD."
+    "note": "pl. ممرضات. Masc. ممرض mumarriD.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "الممرضة قاست الضغط",
+        "tr": "il-mumarriDa gāsat iD-DaghT",
+        "en": "The nurse took the blood pressure."
+      },
+      {
+        "ar": "أختي تخدم ممرضة",
+        "tr": "ukhti tikhdim mumarriDa",
+        "en": "My sister works as a nurse."
+      }
+    ]
   },
   {
     "ar": "إسعاف",
@@ -1882,7 +3754,20 @@
     "ex_ar": "اطلب الإسعاف بسرعة!",
     "ex_tr": "uTlub il-is3āf bi sur3a!",
     "ex_en": "Call the ambulance quickly!",
-    "note": "سيارة إسعاف = ambulance."
+    "note": "سيارة إسعاف = ambulance.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "الإسعاف وصلت بسرعة",
+        "tr": "il-is3āf wiSlat bsur3a",
+        "en": "The ambulance arrived quickly."
+      },
+      {
+        "ar": "سيارة الإسعاف",
+        "tr": "sayyārat il-is3āf",
+        "en": "the ambulance"
+      }
+    ]
   },
   {
     "ar": "عملية",
@@ -1895,7 +3780,20 @@
     "ex_ar": "بوي دار عملية في القلب.",
     "ex_tr": "būy dār 3amaliyya fi l-galb.",
     "ex_en": "My father had heart surgery.",
-    "note": "pl. عمليات 3amaliyyāt."
+    "note": "pl. عمليات 3amaliyyāt.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "العملية نجحت الحمد لله",
+        "tr": "il-3amaliyya nij7at il-7amdu lillāh",
+        "en": "The operation went well, thank God."
+      },
+      {
+        "ar": "داير عملية في عينه",
+        "tr": "dāyir 3amaliyya fi 3ēna",
+        "en": "He's had an eye operation."
+      }
+    ]
   },
   {
     "ar": "سكر",
@@ -1908,7 +3806,20 @@
     "ex_ar": "جدي عنده السكر.",
     "ex_tr": "jiddi 3andah is-sukkar.",
     "ex_en": "My grandfather has diabetes.",
-    "note": "In speech diabetes is simply السكر 'the sugar'."
+    "note": "In speech diabetes is simply السكر 'the sugar'.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "الشاهي بلا سكر",
+        "tr": "ish-shāhi bla sukkar",
+        "en": "tea without sugar"
+      },
+      {
+        "ar": "خالي مريض بالسكر",
+        "tr": "khāli mrīD bis-sukkar",
+        "en": "My uncle is diabetic."
+      }
+    ]
   },
   {
     "ar": "ضغط",
@@ -1921,7 +3832,20 @@
     "ex_ar": "خالي عنده الضغط، ما ياكلش ملح.",
     "ex_tr": "khāli 3andah iD-DaghT, ma yākilsh mil7.",
     "ex_en": "My uncle has high blood pressure, he doesn't eat salt.",
-    "note": "عنده الضغط = he has hypertension."
+    "note": "عنده الضغط = he has hypertension.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "الضغط طالع عليه",
+        "tr": "iD-DaghT TāliI3 3alēh",
+        "en": "His blood pressure is high."
+      },
+      {
+        "ar": "دوا الضغط",
+        "tr": "dwa D-DaghT",
+        "en": "blood-pressure medicine"
+      }
+    ]
   },
   {
     "ar": "حساسية",
@@ -1934,7 +3858,20 @@
     "ex_ar": "عندي حساسية من الغبرة.",
     "ex_tr": "3andi 7asāsiyya min il-ghabra.",
     "ex_en": "I have a dust allergy.",
-    "note": "pl. حساسيات."
+    "note": "pl. حساسيات.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "عنده حساسية من الحليب",
+        "tr": "3anda 7asāsiyya min il-7līb",
+        "en": "He's allergic to milk."
+      },
+      {
+        "ar": "حساسية الربيع",
+        "tr": "7asāsiyyat ir-rbī3",
+        "en": "spring hay fever"
+      }
+    ]
   },
   {
     "ar": "علاج",
@@ -1947,7 +3884,20 @@
     "ex_ar": "مشى يتعالج برا، العلاج غالي.",
     "ex_tr": "msha yit3ālaj barra, il-3lāj ghāli.",
     "ex_en": "He went abroad for treatment; the treatment is expensive.",
-    "note": "Many Libyans travel to Tunisia for علاج."
+    "note": "Many Libyans travel to Tunisia for علاج.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "العلاج طويل",
+        "tr": "il-3lāj Twīl",
+        "en": "The treatment is long."
+      },
+      {
+        "ar": "لقوله علاج",
+        "tr": "lgūla 3lāj",
+        "en": "They found a cure for him."
+      }
+    ]
   },
   {
     "ar": "صحة",
@@ -1960,7 +3910,20 @@
     "ex_ar": "الصحة أهم حاجة.",
     "ex_tr": "iS-Sa77a ahamm 7āja.",
     "ex_en": "Health is the most important thing.",
-    "note": "صحة! Sa77a = 'bless you / enjoy' (said after eating or a haircut)."
+    "note": "صحة! Sa77a = 'bless you / enjoy' (said after eating or a haircut).",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "صحة! بالشفا",
+        "tr": "Sa77a! bish-shfa",
+        "en": "Enjoy! (said to someone eating/drinking)"
+      },
+      {
+        "ar": "ربي يعطيك الصحة",
+        "tr": "rabbi y3Tīk iS-Sa77a",
+        "en": "God give you health (thanks)."
+      }
+    ]
   },
   {
     "ar": "حرارة",
@@ -1973,7 +3936,20 @@
     "ex_ar": "قيس حرارته، شكله سخون.",
     "ex_tr": "gīs 7arārtah, shaklah skhūn.",
     "ex_en": "Take his temperature, he looks hot.",
-    "note": "Also weather heat."
+    "note": "Also weather heat.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "الحرارة اليوم أربعين",
+        "tr": "il-7arāra l-yōm arb3īn",
+        "en": "It's forty degrees today."
+      },
+      {
+        "ar": "حرارة الصغير طالعة",
+        "tr": "7arārat iS-Sghīr Tāl3a",
+        "en": "The child's temperature is up."
+      }
+    ]
   },
   {
     "ar": "دوخة",
@@ -1986,7 +3962,20 @@
     "ex_ar": "جاتني دوخة وانا واقف.",
     "ex_tr": "jātni dōkha w āna wāgif.",
     "ex_en": "I got dizzy while standing.",
-    "note": "Verb: داخ dākh 'to get dizzy'."
+    "note": "Verb: داخ dākh 'to get dizzy'.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "حسيت بدوخة",
+        "tr": "7assēt b-dōkha",
+        "en": "I felt dizzy."
+      },
+      {
+        "ar": "الدوخة من قلة الماكلة",
+        "tr": "id-dōkha min gillat il-mākla",
+        "en": "The dizziness is from not eating."
+      }
+    ]
   },
   {
     "ar": "إسهال",
@@ -1998,7 +3987,20 @@
     "freq": 4,
     "ex_ar": "الصغير عنده إسهال، اعطيه ما ياسر.",
     "ex_tr": "iS-Sghīr 3andah is-hāl, a3Tīh ma yāsir.",
-    "ex_en": "The little one has diarrhoea, give him lots of water."
+    "ex_en": "The little one has diarrhoea, give him lots of water.",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "دوا للإسهال",
+        "tr": "dwa lil-is-hāl",
+        "en": "medicine for diarrhoea"
+      },
+      {
+        "ar": "جاه إسهال من الماكلة",
+        "tr": "jāh is-hāl min il-mākla",
+        "en": "The food gave him diarrhoea."
+      }
+    ]
   },
   {
     "ar": "حكة",
@@ -2011,7 +4013,20 @@
     "ex_ar": "عندي حكة في يدي.",
     "ex_tr": "3andi 7akka fi yiddi.",
     "ex_en": "I have an itch on my hand.",
-    "note": "Verb: يحك y7ukk."
+    "note": "Verb: يحك y7ukk.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "الحكة زادت في الليل",
+        "tr": "il-7akka zādat fi l-līl",
+        "en": "The itching got worse at night."
+      },
+      {
+        "ar": "كريمة للحكة",
+        "tr": "krēma lil-7akka",
+        "en": "an anti-itch cream"
+      }
+    ]
   },
   {
     "ar": "حرق",
@@ -2024,7 +4039,20 @@
     "ex_ar": "تحرقت يدها في الكوزينة.",
     "ex_tr": "t7argat yiddha fi l-kūzīna.",
     "ex_en": "She burned her hand in the kitchen.",
-    "note": "pl. حروق 7rūg."
+    "note": "pl. حروق 7rūg.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "حرق خفيف",
+        "tr": "7arg khfīf",
+        "en": "a minor burn"
+      },
+      {
+        "ar": "حط ثلج على الحرق",
+        "tr": "7uTT thalj 3ala l-7arg",
+        "en": "Put ice on the burn."
+      }
+    ]
   },
   {
     "ar": "ورم",
@@ -2037,7 +4065,20 @@
     "ex_ar": "فيه ورم في رجله من الضربة.",
     "ex_tr": "fīh waram fi rijlah min iD-Darba.",
     "ex_en": "There's swelling on his foot from the knock.",
-    "note": "pl. أورام awrām."
+    "note": "pl. أورام awrām.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "الورم بدا يخف",
+        "tr": "il-waram bda ykhiff",
+        "en": "The swelling is starting to go down."
+      },
+      {
+        "ar": "عينه فيها ورم",
+        "tr": "3ēna fīha waram",
+        "en": "His eye is swollen."
+      }
+    ]
   },
   {
     "ar": "طبيب أسنان",
@@ -2050,7 +4091,20 @@
     "ex_ar": "عندي موعد مع طبيب الأسنان.",
     "ex_tr": "3andi maw3id ma3 Tbīb il-asnān.",
     "ex_en": "I have an appointment with the dentist.",
-    "note": "Also دكتور سنون doktōr snūn."
+    "note": "Also دكتور سنون doktōr snūn.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "لازمني نمشي لطبيب الأسنان",
+        "tr": "lāzimni nimshi l-Tbīb il-asnān",
+        "en": "I need to go to the dentist."
+      },
+      {
+        "ar": "طبيب الأسنان نحالي الضرس",
+        "tr": "Tbīb il-asnān na77āli D-Dirs",
+        "en": "The dentist pulled my molar."
+      }
+    ]
   },
   {
     "ar": "تطعيم",
@@ -2063,7 +4117,20 @@
     "ex_ar": "الصغار لازمهم تطعيم قبل المدرسة.",
     "ex_tr": "iS-Sghār lāzimhum taT3īm gabl il-madrasa.",
     "ex_en": "Kids need vaccinations before school.",
-    "note": "pl. تطعيمات."
+    "note": "pl. تطعيمات.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "بطاقة التطعيم",
+        "tr": "bTāgat it-taT3īm",
+        "en": "the vaccination card"
+      },
+      {
+        "ar": "مشينا للتطعيم في المستوصف",
+        "tr": "mshēna lit-taT3īm fil-mustawSaf",
+        "en": "We went to the clinic for the vaccination."
+      }
+    ]
   },
   {
     "ar": "تعب",
@@ -2076,7 +4143,20 @@
     "ex_ar": "حاس بتعب ياسر اليوم.",
     "ex_tr": "7āss bi ta3ab yāsir il-yōm.",
     "ex_en": "I feel very tired today.",
-    "note": "Also 'effort': تعبك ما يضيعش = your effort won't be wasted."
+    "note": "Also 'effort': تعبك ما يضيعش = your effort won't be wasted.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "التعب باين عليك",
+        "tr": "it-ta3ab bāyin 3alēk",
+        "en": "You look tired."
+      },
+      {
+        "ar": "رقدت من التعب",
+        "tr": "ragadt min it-ta3ab",
+        "en": "I fell asleep from exhaustion."
+      }
+    ]
   },
   {
     "ar": "ولادة",
@@ -2088,7 +4168,20 @@
     "freq": 3,
     "ex_ar": "مرته في السبيطار للولادة.",
     "ex_tr": "martah fi s-sbīTār li l-wlāda.",
-    "ex_en": "His wife is in the hospital to give birth."
+    "ex_en": "His wife is in the hospital to give birth.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "ولادة طبيعية",
+        "tr": "wlāda Tabī3iyya",
+        "en": "a natural birth"
+      },
+      {
+        "ar": "مبروك على الولادة",
+        "tr": "mabrūk 3ala l-wlāda",
+        "en": "Congratulations on the birth."
+      }
+    ]
   },
   {
     "ar": "وصفة",
@@ -2101,7 +4194,20 @@
     "ex_ar": "الصيدلي طلب الوصفة.",
     "ex_tr": "iS-Saydali Tlab il-waSfa.",
     "ex_en": "The pharmacist asked for the prescription.",
-    "note": "pl. وصفات waSfāt. Also 'recipe'."
+    "note": "pl. وصفات waSfāt. Also 'recipe'.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "الدكتور كتبلي وصفة",
+        "tr": "id-doktōr kitabli waSfa",
+        "en": "The doctor wrote me a prescription."
+      },
+      {
+        "ar": "الدوا هذا بلا وصفة",
+        "tr": "id-dwa hādha bla waSfa",
+        "en": "This medicine needs no prescription."
+      }
+    ]
   },
   {
     "ar": "شاش",
@@ -2113,7 +4219,20 @@
     "freq": 4,
     "ex_ar": "لف الجرح بالشاش.",
     "ex_tr": "liff il-jur7 bi sh-shāsh.",
-    "ex_en": "Wrap the wound with gauze."
+    "ex_en": "Wrap the wound with gauze.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "لفة شاش",
+        "tr": "laffat shāsh",
+        "en": "a roll of gauze"
+      },
+      {
+        "ar": "بدّل الشاش كل يوم",
+        "tr": "baddil ish-shāsh kull yōm",
+        "en": "Change the bandage every day."
+      }
+    ]
   },
   {
     "ar": "نظر",
@@ -2125,7 +4244,20 @@
     "freq": 3,
     "ex_ar": "نظري ضعف، لازمني نظارات.",
     "ex_tr": "naDHri Di3if, lāzimni naDHDHārāt.",
-    "ex_en": "My eyesight has got weaker, I need glasses."
+    "ex_en": "My eyesight has got weaker, I need glasses.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "نظره ضعيف",
+        "tr": "naDHra Da3īf",
+        "en": "His eyesight is weak."
+      },
+      {
+        "ar": "مشيت نقيس نظري",
+        "tr": "mshēt ngīs naDHri",
+        "en": "I went to have my eyes tested."
+      }
+    ]
   },
   {
     "ar": "حوايج",
@@ -2138,7 +4270,20 @@
     "ex_ar": "لبس حوايجك، بنطلعوا.",
     "ex_tr": "libs 7wāyjak, banTla3u.",
     "ex_en": "Put on your clothes, we're going out.",
-    "note": "Lit. 'things'; Libyan everyday word for clothes. sg. حاجة 7āja 'thing'."
+    "note": "Lit. 'things'; Libyan everyday word for clothes. sg. حاجة 7āja 'thing'.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "الحوايج مازالت مبلولة",
+        "tr": "il-7wāyij māzālat mablūla",
+        "en": "The clothes are still wet."
+      },
+      {
+        "ar": "شريت حوايج للعيد",
+        "tr": "shrēt 7wāyij lil-3īd",
+        "en": "I bought clothes for Eid."
+      }
+    ]
   },
   {
     "ar": "لبسة",
@@ -2151,7 +4296,20 @@
     "ex_ar": "اللبسة هذي تجي عليك.",
     "ex_tr": "il-libsa hādhi tji 3alēk.",
     "ex_en": "This outfit suits you.",
-    "note": "pl. لبسات libsāt."
+    "note": "pl. لبسات libsāt.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "لبسة العرس",
+        "tr": "libsat il-3ars",
+        "en": "the wedding outfit"
+      },
+      {
+        "ar": "لبسة تقليدية ليبية",
+        "tr": "libsa taglīdiyya lībiyya",
+        "en": "a traditional Libyan outfit"
+      }
+    ]
   },
   {
     "ar": "قميجة",
@@ -2164,7 +4322,20 @@
     "ex_ar": "شريت قميجة بيضا للعرس.",
     "ex_tr": "shrēt gmīja bēDa li l-3irs.",
     "ex_en": "I bought a white shirt for the wedding.",
-    "note": "pl. قمايج gmāyij. Maghrebi form of قميص."
+    "note": "pl. قمايج gmāyij. Maghrebi form of قميص.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "قميجة بكمام طوال",
+        "tr": "gmīja b-kmām Twāl",
+        "en": "a long-sleeved shirt"
+      },
+      {
+        "ar": "كوّي القميجة قبل ما تطلع",
+        "tr": "kawwi l-gmīja gabl ma tuTla3",
+        "en": "Iron the shirt before you go out."
+      }
+    ]
   },
   {
     "ar": "سروال",
@@ -2177,7 +4348,20 @@
     "ex_ar": "السروال هذا طويل عليّ.",
     "ex_tr": "is-sirwāl hādha Twīl 3alayya.",
     "ex_en": "These trousers are too long for me.",
-    "note": "pl. سراويل srāwīl. بنطلون banTalōn is also used."
+    "note": "pl. سراويل srāwīl. بنطلون banTalōn is also used.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "سروال أكحل",
+        "tr": "sirwāl ak7al",
+        "en": "black trousers"
+      },
+      {
+        "ar": "السروال هذا ضيق عليّ",
+        "tr": "is-sirwāl hādha Dayyig 3alayya",
+        "en": "These trousers are tight on me."
+      }
+    ]
   },
   {
     "ar": "صباط",
@@ -2190,7 +4374,20 @@
     "ex_ar": "نحّي صباطك قبل ما تدخل.",
     "ex_tr": "na77i SabbāTak gabl ma tudkhul.",
     "ex_en": "Take off your shoes before you come in.",
-    "note": "pl. صبابيط Sbābīṭ. Maghrebi word (cf. Spanish zapato / Italian ciabatta)."
+    "note": "pl. صبابيط Sbābīṭ. Maghrebi word (cf. Spanish zapato / Italian ciabatta).",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "صباط رياضة",
+        "tr": "SabbāT riyāDa",
+        "en": "sports shoes; trainers"
+      },
+      {
+        "ar": "شريت صباط جديد",
+        "tr": "shrēt SabbāT jdīd",
+        "en": "I bought new shoes."
+      }
+    ]
   },
   {
     "ar": "شلاكة",
@@ -2203,7 +4400,20 @@
     "ex_ar": "لبس الشلاكة في الحوش.",
     "ex_tr": "libs ish-shlāka fi l-7ōsh.",
     "ex_en": "Wear your slippers in the house.",
-    "note": "pl. شلايك shlāyik. Libyan/Tunisian word."
+    "note": "pl. شلايك shlāyik. Libyan/Tunisian word.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "وين شلاكتي؟",
+        "tr": "wīn shlākti?",
+        "en": "Where are my slippers?"
+      },
+      {
+        "ar": "ما تطلعش بالشلاكة",
+        "tr": "ma tuTla3sh bish-shlāka",
+        "en": "Don't go out in your flip-flops."
+      }
+    ]
   },
   {
     "ar": "جاكيتة",
@@ -2216,7 +4426,20 @@
     "ex_ar": "خوذ الجاكيتة، الجو بارد.",
     "ex_tr": "khūdh il-jākēta, ij-jaww bārid.",
     "ex_en": "Take the jacket, the weather's cold.",
-    "note": "From Italian giacchetta / French jaquette. pl. جاكيتات."
+    "note": "From Italian giacchetta / French jaquette. pl. جاكيتات.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "جاكيتة جلد سودا",
+        "tr": "jākēta jild sūda",
+        "en": "a black leather jacket"
+      },
+      {
+        "ar": "نحّي الجاكيتة، الدنيا سخونة",
+        "tr": "na77i l-jākēta, id-dinya skhūna",
+        "en": "Take off the jacket, it's hot."
+      }
+    ]
   },
   {
     "ar": "كبّوط",
@@ -2229,7 +4452,20 @@
     "ex_ar": "لبست الكبوط الأكحل في الشتا.",
     "ex_tr": "libst il-kabbūT il-ak7al fi sh-shta.",
     "ex_en": "I wore the black coat in winter.",
-    "note": "From Italian cappotto. pl. كبابيط kbābīT."
+    "note": "From Italian cappotto. pl. كبابيط kbābīT.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "كبّوط طويل للشتا",
+        "tr": "kabbūT Twīl lish-shta",
+        "en": "a long winter coat"
+      },
+      {
+        "ar": "علّق الكبّوط على الباب",
+        "tr": "3allig il-kabbūT 3ala l-bāb",
+        "en": "Hang the coat on the door."
+      }
+    ]
   },
   {
     "ar": "فستان",
@@ -2242,7 +4478,20 @@
     "ex_ar": "شرت فستان جديد للعيد.",
     "ex_tr": "sharat fustān jdīd li l-3īd.",
     "ex_en": "She bought a new dress for Eid.",
-    "note": "pl. فساتين fsātīn."
+    "note": "pl. فساتين fsātīn.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "فستان العرس",
+        "tr": "fustān il-3ars",
+        "en": "the wedding dress"
+      },
+      {
+        "ar": "الفستان هذا يجي عليك",
+        "tr": "il-fustān hādha yji 3alēk",
+        "en": "This dress suits you."
+      }
+    ]
   },
   {
     "ar": "تنورة",
@@ -2255,7 +4504,20 @@
     "ex_ar": "التنورة هذي قصيرة ياسر.",
     "ex_tr": "it-tannūra hādhi gSīra yāsir.",
     "ex_en": "This skirt is very short.",
-    "note": "pl. تنانير."
+    "note": "pl. تنانير.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "تنورة طويلة",
+        "tr": "tannūra Twīla",
+        "en": "a long skirt"
+      },
+      {
+        "ar": "لبست تنورة وقميجة",
+        "tr": "libsat tannūra w gmīja",
+        "en": "She wore a skirt and a shirt."
+      }
+    ]
   },
   {
     "ar": "حجاب",
@@ -2268,7 +4530,20 @@
     "ex_ar": "أختي تلبس الحجاب.",
     "ex_tr": "ukhti tilbis il-7jāb.",
     "ex_en": "My sister wears the hijab.",
-    "note": "pl. حجابات."
+    "note": "pl. حجابات.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "حجاب أبيض",
+        "tr": "7jāb abyaD",
+        "en": "a white headscarf"
+      },
+      {
+        "ar": "لبست الحجاب من صغرها",
+        "tr": "libsat il-7jāb min Sghurha",
+        "en": "She's worn the hijab since she was little."
+      }
+    ]
   },
   {
     "ar": "عباية",
@@ -2281,7 +4556,20 @@
     "ex_ar": "لبست عباية سودا.",
     "ex_tr": "libsat 3abāya sūda.",
     "ex_en": "She wore a black abaya.",
-    "note": "pl. عبايات 3abāyāt."
+    "note": "pl. عبايات 3abāyāt.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "عباية سودا طويلة",
+        "tr": "3abāya sūda Twīla",
+        "en": "a long black abaya"
+      },
+      {
+        "ar": "لبست العباية وطلعت",
+        "tr": "libsat il-3abāya w Tal3at",
+        "en": "She put on her abaya and went out."
+      }
+    ]
   },
   {
     "ar": "فراشية",
@@ -2294,7 +4582,20 @@
     "ex_ar": "جدتي كانت تلبس الفراشية كي تطلع.",
     "ex_tr": "jiddti kānat tilbis il-farrāshiyya kay tiTla3.",
     "ex_en": "My grandmother used to wear the farrashiya when she went out.",
-    "note": "Traditional Libyan white woollen or silk wrap covering the whole body; now worn mainly by older women or at weddings."
+    "note": "Traditional Libyan white woollen or silk wrap covering the whole body; now worn mainly by older women or at weddings.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "فراشية بيضا",
+        "tr": "farrāshiyya bēDa",
+        "en": "a white farrashiya"
+      },
+      {
+        "ar": "مازالت تلبس الفراشية",
+        "tr": "māzālat tilbis il-farrāshiyya",
+        "en": "She still wears the farrashiya."
+      }
+    ]
   },
   {
     "ar": "جرد",
@@ -2307,7 +4608,20 @@
     "ex_ar": "العريس لابس الجرد في ليلة الحنة.",
     "ex_tr": "il-3rīs lābis il-jard fi lēlt il-7inna.",
     "ex_en": "The groom is wearing the jard on henna night.",
-    "note": "Large woollen wrap draped over the shoulder; a symbol of Libyan traditional dress. pl. جرود jrūd."
+    "note": "Large woollen wrap draped over the shoulder; a symbol of Libyan traditional dress. pl. جرود jrūd.",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "جرد صوف",
+        "tr": "jard Sūf",
+        "en": "a woollen jard"
+      },
+      {
+        "ar": "لبس الجرد في العيد",
+        "tr": "libis ij-jard fi l-3īd",
+        "en": "He wore the jard for Eid."
+      }
+    ]
   },
   {
     "ar": "حولي",
@@ -2320,7 +4634,20 @@
     "ex_ar": "الحولي هذا من نسيج يدوي.",
     "ex_tr": "il-7awli hādha min nsīj yadawi.",
     "ex_en": "This hawli is hand-woven.",
-    "note": "Libyan traditional wrap, often worn by women; similar to the jard."
+    "note": "Libyan traditional wrap, often worn by women; similar to the jard.",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "حولي أبيض",
+        "tr": "7awli abyaD",
+        "en": "a white hawli"
+      },
+      {
+        "ar": "الحولي من لبس الأعراس",
+        "tr": "il-7awli min libs il-a3rās",
+        "en": "The hawli is worn at weddings."
+      }
+    ]
   },
   {
     "ar": "فرملة",
@@ -2333,7 +4660,20 @@
     "ex_ar": "لبس الفرملة فوق القميجة.",
     "ex_tr": "libs il-farmla fōg il-gmīja.",
     "ex_en": "He wore the farmla over the shirt.",
-    "note": "Traditional Libyan embroidered vest, part of formal men's dress. pl. فرامل frāmil."
+    "note": "Traditional Libyan embroidered vest, part of formal men's dress. pl. فرامل frāmil.",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "فرملة مطرزة بالذهب",
+        "tr": "farmla mTarraza bidh-dhahab",
+        "en": "a waistcoat embroidered with gold"
+      },
+      {
+        "ar": "الفرملة الحمرا تجي عليه",
+        "tr": "il-farmla l-7amra tji 3alēh",
+        "en": "The red waistcoat suits him."
+      }
+    ]
   },
   {
     "ar": "كبوس",
@@ -2346,7 +4686,20 @@
     "ex_ar": "بوي يلبس الكبوس في الجمعة.",
     "ex_tr": "būy yilbis il-kabbūs fi l-jum3a.",
     "ex_en": "My father wears the kabbous on Friday.",
-    "note": "Red (or black) felt cap worn with traditional dress; also called شنّة shanna."
+    "note": "Red (or black) felt cap worn with traditional dress; also called شنّة shanna.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "كبوس أحمر",
+        "tr": "kabbūs a7mar",
+        "en": "a red kabbous hat"
+      },
+      {
+        "ar": "حط الكبوس على راسه",
+        "tr": "7aTT il-kabbūs 3ala rāsa",
+        "en": "He put the kabbous on his head."
+      }
+    ]
   },
   {
     "ar": "شنّة",
@@ -2359,7 +4712,20 @@
     "ex_ar": "الشنة الحمرا من لبس الأجداد.",
     "ex_tr": "ish-shanna l-7amra min libs il-ajdād.",
     "ex_en": "The red shanna is part of our ancestors' dress.",
-    "note": "Synonym of كبوس kabbūs, typical of Libyan men's traditional dress. pl. شنن."
+    "note": "Synonym of كبوس kabbūs, typical of Libyan men's traditional dress. pl. شنن.",
+    "usage": 26,
+    "phrases": [
+      {
+        "ar": "شنّة حمرا",
+        "tr": "shanna 7amra",
+        "en": "a red felt cap"
+      },
+      {
+        "ar": "جدي ما يطلعش بلا شنّة",
+        "tr": "jiddi ma yuTla3sh bla shanna",
+        "en": "My grandfather never goes out without his cap."
+      }
+    ]
   },
   {
     "ar": "طاقية",
@@ -2372,7 +4738,20 @@
     "ex_ar": "لبس الطاقية البيضا للصلاة.",
     "ex_tr": "libs iT-Tāgiyya l-bēDa li S-Sla.",
     "ex_en": "He put on the white skullcap for prayer.",
-    "note": "pl. طواقي Twāgi. ق pronounced g."
+    "note": "pl. طواقي Twāgi. ق pronounced g.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "طاقية صوف للبرد",
+        "tr": "Tāgiyya Sūf lil-bard",
+        "en": "a woollen cap for the cold"
+      },
+      {
+        "ar": "نسيت طاقيتي في الجامع",
+        "tr": "nsīt Tāgiyti fi j-jāmi3",
+        "en": "I forgot my cap at the mosque."
+      }
+    ]
   },
   {
     "ar": "جبة",
@@ -2385,7 +4764,20 @@
     "ex_ar": "لبس جبة بيضا يوم العيد.",
     "ex_tr": "libs jibba bēDa yōm il-3īd.",
     "ex_en": "He wore a white jubba on Eid day.",
-    "note": "pl. جبب jibab."
+    "note": "pl. جبب jibab.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "جبة صوف",
+        "tr": "jibba Sūf",
+        "en": "a woollen jubba"
+      },
+      {
+        "ar": "الجبة هذي جديدة",
+        "tr": "ij-jibba hādhi jdīda",
+        "en": "This jubba is new."
+      }
+    ]
   },
   {
     "ar": "بدلة",
@@ -2398,7 +4790,20 @@
     "ex_ar": "لبس بدلة وكرافطة للمقابلة.",
     "ex_tr": "libs badla u krāfaTTa li l-mgābla.",
     "ex_en": "He wore a suit and tie for the interview.",
-    "note": "pl. بدل bidal. بدلة عربية = traditional Libyan outfit."
+    "note": "pl. بدل bidal. بدلة عربية = traditional Libyan outfit.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "بدلة العرس",
+        "tr": "badlat il-3ars",
+        "en": "the wedding suit"
+      },
+      {
+        "ar": "البدلة هذي غالية",
+        "tr": "il-badla hādhi ghālya",
+        "en": "This suit is expensive."
+      }
+    ]
   },
   {
     "ar": "كرافطة",
@@ -2411,7 +4816,20 @@
     "ex_ar": "ما نحبش نلبس الكرافطة.",
     "ex_tr": "ma n7ibbish nilbis il-krāfaTTa.",
     "ex_en": "I don't like wearing a tie.",
-    "note": "From Italian cravatta."
+    "note": "From Italian cravatta.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "كرافطة حمرا",
+        "tr": "krāfaTTa 7amra",
+        "en": "a red tie"
+      },
+      {
+        "ar": "ما نعرفش نربط الكرافطة",
+        "tr": "ma na3rafsh nurbuT il-krāfaTTa",
+        "en": "I don't know how to tie a tie."
+      }
+    ]
   },
   {
     "ar": "مريول",
@@ -2424,7 +4842,20 @@
     "ex_ar": "لبس مريول خفيف، الدنيا سخونة.",
     "ex_tr": "libs maryūl khfīf, id-dinya skhūna.",
     "ex_en": "Wear a light T-shirt, it's hot.",
-    "note": "Maghrebi word (from Italian maglia/Spanish). pl. مراويل mrāwīl."
+    "note": "Maghrebi word (from Italian maglia/Spanish). pl. مراويل mrāwīl.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "مريول أبيض",
+        "tr": "maryūl abyaD",
+        "en": "a white T-shirt"
+      },
+      {
+        "ar": "مريول الفريق",
+        "tr": "maryūl il-frīg",
+        "en": "the team shirt"
+      }
+    ]
   },
   {
     "ar": "شورت",
@@ -2437,7 +4868,20 @@
     "ex_ar": "الصغار لابسين شورتات في البحر.",
     "ex_tr": "iS-Sghār lābsīn shōrtāt fi l-ba7ar.",
     "ex_en": "The kids are wearing shorts at the beach.",
-    "note": "From English. pl. شورتات."
+    "note": "From English. pl. شورتات.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "شورت للبحر",
+        "tr": "shōrt lil-ba7r",
+        "en": "swim shorts"
+      },
+      {
+        "ar": "ما تدخلش للجامع بالشورت",
+        "tr": "ma tidkhulsh lij-jāmi3 bish-shōrt",
+        "en": "Don't go into the mosque in shorts."
+      }
+    ]
   },
   {
     "ar": "جينز",
@@ -2450,7 +4894,20 @@
     "ex_ar": "نحب نلبس جينز وقميجة.",
     "ex_tr": "n7ibb nilbis jīnz u gmīja.",
     "ex_en": "I like wearing jeans and a shirt.",
-    "note": "Often سروال جينز."
+    "note": "Often سروال جينز.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "سروال جينز أزرق",
+        "tr": "sirwāl jīnz azrag",
+        "en": "blue jeans"
+      },
+      {
+        "ar": "الجينز هذا قديم",
+        "tr": "ij-jīnz hādha gdīm",
+        "en": "These jeans are old."
+      }
+    ]
   },
   {
     "ar": "بيجاما",
@@ -2463,7 +4920,20 @@
     "ex_ar": "لبست البيجاما ورقدت.",
     "ex_tr": "libst il-bījāma u rgadt.",
     "ex_en": "I put on my pyjamas and went to sleep.",
-    "note": "pl. بيجامات."
+    "note": "pl. بيجامات.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "مازال بالبيجاما",
+        "tr": "māzāl bil-bījāma",
+        "en": "He's still in his pyjamas."
+      },
+      {
+        "ar": "بيجاما شتوية",
+        "tr": "bījāma shitwiyya",
+        "en": "winter pyjamas"
+      }
+    ]
   },
   {
     "ar": "جوارب",
@@ -2476,7 +4946,20 @@
     "ex_ar": "جواربي مقطعين.",
     "ex_tr": "jawārbi mgaT3īn.",
     "ex_en": "My socks are torn.",
-    "note": "sg. جورب jawrab."
+    "note": "sg. جورب jawrab.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "جوارب صوف",
+        "tr": "jawārib Sūf",
+        "en": "woollen socks"
+      },
+      {
+        "ar": "نحّي الجوارب",
+        "tr": "na77i j-jawārib",
+        "en": "Take off your socks."
+      }
+    ]
   },
   {
     "ar": "شنطة",
@@ -2489,7 +4972,20 @@
     "ex_ar": "حطيت التلفون في الشنطة.",
     "ex_tr": "7aTTēt it-tilifōn fi sh-shanTa.",
     "ex_en": "I put the phone in the bag.",
-    "note": "pl. شنط shunaT."
+    "note": "pl. شنط shunaT.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "شنطة المدرسة",
+        "tr": "shanTat il-madrasa",
+        "en": "the school bag"
+      },
+      {
+        "ar": "شيل الشنطة معاك",
+        "tr": "shīl ish-shanTa m3āk",
+        "en": "Take the bag with you."
+      }
+    ]
   },
   {
     "ar": "بورسة",
@@ -2502,7 +4998,20 @@
     "ex_ar": "البورسة هذي غالية ياسر.",
     "ex_tr": "il-bōrsa hādhi ghālya yāsir.",
     "ex_en": "This handbag is very expensive.",
-    "note": "From Italian borsa. pl. بورسات."
+    "note": "From Italian borsa. pl. بورسات.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "بورسة جلد",
+        "tr": "bōrsa jild",
+        "en": "a leather handbag"
+      },
+      {
+        "ar": "نسيت البورسة في السيارة",
+        "tr": "nsīt il-bōrsa fis-sayyāra",
+        "en": "I forgot my handbag in the car."
+      }
+    ]
   },
   {
     "ar": "محفظة",
@@ -2515,7 +5024,20 @@
     "ex_ar": "نسيت المحفظة في الحوش.",
     "ex_tr": "nsīt il-ma7faDHa fi l-7ōsh.",
     "ex_en": "I forgot my wallet at home.",
-    "note": "pl. محافظ ma7āfiDH."
+    "note": "pl. محافظ ma7āfiDH.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "محفظتي فاضية",
+        "tr": "ma7faDHti fāDya",
+        "en": "My wallet is empty."
+      },
+      {
+        "ar": "سرقوله المحفظة",
+        "tr": "sargūla l-ma7faDHa",
+        "en": "They stole his wallet."
+      }
+    ]
   },
   {
     "ar": "نظارات",
@@ -2528,7 +5050,20 @@
     "ex_ar": "وين حطيت نظاراتي؟",
     "ex_tr": "wīn 7aTTēt naDHDHārāti?",
     "ex_en": "Where did I put my glasses?",
-    "note": "Also نظارة naDHDHāra. نظارات شمس = sunglasses."
+    "note": "Also نظارة naDHDHāra. نظارات شمس = sunglasses.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "نظارات شمس",
+        "tr": "naDHDHārāt shams",
+        "en": "sunglasses"
+      },
+      {
+        "ar": "ما نقراش بلا نظارات",
+        "tr": "ma nigrāsh bla naDHDHārāt",
+        "en": "I can't read without glasses."
+      }
+    ]
   },
   {
     "ar": "حزام",
@@ -2541,7 +5076,20 @@
     "ex_ar": "السروال واسع، لازمني حزام.",
     "ex_tr": "is-sirwāl wāsi3, lāzimni 7zām.",
     "ex_en": "The trousers are loose, I need a belt.",
-    "note": "pl. حزامات / أحزمة. Also seat belt."
+    "note": "pl. حزامات / أحزمة. Also seat belt.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "حزام جلد",
+        "tr": "7zām jild",
+        "en": "a leather belt"
+      },
+      {
+        "ar": "حط حزام الأمان",
+        "tr": "7uTT 7zām il-amān",
+        "en": "Put on your seatbelt."
+      }
+    ]
   },
   {
     "ar": "شال",
@@ -2554,7 +5102,20 @@
     "ex_ar": "لفّت الشال على رقبتها.",
     "ex_tr": "laffat ish-shāl 3ala rugbitha.",
     "ex_en": "She wrapped the scarf around her neck.",
-    "note": "pl. شيلان shīlān."
+    "note": "pl. شيلان shīlān.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "شال صوف",
+        "tr": "shāl Sūf",
+        "en": "a woollen shawl"
+      },
+      {
+        "ar": "الشال هذا هدية من أمي",
+        "tr": "ish-shāl hādha hadiyya min ummi",
+        "en": "This shawl is a present from my mother."
+      }
+    ]
   },
   {
     "ar": "محرمة",
@@ -2567,7 +5128,20 @@
     "ex_ar": "عطيني محرمة نمسح خشمي.",
     "ex_tr": "3Tīni ma7rma nimsa7 khashmi.",
     "ex_en": "Give me a tissue to wipe my nose.",
-    "note": "pl. محارم m7ārim. Libyan/Maghrebi word."
+    "note": "pl. محارم m7ārim. Libyan/Maghrebi word.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "علبة محارم",
+        "tr": "3ilbat m7ārim",
+        "en": "a box of tissues"
+      },
+      {
+        "ar": "مسحت دموعها بالمحرمة",
+        "tr": "mas7at dmū3ha bil-ma7rma",
+        "en": "She wiped her tears with a tissue."
+      }
+    ]
   },
   {
     "ar": "خاتم",
@@ -2580,7 +5154,20 @@
     "ex_ar": "الخاتم هذا من ذهب.",
     "ex_tr": "il-khātim hādha min dhahab.",
     "ex_en": "This ring is made of gold.",
-    "note": "pl. خواتم khwātim."
+    "note": "pl. خواتم khwātim.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "خاتم الخطوبة",
+        "tr": "khātim il-khTūba",
+        "en": "the engagement ring"
+      },
+      {
+        "ar": "ضاعلي الخاتم",
+        "tr": "Dā3li l-khātim",
+        "en": "I lost the ring."
+      }
+    ]
   },
   {
     "ar": "حلق",
@@ -2593,7 +5180,20 @@
     "ex_ar": "شريتلها حلق للعيد.",
     "ex_tr": "shrētilha 7lag li l-3īd.",
     "ex_en": "I bought her earrings for Eid.",
-    "note": "pl. حلقان. Also خرص khurS in Maghrebi speech."
+    "note": "pl. حلقان. Also خرص khurS in Maghrebi speech.",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "حلق ذهب",
+        "tr": "7lag dhahab",
+        "en": "gold earrings"
+      },
+      {
+        "ar": "طاحلها حلق",
+        "tr": "Tā7ilha 7lag",
+        "en": "She lost an earring."
+      }
+    ]
   },
   {
     "ar": "سلسلة",
@@ -2606,7 +5206,20 @@
     "ex_ar": "لابسة سلسلة ذهب.",
     "ex_tr": "lābsa silsla dhahab.",
     "ex_en": "She's wearing a gold chain.",
-    "note": "pl. سلاسل slāsil."
+    "note": "pl. سلاسل slāsil.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "سلسلة فضة",
+        "tr": "silsla fiDDa",
+        "en": "a silver chain"
+      },
+      {
+        "ar": "لبسها سلسلة في العرس",
+        "tr": "labbasha silsla fil-3ars",
+        "en": "He put a necklace on her at the wedding."
+      }
+    ]
   },
   {
     "ar": "جيب",
@@ -2619,7 +5232,20 @@
     "ex_ar": "الفلوس في جيبي.",
     "ex_tr": "il-flūs fi jēbi.",
     "ex_en": "The money's in my pocket.",
-    "note": "pl. جيوب jyūb."
+    "note": "pl. جيوب jyūb.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "حط يدك في جيبك",
+        "tr": "7uTT yiddik fi jēbik",
+        "en": "Put your hand in your pocket."
+      },
+      {
+        "ar": "التلفون في جيب الجاكيتة",
+        "tr": "it-tilifōn fi jēb ij-jākēta",
+        "en": "The phone is in the jacket pocket."
+      }
+    ]
   },
   {
     "ar": "قلادة",

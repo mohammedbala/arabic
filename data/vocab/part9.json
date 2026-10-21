@@ -1,0 +1,2160 @@
+[
+ {
+  "ar": "عنيد",
+  "tr": "3nīd",
+  "en": "stubborn",
+  "msa": "عنيد",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "ولدك عنيد، ما يسمعش الكلام.",
+  "ex_tr": "weldak 3nīd, ma yisma3sh il-kalām.",
+  "ex_en": "Your son is stubborn, he doesn't listen.",
+  "note": "f. عنيدة 3nīda; pl. عنيدين 3nīdīn. Libyans also say راسه قاسح (his head is hard).",
+  "phrases": [
+   {
+    "ar": "عنيد زي بوه",
+    "tr": "3nīd zēy būh",
+    "en": "stubborn like his father"
+   },
+   {
+    "ar": "بلاش عناد، راك عنيد هلبة",
+    "tr": "balāsh 3nād, rāk 3nīd hallba",
+    "en": "stop it, you're so stubborn"
+   }
+  ]
+ },
+ {
+  "ar": "قليل الأدب",
+  "tr": "gallīl il-adab",
+  "en": "rude; ill-mannered",
+  "msa": "قليل الأدب",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 3,
+  "usage": 57,
+  "ex_ar": "الولد هذا قليل الأدب مع الناس الكبار.",
+  "ex_tr": "il-weld hādha gallīl il-adab ma3 in-nās il-kbār.",
+  "ex_en": "This boy is rude with older people.",
+  "note": "f. قليلة الأدب gallīlt il-adab; pl. قليلين الأدب. Opposite of مربي.",
+  "phrases": [
+   {
+    "ar": "ما تكونش قليل الأدب",
+    "tr": "ma tkūnsh gallīl il-adab",
+    "en": "don't be rude"
+   },
+   {
+    "ar": "كلام قليل أدب",
+    "tr": "kalām gallīl adab",
+    "en": "rude talk"
+   }
+  ]
+ },
+ {
+  "ar": "شجاع",
+  "tr": "shujā3",
+  "en": "brave; courageous",
+  "msa": "شجاع",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "خوك شجاع، ما يخافش من حد.",
+  "ex_tr": "khūk shujā3, ma ykhāfsh min 7add.",
+  "ex_en": "Your brother is brave, he's afraid of nobody.",
+  "note": "pl. شجعان shuj3ān. Libyan speech also uses راجل (a real man) for brave.",
+  "phrases": [
+   {
+    "ar": "كان شجاع هلبة",
+    "tr": "kān shujā3 hallba",
+    "en": "he was very brave"
+   },
+   {
+    "ar": "لازم تكون شجاع",
+    "tr": "lāzim tkūn shujā3",
+    "en": "you have to be brave"
+   }
+  ]
+ },
+ {
+  "ar": "جبان",
+  "tr": "jbān",
+  "en": "coward; cowardly",
+  "msa": "جبان",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 47,
+  "ex_ar": "ما تكونش جبان، امشي كلمه.",
+  "ex_tr": "ma tkūnsh jbān, imshi kallmah.",
+  "ex_en": "Don't be a coward, go talk to him.",
+  "note": "f. جبانة jbāna; pl. جبناء jubanā' / جبانين jbānīn.",
+  "phrases": [
+   {
+    "ar": "هذا جبان، هرب",
+    "tr": "hādha jbān, hrab",
+    "en": "that guy is a coward, he ran away"
+   },
+   {
+    "ar": "قالي يا جبان",
+    "tr": "gālli ya jbān",
+    "en": "he called me a coward"
+   }
+  ]
+ },
+ {
+  "ar": "عاقل",
+  "tr": "3āgil",
+  "en": "sensible; well-behaved (child); mature",
+  "msa": "عاقل",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 3,
+  "usage": 64,
+  "ex_ar": "كون عاقل وأنا نجيبلك حلوة.",
+  "ex_tr": "kūn 3āgil w ana njīblak 7alwa.",
+  "ex_en": "Behave and I'll bring you a sweet.",
+  "note": "f. عاقلة 3āgla; pl. عاقلين 3āglīn. Very common with children: كون عاقل \"behave\".",
+  "phrases": [
+   {
+    "ar": "بنتك عاقلة ما شاء الله",
+    "tr": "bintak 3āgla mā shā' allāh",
+    "en": "your daughter is so well-behaved, mashallah"
+   },
+   {
+    "ar": "راجل عاقل وفاهم",
+    "tr": "rājil 3āgil w fāhim",
+    "en": "a sensible, understanding man"
+   }
+  ]
+ },
+ {
+  "ar": "فاهم",
+  "tr": "fāhim",
+  "en": "understanding; knowledgeable; he understands",
+  "msa": "فاهم",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 2,
+  "usage": 72,
+  "ex_ar": "خوي فاهم في الكهربا هلبة.",
+  "ex_tr": "khūy fāhim fi l-kahraba hallba.",
+  "ex_en": "My brother knows a lot about electricity.",
+  "note": "f. فاهمة fāhma; pl. فاهمين fāhmīn. Active participle used as adjective: انت فاهم؟ \"do you get it?\"",
+  "phrases": [
+   {
+    "ar": "فاهم علي؟",
+    "tr": "fāhim 3alayya?",
+    "en": "do you get what I mean?"
+   },
+   {
+    "ar": "مش فاهم شي",
+    "tr": "mush fāhim shay",
+    "en": "I don't understand anything"
+   }
+  ]
+ },
+ {
+  "ar": "محترم",
+  "tr": "mu7taram",
+  "en": "respectable; decent; respectful",
+  "msa": "محترم",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "جارنا راجل محترم.",
+  "ex_tr": "jārna rājil mu7taram.",
+  "ex_en": "Our neighbour is a decent man.",
+  "note": "f. محترمة mu7tarama; pl. محترمين mu7taramīn.",
+  "phrases": [
+   {
+    "ar": "ناس محترمين",
+    "tr": "nās mu7taramīn",
+    "en": "decent people"
+   },
+   {
+    "ar": "خليك محترم",
+    "tr": "khallīk mu7taram",
+    "en": "keep it respectful"
+   }
+  ]
+ },
+ {
+  "ar": "أمين",
+  "tr": "amīn",
+  "en": "trustworthy; honest (with money/secrets)",
+  "msa": "أمين",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "خلي الفلوس عنده، هو أمين.",
+  "ex_tr": "khalli l-flūs 3andah, huwwa amīn.",
+  "ex_en": "Leave the money with him, he's trustworthy.",
+  "note": "f. أمينة amīna; pl. أمناء umanā'.",
+  "phrases": [
+   {
+    "ar": "راجل أمين ونظيف",
+    "tr": "rājil amīn w nDHīf",
+    "en": "an honest, clean man"
+   },
+   {
+    "ar": "مش أمين، رد بالك منه",
+    "tr": "mush amīn, rudd bālak minnah",
+    "en": "he's not trustworthy, watch out for him"
+   }
+  ]
+ },
+ {
+  "ar": "خاين",
+  "tr": "khāyin",
+  "en": "treacherous; disloyal; traitor",
+  "msa": "خائن",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "طلع خاين وباعنا.",
+  "ex_tr": "Tila3 khāyin w bā3na.",
+  "ex_en": "He turned out to be a traitor and sold us out.",
+  "note": "f. خاينة khāyna; pl. خونة khawana.",
+  "phrases": [
+   {
+    "ar": "صاحب خاين",
+    "tr": "SAa7ib khāyin",
+    "en": "a disloyal friend"
+   },
+   {
+    "ar": "الزمان خاين",
+    "tr": "iz-zmān khāyin",
+    "en": "times are treacherous (saying)"
+   }
+  ]
+ },
+ {
+  "ar": "طماع",
+  "tr": "Tammā3",
+  "en": "greedy",
+  "msa": "طمّاع",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "ما تكونش طماع، خذ نصيبك بس.",
+  "ex_tr": "ma tkūnsh Tammā3, khudh nSībak bass.",
+  "ex_en": "Don't be greedy, take only your share.",
+  "note": "f. طماعة Tammā3a; pl. طماعين Tammā3īn.",
+  "phrases": [
+   {
+    "ar": "التاجر هذا طماع",
+    "tr": "it-tājir hādha Tammā3",
+    "en": "this merchant is greedy"
+   },
+   {
+    "ar": "الطماع ما يشبعش",
+    "tr": "iT-Tammā3 ma yishba3sh",
+    "en": "the greedy man is never satisfied"
+   }
+  ]
+ },
+ {
+  "ar": "حسود",
+  "tr": "7asūd",
+  "en": "envious",
+  "msa": "حسود",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "ما تحكيلهاش، هي حسودة.",
+  "ex_tr": "ma t7kīlhāsh, hiyya 7asūda.",
+  "ex_en": "Don't tell her, she's envious.",
+  "note": "f. حسودة 7asūda. Libyans fear the evil eye: عينه حارة \"he has an envious eye\".",
+  "phrases": [
+   {
+    "ar": "الحسود لا يسود",
+    "tr": "il-7asūd la yasūd",
+    "en": "the envious never prosper (proverb)"
+   },
+   {
+    "ar": "عينه حسودة",
+    "tr": "3aynah 7asūda",
+    "en": "he has an envious eye"
+   }
+  ]
+ },
+ {
+  "ar": "متكبر",
+  "tr": "mitkabbir",
+  "en": "arrogant; haughty",
+  "msa": "متكبّر",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "من يوم صار مدير وهو متكبر.",
+  "ex_tr": "min yōm Sār mudīr w huwwa mitkabbir.",
+  "ex_en": "Since he became a manager he's been arrogant.",
+  "note": "f. متكبرة mitkabbra; pl. متكبرين mitkabbrīn.",
+  "phrases": [
+   {
+    "ar": "ما تكونش متكبر على الناس",
+    "tr": "ma tkūnsh mitkabbir 3la n-nās",
+    "en": "don't look down on people"
+   },
+   {
+    "ar": "بنت متكبرة",
+    "tr": "bint mitkabbra",
+    "en": "a stuck-up girl"
+   }
+  ]
+ },
+ {
+  "ar": "شايف روحه",
+  "tr": "shāyif rū7ah",
+  "en": "full of himself; conceited",
+  "msa": "مغرور",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "من يوم شرى الكرهبة وهو شايف روحه.",
+  "ex_tr": "min yōm shra l-karhba w huwwa shāyif rū7ah.",
+  "ex_en": "Since he bought the car he's been full of himself.",
+  "note": "f. شايفة روحها shāyfa rū7ha; pl. شايفين رواحهم shāyfīn rwā7hum. Lit. \"seeing himself\".",
+  "phrases": [
+   {
+    "ar": "هي شايفة روحها هلبة",
+    "tr": "hiyya shāyfa rū7ha hallba",
+    "en": "she's really full of herself"
+   },
+   {
+    "ar": "شايف روحك علينا؟",
+    "tr": "shāyif rū7ak 3alēna?",
+    "en": "you think you're better than us?"
+   }
+  ]
+ },
+ {
+  "ar": "متواضع",
+  "tr": "mitwāDi3",
+  "en": "humble; modest",
+  "msa": "متواضع",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 47,
+  "ex_ar": "رغم إنه غني، هو متواضع.",
+  "ex_tr": "raghm innah ghani, huwwa mitwāDi3.",
+  "ex_en": "Although he is rich, he is humble.",
+  "note": "f. متواضعة mitwāD3a; pl. متواضعين mitwāD3īn.",
+  "phrases": [
+   {
+    "ar": "بيت متواضع",
+    "tr": "bēt mitwāDi3",
+    "en": "a modest house"
+   },
+   {
+    "ar": "راجل متواضع وطيب",
+    "tr": "rājil mitwāDi3 w Tayyib",
+    "en": "a humble, kind man"
+   }
+  ]
+ },
+ {
+  "ar": "صبور",
+  "tr": "Sabūr",
+  "en": "patient",
+  "msa": "صبور",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "أمي صبورة هلبة معانا.",
+  "ex_tr": "ummi Sabūra hallba m3āna.",
+  "ex_en": "My mother is very patient with us.",
+  "note": "f. صبورة Sabūra.",
+  "phrases": [
+   {
+    "ar": "لازم تكون صبور",
+    "tr": "lāzim tkūn Sabūr",
+    "en": "you need to be patient"
+   },
+   {
+    "ar": "المعلم صبور مع الصغار",
+    "tr": "il-m3allim Sabūr ma3 iS-Sghār",
+    "en": "the teacher is patient with the kids"
+   }
+  ]
+ },
+ {
+  "ar": "عصبي",
+  "tr": "3aSabi",
+  "en": "short-tempered; irritable",
+  "msa": "عصبي",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 3,
+  "usage": 58,
+  "ex_ar": "بوي عصبي شوية الصبح.",
+  "ex_tr": "būy 3aSabi shwayya iS-Sub7.",
+  "ex_en": "My dad is a bit irritable in the morning.",
+  "note": "f. عصبية 3aSabiyya; pl. عصبيين 3aSabiyyīn.",
+  "phrases": [
+   {
+    "ar": "ما تكونش عصبي",
+    "tr": "ma tkūnsh 3aSabi",
+    "en": "don't be so touchy"
+   },
+   {
+    "ar": "راجل عصبي هلبة",
+    "tr": "rājil 3aSabi hallba",
+    "en": "a very hot-tempered man"
+   }
+  ]
+ },
+ {
+  "ar": "لطيف",
+  "tr": "laTīf",
+  "en": "kind; gentle; pleasant",
+  "msa": "لطيف",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "الدكتورة لطيفة هلبة مع الصغار.",
+  "ex_tr": "id-diktōra laTīfa hallba ma3 iS-Sghār.",
+  "ex_en": "The doctor is very gentle with the kids.",
+  "note": "f. لطيفة laTīfa; pl. لطاف luTāf.",
+  "phrases": [
+   {
+    "ar": "جو لطيف اليوم",
+    "tr": "jaw laTīf il-yōm",
+    "en": "pleasant weather today"
+   },
+   {
+    "ar": "كلامه لطيف",
+    "tr": "kalāmah laTīf",
+    "en": "he speaks kindly"
+   }
+  ]
+ },
+ {
+  "ar": "حشيم",
+  "tr": "7ashīm",
+  "en": "modest; respectable; reserved",
+  "msa": "محتشم",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 45,
+  "ex_ar": "بنتهم حشيمة ومربية.",
+  "ex_tr": "bint-hum 7ashīma w mrabbya.",
+  "ex_en": "Their daughter is modest and well brought-up.",
+  "note": "f. حشيمة 7ashīma. Libyan praise for a decent, modest person, from حشمة.",
+  "phrases": [
+   {
+    "ar": "راجل حشيم ما يتكلمش هلبة",
+    "tr": "rājil 7ashīm ma yitkallamsh hallba",
+    "en": "a reserved man who doesn't talk much"
+   },
+   {
+    "ar": "عيلة حشيمة",
+    "tr": "3ēla 7ashīma",
+    "en": "a decent family"
+   }
+  ]
+ },
+ {
+  "ar": "دمه خفيف",
+  "tr": "dammah khfīf",
+  "en": "funny; likeable (lit. light-blooded)",
+  "msa": "خفيف الظل",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "صاحبك دمه خفيف، ضحكنا هلبة.",
+  "ex_tr": "SAa7bak dammah khfīf, Da77akna hallba.",
+  "ex_en": "Your friend is so funny, we laughed a lot.",
+  "note": "f. دمها خفيف dammha khfīf; pl. دمهم خفيف dammhum khfīf.",
+  "phrases": [
+   {
+    "ar": "بنت دمها خفيف",
+    "tr": "bint dammha khfīf",
+    "en": "a funny, likeable girl"
+   },
+   {
+    "ar": "والله دمك خفيف",
+    "tr": "wallah dammak khfīf",
+    "en": "you're really funny"
+   }
+  ]
+ },
+ {
+  "ar": "دمه ثقيل",
+  "tr": "dammah thgīl",
+  "en": "unpleasant; annoying (lit. heavy-blooded)",
+  "msa": "ثقيل الظل",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "ما نحبش نقعد معاه، دمه ثقيل.",
+  "ex_tr": "ma n7ibbsh nug3ud m3āh, dammah thgīl.",
+  "ex_en": "I don't like sitting with him, he's unbearable.",
+  "note": "f. دمها ثقيل dammha thgīl; pl. دمهم ثقيل dammhum thgīl.",
+  "phrases": [
+   {
+    "ar": "نكتة دمها ثقيل",
+    "tr": "nukta dammha thgīl",
+    "en": "a lame joke"
+   },
+   {
+    "ar": "ياخي دمك ثقيل",
+    "tr": "yākhi dammak thgīl",
+    "en": "man, you're annoying"
+   }
+  ]
+ },
+ {
+  "ar": "جدي",
+  "tr": "jiddi",
+  "en": "serious",
+  "msa": "جدّي",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 3,
+  "usage": 55,
+  "ex_ar": "انت جدي ولا تتمسخر؟",
+  "ex_tr": "inta jiddi walla titmaskhar?",
+  "ex_en": "Are you serious or joking?",
+  "note": "f. جدية jiddiyya; pl. جديين jiddiyyīn.",
+  "phrases": [
+   {
+    "ar": "موضوع جدي",
+    "tr": "mawDū3 jiddi",
+    "en": "a serious matter"
+   },
+   {
+    "ar": "الأستاذ جدي هلبة في القسم",
+    "tr": "il-ustādh jiddi hallba fi l-gism",
+    "en": "the teacher is very serious in class"
+   }
+  ]
+ },
+ {
+  "ar": "مؤدب",
+  "tr": "mu'addab",
+  "en": "polite; well-mannered",
+  "msa": "مؤدّب",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "الصغار هذول مؤدبين ما شاء الله.",
+  "ex_tr": "iS-Sghār hadhōl mu'addabīn mā shā' allāh.",
+  "ex_en": "These kids are well-mannered, mashallah.",
+  "note": "f. مؤدبة mu'addaba; pl. مؤدبين mu'addabīn.",
+  "phrases": [
+   {
+    "ar": "كون مؤدب مع الضيوف",
+    "tr": "kūn mu'addab ma3 iD-Dyūf",
+    "en": "be polite with the guests"
+   },
+   {
+    "ar": "ولد مؤدب وهادي",
+    "tr": "weld mu'addab w hādi",
+    "en": "a polite, quiet boy"
+   }
+  ]
+ },
+ {
+  "ar": "منظم",
+  "tr": "munaDHDHam",
+  "en": "organized; tidy (person)",
+  "msa": "منظّم",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 47,
+  "ex_ar": "أختي منظمة، كل حاجة في بلاصتها.",
+  "ex_tr": "ukhti munaDHDHama, kull 7āja fi blāSt-ha.",
+  "ex_en": "My sister is organized, everything is in its place.",
+  "note": "f. منظمة munaDHDHama; pl. منظمين.",
+  "phrases": [
+   {
+    "ar": "خدمة منظمة",
+    "tr": "khidma munaDHDHama",
+    "en": "organized work"
+   },
+   {
+    "ar": "مش منظم خالص",
+    "tr": "mush munaDHDHam khāliS",
+    "en": "not organized at all"
+   }
+  ]
+ },
+ {
+  "ar": "مهمل",
+  "tr": "muhmil",
+  "en": "careless; negligent",
+  "msa": "مهمِل",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "الطالب هذا مهمل في قرايته.",
+  "ex_tr": "iT-Tālib hādha muhmil fi graytah.",
+  "ex_en": "This student neglects his studies.",
+  "note": "f. مهملة muhmila; pl. مهملين muhmilīn.",
+  "phrases": [
+   {
+    "ar": "ما تكونش مهمل في صحتك",
+    "tr": "ma tkūnsh muhmil fi Sa77tak",
+    "en": "don't neglect your health"
+   },
+   {
+    "ar": "عامل مهمل",
+    "tr": "3āmil muhmil",
+    "en": "a careless worker"
+   }
+  ]
+ },
+ {
+  "ar": "فوضوي",
+  "tr": "fawDawi",
+  "en": "messy; disorganized",
+  "msa": "فوضوي",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "دارك فوضوية، رتبها شوية.",
+  "ex_tr": "dārak fawDawiyya, rattibha shwayya.",
+  "ex_en": "Your room is messy, tidy it up a bit.",
+  "note": "f. فوضوية fawDawiyya.",
+  "phrases": [
+   {
+    "ar": "هو فوضوي في كل شي",
+    "tr": "huwwa fawDawi fi kull shay",
+    "en": "he's messy in everything"
+   },
+   {
+    "ar": "حياة فوضوية",
+    "tr": "7ayā fawDawiyya",
+    "en": "a chaotic life"
+   }
+  ]
+ },
+ {
+  "ar": "مخلص",
+  "tr": "mukhliS",
+  "en": "loyal; sincere; devoted",
+  "msa": "مخلِص",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 45,
+  "ex_ar": "صاحبي مخلص، عمره ما خذلني.",
+  "ex_tr": "SAa7bi mukhliS, 3umrah ma khdhalni.",
+  "ex_en": "My friend is loyal, he never let me down.",
+  "note": "f. مخلصة mukhliSa; pl. مخلصين mukhliSīn.",
+  "phrases": [
+   {
+    "ar": "مخلص في خدمته",
+    "tr": "mukhliS fi khidmtah",
+    "en": "devoted to his work"
+   },
+   {
+    "ar": "زوج مخلص",
+    "tr": "zōj mukhliS",
+    "en": "a faithful husband"
+   }
+  ]
+ },
+ {
+  "ar": "وفي",
+  "tr": "wafi",
+  "en": "faithful; loyal",
+  "msa": "وفيّ",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "الكلب وفي لصاحبه.",
+  "ex_tr": "il-kalb wafi l-SAa7bah.",
+  "ex_en": "The dog is loyal to its owner.",
+  "note": "f. وفية wafiyya; pl. أوفياء awfiyā'.",
+  "phrases": [
+   {
+    "ar": "صديق وفي",
+    "tr": "Sadīg wafi",
+    "en": "a faithful friend"
+   },
+   {
+    "ar": "وفي للعهد",
+    "tr": "wafi l-il-3ahd",
+    "en": "true to his word"
+   }
+  ]
+ },
+ {
+  "ar": "مكار",
+  "tr": "makkār",
+  "en": "cunning; sly; crafty",
+  "msa": "مكّار",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "الذيب مكار في الخراريف.",
+  "ex_tr": "idh-dhīb makkār fi l-khrārīf.",
+  "ex_en": "The wolf is cunning in folk tales.",
+  "note": "f. مكارة makkāra; pl. مكارين makkārīn.",
+  "phrases": [
+   {
+    "ar": "رد بالك منه، مكار",
+    "tr": "rudd bālak minnah, makkār",
+    "en": "watch out, he's sly"
+   },
+   {
+    "ar": "تاجر مكار",
+    "tr": "tājir makkār",
+    "en": "a crafty trader"
+   }
+  ]
+ },
+ {
+  "ar": "خبيث",
+  "tr": "khabīth",
+  "en": "malicious; wicked; (of disease) malignant",
+  "msa": "خبيث",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "كلامه خبيث، فيه نية.",
+  "ex_tr": "kalāmah khabīth, fīh niyya.",
+  "ex_en": "His words are malicious, he means something by them.",
+  "note": "f. خبيثة khabītha; pl. خبثاء khubathā'.",
+  "phrases": [
+   {
+    "ar": "ضحكة خبيثة",
+    "tr": "Da7ka khabītha",
+    "en": "a wicked laugh"
+   },
+   {
+    "ar": "مرض خبيث",
+    "tr": "maraD khabīth",
+    "en": "a malignant disease (cancer, euphemism)"
+   }
+  ]
+ },
+ {
+  "ar": "بريء",
+  "tr": "barī'",
+  "en": "innocent",
+  "msa": "بريء",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "الولد بريء، ما دار شي.",
+  "ex_tr": "il-weld barī', ma dār shay.",
+  "ex_en": "The boy is innocent, he didn't do anything.",
+  "note": "f. بريئة barī'a; pl. أبرياء abriyā'.",
+  "phrases": [
+   {
+    "ar": "وجه بريء",
+    "tr": "wajh barī'",
+    "en": "an innocent face"
+   },
+   {
+    "ar": "طلع بريء في المحكمة",
+    "tr": "Tila3 barī' fi l-ma7kama",
+    "en": "he was found innocent in court"
+   }
+  ]
+ },
+ {
+  "ar": "على نيته",
+  "tr": "3la niyytah",
+  "en": "naive; trusting; simple-hearted",
+  "msa": "ساذج",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "هو على نيته، يصدق أي حد.",
+  "ex_tr": "huwwa 3la niyytah, yiSaddig ayy 7add.",
+  "ex_en": "He's naive, he believes anyone.",
+  "note": "f. على نيتها 3la niyyt-ha; pl. على نياتهم 3la niyyāt-hum.",
+  "phrases": [
+   {
+    "ar": "ناس على نياتهم",
+    "tr": "nās 3la niyyāt-hum",
+    "en": "simple, trusting people"
+   },
+   {
+    "ar": "ما تكونش على نيتك هلبة",
+    "tr": "ma tkūnsh 3la niyytak hallba",
+    "en": "don't be so naive"
+   }
+  ]
+ },
+ {
+  "ar": "قاسي",
+  "tr": "gāsi",
+  "en": "harsh; cruel; hard-hearted",
+  "msa": "قاسٍ",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 47,
+  "ex_ar": "قلبه قاسي، ما يرحمش.",
+  "ex_tr": "galbah gāsi, ma yir7amsh.",
+  "ex_en": "He's hard-hearted, he shows no mercy.",
+  "note": "f. قاسية gāsya; pl. قاسيين gāsyīn. (Different from قاسح \"hard to the touch\".)",
+  "phrases": [
+   {
+    "ar": "كلام قاسي",
+    "tr": "kalām gāsi",
+    "en": "harsh words"
+   },
+   {
+    "ar": "الشتا كان قاسي",
+    "tr": "ish-shta kān gāsi",
+    "en": "the winter was harsh"
+   }
+  ]
+ },
+ {
+  "ar": "فضولي",
+  "tr": "fuDūli",
+  "en": "nosy; curious",
+  "msa": "فضولي",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "جارتنا فضولية، تبي تعرف كل شي.",
+  "ex_tr": "jāratna fuDūliyya, tibbi ta3rif kull shay.",
+  "ex_en": "Our neighbour is nosy, she wants to know everything.",
+  "note": "f. فضولية fuDūliyya; pl. فضوليين fuDūliyyīn.",
+  "phrases": [
+   {
+    "ar": "ما تكونش فضولي",
+    "tr": "ma tkūnsh fuDūli",
+    "en": "don't be nosy"
+   },
+   {
+    "ar": "سؤال فضولي",
+    "tr": "su'āl fuDūli",
+    "en": "a nosy question"
+   }
+  ]
+ },
+ {
+  "ar": "كثير الهدرة",
+  "tr": "kthīr il-hadra",
+  "en": "talkative; chatty",
+  "msa": "ثرثار",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "خالتي كثيرة الهدرة، ما تسكتش.",
+  "ex_tr": "khālti kthīrt il-hadra, ma tuskutsh.",
+  "ex_en": "My aunt is so chatty, she never stops.",
+  "note": "f. كثيرة الهدرة kthīrt il-hadra. From هدرز \"to chat\".",
+  "phrases": [
+   {
+    "ar": "راجل كثير الهدرة",
+    "tr": "rājil kthīr il-hadra",
+    "en": "a talkative man"
+   },
+   {
+    "ar": "كثير الهدرة قليل الخدمة",
+    "tr": "kthīr il-hadra gallīl il-khidma",
+    "en": "all talk and no work"
+   }
+  ]
+ },
+ {
+  "ar": "رزين",
+  "tr": "rzīn",
+  "en": "composed; level-headed; dignified",
+  "msa": "رزين",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "عمي راجل رزين، كلمته مسموعة.",
+  "ex_tr": "3ammi rājil rzīn, kilmtah masmū3a.",
+  "ex_en": "My uncle is a level-headed man, people listen to him.",
+  "note": "f. رزينة rzīna.",
+  "phrases": [
+   {
+    "ar": "بنت رزينة وعاقلة",
+    "tr": "bint rzīna w 3āgla",
+    "en": "a composed, sensible girl"
+   },
+   {
+    "ar": "رزين في كلامه",
+    "tr": "rzīn fi kalāmah",
+    "en": "measured in his speech"
+   }
+  ]
+ },
+ {
+  "ar": "متهور",
+  "tr": "mitahawwir",
+  "en": "reckless; rash",
+  "msa": "متهوّر",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 45,
+  "ex_ar": "يسوق متهور، بيدير حادث.",
+  "ex_tr": "ysūg mitahawwir, bash ydīr 7ādith.",
+  "ex_en": "He drives recklessly, he's going to cause an accident.",
+  "note": "f. متهورة mitahawwra; pl. متهورين mitahawwrīn.",
+  "phrases": [
+   {
+    "ar": "شاب متهور",
+    "tr": "shābb mitahawwir",
+    "en": "a reckless young man"
+   },
+   {
+    "ar": "قرار متهور",
+    "tr": "garār mitahawwir",
+    "en": "a rash decision"
+   }
+  ]
+ },
+ {
+  "ar": "واعي",
+  "tr": "wā3i",
+  "en": "aware; careful; sensible",
+  "msa": "واعي",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "ولدي واعي، يعرف يقطع الشارع وحده.",
+  "ex_tr": "weldi wā3i, ya3rif yigTa3 ish-shāri3 wa7dah.",
+  "ex_en": "My son is careful, he can cross the street alone.",
+  "note": "f. واعية wā3ya; pl. واعيين wā3yīn.",
+  "phrases": [
+   {
+    "ar": "شعب واعي",
+    "tr": "sha3b wā3i",
+    "en": "an aware people"
+   },
+   {
+    "ar": "خليك واعي",
+    "tr": "khallīk wā3i",
+    "en": "stay alert"
+   }
+  ]
+ },
+ {
+  "ar": "غشاش",
+  "tr": "ghashshāsh",
+  "en": "cheat; cheater",
+  "msa": "غشّاش",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "البايع هذا غشاش، ما تشريش منه.",
+  "ex_tr": "il-bāyi3 hādha ghashshāsh, ma tishrīsh minnah.",
+  "ex_en": "This seller is a cheat, don't buy from him.",
+  "note": "f. غشاشة ghashshāsha; pl. غشاشين ghashshāshīn.",
+  "phrases": [
+   {
+    "ar": "طالب غشاش في الامتحان",
+    "tr": "Tālib ghashshāsh fi l-imti7ān",
+    "en": "a student who cheats on exams"
+   },
+   {
+    "ar": "يا غشاش!",
+    "tr": "ya ghashshāsh!",
+    "en": "you cheater!"
+   }
+  ]
+ },
+ {
+  "ar": "منافق",
+  "tr": "munāfig",
+  "en": "hypocrite; two-faced",
+  "msa": "منافق",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 45,
+  "ex_ar": "قدامك يضحك ووراك يتكلم، منافق.",
+  "ex_tr": "guddāmak yiD7ak w warāk yitkallam, munāfig.",
+  "ex_en": "He smiles to your face and talks behind your back, a hypocrite.",
+  "note": "f. منافقة munāfga; pl. منافقين munāfgīn.",
+  "phrases": [
+   {
+    "ar": "ناس منافقين",
+    "tr": "nās munāfgīn",
+    "en": "two-faced people"
+   },
+   {
+    "ar": "ما نحبش المنافق",
+    "tr": "ma n7ibbsh il-munāfig",
+    "en": "I don't like hypocrites"
+   }
+  ]
+ },
+ {
+  "ar": "متدين",
+  "tr": "mitdayyin",
+  "en": "religious; devout",
+  "msa": "متديّن",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "عيلتهم متدينة، يصلوا في الجامع.",
+  "ex_tr": "3ēlit-hum mitdayyna, yṢallu fi l-jāmi3.",
+  "ex_en": "Their family is religious, they pray at the mosque.",
+  "note": "f. متدينة mitdayyna; pl. متدينين mitdayynīn.",
+  "phrases": [
+   {
+    "ar": "راجل متدين وطيب",
+    "tr": "rājil mitdayyin w Tayyib",
+    "en": "a devout, kind man"
+   },
+   {
+    "ar": "مش متدين هلبة",
+    "tr": "mush mitdayyin hallba",
+    "en": "not very religious"
+   }
+  ]
+ },
+ {
+  "ar": "طموح",
+  "tr": "Tamū7",
+  "en": "ambitious",
+  "msa": "طموح",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "بنت طموحة، تبي تولي دكتورة.",
+  "ex_tr": "bint Tamū7a, tibbi twalli diktōra.",
+  "ex_en": "An ambitious girl, she wants to become a doctor.",
+  "note": "f. طموحة Tamū7a. Also a noun \"ambition\".",
+  "phrases": [
+   {
+    "ar": "شاب طموح",
+    "tr": "shābb Tamū7",
+    "en": "an ambitious young man"
+   },
+   {
+    "ar": "عنده طموح كبير",
+    "tr": "3andah Tumū7 kbīr",
+    "en": "he has big ambitions"
+   }
+  ]
+ },
+ {
+  "ar": "مجتهد",
+  "tr": "mujtahid",
+  "en": "hard-working; diligent (esp. student)",
+  "msa": "مجتهِد",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "ولدك مجتهد في القراية.",
+  "ex_tr": "weldak mujtahid fi l-graya.",
+  "ex_en": "Your son is diligent in his studies.",
+  "note": "f. مجتهدة mujtahda; pl. مجتهدين mujtahdīn.",
+  "phrases": [
+   {
+    "ar": "طالبة مجتهدة",
+    "tr": "Tāliba mujtahda",
+    "en": "a hard-working student"
+   },
+   {
+    "ar": "كل مجتهد نصيب",
+    "tr": "li-kull mujtahid naSīb",
+    "en": "every hard worker gets his share (proverb)"
+   }
+  ]
+ },
+ {
+  "ar": "خدام",
+  "tr": "khaddām",
+  "en": "hard-working; diligent worker",
+  "msa": "مجتهد في العمل",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "راجل خدام، من الصبح للعشية.",
+  "ex_tr": "rājil khaddām, min iS-Sub7 l-il-3ashiyya.",
+  "ex_en": "A hard-working man, from morning to evening.",
+  "note": "f. خدامة khaddāma; pl. خدامين khaddāmīn. Note: as a noun خدّام can also mean \"servant\".",
+  "phrases": [
+   {
+    "ar": "شباب خدامين",
+    "tr": "shbāb khaddāmīn",
+    "en": "hard-working young men"
+   },
+   {
+    "ar": "هو خدام مش كسلان",
+    "tr": "huwwa khaddām mush kaslān",
+    "en": "he's hard-working, not lazy"
+   }
+  ]
+ },
+ {
+  "ar": "اجتماعي",
+  "tr": "ijtimā3i",
+  "en": "sociable; social",
+  "msa": "اجتماعي",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "أختي اجتماعية، تحب الناس هلبة.",
+  "ex_tr": "ukhti ijtimā3iyya, t7ibb in-nās hallba.",
+  "ex_en": "My sister is sociable, she loves people.",
+  "note": "f. اجتماعية ijtimā3iyya. Also \"social\" as in social media (مواقع التواصل الاجتماعي).",
+  "phrases": [
+   {
+    "ar": "مش اجتماعي، يحب يقعد وحده",
+    "tr": "mush ijtimā3i, y7ibb yug3ud wa7dah",
+    "en": "he's not sociable, he likes to be alone"
+   },
+   {
+    "ar": "مشاكل اجتماعية",
+    "tr": "mashākil ijtimā3iyya",
+    "en": "social problems"
+   }
+  ]
+ },
+ {
+  "ar": "حساس",
+  "tr": "7assās",
+  "en": "sensitive",
+  "msa": "حسّاس",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "ما تتمسخرش عليه، هو حساس.",
+  "ex_tr": "ma titmaskharsh 3alēh, huwwa 7assās.",
+  "ex_en": "Don't make fun of him, he's sensitive.",
+  "note": "f. حساسة 7assāsa; pl. حساسين 7assāsīn. Also حساسية \"allergy\".",
+  "phrases": [
+   {
+    "ar": "جلدي حساس",
+    "tr": "jildi 7assās",
+    "en": "my skin is sensitive"
+   },
+   {
+    "ar": "موضوع حساس",
+    "tr": "mawDū3 7assās",
+    "en": "a sensitive subject"
+   }
+  ]
+ },
+ {
+  "ar": "عاطفي",
+  "tr": "3āTifi",
+  "en": "emotional; romantic",
+  "msa": "عاطفي",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 43,
+  "ex_ar": "هي عاطفية هلبة، تبكي على أي حاجة.",
+  "ex_tr": "hiyya 3āTifiyya hallba, tibki 3la ayy 7āja.",
+  "ex_en": "She's very emotional, she cries over anything.",
+  "note": "f. عاطفية 3āTifiyya.",
+  "phrases": [
+   {
+    "ar": "فيلم عاطفي",
+    "tr": "film 3āTifi",
+    "en": "a romantic film"
+   },
+   {
+    "ar": "قرار عاطفي",
+    "tr": "garār 3āTifi",
+    "en": "an emotional decision"
+   }
+  ]
+ },
+ {
+  "ar": "غاوي",
+  "tr": "ghāwi",
+  "en": "keen on; fond of; passionate about",
+  "msa": "هاوٍ",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "خوي غاوي كورة، ما يفوتش ماتش.",
+  "ex_tr": "khūy ghāwi kūra, ma yfawwitsh mātsh.",
+  "ex_en": "My brother is crazy about football, he never misses a match.",
+  "note": "f. غاوية ghāwya; pl. غاويين ghāwyīn. Followed directly by the thing: غاوي كورة.",
+  "phrases": [
+   {
+    "ar": "غاوي صيد",
+    "tr": "ghāwi Sēd",
+    "en": "keen on hunting/fishing"
+   },
+   {
+    "ar": "مش غاوي سياسة",
+    "tr": "mush ghāwi siyāsa",
+    "en": "not into politics"
+   }
+  ]
+ },
+ {
+  "ar": "مدلع",
+  "tr": "mdalla3",
+  "en": "spoiled (child); pampered",
+  "msa": "مدلَّل",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "الصغير مدلع، كل شي يبيه يجيبوهوله.",
+  "ex_tr": "iS-Sghīr mdalla3, kull shay yibbih yjībūhūlah.",
+  "ex_en": "The little one is spoiled, they get him everything he wants.",
+  "note": "f. مدلعة mdall3a; pl. مدلعين mdall3īn.",
+  "phrases": [
+   {
+    "ar": "بنت مدلعة",
+    "tr": "bint mdall3a",
+    "en": "a spoiled girl"
+   },
+   {
+    "ar": "ما تدلعوش هلبة",
+    "tr": "ma tdall3ūsh hallba",
+    "en": "don't spoil him too much"
+   }
+  ]
+ },
+ {
+  "ar": "متفائل",
+  "tr": "mitfā'il",
+  "en": "optimistic",
+  "msa": "متفائل",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "أنا متفائل، الأمور بتتصلح.",
+  "ex_tr": "ana mitfā'il, il-umūr bash titSalla7.",
+  "ex_en": "I'm optimistic, things will get better.",
+  "note": "f. متفائلة mitfā'la.",
+  "phrases": [
+   {
+    "ar": "خليك متفائل",
+    "tr": "khallīk mitfā'il",
+    "en": "stay optimistic"
+   },
+   {
+    "ar": "مش متفائل هلبة",
+    "tr": "mush mitfā'il hallba",
+    "en": "not very optimistic"
+   }
+  ]
+ },
+ {
+  "ar": "متشائم",
+  "tr": "mitshā'im",
+  "en": "pessimistic",
+  "msa": "متشائم",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "ليش ديما متشائم؟",
+  "ex_tr": "līsh dīma mitshā'im?",
+  "ex_en": "Why are you always pessimistic?",
+  "note": "f. متشائمة mitshā'ma.",
+  "phrases": [
+   {
+    "ar": "راجل متشائم",
+    "tr": "rājil mitshā'im",
+    "en": "a pessimistic man"
+   },
+   {
+    "ar": "ما تكونش متشائم",
+    "tr": "ma tkūnsh mitshā'im",
+    "en": "don't be so pessimistic"
+   }
+  ]
+ },
+ {
+  "ar": "واثق",
+  "tr": "wāthig",
+  "en": "confident; sure",
+  "msa": "واثق",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "أنا واثق إنه بيجي.",
+  "ex_tr": "ana wāthig innah bash yji.",
+  "ex_en": "I'm sure he'll come.",
+  "note": "f. واثقة wāthga; pl. واثقين wāthgīn. واثق من روحه \"self-confident\".",
+  "phrases": [
+   {
+    "ar": "واثق من روحه",
+    "tr": "wāthig min rū7ah",
+    "en": "self-confident"
+   },
+   {
+    "ar": "مش واثق فيه",
+    "tr": "mush wāthig fīh",
+    "en": "I don't trust him"
+   }
+  ]
+ },
+ {
+  "ar": "شهم",
+  "tr": "shahm",
+  "en": "chivalrous; gallant; decent (man)",
+  "msa": "شهم",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "راجل شهم، وقف معانا في الأزمة.",
+  "ex_tr": "rājil shahm, wgif m3āna fi l-azma.",
+  "ex_en": "A gallant man, he stood by us in the crisis.",
+  "note": "pl. شهام shhām. High praise for a man who helps others.",
+  "phrases": [
+   {
+    "ar": "الليبيين ناس شهام",
+    "tr": "il-lībiyyīn nās shhām",
+    "en": "Libyans are chivalrous people"
+   },
+   {
+    "ar": "تصرف شهم",
+    "tr": "taSarruf shahm",
+    "en": "a gallant act"
+   }
+  ]
+ },
+ {
+  "ar": "نذل",
+  "tr": "nadhl",
+  "en": "despicable; low; scoundrel",
+  "msa": "نذل",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 5,
+  "usage": 36,
+  "ex_ar": "خلاها في الشارع، نذل.",
+  "ex_tr": "khallāha fi sh-shāri3, nadhl.",
+  "ex_en": "He left her on the street, a scoundrel.",
+  "note": "pl. أنذال andhāl.",
+  "phrases": [
+   {
+    "ar": "تصرف نذل",
+    "tr": "taSarruf nadhl",
+    "en": "a despicable act"
+   },
+   {
+    "ar": "يا نذل!",
+    "tr": "ya nadhl!",
+    "en": "you scoundrel!"
+   }
+  ]
+ },
+ {
+  "ar": "مغرور",
+  "tr": "maghrūr",
+  "en": "conceited; vain",
+  "msa": "مغرور",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "من يوم نجح وهو مغرور.",
+  "ex_tr": "min yōm nja7 w huwwa maghrūr.",
+  "ex_en": "Since he passed he's been conceited.",
+  "note": "f. مغرورة maghrūra; pl. مغرورين.",
+  "phrases": [
+   {
+    "ar": "بنت مغرورة بزينها",
+    "tr": "bint maghrūra b-zēnha",
+    "en": "a girl vain about her looks"
+   },
+   {
+    "ar": "لا تكون مغرور",
+    "tr": "la tkūn maghrūr",
+    "en": "don't be vain"
+   }
+  ]
+ },
+ {
+  "ar": "تافه",
+  "tr": "tāfih",
+  "en": "trivial; shallow; silly",
+  "msa": "تافه",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "مشكلة تافهة، ما تستاهلش.",
+  "ex_tr": "mushkila tāfha, ma tistāhilsh.",
+  "ex_en": "A trivial problem, it's not worth it.",
+  "note": "f. تافهة tāfha; pl. تافهين tāfhīn.",
+  "phrases": [
+   {
+    "ar": "كلام تافه",
+    "tr": "kalām tāfih",
+    "en": "nonsense talk"
+   },
+   {
+    "ar": "ناس تافهين",
+    "tr": "nās tāfhīn",
+    "en": "shallow people"
+   }
+  ]
+ },
+ {
+  "ar": "حكيم",
+  "tr": "7akīm",
+  "en": "wise",
+  "msa": "حكيم",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "جدي راجل حكيم.",
+  "ex_tr": "jaddi rājil 7akīm.",
+  "ex_en": "My grandfather is a wise man.",
+  "note": "f. حكيمة 7akīma; pl. حكماء 7ukamā'. In some areas حكيم also means \"doctor\".",
+  "phrases": [
+   {
+    "ar": "كلام حكيم",
+    "tr": "kalām 7akīm",
+    "en": "wise words"
+   },
+   {
+    "ar": "قرار حكيم",
+    "tr": "garār 7akīm",
+    "en": "a wise decision"
+   }
+  ]
+ },
+ {
+  "ar": "مجنون",
+  "tr": "majnūn",
+  "en": "crazy; mad",
+  "msa": "مجنون",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 3,
+  "usage": 56,
+  "ex_ar": "انت مجنون؟ تسوق بالسرعة هذي!",
+  "ex_tr": "inta majnūn? tsūg b-is-sur3a hādhi!",
+  "ex_en": "Are you crazy? Driving at this speed!",
+  "note": "f. مجنونة majnūna; pl. مجانين majānīn. Libyans also say مهبول (milder).",
+  "phrases": [
+   {
+    "ar": "مجنون كورة",
+    "tr": "majnūn kūra",
+    "en": "football-crazy"
+   },
+   {
+    "ar": "خلاني نولي مجنون",
+    "tr": "khallāni nwalli majnūn",
+    "en": "he's driving me mad"
+   }
+  ]
+ },
+ {
+  "ar": "مسؤول",
+  "tr": "mas'ūl",
+  "en": "responsible",
+  "msa": "مسؤول",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 3,
+  "usage": 60,
+  "ex_ar": "انت مسؤول على خوتك الصغار.",
+  "ex_tr": "inta mas'ūl 3la khūtak iS-Sghār.",
+  "ex_en": "You're responsible for your younger siblings.",
+  "note": "f. مسؤولة mas'ūla; pl. مسؤولين mas'ūlīn. Also a noun \"official\".",
+  "phrases": [
+   {
+    "ar": "شاب مسؤول",
+    "tr": "shābb mas'ūl",
+    "en": "a responsible young man"
+   },
+   {
+    "ar": "شكون المسؤول هنا؟",
+    "tr": "shkūn il-mas'ūl hni?",
+    "en": "who's in charge here?"
+   }
+  ]
+ },
+ {
+  "ar": "قافز",
+  "tr": "gāfiz",
+  "en": "sharp; quick-witted; smart",
+  "msa": "ذكي",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "الصغير قافز، يفهمها وهي طايرة.",
+  "ex_tr": "iS-Sghīr gāfiz, yifhamha w hiyya Tāyra.",
+  "ex_en": "The little one is sharp, he gets it immediately.",
+  "note": "f. قافزة gāfza; pl. قافزين gāfzīn. Typically Libyan; also used ironically for a smart-alec.",
+  "phrases": [
+   {
+    "ar": "عامل روحه قافز",
+    "tr": "3āmil rū7ah gāfiz",
+    "en": "acting like a smart-alec"
+   },
+   {
+    "ar": "بنت قافزة في الحساب",
+    "tr": "bint gāfza fi l-7sāb",
+    "en": "a girl who's sharp at maths"
+   }
+  ]
+ },
+ {
+  "ar": "فالح",
+  "tr": "fāli7",
+  "en": "competent; capable; successful",
+  "msa": "فالح",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "هو فالح في التجارة.",
+  "ex_tr": "huwwa fāli7 fi t-tijāra.",
+  "ex_en": "He's good at business.",
+  "note": "f. فالحة fāl7a. Often sarcastic: فالح غير في الأكل \"good only at eating\".",
+  "phrases": [
+   {
+    "ar": "فالح غير في النوم",
+    "tr": "fāli7 ghēr fi n-nōm",
+    "en": "good only at sleeping"
+   },
+   {
+    "ar": "بنت فالحة في كل شي",
+    "tr": "bint fāl7a fi kull shay",
+    "en": "a girl who's capable at everything"
+   }
+  ]
+ },
+ {
+  "ar": "مهذب",
+  "tr": "muhadhdhab",
+  "en": "polite; refined",
+  "msa": "مهذّب",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "تكلم معاه بطريقة مهذبة.",
+  "ex_tr": "itkallam m3āh b-Trīga muhadhdhaba.",
+  "ex_en": "He spoke to him politely.",
+  "note": "f. مهذبة muhadhdhaba; pl. مهذبين.",
+  "phrases": [
+   {
+    "ar": "شاب مهذب",
+    "tr": "shābb muhadhdhab",
+    "en": "a polite young man"
+   },
+   {
+    "ar": "كلام مهذب",
+    "tr": "kalām muhadhdhab",
+    "en": "polite words"
+   }
+  ]
+ },
+ {
+  "ar": "بكاي",
+  "tr": "bakkāy",
+  "en": "crybaby; always crying",
+  "msa": "بكّاء",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "الصغير بكاي، يبكي على أي حاجة.",
+  "ex_tr": "iS-Sghīr bakkāy, yibki 3la ayy 7āja.",
+  "ex_en": "The little one is a crybaby, he cries over anything.",
+  "note": "f. بكاية bakkāya.",
+  "phrases": [
+   {
+    "ar": "ما تكونش بكاي",
+    "tr": "ma tkūnsh bakkāy",
+    "en": "don't be a crybaby"
+   },
+   {
+    "ar": "بنت بكاية",
+    "tr": "bint bakkāya",
+    "en": "a girl who cries a lot"
+   }
+  ]
+ },
+ {
+  "ar": "نكدي",
+  "tr": "nakadi",
+  "en": "grumpy; killjoy",
+  "msa": "نكِد",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "ديما نكدي، ما يضحكش.",
+  "ex_tr": "dīma nakadi, ma yiD7aksh.",
+  "ex_en": "He's always grumpy, he never laughs.",
+  "note": "f. نكدية nakadiyya.",
+  "phrases": [
+   {
+    "ar": "مزاج نكدي",
+    "tr": "mizāj nakadi",
+    "en": "a sour mood"
+   },
+   {
+    "ar": "ما تكونش نكدي في العرس",
+    "tr": "ma tkūnsh nakadi fi l-3ars",
+    "en": "don't be a killjoy at the wedding"
+   }
+  ]
+ },
+ {
+  "ar": "مستحي",
+  "tr": "mista7i",
+  "en": "shy; bashful",
+  "msa": "مستحٍ",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "ادخل، ما تكونش مستحي.",
+  "ex_tr": "udkhul, ma tkūnsh mista7i.",
+  "ex_en": "Come in, don't be shy.",
+  "note": "f. مستحية mista7ya; pl. مستحيين mista7yīn.",
+  "phrases": [
+   {
+    "ar": "الصغيرة مستحية من الضيوف",
+    "tr": "iS-Sghīra mista7ya min iD-Dyūf",
+    "en": "the little girl is shy with the guests"
+   },
+   {
+    "ar": "مستحي نقوله",
+    "tr": "mista7i ngūllah",
+    "en": "I'm too shy to tell him"
+   }
+  ]
+ },
+ {
+  "ar": "جريء",
+  "tr": "jarī'",
+  "en": "bold; daring",
+  "msa": "جريء",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 44,
+  "ex_ar": "سؤال جريء، بس باهي.",
+  "ex_tr": "su'āl jarī', bass bāhi.",
+  "ex_en": "A bold question, but fine.",
+  "note": "f. جريئة jarī'a.",
+  "phrases": [
+   {
+    "ar": "بنت جريئة",
+    "tr": "bint jarī'a",
+    "en": "a daring girl"
+   },
+   {
+    "ar": "قرار جريء",
+    "tr": "garār jarī'",
+    "en": "a bold decision"
+   }
+  ]
+ },
+ {
+  "ar": "حريص",
+  "tr": "7arīS",
+  "en": "careful; keen; thrifty",
+  "msa": "حريص",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "بوي حريص على الفلوس.",
+  "ex_tr": "būy 7arīS 3la l-flūs.",
+  "ex_en": "My dad is careful with money.",
+  "note": "f. حريصة 7arīSa; pl. حريصين 7arīSīn.",
+  "phrases": [
+   {
+    "ar": "حريص على صحته",
+    "tr": "7arīS 3la Sa77tah",
+    "en": "careful about his health"
+   },
+   {
+    "ar": "كن حريص",
+    "tr": "kūn 7arīS",
+    "en": "be careful"
+   }
+  ]
+ },
+ {
+  "ar": "مبذر",
+  "tr": "mbadhdhir",
+  "en": "spendthrift; wasteful",
+  "msa": "مبذّر",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "مرته مبذرة، تصرف كل شي.",
+  "ex_tr": "mratah mbadhdhra, tSarrif kull shay.",
+  "ex_en": "His wife is a spendthrift, she spends everything.",
+  "note": "f. مبذرة mbadhdhra.",
+  "phrases": [
+   {
+    "ar": "ما تكونش مبذر",
+    "tr": "ma tkūnsh mbadhdhir",
+    "en": "don't be wasteful"
+   },
+   {
+    "ar": "مبذر في الفلوس",
+    "tr": "mbadhdhir fi l-flūs",
+    "en": "wasteful with money"
+   }
+  ]
+ },
+ {
+  "ar": "متسامح",
+  "tr": "mitsāmi7",
+  "en": "forgiving; tolerant",
+  "msa": "متسامح",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "أمي متسامحة، تنسى بسرعة.",
+  "ex_tr": "ummi mitsām7a, tinsa b-sur3a.",
+  "ex_en": "My mum is forgiving, she forgets quickly.",
+  "note": "f. متسامحة mitsām7a; pl. متسامحين.",
+  "phrases": [
+   {
+    "ar": "ناس متسامحين",
+    "tr": "nās mitsām7īn",
+    "en": "tolerant people"
+   },
+   {
+    "ar": "لازم نكونوا متسامحين",
+    "tr": "lāzim nkūnu mitsām7īn",
+    "en": "we must be forgiving"
+   }
+  ]
+ },
+ {
+  "ar": "أناني",
+  "tr": "anāni",
+  "en": "selfish",
+  "msa": "أناني",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 48,
+  "ex_ar": "ما تكونش أناني، قسم مع خوك.",
+  "ex_tr": "ma tkūnsh anāni, gassim ma3 khūk.",
+  "ex_en": "Don't be selfish, share with your brother.",
+  "note": "f. أنانية anāniyya; pl. أنانيين.",
+  "phrases": [
+   {
+    "ar": "راجل أناني",
+    "tr": "rājil anāni",
+    "en": "a selfish man"
+   },
+   {
+    "ar": "تصرف أناني",
+    "tr": "taSarruf anāni",
+    "en": "a selfish act"
+   }
+  ]
+ },
+ {
+  "ar": "حقود",
+  "tr": "7agūd",
+  "en": "spiteful; holds grudges",
+  "msa": "حقود",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 5,
+  "usage": 36,
+  "ex_ar": "ما تكونش حقود، سامحه.",
+  "ex_tr": "ma tkūnsh 7agūd, sām7ah.",
+  "ex_en": "Don't hold a grudge, forgive him.",
+  "note": "f. حقودة 7agūda.",
+  "phrases": [
+   {
+    "ar": "قلب حقود",
+    "tr": "galb 7agūd",
+    "en": "a spiteful heart"
+   },
+   {
+    "ar": "هو حقود وما ينساش",
+    "tr": "huwwa 7agūd w ma yinsāsh",
+    "en": "he's spiteful and never forgets"
+   }
+  ]
+ },
+ {
+  "ar": "مزعج",
+  "tr": "muz3ij",
+  "en": "annoying; noisy; disturbing",
+  "msa": "مزعِج",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 52,
+  "ex_ar": "الصوت هذا مزعج هلبة.",
+  "ex_tr": "iS-Sōt hādha muz3ij hallba.",
+  "ex_en": "This noise is very annoying.",
+  "note": "f. مزعجة muz3ja.",
+  "phrases": [
+   {
+    "ar": "جار مزعج",
+    "tr": "jār muz3ij",
+    "en": "a noisy neighbour"
+   },
+   {
+    "ar": "ياخي انت مزعج",
+    "tr": "yākhi inta muz3ij",
+    "en": "man, you're annoying"
+   }
+  ]
+ },
+ {
+  "ar": "ضحوك",
+  "tr": "Da7ūk",
+  "en": "cheerful; always smiling",
+  "msa": "ضحوك",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "بنت ضحوكة، ديما مبتسمة.",
+  "ex_tr": "bint Da7ūka, dīma mibtasma.",
+  "ex_en": "A cheerful girl, always smiling.",
+  "note": "f. ضحوكة Da7ūka.",
+  "phrases": [
+   {
+    "ar": "وجه ضحوك",
+    "tr": "wajh Da7ūk",
+    "en": "a smiling face"
+   },
+   {
+    "ar": "الصغير ضحوك",
+    "tr": "iS-Sghīr Da7ūk",
+    "en": "the baby laughs a lot"
+   }
+  ]
+ },
+ {
+  "ar": "مكشر",
+  "tr": "mkashshir",
+  "en": "frowning; sullen",
+  "msa": "مكشِّر",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 42,
+  "ex_ar": "ليش مكشر اليوم؟",
+  "ex_tr": "līsh mkashshir il-yōm?",
+  "ex_en": "Why are you frowning today?",
+  "note": "f. مكشرة mkashshra.",
+  "phrases": [
+   {
+    "ar": "وجهه ديما مكشر",
+    "tr": "wajhah dīma mkashshir",
+    "en": "he always has a sour face"
+   },
+   {
+    "ar": "ما تقعدش مكشر",
+    "tr": "ma tug3udsh mkashshir",
+    "en": "don't sit there frowning"
+   }
+  ]
+ },
+ {
+  "ar": "بليد",
+  "tr": "blīd",
+  "en": "dull; slow-witted",
+  "msa": "بليد",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 5,
+  "usage": 38,
+  "ex_ar": "مش بليد، بس ما يقراش.",
+  "ex_tr": "mush blīd, bass ma yigrāsh.",
+  "ex_en": "He's not dull, he just doesn't study.",
+  "note": "f. بليدة blīda.",
+  "phrases": [
+   {
+    "ar": "طالب بليد",
+    "tr": "Tālib blīd",
+    "en": "a slow student"
+   },
+   {
+    "ar": "إحساس بليد",
+    "tr": "i7sās blīd",
+    "en": "a dull feeling"
+   }
+  ]
+ },
+ {
+  "ar": "مثقف",
+  "tr": "muthaqqaf",
+  "en": "educated; cultured",
+  "msa": "مثقّف",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "خالي مثقف، يقرا هلبة كتب.",
+  "ex_tr": "khāli muthaqqaf, yigra hallba ktub.",
+  "ex_en": "My uncle is cultured, he reads lots of books.",
+  "note": "f. مثقفة muthaqqafa; pl. مثقفين.",
+  "phrases": [
+   {
+    "ar": "شاب مثقف",
+    "tr": "shābb muthaqqaf",
+    "en": "an educated young man"
+   },
+   {
+    "ar": "الناس المثقفين",
+    "tr": "in-nās il-muthaqqafīn",
+    "en": "educated people"
+   }
+  ]
+ },
+ {
+  "ar": "متعلم",
+  "tr": "mit3allim",
+  "en": "educated; literate",
+  "msa": "متعلّم",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 46,
+  "ex_ar": "أمه متعلمة وخدامة.",
+  "ex_tr": "ummah mit3allma w khaddāma.",
+  "ex_en": "His mother is educated and works.",
+  "note": "f. متعلمة mit3allma; pl. متعلمين.",
+  "phrases": [
+   {
+    "ar": "جيل متعلم",
+    "tr": "jīl mit3allim",
+    "en": "an educated generation"
+   },
+   {
+    "ar": "مش متعلم بس فاهم",
+    "tr": "mush mit3allim bass fāhim",
+    "en": "not educated but wise"
+   }
+  ]
+ },
+ {
+  "ar": "أمي",
+  "tr": "ummi",
+  "en": "illiterate",
+  "msa": "أمّيّ",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "جدتي أمية، ما تعرفش تقرا.",
+  "ex_tr": "jaddti ummiyya, ma ta3rifsh tigra.",
+  "ex_en": "My grandmother is illiterate, she can't read.",
+  "note": "f. أمية ummiyya; pl. أميين. Do not confuse with أمي \"my mother\".",
+  "phrases": [
+   {
+    "ar": "محو الأمية",
+    "tr": "ma7w il-ummiyya",
+    "en": "literacy programme"
+   },
+   {
+    "ar": "راجل أمي بس شاطر",
+    "tr": "rājil ummi bass shāTir",
+    "en": "an illiterate but clever man"
+   }
+  ]
+ },
+ {
+  "ar": "شرير",
+  "tr": "sharrīr",
+  "en": "evil; wicked",
+  "msa": "شرّير",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "في الفيلم، الراجل هذا شرير.",
+  "ex_tr": "fi l-film, ir-rājil hādha sharrīr.",
+  "ex_en": "In the film this man is the villain.",
+  "note": "f. شريرة sharrīra; pl. شريرين.",
+  "phrases": [
+   {
+    "ar": "ضحكة شريرة",
+    "tr": "Da7ka sharrīra",
+    "en": "an evil laugh"
+   },
+   {
+    "ar": "مش شرير، بس عصبي",
+    "tr": "mush sharrīr, bass 3aSabi",
+    "en": "he's not evil, just hot-tempered"
+   }
+  ]
+ },
+ {
+  "ar": "مؤذي",
+  "tr": "mu'dhi",
+  "en": "harmful; hurtful; nasty",
+  "msa": "مؤذٍ",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "الدخان مؤذي للصحة.",
+  "ex_tr": "id-dukhkhān mu'dhi l-iS-Sa77a.",
+  "ex_en": "Smoking is harmful to health.",
+  "note": "f. مؤذية mu'dhya.",
+  "phrases": [
+   {
+    "ar": "كلام مؤذي",
+    "tr": "kalām mu'dhi",
+    "en": "hurtful words"
+   },
+   {
+    "ar": "حيوان مؤذي",
+    "tr": "7ayawān mu'dhi",
+    "en": "a harmful animal"
+   }
+  ]
+ },
+ {
+  "ar": "خدوم",
+  "tr": "khadūm",
+  "en": "helpful; obliging",
+  "msa": "خدوم",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 40,
+  "ex_ar": "جارنا خدوم، يعاون الكل.",
+  "ex_tr": "jārna khadūm, y3āwin il-kull.",
+  "ex_en": "Our neighbour is helpful, he helps everyone.",
+  "note": "f. خدومة khadūma.",
+  "phrases": [
+   {
+    "ar": "بنت خدومة",
+    "tr": "bint khadūma",
+    "en": "a helpful girl"
+   },
+   {
+    "ar": "راجل خدوم وطيب",
+    "tr": "rājil khadūm w Tayyib",
+    "en": "a helpful, kind man"
+   }
+  ]
+ },
+ {
+  "ar": "متعجرف",
+  "tr": "mit3ajrif",
+  "en": "arrogant; snobbish",
+  "msa": "متعجرف",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 5,
+  "usage": 34,
+  "ex_ar": "الموظف كان متعجرف معانا.",
+  "ex_tr": "il-muwaDHDHaf kān mit3ajrif m3āna.",
+  "ex_en": "The employee was arrogant with us.",
+  "note": "f. متعجرفة mit3ajrfa.",
+  "phrases": [
+   {
+    "ar": "طريقة متعجرفة",
+    "tr": "Trīga mit3ajrfa",
+    "en": "a snobbish manner"
+   },
+   {
+    "ar": "ناس متعجرفين",
+    "tr": "nās mit3ajrfīn",
+    "en": "snobbish people"
+   }
+  ]
+ },
+ {
+  "ar": "ودود",
+  "tr": "wadūd",
+  "en": "friendly; affectionate",
+  "msa": "ودود",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 5,
+  "usage": 36,
+  "ex_ar": "الناس هني ودودين.",
+  "ex_tr": "in-nās hni wadūdīn.",
+  "ex_en": "People here are friendly.",
+  "note": "f. ودودة wadūda.",
+  "phrases": [
+   {
+    "ar": "بسمة ودودة",
+    "tr": "basma wadūda",
+    "en": "a friendly smile"
+   },
+   {
+    "ar": "كلب ودود",
+    "tr": "kalb wadūd",
+    "en": "a friendly dog"
+   }
+  ]
+ },
+ {
+  "ar": "صريح",
+  "tr": "Sarī7",
+  "en": "frank; straightforward; candid",
+  "msa": "صريح",
+  "pos": "adj",
+  "cat": "adjectives",
+  "freq": 4,
+  "usage": 50,
+  "ex_ar": "نكون صريح معاك، ما عجبنيش.",
+  "ex_tr": "nkūn Sarī7 m3āk, ma 3jabnīsh.",
+  "ex_en": "To be frank with you, I didn't like it.",
+  "note": "f. صريحة Sarī7a. نكون صريح معاك \"to be honest with you\".",
+  "phrases": [
+   {
+    "ar": "راجل صريح",
+    "tr": "rājil Sarī7",
+    "en": "a straightforward man"
+   },
+   {
+    "ar": "سؤال صريح",
+    "tr": "su'āl Sarī7",
+    "en": "a candid question"
+   }
+  ]
+ }
+]

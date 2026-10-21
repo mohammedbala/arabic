@@ -10,7 +10,20 @@
     "ex_ar": "جيب معاك خبزة من الكوشة.",
     "ex_tr": "jīb m3āk khubza min il-kūsha.",
     "ex_en": "Bring a loaf of bread from the bakery with you.",
-    "note": "Libyans usually say خبزة for bread in general; pl. خبز khubz. Often bought fresh twice a day."
+    "note": "Libyans usually say خبزة for bread in general; pl. خبز khubz. Often bought fresh twice a day.",
+    "usage": 91,
+    "phrases": [
+      {
+        "ar": "الخبزة سخونة توا",
+        "tr": "il-khubza skhūna tawwa",
+        "en": "The bread is hot right now"
+      },
+      {
+        "ar": "بنشري خبزة ونرجع",
+        "tr": "banshri khubza w nirja3",
+        "en": "I'll buy bread and come back"
+      }
+    ]
   },
   {
     "ar": "خبزة تنور",
@@ -23,7 +36,20 @@
     "ex_ar": "خبزة التنور مع الزيت حاجة باهية.",
     "ex_tr": "khubzat it-tannūr ma3a iz-zēt 7āja bāhya.",
     "ex_en": "Tannūr bread with olive oil is a lovely thing.",
-    "note": "Traditional round flatbread baked on the walls of a clay tannūr, common in homes and rural areas."
+    "note": "Traditional round flatbread baked on the walls of a clay tannūr, common in homes and rural areas.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "نبي خبزة تنور بالزيت",
+        "tr": "nibbi khubzat tannūr biz-zēt",
+        "en": "I want tannūr bread with olive oil"
+      },
+      {
+        "ar": "أمي تطيب خبزة التنور في الحوش",
+        "tr": "ummi tTayyib khubzat it-tannūr fil-7ōsh",
+        "en": "My mom bakes tannūr bread in the courtyard"
+      }
+    ]
   },
   {
     "ar": "رز",
@@ -36,7 +62,20 @@
     "ex_ar": "اليوم نطيبوا رز بالحوت.",
     "ex_tr": "il-yōm nTayybu ruzz bil-7ūt.",
     "ex_en": "Today we're cooking rice with fish.",
-    "note": "Also pronounced rozz. Libyan 'rice with fish' (رز بالحوت) is a classic coastal dish."
+    "note": "Also pronounced rozz. Libyan 'rice with fish' (رز بالحوت) is a classic coastal dish.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "الرز طاب ولا لا؟",
+        "tr": "ir-ruzz Tāb walla la?",
+        "en": "Is the rice cooked or not?"
+      },
+      {
+        "ar": "كيلو رز من فضلك",
+        "tr": "kīlu ruzz min faDlak",
+        "en": "A kilo of rice, please"
+      }
+    ]
   },
   {
     "ar": "لحم",
@@ -49,7 +88,20 @@
     "ex_ar": "اللحم غلا هالأيام.",
     "ex_tr": "il-la7am ghla hal-ayyām.",
     "ex_en": "Meat has become expensive these days.",
-    "note": "Libyan pronunciation inserts a vowel: la7am. Without qualification it usually means lamb/mutton."
+    "note": "Libyan pronunciation inserts a vowel: la7am. Without qualification it usually means lamb/mutton.",
+    "usage": 83,
+    "phrases": [
+      {
+        "ar": "قداش كيلو اللحم؟",
+        "tr": "gaddāsh kīlu il-la7am?",
+        "en": "How much is a kilo of meat?"
+      },
+      {
+        "ar": "ما ناكلش لحم هلبة",
+        "tr": "ma naklish la7am hallba",
+        "en": "I don't eat much meat"
+      }
+    ]
   },
   {
     "ar": "لحم مفروم",
@@ -61,7 +113,20 @@
     "freq": 2,
     "ex_ar": "نبي كيلو لحم مفروم للمبطن.",
     "ex_tr": "nibbi kīlu la7am mafrūm lil-mbaTTan.",
-    "ex_en": "I want a kilo of minced meat for the mbaṭṭan."
+    "ex_en": "I want a kilo of minced meat for the mbaṭṭan.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "عطيني نص كيلو لحم مفروم",
+        "tr": "3aTīni nuSS kīlu la7am mafrūm",
+        "en": "Give me half a kilo of minced meat"
+      },
+      {
+        "ar": "اللحم المفروم للكفتة",
+        "tr": "il-la7am il-mafrūm lil-kufta",
+        "en": "The minced meat is for the meatballs"
+      }
+    ]
   },
   {
     "ar": "لحم علوش",
@@ -74,7 +139,20 @@
     "ex_ar": "لحم العلوش أحسن من لحم البقري.",
     "ex_tr": "la7am il-3allūsh a7san min la7am il-bagri.",
     "ex_en": "Lamb is better than beef.",
-    "note": "علوش 3allūsh = young sheep/lamb in Libyan; lamb is the prestige meat."
+    "note": "علوش 3allūsh = young sheep/lamb in Libyan; lamb is the prestige meat.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "لحم العلوش غالي هالأيام",
+        "tr": "la7am il-3allūsh ghāli hal-ayyām",
+        "en": "Lamb is expensive these days"
+      },
+      {
+        "ar": "الشربة تبي لحم علوش",
+        "tr": "ish-sharba tibbi la7am 3allūsh",
+        "en": "The soup needs lamb"
+      }
+    ]
   },
   {
     "ar": "لحم بقري",
@@ -86,7 +164,20 @@
     "freq": 3,
     "ex_ar": "اللحم البقري أرخص شوية.",
     "ex_tr": "il-la7am il-bagri arkhaS shwayya.",
-    "ex_en": "Beef is a bit cheaper."
+    "ex_en": "Beef is a bit cheaper.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "ما نحبش اللحم البقري",
+        "tr": "ma n7ibbish il-la7am il-bagri",
+        "en": "I don't like beef"
+      },
+      {
+        "ar": "عندكم لحم بقري طري؟",
+        "tr": "3andkum la7am bagri Tari?",
+        "en": "Do you have fresh beef?"
+      }
+    ]
   },
   {
     "ar": "لحم جمل",
@@ -99,7 +190,20 @@
     "ex_ar": "في الجنوب ياكلوا لحم الجمل هلبة.",
     "ex_tr": "fi j-janūb yāklu la7am ij-jmal hallba.",
     "ex_en": "In the south they eat camel meat a lot.",
-    "note": "Camel meat is sold at specialised butchers and is popular in winter."
+    "note": "Camel meat is sold at specialised butchers and is popular in winter.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "عمرك كليت لحم جمل؟",
+        "tr": "3umrak klēt la7am jmal?",
+        "en": "Have you ever eaten camel meat?"
+      },
+      {
+        "ar": "لحم الجمل تقيل شوية",
+        "tr": "la7am ij-jmal tgīl shwayya",
+        "en": "Camel meat is a bit heavy"
+      }
+    ]
   },
   {
     "ar": "كبدة",
@@ -112,7 +216,20 @@
     "ex_ar": "نحب الكبدة مشوية على الفحم.",
     "ex_tr": "in7ibb il-kibda mashwiyya 3ala il-fa7am.",
     "ex_en": "I love liver grilled over charcoal.",
-    "note": "Grilled liver is a traditional treat on Eid al-Adha."
+    "note": "Grilled liver is a traditional treat on Eid al-Adha.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "كبدة مشوية بالكمون",
+        "tr": "kibda mashwiyya bil-kammūn",
+        "en": "Grilled liver with cumin"
+      },
+      {
+        "ar": "بنشري كبدة للفطور",
+        "tr": "banshri kibda lil-fTūr",
+        "en": "I'll buy liver for breakfast"
+      }
+    ]
   },
   {
     "ar": "قديد",
@@ -125,7 +242,20 @@
     "ex_ar": "أمي تدير القديد بعد العيد الكبير.",
     "ex_tr": "ummi tdīr il-gadīd ba3d il-3īd il-kbīr.",
     "ex_en": "My mother makes dried meat after Eid al-Adha.",
-    "note": "Strips of sacrificial lamb salted, spiced and sun-dried; later cooked in sharba or with couscous."
+    "note": "Strips of sacrificial lamb salted, spiced and sun-dried; later cooked in sharba or with couscous.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "القديد معلق في الحوش",
+        "tr": "il-gadīd m3allag fil-7ōsh",
+        "en": "The dried meat is hanging in the courtyard"
+      },
+      {
+        "ar": "الكسكسي بالقديد بنين",
+        "tr": "il-kuskusi bil-gadīd bnīn",
+        "en": "Couscous with dried meat is tasty"
+      }
+    ]
   },
   {
     "ar": "دجاج",
@@ -138,7 +268,20 @@
     "ex_ar": "العشا الليلة دجاج في الكوشة.",
     "ex_tr": "il-3sha il-lēla djāj fil-kūsha.",
     "ex_en": "Dinner tonight is chicken in the oven.",
-    "note": "Single bird: دجاجة djāja."
+    "note": "Single bird: دجاجة djāja.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "نبي دجاجة كاملة",
+        "tr": "nibbi djāja kāmla",
+        "en": "I want a whole chicken"
+      },
+      {
+        "ar": "الدجاج طاب في الكوشة",
+        "tr": "id-djāj Tāb fil-kūsha",
+        "en": "The chicken is done in the oven"
+      }
+    ]
   },
   {
     "ar": "حوت",
@@ -151,7 +294,20 @@
     "ex_ar": "الحوت طري اليوم في السوق.",
     "ex_tr": "il-7ūt Tari il-yōm fis-sūg.",
     "ex_en": "The fish is fresh in the market today.",
-    "note": "In Libya حوت means any fish (not 'whale' as in MSA). pl. حيتان 7ītān."
+    "note": "In Libya حوت means any fish (not 'whale' as in MSA). pl. حيتان 7ītān.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "قداش كيلو الحوت؟",
+        "tr": "gaddāsh kīlu il-7ūt?",
+        "en": "How much is a kilo of fish?"
+      },
+      {
+        "ar": "بنمشي نصطاد الحوت",
+        "tr": "bnimshi nSTād il-7ūt",
+        "en": "I'm going to go fishing"
+      }
+    ]
   },
   {
     "ar": "تونة",
@@ -164,7 +320,20 @@
     "ex_ar": "حط تونة في السندويتش.",
     "ex_tr": "7uTT tūna fis-sandawitsh.",
     "ex_en": "Put tuna in the sandwich.",
-    "note": "Tuna is a staple filling with harīsa and olives."
+    "note": "Tuna is a staple filling with harīsa and olives.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "خبزة بالتونة والهريسة",
+        "tr": "khubza bit-tūna wil-harīsa",
+        "en": "Bread with tuna and harissa"
+      },
+      {
+        "ar": "جيب علبتين تونة",
+        "tr": "jīb 3ulbtēn tūna",
+        "en": "Bring two cans of tuna"
+      }
+    ]
   },
   {
     "ar": "سردينة",
@@ -177,7 +346,20 @@
     "ex_ar": "السردينة المقلية رخيصة وبنينة.",
     "ex_tr": "is-sardīna il-maglyya rkhīSa w-bnīna.",
     "ex_en": "Fried sardines are cheap and tasty.",
-    "note": "From Italian sardina."
+    "note": "From Italian sardina.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "السردينة رخيصة اليوم",
+        "tr": "is-sardīna rkhīSa il-yōm",
+        "en": "Sardines are cheap today"
+      },
+      {
+        "ar": "نقلوا السردينة في الطاوة",
+        "tr": "nigliw is-sardīna fiT-Tāwa",
+        "en": "We fry the sardines in the pan"
+      }
+    ]
   },
   {
     "ar": "دحية",
@@ -190,7 +372,20 @@
     "ex_ar": "نبي دحيتين مقليات في الفطور.",
     "ex_tr": "nibbi da7ytēn maglyyāt fil-fTūr.",
     "ex_en": "I want two fried eggs for breakfast.",
-    "note": "Very Libyan word; collective/pl. دحي da7i. MSA بيض is understood but not used."
+    "note": "Very Libyan word; collective/pl. دحي da7i. MSA بيض is understood but not used.",
+    "usage": 79,
+    "phrases": [
+      {
+        "ar": "دحية مسلوقة من فضلك",
+        "tr": "da7ya maslūga min faDlak",
+        "en": "A boiled egg, please"
+      },
+      {
+        "ar": "الدحي خلص من الثلاجة",
+        "tr": "id-da7i khlaS min it-tallāja",
+        "en": "The eggs are finished in the fridge"
+      }
+    ]
   },
   {
     "ar": "جبنة",
@@ -202,7 +397,20 @@
     "freq": 1,
     "ex_ar": "فطورنا خبزة وجبنة وزيتون.",
     "ex_tr": "fTūrna khubza w-jibna w-zītūn.",
-    "ex_en": "Our breakfast is bread, cheese and olives."
+    "ex_en": "Our breakfast is bread, cheese and olives.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "خبزة بالجبنة والطماطم",
+        "tr": "khubza bil-jibna wiT-TmāTim",
+        "en": "Bread with cheese and tomato"
+      },
+      {
+        "ar": "الجبنة هذي مالحة هلبة",
+        "tr": "il-jibna hādhi māl7a hallba",
+        "en": "This cheese is very salty"
+      }
+    ]
   },
   {
     "ar": "زبدة",
@@ -214,7 +422,20 @@
     "freq": 2,
     "ex_ar": "حط شوية زبدة على الخبزة.",
     "ex_tr": "7uTT shwayya zibda 3ala il-khubza.",
-    "ex_en": "Put a little butter on the bread."
+    "ex_en": "Put a little butter on the bread.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "الزبدة في الثلاجة",
+        "tr": "iz-zibda fit-tallāja",
+        "en": "The butter is in the fridge"
+      },
+      {
+        "ar": "بنقلي الدحي بالزبدة",
+        "tr": "bangli id-da7i biz-zibda",
+        "en": "I'll fry the eggs in butter"
+      }
+    ]
   },
   {
     "ar": "سمن",
@@ -226,7 +447,20 @@
     "freq": 3,
     "ex_ar": "العصيدة تتاكل بالسمن والعسل.",
     "ex_tr": "il-3aSīda titākil bis-samin wil-3asal.",
-    "ex_en": "3aSīda is eaten with ghee and honey."
+    "ex_en": "3aSīda is eaten with ghee and honey.",
+    "usage": 45,
+    "phrases": [
+      {
+        "ar": "حط معلقة سمن في الكسكسي",
+        "tr": "7uTT ma3laga samin fil-kuskusi",
+        "en": "Put a spoonful of ghee in the couscous"
+      },
+      {
+        "ar": "السمن العربي ريحته قوية",
+        "tr": "is-samin il-3arbi ri7tah gwiyya",
+        "en": "Traditional ghee has a strong smell"
+      }
+    ]
   },
   {
     "ar": "عسل",
@@ -238,7 +472,20 @@
     "freq": 2,
     "ex_ar": "عسل الجبل غالي لكن يستاهل.",
     "ex_tr": "3asal ij-jbal ghāli lākin yistāhil.",
-    "ex_en": "Mountain honey is pricey but worth it."
+    "ex_en": "Mountain honey is pricey but worth it.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "شاهي بالعسل للكحة",
+        "tr": "shāhi bil-3asal lil-ku77a",
+        "en": "Tea with honey for the cough"
+      },
+      {
+        "ar": "العسل هذا أصلي؟",
+        "tr": "il-3asal hādha aSli?",
+        "en": "Is this honey genuine?"
+      }
+    ]
   },
   {
     "ar": "خضرة",
@@ -251,7 +498,20 @@
     "ex_ar": "مشيت للسوق نشري الخضرة.",
     "ex_tr": "mshēt lis-sūg nishri il-khuDra.",
     "ex_en": "I went to the market to buy vegetables.",
-    "note": "Collective noun used for all vegetables."
+    "note": "Collective noun used for all vegetables.",
+    "usage": 77,
+    "phrases": [
+      {
+        "ar": "الخضرة غالية هالجمعة",
+        "tr": "il-khuDra ghālya hal-jum3a",
+        "en": "Vegetables are expensive this week"
+      },
+      {
+        "ar": "اغسل الخضرة قبل ما تقطعها",
+        "tr": "ighsil il-khuDra gbal ma tgaT3ha",
+        "en": "Wash the vegetables before you cut them"
+      }
+    ]
   },
   {
     "ar": "فواكه",
@@ -263,7 +523,20 @@
     "freq": 2,
     "ex_ar": "بعد الغدا ناكلوا شوية فواكه.",
     "ex_tr": "ba3d il-ghda nāklu shwayya fwākih.",
-    "ex_en": "After lunch we eat some fruit."
+    "ex_en": "After lunch we eat some fruit.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "الفواكه طرية اليوم",
+        "tr": "il-fwākih Tariyya il-yōm",
+        "en": "The fruit is fresh today"
+      },
+      {
+        "ar": "نبي نشري شوية فواكه",
+        "tr": "nibbi nishri shwayya fwākih",
+        "en": "I want to buy some fruit"
+      }
+    ]
   },
   {
     "ar": "طماطم",
@@ -276,7 +549,20 @@
     "ex_ar": "الطماطم أساس كل ماكلة ليبية.",
     "ex_tr": "iT-TmāTim asās kull mākla lībiyya.",
     "ex_en": "Tomatoes are the basis of every Libyan dish.",
-    "note": "Single: حبة طماطم 7abbat TmāTim."
+    "note": "Single: حبة طماطم 7abbat TmāTim.",
+    "usage": 75,
+    "phrases": [
+      {
+        "ar": "قداش كيلو الطماطم؟",
+        "tr": "gaddāsh kīlu iT-TmāTim?",
+        "en": "How much is a kilo of tomatoes?"
+      },
+      {
+        "ar": "الطماطم مش طايبة",
+        "tr": "iT-TmāTim mush Tāyba",
+        "en": "The tomatoes aren't ripe"
+      }
+    ]
   },
   {
     "ar": "بصل",
@@ -289,7 +575,20 @@
     "ex_ar": "قطّع البصل رقيق.",
     "ex_tr": "gaTTa3 il-bSal rgīg.",
     "ex_en": "Chop the onion thinly.",
-    "note": "Single: بصلة bSala."
+    "note": "Single: بصلة bSala.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "البصل يبكّي",
+        "tr": "il-bSal ybakki",
+        "en": "Onions make you cry"
+      },
+      {
+        "ar": "حمّر البصل في الزيت",
+        "tr": "7ammar il-bSal fiz-zēt",
+        "en": "Brown the onion in oil"
+      }
+    ]
   },
   {
     "ar": "ثوم",
@@ -302,7 +601,20 @@
     "ex_ar": "الشربة تبي شوية ثوم.",
     "ex_tr": "ish-sharba tibbi shwayya thūm.",
     "ex_en": "The soup needs a little garlic.",
-    "note": "A clove: سنة ثوم sinnit thūm."
+    "note": "A clove: سنة ثوم sinnit thūm.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "ريحة الثوم قوية",
+        "tr": "ri7at it-thūm gwiyya",
+        "en": "The smell of garlic is strong"
+      },
+      {
+        "ar": "دق شوية ثوم",
+        "tr": "dugg shwayya thūm",
+        "en": "Crush a little garlic"
+      }
+    ]
   },
   {
     "ar": "بطاطا",
@@ -315,7 +627,20 @@
     "ex_ar": "نبي بطاطا مقلية مع الدجاج.",
     "ex_tr": "nibbi baTāTa maglyya ma3a id-djāj.",
     "ex_en": "I want fried potatoes with the chicken.",
-    "note": "Libyans say بطاطا, not Egyptian بطاطس."
+    "note": "Libyans say بطاطا, not Egyptian بطاطس.",
+    "usage": 73,
+    "phrases": [
+      {
+        "ar": "بطاطا مقلية بالدحي",
+        "tr": "baTāTa maglya bid-da7i",
+        "en": "Fried potatoes with egg"
+      },
+      {
+        "ar": "قشّر البطاطا",
+        "tr": "gashshar il-baTāTa",
+        "en": "Peel the potatoes"
+      }
+    ]
   },
   {
     "ar": "زرودية",
@@ -328,7 +653,20 @@
     "ex_ar": "حط الزرودية والبطاطا في المرقة.",
     "ex_tr": "7uTT iz-zrūdiya wil-baTāTa fil-marga.",
     "ex_en": "Put the carrots and potatoes in the stew.",
-    "note": "Maghrebi word for carrots; جزر jazar is also understood."
+    "note": "Maghrebi word for carrots; جزر jazar is also understood.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "الزرودية تقوي النظر",
+        "tr": "iz-zrūdiya tgawwi in-naDHar",
+        "en": "Carrots strengthen your eyesight"
+      },
+      {
+        "ar": "عصير زرودية وبرتقان",
+        "tr": "3aSīr zrūdiya w burtgān",
+        "en": "Carrot and orange juice"
+      }
+    ]
   },
   {
     "ar": "فلفل",
@@ -341,7 +679,20 @@
     "ex_ar": "الفلفل الحار يحرق.",
     "ex_tr": "il-filfil il-7ārr yi7rig.",
     "ex_en": "Hot pepper burns.",
-    "note": "فلفل أخضر green pepper; فلفل حار hot pepper; فلفل أكحل black pepper."
+    "note": "فلفل أخضر green pepper; فلفل حار hot pepper; فلفل أكحل black pepper.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "الفلفل هذا حار؟",
+        "tr": "il-filfil hādha 7ārr?",
+        "en": "Is this pepper hot?"
+      },
+      {
+        "ar": "فلفل أخضر مشوي",
+        "tr": "filfil akhDar mashwi",
+        "en": "Grilled green pepper"
+      }
+    ]
   },
   {
     "ar": "فلفل أكحل",
@@ -354,7 +705,20 @@
     "ex_ar": "زيد شوية فلفل أكحل.",
     "ex_tr": "zīd shwayya filfil ak7al.",
     "ex_en": "Add a little black pepper.",
-    "note": "أكحل ak7al is the Libyan word for black."
+    "note": "أكحل ak7al is the Libyan word for black.",
+    "usage": 47,
+    "phrases": [
+      {
+        "ar": "ملح وفلفل أكحل بس",
+        "tr": "mil7 w filfil ak7al bass",
+        "en": "Just salt and black pepper"
+      },
+      {
+        "ar": "الفلفل الأكحل خلص",
+        "tr": "il-filfil il-ak7al khlaS",
+        "en": "The black pepper has run out"
+      }
+    ]
   },
   {
     "ar": "خيار",
@@ -366,7 +730,20 @@
     "freq": 2,
     "ex_ar": "السلاطة فيها خيار وطماطم.",
     "ex_tr": "is-slāTa fīha khyār w-TmāTim.",
-    "ex_en": "The salad has cucumber and tomato."
+    "ex_en": "The salad has cucumber and tomato.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "قطّع الخيار رقيق",
+        "tr": "gaTTa3 il-khyār rgīg",
+        "en": "Slice the cucumber thin"
+      },
+      {
+        "ar": "الخيار طري وبارد",
+        "tr": "il-khyār Tari w bārid",
+        "en": "The cucumber is fresh and cool"
+      }
+    ]
   },
   {
     "ar": "بادنجان",
@@ -378,7 +755,20 @@
     "freq": 3,
     "ex_ar": "البادنجان المحشي بنين هلبة.",
     "ex_tr": "il-bādinjān il-ma7shi bnīn hallba.",
-    "ex_en": "Stuffed eggplant is very tasty."
+    "ex_en": "Stuffed eggplant is very tasty.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "بادنجان مقلي بالثوم",
+        "tr": "bādinjān magli bith-thūm",
+        "en": "Fried eggplant with garlic"
+      },
+      {
+        "ar": "ما نحبش البادنجان",
+        "tr": "ma n7ibbish il-bādinjān",
+        "en": "I don't like eggplant"
+      }
+    ]
   },
   {
     "ar": "قرعة",
@@ -391,7 +781,20 @@
     "ex_ar": "نطيبوا قرعة محشية اليوم.",
     "ex_tr": "nTayybu gar3a ma7shiyya il-yōm.",
     "ex_en": "We're making stuffed zucchini today.",
-    "note": "Libyan قرعة / قرع gar3 = zucchini, not Egyptian كوسة. Same word also means 'bottle'."
+    "note": "Libyan قرعة / قرع gar3 = zucchini, not Egyptian كوسة. Same word also means 'bottle'.",
+    "usage": 47,
+    "phrases": [
+      {
+        "ar": "القرعة رخيصة في الصيف",
+        "tr": "il-gar3a rkhīSa fiS-Sēf",
+        "en": "Zucchini is cheap in summer"
+      },
+      {
+        "ar": "حط القرعة في المرقة",
+        "tr": "7uTT il-gar3a fil-marga",
+        "en": "Put the zucchini in the stew"
+      }
+    ]
   },
   {
     "ar": "لوبيا",
@@ -403,7 +806,20 @@
     "freq": 3,
     "ex_ar": "المرقة باللوبيا من ماكلة الصيف.",
     "ex_tr": "il-marga bil-lūbya min mākla iS-Sēf.",
-    "ex_en": "Stew with beans is a summer dish."
+    "ex_en": "Stew with beans is a summer dish.",
+    "usage": 45,
+    "phrases": [
+      {
+        "ar": "لوبيا باللحم والطماطم",
+        "tr": "lūbya bil-la7am wiT-TmāTim",
+        "en": "Beans with meat and tomato"
+      },
+      {
+        "ar": "نقّي اللوبيا قبل ما تطيبها",
+        "tr": "naggi il-lūbya gbal ma tTayyibha",
+        "en": "Sort the beans before you cook them"
+      }
+    ]
   },
   {
     "ar": "فول",
@@ -415,7 +831,20 @@
     "freq": 2,
     "ex_ar": "الفول المدمس فطور باهي في الشتا.",
     "ex_tr": "il-fūl il-mdammas fTūr bāhi fish-shta.",
-    "ex_en": "Stewed fava beans are a good winter breakfast."
+    "ex_en": "Stewed fava beans are a good winter breakfast.",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "سندويتش فول بالهريسة",
+        "tr": "sandawitsh fūl bil-harīsa",
+        "en": "A fava bean sandwich with harissa"
+      },
+      {
+        "ar": "الفول المقلي مع الشاهي",
+        "tr": "il-fūl il-magli ma3a ish-shāhi",
+        "en": "Fried fava beans with tea"
+      }
+    ]
   },
   {
     "ar": "حمص",
@@ -427,7 +856,20 @@
     "freq": 2,
     "ex_ar": "الشربة الليبية فيها حمص.",
     "ex_tr": "ish-sharba il-lībiyya fīha 7ummuS.",
-    "ex_en": "Libyan soup has chickpeas in it."
+    "ex_en": "Libyan soup has chickpeas in it.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "صحن حمص بالكمون",
+        "tr": "Sa7n 7ummuS bil-kammūn",
+        "en": "A plate of chickpeas with cumin"
+      },
+      {
+        "ar": "نقّع الحمص من الليل",
+        "tr": "nagga3 il-7ummuS min il-lēl",
+        "en": "Soak the chickpeas overnight"
+      }
+    ]
   },
   {
     "ar": "عدس",
@@ -439,7 +881,20 @@
     "freq": 3,
     "ex_ar": "شربة العدس دافية في البرد.",
     "ex_tr": "sharbat il-3ads dāfya fil-bard.",
-    "ex_en": "Lentil soup is warming in the cold."
+    "ex_en": "Lentil soup is warming in the cold.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "العدس فيه حديد",
+        "tr": "il-3ads fīh 7dīd",
+        "en": "Lentils have iron in them"
+      },
+      {
+        "ar": "نطيبوا عدس الليلة",
+        "tr": "nTayybu 3ads il-lēla",
+        "en": "We're cooking lentils tonight"
+      }
+    ]
   },
   {
     "ar": "سلاطة",
@@ -452,7 +907,20 @@
     "ex_ar": "حط السلاطة على الطاولة.",
     "ex_tr": "7uTT is-slāTa 3ala iT-Tāwla.",
     "ex_en": "Put the salad on the table.",
-    "note": "From Italian insalata."
+    "note": "From Italian insalata.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "سلاطة مشوية حارة",
+        "tr": "slāTa mashwiyya 7ārra",
+        "en": "Spicy grilled salad"
+      },
+      {
+        "ar": "نبي سلاطة بلا بصل",
+        "tr": "nibbi slāTa bla bSal",
+        "en": "I want a salad without onion"
+      }
+    ]
   },
   {
     "ar": "معدنوس",
@@ -465,7 +933,20 @@
     "ex_ar": "قطّع شوية معدنوس فوق السلاطة.",
     "ex_tr": "gaTTa3 shwayya ma3danūs fōg is-slāTa.",
     "ex_en": "Chop some parsley over the salad.",
-    "note": "Maghrebi form; Levantine بقدونس is not used."
+    "note": "Maghrebi form; Levantine بقدونس is not used.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "ربطة معدنوس بدينار",
+        "tr": "rabTat ma3danūs bi-dīnār",
+        "en": "A bunch of parsley for a dinar"
+      },
+      {
+        "ar": "المعدنوس يدير ريحة حلوة",
+        "tr": "il-ma3danūs ydīr rī7a 7lūwa",
+        "en": "Parsley gives a nice smell"
+      }
+    ]
   },
   {
     "ar": "كسبر",
@@ -477,7 +958,20 @@
     "freq": 4,
     "ex_ar": "الكسبر الأخضر يدير ريحة حلوة.",
     "ex_tr": "il-kusbur il-akhDar ydīr rī7a 7lūwa.",
-    "ex_en": "Fresh coriander gives a nice aroma."
+    "ex_en": "Fresh coriander gives a nice aroma.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "زيد شوية كسبر يابس",
+        "tr": "zīd shwayya kusbur yābis",
+        "en": "Add a bit of dried coriander"
+      },
+      {
+        "ar": "الكسبر غير المعدنوس",
+        "tr": "il-kusbur ghēr il-ma3danūs",
+        "en": "Coriander is different from parsley"
+      }
+    ]
   },
   {
     "ar": "نعناع",
@@ -490,7 +984,20 @@
     "ex_ar": "شاهي بالنعناع من فضلك.",
     "ex_tr": "shāhi bin-na3nā3 min faDlak.",
     "ex_en": "Mint tea, please.",
-    "note": "Fresh mint is often added to green tea."
+    "note": "Fresh mint is often added to green tea.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "ربطة نعناع طري",
+        "tr": "rabTat na3nā3 Tari",
+        "en": "A bunch of fresh mint"
+      },
+      {
+        "ar": "حط النعناع في البراد",
+        "tr": "7uTT in-na3nā3 fil-barrād",
+        "en": "Put the mint in the teapot"
+      }
+    ]
   },
   {
     "ar": "تفاح",
@@ -503,7 +1010,20 @@
     "ex_ar": "التفاح غالي هالعام.",
     "ex_tr": "it-tiffā7 ghāli hal-3ām.",
     "ex_en": "Apples are expensive this year.",
-    "note": "Single: تفاحة tiffā7a."
+    "note": "Single: تفاحة tiffā7a.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "كيلو تفاح أحمر",
+        "tr": "kīlu tiffā7 a7mar",
+        "en": "A kilo of red apples"
+      },
+      {
+        "ar": "كول تفاحة كل يوم",
+        "tr": "kūl tiffā7a kull yōm",
+        "en": "Eat an apple every day"
+      }
+    ]
   },
   {
     "ar": "برتقان",
@@ -516,7 +1036,20 @@
     "ex_ar": "عصير البرتقان طري ومفيد.",
     "ex_tr": "3aSīr il-burtgān Tari w-mufīd.",
     "ex_en": "Orange juice is fresh and healthy.",
-    "note": "Libyan has n at the end: برتقان, not برتقال. Single: برتقانة."
+    "note": "Libyan has n at the end: برتقان, not برتقال. Single: برتقانة.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "البرتقان حلو هالعام",
+        "tr": "il-burtgān 7lu hal-3ām",
+        "en": "The oranges are sweet this year"
+      },
+      {
+        "ar": "قشّرلي برتقانة",
+        "tr": "gashsharli burtgāna",
+        "en": "Peel an orange for me"
+      }
+    ]
   },
   {
     "ar": "موز",
@@ -529,7 +1062,20 @@
     "ex_ar": "الصغار يحبوا الموز.",
     "ex_tr": "iS-Sghār y7ibbu il-mūz.",
     "ex_en": "Kids love bananas.",
-    "note": "Single: موزة mūza."
+    "note": "Single: موزة mūza.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "قداش كيلو الموز؟",
+        "tr": "gaddāsh kīlu il-mūz?",
+        "en": "How much is a kilo of bananas?"
+      },
+      {
+        "ar": "الموز هذا ما طابش",
+        "tr": "il-mūz hādha ma Tābsh",
+        "en": "These bananas aren't ripe"
+      }
+    ]
   },
   {
     "ar": "عنب",
@@ -541,7 +1087,20 @@
     "freq": 3,
     "ex_ar": "العنب في غريان مشهور.",
     "ex_tr": "il-3inab fi Gharyān mashhūr.",
-    "ex_en": "The grapes of Gharyan are famous."
+    "ex_en": "The grapes of Gharyan are famous.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "عنب أبيض حلو",
+        "tr": "3inab abyaD 7lu",
+        "en": "Sweet white grapes"
+      },
+      {
+        "ar": "العنب طلع غالي",
+        "tr": "il-3inab Tla3 ghāli",
+        "en": "The grapes turned out expensive"
+      }
+    ]
   },
   {
     "ar": "تمر",
@@ -554,7 +1113,20 @@
     "ex_ar": "نفطروا في رمضان بالتمر والحليب.",
     "ex_tr": "nifTru fi ramaDān bit-tmar wil-7līb.",
     "ex_en": "In Ramadan we break the fast with dates and milk.",
-    "note": "Libya grows many date varieties."
+    "note": "Libya grows many date varieties.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "كول تمرة مع الحليب",
+        "tr": "kūl tamra ma3a il-7līb",
+        "en": "Eat a date with the milk"
+      },
+      {
+        "ar": "التمر متاع الجنوب أحسن",
+        "tr": "it-tmar mtā3 ij-janūb a7san",
+        "en": "Dates from the south are better"
+      }
+    ]
   },
   {
     "ar": "رمان",
@@ -566,7 +1138,20 @@
     "freq": 4,
     "ex_ar": "الرمان يجي في الخريف.",
     "ex_tr": "ir-rummān yiji fil-kharīf.",
-    "ex_en": "Pomegranates come in autumn."
+    "ex_en": "Pomegranates come in autumn.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "عصير رمان طري",
+        "tr": "3aSīr rummān Tari",
+        "en": "Fresh pomegranate juice"
+      },
+      {
+        "ar": "فرّط الرمان في صحن",
+        "tr": "farraT ir-rummān fi Sa7n",
+        "en": "Seed the pomegranate into a bowl"
+      }
+    ]
   },
   {
     "ar": "دلاع",
@@ -579,7 +1164,20 @@
     "ex_ar": "الدلاع في الصيف يبرّد.",
     "ex_tr": "id-dallā3 fiS-Sēf ybarrid.",
     "ex_en": "Watermelon in summer cools you down.",
-    "note": "Maghrebi word; Libyans do not use بطيخ for watermelon."
+    "note": "Maghrebi word; Libyans do not use بطيخ for watermelon.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "الدلاع هذا أحمر من داخل",
+        "tr": "id-dallā3 hādha a7mar min dākhil",
+        "en": "This watermelon is red inside"
+      },
+      {
+        "ar": "قطّع الدلاع للضياف",
+        "tr": "gaTTa3 id-dallā3 liD-Dyāf",
+        "en": "Cut the watermelon for the guests"
+      }
+    ]
   },
   {
     "ar": "كرموس",
@@ -592,7 +1190,20 @@
     "ex_ar": "الكرموس الطري ما يتخلاش.",
     "ex_tr": "il-karmūs iT-Tari ma yitkhallāsh.",
     "ex_en": "Fresh figs can't be passed up.",
-    "note": "Maghrebi word for figs; MSA تين is rarely heard."
+    "note": "Maghrebi word for figs; MSA تين is rarely heard.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الكرموس اليابس مع الشاهي",
+        "tr": "il-karmūs il-yābis ma3a ish-shāhi",
+        "en": "Dried figs with tea"
+      },
+      {
+        "ar": "شجرة الكرموس في الحوش",
+        "tr": "shajrat il-karmūs fil-7ōsh",
+        "en": "The fig tree in the courtyard"
+      }
+    ]
   },
   {
     "ar": "خوخ",
@@ -604,7 +1215,20 @@
     "freq": 4,
     "ex_ar": "الخوخ هالسنة حلو.",
     "ex_tr": "il-khūkh has-sana 7lū.",
-    "ex_en": "The peaches are sweet this year."
+    "ex_en": "The peaches are sweet this year.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "الخوخ طري في السوق",
+        "tr": "il-khūkh Tari fis-sūg",
+        "en": "The peaches are fresh at the market"
+      },
+      {
+        "ar": "عصير خوخ بارد",
+        "tr": "3aSīr khūkh bārid",
+        "en": "Cold peach juice"
+      }
+    ]
   },
   {
     "ar": "مشماش",
@@ -616,7 +1240,20 @@
     "freq": 4,
     "ex_ar": "مربى المشماش في الفطور.",
     "ex_tr": "mrabba il-mishmāsh fil-fTūr.",
-    "ex_en": "Apricot jam at breakfast."
+    "ex_en": "Apricot jam at breakfast.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "المشماش موسمه قصير",
+        "tr": "il-mishmāsh mawsmah gSīr",
+        "en": "Apricot season is short"
+      },
+      {
+        "ar": "نبي نص كيلو مشماش",
+        "tr": "nibbi nuSS kīlu mishmāsh",
+        "en": "I want half a kilo of apricots"
+      }
+    ]
   },
   {
     "ar": "زيتون",
@@ -628,7 +1265,20 @@
     "freq": 2,
     "ex_ar": "الزيتون الأكحل مع الجبنة.",
     "ex_tr": "iz-zītūn il-ak7al ma3a ij-jibna.",
-    "ex_en": "Black olives with the cheese."
+    "ex_en": "Black olives with the cheese.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "زيت الزيتون متاع الجبل",
+        "tr": "zēt iz-zītūn mtā3 ij-jbal",
+        "en": "Olive oil from the Mountain"
+      },
+      {
+        "ar": "الزيتون الأخضر مالح",
+        "tr": "iz-zītūn il-akhDar māli7",
+        "en": "The green olives are salty"
+      }
+    ]
   },
   {
     "ar": "ليمون",
@@ -640,7 +1290,20 @@
     "freq": 2,
     "ex_ar": "عصر شوية ليمون على الحوت.",
     "ex_tr": "3aSar shwayya līmūn 3ala il-7ūt.",
-    "ex_en": "Squeeze a bit of lemon on the fish."
+    "ex_en": "Squeeze a bit of lemon on the fish.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "عصير ليمون بالنعناع",
+        "tr": "3aSīr līmūn bin-na3nā3",
+        "en": "Lemon juice with mint"
+      },
+      {
+        "ar": "الليمون حامض هلبة",
+        "tr": "il-līmūn 7āmiD hallba",
+        "en": "The lemons are very sour"
+      }
+    ]
   },
   {
     "ar": "فراولة",
@@ -653,7 +1316,20 @@
     "ex_ar": "عصير فراولة بالحليب.",
     "ex_tr": "3aSīr frāwla bil-7līb.",
     "ex_en": "Strawberry milkshake.",
-    "note": "From Italian fragola."
+    "note": "From Italian fragola.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "الفراولة غالية الشهر هذا",
+        "tr": "il-frāwla ghālya ish-shahr hādha",
+        "en": "Strawberries are expensive this month"
+      },
+      {
+        "ar": "كيكة بالفراولة",
+        "tr": "kēka bil-frāwla",
+        "en": "A strawberry cake"
+      }
+    ]
   },
   {
     "ar": "كسكسي",
@@ -666,7 +1342,20 @@
     "ex_ar": "نهار الجمعة ناكلوا كسكسي.",
     "ex_tr": "nhār ij-jum3a nāklu kuskusi.",
     "ex_en": "On Fridays we eat couscous.",
-    "note": "Libyan couscous is usually served with lamb, chickpeas, potatoes and a spicy tomato sauce, often topped with an onion-raisin sauce (بصلة)."
+    "note": "Libyan couscous is usually served with lamb, chickpeas, potatoes and a spicy tomato sauce, often topped with an onion-raisin sauce (بصلة).",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "الكسكسي بالعلوش والخضرة",
+        "tr": "il-kuskusi bil-3allūsh wil-khuDra",
+        "en": "Couscous with lamb and vegetables"
+      },
+      {
+        "ar": "أمي بتطيب كسكسي اليوم",
+        "tr": "ummi bitTayyib kuskusi il-yōm",
+        "en": "My mom is going to cook couscous today"
+      }
+    ]
   },
   {
     "ar": "بازين",
@@ -679,7 +1368,20 @@
     "ex_ar": "البازين ياكلوه باليد في قصعة وحدة.",
     "ex_tr": "il-bāzīn yāklūh bil-yadd fi gaS3a wa7da.",
     "ex_en": "Bazin is eaten by hand from one shared bowl.",
-    "note": "National dish: a dome of barley flour dough surrounded by lamb, eggs and potato in a spicy tomato sauce."
+    "note": "National dish: a dome of barley flour dough surrounded by lamb, eggs and potato in a spicy tomato sauce.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "البازين ماكلتنا الشعبية",
+        "tr": "il-bāzīn mākletna ish-sha3biyya",
+        "en": "Bazin is our traditional dish"
+      },
+      {
+        "ar": "تعالوا ناكلوا بازين عندنا",
+        "tr": "ta3ālu naklu bāzīn 3andna",
+        "en": "Come eat bazin at our place"
+      }
+    ]
   },
   {
     "ar": "مبكبكة",
@@ -692,7 +1394,20 @@
     "ex_ar": "ما عنديش وقت، بنطيب مبكبكة.",
     "ex_tr": "ma 3andīsh wagt, bnTayyib mbakbka.",
     "ex_en": "I don't have time, I'll make mbakbka.",
-    "note": "Pasta cooked directly in a spicy tomato-meat sauce; name imitates the 'bak-bak' bubbling sound."
+    "note": "Pasta cooked directly in a spicy tomato-meat sauce; name imitates the 'bak-bak' bubbling sound.",
+    "usage": 57,
+    "phrases": [
+      {
+        "ar": "المبكبكة حارة هلبة",
+        "tr": "il-mbakbka 7ārra hallba",
+        "en": "The mbakbka is very spicy"
+      },
+      {
+        "ar": "شن الغدا؟ مبكبكة",
+        "tr": "shin il-ghda? mbakbka",
+        "en": "What's for lunch? Mbakbka"
+      }
+    ]
   },
   {
     "ar": "شربة",
@@ -705,7 +1420,20 @@
     "ex_ar": "في رمضان الشربة ما تغيبش على السفرة.",
     "ex_tr": "fi ramaDān ish-sharba ma tghībsh 3ala is-sufra.",
     "ex_en": "In Ramadan sharba never misses from the table.",
-    "note": "شربة ليبية: tomato-lamb soup with orzo (lsān 3aSfūr), chickpeas and mint; essential at iftar."
+    "note": "شربة ليبية: tomato-lamb soup with orzo (lsān 3aSfūr), chickpeas and mint; essential at iftar.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "الشربة تبي ملح",
+        "tr": "ish-sharba tibbi mil7",
+        "en": "The soup needs salt"
+      },
+      {
+        "ar": "عطيني صحن شربة",
+        "tr": "3aTīni Sa7n sharba",
+        "en": "Give me a bowl of soup"
+      }
+    ]
   },
   {
     "ar": "عصيدة",
@@ -718,7 +1446,20 @@
     "ex_ar": "في المولد يديروا العصيدة بالرب والسمن.",
     "ex_tr": "fil-mūlid ydīru il-3aSīda bir-rubb wis-samin.",
     "ex_en": "For the Prophet's birthday they make 3aSīda with date syrup and ghee.",
-    "note": "Also served to celebrate a new baby. رب rubb = date syrup."
+    "note": "Also served to celebrate a new baby. رب rubb = date syrup.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "العصيدة في الصبح للنفسة",
+        "tr": "il-3aSīda fiS-Sbā7 lin-nafsa",
+        "en": "Asida in the morning for a new mother"
+      },
+      {
+        "ar": "شكون طيّب العصيدة؟",
+        "tr": "shkūn Tayyab il-3aSīda?",
+        "en": "Who made the asida?"
+      }
+    ]
   },
   {
     "ar": "عصبان",
@@ -731,7 +1472,20 @@
     "ex_ar": "العصبان ماكلة العيد الكبير.",
     "ex_tr": "il-3uSbān mākla il-3īd il-kbīr.",
     "ex_en": "3uSbān is an Eid al-Adha dish.",
-    "note": "Tripe/intestine stuffed with rice, meat, herbs and spices; cooked in sauce or with couscous."
+    "note": "Tripe/intestine stuffed with rice, meat, herbs and spices; cooked in sauce or with couscous.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "العصبان يبي خدمة هلبة",
+        "tr": "il-3uSbān yibbi khidma hallba",
+        "en": "3uSbān takes a lot of work"
+      },
+      {
+        "ar": "أمي تخيط العصبان",
+        "tr": "ummi tkhayyiT il-3uSbān",
+        "en": "My mom sews the 3uSbān"
+      }
+    ]
   },
   {
     "ar": "مكرونة",
@@ -744,7 +1498,20 @@
     "ex_ar": "الصغار يبوا المكرونة كل يوم.",
     "ex_tr": "iS-Sghār yibbu il-makarūna kull yōm.",
     "ex_en": "The kids want pasta every day.",
-    "note": "Italian legacy (maccheroni); pasta is daily food in Libya."
+    "note": "Italian legacy (maccheroni); pasta is daily food in Libya.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "مكرونة بالحوت",
+        "tr": "makarūna bil-7ūt",
+        "en": "Pasta with fish"
+      },
+      {
+        "ar": "المكرونة طابت، صفّيها",
+        "tr": "il-makarūna Tābat, Saffīha",
+        "en": "The pasta is done, drain it"
+      }
+    ]
   },
   {
     "ar": "مكرونة مبطنة",
@@ -756,7 +1523,20 @@
     "freq": 4,
     "ex_ar": "عملت مكرونة مبطنة للضياف.",
     "ex_tr": "3milt makarūna mbaTTna liD-Dyāf.",
-    "ex_en": "I made baked pasta for the guests."
+    "ex_en": "I made baked pasta for the guests.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "المكرونة المبطنة في الكوشة",
+        "tr": "il-makarūna il-mbaTTna fil-kūsha",
+        "en": "The baked pasta is in the oven"
+      },
+      {
+        "ar": "نحب المكرونة المبطنة بالجبنة",
+        "tr": "n7ibb il-makarūna il-mbaTTna bil-jibna",
+        "en": "I love baked pasta with cheese"
+      }
+    ]
   },
   {
     "ar": "رشتة",
@@ -769,7 +1549,20 @@
     "ex_ar": "رشتة بالدجاج ماكلة خفيفة.",
     "ex_tr": "rishta bid-djāj mākla khfīfa.",
     "ex_en": "Rishta with chicken is a light dish.",
-    "note": "Steamed noodles served with tomato sauce or chickpeas."
+    "note": "Steamed noodles served with tomato sauce or chickpeas.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "رشتة سخونة في البرد",
+        "tr": "rishta skhūna fil-bard",
+        "en": "Hot rishta in cold weather"
+      },
+      {
+        "ar": "جدتي تفتل الرشتة باليد",
+        "tr": "jiddti tiftil ir-rishta bil-yidd",
+        "en": "My grandma rolls the rishta by hand"
+      }
+    ]
   },
   {
     "ar": "مبطن",
@@ -782,7 +1575,20 @@
     "ex_ar": "المبطن يتعمل في رمضان.",
     "ex_tr": "il-mbaTTan yit3mil fi ramaDān.",
     "ex_en": "Mbaṭṭan is made in Ramadan.",
-    "note": "Potato slices sandwiched with spiced minced meat, dipped in egg and fried."
+    "note": "Potato slices sandwiched with spiced minced meat, dipped in egg and fried.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "المبطن باللحم المفروم",
+        "tr": "il-mbaTTan bil-la7am il-mafrūm",
+        "en": "Mbaṭṭan with minced meat"
+      },
+      {
+        "ar": "نبي زوز حبات مبطن",
+        "tr": "nibbi zōz 7abbāt mbaTTan",
+        "en": "I want two pieces of mbaṭṭan"
+      }
+    ]
   },
   {
     "ar": "بوريك",
@@ -795,7 +1601,20 @@
     "ex_ar": "البوريك باللحم مع الشربة.",
     "ex_tr": "il-būrīk bil-la7am ma3a ish-sharba.",
     "ex_en": "Meat būrīk goes with sharba.",
-    "note": "Ottoman-origin börek; fried or baked pastry with meat, cheese or potato."
+    "note": "Ottoman-origin börek; fried or baked pastry with meat, cheese or potato.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "بوريك بالتونة والجبنة",
+        "tr": "būrīk bit-tūna wil-jibna",
+        "en": "Būrīk with tuna and cheese"
+      },
+      {
+        "ar": "البوريك سخون توا",
+        "tr": "il-būrīk skhūn tawwa",
+        "en": "The būrīk is hot now"
+      }
+    ]
   },
   {
     "ar": "محشي",
@@ -807,7 +1626,20 @@
     "freq": 3,
     "ex_ar": "المحشي يبي وقت طويل.",
     "ex_tr": "il-ma7shi yibbi wagt Twīl.",
-    "ex_en": "Stuffed vegetables take a long time."
+    "ex_en": "Stuffed vegetables take a long time.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "محشي فلفل بالرز",
+        "tr": "ma7shi filfil bir-ruzz",
+        "en": "Peppers stuffed with rice"
+      },
+      {
+        "ar": "المحشي متاع أمي ما فيه كيفه",
+        "tr": "il-ma7shi mtā3 ummi ma fīh kīfah",
+        "en": "Nothing beats my mom's stuffed vegetables"
+      }
+    ]
   },
   {
     "ar": "حرايمي",
@@ -820,7 +1652,20 @@
     "ex_ar": "الحرايمي من ماكلة طرابلس.",
     "ex_tr": "il-7rāymi min mākla Trāblus.",
     "ex_en": "7rāymi is a Tripoli dish.",
-    "note": "Spicy fish stew; also cooked with lamb in some homes."
+    "note": "Spicy fish stew; also cooked with lamb in some homes.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "الحرايمي حار شوية",
+        "tr": "il-7rāymi 7ārr shwayya",
+        "en": "The 7rāymi is a bit spicy"
+      },
+      {
+        "ar": "نطيبوا حرايمي بالحوت الطري",
+        "tr": "nTayybu 7rāymi bil-7ūt iT-Tari",
+        "en": "We'll cook 7rāymi with fresh fish"
+      }
+    ]
   },
   {
     "ar": "شكشوكة",
@@ -832,7 +1677,20 @@
     "freq": 3,
     "ex_ar": "شكشوكة بالقديد فطور تقيل.",
     "ex_tr": "shakshūka bil-gadīd fTūr tgīl.",
-    "ex_en": "Shakshuka with dried meat is a heavy breakfast."
+    "ex_en": "Shakshuka with dried meat is a heavy breakfast.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "شكشوكة بالدحي والفلفل",
+        "tr": "shakshūka bid-da7i wil-filfil",
+        "en": "Shakshuka with eggs and pepper"
+      },
+      {
+        "ar": "نديروا شكشوكة للعشا",
+        "tr": "ndīru shakshūka lil-3sha",
+        "en": "Let's make shakshuka for dinner"
+      }
+    ]
   },
   {
     "ar": "بسيسة",
@@ -845,7 +1703,20 @@
     "ex_ar": "البسيسة بالزيت والسكر تشبع.",
     "ex_tr": "il-bsīsa biz-zēt wis-sukkar tishba3.",
     "ex_en": "Bsīsa with oil and sugar fills you up.",
-    "note": "Roasted grains and spices ground to a flour; mixed with olive oil. Traditional travel food."
+    "note": "Roasted grains and spices ground to a flour; mixed with olive oil. Traditional travel food.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "البسيسة زوادة السفر",
+        "tr": "il-bsīsa zwādat is-safar",
+        "en": "Bsīsa is travel provisions"
+      },
+      {
+        "ar": "حط البسيسة في الحليب",
+        "tr": "7uTT il-bsīsa fil-7līb",
+        "en": "Put the bsīsa in the milk"
+      }
+    ]
   },
   {
     "ar": "زميتة",
@@ -858,7 +1729,20 @@
     "ex_ar": "جدتي تحب الزميتة في الصبح.",
     "ex_tr": "jiddti t7ibb iz-zummīta fiS-Sba7.",
     "ex_en": "My grandmother likes zummīta in the morning.",
-    "note": "Similar to bsīsa; rural traditional food."
+    "note": "Similar to bsīsa; rural traditional food.",
+    "usage": 26,
+    "phrases": [
+      {
+        "ar": "الزميتة بالتمر",
+        "tr": "iz-zummīta bit-tmar",
+        "en": "Zummīta with dates"
+      },
+      {
+        "ar": "عمرك ذقت الزميتة؟",
+        "tr": "3umrak dhugt iz-zummīta?",
+        "en": "Have you ever tasted zummīta?"
+      }
+    ]
   },
   {
     "ar": "مرقة",
@@ -870,7 +1754,20 @@
     "freq": 2,
     "ex_ar": "زيد مرقة على الكسكسي.",
     "ex_tr": "zīd marga 3ala il-kuskusi.",
-    "ex_en": "Add more sauce to the couscous."
+    "ex_en": "Add more sauce to the couscous.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "المرقة حارة هلبة",
+        "tr": "il-marga 7ārra hallba",
+        "en": "The sauce is very spicy"
+      },
+      {
+        "ar": "زيدني شوية مرقة",
+        "tr": "zīdni shwayya marga",
+        "en": "Give me a bit more sauce"
+      }
+    ]
   },
   {
     "ar": "صلصة",
@@ -883,7 +1780,20 @@
     "ex_ar": "حط معلقة صلصة في البرمة.",
     "ex_tr": "7uTT ma3laga SalSa fil-burma.",
     "ex_en": "Put a spoonful of tomato paste in the pot.",
-    "note": "From Italian salsa; in Libya it specifically means canned tomato paste."
+    "note": "From Italian salsa; in Libya it specifically means canned tomato paste.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "الصلصة خلصت، جيب علبة",
+        "tr": "iS-SalSa khalSat, jīb 3ulba",
+        "en": "The tomato paste ran out, bring a can"
+      },
+      {
+        "ar": "المرقة تبي صلصة زيادة",
+        "tr": "il-marga tibbi SalSa zyāda",
+        "en": "The sauce needs more tomato paste"
+      }
+    ]
   },
   {
     "ar": "هريسة",
@@ -896,7 +1806,20 @@
     "ex_ar": "الليبيين يحطوا الهريسة في كل شي.",
     "ex_tr": "il-lībiyyīn y7uTTu il-harīsa fi kull shay.",
     "ex_en": "Libyans put harissa in everything.",
-    "note": "Not the Levantine semolina dessert."
+    "note": "Not the Levantine semolina dessert.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "حط شوية هريسة في السندويتش",
+        "tr": "7uTT shwayya harīsa fis-sandawitsh",
+        "en": "Put a bit of harissa in the sandwich"
+      },
+      {
+        "ar": "الهريسة هذي حارة هلبة",
+        "tr": "il-harīsa hādhi 7ārra hallba",
+        "en": "This harissa is very hot"
+      }
+    ]
   },
   {
     "ar": "بهارات",
@@ -909,7 +1832,20 @@
     "ex_ar": "البهارات الليبية فيها كمون وكركم.",
     "ex_tr": "il-bahārāt il-lībiyya fīha kammūn w-kurkum.",
     "ex_en": "Libyan spice mix has cumin and turmeric.",
-    "note": "The house blend is often called حرارات 7rārāt."
+    "note": "The house blend is often called حرارات 7rārāt.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "زيد شوية بهارات",
+        "tr": "zīd shwayya bahārāt",
+        "en": "Add a bit of spice mix"
+      },
+      {
+        "ar": "البهارات من عند العطار",
+        "tr": "il-bahārāt min 3and il-3aTTār",
+        "en": "The spices are from the spice seller"
+      }
+    ]
   },
   {
     "ar": "كمون",
@@ -921,7 +1857,20 @@
     "freq": 3,
     "ex_ar": "الكمون يمشي مع الحوت.",
     "ex_tr": "il-kammūn yimshi ma3a il-7ūt.",
-    "ex_en": "Cumin goes with fish."
+    "ex_en": "Cumin goes with fish.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "حط الكمون على الحمص",
+        "tr": "7uTT il-kammūn 3ala il-7ummuS",
+        "en": "Put cumin on the chickpeas"
+      },
+      {
+        "ar": "الكمون خلص من الدار",
+        "tr": "il-kammūn khlaS min id-dār",
+        "en": "We're out of cumin at home"
+      }
+    ]
   },
   {
     "ar": "كركم",
@@ -933,7 +1882,20 @@
     "freq": 4,
     "ex_ar": "الكركم يعطي لون أصفر للرز.",
     "ex_tr": "il-kurkum ya3Ti lōn aSfar lir-ruzz.",
-    "ex_en": "Turmeric gives rice a yellow color."
+    "ex_en": "Turmeric gives rice a yellow color.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "شوية كركم في الشربة",
+        "tr": "shwayya kurkum fish-sharba",
+        "en": "A little turmeric in the soup"
+      },
+      {
+        "ar": "الكركم يصبغ اليدين",
+        "tr": "il-kurkum yiSbigh il-yiddēn",
+        "en": "Turmeric stains your hands"
+      }
+    ]
   },
   {
     "ar": "قرفة",
@@ -945,7 +1907,20 @@
     "freq": 3,
     "ex_ar": "العصيدة فوقها قرفة.",
     "ex_tr": "il-3aSīda fōgha girfa.",
-    "ex_en": "There's cinnamon on top of the 3aSīda."
+    "ex_en": "There's cinnamon on top of the 3aSīda.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "شاهي بالقرفة في البرد",
+        "tr": "shāhi bil-girfa fil-bard",
+        "en": "Cinnamon tea in cold weather"
+      },
+      {
+        "ar": "حط عود قرفة في الرز",
+        "tr": "7uTT 3ūd girfa fir-ruzz",
+        "en": "Put a cinnamon stick in the rice"
+      }
+    ]
   },
   {
     "ar": "زيت",
@@ -958,7 +1933,20 @@
     "ex_ar": "الزيت متاعنا من الجبل.",
     "ex_tr": "iz-zēt mta3na min ij-jbal.",
     "ex_en": "Our olive oil is from the mountain.",
-    "note": "Plain زيت usually means olive oil; vegetable oil is زيت نباتي or زيت قلي."
+    "note": "Plain زيت usually means olive oil; vegetable oil is زيت نباتي or زيت قلي.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "قرعة زيت زيتون",
+        "tr": "gar3at zēt zītūn",
+        "en": "A bottle of olive oil"
+      },
+      {
+        "ar": "الزيت سخن، حط البطاطا",
+        "tr": "iz-zēt sikhin, 7uTT il-baTāTa",
+        "en": "The oil is hot, put in the potatoes"
+      }
+    ]
   },
   {
     "ar": "سكر",
@@ -970,7 +1958,20 @@
     "freq": 1,
     "ex_ar": "الشاهي متاعك بسكر هلبة.",
     "ex_tr": "ish-shāhi mta3ak bsukkar hallba.",
-    "ex_en": "Your tea has a lot of sugar."
+    "ex_en": "Your tea has a lot of sugar.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "بالسكر ولا لا؟",
+        "tr": "bis-sukkar walla la?",
+        "en": "With sugar or not?"
+      },
+      {
+        "ar": "السكر خلص، جيب كيلو",
+        "tr": "is-sukkar khlaS, jīb kīlu",
+        "en": "The sugar's run out, bring a kilo"
+      }
+    ]
   },
   {
     "ar": "ملح",
@@ -982,7 +1983,20 @@
     "freq": 1,
     "ex_ar": "الماكلة تبي شوية ملح.",
     "ex_tr": "il-mākla tibbi shwayya mil7.",
-    "ex_en": "The food needs a little salt."
+    "ex_en": "The food needs a little salt.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "الماكلة مالحة، زدت ملح هلبة",
+        "tr": "il-mākla māl7a, zidt mil7 hallba",
+        "en": "The food is salty, I added too much salt"
+      },
+      {
+        "ar": "عدّيلي الملح",
+        "tr": "3addīli il-mil7",
+        "en": "Pass me the salt"
+      }
+    ]
   },
   {
     "ar": "دقيق",
@@ -995,7 +2009,20 @@
     "ex_ar": "الدقيق والزيت والسكر من الجمعية.",
     "ex_tr": "id-dgīg wiz-zēt wis-sukkar min ij-jam3iyya.",
     "ex_en": "Flour, oil and sugar from the cooperative.",
-    "note": "ق → g. Barley flour for bāzīn is دقيق شعير."
+    "note": "ق → g. Barley flour for bāzīn is دقيق شعير.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "شوال دقيق للخبزة",
+        "tr": "shwāl dgīg lil-khubza",
+        "en": "A sack of flour for the bread"
+      },
+      {
+        "ar": "الدقيق غلا هالشهر",
+        "tr": "id-dgīg ghla hash-shahr",
+        "en": "Flour got more expensive this month"
+      }
+    ]
   },
   {
     "ar": "سميد",
@@ -1007,7 +2034,20 @@
     "freq": 3,
     "ex_ar": "الكسكسي يتعمل من السميد.",
     "ex_tr": "il-kuskusi yit3mil min is-smīd.",
-    "ex_en": "Couscous is made from semolina."
+    "ex_en": "Couscous is made from semolina.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "سميد رقيق ولا خشين؟",
+        "tr": "smīd rgīg walla khshīn?",
+        "en": "Fine semolina or coarse?"
+      },
+      {
+        "ar": "المقروض يتعمل بالسميد",
+        "tr": "il-magrūD yit3mal bis-smīd",
+        "en": "Makrūḍ is made with semolina"
+      }
+    ]
   },
   {
     "ar": "شعير",
@@ -1019,7 +2059,20 @@
     "freq": 3,
     "ex_ar": "البازين يتعمل من دقيق الشعير.",
     "ex_tr": "il-bāzīn yit3mil min dgīg ish-sh3īr.",
-    "ex_en": "Bazin is made from barley flour."
+    "ex_en": "Bazin is made from barley flour.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "خبزة شعير صحية",
+        "tr": "khubzat sh3īr Sa77iyya",
+        "en": "Barley bread is healthy"
+      },
+      {
+        "ar": "الشعير رخص هالعام",
+        "tr": "ish-sh3īr rkhaS hal-3ām",
+        "en": "Barley got cheaper this year"
+      }
+    ]
   },
   {
     "ar": "ماكلة",
@@ -1032,7 +2085,20 @@
     "ex_ar": "الماكلة جاهزة، تعالوا!",
     "ex_tr": "il-mākla jāhza, ta3ālu!",
     "ex_en": "The food is ready, come!",
-    "note": "Very common Libyan/Maghrebi word for food."
+    "note": "Very common Libyan/Maghrebi word for food.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "الماكلة بنينة هلبة",
+        "tr": "il-mākla bnīna hallba",
+        "en": "The food is really tasty"
+      },
+      {
+        "ar": "شن الماكلة اليوم؟",
+        "tr": "shin il-mākla il-yōm?",
+        "en": "What's the food today?"
+      }
+    ]
   },
   {
     "ar": "فطور",
@@ -1045,7 +2111,20 @@
     "ex_ar": "شن عندنا في الفطور؟",
     "ex_tr": "shin 3andna fil-fTūr?",
     "ex_en": "What do we have for breakfast?",
-    "note": "In Ramadan فطور means the evening fast-breaking meal."
+    "note": "In Ramadan فطور means the evening fast-breaking meal.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "فطرت ولا لا؟",
+        "tr": "faTTart walla la?",
+        "en": "Have you had breakfast?"
+      },
+      {
+        "ar": "الفطور جاهز",
+        "tr": "il-fTūr jāhiz",
+        "en": "Breakfast is ready"
+      }
+    ]
   },
   {
     "ar": "غدا",
@@ -1058,7 +2137,20 @@
     "ex_ar": "الغدا الساعة تلاتة.",
     "ex_tr": "il-ghda is-sā3a tlāta.",
     "ex_en": "Lunch is at three o'clock.",
-    "note": "Lunch is the main meal of the day in Libya."
+    "note": "Lunch is the main meal of the day in Libya.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "تعال تغدّى معانا",
+        "tr": "ta3āl tghadda m3āna",
+        "en": "Come have lunch with us"
+      },
+      {
+        "ar": "شن الغدا اليوم؟",
+        "tr": "shin il-ghda il-yōm?",
+        "en": "What's for lunch today?"
+      }
+    ]
   },
   {
     "ar": "عشا",
@@ -1070,7 +2162,20 @@
     "freq": 1,
     "ex_ar": "العشا خفيف الليلة.",
     "ex_tr": "il-3sha khfīf il-lēla.",
-    "ex_en": "Dinner is light tonight."
+    "ex_en": "Dinner is light tonight.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "تعشيت ولا لا؟",
+        "tr": "t3ashshēt walla la?",
+        "en": "Have you had dinner?"
+      },
+      {
+        "ar": "العشا جاهز، تعالوا",
+        "tr": "il-3sha jāhiz, ta3ālu",
+        "en": "Dinner's ready, come"
+      }
+    ]
   },
   {
     "ar": "سحور",
@@ -1082,7 +2187,20 @@
     "freq": 3,
     "ex_ar": "في السحور ناكلوا رز بالحليب.",
     "ex_tr": "fis-s7ūr nāklu ruzz bil-7līb.",
-    "ex_en": "At suhoor we eat rice pudding."
+    "ex_en": "At suhoor we eat rice pudding.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "قوموا للسحور",
+        "tr": "gūmu lis-s7ūr",
+        "en": "Get up for suhoor"
+      },
+      {
+        "ar": "ما تسحّرتش البارح",
+        "tr": "ma tsa77artsh il-bār7a",
+        "en": "I didn't have suhoor last night"
+      }
+    ]
   },
   {
     "ar": "حلو",
@@ -1095,7 +2213,20 @@
     "ex_ar": "جبنا حلو للعرس.",
     "ex_tr": "jibna 7lū lil-3ars.",
     "ex_en": "We brought sweets for the wedding.",
-    "note": "Also used as adjective 'sweet'. Pastries for occasions are called حلويات 7alawiyyāt."
+    "note": "Also used as adjective 'sweet'. Pastries for occasions are called حلويات 7alawiyyāt.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "شن عندكم حلو؟",
+        "tr": "shin 3andkum 7lū?",
+        "en": "What do you have for dessert?"
+      },
+      {
+        "ar": "ما ناكلش حلو هلبة",
+        "tr": "ma naklish 7lū hallba",
+        "en": "I don't eat many sweets"
+      }
+    ]
   },
   {
     "ar": "مقروض",
@@ -1108,7 +2239,20 @@
     "ex_ar": "المقروض الطرابلسي مشهور في العيد.",
     "ex_tr": "il-magrūD iT-Trābulsi mashhūr fil-3īd.",
     "ex_en": "Tripolitan makrūḍ is famous at Eid.",
-    "note": "Diamond-shaped semolina pastry stuffed with date paste, fried and soaked in syrup or honey."
+    "note": "Diamond-shaped semolina pastry stuffed with date paste, fried and soaked in syrup or honey.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "مقروض بالتمر والعسل",
+        "tr": "magrūD bit-tmar wil-3asal",
+        "en": "Makrūḍ with dates and honey"
+      },
+      {
+        "ar": "أمي بتعمل مقروض للعيد",
+        "tr": "ummi bit3mil magrūD lil-3īd",
+        "en": "My mom will make makrūḍ for Eid"
+      }
+    ]
   },
   {
     "ar": "غريبة",
@@ -1121,7 +2265,20 @@
     "ex_ar": "الغريبة تذوب في الفم.",
     "ex_tr": "il-ghrība tdhūb fil-fumm.",
     "ex_en": "Ghrība melts in the mouth.",
-    "note": "Made of flour/semolina, ghee and sugar; an Eid staple."
+    "note": "Made of flour/semolina, ghee and sugar; an Eid staple.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "غريبة مع الشاهي",
+        "tr": "ghrība ma3a ish-shāhi",
+        "en": "Ghrība with tea"
+      },
+      {
+        "ar": "الغريبة طلعت باهية",
+        "tr": "il-ghrība Tal3at bāhya",
+        "en": "The ghrība came out well"
+      }
+    ]
   },
   {
     "ar": "بقلاوة",
@@ -1133,7 +2290,20 @@
     "freq": 4,
     "ex_ar": "البقلاوة باللوز غالية.",
     "ex_tr": "il-baglāwa bil-lūz ghālya.",
-    "ex_en": "Almond baklava is expensive."
+    "ex_en": "Almond baklava is expensive.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "كيلو بقلاوة للعيد",
+        "tr": "kīlu baglāwa lil-3īd",
+        "en": "A kilo of baklava for Eid"
+      },
+      {
+        "ar": "البقلاوة حلوة هلبة",
+        "tr": "il-baglāwa 7lūwa hallba",
+        "en": "The baklava is very sweet"
+      }
+    ]
   },
   {
     "ar": "كعك",
@@ -1146,7 +2316,20 @@
     "ex_ar": "الكعك المالح مع الشاهي.",
     "ex_tr": "il-ka3k il-māli7 ma3a ish-shāhi.",
     "ex_en": "Savory ka3k with tea.",
-    "note": "Libyan ka3k comes sweet or salted (with fennel/nigella)."
+    "note": "Libyan ka3k comes sweet or salted (with fennel/nigella).",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "الكعك الحلو للعيد",
+        "tr": "il-ka3k il-7lu lil-3īd",
+        "en": "Sweet ka3k for Eid"
+      },
+      {
+        "ar": "جيبلي شوية كعك",
+        "tr": "jībli shwayya ka3k",
+        "en": "Bring me some ka3k"
+      }
+    ]
   },
   {
     "ar": "سفنز",
@@ -1159,7 +2342,20 @@
     "ex_ar": "سفنز بالدحي في الصبح.",
     "ex_tr": "sfinz bid-da7i fiS-Sba7.",
     "ex_en": "Sfinz with egg in the morning.",
-    "note": "Fried ring of dough, eaten plain, with sugar/honey, or with an egg fried inside."
+    "note": "Fried ring of dough, eaten plain, with sugar/honey, or with an egg fried inside.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "نبي زوز سفنز بالدحي",
+        "tr": "nibbi zōz sfinz bid-da7i",
+        "en": "I want two sfinz with egg"
+      },
+      {
+        "ar": "السفنز سخون توا",
+        "tr": "is-sfinz skhūn tawwa",
+        "en": "The sfinz is hot now"
+      }
+    ]
   },
   {
     "ar": "زلابية",
@@ -1171,7 +2367,20 @@
     "freq": 4,
     "ex_ar": "الزلابية حلو رمضان.",
     "ex_tr": "iz-zlābya 7lū ramaDān.",
-    "ex_en": "Zlābya is the Ramadan sweet."
+    "ex_en": "Zlābya is the Ramadan sweet.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "الزلابية حلوة هلبة",
+        "tr": "iz-zlābya 7lūwa hallba",
+        "en": "Zlābya is very sweet"
+      },
+      {
+        "ar": "جيب زلابية من الحانوت",
+        "tr": "jīb zlābya min il-7ānūt",
+        "en": "Bring zlābya from the shop"
+      }
+    ]
   },
   {
     "ar": "رب",
@@ -1183,7 +2392,20 @@
     "freq": 4,
     "ex_ar": "العصيدة ما تحلاش من غير رب.",
     "ex_tr": "il-3aSīda ma ti7lāsh min ghēr rubb.",
-    "ex_en": "3aSīda isn't good without date syrup."
+    "ex_en": "3aSīda isn't good without date syrup.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "رب التمر من الجنوب",
+        "tr": "rubb it-tmar min ij-janūb",
+        "en": "Date syrup from the south"
+      },
+      {
+        "ar": "حط شوية رب على العصيدة",
+        "tr": "7uTT shwayya rubb 3ala il-3aSīda",
+        "en": "Put a bit of date syrup on the asida"
+      }
+    ]
   },
   {
     "ar": "مربى",
@@ -1195,7 +2417,20 @@
     "freq": 3,
     "ex_ar": "خبزة بالزبدة والمربى.",
     "ex_tr": "khubza biz-zibda wil-mrabba.",
-    "ex_en": "Bread with butter and jam."
+    "ex_en": "Bread with butter and jam.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "مربى فراولة ولا مشماش؟",
+        "tr": "mrabba frāwla walla mishmāsh?",
+        "en": "Strawberry or apricot jam?"
+      },
+      {
+        "ar": "أمي تعمل المربى في الدار",
+        "tr": "ummi ta3mil il-mrabba fid-dār",
+        "en": "My mom makes jam at home"
+      }
+    ]
   },
   {
     "ar": "شكلاطة",
@@ -1208,7 +2443,20 @@
     "ex_ar": "الصغير يبي شكلاطة.",
     "ex_tr": "iS-Sghayyir yibbi shuklāTa.",
     "ex_en": "The little one wants chocolate.",
-    "note": "From Italian cioccolata."
+    "note": "From Italian cioccolata.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "الشكلاطة تسوّس السنون",
+        "tr": "ish-shuklāTa tsawwis is-snūn",
+        "en": "Chocolate rots your teeth"
+      },
+      {
+        "ar": "جبتلك شكلاطة",
+        "tr": "jibtlak shuklāTa",
+        "en": "I brought you chocolate"
+      }
+    ]
   },
   {
     "ar": "بسكويت",
@@ -1220,7 +2468,20 @@
     "freq": 3,
     "ex_ar": "حط البسكويت مع الشاهي.",
     "ex_tr": "7uTT il-biskwīt ma3a ish-shāhi.",
-    "ex_en": "Put the biscuits with the tea."
+    "ex_en": "Put the biscuits with the tea.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "باكو بسكويت للصغار",
+        "tr": "bāku biskwīt liS-Sghār",
+        "en": "A pack of biscuits for the kids"
+      },
+      {
+        "ar": "البسكويت هذا بنين",
+        "tr": "il-biskwīt hādha bnīn",
+        "en": "These biscuits are tasty"
+      }
+    ]
   },
   {
     "ar": "كيكة",
@@ -1232,7 +2493,20 @@
     "freq": 3,
     "ex_ar": "عملنا كيكة لعيد الميلاد.",
     "ex_tr": "3malna kēka l3īd il-mīlād.",
-    "ex_en": "We made a cake for the birthday."
+    "ex_en": "We made a cake for the birthday.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "كيكة بالشكلاطة",
+        "tr": "kēka bish-shuklāTa",
+        "en": "Chocolate cake"
+      },
+      {
+        "ar": "قطّعلي طرف كيكة",
+        "tr": "gaTTa3li Tarf kēka",
+        "en": "Cut me a piece of cake"
+      }
+    ]
   },
   {
     "ar": "جيلاطي",
@@ -1245,7 +2519,20 @@
     "ex_ar": "نمشوا ناكلوا جيلاطي على البحر.",
     "ex_tr": "nimshu nāklu jīlāTi 3ala il-ba7ar.",
     "ex_en": "Let's go eat ice cream by the sea.",
-    "note": "From Italian gelato; very Libyan."
+    "note": "From Italian gelato; very Libyan.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "جيلاطي بالفراولة",
+        "tr": "jīlāTi bil-frāwla",
+        "en": "Strawberry ice cream"
+      },
+      {
+        "ar": "الجيلاطي ذاب",
+        "tr": "ij-jīlāTi dhāb",
+        "en": "The ice cream melted"
+      }
+    ]
   },
   {
     "ar": "كاكاوية",
@@ -1258,7 +2545,20 @@
     "ex_ar": "شاهي بالكاكاوية بعد الغدا.",
     "ex_tr": "shāhi bil-kākāwiya ba3d il-ghda.",
     "ex_en": "Tea with peanuts after lunch.",
-    "note": "Roasted peanuts dropped into the third glass of tea are a Libyan signature."
+    "note": "Roasted peanuts dropped into the third glass of tea are a Libyan signature.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "كاكاوية محمصة",
+        "tr": "kākāwiya m7ammSa",
+        "en": "Roasted peanuts"
+      },
+      {
+        "ar": "قشّر الكاكاوية",
+        "tr": "gashshar il-kākāwiya",
+        "en": "Shell the peanuts"
+      }
+    ]
   },
   {
     "ar": "لوز",
@@ -1271,7 +2571,20 @@
     "ex_ar": "الشاهي باللوز للضياف.",
     "ex_tr": "ish-shāhi bil-lūz liD-Dyāf.",
     "ex_en": "Tea with almonds for guests.",
-    "note": "Toasted almonds in tea are a more festive alternative to peanuts."
+    "note": "Toasted almonds in tea are a more festive alternative to peanuts.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "اللوز غالي هلبة",
+        "tr": "il-lūz ghāli hallba",
+        "en": "Almonds are very expensive"
+      },
+      {
+        "ar": "حلو باللوز",
+        "tr": "7lū bil-lūz",
+        "en": "Sweets with almonds"
+      }
+    ]
   },
   {
     "ar": "سندويتش",
@@ -1284,7 +2597,20 @@
     "ex_ar": "نبي سندويتش تونة بالهريسة.",
     "ex_tr": "nibbi sandawitsh tūna bil-harīsa.",
     "ex_en": "I want a tuna sandwich with harissa.",
-    "note": "Street sandwiches are usually in a baguette-style loaf."
+    "note": "Street sandwiches are usually in a baguette-style loaf.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "سندويتش تونة ولا كفتة؟",
+        "tr": "sandawitsh tūna walla kufta?",
+        "en": "Tuna or meatball sandwich?"
+      },
+      {
+        "ar": "خذ سندويتش للمدرسة",
+        "tr": "khūdh sandawitsh lil-madrsa",
+        "en": "Take a sandwich to school"
+      }
+    ]
   },
   {
     "ar": "شاورما",
@@ -1296,7 +2622,20 @@
     "freq": 3,
     "ex_ar": "نتعشوا شاورما الليلة؟",
     "ex_tr": "nit3ashshu shāwarma il-lēla?",
-    "ex_en": "Shall we have shawarma for dinner tonight?"
+    "ex_en": "Shall we have shawarma for dinner tonight?",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "شاورما دجاج بالبطاطا",
+        "tr": "shāwarma djāj bil-baTāTa",
+        "en": "Chicken shawarma with fries"
+      },
+      {
+        "ar": "زوز شاورما من فضلك",
+        "tr": "zōz shāwarma min faDlak",
+        "en": "Two shawarmas, please"
+      }
+    ]
   },
   {
     "ar": "بيتزا",
@@ -1309,7 +2648,20 @@
     "ex_ar": "البيتزا في ليبيا ماكلة عادية.",
     "ex_tr": "il-pītza fi lībya mākla 3ādya.",
     "ex_en": "Pizza is everyday food in Libya.",
-    "note": "Italian legacy; often pronounced with p."
+    "note": "Italian legacy; often pronounced with p.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "نوصّوا على بيتزا؟",
+        "tr": "nwaSSu 3ala pītza?",
+        "en": "Shall we order a pizza?"
+      },
+      {
+        "ar": "البيتزا بالتونة",
+        "tr": "il-pītza bit-tūna",
+        "en": "Tuna pizza"
+      }
+    ]
   },
   {
     "ar": "كفتة",
@@ -1321,7 +2673,20 @@
     "freq": 3,
     "ex_ar": "المكرونة بالكفتة.",
     "ex_tr": "il-makarūna bil-kufta.",
-    "ex_en": "Pasta with meatballs."
+    "ex_en": "Pasta with meatballs.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "كفتة مشوية على الفحم",
+        "tr": "kufta mashwiyya 3ala il-fa7am",
+        "en": "Kofta grilled on charcoal"
+      },
+      {
+        "ar": "سندويتش كفتة بالهريسة",
+        "tr": "sandawitsh kufta bil-harīsa",
+        "en": "A kofta sandwich with harissa"
+      }
+    ]
   },
   {
     "ar": "قمح",
@@ -1333,7 +2698,20 @@
     "freq": 4,
     "ex_ar": "القمح والشعير من الجبل.",
     "ex_tr": "il-gam7 wish-sh3īr min ij-jbal.",
-    "ex_en": "Wheat and barley from the mountain."
+    "ex_en": "Wheat and barley from the mountain.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "دقيق القمح والشعير",
+        "tr": "dgīg il-gam7 wish-sh3īr",
+        "en": "Wheat and barley flour"
+      },
+      {
+        "ar": "حصاد القمح في الصيف",
+        "tr": "7Sād il-gam7 fiS-Sēf",
+        "en": "The wheat harvest is in summer"
+      }
+    ]
   },
   {
     "ar": "ماكلة بحرية",
@@ -1345,7 +2723,20 @@
     "freq": 4,
     "ex_ar": "في زوارة الماكلة البحرية طرية.",
     "ex_tr": "fi Zwāra il-mākla il-ba7riyya Tarya.",
-    "ex_en": "In Zuwara the seafood is fresh."
+    "ex_en": "In Zuwara the seafood is fresh.",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "نحب الماكلة البحرية",
+        "tr": "n7ibb il-mākla il-ba7riyya",
+        "en": "I love seafood"
+      },
+      {
+        "ar": "مطعم ماكلة بحرية على البحر",
+        "tr": "maT3am mākla ba7riyya 3ala il-ba7ar",
+        "en": "A seafood restaurant by the sea"
+      }
+    ]
   },
   {
     "ar": "قمبري",
@@ -1358,7 +2749,20 @@
     "ex_ar": "القمبري غالي هلبة.",
     "ex_tr": "il-gambri ghāli hallba.",
     "ex_en": "Shrimp is very expensive.",
-    "note": "From Italian gambero."
+    "note": "From Italian gambero.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "قمبري مقلي بالثوم",
+        "tr": "gambri magli bith-thūm",
+        "en": "Shrimp fried with garlic"
+      },
+      {
+        "ar": "قداش كيلو القمبري؟",
+        "tr": "gaddāsh kīlu il-gambri?",
+        "en": "How much is a kilo of shrimp?"
+      }
+    ]
   },
   {
     "ar": "حوت مشوي",
@@ -1370,7 +2774,20 @@
     "freq": 3,
     "ex_ar": "الحوت المشوي مع السلاطة الحارة.",
     "ex_tr": "il-7ūt il-mashwi ma3a is-slāTa il-7ārra.",
-    "ex_en": "Grilled fish with spicy salad."
+    "ex_en": "Grilled fish with spicy salad.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "نبي حوت مشوي مع الرز",
+        "tr": "nibbi 7ūt mashwi ma3a ir-ruzz",
+        "en": "I want grilled fish with rice"
+      },
+      {
+        "ar": "الحوت المشوي أصح من المقلي",
+        "tr": "il-7ūt il-mashwi aSa77 min il-magli",
+        "en": "Grilled fish is healthier than fried"
+      }
+    ]
   },
   {
     "ar": "لسان عصفور",
@@ -1383,7 +2800,20 @@
     "ex_ar": "الشربة تبي لسان عصفور.",
     "ex_tr": "ish-sharba tibbi lsān 3aSfūr.",
     "ex_en": "The soup needs orzo.",
-    "note": "Lit. 'bird's tongue'; essential in sharba lībiyya."
+    "note": "Lit. 'bird's tongue'; essential in sharba lībiyya.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "باكو لسان عصفور",
+        "tr": "bāku lsān 3aSfūr",
+        "en": "A packet of orzo"
+      },
+      {
+        "ar": "حط لسان العصفور في الشربة",
+        "tr": "7uTT lsān il-3aSfūr fish-sharba",
+        "en": "Put the orzo in the soup"
+      }
+    ]
   },
   {
     "ar": "رز بالحليب",
@@ -1395,7 +2825,20 @@
     "freq": 4,
     "ex_ar": "رز بالحليب بالقرفة.",
     "ex_tr": "ruzz bil-7līb bil-girfa.",
-    "ex_en": "Rice pudding with cinnamon."
+    "ex_en": "Rice pudding with cinnamon.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "الصغار يحبوا الرز بالحليب",
+        "tr": "iS-Sghār y7ibbu ir-ruzz bil-7līb",
+        "en": "Kids love rice pudding"
+      },
+      {
+        "ar": "رز بالحليب بارد",
+        "tr": "ruzz bil-7līb bārid",
+        "en": "Cold rice pudding"
+      }
+    ]
   },
   {
     "ar": "مية",
@@ -1408,7 +2851,20 @@
     "ex_ar": "عطيني كاس مية.",
     "ex_tr": "3Tīni kās mayya.",
     "ex_en": "Give me a glass of water.",
-    "note": "Libyan form of ماء."
+    "note": "Libyan form of ماء.",
+    "usage": 95,
+    "phrases": [
+      {
+        "ar": "المية باردة؟",
+        "tr": "il-mayya bārda?",
+        "en": "Is the water cold?"
+      },
+      {
+        "ar": "المية مقطوعة اليوم",
+        "tr": "il-mayya magTū3a il-yōm",
+        "en": "The water is cut off today"
+      }
+    ]
   },
   {
     "ar": "مية معدنية",
@@ -1421,7 +2877,20 @@
     "ex_ar": "نشروا مية معدنية، مية الحنفية مش باهية.",
     "ex_tr": "nishru mayya ma3daniyya, mayyat il-7anafiyya mush bāhya.",
     "ex_en": "We buy bottled water; the tap water isn't good.",
-    "note": "Bottled water is the norm for drinking."
+    "note": "Bottled water is the norm for drinking.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "قرعة مية معدنية كبيرة",
+        "tr": "gar3at mayya ma3daniyya kbīra",
+        "en": "A big bottle of mineral water"
+      },
+      {
+        "ar": "نشربوا مية معدنية بس",
+        "tr": "nishirbu mayya ma3daniyya bass",
+        "en": "We only drink bottled water"
+      }
+    ]
   },
   {
     "ar": "شاهي",
@@ -1434,7 +2903,20 @@
     "ex_ar": "تعال نشربوا شاهي.",
     "ex_tr": "ta3āl nishrbu shāhi.",
     "ex_en": "Come let's drink tea.",
-    "note": "Libyans say شاهي. Tea is brewed strong, poured from height to make foam, and served in small glasses in three rounds."
+    "note": "Libyans say شاهي. Tea is brewed strong, poured from height to make foam, and served in small glasses in three rounds.",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "تبي شاهي؟",
+        "tr": "tibbi shāhi?",
+        "en": "Do you want tea?"
+      },
+      {
+        "ar": "الشاهي جاهز",
+        "tr": "ish-shāhi jāhiz",
+        "en": "The tea is ready"
+      }
+    ]
   },
   {
     "ar": "شاهي أحمر",
@@ -1447,7 +2929,20 @@
     "ex_ar": "الشاهي الأحمر بالرغوة.",
     "ex_tr": "ish-shāhi il-a7mar bir-raghwa.",
     "ex_en": "Red tea with foam.",
-    "note": "Lit. 'red tea'; boiled long, very strong and sweet. Libyans call black tea 'red'."
+    "note": "Lit. 'red tea'; boiled long, very strong and sweet. Libyans call black tea 'red'.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "شاهي أحمر تقيل",
+        "tr": "shāhi a7mar tgīl",
+        "en": "Strong black tea"
+      },
+      {
+        "ar": "نبي طاسة شاهي أحمر",
+        "tr": "nibbi Tāsa shāhi a7mar",
+        "en": "I want a glass of black tea"
+      }
+    ]
   },
   {
     "ar": "شاهي أخضر",
@@ -1459,7 +2954,20 @@
     "freq": 2,
     "ex_ar": "الشاهي الأخضر بالنعناع.",
     "ex_tr": "ish-shāhi il-akhDar bin-na3nā3.",
-    "ex_en": "Green tea with mint."
+    "ex_en": "Green tea with mint.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "الشاهي الأخضر خفيف",
+        "tr": "ish-shāhi il-akhDar khfīf",
+        "en": "Green tea is light"
+      },
+      {
+        "ar": "تبي أحمر ولا أخضر؟",
+        "tr": "tibbi a7mar walla akhDar?",
+        "en": "Do you want black or green (tea)?"
+      }
+    ]
   },
   {
     "ar": "شاهي بالكاكاوية",
@@ -1472,7 +2980,20 @@
     "ex_ar": "الطاسة التالتة شاهي بالكاكاوية.",
     "ex_tr": "iT-Tāsa it-tālta shāhi bil-kākāwiya.",
     "ex_en": "The third round is tea with peanuts.",
-    "note": "Usually the third, lightest round of tea."
+    "note": "Usually the third, lightest round of tea.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "ندير شاهي بالكاكاوية؟",
+        "tr": "ndīr shāhi bil-kākāwiya?",
+        "en": "Shall I make tea with peanuts?"
+      },
+      {
+        "ar": "الشاهي بالكاكاوية للضياف",
+        "tr": "ish-shāhi bil-kākāwiya liD-Dyāf",
+        "en": "Tea with peanuts is for guests"
+      }
+    ]
   },
   {
     "ar": "رغوة",
@@ -1485,7 +3006,20 @@
     "ex_ar": "الشاهي بلا رغوة ما يتشربش.",
     "ex_tr": "ish-shāhi bla raghwa ma yitshrabsh.",
     "ex_en": "Tea without foam isn't worth drinking.",
-    "note": "Created by pouring tea back and forth between pot and glass from a height; a mark of a skilled tea-maker."
+    "note": "Created by pouring tea back and forth between pot and glass from a height; a mark of a skilled tea-maker.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "كبّر الرغوة شوية",
+        "tr": "kabbar ir-raghwa shwayya",
+        "en": "Make the foam bigger a bit"
+      },
+      {
+        "ar": "الرغوة طلعت باهية",
+        "tr": "ir-raghwa Tal3at bāhya",
+        "en": "The foam came out nicely"
+      }
+    ]
   },
   {
     "ar": "طاسة",
@@ -1498,7 +3032,20 @@
     "ex_ar": "شربت الطاسة الأولى بس.",
     "ex_tr": "shribt iT-Tāsa il-ūla bass.",
     "ex_en": "I only drank the first round.",
-    "note": "Libyan tea comes in three rounds (first strong/bitter, second sweeter, third with peanuts). Also means a metal cup/bowl."
+    "note": "Libyan tea comes in three rounds (first strong/bitter, second sweeter, third with peanuts). Also means a metal cup/bowl.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "عطيني طاسة شاهي",
+        "tr": "3aTīni Tāsa shāhi",
+        "en": "Give me a glass of tea"
+      },
+      {
+        "ar": "الطاسة التانية أحلى",
+        "tr": "iT-Tāsa it-tānya a7la",
+        "en": "The second round is sweeter"
+      }
+    ]
   },
   {
     "ar": "قهوة",
@@ -1511,7 +3058,20 @@
     "ex_ar": "نبي قهوة من غير سكر.",
     "ex_tr": "nibbi gahwa min ghēr sukkar.",
     "ex_en": "I want coffee without sugar.",
-    "note": "ق → g. Also means a café (coffee shop)."
+    "note": "ق → g. Also means a café (coffee shop).",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "نمشوا للقهوة؟",
+        "tr": "nimshu lil-gahwa?",
+        "en": "Shall we go to the café?"
+      },
+      {
+        "ar": "القهوة مُرة هلبة",
+        "tr": "il-gahwa murra hallba",
+        "en": "The coffee is very bitter"
+      }
+    ]
   },
   {
     "ar": "قهوة عربية",
@@ -1524,7 +3084,20 @@
     "ex_ar": "جدي يشرب القهوة العربية من الززوة.",
     "ex_tr": "jiddi yishrab il-gahwa il-3arabiyya min iz-zazwa.",
     "ex_en": "My grandfather drinks Arabic coffee from the cezve.",
-    "note": "Boiled ground coffee, served in small cups."
+    "note": "Boiled ground coffee, served in small cups.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "قهوة عربية بالزهر",
+        "tr": "gahwa 3arabiyya biz-zhar",
+        "en": "Arabic coffee with orange-blossom water"
+      },
+      {
+        "ar": "نديرلك قهوة عربية؟",
+        "tr": "ndīrlak gahwa 3arabiyya?",
+        "en": "Shall I make you Arabic coffee?"
+      }
+    ]
   },
   {
     "ar": "مكياطة",
@@ -1537,7 +3110,20 @@
     "ex_ar": "مكياطة من فضلك.",
     "ex_tr": "makyāTa min faDlak.",
     "ex_en": "A macchiato, please.",
-    "note": "From Italian macchiato; the signature Libyan café drink, often with lots of foam."
+    "note": "From Italian macchiato; the signature Libyan café drink, often with lots of foam.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "زوز مكياطة من فضلك",
+        "tr": "zōz makyāTa min faDlak",
+        "en": "Two macchiatos, please"
+      },
+      {
+        "ar": "المكياطة هني ما فيه كيفها",
+        "tr": "il-makyāTa hni ma fīh kīfha",
+        "en": "The macchiato here is unbeatable"
+      }
+    ]
   },
   {
     "ar": "كابتشينو",
@@ -1549,7 +3135,20 @@
     "freq": 3,
     "ex_ar": "الكابتشينو هني باهي.",
     "ex_tr": "il-kaputshīnu hni bāhi.",
-    "ex_en": "The cappuccino here is good."
+    "ex_en": "The cappuccino here is good.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "كابتشينو بلا سكر",
+        "tr": "kaputshīnu bla sukkar",
+        "en": "A cappuccino without sugar"
+      },
+      {
+        "ar": "نبي كابتشينو كبير",
+        "tr": "nibbi kaputshīnu kbīr",
+        "en": "I want a large cappuccino"
+      }
+    ]
   },
   {
     "ar": "إسبريسو",
@@ -1561,7 +3160,20 @@
     "freq": 3,
     "ex_ar": "نبي إسبريسو دبل.",
     "ex_tr": "nibbi esprēsso dubl.",
-    "ex_en": "I want a double espresso."
+    "ex_en": "I want a double espresso.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "إسبريسو قصير من فضلك",
+        "tr": "esprēsso gSīr min faDlak",
+        "en": "A short espresso, please"
+      },
+      {
+        "ar": "الإسبريسو يصحّي",
+        "tr": "il-esprēsso yiSa77i",
+        "en": "Espresso wakes you up"
+      }
+    ]
   },
   {
     "ar": "نسكافيه",
@@ -1574,7 +3186,20 @@
     "ex_ar": "عندكش نسكافيه؟",
     "ex_tr": "3andaksh naskāfēh?",
     "ex_en": "Do you have instant coffee?",
-    "note": "Brand name used generically."
+    "note": "Brand name used generically.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "نسكافيه بالحليب",
+        "tr": "naskāfēh bil-7līb",
+        "en": "Instant coffee with milk"
+      },
+      {
+        "ar": "ندير نسكافيه في الصبح",
+        "tr": "ndīr naskāfēh fiS-Sbā7",
+        "en": "I make instant coffee in the morning"
+      }
+    ]
   },
   {
     "ar": "حليب",
@@ -1586,7 +3211,20 @@
     "freq": 1,
     "ex_ar": "الحليب خلص، جيب لتر.",
     "ex_tr": "il-7līb khlaS, jīb litr.",
-    "ex_en": "The milk has run out, bring a liter."
+    "ex_en": "The milk has run out, bring a liter.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "حليب سخون بالعسل",
+        "tr": "7līb skhūn bil-3asal",
+        "en": "Hot milk with honey"
+      },
+      {
+        "ar": "الحليب هذا فسد",
+        "tr": "il-7līb hādha fsad",
+        "en": "This milk has gone off"
+      }
+    ]
   },
   {
     "ar": "لبن",
@@ -1599,7 +3237,20 @@
     "ex_ar": "لبن بارد مع الكسكسي.",
     "ex_tr": "laban bārid ma3a il-kuskusi.",
     "ex_en": "Cold buttermilk with couscous.",
-    "note": "In Libya لبن is the sour drink left after churning butter, not plain milk."
+    "note": "In Libya لبن is the sour drink left after churning butter, not plain milk.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "طاسة لبن بارد",
+        "tr": "Tāsat laban bārid",
+        "en": "A glass of cold buttermilk"
+      },
+      {
+        "ar": "اللبن مع التمر",
+        "tr": "il-laban ma3a it-tmar",
+        "en": "Buttermilk with dates"
+      }
+    ]
   },
   {
     "ar": "رايب",
@@ -1611,7 +3262,20 @@
     "freq": 4,
     "ex_ar": "الرايب ينشرب في الصيف.",
     "ex_tr": "ir-rāyib yinshrib fiS-Sēf.",
-    "ex_en": "Rāyib is drunk in summer."
+    "ex_en": "Rāyib is drunk in summer.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "الرايب يبرّد في الصيف",
+        "tr": "ir-rāyib ybarrid fiS-Sēf",
+        "en": "Curdled milk cools you in summer"
+      },
+      {
+        "ar": "جيب رايب من الحانوت",
+        "tr": "jīb rāyib min il-7ānūt",
+        "en": "Bring curdled milk from the shop"
+      }
+    ]
   },
   {
     "ar": "ياغورت",
@@ -1623,7 +3287,20 @@
     "freq": 3,
     "ex_ar": "ياغورت بالفراولة للصغار.",
     "ex_tr": "yāghurt bil-frāwla liS-Sghār.",
-    "ex_en": "Strawberry yogurt for the kids."
+    "ex_en": "Strawberry yogurt for the kids.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "ياغورت بالموز",
+        "tr": "yāghurt bil-mūz",
+        "en": "Banana yogurt"
+      },
+      {
+        "ar": "حط الياغورت في الثلاجة",
+        "tr": "7uTT il-yāghurt fit-tallāja",
+        "en": "Put the yogurt in the fridge"
+      }
+    ]
   },
   {
     "ar": "عصير",
@@ -1636,7 +3313,20 @@
     "ex_ar": "عصير موز بالحليب.",
     "ex_tr": "3aSīr mūz bil-7līb.",
     "ex_en": "Banana-milk juice.",
-    "note": "Thick fruit-milk blends are popular at juice shops."
+    "note": "Thick fruit-milk blends are popular at juice shops.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "عصير برتقان طري",
+        "tr": "3aSīr burtgān Tari",
+        "en": "Fresh orange juice"
+      },
+      {
+        "ar": "شن تبي، عصير ولا قازوزة؟",
+        "tr": "shin tibbi, 3aSīr walla gāzūza?",
+        "en": "What do you want, juice or soda?"
+      }
+    ]
   },
   {
     "ar": "قازوزة",
@@ -1649,7 +3339,20 @@
     "ex_ar": "جيب قازوزة باردة.",
     "ex_tr": "jīb gāzūza bārda.",
     "ex_en": "Bring a cold soda.",
-    "note": "From Italian gassosa."
+    "note": "From Italian gassosa.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "قازوزة باردة من فضلك",
+        "tr": "gāzūza bārda min faDlak",
+        "en": "A cold soda, please"
+      },
+      {
+        "ar": "القازوزة مش صحية",
+        "tr": "il-gāzūza mush Sa77iyya",
+        "en": "Soda isn't healthy"
+      }
+    ]
   },
   {
     "ar": "لاقبي",
@@ -1662,7 +3365,20 @@
     "ex_ar": "اللاقبي الطري في الواحات.",
     "ex_tr": "il-lāgbi iT-Tari fil-wā7āt.",
     "ex_en": "Fresh lāgbi in the oases.",
-    "note": "Sweet sap tapped from date palms; drunk fresh in the south and oases before it ferments."
+    "note": "Sweet sap tapped from date palms; drunk fresh in the south and oases before it ferments.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "اللاقبي حلو كي الطري",
+        "tr": "il-lāgbi 7lu ki iT-Tari",
+        "en": "Lāgbi is sweet when it's fresh"
+      },
+      {
+        "ar": "عمرك شربت لاقبي؟",
+        "tr": "3umrak shrabt lāgbi?",
+        "en": "Have you ever drunk lāgbi?"
+      }
+    ]
   },
   {
     "ar": "كاكاو",
@@ -1674,7 +3390,20 @@
     "freq": 4,
     "ex_ar": "كاكاو سخون في البرد.",
     "ex_tr": "kākāw skhūn fil-bard.",
-    "ex_en": "Hot cocoa in the cold."
+    "ex_en": "Hot cocoa in the cold.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "كاكاو بالحليب للصغار",
+        "tr": "kākāw bil-7līb liS-Sghār",
+        "en": "Cocoa with milk for the kids"
+      },
+      {
+        "ar": "نبي كاكاو سخون",
+        "tr": "nibbi kākāw skhūn",
+        "en": "I want hot cocoa"
+      }
+    ]
   },
   {
     "ar": "مشروب",
@@ -1686,7 +3415,20 @@
     "freq": 3,
     "ex_ar": "شن تبي مشروب؟",
     "ex_tr": "shin tibbi mashrūb?",
-    "ex_en": "What drink do you want?"
+    "ex_en": "What drink do you want?",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "مشروب بارد ولا سخون؟",
+        "tr": "mashrūb bārid walla skhūn?",
+        "en": "A cold drink or a hot one?"
+      },
+      {
+        "ar": "المشروب عليّ",
+        "tr": "il-mashrūb 3layya",
+        "en": "The drink is on me"
+      }
+    ]
   },
   {
     "ar": "ثلج",
@@ -1698,7 +3440,20 @@
     "freq": 2,
     "ex_ar": "حط ثلج في العصير.",
     "ex_tr": "7uTT thalj fil-3aSīr.",
-    "ex_en": "Put ice in the juice."
+    "ex_en": "Put ice in the juice.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "بلا ثلج من فضلك",
+        "tr": "bla thalj min faDlak",
+        "en": "No ice, please"
+      },
+      {
+        "ar": "الثلج ذاب",
+        "tr": "ith-thalj dhāb",
+        "en": "The ice melted"
+      }
+    ]
   },
   {
     "ar": "زهر",
@@ -1711,7 +3466,20 @@
     "ex_ar": "شوية زهر في القهوة.",
     "ex_tr": "shwayya zhar fil-gahwa.",
     "ex_en": "A little orange-blossom water in the coffee.",
-    "note": "Added to coffee and sweets for aroma."
+    "note": "Added to coffee and sweets for aroma.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "قرعة زهر من العطار",
+        "tr": "gar3at zhar min il-3aTTār",
+        "en": "A bottle of orange-blossom water from the spice seller"
+      },
+      {
+        "ar": "الزهر في المقروض",
+        "tr": "iz-zhar fil-magrūD",
+        "en": "Orange-blossom water in the makrūḍ"
+      }
+    ]
   },
   {
     "ar": "عشبة",
@@ -1723,7 +3491,20 @@
     "freq": 4,
     "ex_ar": "اشرب عشبة للكرشة.",
     "ex_tr": "ishrab 3ashba lil-karsha.",
-    "ex_en": "Drink a herbal tea for your stomach."
+    "ex_en": "Drink a herbal tea for your stomach.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "عشبة للنوم",
+        "tr": "3ashba lin-nōm",
+        "en": "A herbal tea for sleep"
+      },
+      {
+        "ar": "ندير عشبة سخونة",
+        "tr": "ndīr 3ashba skhūna",
+        "en": "I'll make a hot herbal tea"
+      }
+    ]
   },
   {
     "ar": "سكر زيادة",
@@ -1736,7 +3517,20 @@
     "ex_ar": "شاهي بسكر زيادة.",
     "ex_tr": "shāhi bsukkar zyāda.",
     "ex_en": "Tea with extra sugar.",
-    "note": "Libyan tea is typically very sweet."
+    "note": "Libyan tea is typically very sweet.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "قهوة بسكر زيادة",
+        "tr": "gahwa bi-sukkar zyāda",
+        "en": "Coffee with extra sugar"
+      },
+      {
+        "ar": "ما تحطش سكر زيادة",
+        "tr": "ma t7uTTish sukkar zyāda",
+        "en": "Don't put extra sugar"
+      }
+    ]
   },
   {
     "ar": "بلا سكر",
@@ -1748,7 +3542,20 @@
     "freq": 3,
     "ex_ar": "قهوة بلا سكر من فضلك.",
     "ex_tr": "gahwa bla sukkar min faDlak.",
-    "ex_en": "Coffee without sugar, please."
+    "ex_en": "Coffee without sugar, please.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "شاهي بلا سكر",
+        "tr": "shāhi bla sukkar",
+        "en": "Tea without sugar"
+      },
+      {
+        "ar": "نشرب كل شي بلا سكر",
+        "tr": "nishrib kull shay bla sukkar",
+        "en": "I drink everything unsweetened"
+      }
+    ]
   },
   {
     "ar": "كوجينة",
@@ -1761,7 +3568,20 @@
     "ex_ar": "أمي في الكوجينة تطيب.",
     "ex_tr": "ummi fil-kūjīna tTayyib.",
     "ex_en": "My mother is in the kitchen cooking.",
-    "note": "From Italian cucina; also heard كوزينة kūzīna. MSA مطبخ is understood."
+    "note": "From Italian cucina; also heard كوزينة kūzīna. MSA مطبخ is understood.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "الكوجينة صغيرة شوية",
+        "tr": "il-kūjīna Sghīra shwayya",
+        "en": "The kitchen is a bit small"
+      },
+      {
+        "ar": "شن تدير في الكوجينة؟",
+        "tr": "shin tdīr fil-kūjīna?",
+        "en": "What are you doing in the kitchen?"
+      }
+    ]
   },
   {
     "ar": "صحن",
@@ -1774,7 +3594,20 @@
     "ex_ar": "حط الرز في صحن كبير.",
     "ex_tr": "7uTT ir-ruzz fi Sa7n kbīr.",
     "ex_en": "Put the rice in a big plate.",
-    "note": "pl. صحون S7ūn."
+    "note": "pl. صحون S7ūn.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "جيب صحن نظيف",
+        "tr": "jīb Sa7n nDHīf",
+        "en": "Bring a clean plate"
+      },
+      {
+        "ar": "كمّل صحنك",
+        "tr": "kammil Sa7nak",
+        "en": "Finish your plate"
+      }
+    ]
   },
   {
     "ar": "فنجان",
@@ -1787,7 +3620,20 @@
     "ex_ar": "فنجان قهوة صغير.",
     "ex_tr": "finjān gahwa Sghayyir.",
     "ex_en": "A small cup of coffee.",
-    "note": "pl. فناجين fnājīn."
+    "note": "pl. فناجين fnājīn.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "فنجان قهوة عربية",
+        "tr": "finjān gahwa 3arabiyya",
+        "en": "A cup of Arabic coffee"
+      },
+      {
+        "ar": "الفنجان طاح وتكسّر",
+        "tr": "il-finjān Tā7 w tkassar",
+        "en": "The cup fell and broke"
+      }
+    ]
   },
   {
     "ar": "كوب",
@@ -1799,7 +3645,20 @@
     "freq": 3,
     "ex_ar": "نشرب الحليب في كوب.",
     "ex_tr": "nishrab il-7līb fi kūb.",
-    "ex_en": "I drink milk from a mug."
+    "ex_en": "I drink milk from a mug.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "كوب حليب سخون",
+        "tr": "kūb 7līb skhūn",
+        "en": "A mug of hot milk"
+      },
+      {
+        "ar": "الكوب هذا متاعي",
+        "tr": "il-kūb hādha mtā3i",
+        "en": "This mug is mine"
+      }
+    ]
   },
   {
     "ar": "معلقة",
@@ -1812,7 +3671,20 @@
     "ex_ar": "عطيني معلقة للشربة.",
     "ex_tr": "3Tīni ma3laga lish-sharba.",
     "ex_en": "Give me a spoon for the soup.",
-    "note": "pl. معالق m3ālig. Note Libyan metathesis vs MSA ملعقة."
+    "note": "pl. معالق m3ālig. Note Libyan metathesis vs MSA ملعقة.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "معلقة سكر بس",
+        "tr": "ma3lagat sukkar bass",
+        "en": "Just one spoon of sugar"
+      },
+      {
+        "ar": "المعالق في الدرج",
+        "tr": "il-ma3āleg fid-durj",
+        "en": "The spoons are in the drawer"
+      }
+    ]
   },
   {
     "ar": "شوكة",
@@ -1825,7 +3697,20 @@
     "ex_ar": "المكرونة تتاكل بالشوكة.",
     "ex_tr": "il-makarūna titākil bish-shōka.",
     "ex_en": "Pasta is eaten with a fork.",
-    "note": "Older speakers may say فرشيطة from Italian forchetta."
+    "note": "Older speakers may say فرشيطة from Italian forchetta.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "عطيني شوكة نظيفة",
+        "tr": "3aTīni shōka nDHīfa",
+        "en": "Give me a clean fork"
+      },
+      {
+        "ar": "ناكل بالشوكة والسكينة",
+        "tr": "nākil bish-shōka wis-sikkīna",
+        "en": "I eat with a fork and knife"
+      }
+    ]
   },
   {
     "ar": "سكينة",
@@ -1838,7 +3723,20 @@
     "ex_ar": "السكينة هذي ما تقطعش.",
     "ex_tr": "is-sikkīna hādhi ma tgaTTa3sh.",
     "ex_en": "This knife doesn't cut.",
-    "note": "Feminine in Libyan. pl. سكاكين skākīn."
+    "note": "Feminine in Libyan. pl. سكاكين skākīn.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "رد بالك من السكينة",
+        "tr": "rudd bālak min is-sikkīna",
+        "en": "Watch out for the knife"
+      },
+      {
+        "ar": "جيب السكينة الكبيرة",
+        "tr": "jīb is-sikkīna il-kbīra",
+        "en": "Bring the big knife"
+      }
+    ]
   },
   {
     "ar": "برمة",
@@ -1851,7 +3749,20 @@
     "ex_ar": "الشربة في البرمة على النار.",
     "ex_tr": "ish-sharba fil-burma 3ala in-nār.",
     "ex_en": "The soup is in the pot on the fire.",
-    "note": "pl. برم buram."
+    "note": "pl. برم buram.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "البرمة على النار من الصبح",
+        "tr": "il-burma 3ala in-nār min iS-Sbā7",
+        "en": "The pot has been on the fire since morning"
+      },
+      {
+        "ar": "غطّي البرمة",
+        "tr": "ghaTTi il-burma",
+        "en": "Cover the pot"
+      }
+    ]
   },
   {
     "ar": "طاوة",
@@ -1864,7 +3775,20 @@
     "ex_ar": "اقلي الدحي في الطاوة.",
     "ex_tr": "igli id-da7i fiT-Tāwa.",
     "ex_en": "Fry the eggs in the pan.",
-    "note": "From Turkish tava."
+    "note": "From Turkish tava.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "الطاوة سخونة، رد بالك",
+        "tr": "iT-Tāwa skhūna, rudd bālak",
+        "en": "The pan is hot, be careful"
+      },
+      {
+        "ar": "اغسل الطاوة بعد ما تقلي",
+        "tr": "ighsil iT-Tāwa ba3d ma tigli",
+        "en": "Wash the pan after you fry"
+      }
+    ]
   },
   {
     "ar": "كسكاس",
@@ -1877,7 +3801,20 @@
     "ex_ar": "الكسكسي يتطيب في الكسكاس.",
     "ex_tr": "il-kuskusi yitTayyab fil-kaskās.",
     "ex_en": "Couscous is steamed in the kaskās.",
-    "note": "Perforated pot set on top of the pot of sauce."
+    "note": "Perforated pot set on top of the pot of sauce.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "حط الكسكاس فوق البرمة",
+        "tr": "7uTT il-kaskās fōg il-burma",
+        "en": "Put the steamer on top of the pot"
+      },
+      {
+        "ar": "الكسكاس متاع جدتي قديم",
+        "tr": "il-kaskās mtā3 jiddti gdīm",
+        "en": "My grandma's couscous steamer is old"
+      }
+    ]
   },
   {
     "ar": "كوشة",
@@ -1890,7 +3827,20 @@
     "ex_ar": "حط الدجاج في الكوشة ساعة.",
     "ex_tr": "7uTT id-djāj fil-kūsha sā3a.",
     "ex_en": "Put the chicken in the oven for an hour.",
-    "note": "Libyan for both a home oven and the neighbourhood bakery."
+    "note": "Libyan for both a home oven and the neighbourhood bakery.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "الكوشة سخونة؟",
+        "tr": "il-kūsha skhūna?",
+        "en": "Is the oven hot?"
+      },
+      {
+        "ar": "بنمشي للكوشة نجيب خبزة",
+        "tr": "bnimshi lil-kūsha njīb khubza",
+        "en": "I'm going to the bakery to get bread"
+      }
+    ]
   },
   {
     "ar": "فرن",
@@ -1902,7 +3852,20 @@
     "freq": 3,
     "ex_ar": "الفرن متاع الغاز مسكّر.",
     "ex_tr": "il-furn mta3 il-ghāz msakkar.",
-    "ex_en": "The gas oven is off."
+    "ex_en": "The gas oven is off.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الفرن ما يسخنش",
+        "tr": "il-furn ma yiskhinsh",
+        "en": "The oven doesn't heat up"
+      },
+      {
+        "ar": "سخّن الفرن على ميتين",
+        "tr": "sakhkhan il-furn 3ala mītēn",
+        "en": "Preheat the oven to two hundred"
+      }
+    ]
   },
   {
     "ar": "فريزر",
@@ -1914,7 +3877,20 @@
     "freq": 3,
     "ex_ar": "اللحم في الفريزر.",
     "ex_tr": "il-la7am fil-frīzer.",
-    "ex_en": "The meat is in the freezer."
+    "ex_en": "The meat is in the freezer.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "طلّع اللحم من الفريزر",
+        "tr": "Talla3 il-la7am min il-frīzer",
+        "en": "Take the meat out of the freezer"
+      },
+      {
+        "ar": "الفريزر معبّي",
+        "tr": "il-frīzer m3abbi",
+        "en": "The freezer is full"
+      }
+    ]
   },
   {
     "ar": "غاز",
@@ -1927,7 +3903,20 @@
     "ex_ar": "سكّر الغاز قبل ما تطلع.",
     "ex_tr": "sakkir il-ghāz gabl ma tiTla3.",
     "ex_en": "Turn off the gas before you leave.",
-    "note": "Also the cooking gas cylinder."
+    "note": "Also the cooking gas cylinder.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "الغاز خلص، بدّل الجرة",
+        "tr": "il-ghāz khlaS, baddil ij-jarra",
+        "en": "The gas ran out, change the cylinder"
+      },
+      {
+        "ar": "شعّل الغاز تحت البرمة",
+        "tr": "sha33il il-ghāz ta7t il-burma",
+        "en": "Light the gas under the pot"
+      }
+    ]
   },
   {
     "ar": "براد",
@@ -1940,7 +3929,20 @@
     "ex_ar": "البراد على الفحم.",
     "ex_tr": "il-barrād 3ala il-fa7am.",
     "ex_en": "The teapot is on the charcoal.",
-    "note": "Small enamel/metal pot for Libyan tea, traditionally on a charcoal brazier (كانون kānūn)."
+    "note": "Small enamel/metal pot for Libyan tea, traditionally on a charcoal brazier (كانون kānūn).",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "عبّي البراد مية",
+        "tr": "3abbi il-barrād mayya",
+        "en": "Fill the teapot with water"
+      },
+      {
+        "ar": "البراد يغلي",
+        "tr": "il-barrād yighli",
+        "en": "The teapot is boiling"
+      }
+    ]
   },
   {
     "ar": "كانون",
@@ -1952,7 +3954,20 @@
     "freq": 4,
     "ex_ar": "الشاهي على الكانون أبنن.",
     "ex_tr": "ish-shāhi 3ala il-kānūn abnan.",
-    "ex_en": "Tea on the brazier tastes better."
+    "ex_en": "Tea on the brazier tastes better.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "شعّل الكانون",
+        "tr": "sha33il il-kānūn",
+        "en": "Light the brazier"
+      },
+      {
+        "ar": "نتدفوا على الكانون",
+        "tr": "nitdaffu 3ala il-kānūn",
+        "en": "We warm ourselves at the brazier"
+      }
+    ]
   },
   {
     "ar": "صينية",
@@ -1965,7 +3980,20 @@
     "ex_ar": "جيب الصينية متاع الشاهي.",
     "ex_tr": "jīb iS-Sīniyya mta3 ish-shāhi.",
     "ex_en": "Bring the tea tray.",
-    "note": "pl. صواني Swāni."
+    "note": "pl. صواني Swāni.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "صينية الشاهي جاهزة",
+        "tr": "Sīniyyat ish-shāhi jāhza",
+        "en": "The tea tray is ready"
+      },
+      {
+        "ar": "شيل الصينية للضياف",
+        "tr": "shīl iS-Sīniyya liD-Dyāf",
+        "en": "Carry the tray to the guests"
+      }
+    ]
   },
   {
     "ar": "قصعة",
@@ -1978,7 +4006,20 @@
     "ex_ar": "البازين في قصعة كبيرة.",
     "ex_tr": "il-bāzīn fi gaS3a kbīra.",
     "ex_en": "The bazin is in a big bowl.",
-    "note": "Traditional wooden or metal bowl from which the family eats together."
+    "note": "Traditional wooden or metal bowl from which the family eats together.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "ناكلوا كلنا من قصعة وحدة",
+        "tr": "naklu kullna min gaS3a wa7da",
+        "en": "We all eat from one bowl"
+      },
+      {
+        "ar": "جيب القصعة الكبيرة",
+        "tr": "jīb il-gaS3a il-kbīra",
+        "en": "Bring the big serving bowl"
+      }
+    ]
   },
   {
     "ar": "مغرفة",
@@ -1990,7 +4031,20 @@
     "freq": 3,
     "ex_ar": "عطيني المغرفة نغرف الشربة.",
     "ex_tr": "3Tīni il-maghrfa nughruf ish-sharba.",
-    "ex_en": "Give me the ladle so I can serve the soup."
+    "ex_en": "Give me the ladle so I can serve the soup.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "المغرفة في البرمة",
+        "tr": "il-maghrfa fil-burma",
+        "en": "The ladle is in the pot"
+      },
+      {
+        "ar": "زيدني مغرفة شربة",
+        "tr": "zīdni maghrfa sharba",
+        "en": "Give me another ladle of soup"
+      }
+    ]
   },
   {
     "ar": "مصفاية",
@@ -2002,7 +4056,20 @@
     "freq": 3,
     "ex_ar": "صفّي المكرونة في المصفاية.",
     "ex_tr": "Saffi il-makarūna fil-maSfāya.",
-    "ex_en": "Drain the pasta in the colander."
+    "ex_en": "Drain the pasta in the colander.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "وين المصفاية؟",
+        "tr": "wīn il-maSfāya?",
+        "en": "Where's the colander?"
+      },
+      {
+        "ar": "اغسل الخضرة في المصفاية",
+        "tr": "ighsil il-khuDra fil-maSfāya",
+        "en": "Wash the vegetables in the colander"
+      }
+    ]
   },
   {
     "ar": "مهراس",
@@ -2014,7 +4081,20 @@
     "freq": 4,
     "ex_ar": "دق الثوم في المهراس.",
     "ex_tr": "dugg ith-thūm fil-mahrās.",
-    "ex_en": "Crush the garlic in the mortar."
+    "ex_en": "Crush the garlic in the mortar.",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "المهراس متاع النحاس",
+        "tr": "il-mahrās mtā3 in-n7ās",
+        "en": "The brass mortar"
+      },
+      {
+        "ar": "دق الكمون في المهراس",
+        "tr": "dugg il-kammūn fil-mahrās",
+        "en": "Pound the cumin in the mortar"
+      }
+    ]
   },
   {
     "ar": "ززوة",
@@ -2027,7 +4107,20 @@
     "ex_ar": "طيّب القهوة في الززوة.",
     "ex_tr": "Tayyib il-gahwa fiz-zazwa.",
     "ex_en": "Make the coffee in the cezve.",
-    "note": "From Turkish cezve."
+    "note": "From Turkish cezve.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "الززوة على النار",
+        "tr": "iz-zazwa 3ala in-nār",
+        "en": "The coffee pot is on the fire"
+      },
+      {
+        "ar": "الززوة صغيرة، تكفي زوز بس",
+        "tr": "iz-zazwa Sghīra, tikfi zōz bass",
+        "en": "The coffee pot is small, it's only enough for two"
+      }
+    ]
   },
   {
     "ar": "غلاية",
@@ -2039,7 +4132,20 @@
     "freq": 3,
     "ex_ar": "حط المية في الغلاية.",
     "ex_tr": "7uTT il-mayya fil-ghallāya.",
-    "ex_en": "Put the water in the kettle."
+    "ex_en": "Put the water in the kettle.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "شعّل الغلاية",
+        "tr": "sha33il il-ghallāya",
+        "en": "Switch on the kettle"
+      },
+      {
+        "ar": "الغلاية غلت",
+        "tr": "il-ghallāya ghlat",
+        "en": "The kettle has boiled"
+      }
+    ]
   },
   {
     "ar": "خلاط",
@@ -2051,7 +4157,20 @@
     "freq": 3,
     "ex_ar": "العصير في الخلاط.",
     "ex_tr": "il-3aSīr fil-khallāT.",
-    "ex_en": "The juice is in the blender."
+    "ex_en": "The juice is in the blender.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الخلاط يدير حس هلبة",
+        "tr": "il-khallāT ydīr 7iss hallba",
+        "en": "The blender makes a lot of noise"
+      },
+      {
+        "ar": "حط الموز والحليب في الخلاط",
+        "tr": "7uTT il-mūz wil-7līb fil-khallāT",
+        "en": "Put the banana and milk in the blender"
+      }
+    ]
   },
   {
     "ar": "مايكرويف",
@@ -2063,7 +4182,20 @@
     "freq": 3,
     "ex_ar": "سخّن الماكلة في المايكرويف.",
     "ex_tr": "sakhkhin il-mākla fil-māykrowēv.",
-    "ex_en": "Heat the food in the microwave."
+    "ex_en": "Heat the food in the microwave.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "دقيقتين في المايكرويف",
+        "tr": "dgīgtēn fil-māykrowēv",
+        "en": "Two minutes in the microwave"
+      },
+      {
+        "ar": "المايكرويف خربان",
+        "tr": "il-māykrowēv kharbān",
+        "en": "The microwave is broken"
+      }
+    ]
   },
   {
     "ar": "قرعة",
@@ -2076,7 +4208,20 @@
     "ex_ar": "جيب قرعة مية من الثلاجة.",
     "ex_tr": "jīb gar3at mayya min ith-thallāja.",
     "ex_en": "Bring a bottle of water from the fridge.",
-    "note": "Same word as zucchini; context decides. pl. قراعي grā3i."
+    "note": "Same word as zucchini; context decides. pl. قراعي grā3i.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "قرعة قازوزة كبيرة",
+        "tr": "gar3at gāzūza kbīra",
+        "en": "A big bottle of soda"
+      },
+      {
+        "ar": "عبّي القرعة مية",
+        "tr": "3abbi il-gar3a mayya",
+        "en": "Fill the bottle with water"
+      }
+    ]
   },
   {
     "ar": "برطمان",
@@ -2088,7 +4233,20 @@
     "freq": 4,
     "ex_ar": "المربى في البرطمان.",
     "ex_tr": "il-mrabba fil-barTmān.",
-    "ex_en": "The jam is in the jar."
+    "ex_en": "The jam is in the jar.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "حل البرطمان",
+        "tr": "7ill il-barTmān",
+        "en": "Open the jar"
+      },
+      {
+        "ar": "برطمان زيتون",
+        "tr": "barTmān zītūn",
+        "en": "A jar of olives"
+      }
+    ]
   },
   {
     "ar": "غطا",
@@ -2100,7 +4258,20 @@
     "freq": 3,
     "ex_ar": "حط الغطا على البرمة.",
     "ex_tr": "7uTT il-ghTa 3ala il-burma.",
-    "ex_en": "Put the lid on the pot."
+    "ex_en": "Put the lid on the pot.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "وين غطا البرمة؟",
+        "tr": "wīn ghTa il-burma?",
+        "en": "Where's the lid of the pot?"
+      },
+      {
+        "ar": "سكّر الغطا باهي",
+        "tr": "sakkir il-ghTa bāhi",
+        "en": "Close the lid properly"
+      }
+    ]
   },
   {
     "ar": "علبة",
@@ -2113,7 +4284,20 @@
     "ex_ar": "علبة طماطم وعلبة تونة.",
     "ex_tr": "3ulbat TmāTim w-3ulbat tūna.",
     "ex_en": "A can of tomatoes and a can of tuna.",
-    "note": "pl. علب 3ulab."
+    "note": "pl. علب 3ulab.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "علبة حليب",
+        "tr": "3ulbat 7līb",
+        "en": "A carton of milk"
+      },
+      {
+        "ar": "حل العلبة بالسكينة",
+        "tr": "7ill il-3ulba bis-sikkīna",
+        "en": "Open the can with the knife"
+      }
+    ]
   },
   {
     "ar": "مواعين",
@@ -2126,7 +4310,20 @@
     "ex_ar": "شكون بيغسل المواعين؟",
     "ex_tr": "shkūn bighsil il-mwā3īn?",
     "ex_en": "Who's going to wash the dishes?",
-    "note": "Libyan collective for dishes/kitchenware."
+    "note": "Libyan collective for dishes/kitchenware.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "المواعين متاع الغدا",
+        "tr": "il-mwā3īn mtā3 il-ghda",
+        "en": "The lunch dishes"
+      },
+      {
+        "ar": "نغسل المواعين توا",
+        "tr": "nighsil il-mwā3īn tawwa",
+        "en": "I'll wash the dishes now"
+      }
+    ]
   },
   {
     "ar": "سفنجة",
@@ -2138,7 +4335,20 @@
     "freq": 4,
     "ex_ar": "السفنجة قديمة، بدّلها.",
     "ex_tr": "is-sfinja gdīma, baddilha.",
-    "ex_en": "The sponge is old, replace it."
+    "ex_en": "The sponge is old, replace it.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "جيب سفنجة جديدة",
+        "tr": "jīb sfinja jdīda",
+        "en": "Bring a new sponge"
+      },
+      {
+        "ar": "السفنجة والصابون في المغسلة",
+        "tr": "is-sfinja wiS-Sābūn fil-maghsla",
+        "en": "The sponge and soap are at the sink"
+      }
+    ]
   },
   {
     "ar": "مغسلة",
@@ -2150,7 +4360,20 @@
     "freq": 3,
     "ex_ar": "المواعين في المغسلة.",
     "ex_tr": "il-mwā3īn fil-maghsla.",
-    "ex_en": "The dishes are in the sink."
+    "ex_en": "The dishes are in the sink.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "المغسلة مسدودة",
+        "tr": "il-maghsla masdūda",
+        "en": "The sink is clogged"
+      },
+      {
+        "ar": "حط الصحون في المغسلة",
+        "tr": "7uTT iS-S7ūn fil-maghsla",
+        "en": "Put the plates in the sink"
+      }
+    ]
   },
   {
     "ar": "سفرة",
@@ -2163,7 +4386,20 @@
     "ex_ar": "السفرة جاهزة، تفضلوا.",
     "ex_tr": "is-sufra jāhza, tfaDDlu.",
     "ex_en": "The table is ready, please come.",
-    "note": "Often a cloth spread on the floor for a family meal."
+    "note": "Often a cloth spread on the floor for a family meal.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "حضّروا السفرة",
+        "tr": "7aDDru is-sufra",
+        "en": "Set the table"
+      },
+      {
+        "ar": "السفرة فيها كل شي",
+        "tr": "is-sufra fīha kull shay",
+        "en": "The spread has everything"
+      }
+    ]
   },
   {
     "ar": "وقيد",
@@ -2176,7 +4412,20 @@
     "ex_ar": "عندكش وقيد نشعل الغاز؟",
     "ex_tr": "3andaksh wgīd nish3il il-ghāz?",
     "ex_en": "Do you have matches so I can light the gas?",
-    "note": "Libyan word; MSA كبريت is understood."
+    "note": "Libyan word; MSA كبريت is understood.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الوقيد مبلول",
+        "tr": "il-wgīd mablūl",
+        "en": "The matches are wet"
+      },
+      {
+        "ar": "جيب علبة وقيد",
+        "tr": "jīb 3ulbat wgīd",
+        "en": "Bring a box of matches"
+      }
+    ]
   },
   {
     "ar": "ترمس",
@@ -2188,7 +4437,20 @@
     "freq": 4,
     "ex_ar": "الشاهي في الترمس للرحلة.",
     "ex_tr": "ish-shāhi fit-tirmis lir-ri7la.",
-    "ex_en": "The tea is in the thermos for the trip."
+    "ex_en": "The tea is in the thermos for the trip.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "عبّي الترمس قهوة",
+        "tr": "3abbi it-tirmis gahwa",
+        "en": "Fill the thermos with coffee"
+      },
+      {
+        "ar": "الترمس يحافظ على السخانة",
+        "tr": "it-tirmis y7āfiDH 3ala is-skhāna",
+        "en": "The thermos keeps it hot"
+      }
+    ]
   },
   {
     "ar": "محرمة",
@@ -2201,7 +4463,20 @@
     "ex_ar": "عطيني محرمة.",
     "ex_tr": "3Tīni ma7rma.",
     "ex_en": "Give me a napkin.",
-    "note": "Paper tissues are often called كلينكس by brand name."
+    "note": "Paper tissues are often called كلينكس by brand name.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "عندكش محرمة؟",
+        "tr": "3andaksh ma7rma?",
+        "en": "Do you have a tissue?"
+      },
+      {
+        "ar": "امسح يديك بالمحرمة",
+        "tr": "imsa7 yiddēk bil-ma7rma",
+        "en": "Wipe your hands with the napkin"
+      }
+    ]
   },
   {
     "ar": "لوحة",
@@ -2213,7 +4488,20 @@
     "freq": 4,
     "ex_ar": "قطّع البصل على اللوحة.",
     "ex_tr": "gaTTa3 il-bSal 3ala il-lō7a.",
-    "ex_en": "Chop the onion on the board."
+    "ex_en": "Chop the onion on the board.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "اغسل اللوحة بعد اللحم",
+        "tr": "ighsil il-lō7a ba3d il-la7am",
+        "en": "Wash the board after the meat"
+      },
+      {
+        "ar": "جيب لوحة التقطيع",
+        "tr": "jīb lō7at it-tagTī3",
+        "en": "Bring the cutting board"
+      }
+    ]
   },
   {
     "ar": "فلوس",
@@ -2226,7 +4514,20 @@
     "ex_ar": "ما عنديش فلوس تواّ.",
     "ex_tr": "ma 3andīsh flūs tawwa.",
     "ex_en": "I don't have money now.",
-    "note": "Plural in form; agreement often plural (الفلوس خلصوا)."
+    "note": "Plural in form; agreement often plural (الفلوس خلصوا).",
+    "usage": 94,
+    "phrases": [
+      {
+        "ar": "عندك فلوس؟",
+        "tr": "3andak flūs?",
+        "en": "Do you have money?"
+      },
+      {
+        "ar": "الفلوس ما تكفيش",
+        "tr": "il-flūs ma tikfīsh",
+        "en": "The money isn't enough"
+      }
+    ]
   },
   {
     "ar": "دينار",
@@ -2239,7 +4540,20 @@
     "ex_ar": "السوم عشرة دينار.",
     "ex_tr": "is-sōm 3ashra dīnār.",
     "ex_en": "The price is ten dinars.",
-    "note": "pl. دنانير dnānīr; after numbers 3–10 Libyans often keep the singular."
+    "note": "pl. دنانير dnānīr; after numbers 3–10 Libyans often keep the singular.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "بخمسة دينار بس",
+        "tr": "bi-khamsa dīnār bass",
+        "en": "For just five dinars"
+      },
+      {
+        "ar": "سلّفني عشرين دينار",
+        "tr": "sallifni 3ishrīn dīnār",
+        "en": "Lend me twenty dinars"
+      }
+    ]
   },
   {
     "ar": "درهم",
@@ -2252,7 +4566,20 @@
     "ex_ar": "الخبزة بخمسين درهم زمان.",
     "ex_tr": "il-khubza bkhamsīn dirham zamān.",
     "ex_en": "Bread used to cost fifty dirhams.",
-    "note": "1 dinar = 1000 dirhams. pl. دراهم drāhim, also used loosely for 'money'."
+    "note": "1 dinar = 1000 dirhams. pl. دراهم drāhim, also used loosely for 'money'.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "ميتين وخمسين درهم",
+        "tr": "mītēn w khamsīn dirham",
+        "en": "Two hundred and fifty dirhams"
+      },
+      {
+        "ar": "ما عنديش حتى درهم",
+        "tr": "ma 3andīsh 7atta dirham",
+        "en": "I don't have a single dirham"
+      }
+    ]
   },
   {
     "ar": "قرش",
@@ -2265,7 +4592,20 @@
     "ex_ar": "ما عنده حتى قرش.",
     "ex_tr": "ma 3anda 7atta girsh.",
     "ex_en": "He doesn't have a single penny.",
-    "note": "Old unit kept in idioms."
+    "note": "Old unit kept in idioms.",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "ما يسواش قرش",
+        "tr": "ma yiswāsh girsh",
+        "en": "It's not worth a penny"
+      },
+      {
+        "ar": "جمع قرش على قرش",
+        "tr": "jma3 girsh 3ala girsh",
+        "en": "He saved penny by penny"
+      }
+    ]
   },
   {
     "ar": "فكة",
@@ -2277,7 +4617,20 @@
     "freq": 2,
     "ex_ar": "عندكش فكة لعشرة دينار؟",
     "ex_tr": "3andaksh fakka l3ashra dīnār?",
-    "ex_en": "Do you have change for ten dinars?"
+    "ex_en": "Do you have change for ten dinars?",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "ما عنديش فكة",
+        "tr": "ma 3andīsh fakka",
+        "en": "I don't have change"
+      },
+      {
+        "ar": "فكّلي خمسين دينار",
+        "tr": "fukkli khamsīn dīnār",
+        "en": "Break fifty dinars for me"
+      }
+    ]
   },
   {
     "ar": "صرف",
@@ -2289,7 +4642,20 @@
     "freq": 2,
     "ex_ar": "خذ الصرف متاعك.",
     "ex_tr": "khudh iS-Sarf mta3ak.",
-    "ex_en": "Take your change."
+    "ex_en": "Take your change.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "نسيت الصرف",
+        "tr": "nsīt iS-Sarf",
+        "en": "I forgot the change"
+      },
+      {
+        "ar": "الصرف ناقص دينار",
+        "tr": "iS-Sarf nāgiS dīnār",
+        "en": "The change is one dinar short"
+      }
+    ]
   },
   {
     "ar": "باقي",
@@ -2301,7 +4667,20 @@
     "freq": 2,
     "ex_ar": "الباقي خليه عندك.",
     "ex_tr": "il-bāgi khallīh 3andak.",
-    "ex_en": "Keep the change."
+    "ex_en": "Keep the change.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "وين الباقي؟",
+        "tr": "wīn il-bāgi?",
+        "en": "Where's the rest?"
+      },
+      {
+        "ar": "الباقي بنجيبه بكرة",
+        "tr": "il-bāgi bnjībah bukra",
+        "en": "I'll bring the rest tomorrow"
+      }
+    ]
   },
   {
     "ar": "سوم",
@@ -2314,7 +4693,20 @@
     "ex_ar": "قداش السوم متاع هذا؟",
     "ex_tr": "gaddāsh is-sōm mta3 hādha?",
     "ex_en": "What's the price of this?",
-    "note": "Maghrebi word; سعر si3r is also used, esp. in news."
+    "note": "Maghrebi word; سعر si3r is also used, esp. in news.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "السوم غالي هلبة",
+        "tr": "is-sōm ghāli hallba",
+        "en": "The price is too high"
+      },
+      {
+        "ar": "نقّصلي في السوم شوية",
+        "tr": "naggaSli fis-sōm shwayya",
+        "en": "Lower the price a bit for me"
+      }
+    ]
   },
   {
     "ar": "سعر",
@@ -2327,7 +4719,20 @@
     "ex_ar": "سعر الدولار طلع اليوم.",
     "ex_tr": "si3r id-dūlār Tla3 il-yōm.",
     "ex_en": "The dollar rate went up today.",
-    "note": "pl. أسعار as3ār."
+    "note": "pl. أسعار as3ār.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "الأسعار طالعة",
+        "tr": "il-as3ār Tāl3a",
+        "en": "Prices are going up"
+      },
+      {
+        "ar": "سعر البنزينة ما تبدلش",
+        "tr": "si3r il-banzīna ma tbaddalsh",
+        "en": "The petrol price hasn't changed"
+      }
+    ]
   },
   {
     "ar": "قداش سومه؟",
@@ -2340,7 +4745,20 @@
     "ex_ar": "قداش سومه الكيلو؟",
     "ex_tr": "gaddāsh sōmah il-kīlu?",
     "ex_en": "How much is a kilo?",
-    "note": "The basic shopping question."
+    "note": "The basic shopping question.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "قداش سومه هذا؟",
+        "tr": "gaddāsh sōmah hādha?",
+        "en": "How much is this one?"
+      },
+      {
+        "ar": "قداش سومه نص الكيلو؟",
+        "tr": "gaddāsh sōmah nuSS il-kīlu?",
+        "en": "How much is half a kilo?"
+      }
+    ]
   },
   {
     "ar": "بلاش",
@@ -2353,7 +4771,20 @@
     "ex_ar": "الدخول بلاش.",
     "ex_tr": "id-dukhūl blāsh.",
     "ex_en": "Entry is free.",
-    "note": "Also means 'for nothing/in vain'. ببلاش bblāsh = for free."
+    "note": "Also means 'for nothing/in vain'. ببلاش bblāsh = for free.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "خوذه بلاش",
+        "tr": "khūdhah blāsh",
+        "en": "Take it for free"
+      },
+      {
+        "ar": "ما فيش حاجة بلاش",
+        "tr": "ma fīsh 7āja blāsh",
+        "en": "Nothing is free"
+      }
+    ]
   },
   {
     "ar": "حانوت",
@@ -2366,7 +4797,20 @@
     "ex_ar": "الحانوت اللي في الزنقة يبيع كل شي.",
     "ex_tr": "il-7ānūt illi fiz-zanga ybī3 kull shay.",
     "ex_en": "The shop in the street sells everything.",
-    "note": "pl. حوانيت 7wānīt."
+    "note": "pl. حوانيت 7wānīt.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "الحانوت مسكّر",
+        "tr": "il-7ānūt msakkar",
+        "en": "The shop is closed"
+      },
+      {
+        "ar": "بنمشي للحانوت، تبي حاجة؟",
+        "tr": "bnimshi lil-7ānūt, tibbi 7āja?",
+        "en": "I'm going to the shop, do you need anything?"
+      }
+    ]
   },
   {
     "ar": "سوق",
@@ -2379,7 +4823,20 @@
     "ex_ar": "نمشوا للسوق نهار الجمعة.",
     "ex_tr": "nimshu lis-sūg nhār ij-jum3a.",
     "ex_en": "We go to the market on Friday.",
-    "note": "ق → g. pl. أسواق aswāg. Weekly markets are named for the day (سوق الجمعة, سوق الثلاثاء)."
+    "note": "ق → g. pl. أسواق aswāg. Weekly markets are named for the day (سوق الجمعة, سوق الثلاثاء).",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "السوق زحمة اليوم",
+        "tr": "is-sūg za7ma il-yōm",
+        "en": "The market is crowded today"
+      },
+      {
+        "ar": "شريتها من السوق",
+        "tr": "shrētha min is-sūg",
+        "en": "I bought it at the market"
+      }
+    ]
   },
   {
     "ar": "سوبرماركت",
@@ -2391,7 +4848,20 @@
     "freq": 2,
     "ex_ar": "السوبرماركت الجديد فيه كل شي.",
     "ex_tr": "is-sūbermārket ij-jdīd fīh kull shay.",
-    "ex_en": "The new supermarket has everything."
+    "ex_en": "The new supermarket has everything.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "السوبرماركت يفتح للساعة عشرة",
+        "tr": "is-sūbermārket yifta7 lis-sā3a 3ashra",
+        "en": "The supermarket is open till ten"
+      },
+      {
+        "ar": "نشروا من السوبرماركت",
+        "tr": "nishru min is-sūbermārket",
+        "en": "We shop at the supermarket"
+      }
+    ]
   },
   {
     "ar": "محل",
@@ -2404,7 +4874,20 @@
     "ex_ar": "المحل مسكّر يوم الجمعة.",
     "ex_tr": "il-ma7all msakkar yōm ij-jum3a.",
     "ex_en": "The shop is closed on Friday.",
-    "note": "pl. محلات ma7allāt."
+    "note": "pl. محلات ma7allāt.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "المحل هذا متاع خوي",
+        "tr": "il-ma7all hādha mtā3 khūy",
+        "en": "This shop is my brother's"
+      },
+      {
+        "ar": "فتح محل جديد في الشارع",
+        "tr": "fta7 ma7all jdīd fish-shāri3",
+        "en": "He opened a new shop on the street"
+      }
+    ]
   },
   {
     "ar": "مول",
@@ -2416,7 +4899,20 @@
     "freq": 3,
     "ex_ar": "نمشوا للمول بالليل.",
     "ex_tr": "nimshu lil-mōl bil-lēl.",
-    "ex_en": "Let's go to the mall in the evening."
+    "ex_en": "Let's go to the mall in the evening.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "المول فيه زحمة",
+        "tr": "il-mōl fīh za7ma",
+        "en": "The mall is crowded"
+      },
+      {
+        "ar": "تلاقينا في المول",
+        "tr": "tlāgēna fil-mōl",
+        "en": "We met at the mall"
+      }
+    ]
   },
   {
     "ar": "سوق الخضرة",
@@ -2428,7 +4924,20 @@
     "freq": 3,
     "ex_ar": "سوق الخضرة يفتح بكري.",
     "ex_tr": "sūg il-khuDra yifta7 bakri.",
-    "ex_en": "The vegetable market opens early."
+    "ex_en": "The vegetable market opens early.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "سوق الخضرة أرخص",
+        "tr": "sūg il-khuDra arkhaS",
+        "en": "The vegetable market is cheaper"
+      },
+      {
+        "ar": "شريت الطماطم من سوق الخضرة",
+        "tr": "shrēt iT-TmāTim min sūg il-khuDra",
+        "en": "I bought the tomatoes at the vegetable market"
+      }
+    ]
   },
   {
     "ar": "سوق الحوت",
@@ -2440,7 +4949,20 @@
     "freq": 3,
     "ex_ar": "الحوت الطري في سوق الحوت.",
     "ex_tr": "il-7ūt iT-Tari fi sūg il-7ūt.",
-    "ex_en": "Fresh fish is at the fish market."
+    "ex_en": "Fresh fish is at the fish market.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "سوق الحوت ريحته قوية",
+        "tr": "sūg il-7ūt ri7tah gwiyya",
+        "en": "The fish market smells strong"
+      },
+      {
+        "ar": "بنمشي لسوق الحوت بكري",
+        "tr": "bnimshi l-sūg il-7ūt bakri",
+        "en": "I'll go to the fish market early"
+      }
+    ]
   },
   {
     "ar": "جزار",
@@ -2452,7 +4974,20 @@
     "freq": 2,
     "ex_ar": "الجزار قطعلي اللحم.",
     "ex_tr": "ij-jazzār gaTTa3li il-la7am.",
-    "ex_en": "The butcher cut the meat for me."
+    "ex_en": "The butcher cut the meat for me.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "الجزار سكّر",
+        "tr": "ij-jazzār sakkar",
+        "en": "The butcher has closed"
+      },
+      {
+        "ar": "قول للجزار يفرم اللحم",
+        "tr": "gūl lij-jazzār yifrum il-la7am",
+        "en": "Tell the butcher to mince the meat"
+      }
+    ]
   },
   {
     "ar": "خباز",
@@ -2465,7 +5000,20 @@
     "ex_ar": "الخباز يبدا يخدم الفجر.",
     "ex_tr": "il-khabbāz yibda yikhdim il-fajr.",
     "ex_en": "The baker starts work at dawn.",
-    "note": "The bakery itself is الكوشة."
+    "note": "The bakery itself is الكوشة.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الخباز هذا خبزته باهية",
+        "tr": "il-khabbāz hādha khubztah bāhya",
+        "en": "This baker's bread is good"
+      },
+      {
+        "ar": "خوي يخدم خباز",
+        "tr": "khūy yikhdim khabbāz",
+        "en": "My brother works as a baker"
+      }
+    ]
   },
   {
     "ar": "خضار",
@@ -2477,7 +5025,20 @@
     "freq": 3,
     "ex_ar": "الخضار هذا يبيع بسوم باهي.",
     "ex_tr": "il-khaDDār hādha ybī3 bsōm bāhi.",
-    "ex_en": "This greengrocer sells at a good price."
+    "ex_en": "This greengrocer sells at a good price.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "الخضار اللي في الركنة",
+        "tr": "il-khaDDār illi fir-rukna",
+        "en": "The greengrocer on the corner"
+      },
+      {
+        "ar": "شريت من عند الخضار",
+        "tr": "shrēt min 3and il-khaDDār",
+        "en": "I bought from the greengrocer"
+      }
+    ]
   },
   {
     "ar": "عطار",
@@ -2489,7 +5050,20 @@
     "freq": 4,
     "ex_ar": "البهارات من عند العطار.",
     "ex_tr": "il-bahārāt min 3and il-3aTTār.",
-    "ex_en": "The spices are from the spice seller."
+    "ex_en": "The spices are from the spice seller.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "العطار عنده كل شي",
+        "tr": "il-3aTTār 3andah kull shay",
+        "en": "The herbalist has everything"
+      },
+      {
+        "ar": "اسأل العطار على عشبة للكحة",
+        "tr": "is'al il-3aTTār 3ala 3ashba lil-ku77a",
+        "en": "Ask the herbalist for an herb for cough"
+      }
+    ]
   },
   {
     "ar": "زبون",
@@ -2502,7 +5076,20 @@
     "ex_ar": "الزبون دايماً على حق.",
     "ex_tr": "iz-zbūn dāyman 3ala 7agg.",
     "ex_en": "The customer is always right.",
-    "note": "pl. زبائن zbāyin."
+    "note": "pl. زبائن zbāyin.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "عندي زبون توا",
+        "tr": "3andi zbūn tawwa",
+        "en": "I have a customer now"
+      },
+      {
+        "ar": "الزبائن هلبة اليوم",
+        "tr": "iz-zbāyin hallba il-yōm",
+        "en": "There are lots of customers today"
+      }
+    ]
   },
   {
     "ar": "تاجر",
@@ -2515,7 +5102,20 @@
     "ex_ar": "التجار طلّعوا الأسعار.",
     "ex_tr": "it-tujjār Talla3u il-as3ār.",
     "ex_en": "The merchants raised the prices.",
-    "note": "pl. تجار tujjār."
+    "note": "pl. تجار tujjār.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "أبوه تاجر في السوق",
+        "tr": "būh tājir fis-sūg",
+        "en": "His father is a merchant at the market"
+      },
+      {
+        "ar": "التاجر هذا أمين",
+        "tr": "it-tājir hādha amīn",
+        "en": "This merchant is honest"
+      }
+    ]
   },
   {
     "ar": "فاتورة",
@@ -2528,7 +5128,20 @@
     "ex_ar": "عطيني الفاتورة من فضلك.",
     "ex_tr": "3Tīni il-fātūra min faDlak.",
     "ex_en": "Give me the bill, please.",
-    "note": "From Italian fattura."
+    "note": "From Italian fattura.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "فاتورة الضي غالية",
+        "tr": "fātūrat iD-Dayy ghālya",
+        "en": "The electricity bill is high"
+      },
+      {
+        "ar": "الفاتورة فيها غلطة",
+        "tr": "il-fātūra fīha ghalTa",
+        "en": "There's a mistake on the bill"
+      }
+    ]
   },
   {
     "ar": "وصل",
@@ -2540,7 +5153,20 @@
     "freq": 3,
     "ex_ar": "خذ الوصل لو تبي ترجعها.",
     "ex_tr": "khudh il-waSl law tibbi trajji3ha.",
-    "ex_en": "Take the receipt if you want to return it."
+    "ex_en": "Take the receipt if you want to return it.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "ما عطانيش وصل",
+        "tr": "ma 3Tānīsh waSl",
+        "en": "He didn't give me a receipt"
+      },
+      {
+        "ar": "خلّي الوصل عندك",
+        "tr": "khalli il-waSl 3andak",
+        "en": "Keep the receipt"
+      }
+    ]
   },
   {
     "ar": "حساب",
@@ -2553,7 +5179,20 @@
     "ex_ar": "الحساب عليّ اليوم.",
     "ex_tr": "il-7sāb 3alayya il-yōm.",
     "ex_en": "The bill is on me today.",
-    "note": "Libyans often argue over who pays."
+    "note": "Libyans often argue over who pays.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "جيبلنا الحساب من فضلك",
+        "tr": "jīblna il-7sāb min faDlak",
+        "en": "Bring us the bill, please"
+      },
+      {
+        "ar": "خلّص الحساب",
+        "tr": "khallaS il-7sāb",
+        "en": "He paid the bill"
+      }
+    ]
   },
   {
     "ar": "تخفيض",
@@ -2565,7 +5204,20 @@
     "freq": 3,
     "ex_ar": "فيه تخفيض على الحوايج.",
     "ex_tr": "fīh takhfīD 3ala il-7wāyij.",
-    "ex_en": "There's a discount on the clothes."
+    "ex_en": "There's a discount on the clothes.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "فيه تخفيض اليوم؟",
+        "tr": "fīh takhfīD il-yōm?",
+        "en": "Is there a discount today?"
+      },
+      {
+        "ar": "تخفيض عشرين في المية",
+        "tr": "takhfīD 3ishrīn fil-mya",
+        "en": "Twenty percent off"
+      }
+    ]
   },
   {
     "ar": "عرض",
@@ -2577,7 +5229,20 @@
     "freq": 3,
     "ex_ar": "عرض: تنين بسوم واحد.",
     "ex_tr": "3arD: tnēn bsōm wā7id.",
-    "ex_en": "Offer: two for the price of one."
+    "ex_en": "Offer: two for the price of one.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "العرض لآخر الجمعة",
+        "tr": "il-3arD l-ākhir ij-jum3a",
+        "en": "The offer lasts until the end of the week"
+      },
+      {
+        "ar": "شريته في العرض",
+        "tr": "shrētah fil-3arD",
+        "en": "I bought it on offer"
+      }
+    ]
   },
   {
     "ar": "شكارة",
@@ -2590,7 +5255,20 @@
     "ex_ar": "عطيني شكارة للخضرة.",
     "ex_tr": "3Tīni shkāra lil-khuDra.",
     "ex_en": "Give me a bag for the vegetables.",
-    "note": "Libyan/Maghrebi word; also a sack (e.g. of flour)."
+    "note": "Libyan/Maghrebi word; also a sack (e.g. of flour).",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "حطهم في شكارة",
+        "tr": "7uTThum fi shkāra",
+        "en": "Put them in a bag"
+      },
+      {
+        "ar": "الشكارة تقطعت",
+        "tr": "ish-shkāra tgaTT3at",
+        "en": "The bag tore"
+      }
+    ]
   },
   {
     "ar": "كيس",
@@ -2603,7 +5281,20 @@
     "ex_ar": "كيس دقيق خمسين كيلو.",
     "ex_tr": "kīs dgīg khamsīn kīlu.",
     "ex_en": "A fifty-kilo sack of flour.",
-    "note": "pl. أكياس akyās."
+    "note": "pl. أكياس akyās.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "كيس سكر",
+        "tr": "kīs sukkar",
+        "en": "A bag of sugar"
+      },
+      {
+        "ar": "الكيس تقيل",
+        "tr": "il-kīs tgīl",
+        "en": "The sack is heavy"
+      }
+    ]
   },
   {
     "ar": "سلة",
@@ -2615,7 +5306,20 @@
     "freq": 3,
     "ex_ar": "حط الحوايج في السلة.",
     "ex_tr": "7uTT il-7wāyij fis-salla.",
-    "ex_en": "Put the things in the basket."
+    "ex_en": "Put the things in the basket.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "سلة الخضرة",
+        "tr": "sallat il-khuDra",
+        "en": "The vegetable basket"
+      },
+      {
+        "ar": "شيل السلة معاي",
+        "tr": "shīl is-salla m3āy",
+        "en": "Carry the basket with me"
+      }
+    ]
   },
   {
     "ar": "كروسة",
@@ -2628,7 +5332,20 @@
     "ex_ar": "جيب كروسة، الحوايج هلبة.",
     "ex_tr": "jīb karrūsa, il-7wāyij hallba.",
     "ex_en": "Get a cart, there's a lot of stuff.",
-    "note": "From Italian carrozza; also a horse cart or pram."
+    "note": "From Italian carrozza; also a horse cart or pram.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "الكروسة معبية",
+        "tr": "il-karrūsa m3abbya",
+        "en": "The cart is full"
+      },
+      {
+        "ar": "رجّع الكروسة لبلاصتها",
+        "tr": "rajja3 il-karrūsa l-blaSetha",
+        "en": "Return the cart to its place"
+      }
+    ]
   },
   {
     "ar": "ميزان",
@@ -2640,7 +5357,20 @@
     "freq": 3,
     "ex_ar": "حط الطماطم على الميزان.",
     "ex_tr": "7uTT iT-TmāTim 3ala il-mīzān.",
-    "ex_en": "Put the tomatoes on the scale."
+    "ex_en": "Put the tomatoes on the scale.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "الميزان مش مضبوط",
+        "tr": "il-mīzān mush maDbūT",
+        "en": "The scale isn't accurate"
+      },
+      {
+        "ar": "وزنها على الميزان",
+        "tr": "wazinha 3ala il-mīzān",
+        "en": "Weigh it on the scale"
+      }
+    ]
   },
   {
     "ar": "كيلو",
@@ -2652,7 +5382,20 @@
     "freq": 1,
     "ex_ar": "عطيني كيلو طماطم ونص كيلو بصل.",
     "ex_tr": "3Tīni kīlu TmāTim w-nuSS kīlu bSal.",
-    "ex_en": "Give me a kilo of tomatoes and half a kilo of onions."
+    "ex_en": "Give me a kilo of tomatoes and half a kilo of onions.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "بقداش الكيلو؟",
+        "tr": "bi-gaddāsh il-kīlu?",
+        "en": "How much per kilo?"
+      },
+      {
+        "ar": "زدت زوز كيلو",
+        "tr": "zidt zōz kīlu",
+        "en": "I gained two kilos"
+      }
+    ]
   },
   {
     "ar": "لتر",
@@ -2664,7 +5407,20 @@
     "freq": 2,
     "ex_ar": "لترين حليب من فضلك.",
     "ex_tr": "litrēn 7līb min faDlak.",
-    "ex_en": "Two liters of milk, please."
+    "ex_en": "Two liters of milk, please.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "لتر زيت بخمسة دينار",
+        "tr": "litr zēt bi-khamsa dīnār",
+        "en": "A liter of oil for five dinars"
+      },
+      {
+        "ar": "قرعة لتر ونص",
+        "tr": "gar3at litr w nuSS",
+        "en": "A liter-and-a-half bottle"
+      }
+    ]
   },
   {
     "ar": "حبة",
@@ -2677,7 +5433,20 @@
     "ex_ar": "نبي خمس حبات خبزة.",
     "ex_tr": "nibbi khams 7abbāt khubza.",
     "ex_en": "I want five loaves of bread.",
-    "note": "Used as a counter for fruit, eggs, bread, etc."
+    "note": "Used as a counter for fruit, eggs, bread, etc.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "عطيني حبة وحدة بس",
+        "tr": "3aTīni 7abba wa7da bass",
+        "en": "Give me just one"
+      },
+      {
+        "ar": "قداش الحبة؟",
+        "tr": "gaddāsh il-7abba?",
+        "en": "How much is one piece?"
+      }
+    ]
   },
   {
     "ar": "باكو",
@@ -2690,7 +5459,20 @@
     "ex_ar": "باكو دخان وباكو بسكويت.",
     "ex_tr": "bāku dukhkhān w-bāku biskwīt.",
     "ex_en": "A pack of cigarettes and a packet of biscuits.",
-    "note": "From Italian pacco."
+    "note": "From Italian pacco.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "باكو حليب",
+        "tr": "bāku 7līb",
+        "en": "A packet of milk"
+      },
+      {
+        "ar": "قداش الباكو؟",
+        "tr": "gaddāsh il-bāku?",
+        "en": "How much is the packet?"
+      }
+    ]
   },
   {
     "ar": "كرطونة",
@@ -2703,7 +5485,20 @@
     "ex_ar": "كرطونة مية فيها ستة قراعي.",
     "ex_tr": "karTūnat mayya fīha sitta grā3i.",
     "ex_en": "A carton of water has six bottles.",
-    "note": "From Italian cartone."
+    "note": "From Italian cartone.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "كرطونة تفاح",
+        "tr": "karTūnat tiffā7",
+        "en": "A box of apples"
+      },
+      {
+        "ar": "حط الحوايج في الكرطونة",
+        "tr": "7uTT il-7wāyij fil-karTūna",
+        "en": "Put the things in the box"
+      }
+    ]
   },
   {
     "ar": "رف",
@@ -2715,7 +5510,20 @@
     "freq": 4,
     "ex_ar": "الزيت على الرف التاني.",
     "ex_tr": "iz-zēt 3ala ir-raff it-tāni.",
-    "ex_en": "The oil is on the second shelf."
+    "ex_en": "The oil is on the second shelf.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "الرف الفوقاني",
+        "tr": "ir-raff il-fōgāni",
+        "en": "The top shelf"
+      },
+      {
+        "ar": "الرف فاضي",
+        "tr": "ir-raff fāDi",
+        "en": "The shelf is empty"
+      }
+    ]
   },
   {
     "ar": "طابور",
@@ -2728,7 +5536,20 @@
     "ex_ar": "الطابور على المصرف طويل هلبة.",
     "ex_tr": "iT-Tābūr 3ala il-maSraf Twīl hallba.",
     "ex_en": "The queue at the bank is very long.",
-    "note": "Turkish origin; queues for cash and fuel are a familiar Libyan experience."
+    "note": "Turkish origin; queues for cash and fuel are a familiar Libyan experience.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "الطابور طويل هلبة",
+        "tr": "iT-Tābūr Twīl hallba",
+        "en": "The line is very long"
+      },
+      {
+        "ar": "وقّفت في الطابور ساعتين",
+        "tr": "waggaft fiT-Tābūr sā3tēn",
+        "en": "I stood in line for two hours"
+      }
+    ]
   },
   {
     "ar": "كاش",
@@ -2740,7 +5561,20 @@
     "freq": 2,
     "ex_ar": "الدفع كاش بس.",
     "ex_tr": "id-daf3 kāsh bass.",
-    "ex_en": "Payment is cash only."
+    "ex_en": "Payment is cash only.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "تخلّص كاش ولا بطاقة؟",
+        "tr": "tkhalliS kāsh walla biTāga?",
+        "en": "Paying cash or card?"
+      },
+      {
+        "ar": "ما عنديش كاش توا",
+        "tr": "ma 3andīsh kāsh tawwa",
+        "en": "I don't have cash right now"
+      }
+    ]
   },
   {
     "ar": "سيولة",
@@ -2753,7 +5587,20 @@
     "ex_ar": "المصارف ما فيهاش سيولة.",
     "ex_tr": "il-maSārif ma fīhāsh siyūla.",
     "ex_en": "The banks have no cash.",
-    "note": "Common topic in Libya due to recurring banknote shortages."
+    "note": "Common topic in Libya due to recurring banknote shortages.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "مشكلة السيولة ما تحلتش",
+        "tr": "mushkilt is-siyūla ma t7allatsh",
+        "en": "The cash shortage hasn't been solved"
+      },
+      {
+        "ar": "فيه سيولة في المصرف اليوم؟",
+        "tr": "fīh siyūla fil-maSraf il-yōm?",
+        "en": "Is there cash at the bank today?"
+      }
+    ]
   },
   {
     "ar": "بطاقة",
@@ -2766,7 +5613,20 @@
     "ex_ar": "نخلّص بالبطاقة؟",
     "ex_tr": "nkhalliS bil-biTāga?",
     "ex_en": "Can I pay by card?",
-    "note": "ق → g."
+    "note": "ق → g.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "البطاقة ما خدمتش",
+        "tr": "il-biTāga ma khidmatsh",
+        "en": "The card didn't work"
+      },
+      {
+        "ar": "نسيت رقم البطاقة",
+        "tr": "nsīt ragm il-biTāga",
+        "en": "I forgot the card PIN"
+      }
+    ]
   },
   {
     "ar": "صك",
@@ -2778,7 +5638,20 @@
     "freq": 4,
     "ex_ar": "خلّص بصك مصدّق.",
     "ex_tr": "khalliS bSakk mSaddag.",
-    "ex_en": "Pay with a certified cheque."
+    "ex_en": "Pay with a certified cheque.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الصك ما فيهوش رصيد",
+        "tr": "iS-Sakk ma fīhūsh raSīd",
+        "en": "The cheque bounced"
+      },
+      {
+        "ar": "نبي نصرف صك",
+        "tr": "nibbi nuSruf Sakk",
+        "en": "I want to cash a cheque"
+      }
+    ]
   },
   {
     "ar": "دين",
@@ -2791,7 +5664,20 @@
     "ex_ar": "نشري بالدين ونخلّص آخر الشهر.",
     "ex_tr": "nishri bid-dēn w-nkhalliS ākhir ish-shahr.",
     "ex_en": "I buy on credit and pay at the end of the month.",
-    "note": "بالدين = on credit, common at neighbourhood shops."
+    "note": "بالدين = on credit, common at neighbourhood shops.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "عليّ دين هلبة",
+        "tr": "3layya dēn hallba",
+        "en": "I have a lot of debt"
+      },
+      {
+        "ar": "خلّصت الدين متاعي",
+        "tr": "khallaSt id-dēn mtā3i",
+        "en": "I paid off my debt"
+      }
+    ]
   },
   {
     "ar": "شرا",
@@ -2804,7 +5690,20 @@
     "ex_ar": "الشرا من السوق أرخص.",
     "ex_tr": "ish-shra min is-sūg arkhaS.",
     "ex_en": "Buying from the market is cheaper.",
-    "note": "Verb: يشري yishri 'to buy' (Libyan/Maghrebi)."
+    "note": "Verb: يشري yishri 'to buy' (Libyan/Maghrebi).",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "الشرا من الحانوت ساهل",
+        "tr": "ish-shra min il-7ānūt sāhil",
+        "en": "Buying from the corner shop is easy"
+      },
+      {
+        "ar": "مشغول بشرا حوايج العيد",
+        "tr": "mashghūl bi-shra 7wāyij il-3īd",
+        "en": "Busy buying things for Eid"
+      }
+    ]
   },
   {
     "ar": "بيع",
@@ -2816,7 +5715,20 @@
     "freq": 3,
     "ex_ar": "البيع والشرا.",
     "ex_tr": "il-bē3 wish-shra.",
-    "ex_en": "Buying and selling."
+    "ex_en": "Buying and selling.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "الدار للبيع",
+        "tr": "id-dār lil-bē3",
+        "en": "The house is for sale"
+      },
+      {
+        "ar": "البيع واقف هالأيام",
+        "tr": "il-bē3 wāgif hal-ayyām",
+        "en": "Sales are slow these days"
+      }
+    ]
   },
   {
     "ar": "عملة",
@@ -2828,7 +5740,20 @@
     "freq": 3,
     "ex_ar": "العملة الصعبة صعب تلقاها.",
     "ex_tr": "il-3umla iS-Sa3ba Sa3b tilgāha.",
-    "ex_en": "Hard currency is hard to find."
+    "ex_en": "Hard currency is hard to find.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "العملة الليبية الدينار",
+        "tr": "il-3umla il-lībiyya id-dīnār",
+        "en": "The Libyan currency is the dinar"
+      },
+      {
+        "ar": "العملة الجديدة طلعت",
+        "tr": "il-3umla ij-jdīda Tal3at",
+        "en": "The new currency came out"
+      }
+    ]
   },
   {
     "ar": "دولار",
@@ -2840,7 +5765,20 @@
     "freq": 2,
     "ex_ar": "قداش الدولار في السوق؟",
     "ex_tr": "gaddāsh id-dūlār fis-sūg?",
-    "ex_en": "How much is the dollar on the market?"
+    "ex_en": "How much is the dollar on the market?",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "الدولار طاح شوية",
+        "tr": "id-dūlār Tā7 shwayya",
+        "en": "The dollar dropped a bit"
+      },
+      {
+        "ar": "بقداش صرفت الدولار؟",
+        "tr": "bi-gaddāsh Sraft id-dūlār?",
+        "en": "At what rate did you change the dollar?"
+      }
+    ]
   },
   {
     "ar": "سوق سودا",
@@ -2853,7 +5791,20 @@
     "ex_ar": "صرفت الدولار في السوق السودا.",
     "ex_tr": "Sarraft id-dūlār fis-sūg is-sūda.",
     "ex_en": "I exchanged the dollars on the black market.",
-    "note": "The parallel exchange market is a daily reference in Libya."
+    "note": "The parallel exchange market is a daily reference in Libya.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "سعر السوق السودا",
+        "tr": "si3r is-sūg is-sūda",
+        "en": "The black-market rate"
+      },
+      {
+        "ar": "ما تصرفش في السوق السودا",
+        "tr": "ma tSrifsh fis-sūg is-sūda",
+        "en": "Don't exchange on the black market"
+      }
+    ]
   },
   {
     "ar": "صراف",
@@ -2865,7 +5816,20 @@
     "freq": 4,
     "ex_ar": "الصراف في سوق المشير.",
     "ex_tr": "iS-Sarrāf fi sūg il-mshīr.",
-    "ex_en": "The money changer is in Souq al-Mushir."
+    "ex_en": "The money changer is in Souq al-Mushir.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "الصراف عطاني سعر باهي",
+        "tr": "iS-Sarrāf 3Tāni si3r bāhi",
+        "en": "The money changer gave me a good rate"
+      },
+      {
+        "ar": "وين أقرب صراف؟",
+        "tr": "wīn agrab Sarrāf?",
+        "en": "Where's the nearest money changer?"
+      }
+    ]
   },
   {
     "ar": "ضمان",
@@ -2877,7 +5841,20 @@
     "freq": 4,
     "ex_ar": "التلفون عليه ضمان سنة.",
     "ex_tr": "it-tilifōn 3alēh Damān sana.",
-    "ex_en": "The phone has a one-year warranty."
+    "ex_en": "The phone has a one-year warranty.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "فيه ضمان عليه؟",
+        "tr": "fīh Damān 3alēh?",
+        "en": "Does it have a warranty?"
+      },
+      {
+        "ar": "الضمان خلص",
+        "tr": "iD-Damān khlaS",
+        "en": "The warranty has expired"
+      }
+    ]
   },
   {
     "ar": "مستعمل",
@@ -2889,7 +5866,20 @@
     "freq": 3,
     "ex_ar": "شريت كروسة مستعملة للصغير.",
     "ex_tr": "shrēt karrūsa musta3mla liS-Sghayyir.",
-    "ex_en": "I bought a second-hand pram for the baby."
+    "ex_en": "I bought a second-hand pram for the baby.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "سيارة مستعملة",
+        "tr": "sayyāra musta3mala",
+        "en": "A used car"
+      },
+      {
+        "ar": "جديد ولا مستعمل؟",
+        "tr": "jdīd walla musta3mal?",
+        "en": "New or used?"
+      }
+    ]
   },
   {
     "ar": "بالجملة",
@@ -2901,7 +5891,20 @@
     "freq": 4,
     "ex_ar": "نشروا الزيت بالجملة.",
     "ex_tr": "nishru iz-zēt bij-jumla.",
-    "ex_en": "We buy oil wholesale."
+    "ex_en": "We buy oil wholesale.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "يبيع بالجملة بس",
+        "tr": "ybī3 bij-jumla bass",
+        "en": "He only sells wholesale"
+      },
+      {
+        "ar": "السوم بالجملة أرخص",
+        "tr": "is-sōm bij-jumla arkhaS",
+        "en": "The wholesale price is cheaper"
+      }
+    ]
   },
   {
     "ar": "صندوق",
@@ -2914,7 +5917,20 @@
     "ex_ar": "خلّص في الصندوق.",
     "ex_tr": "khalliS fiS-Sandūg.",
     "ex_en": "Pay at the checkout.",
-    "note": "Also 'box, chest'."
+    "note": "Also 'box, chest'.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "الصندوق التاني فاضي",
+        "tr": "iS-Sandūg it-tāni fāDi",
+        "en": "The second checkout is free"
+      },
+      {
+        "ar": "خلّصت في الصندوق",
+        "tr": "khallaSt fiS-Sandūg",
+        "en": "I paid at the checkout"
+      }
+    ]
   },
   {
     "ar": "مقاس",
@@ -2927,7 +5943,20 @@
     "ex_ar": "عندكش مقاس أكبر؟",
     "ex_tr": "3andaksh mgās akbar?",
     "ex_en": "Do you have a bigger size?",
-    "note": "ق → g."
+    "note": "ق → g.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "شن مقاسك؟",
+        "tr": "shin mgāsak?",
+        "en": "What's your size?"
+      },
+      {
+        "ar": "المقاس هذا صغير عليّ",
+        "tr": "il-mgās hādha Sghīr 3layya",
+        "en": "This size is small on me"
+      }
+    ]
   },
   {
     "ar": "فلوس الشهرية",
@@ -2940,7 +5969,20 @@
     "ex_ar": "فلوس الشهرية ما نزلتش.",
     "ex_tr": "flūs ish-shahriyya ma nizlitsh.",
     "ex_en": "The salary hasn't come in.",
-    "note": "شهرية shahriyya = monthly pay."
+    "note": "شهرية shahriyya = monthly pay.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "فلوس الشهرية ما تكفيش",
+        "tr": "flūs ish-shahriyya ma tikfīsh",
+        "en": "The monthly salary isn't enough"
+      },
+      {
+        "ar": "نستنوا في فلوس الشهرية",
+        "tr": "nistannu fi flūs ish-shahriyya",
+        "en": "We're waiting for the monthly pay"
+      }
+    ]
   },
   {
     "ar": "لون",
@@ -2953,7 +5995,20 @@
     "ex_ar": "شن لونها السيارة؟",
     "ex_tr": "shin lōnha is-sayyāra?",
     "ex_en": "What color is the car?",
-    "note": "pl. ألوان alwān."
+    "note": "pl. ألوان alwān.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "شن لونك المفضل؟",
+        "tr": "shin lōnak il-mufaDDal?",
+        "en": "What's your favorite color?"
+      },
+      {
+        "ar": "عندكم لون تاني؟",
+        "tr": "3andkum lōn tāni?",
+        "en": "Do you have another color?"
+      }
+    ]
   },
   {
     "ar": "ملوّن",
@@ -2965,7 +6020,20 @@
     "freq": 3,
     "ex_ar": "الصغار يحبوا الحوايج الملونة.",
     "ex_tr": "iS-Sghār y7ibbu il-7wāyij il-mlawwna.",
-    "ex_en": "Kids like colorful clothes."
+    "ex_en": "Kids like colorful clothes.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "قميص ملوّن",
+        "tr": "gamīS mlawwan",
+        "en": "A colorful shirt"
+      },
+      {
+        "ar": "أقلام ملوّنة للمدرسة",
+        "tr": "aglām mlawwna lil-madrsa",
+        "en": "Colored pencils for school"
+      }
+    ]
   },
   {
     "ar": "أحمر",
@@ -2978,7 +6046,20 @@
     "ex_ar": "نبي القميص الأحمر.",
     "ex_tr": "nibbi il-gmīS il-a7mar.",
     "ex_en": "I want the red shirt.",
-    "note": "fem. حمرا 7amra; pl. حمر 7umur."
+    "note": "fem. حمرا 7amra; pl. حمر 7umur.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "الضو أحمر، وقّف",
+        "tr": "iD-Dō a7mar, waggif",
+        "en": "The light is red, stop"
+      },
+      {
+        "ar": "وجهه ولّى أحمر",
+        "tr": "wajhah walla a7mar",
+        "en": "His face turned red"
+      }
+    ]
   },
   {
     "ar": "حمرا",
@@ -2990,7 +6071,20 @@
     "freq": 2,
     "ex_ar": "الوردة الحمرا.",
     "ex_tr": "il-warda il-7amra.",
-    "ex_en": "The red rose."
+    "ex_en": "The red rose.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "سيارة حمرا",
+        "tr": "sayyāra 7amra",
+        "en": "A red car"
+      },
+      {
+        "ar": "الشنطة الحمرا متاع مين؟",
+        "tr": "ish-shanTa il-7amra mtā3 mīn?",
+        "en": "Whose is the red bag?"
+      }
+    ]
   },
   {
     "ar": "أخضر",
@@ -3003,7 +6097,20 @@
     "ex_ar": "الشاهي الأخضر.",
     "ex_tr": "ish-shāhi il-akhDar.",
     "ex_en": "Green tea.",
-    "note": "fem. خضرا khaDra; pl. خضر khuDur."
+    "note": "fem. خضرا khaDra; pl. خضر khuDur.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "الضو أخضر، امشي",
+        "tr": "iD-Dō akhDar, imshi",
+        "en": "The light is green, go"
+      },
+      {
+        "ar": "فلفل أخضر حار",
+        "tr": "filfil akhDar 7ārr",
+        "en": "Hot green pepper"
+      }
+    ]
   },
   {
     "ar": "خضرا",
@@ -3015,7 +6122,20 @@
     "freq": 2,
     "ex_ar": "الساحة الخضرا.",
     "ex_tr": "is-sā7a il-khaDra.",
-    "ex_en": "Green Square."
+    "ex_en": "Green Square.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "الحديقة خضرا في الربيع",
+        "tr": "il-7adīga khaDra fir-rbī3",
+        "en": "The garden is green in spring"
+      },
+      {
+        "ar": "عيونها خضرا",
+        "tr": "3yūnha khaDra",
+        "en": "Her eyes are green"
+      }
+    ]
   },
   {
     "ar": "أزرق",
@@ -3028,7 +6148,20 @@
     "ex_ar": "البحر أزرق اليوم.",
     "ex_tr": "il-ba7ar azrag il-yōm.",
     "ex_en": "The sea is blue today.",
-    "note": "ق → g. fem. زرقا zarga."
+    "note": "ق → g. fem. زرقا zarga.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "قلم أزرق",
+        "tr": "galam azrag",
+        "en": "A blue pen"
+      },
+      {
+        "ar": "لابس قميص أزرق",
+        "tr": "lābis gamīS azrag",
+        "en": "He's wearing a blue shirt"
+      }
+    ]
   },
   {
     "ar": "زرقا",
@@ -3041,7 +6174,20 @@
     "ex_ar": "عيونها زرق والشنطة زرقا.",
     "ex_tr": "3yūnha zurg wish-shanTa zarga.",
     "ex_en": "Her eyes are blue and the bag is blue.",
-    "note": "pl. زرق zurg."
+    "note": "pl. زرق zurg.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "السما زرقا اليوم",
+        "tr": "is-sma zarga il-yōm",
+        "en": "The sky is blue today"
+      },
+      {
+        "ar": "نبي الشنطة الزرقا",
+        "tr": "nibbi ish-shanTa iz-zarga",
+        "en": "I want the blue bag"
+      }
+    ]
   },
   {
     "ar": "أصفر",
@@ -3054,7 +6200,20 @@
     "ex_ar": "التاكسي أصفر.",
     "ex_tr": "it-tāksi aSfar.",
     "ex_en": "The taxi is yellow.",
-    "note": "fem. صفرا Safra. Also 'pale' (of a face)."
+    "note": "fem. صفرا Safra. Also 'pale' (of a face).",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "وجهك أصفر، مريض؟",
+        "tr": "wajhak aSfar, mrīD?",
+        "en": "You look pale, are you ill?"
+      },
+      {
+        "ar": "الموز أصفر يعني طايب",
+        "tr": "il-mūz aSfar ya3ni Tāyib",
+        "en": "The banana is yellow, so it's ripe"
+      }
+    ]
   },
   {
     "ar": "صفرا",
@@ -3066,7 +6225,20 @@
     "freq": 2,
     "ex_ar": "الوردة الصفرا.",
     "ex_tr": "il-warda iS-Safra.",
-    "ex_en": "The yellow flower."
+    "ex_en": "The yellow flower.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "الشمس صفرا",
+        "tr": "ish-shams Safra",
+        "en": "The sun is yellow"
+      },
+      {
+        "ar": "الكورة الصفرا متاعي",
+        "tr": "il-kūra iS-Safra mtā3i",
+        "en": "The yellow ball is mine"
+      }
+    ]
   },
   {
     "ar": "أكحل",
@@ -3079,7 +6251,20 @@
     "ex_ar": "لابس كبوط أكحل.",
     "ex_tr": "lābis kabbūT ak7al.",
     "ex_en": "He's wearing a black coat.",
-    "note": "Libyan/Maghrebi word for black; أسود is understood but sounds formal. fem. كحلة ka7la."
+    "note": "Libyan/Maghrebi word for black; أسود is understood but sounds formal. fem. كحلة ka7la.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "شعره أكحل",
+        "tr": "sha3rah ak7al",
+        "en": "His hair is black"
+      },
+      {
+        "ar": "قهوة كحلة بلا حليب",
+        "tr": "gahwa ka7la bla 7līb",
+        "en": "Black coffee without milk"
+      }
+    ]
   },
   {
     "ar": "كحلة",
@@ -3092,7 +6277,20 @@
     "ex_ar": "الشنطة الكحلة متاعي.",
     "ex_tr": "ish-shanTa il-ka7la mta3i.",
     "ex_en": "The black bag is mine.",
-    "note": "pl. كحل ku7ul."
+    "note": "pl. كحل ku7ul.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "عيونها كحلة",
+        "tr": "3yūnha ka7la",
+        "en": "Her eyes are black"
+      },
+      {
+        "ar": "السيارة الكحلة واقفة برا",
+        "tr": "is-sayyāra il-ka7la wāgfa barra",
+        "en": "The black car is parked outside"
+      }
+    ]
   },
   {
     "ar": "أبيض",
@@ -3105,7 +6303,20 @@
     "ex_ar": "الحيط أبيض.",
     "ex_tr": "il-7ēT abyaD.",
     "ex_en": "The wall is white.",
-    "note": "fem. بيضا bēDa; pl. بيض bīD."
+    "note": "fem. بيضا bēDa; pl. بيض bīD.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "قميص أبيض نظيف",
+        "tr": "gamīS abyaD nDHīf",
+        "en": "A clean white shirt"
+      },
+      {
+        "ar": "شعره ولّى أبيض",
+        "tr": "sha3rah walla abyaD",
+        "en": "His hair has turned white"
+      }
+    ]
   },
   {
     "ar": "بيضا",
@@ -3117,7 +6328,20 @@
     "freq": 2,
     "ex_ar": "السيارة البيضا متاعه.",
     "ex_tr": "is-sayyāra il-bēDa mta3ah.",
-    "ex_en": "The white car is his."
+    "ex_en": "The white car is his.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "الحيطة بيضا",
+        "tr": "il-7ēTa bēDa",
+        "en": "The wall is white"
+      },
+      {
+        "ar": "جيب الشكارة البيضا",
+        "tr": "jīb ish-shkāra il-bēDa",
+        "en": "Bring the white bag"
+      }
+    ]
   },
   {
     "ar": "قهوي",
@@ -3130,7 +6354,20 @@
     "ex_ar": "الطاولة قهوية.",
     "ex_tr": "iT-Tāwla gahwiyya.",
     "ex_en": "The table is brown.",
-    "note": "Libyans typically say قهوي for brown; بني bunni also used."
+    "note": "Libyans typically say قهوي for brown; بني bunni also used.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "سباط قهوي",
+        "tr": "sabbāT gahwi",
+        "en": "Brown shoes"
+      },
+      {
+        "ar": "عيونه قهويين",
+        "tr": "3yūnah gahwiyyīn",
+        "en": "His eyes are brown"
+      }
+    ]
   },
   {
     "ar": "بني",
@@ -3142,7 +6379,20 @@
     "freq": 3,
     "ex_ar": "عيونه بني.",
     "ex_tr": "3yūnah bunni.",
-    "ex_en": "His eyes are brown."
+    "ex_en": "His eyes are brown.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "شعرها بني فاتح",
+        "tr": "sha3rha bunni fāti7",
+        "en": "Her hair is light brown"
+      },
+      {
+        "ar": "الكبوط البني",
+        "tr": "il-kabbūT il-bunni",
+        "en": "The brown coat"
+      }
+    ]
   },
   {
     "ar": "رصاصي",
@@ -3155,7 +6405,20 @@
     "ex_ar": "السيارة رصاصية.",
     "ex_tr": "is-sayyāra rSāSiyya.",
     "ex_en": "The car is grey.",
-    "note": "Lit. 'lead-colored'; common Libyan word for grey. رمادي rmādi also used."
+    "note": "Lit. 'lead-colored'; common Libyan word for grey. رمادي rmādi also used.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "سروال رصاصي",
+        "tr": "sirwāl rSāSi",
+        "en": "Grey trousers"
+      },
+      {
+        "ar": "شعره رصاصي شوية",
+        "tr": "sha3rah rSāSi shwayya",
+        "en": "His hair is a bit grey"
+      }
+    ]
   },
   {
     "ar": "رمادي",
@@ -3167,7 +6430,20 @@
     "freq": 3,
     "ex_ar": "السما رمادية اليوم.",
     "ex_tr": "is-sma rmādiyya il-yōm.",
-    "ex_en": "The sky is grey today."
+    "ex_en": "The sky is grey today.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "الجو رمادي اليوم",
+        "tr": "ij-jaww rmādi il-yōm",
+        "en": "The weather is grey today"
+      },
+      {
+        "ar": "لون رمادي غامق",
+        "tr": "lōn rmādi ghāmig",
+        "en": "A dark grey color"
+      }
+    ]
   },
   {
     "ar": "برتقاني",
@@ -3180,7 +6456,20 @@
     "ex_ar": "الكورة برتقانية.",
     "ex_tr": "il-kūra burtgāniyya.",
     "ex_en": "The ball is orange.",
-    "note": "From برتقان burtgān (orange fruit)."
+    "note": "From برتقان burtgān (orange fruit).",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "قميص برتقاني",
+        "tr": "gamīS burtgāni",
+        "en": "An orange shirt"
+      },
+      {
+        "ar": "السما برتقانية في المغرب",
+        "tr": "is-sma burtgāniyya fil-maghrib",
+        "en": "The sky is orange at sunset"
+      }
+    ]
   },
   {
     "ar": "وردي",
@@ -3193,7 +6482,20 @@
     "ex_ar": "البنية تبي فستان وردي.",
     "ex_tr": "il-bnayya tibbi fistān wardi.",
     "ex_en": "The girl wants a pink dress.",
-    "note": "روز rōz (from French/Italian rosa) is also heard."
+    "note": "روز rōz (from French/Italian rosa) is also heard.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "لون وردي فاتح",
+        "tr": "lōn wardi fāti7",
+        "en": "A light pink color"
+      },
+      {
+        "ar": "الغرفة وردية",
+        "tr": "il-ghurfa wardiyya",
+        "en": "The room is pink"
+      }
+    ]
   },
   {
     "ar": "بنفسجي",
@@ -3205,7 +6507,20 @@
     "freq": 3,
     "ex_ar": "الوردة البنفسجية.",
     "ex_tr": "il-warda il-banafsajiyya.",
-    "ex_en": "The purple flower."
+    "ex_en": "The purple flower.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "فستان بنفسجي",
+        "tr": "fustān banafsaji",
+        "en": "A purple dress"
+      },
+      {
+        "ar": "البنفسجي لونها المفضل",
+        "tr": "il-banafsaji lōnha il-mufaDDal",
+        "en": "Purple is her favorite color"
+      }
+    ]
   },
   {
     "ar": "كحلي",
@@ -3217,7 +6532,20 @@
     "freq": 3,
     "ex_ar": "البدلة الكحلية.",
     "ex_tr": "il-badla il-ka7liyya.",
-    "ex_en": "The navy suit."
+    "ex_en": "The navy suit.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "سروال كحلي",
+        "tr": "sirwāl ka7li",
+        "en": "Navy trousers"
+      },
+      {
+        "ar": "الكحلي يمشي مع الأبيض",
+        "tr": "il-ka7li yimshi ma3a il-abyaD",
+        "en": "Navy goes with white"
+      }
+    ]
   },
   {
     "ar": "سماوي",
@@ -3229,7 +6557,20 @@
     "freq": 3,
     "ex_ar": "الحيط سماوي.",
     "ex_tr": "il-7ēT smāwi.",
-    "ex_en": "The wall is sky blue."
+    "ex_en": "The wall is sky blue.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "قميص سماوي",
+        "tr": "gamīS smāwi",
+        "en": "A sky-blue shirt"
+      },
+      {
+        "ar": "السما سماوية صافية",
+        "tr": "is-sma smāwiyya Sāfya",
+        "en": "The sky is clear light blue"
+      }
+    ]
   },
   {
     "ar": "زيتي",
@@ -3241,7 +6582,20 @@
     "freq": 4,
     "ex_ar": "قميص زيتي.",
     "ex_tr": "gmīS zēti.",
-    "ex_en": "An olive-green shirt."
+    "ex_en": "An olive-green shirt.",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "كبوط زيتي",
+        "tr": "kabbūT zēti",
+        "en": "An olive-green coat"
+      },
+      {
+        "ar": "اللون الزيتي ما يعجبنيش",
+        "tr": "il-lōn iz-zēti ma y3ajibnīsh",
+        "en": "I don't like olive green"
+      }
+    ]
   },
   {
     "ar": "بيج",
@@ -3253,7 +6607,20 @@
     "freq": 3,
     "ex_ar": "الكنبة بيج.",
     "ex_tr": "il-kanaba bēj.",
-    "ex_en": "The sofa is beige."
+    "ex_en": "The sofa is beige.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "سروال بيج",
+        "tr": "sirwāl bēj",
+        "en": "Beige trousers"
+      },
+      {
+        "ar": "الحيوط بيج فاتح",
+        "tr": "il-7yūT bēj fāti7",
+        "en": "The walls are light beige"
+      }
+    ]
   },
   {
     "ar": "ذهبي",
@@ -3265,7 +6632,20 @@
     "freq": 3,
     "ex_ar": "الساعة ذهبية.",
     "ex_tr": "is-sā3a dhahabiyya.",
-    "ex_en": "The watch is gold-colored."
+    "ex_en": "The watch is gold-colored.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "خاتم ذهبي",
+        "tr": "khātim dhahabi",
+        "en": "A gold-colored ring"
+      },
+      {
+        "ar": "لون ذهبي يلمع",
+        "tr": "lōn dhahabi ylamma3",
+        "en": "A shiny gold color"
+      }
+    ]
   },
   {
     "ar": "فضي",
@@ -3277,7 +6657,20 @@
     "freq": 3,
     "ex_ar": "السيارة فضية.",
     "ex_tr": "is-sayyāra faDDiyya.",
-    "ex_en": "The car is silver."
+    "ex_en": "The car is silver.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "تلفون فضي",
+        "tr": "tilifūn faDDi",
+        "en": "A silver phone"
+      },
+      {
+        "ar": "شعره فضي",
+        "tr": "sha3rah faDDi",
+        "en": "His hair is silver"
+      }
+    ]
   },
   {
     "ar": "عسلي",
@@ -3289,7 +6682,20 @@
     "freq": 4,
     "ex_ar": "عيونها عسلي.",
     "ex_tr": "3yūnha 3asali.",
-    "ex_en": "Her eyes are hazel."
+    "ex_en": "Her eyes are hazel.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "عيون عسلية",
+        "tr": "3yūn 3asaliyya",
+        "en": "Hazel eyes"
+      },
+      {
+        "ar": "لونه عسلي فاتح",
+        "tr": "lōnah 3asali fāti7",
+        "en": "Its color is light honey"
+      }
+    ]
   },
   {
     "ar": "خمري",
@@ -3301,7 +6707,20 @@
     "freq": 5,
     "ex_ar": "شنطة خمرية.",
     "ex_tr": "shanTa khamriyya.",
-    "ex_en": "A burgundy bag."
+    "ex_en": "A burgundy bag.",
+    "usage": 26,
+    "phrases": [
+      {
+        "ar": "فستان خمري",
+        "tr": "fustān khamri",
+        "en": "A burgundy dress"
+      },
+      {
+        "ar": "اللون الخمري في الشتا",
+        "tr": "il-lōn il-khamri fish-shta",
+        "en": "Burgundy in winter"
+      }
+    ]
   },
   {
     "ar": "فاتح",
@@ -3313,7 +6732,20 @@
     "freq": 2,
     "ex_ar": "نبي أزرق فاتح.",
     "ex_tr": "nibbi azrag fāti7.",
-    "ex_en": "I want light blue."
+    "ex_en": "I want light blue.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "لون فاتح شوية",
+        "tr": "lōn fāti7 shwayya",
+        "en": "A slightly lighter color"
+      },
+      {
+        "ar": "عندكم فاتح أكثر؟",
+        "tr": "3andkum fāti7 akthar?",
+        "en": "Do you have a lighter one?"
+      }
+    ]
   },
   {
     "ar": "غامق",
@@ -3326,7 +6758,20 @@
     "ex_ar": "الأخضر الغامق أحلى.",
     "ex_tr": "il-akhDar il-ghāmig a7la.",
     "ex_en": "Dark green is nicer.",
-    "note": "ق → g."
+    "note": "ق → g.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "لون غامق",
+        "tr": "lōn ghāmig",
+        "en": "A dark color"
+      },
+      {
+        "ar": "نبي واحد أغمق",
+        "tr": "nibbi wā7id aghmag",
+        "en": "I want a darker one"
+      }
+    ]
   },
   {
     "ar": "أزرق فاتح",
@@ -3338,7 +6783,20 @@
     "freq": 3,
     "ex_ar": "المنتخب لابس أزرق فاتح.",
     "ex_tr": "il-muntakhab lābis azrag fāti7.",
-    "ex_en": "The team is wearing light blue."
+    "ex_en": "The team is wearing light blue.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "قميص أزرق فاتح",
+        "tr": "gamīS azrag fāti7",
+        "en": "A light-blue shirt"
+      },
+      {
+        "ar": "الحيط بنصبغوه أزرق فاتح",
+        "tr": "il-7ēT bnSabghūh azrag fāti7",
+        "en": "We'll paint the wall light blue"
+      }
+    ]
   },
   {
     "ar": "أخضر غامق",
@@ -3350,7 +6808,20 @@
     "freq": 4,
     "ex_ar": "باب أخضر غامق.",
     "ex_tr": "bāb akhDar ghāmig.",
-    "ex_en": "A dark green door."
+    "ex_en": "A dark green door.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "سيارة أخضر غامق",
+        "tr": "sayyāra akhDar ghāmig",
+        "en": "A dark-green car"
+      },
+      {
+        "ar": "الأخضر الغامق لون الشجر",
+        "tr": "il-akhDar il-ghāmig lōn ish-shjar",
+        "en": "Dark green is the color of trees"
+      }
+    ]
   },
   {
     "ar": "أشقر",
@@ -3363,7 +6834,20 @@
     "ex_ar": "ولدها أشقر.",
     "ex_tr": "wildha ashgar.",
     "ex_en": "Her son is blond.",
-    "note": "fem. شقرا shagra."
+    "note": "fem. شقرا shagra.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "شعره أشقر",
+        "tr": "sha3rah ashgar",
+        "en": "His hair is blond"
+      },
+      {
+        "ar": "البنية الشقرا",
+        "tr": "il-bnayya ish-shagra",
+        "en": "The blond girl"
+      }
+    ]
   },
   {
     "ar": "أسمر",
@@ -3376,7 +6860,20 @@
     "ex_ar": "هو أسمر من الشمس.",
     "ex_tr": "hū asmar min ish-shams.",
     "ex_en": "He's tanned from the sun.",
-    "note": "fem. سمرا samra."
+    "note": "fem. سمرا samra.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "وجهه أسمر",
+        "tr": "wajhah asmar",
+        "en": "His face is dark-skinned"
+      },
+      {
+        "ar": "الصغير أسمر كيف بوه",
+        "tr": "iS-Sghīr asmar kīf būh",
+        "en": "The little one is dark like his father"
+      }
+    ]
   },
   {
     "ar": "أخضر زيتوني",
@@ -3388,7 +6885,20 @@
     "freq": 5,
     "ex_ar": "الحيط أخضر زيتوني.",
     "ex_tr": "il-7ēT akhDar zītūni.",
-    "ex_en": "The wall is olive green."
+    "ex_en": "The wall is olive green.",
+    "usage": 24,
+    "phrases": [
+      {
+        "ar": "كبوط أخضر زيتوني",
+        "tr": "kabbūT akhDar zītūni",
+        "en": "An olive-green coat"
+      },
+      {
+        "ar": "لبسة العسكر أخضر زيتوني",
+        "tr": "libsat il-3askar akhDar zītūni",
+        "en": "Military uniform is olive green"
+      }
+    ]
   },
   {
     "ar": "تركوازي",
@@ -3400,7 +6910,20 @@
     "freq": 5,
     "ex_ar": "البحر تركوازي في الصيف.",
     "ex_tr": "il-ba7ar turkwāzi fiS-Sēf.",
-    "ex_en": "The sea is turquoise in summer."
+    "ex_en": "The sea is turquoise in summer.",
+    "usage": 26,
+    "phrases": [
+      {
+        "ar": "خاتم تركوازي",
+        "tr": "khātim turkwāzi",
+        "en": "A turquoise ring"
+      },
+      {
+        "ar": "البحر لونه تركوازي",
+        "tr": "il-ba7ar lōnah turkwāzi",
+        "en": "The sea is turquoise"
+      }
+    ]
   },
   {
     "ar": "أحمر غامق",
@@ -3412,7 +6935,20 @@
     "freq": 4,
     "ex_ar": "الفستان أحمر غامق.",
     "ex_tr": "il-fistān a7mar ghāmig.",
-    "ex_en": "The dress is dark red."
+    "ex_en": "The dress is dark red.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "ورد أحمر غامق",
+        "tr": "ward a7mar ghāmig",
+        "en": "Dark red roses"
+      },
+      {
+        "ar": "نبي أحمر غامق مش فاتح",
+        "tr": "nibbi a7mar ghāmig mush fāti7",
+        "en": "I want dark red, not light"
+      }
+    ]
   },
   {
     "ar": "أصفر فاتح",
@@ -3424,7 +6960,20 @@
     "freq": 5,
     "ex_ar": "الحيط أصفر فاتح.",
     "ex_tr": "il-7ēT aSfar fāti7.",
-    "ex_en": "The wall is pale yellow."
+    "ex_en": "The wall is pale yellow.",
+    "usage": 26,
+    "phrases": [
+      {
+        "ar": "قميص أصفر فاتح",
+        "tr": "gamīS aSfar fāti7",
+        "en": "A pale-yellow shirt"
+      },
+      {
+        "ar": "الغرفة أصفر فاتح",
+        "tr": "il-ghurfa aSfar fāti7",
+        "en": "The room is pale yellow"
+      }
+    ]
   },
   {
     "ar": "ألوان",
@@ -3437,6 +6986,19 @@
     "ex_ar": "الصغير يرسم بالألوان.",
     "ex_tr": "iS-Sghayyir yirsim bil-alwān.",
     "ex_en": "The little one draws with colors.",
-    "note": "pl. of لون."
+    "note": "pl. of لون.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "علبة ألوان للصغير",
+        "tr": "3ulbat alwān liS-Sghīr",
+        "en": "A box of colors for the little one"
+      },
+      {
+        "ar": "عندكم ألوان أخرى؟",
+        "tr": "3andkum alwān ukhra?",
+        "en": "Do you have other colors?"
+      }
+    ]
   }
 ]

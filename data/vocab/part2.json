@@ -10,7 +10,25 @@
     "ex_ar": "كان غادي في الحوش البارح",
     "ex_tr": "kān ghādi fi l-7ōsh l-bāre7",
     "ex_en": "He was there at the house yesterday",
-    "note": "imperfect: نكون nkūn (I am), يكون ykūn (he is). Present tense 'to be' is normally omitted (هو تعبان huwa ta3bān 'he is tired'); use كان for past and يكون for future/habitual."
+    "note": "imperfect: نكون nkūn (I am), يكون ykūn (he is). Present tense 'to be' is normally omitted (هو تعبان huwa ta3bān 'he is tired'); use كان for past and يكون for future/habitual.",
+    "usage": 99,
+    "phrases": [
+      {
+        "ar": "كان مريض البارح",
+        "tr": "kān marīD l-bāre7",
+        "en": "He was sick yesterday"
+      },
+      {
+        "ar": "كنت نخدم في بنغازي",
+        "tr": "kunt nukhdum fi benghāzi",
+        "en": "I used to work in Benghazi"
+      },
+      {
+        "ar": "باش يكون هني غدوة",
+        "tr": "bāsh ykūn hni ghudwa",
+        "en": "He'll be here tomorrow"
+      }
+    ]
   },
   {
     "ar": "عنده",
@@ -23,7 +41,20 @@
     "ex_ar": "عندي زوز خوت وأخت وحدة",
     "ex_tr": "3andi zūz khūt w ukht wa7da",
     "ex_en": "I have two brothers and one sister",
-    "note": "present: عندي 3andi (I have), عنده 3anda (he has). Prepositional phrase acting as a verb: عند + pronoun suffix (عندي 3andi I have, عندك 3andak you have, عنده 3anda he has, عندها 3andha she has). Past كان عنده kān 3anda; future بيكون عنده. Negation ما عنديش ma 3andīsh (I don't have). The 'imperfect' slots above give the present forms."
+    "note": "present: عندي 3andi (I have), عنده 3anda (he has). Prepositional phrase acting as a verb: عند + pronoun suffix (عندي 3andi I have, عندك 3andak you have, عنده 3anda he has, عندها 3andha she has). Past كان عنده kān 3anda; future بيكون عنده. Negation ما عنديش ma 3andīsh (I don't have). The 'imperfect' slots above give the present forms.",
+    "usage": 98,
+    "phrases": [
+      {
+        "ar": "عندك وقت توا؟",
+        "tr": "3andak wagt tawwa?",
+        "en": "Do you have time now?"
+      },
+      {
+        "ar": "ما عنديش فلوس",
+        "tr": "ma 3andīsh flūs",
+        "en": "I don't have money"
+      }
+    ]
   },
   {
     "ar": "بغى",
@@ -36,7 +67,25 @@
     "ex_ar": "نبي نشرب شاهي، وانت شن تبي؟",
     "ex_tr": "nibbi nishrib shāhi, w inta shin tibbi?",
     "ex_en": "I want to drink tea, and what do you want?",
-    "note": "imperfect: نبي nibbi (I want), يبي yibbi (he wants). نبي nibbi 'I want' is one of the most frequent Libyan words; negation ما نبيش ma nibbīsh 'I don't want'. Perfect بغى bghā is less common than the imperfect; يبغي yibghi also heard."
+    "note": "imperfect: نبي nibbi (I want), يبي yibbi (he wants). نبي nibbi 'I want' is one of the most frequent Libyan words; negation ما نبيش ma nibbīsh 'I don't want'. Perfect بغى bghā is less common than the imperfect; يبغي yibghi also heard.",
+    "usage": 99,
+    "phrases": [
+      {
+        "ar": "شن تبي تاكل؟",
+        "tr": "shin tibbi tākil?",
+        "en": "What do you want to eat?"
+      },
+      {
+        "ar": "ما نبيش نمشي",
+        "tr": "ma nibbīsh nimshi",
+        "en": "I don't want to go"
+      },
+      {
+        "ar": "يبي يسافر لتركيا",
+        "tr": "yibbi ysāfir l-turkiya",
+        "en": "He wants to travel to Turkey"
+      }
+    ]
   },
   {
     "ar": "مشى",
@@ -49,7 +98,25 @@
     "ex_ar": "باش نمشي للسوق توا",
     "ex_tr": "bash nimshi lis-sūg tawwa",
     "ex_en": "I'm going to go to the market now",
-    "note": "imperfect: نمشي nimshi (I go), يمشي yimshi (he goes). The default Libyan verb for 'go'. Imperative امشي imshi."
+    "note": "imperfect: نمشي nimshi (I go), يمشي yimshi (he goes). The default Libyan verb for 'go'. Imperative امشي imshi.",
+    "usage": 98,
+    "phrases": [
+      {
+        "ar": "وين ماشي؟",
+        "tr": "wīn māshi?",
+        "en": "Where are you going?"
+      },
+      {
+        "ar": "مشينا للبحر البارح",
+        "tr": "mshēna l-l-ba7r l-bāre7",
+        "en": "We went to the beach yesterday"
+      },
+      {
+        "ar": "ما تمشيش بروحك",
+        "tr": "ma tamshīsh b-rū7ak",
+        "en": "Don't go by yourself"
+      }
+    ]
   },
   {
     "ar": "جاء",
@@ -62,7 +129,25 @@
     "ex_ar": "خوي جاء من بنغازي اليوم",
     "ex_tr": "khūy jā min benghāzi il-yōm",
     "ex_en": "My brother came from Benghazi today",
-    "note": "imperfect: نجي nji (I come), يجي yji (he comes). Imperative تعال ta3āl (come!)."
+    "note": "imperfect: نجي nji (I come), يجي yji (he comes). Imperative تعال ta3āl (come!).",
+    "usage": 97,
+    "phrases": [
+      {
+        "ar": "جاي توا",
+        "tr": "jāy tawwa",
+        "en": "I'm coming now"
+      },
+      {
+        "ar": "امتى باش تجي؟",
+        "tr": "imta bāsh tji?",
+        "en": "When will you come?"
+      },
+      {
+        "ar": "ما جاش للخدمة اليوم",
+        "tr": "ma jāsh l-l-khidma l-yōm",
+        "en": "He didn't come to work today"
+      }
+    ]
   },
   {
     "ar": "دار",
@@ -75,7 +160,25 @@
     "ex_ar": "شن قاعد دير؟",
     "ex_tr": "shin gā3id dīr?",
     "ex_en": "What are you doing?",
-    "note": "imperfect: ندير ndīr (I do), يدير ydīr (he does). Libyan all-purpose 'do/make' (دار عشا 'he made dinner'). Also means 'to put on' in some phrases."
+    "note": "imperfect: ندير ndīr (I do), يدير ydīr (he does). Libyan all-purpose 'do/make' (دار عشا 'he made dinner'). Also means 'to put on' in some phrases.",
+    "usage": 97,
+    "phrases": [
+      {
+        "ar": "شن درت اليوم؟",
+        "tr": "shin dirt l-yōm?",
+        "en": "What did you do today?"
+      },
+      {
+        "ar": "ما تديرش هكي",
+        "tr": "ma tdīrsh hakki",
+        "en": "Don't do that"
+      },
+      {
+        "ar": "باش ندير شاهي",
+        "tr": "bāsh ndīr shāhi",
+        "en": "I'm going to make tea"
+      }
+    ]
   },
   {
     "ar": "قال",
@@ -88,7 +191,25 @@
     "ex_ar": "شن قالك؟ قالي باش يجي غدوة",
     "ex_tr": "shin gālak? gāli bash yji ghudwa",
     "ex_en": "What did he tell you? He told me he'll come tomorrow",
-    "note": "imperfect: نقول ngūl (I say), يقول ygūl (he says). ق pronounced g in everyday Libyan."
+    "note": "imperfect: نقول ngūl (I say), يقول ygūl (he says). ق pronounced g in everyday Libyan.",
+    "usage": 98,
+    "phrases": [
+      {
+        "ar": "شن قلت؟",
+        "tr": "shin gult?",
+        "en": "What did you say?"
+      },
+      {
+        "ar": "قولّه يستنّى شوية",
+        "tr": "gūlla yistannā shwayya",
+        "en": "Tell him to wait a bit"
+      },
+      {
+        "ar": "ما قالّيش حتى شي",
+        "tr": "ma gālīsh 7atta shay",
+        "en": "He didn't tell me anything"
+      }
+    ]
   },
   {
     "ar": "شاف",
@@ -101,7 +222,25 @@
     "ex_ar": "ما شفتهش من زمان",
     "ex_tr": "ma shuftahsh min zmān",
     "ex_en": "I haven't seen him in a long time",
-    "note": "imperfect: نشوف nshūf (I see), يشوف yshūf (he sees). Imperative شوف shūf (look!). Also 'to check': نشوف ونقولك 'I'll check and tell you'."
+    "note": "imperfect: نشوف nshūf (I see), يشوف yshūf (he sees). Imperative شوف shūf (look!). Also 'to check': نشوف ونقولك 'I'll check and tell you'.",
+    "usage": 96,
+    "phrases": [
+      {
+        "ar": "شفت الماتش البارح؟",
+        "tr": "shuft l-mātsh l-bāre7?",
+        "en": "Did you see the match yesterday?"
+      },
+      {
+        "ar": "شوف شن صار",
+        "tr": "shūf shin Sār",
+        "en": "Look what happened"
+      },
+      {
+        "ar": "قاعد نشوف في التلفزيون",
+        "tr": "gā3id nshūf fi t-telfizyōn",
+        "en": "I'm watching TV"
+      }
+    ]
   },
   {
     "ar": "عرف",
@@ -114,7 +253,25 @@
     "ex_ar": "ما نعرفش وين الحوش متاعه",
     "ex_tr": "ma ni3rafsh wīn il-7ōsh mtā3a",
     "ex_en": "I don't know where his house is",
-    "note": "imperfect: نعرف ni3raf (I know), يعرف yi3raf (he knows)"
+    "note": "imperfect: نعرف ni3raf (I know), يعرف yi3raf (he knows)",
+    "usage": 96,
+    "phrases": [
+      {
+        "ar": "تعرف وين الصيدلية؟",
+        "tr": "ta3raf wīn S-Saydaliyya?",
+        "en": "Do you know where the pharmacy is?"
+      },
+      {
+        "ar": "الله أعلم، ما نعرفش",
+        "tr": "aḷḷāh a3lam, ma na3rafsh",
+        "en": "God knows, I don't know"
+      },
+      {
+        "ar": "عرفته من صوته",
+        "tr": "3raftah min Sōtah",
+        "en": "I recognized him by his voice"
+      }
+    ]
   },
   {
     "ar": "عطى",
@@ -127,7 +284,25 @@
     "ex_ar": "عطيني الموبايل نشوف",
     "ex_tr": "3Tīni l-mōbāyl nshūf",
     "ex_en": "Give me the phone so I can see",
-    "note": "imperfect: نعطي n3Ti (I give), يعطي y3Ti (he gives). Imperative عطيني 3Tīni (give me)."
+    "note": "imperfect: نعطي n3Ti (I give), يعطي y3Ti (he gives). Imperative عطيني 3Tīni (give me).",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "عطيته الفلوس البارح",
+        "tr": "3Tētah l-flūs l-bāre7",
+        "en": "I gave him the money yesterday"
+      },
+      {
+        "ar": "عطيني دقيقة",
+        "tr": "3Tīni dgīga",
+        "en": "Give me a minute"
+      },
+      {
+        "ar": "ربي يعطيك الصحة",
+        "tr": "rabbi ya3Tīk S-Sa77a",
+        "en": "God give you health (thanks)"
+      }
+    ]
   },
   {
     "ar": "خذا",
@@ -140,7 +315,25 @@
     "ex_ar": "خوذ المفتاح معاك",
     "ex_tr": "khūdh l-muftā7 m3āk",
     "ex_en": "Take the key with you",
-    "note": "imperfect: ناخذ nākhidh (I take), ياخذ yākhidh (he takes). Imperative خوذ khūdh."
+    "note": "imperfect: ناخذ nākhidh (I take), ياخذ yākhidh (he takes). Imperative خوذ khūdh.",
+    "usage": 93,
+    "phrases": [
+      {
+        "ar": "خذيت تاكسي للمطار",
+        "tr": "khdhēt taksi l-l-maTār",
+        "en": "I took a taxi to the airport"
+      },
+      {
+        "ar": "باش ناخذ دوش",
+        "tr": "bāsh nākhidh dūsh",
+        "en": "I'm going to take a shower"
+      },
+      {
+        "ar": "خوذ راحتك",
+        "tr": "khūdh rā7tak",
+        "en": "Make yourself comfortable"
+      }
+    ]
   },
   {
     "ar": "كلا",
@@ -153,7 +346,25 @@
     "ex_ar": "قاعدين ناكلوا في الكسكسي",
     "ex_tr": "gā3dīn nāklu fi l-kuskusi",
     "ex_en": "We're eating couscous",
-    "note": "imperfect: ناكل nākil (I eat), ياكل yākil (he eats). Imperative كول kūl."
+    "note": "imperfect: ناكل nākil (I eat), ياكل yākil (he eats). Imperative كول kūl.",
+    "usage": 95,
+    "phrases": [
+      {
+        "ar": "كليت؟",
+        "tr": "klēt?",
+        "en": "Have you eaten?"
+      },
+      {
+        "ar": "ما كليتش من الصبح",
+        "tr": "ma klētsh min S-Sbā7",
+        "en": "I haven't eaten since morning"
+      },
+      {
+        "ar": "باش ناكلوا برّا الليلة",
+        "tr": "bāsh nāklu barra l-lēla",
+        "en": "We'll eat out tonight"
+      }
+    ]
   },
   {
     "ar": "شرب",
@@ -166,7 +377,25 @@
     "ex_ar": "تبي تشرب شاهي ولا قهوة؟",
     "ex_tr": "tibbi tishrib shāhi walla gahwa?",
     "ex_en": "Do you want to drink tea or coffee?",
-    "note": "imperfect: نشرب nishrib (I drink), يشرب yishrib (he drinks). Also used for smoking: يشرب دخان yishrib dukhkhān."
+    "note": "imperfect: نشرب nishrib (I drink), يشرب yishrib (he drinks). Also used for smoking: يشرب دخان yishrib dukhkhān.",
+    "usage": 91,
+    "phrases": [
+      {
+        "ar": "نشرب قهوة كل صبح",
+        "tr": "nishrib gahwa kull Sbā7",
+        "en": "I drink coffee every morning"
+      },
+      {
+        "ar": "ما شربتش مية اليوم",
+        "tr": "ma shribtsh mayya l-yōm",
+        "en": "I didn't drink water today"
+      },
+      {
+        "ar": "اشرب الدوا متاعك",
+        "tr": "ishrib d-dwa mtā3ak",
+        "en": "Take (drink) your medicine"
+      }
+    ]
   },
   {
     "ar": "رقد",
@@ -179,7 +408,25 @@
     "ex_ar": "رقدت بكري البارح",
     "ex_tr": "rgadt bakri l-bāre7",
     "ex_en": "I went to sleep early last night",
-    "note": "imperfect: نرقد nurgud (I sleep), يرقد yurgud (he sleeps). Libyan word for 'sleep' (نام is understood but less used)."
+    "note": "imperfect: نرقد nurgud (I sleep), يرقد yurgud (he sleeps). Libyan word for 'sleep' (نام is understood but less used).",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "ما رقدتش مليح",
+        "tr": "ma rgadtsh mlī7",
+        "en": "I didn't sleep well"
+      },
+      {
+        "ar": "باش نرقد بكري الليلة",
+        "tr": "bāsh nurgud bakri l-lēla",
+        "en": "I'll go to bed early tonight"
+      },
+      {
+        "ar": "الصغير راقد",
+        "tr": "S-Sghīr rāgid",
+        "en": "The little one is asleep"
+      }
+    ]
   },
   {
     "ar": "ناض",
@@ -192,7 +439,20 @@
     "ex_ar": "نوض، الساعة تسعة!",
     "ex_tr": "nūD, is-sā3a tis3a!",
     "ex_en": "Get up, it's nine o'clock!",
-    "note": "imperfect: ننوض nnūD (I get up), ينوض ynūD (he gets up). Libyan/Maghrebi. Imperative نوض nūD."
+    "note": "imperfect: ننوض nnūD (I get up), ينوض ynūD (he gets up). Libyan/Maghrebi. Imperative نوض nūD.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "نضت متأخر اليوم",
+        "tr": "nuDt mit'akhkhir l-yōm",
+        "en": "I got up late today"
+      },
+      {
+        "ar": "امتى تنوض الصبح؟",
+        "tr": "imta tnūD S-Sbā7?",
+        "en": "When do you get up in the morning?"
+      }
+    ]
   },
   {
     "ar": "لقى",
@@ -205,7 +465,25 @@
     "ex_ar": "لقيت المفاتيح تحت الكرسي",
     "ex_tr": "lgīt l-mfātī7 ta7t il-kursi",
     "ex_en": "I found the keys under the chair",
-    "note": "imperfect: نلقى nalgā (I find), يلقى yalgā (he finds). ق pronounced g."
+    "note": "imperfect: نلقى nalgā (I find), يلقى yalgā (he finds). ق pronounced g.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "ما لقيتش بلاصة",
+        "tr": "ma lgētsh blāSa",
+        "en": "I didn't find a parking spot"
+      },
+      {
+        "ar": "لقيت خدمة جديدة",
+        "tr": "lgēt khidma jdīda",
+        "en": "I found a new job"
+      },
+      {
+        "ar": "وين نلقى تاكسي؟",
+        "tr": "wīn nalgā taksi?",
+        "en": "Where can I find a taxi?"
+      }
+    ]
   },
   {
     "ar": "حط",
@@ -218,7 +496,20 @@
     "ex_ar": "حط الشنطة فوق الطاولة",
     "ex_tr": "7uTT ish-shanTa fōg iT-Tāwla",
     "ex_en": "Put the bag on the table",
-    "note": "imperfect: نحط n7uTT (I put), يحط y7uTT (he puts). Imperative حط 7uTT."
+    "note": "imperfect: نحط n7uTT (I put), يحط y7uTT (he puts). Imperative حط 7uTT.",
+    "usage": 87,
+    "phrases": [
+      {
+        "ar": "وين حطيت المفاتيح؟",
+        "tr": "wīn 7aTTēt l-mfātī7?",
+        "en": "Where did you put the keys?"
+      },
+      {
+        "ar": "حطلي شوية سكر",
+        "tr": "7uTTli shwayya sukkar",
+        "en": "Put a little sugar in for me"
+      }
+    ]
   },
   {
     "ar": "قعد",
@@ -231,7 +522,25 @@
     "ex_ar": "اقعد، تبي تشرب حاجة؟",
     "ex_tr": "ug3ud, tibbi tishrib 7āja?",
     "ex_en": "Sit down, would you like something to drink?",
-    "note": "imperfect: نقعد nug3ud (I sit), يقعد yug3ud (he sits). Its participle قاعد gā3id is the Libyan progressive marker (قاعد ناكل 'I am eating')."
+    "note": "imperfect: نقعد nug3ud (I sit), يقعد yug3ud (he sits). Its participle قاعد gā3id is the Libyan progressive marker (قاعد ناكل 'I am eating').",
+    "usage": 93,
+    "phrases": [
+      {
+        "ar": "قعدنا في الحوش اليوم كله",
+        "tr": "g3adna fi l-7ōsh l-yōm kulla",
+        "en": "We stayed home all day"
+      },
+      {
+        "ar": "قاعد ناكل",
+        "tr": "gā3id nākil",
+        "en": "I'm eating"
+      },
+      {
+        "ar": "اقعد معانا شوية",
+        "tr": "ug3ud ma3āna shwayya",
+        "en": "Sit with us a while"
+      }
+    ]
   },
   {
     "ar": "حب",
@@ -244,7 +553,25 @@
     "ex_ar": "نحب الحوت المشوي هلبة",
     "ex_tr": "n7ibb il-7ūt il-mashwi hallba",
     "ex_en": "I really love grilled fish",
-    "note": "imperfect: نحب n7ibb (I love), يحب y7ibb (he loves). Also used like 'want': تحب تجي معانا؟ 'Do you want to come with us?'"
+    "note": "imperfect: نحب n7ibb (I love), يحب y7ibb (he loves). Also used like 'want': تحب تجي معانا؟ 'Do you want to come with us?'",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "نحبك هلبة",
+        "tr": "n7ibbak hallba",
+        "en": "I love you a lot"
+      },
+      {
+        "ar": "ما نحبش الزحمة",
+        "tr": "ma n7ibbish z-za7ma",
+        "en": "I don't like the traffic"
+      },
+      {
+        "ar": "تحب تجي معانا؟",
+        "tr": "t7ibb tji ma3āna?",
+        "en": "Would you like to come with us?"
+      }
+    ]
   },
   {
     "ar": "خلّى",
@@ -257,7 +584,25 @@
     "ex_ar": "خليه يرقد، تعبان",
     "ex_tr": "khallīh yurgud, ta3bān",
     "ex_en": "Let him sleep, he's tired",
-    "note": "imperfect: نخلّي nkhalli (I let), يخلّي ykhalli (he lets). Imperative خلّي khalli; خلّيك khallīk 'stay / never mind'."
+    "note": "imperfect: نخلّي nkhalli (I let), يخلّي ykhalli (he lets). Imperative خلّي khalli; خلّيك khallīk 'stay / never mind'.",
+    "usage": 91,
+    "phrases": [
+      {
+        "ar": "خليني نفكّر",
+        "tr": "khallīni nfakkir",
+        "en": "Let me think"
+      },
+      {
+        "ar": "خليت الموبايل في الكرهبة",
+        "tr": "khallēt l-mōbāyl fi l-karhba",
+        "en": "I left the phone in the car"
+      },
+      {
+        "ar": "خليها على ربي",
+        "tr": "khallīha 3ala rabbi",
+        "en": "Leave it to God"
+      }
+    ]
   },
   {
     "ar": "جاب",
@@ -270,7 +615,20 @@
     "ex_ar": "جيب معاك خبزة وانت جاي",
     "ex_tr": "jīb m3āk khubza w inta jāy",
     "ex_en": "Bring a loaf of bread with you on your way",
-    "note": "imperfect: نجيب njīb (I bring), يجيب yjīb (he brings). Imperative جيب jīb."
+    "note": "imperfect: نجيب njīb (I bring), يجيب yjīb (he brings). Imperative جيب jīb.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "شن جبتلي؟",
+        "tr": "shin jibtli?",
+        "en": "What did you bring me?"
+      },
+      {
+        "ar": "باش نجيب الصغار من المدرسة",
+        "tr": "bāsh njīb S-Sghār min l-madrasa",
+        "en": "I'll pick the kids up from school"
+      }
+    ]
   },
   {
     "ar": "ولّى",
@@ -283,7 +641,20 @@
     "ex_ar": "ولّى طبيب كبير",
     "ex_tr": "wallā Tbīb kbīr",
     "ex_en": "He became a big doctor",
-    "note": "imperfect: نولّي nwalli (I become), يولّي ywalli (he becomes). Also 'to return': ولّيت للحوش 'I went back home'."
+    "note": "imperfect: نولّي nwalli (I become), يولّي ywalli (he becomes). Also 'to return': ولّيت للحوش 'I went back home'.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "ولّى الجو سخون",
+        "tr": "wallā l-jaww skhūn",
+        "en": "The weather has become hot"
+      },
+      {
+        "ar": "نولّي بعد شوية",
+        "tr": "nwalli ba3d shwayya",
+        "en": "I'll come back in a bit"
+      }
+    ]
   },
   {
     "ar": "صار",
@@ -296,7 +667,25 @@
     "ex_ar": "شن صار؟ ما صار شي",
     "ex_tr": "shin Sār? ma Sār shay",
     "ex_en": "What happened? Nothing happened",
-    "note": "imperfect: نصير nSīr (I happen), يصير ySīr (he happens). Common question شن صار؟ 'what happened?'"
+    "note": "imperfect: نصير nSīr (I happen), يصير ySīr (he happens). Common question شن صار؟ 'what happened?'",
+    "usage": 91,
+    "phrases": [
+      {
+        "ar": "شن صارلك؟",
+        "tr": "shin Sārlak?",
+        "en": "What happened to you?"
+      },
+      {
+        "ar": "صار حادث في الطريق",
+        "tr": "Sār 7ādith fi T-Trīg",
+        "en": "There was an accident on the road"
+      },
+      {
+        "ar": "ما يصيرش هكي",
+        "tr": "ma ySīrsh hakki",
+        "en": "That's not right / can't be like this"
+      }
+    ]
   },
   {
     "ar": "قدر",
@@ -309,7 +698,20 @@
     "ex_ar": "ما نقدرش نجي اليوم",
     "ex_tr": "ma nagdarsh nji il-yōm",
     "ex_en": "I can't come today",
-    "note": "imperfect: نقدر nagdar (I am able), يقدر yagdar (he is able)"
+    "note": "imperfect: نقدر nagdar (I am able), يقدر yagdar (he is able)",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "تقدر تعاوني؟",
+        "tr": "tagdar t3āwinni?",
+        "en": "Can you help me?"
+      },
+      {
+        "ar": "ما قدرتش نرقد",
+        "tr": "ma gdartsh nurgud",
+        "en": "I couldn't sleep"
+      }
+    ]
   },
   {
     "ar": "عاش",
@@ -322,7 +724,20 @@
     "ex_ar": "جدي عاش مية سنة",
     "ex_tr": "jaddi 3āsh miyyat sana",
     "ex_en": "My grandfather lived a hundred years",
-    "note": "imperfect: نعيش n3īsh (I live), يعيش y3īsh (he lives). يعيشك y3īshak 'thank you' (lit. may he keep you alive)."
+    "note": "imperfect: نعيش n3īsh (I live), يعيش y3īsh (he lives). يعيشك y3īshak 'thank you' (lit. may he keep you alive).",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "يعيشك",
+        "tr": "y3īshak",
+        "en": "Thanks (may He keep you alive)"
+      },
+      {
+        "ar": "نعيش في طرابلس",
+        "tr": "n3īsh fi Trāblus",
+        "en": "I live in Tripoli"
+      }
+    ]
   },
   {
     "ar": "مات",
@@ -335,7 +750,20 @@
     "ex_ar": "التليفون مات، ما فيهش شحن",
     "ex_tr": "it-tilifōn māt, ma fīhsh sha7n",
     "ex_en": "The phone died, it has no charge",
-    "note": "imperfect: نموت nmūt (I die), يموت ymūt (he dies). Also used for devices and batteries."
+    "note": "imperfect: نموت nmūt (I die), يموت ymūt (he dies). Also used for devices and batteries.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "مات جدّه العام اللي فات",
+        "tr": "māt jidda l-3ām illi fāt",
+        "en": "His grandfather died last year"
+      },
+      {
+        "ar": "مت بالضحك",
+        "tr": "mutt b-D-Da7k",
+        "en": "I died laughing"
+      }
+    ]
   },
   {
     "ar": "بدا",
@@ -348,7 +776,20 @@
     "ex_ar": "الماتش بدا توا",
     "ex_tr": "il-mātsh bdā tawwa",
     "ex_en": "The match just started",
-    "note": "imperfect: نبدا nibdā (I begin), يبدا yibdā (he begins)"
+    "note": "imperfect: نبدا nibdā (I begin), يبدا yibdā (he begins)",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "امتى تبدا الخدمة؟",
+        "tr": "imta tibdā l-khidma?",
+        "en": "When does work start?"
+      },
+      {
+        "ar": "بدينا نقروا العربي",
+        "tr": "bdēna nagru l-3arabi",
+        "en": "We started studying Arabic"
+      }
+    ]
   },
   {
     "ar": "كمّل",
@@ -361,7 +802,25 @@
     "ex_ar": "كمّل كلامك",
     "ex_tr": "kammil klāmak",
     "ex_en": "Go on with what you were saying",
-    "note": "imperfect: نكمّل nkammil (I finish), يكمّل ykammil (he finishes). Both 'finish (completely)' and 'carry on'."
+    "note": "imperfect: نكمّل nkammil (I finish), يكمّل ykammil (he finishes). Both 'finish (completely)' and 'carry on'.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "كمّلت الخدمة؟",
+        "tr": "kammalt l-khidma?",
+        "en": "Did you finish the work?"
+      },
+      {
+        "ar": "نكمّلوا غدوة",
+        "tr": "nkammlu ghudwa",
+        "en": "We'll continue tomorrow"
+      },
+      {
+        "ar": "كمّل ماكلتك",
+        "tr": "kammil mākiltak",
+        "en": "Finish your food"
+      }
+    ]
   },
   {
     "ar": "خلص",
@@ -374,7 +833,25 @@
     "ex_ar": "الخدمة خلصت بكري اليوم",
     "ex_tr": "il-khidma khlaSat bakri il-yōm",
     "ex_en": "Work finished early today",
-    "note": "imperfect: نخلص nukhluS (I end), يخلص yukhluS (he ends). Transitive 'to pay' is خلّص khallaS."
+    "note": "imperfect: نخلص nukhluS (I end), يخلص yukhluS (he ends). Transitive 'to pay' is خلّص khallaS.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "خلصت البطارية",
+        "tr": "khlSat l-baTTāriyya",
+        "en": "The battery ran out"
+      },
+      {
+        "ar": "خلصت الفلوس",
+        "tr": "khlSat l-flūs",
+        "en": "The money ran out"
+      },
+      {
+        "ar": "امتى يخلص الماتش؟",
+        "tr": "imta yukhluS l-mātsh?",
+        "en": "When does the match end?"
+      }
+    ]
   },
   {
     "ar": "بقى",
@@ -387,7 +864,20 @@
     "ex_ar": "بقيت في الحوش النهار كله",
     "ex_tr": "bgīt fi l-7ōsh in-nhār kulla",
     "ex_en": "I stayed home all day",
-    "note": "imperfect: نبقى nibgā (I stay), يبقى yibgā (he stays)"
+    "note": "imperfect: نبقى nibgā (I stay), يبقى yibgā (he stays)",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "بقالي ساعة نستنّى",
+        "tr": "bgāli sā3a nistannā",
+        "en": "I've been waiting for an hour"
+      },
+      {
+        "ar": "شن بقى؟",
+        "tr": "shin bgā?",
+        "en": "What's left?"
+      }
+    ]
   },
   {
     "ar": "استنّى",
@@ -400,7 +890,20 @@
     "ex_ar": "استنّاني شوية، جاي توا",
     "ex_tr": "stannāni shwayya, jāy tawwa",
     "ex_en": "Wait for me a bit, I'm coming now",
-    "note": "imperfect: نستنّى nistannā (I wait), يستنّى yistannā (he waits)"
+    "note": "imperfect: نستنّى nistannā (I wait), يستنّى yistannā (he waits)",
+    "usage": 87,
+    "phrases": [
+      {
+        "ar": "قاعد نستنّى فيك",
+        "tr": "gā3id nistannā fīk",
+        "en": "I'm waiting for you"
+      },
+      {
+        "ar": "استنّى، باش نجي معاك",
+        "tr": "stannā, bāsh nji ma3āk",
+        "en": "Wait, I'll come with you"
+      }
+    ]
   },
   {
     "ar": "جاع",
@@ -413,7 +916,20 @@
     "ex_ar": "جعت، شن فيه ماكلة؟",
     "ex_tr": "ji3t, shin fīh mākla?",
     "ex_en": "I'm hungry, what's there to eat?",
-    "note": "imperfect: نجوع njū3 (I get hungry), يجوع yjū3 (he gets hungry). Perfect جعت ji3t is used for 'I'm hungry (now)'."
+    "note": "imperfect: نجوع njū3 (I get hungry), يجوع yjū3 (he gets hungry). Perfect جعت ji3t is used for 'I'm hungry (now)'.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "جعت هلبة",
+        "tr": "ji3t hallba",
+        "en": "I'm really hungry"
+      },
+      {
+        "ar": "الصغار جاعوا",
+        "tr": "S-Sghār jā3u",
+        "en": "The kids got hungry"
+      }
+    ]
   },
   {
     "ar": "عطش",
@@ -426,7 +942,20 @@
     "ex_ar": "عطشت هلبة، جيبلي مية",
     "ex_tr": "3Tisht hallba, jībli mayya",
     "ex_en": "I'm very thirsty, bring me some water",
-    "note": "imperfect: نعطش ni3Tash (I get thirsty), يعطش yi3Tash (he gets thirsty)"
+    "note": "imperfect: نعطش ni3Tash (I get thirsty), يعطش yi3Tash (he gets thirsty)",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "عطشان، فيه مية؟",
+        "tr": "3aTshān, fīh mayya?",
+        "en": "I'm thirsty, is there water?"
+      },
+      {
+        "ar": "عطشنا في الطريق",
+        "tr": "3Tishna fi T-Trīg",
+        "en": "We got thirsty on the way"
+      }
+    ]
   },
   {
     "ar": "شدّ",
@@ -439,7 +968,25 @@
     "ex_ar": "شد الصغير من يده",
     "ex_tr": "shidd iS-Sghīr min yidda",
     "ex_en": "Hold the little one by his hand",
-    "note": "imperfect: نشد nshidd (I hold), يشد yshidd (he holds). Also 'to catch': شد التاكسي 'take a taxi'; شد الدور 'wait in line'."
+    "note": "imperfect: نشد nshidd (I hold), يشد yshidd (he holds). Also 'to catch': شد التاكسي 'take a taxi'; شد الدور 'wait in line'.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "شد روحك!",
+        "tr": "shidd rū7ak!",
+        "en": "Hold on! / Pull yourself together!"
+      },
+      {
+        "ar": "البوليس شدّوا الحرامي",
+        "tr": "l-bōlīs shaddu l-7arāmi",
+        "en": "The police caught the thief"
+      },
+      {
+        "ar": "شدّيت الباص في آخر دقيقة",
+        "tr": "shaddēt l-bāS fi ākhir dgīga",
+        "en": "I caught the bus at the last minute"
+      }
+    ]
   },
   {
     "ar": "مسك",
@@ -452,7 +999,20 @@
     "ex_ar": "امسك الكورة!",
     "ex_tr": "imsik il-kūra!",
     "ex_en": "Catch the ball!",
-    "note": "imperfect: نمسك nimsik (I hold), يمسك yimsik (he holds)"
+    "note": "imperfect: نمسك nimsik (I hold), يمسك yimsik (he holds)",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "امسك يدي",
+        "tr": "imsik yaddi",
+        "en": "Hold my hand"
+      },
+      {
+        "ar": "مسك الكورة بيده",
+        "tr": "msak l-kūra b-yadda",
+        "en": "He caught the ball with his hand"
+      }
+    ]
   },
   {
     "ar": "فات",
@@ -465,7 +1025,25 @@
     "ex_ar": "فاتني الباص",
     "ex_tr": "fātni l-bāS",
     "ex_en": "I missed the bus",
-    "note": "imperfect: نفوت nfūt (I pass), يفوت yfūt (he passes). فاتني X = 'I missed X'; also 'to go past': فوت من هني 'go past here'."
+    "note": "imperfect: نفوت nfūt (I pass), يفوت yfūt (he passes). فاتني X = 'I missed X'; also 'to go past': فوت من هني 'go past here'.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "فات الوقت",
+        "tr": "fāt l-wagt",
+        "en": "Time has passed / It's too late"
+      },
+      {
+        "ar": "الأسبوع اللي فات",
+        "tr": "l-usbū3 illi fāt",
+        "en": "Last week"
+      },
+      {
+        "ar": "فاتتني الصلاة",
+        "tr": "fātatni S-Salā",
+        "en": "I missed the prayer"
+      }
+    ]
   },
   {
     "ar": "ضاع",
@@ -478,7 +1056,20 @@
     "ex_ar": "ضاع مني المفتاح",
     "ex_tr": "Dā3 minni l-muftā7",
     "ex_en": "I lost the key (lit. the key got lost from me)",
-    "note": "imperfect: نضيع nDī3 (I get lost), يضيع yDī3 (he gets lost)"
+    "note": "imperfect: نضيع nDī3 (I get lost), يضيع yDī3 (he gets lost)",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "ضاع الولد في السوق",
+        "tr": "Dā3 l-wild fi s-sūg",
+        "en": "The boy got lost in the market"
+      },
+      {
+        "ar": "ضاع الوقت",
+        "tr": "Dā3 l-wagt",
+        "en": "The time was wasted"
+      }
+    ]
   },
   {
     "ar": "ضرب",
@@ -491,7 +1082,20 @@
     "ex_ar": "ما تضربش خوك!",
     "ex_tr": "ma tuDrubsh khūk!",
     "ex_en": "Don't hit your brother!",
-    "note": "imperfect: نضرب nuDrub (I hit), يضرب yuDrub (he hits). ضربلي تليفون Drabli tilifōn 'he gave me a call'."
+    "note": "imperfect: نضرب nuDrub (I hit), يضرب yuDrub (he hits). ضربلي تليفون Drabli tilifōn 'he gave me a call'.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "ضربلي تليفون بالليل",
+        "tr": "Draballi tilifōn b-l-lēl",
+        "en": "Call me in the evening"
+      },
+      {
+        "ar": "ضربته الشمس",
+        "tr": "Drabatta sh-shams",
+        "en": "He got sunstroke"
+      }
+    ]
   },
   {
     "ar": "خبّى",
@@ -504,7 +1108,20 @@
     "ex_ar": "خبّى الحلوى من الصغار",
     "ex_tr": "khabbā l-7alwa min iS-Sghār",
     "ex_en": "He hid the sweets from the kids",
-    "note": "imperfect: نخبّي nkhabbi (I hide), يخبّي ykhabbi (he hides)"
+    "note": "imperfect: نخبّي nkhabbi (I hide), يخبّي ykhabbi (he hides)",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "وين خبّيت الفلوس؟",
+        "tr": "wīn khabbēt l-flūs?",
+        "en": "Where did you hide the money?"
+      },
+      {
+        "ar": "ما تخبّيش عليّ",
+        "tr": "ma tkhabbīsh 3layya",
+        "en": "Don't hide things from me"
+      }
+    ]
   },
   {
     "ar": "وقع",
@@ -517,7 +1134,20 @@
     "ex_ar": "وقع من فوق الدرج",
     "ex_tr": "wga3 min fōg id-daraj",
     "ex_en": "He fell down the stairs",
-    "note": "imperfect: نوقع nūga3 (I fall), يوقع yūga3 (he falls). طاح Tā7 is the more colloquial 'fall'."
+    "note": "imperfect: نوقع nūga3 (I fall), يوقع yūga3 (he falls). طاح Tā7 is the more colloquial 'fall'.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "وقعت مشكلة كبيرة",
+        "tr": "wg3at mushkila kbīra",
+        "en": "A big problem happened"
+      },
+      {
+        "ar": "شن اللي وقع؟",
+        "tr": "shin illi wga3?",
+        "en": "What happened?"
+      }
+    ]
   },
   {
     "ar": "فتّش",
@@ -530,7 +1160,20 @@
     "ex_ar": "فتّشت الحوش كله وما لقيتهاش",
     "ex_tr": "fattasht il-7ōsh kulla w ma lgīthāsh",
     "ex_en": "I searched the whole house and didn't find it",
-    "note": "imperfect: نفتّش nfattish (I search), يفتّش yfattish (he searches)"
+    "note": "imperfect: نفتّش nfattish (I search), يفتّش yfattish (he searches)",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "فتّشوا الشنطة في المطار",
+        "tr": "fattshu sh-shanTa fi l-maTār",
+        "en": "They searched the bag at the airport"
+      },
+      {
+        "ar": "قاعد نفتّش على المفتاح",
+        "tr": "gā3id nfattish 3ala l-miftā7",
+        "en": "I'm looking for the key"
+      }
+    ]
   },
   {
     "ar": "عاين",
@@ -543,7 +1186,20 @@
     "ex_ar": "عاين لهنا، شوف شن صار",
     "ex_tr": "3āyin l-hni, shūf shin Sār",
     "ex_en": "Look over here, see what happened",
-    "note": "imperfect: نعاين n3āyin (I look at), يعاين y3āyin (he looks at). Libyan 'look (at)'; imperative عاين 3āyin."
+    "note": "imperfect: نعاين n3āyin (I look at), يعاين y3āyin (he looks at). Libyan 'look (at)'; imperative عاين 3āyin.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "عاين لي هذي",
+        "tr": "3āyin li hādhi",
+        "en": "Look at this"
+      },
+      {
+        "ar": "قاعد نعاين في الماتش",
+        "tr": "gā3id n3āyin fi l-mātsh",
+        "en": "I'm watching the match"
+      }
+    ]
   },
   {
     "ar": "باس",
@@ -556,7 +1212,20 @@
     "ex_ar": "باس راس أمه",
     "ex_tr": "bās rās umma",
     "ex_en": "He kissed his mother's head",
-    "note": "imperfect: نبوس nbūs (I kiss), يبوس ybūs (he kisses). Kissing the head of an elder is a sign of respect."
+    "note": "imperfect: نبوس nbūs (I kiss), يبوس ybūs (he kisses). Kissing the head of an elder is a sign of respect.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "بوس يد جدّك",
+        "tr": "būs yadd jiddak",
+        "en": "Kiss your grandpa's hand"
+      },
+      {
+        "ar": "باستني أمي على راسي",
+        "tr": "bāsatni ummi 3ala rāsi",
+        "en": "My mother kissed me on the head"
+      }
+    ]
   },
   {
     "ar": "عضّ",
@@ -569,7 +1238,20 @@
     "ex_ar": "الكلب عضّه في رجله",
     "ex_tr": "il-kalb 3aDDa fi rijla",
     "ex_en": "The dog bit him on the leg",
-    "note": "imperfect: نعض n3uDD (I bite), يعض y3uDD (he bites)"
+    "note": "imperfect: نعض n3uDD (I bite), يعض y3uDD (he bites)",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "القطوس عضّني",
+        "tr": "l-gaTTūs 3aDDni",
+        "en": "The cat bit me"
+      },
+      {
+        "ar": "ما تعضّش صوابعك",
+        "tr": "ma t3uDDish Swāb3ak",
+        "en": "Don't bite your nails/fingers"
+      }
+    ]
   },
   {
     "ar": "مدّ",
@@ -582,7 +1264,20 @@
     "ex_ar": "مدّلي الملح لو سمحت",
     "ex_tr": "middli l-mil7 law sama7t",
     "ex_en": "Pass me the salt please",
-    "note": "imperfect: نمد nmidd (I hand), يمد ymidd (he hands)"
+    "note": "imperfect: نمد nmidd (I hand), يمد ymidd (he hands)",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "مدّ يدك",
+        "tr": "midd yaddak",
+        "en": "Hold out your hand"
+      },
+      {
+        "ar": "مدّيتله الفلوس",
+        "tr": "maddētla l-flūs",
+        "en": "I handed him the money"
+      }
+    ]
   },
   {
     "ar": "رمى",
@@ -595,7 +1290,20 @@
     "ex_ar": "ما ترميش الزبالة في الشارع",
     "ex_tr": "ma tirmīsh iz-zibāla fi sh-shāri3",
     "ex_en": "Don't throw the rubbish in the street",
-    "note": "imperfect: نرمي nirmi (I throw), يرمي yirmi (he throws)"
+    "note": "imperfect: نرمي nirmi (I throw), يرمي yirmi (he throws)",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "ارميلي الكورة",
+        "tr": "irmīli l-kūra",
+        "en": "Throw me the ball"
+      },
+      {
+        "ar": "رمى الورقة في الزبالة",
+        "tr": "rmā l-wraga fi z-zbāla",
+        "en": "He threw the paper in the trash"
+      }
+    ]
   },
   {
     "ar": "لوّح",
@@ -608,7 +1316,20 @@
     "ex_ar": "لوّحه، راهو خاسر",
     "ex_tr": "lawwa7a, rāhu khāsir",
     "ex_en": "Throw it away, it's spoiled",
-    "note": "imperfect: نلوّح nlawwi7 (I throw away), يلوّح ylawwi7 (he throws away). Very Libyan sense of 'throw (away)'."
+    "note": "imperfect: نلوّح nlawwi7 (I throw away), يلوّح ylawwi7 (he throws away). Very Libyan sense of 'throw (away)'.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "لوّحت الحذا القديم",
+        "tr": "lawwa7t l-7dhā l-gdīm",
+        "en": "I threw away the old shoes"
+      },
+      {
+        "ar": "ما تلوّحش الخبزة",
+        "tr": "ma tlawwi7sh l-khubza",
+        "en": "Don't throw away the bread"
+      }
+    ]
   },
   {
     "ar": "سيّب",
@@ -621,7 +1342,20 @@
     "ex_ar": "سيّب يدي، توجعني!",
     "ex_tr": "sayyib yiddi, tūja3ni!",
     "ex_en": "Let go of my hand, it hurts!",
-    "note": "imperfect: نسيّب nsayyib (I let go), يسيّب ysayyib (he lets go). Pan-Maghrebi."
+    "note": "imperfect: نسيّب nsayyib (I let go), يسيّب ysayyib (he lets go). Pan-Maghrebi.",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "سيّبني في حالي",
+        "tr": "sayyibni fi 7āli",
+        "en": "Leave me alone"
+      },
+      {
+        "ar": "سيّب الكلب",
+        "tr": "sayyib l-kalb",
+        "en": "Let the dog go"
+      }
+    ]
   },
   {
     "ar": "جبد",
@@ -634,7 +1368,20 @@
     "ex_ar": "اجبد الباب لعندك",
     "ex_tr": "ijbid il-bāb l-3andak",
     "ex_en": "Pull the door towards you",
-    "note": "imperfect: نجبد nijbid (I pull), يجبد yijbid (he pulls). Maghrebi verb; سحب s7ab also used."
+    "note": "imperfect: نجبد nijbid (I pull), يجبد yijbid (he pulls). Maghrebi verb; سحب s7ab also used.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "جبد الكرسي وقعد",
+        "tr": "jbad l-kursi w g3ad",
+        "en": "He pulled up the chair and sat"
+      },
+      {
+        "ar": "اجبد الحبل",
+        "tr": "ijbid l-7abl",
+        "en": "Pull the rope"
+      }
+    ]
   },
   {
     "ar": "حرق",
@@ -647,7 +1394,20 @@
     "ex_ar": "حرقت يدي بالمية السخونة",
     "ex_tr": "7ragt yiddi bil-mayya s-skhūna",
     "ex_en": "I burned my hand with the hot water",
-    "note": "imperfect: نحرق ni7rig (I burn), يحرق yi7rig (he burns). ق pronounced g."
+    "note": "imperfect: نحرق ni7rig (I burn), يحرق yi7rig (he burns). ق pronounced g.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "الشمس حرقتني",
+        "tr": "sh-shams 7ragatni",
+        "en": "The sun burned me"
+      },
+      {
+        "ar": "حرقت الماكلة",
+        "tr": "7ragt l-mākla",
+        "en": "I burned the food"
+      }
+    ]
   },
   {
     "ar": "سرق",
@@ -660,7 +1420,20 @@
     "ex_ar": "سرقوله الموبايل في السوق",
     "ex_tr": "sragūla l-mōbāyl fis-sūg",
     "ex_en": "They stole his phone at the market",
-    "note": "imperfect: نسرق nisrig (I steal), يسرق yisrig (he steals)"
+    "note": "imperfect: نسرق nisrig (I steal), يسرق yisrig (he steals)",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "سرقوا الكرهبة متاعه",
+        "tr": "sragu l-karhba mtā3a",
+        "en": "They stole his car"
+      },
+      {
+        "ar": "حد سرق الشنطة",
+        "tr": "7add srag sh-shanTa",
+        "en": "Someone stole the bag"
+      }
+    ]
   },
   {
     "ar": "حس",
@@ -673,7 +1446,20 @@
     "ex_ar": "نحس روحي تعبان شوية",
     "ex_tr": "n7iss rū7i ta3bān shwayya",
     "ex_en": "I feel a bit tired",
-    "note": "imperfect: نحس n7iss (I feel), يحس y7iss (he feels). روحي rū7i = myself."
+    "note": "imperfect: نحس n7iss (I feel), يحس y7iss (he feels). روحي rū7i = myself.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "شن تحس؟",
+        "tr": "shin t7iss?",
+        "en": "What do you feel? / How are you feeling?"
+      },
+      {
+        "ar": "حسّيت بالبرد",
+        "tr": "7assēt b-l-bard",
+        "en": "I felt cold"
+      }
+    ]
   },
   {
     "ar": "شمّ",
@@ -686,7 +1472,20 @@
     "ex_ar": "تشم ريحة حرقان؟",
     "ex_tr": "tshimm rī7at 7argān?",
     "ex_en": "Do you smell something burning?",
-    "note": "imperfect: نشم nshimm (I smell), يشم yshimm (he smells)"
+    "note": "imperfect: نشم nshimm (I smell), يشم yshimm (he smells)",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "شم الريحة هذي",
+        "tr": "shimm r-rī7a hādhi",
+        "en": "Smell this"
+      },
+      {
+        "ar": "نشم ريحة بخور",
+        "tr": "nshimm rī7at bkhūr",
+        "en": "I smell incense"
+      }
+    ]
   },
   {
     "ar": "ذاق",
@@ -699,7 +1498,20 @@
     "ex_ar": "ذوق الشربة، فيها ملح؟",
     "ex_tr": "dhūg ish-shurba, fīha mil7?",
     "ex_en": "Taste the soup, does it have enough salt?",
-    "note": "imperfect: نذوق ndhūg (I taste), يذوق ydhūg (he tastes). شربة shurba = Libyan soup."
+    "note": "imperfect: نذوق ndhūg (I taste), يذوق ydhūg (he tastes). شربة shurba = Libyan soup.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "ذقت البازين؟",
+        "tr": "dhugt l-bāzīn?",
+        "en": "Have you tasted bazeen?"
+      },
+      {
+        "ar": "ذوق، بنين هلبة",
+        "tr": "dhūg, bnīn hallba",
+        "en": "Taste it, it's really delicious"
+      }
+    ]
   },
   {
     "ar": "لمس",
@@ -712,7 +1524,20 @@
     "ex_ar": "ما تلمسش، سخون!",
     "ex_tr": "ma tilmissh, skhūn!",
     "ex_en": "Don't touch, it's hot!",
-    "note": "imperfect: نلمس nilmis (I touch), يلمس yilmis (he touches)"
+    "note": "imperfect: نلمس nilmis (I touch), يلمس yilmis (he touches)",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "ما تلمسش التليفون متاعي",
+        "tr": "ma tilmisish t-tilifōn mtā3i",
+        "en": "Don't touch my phone"
+      },
+      {
+        "ar": "لمس الحيط",
+        "tr": "lmas l-7ēT",
+        "en": "He touched the wall"
+      }
+    ]
   },
   {
     "ar": "كبر",
@@ -725,7 +1550,25 @@
     "ex_ar": "الصغار كبروا بسرعة",
     "ex_tr": "iS-Sghār kubru b-sur3a",
     "ex_en": "The kids grew up fast",
-    "note": "imperfect: نكبر nikbar (I grow up), يكبر yikbar (he grows up)"
+    "note": "imperfect: نكبر nikbar (I grow up), يكبر yikbar (he grows up)",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "وين كبرت؟",
+        "tr": "wīn kbart?",
+        "en": "Where did you grow up?"
+      },
+      {
+        "ar": "كبرت في مصراتة",
+        "tr": "kbart fi miSrāta",
+        "en": "I grew up in Misrata"
+      },
+      {
+        "ar": "تكبر وتنسى",
+        "tr": "tikbar w tinsā",
+        "en": "You'll grow up and forget"
+      }
+    ]
   },
   {
     "ar": "بات",
@@ -738,7 +1581,20 @@
     "ex_ar": "بتنا عند جدتي",
     "ex_tr": "bitna 3and jadditi",
     "ex_en": "We spent the night at my grandmother's",
-    "note": "imperfect: نبات nbāt (I spend the night), يبات ybāt (he spends the night)"
+    "note": "imperfect: نبات nbāt (I spend the night), يبات ybāt (he spends the night)",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "بات عندنا الليلة",
+        "tr": "bāt 3andna l-lēla",
+        "en": "Spend the night with us tonight"
+      },
+      {
+        "ar": "وين بتّ البارح؟",
+        "tr": "wīn bitt l-bāre7?",
+        "en": "Where did you spend last night?"
+      }
+    ]
   },
   {
     "ar": "دخل",
@@ -751,7 +1607,20 @@
     "ex_ar": "ادخل، الباب محلول",
     "ex_tr": "udkhul, il-bāb ma7lūl",
     "ex_en": "Come in, the door is open",
-    "note": "imperfect: ندخل nudkhul (I enter), يدخل yudkhul (he enters)"
+    "note": "imperfect: ندخل nudkhul (I enter), يدخل yudkhul (he enters)",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "ادخلوا، مرحبا بيكم",
+        "tr": "udkhlu, mar7ba bīkum",
+        "en": "Come in, welcome"
+      },
+      {
+        "ar": "دخل الولد للجامعة",
+        "tr": "dkhal l-wild l-l-jām3a",
+        "en": "The boy got into university"
+      }
+    ]
   },
   {
     "ar": "خش",
@@ -764,7 +1633,20 @@
     "ex_ar": "خش لداخل، برد برّا",
     "ex_tr": "khushsh l-dākhil, bard barra",
     "ex_en": "Go inside, it's cold outside",
-    "note": "imperfect: نخش nkhushsh (I enter), يخش ykhushsh (he enters). Colloquial alternative to دخل."
+    "note": "imperfect: نخش nkhushsh (I enter), يخش ykhushsh (he enters). Colloquial alternative to دخل.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "خش، الباب محلول",
+        "tr": "khushsh, l-bāb ma7lūl",
+        "en": "Come in, the door is open"
+      },
+      {
+        "ar": "ما خشّيتش للحوش",
+        "tr": "ma khashshētsh l-l-7ōsh",
+        "en": "I didn't go into the house"
+      }
+    ]
   },
   {
     "ar": "طلع",
@@ -777,7 +1659,25 @@
     "ex_ar": "باش نطلعوا الليلة؟",
     "ex_tr": "bash niTla3u il-lēla?",
     "ex_en": "Are we going out tonight?",
-    "note": "imperfect: نطلع niTla3 (I go out), يطلع yiTla3 (he goes out). Also 'to turn out': طلع صحيح 'it turned out true'."
+    "note": "imperfect: نطلع niTla3 (I go out), يطلع yiTla3 (he goes out). Also 'to turn out': طلع صحيح 'it turned out true'.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "طلعت الشمس",
+        "tr": "Tla3at sh-shams",
+        "en": "The sun came up"
+      },
+      {
+        "ar": "طلعت للسوق مع خوي",
+        "tr": "Tla3t l-s-sūg ma3 khūy",
+        "en": "I went out to the market with my brother"
+      },
+      {
+        "ar": "طلع الدرج",
+        "tr": "Tla3 d-darūj",
+        "en": "He went up the stairs"
+      }
+    ]
   },
   {
     "ar": "خرج",
@@ -790,7 +1690,20 @@
     "ex_ar": "خرج من الحوش الصبح بكري",
     "ex_tr": "khraj min il-7ōsh iS-SubH bakri",
     "ex_en": "He left the house early in the morning",
-    "note": "imperfect: نخرج nukhruj (I go out), يخرج yukhruj (he goes out). طلع Tla3 is more common in Tripoli speech."
+    "note": "imperfect: نخرج nukhruj (I go out), يخرج yukhruj (he goes out). طلع Tla3 is more common in Tripoli speech.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "خرج من السبيطار اليوم",
+        "tr": "khraj min s-sbīTār l-yōm",
+        "en": "He got out of the hospital today"
+      },
+      {
+        "ar": "اخرج برّا!",
+        "tr": "ukhruj barra!",
+        "en": "Get out!"
+      }
+    ]
   },
   {
     "ar": "هبط",
@@ -803,7 +1716,20 @@
     "ex_ar": "اهبط من فوق، الغدا جاهز",
     "ex_tr": "ihbiT min fōg, il-ghda jāhiz",
     "ex_en": "Come down from upstairs, lunch is ready",
-    "note": "imperfect: نهبط nihbiT (I go down), يهبط yihbiT (he goes down)"
+    "note": "imperfect: نهبط nihbiT (I go down), يهبط yihbiT (he goes down)",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "هبطت الأسعار شوية",
+        "tr": "hibTat l-as3ār shwayya",
+        "en": "Prices went down a bit"
+      },
+      {
+        "ar": "نهبط في المحطة الجاية",
+        "tr": "nihbiT fi l-ma7aTTa l-jāya",
+        "en": "I'll get off at the next stop"
+      }
+    ]
   },
   {
     "ar": "نزل",
@@ -816,7 +1742,20 @@
     "ex_ar": "نزلني هني لو سمحت",
     "ex_tr": "nazzilni hni law sama7t",
     "ex_en": "Drop me off here please",
-    "note": "imperfect: ننزل ninzil (I get off), ينزل yinzil (he gets off). Causative نزّل nazzal 'to drop off; to download'."
+    "note": "imperfect: ننزل ninzil (I get off), ينزل yinzil (he gets off). Causative نزّل nazzal 'to drop off; to download'.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "نزلت المطر البارح",
+        "tr": "nizlat l-maTar l-bāre7",
+        "en": "It rained yesterday"
+      },
+      {
+        "ar": "وين باش تنزل؟",
+        "tr": "wīn bāsh tinzil?",
+        "en": "Where are you getting off?"
+      }
+    ]
   },
   {
     "ar": "روّح",
@@ -829,7 +1768,25 @@
     "ex_ar": "تأخر الوقت، لازم نروّح",
     "ex_tr": "t'akhkhar il-waqt, lāzim nrawwi7",
     "ex_en": "It's late, I have to go home",
-    "note": "imperfect: نروّح nrawwi7 (I go home), يروّح yrawwi7 (he goes home)"
+    "note": "imperfect: نروّح nrawwi7 (I go home), يروّح yrawwi7 (he goes home)",
+    "usage": 85,
+    "phrases": [
+      {
+        "ar": "روّحت متأخر البارح",
+        "tr": "rawwa7t mit'akhkhir l-bāre7",
+        "en": "I got home late yesterday"
+      },
+      {
+        "ar": "امتى تروّح من الخدمة؟",
+        "tr": "imta trawwi7 min l-khidma?",
+        "en": "When do you get home from work?"
+      },
+      {
+        "ar": "يلا نروّحوا",
+        "tr": "yalla nrawwi7u",
+        "en": "Let's go home"
+      }
+    ]
   },
   {
     "ar": "رجع",
@@ -842,7 +1799,25 @@
     "ex_ar": "امتى باش ترجع؟",
     "ex_tr": "imta bash tirja3?",
     "ex_en": "When will you come back?",
-    "note": "imperfect: نرجع nirja3 (I return), يرجع yirja3 (he returns)"
+    "note": "imperfect: نرجع nirja3 (I return), يرجع yirja3 (he returns)",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "رجع من السفر البارح",
+        "tr": "rja3 min s-safar l-bāre7",
+        "en": "He came back from the trip yesterday"
+      },
+      {
+        "ar": "ارجع بكري",
+        "tr": "irja3 bakri",
+        "en": "Come back early"
+      },
+      {
+        "ar": "نرجعلك بعد شوية",
+        "tr": "nirja3lak ba3d shwayya",
+        "en": "I'll get back to you in a bit"
+      }
+    ]
   },
   {
     "ar": "وصل",
@@ -855,7 +1830,20 @@
     "ex_ar": "وصلت؟ قولي لما توصل",
     "ex_tr": "wSalt? gūli lamma tūSil",
     "ex_en": "Have you arrived? Tell me when you arrive",
-    "note": "imperfect: نوصل nūSil (I arrive), يوصل yūSil (he arrives)"
+    "note": "imperfect: نوصل nūSil (I arrive), يوصل yūSil (he arrives)",
+    "usage": 87,
+    "phrases": [
+      {
+        "ar": "وصلنا الحمد لله",
+        "tr": "wSalna l-7amdu lillāh",
+        "en": "We arrived, thank God"
+      },
+      {
+        "ar": "امتى توصل الطيارة؟",
+        "tr": "imta tūSil T-Tayyāra?",
+        "en": "When does the plane arrive?"
+      }
+    ]
   },
   {
     "ar": "وصّل",
@@ -868,7 +1856,20 @@
     "ex_ar": "نوصّلك للحوش؟",
     "ex_tr": "nwaSSlak lil-7ōsh?",
     "ex_en": "Shall I give you a ride home?",
-    "note": "imperfect: نوصّل nwaSSil (I give a ride), يوصّل ywaSSil (he gives a ride)"
+    "note": "imperfect: نوصّل nwaSSil (I give a ride), يوصّل ywaSSil (he gives a ride)",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "وصّلني للمطار",
+        "tr": "waSSilni l-l-maTār",
+        "en": "Take me to the airport"
+      },
+      {
+        "ar": "وصّلت الصغار للمدرسة",
+        "tr": "waSSalt S-Sghār l-l-madrasa",
+        "en": "I dropped the kids off at school"
+      }
+    ]
   },
   {
     "ar": "جرى",
@@ -881,7 +1882,20 @@
     "ex_ar": "كل يوم نجري في الكورنيش",
     "ex_tr": "kull yōm nijri fil-kurnīsh",
     "ex_en": "Every day I run on the seafront",
-    "note": "imperfect: نجري nijri (I run), يجري yijri (he runs)"
+    "note": "imperfect: نجري nijri (I run), يجري yijri (he runs)",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "جري، الباص ماشي!",
+        "tr": "ijri, l-bāS māshi!",
+        "en": "Run, the bus is leaving!"
+      },
+      {
+        "ar": "جرى ورا الكورة",
+        "tr": "jrā wara l-kūra",
+        "en": "He ran after the ball"
+      }
+    ]
   },
   {
     "ar": "طار",
@@ -894,7 +1908,20 @@
     "ex_ar": "الطيارة طارت في وقتها",
     "ex_tr": "iT-Tayyāra Tārat fi waqtha",
     "ex_en": "The plane took off on time",
-    "note": "imperfect: نطير nTīr (I fly), يطير yTīr (he flies)"
+    "note": "imperfect: نطير nTīr (I fly), يطير yTīr (he flies)",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "طار العصفور",
+        "tr": "Tār l-3aSfūr",
+        "en": "The bird flew away"
+      },
+      {
+        "ar": "طارت الورقة مع الريح",
+        "tr": "Tārat l-wraga ma3 r-rī7",
+        "en": "The paper flew off in the wind"
+      }
+    ]
   },
   {
     "ar": "ركب",
@@ -907,7 +1934,20 @@
     "ex_ar": "اركب، نوصّلك",
     "ex_tr": "irkib, nwaSSlak",
     "ex_en": "Get in, I'll give you a ride",
-    "note": "imperfect: نركب nirkib (I ride), يركب yirkib (he rides)"
+    "note": "imperfect: نركب nirkib (I ride), يركب yirkib (he rides)",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "ركبت في التاكسي",
+        "tr": "rkibt fi t-taksi",
+        "en": "I got in the taxi"
+      },
+      {
+        "ar": "ما ركبتش طيارة قبل",
+        "tr": "ma rkibtsh Tayyāra gabl",
+        "en": "I've never been on a plane before"
+      }
+    ]
   },
   {
     "ar": "ساق",
@@ -920,7 +1960,20 @@
     "ex_ar": "تعرف تسوق الكرهبة؟",
     "ex_tr": "ta3raf tsūg il-karhba?",
     "ex_en": "Do you know how to drive the car?",
-    "note": "imperfect: نسوق nsūg (I drive), يسوق ysūg (he drives). Also with سيارة sayyāra; ق = g."
+    "note": "imperfect: نسوق nsūg (I drive), يسوق ysūg (he drives). Also with سيارة sayyāra; ق = g.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "شكون ساق؟",
+        "tr": "shkūn sāg?",
+        "en": "Who drove?"
+      },
+      {
+        "ar": "ما تسوقش بالزربة",
+        "tr": "ma tsūgsh b-z-zarba",
+        "en": "Don't drive fast"
+      }
+    ]
   },
   {
     "ar": "سافر",
@@ -933,7 +1986,20 @@
     "ex_ar": "باش نسافر لتونس في الصيف",
     "ex_tr": "bash nsāfir l-tūnis fiS-Sēf",
     "ex_en": "I'm going to travel to Tunisia in the summer",
-    "note": "imperfect: نسافر nsāfir (I travel), يسافر ysāfir (he travels)"
+    "note": "imperfect: نسافر nsāfir (I travel), يسافر ysāfir (he travels)",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "سافرت لمصر العام اللي فات",
+        "tr": "sāfirt l-maSr l-3ām illi fāt",
+        "en": "I traveled to Egypt last year"
+      },
+      {
+        "ar": "امتى باش تسافر؟",
+        "tr": "imta bāsh tsāfir?",
+        "en": "When are you traveling?"
+      }
+    ]
   },
   {
     "ar": "عدّى",
@@ -946,7 +2012,20 @@
     "ex_ar": "عدّي الشارع بشوية",
     "ex_tr": "3addi sh-shāri3 b-shwayya",
     "ex_en": "Cross the street carefully",
-    "note": "imperfect: نعدّي n3addi (I pass), يعدّي y3addi (he passes). Also 'to spend (time)': عدّينا نهار باهي 'we had a nice day'."
+    "note": "imperfect: نعدّي n3addi (I pass), يعدّي y3addi (he passes). Also 'to spend (time)': عدّينا نهار باهي 'we had a nice day'.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "عدّى عليّ الصبح",
+        "tr": "3addā 3layya S-Sbā7",
+        "en": "He stopped by my place in the morning"
+      },
+      {
+        "ar": "عدّيت الامتحان",
+        "tr": "3addēt l-imti7ān",
+        "en": "I passed the exam"
+      }
+    ]
   },
   {
     "ar": "دوّر",
@@ -959,7 +2038,20 @@
     "ex_ar": "قاعد ندوّر على خدمة",
     "ex_tr": "gā3id ndawwir 3ala khidma",
     "ex_en": "I'm looking for a job",
-    "note": "imperfect: ندوّر ndawwir (I look for), يدوّر ydawwir (he looks for). Also 'to turn (around)'."
+    "note": "imperfect: ندوّر ndawwir (I look for), يدوّر ydawwir (he looks for). Also 'to turn (around)'.",
+    "usage": 85,
+    "phrases": [
+      {
+        "ar": "شن قاعد تدوّر؟",
+        "tr": "shin gā3id tdawwir?",
+        "en": "What are you looking for?"
+      },
+      {
+        "ar": "دوّرت عليه في كل بلاصة",
+        "tr": "dawwart 3lēh fi kull blāSa",
+        "en": "I looked for it everywhere"
+      }
+    ]
   },
   {
     "ar": "لفّ",
@@ -972,7 +2064,20 @@
     "ex_ar": "لف على اليمين بعد الجامع",
     "ex_tr": "liff 3ala l-yimīn ba3d il-jāmi3",
     "ex_en": "Turn right after the mosque",
-    "note": "imperfect: نلف nliff (I turn), يلف yliff (he turns)"
+    "note": "imperfect: نلف nliff (I turn), يلف yliff (he turns)",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "لفّ الهدية في ورقة",
+        "tr": "liff l-hadiyya fi wraga",
+        "en": "Wrap the gift in paper"
+      },
+      {
+        "ar": "لفّينا على المدينة كلها",
+        "tr": "laffēna 3ala l-madīna kullha",
+        "en": "We went all around the city"
+      }
+    ]
   },
   {
     "ar": "وقف",
@@ -985,7 +2090,25 @@
     "ex_ar": "اوقف هني، باش ننزل",
     "ex_tr": "ūgaf hni, bash ninzil",
     "ex_en": "Stop here, I'm getting off",
-    "note": "imperfect: نوقف nūgaf (I stand), يوقف yūgaf (he stands)"
+    "note": "imperfect: نوقف nūgaf (I stand), يوقف yūgaf (he stands)",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "وقف التاكسي",
+        "tr": "wgaf t-taksi",
+        "en": "The taxi stopped"
+      },
+      {
+        "ar": "وقف، ما تزيدش!",
+        "tr": "ūgaf, ma tzīdsh!",
+        "en": "Stop, that's enough!"
+      },
+      {
+        "ar": "وقفت ساعة في الطابور",
+        "tr": "wgaft sā3a fi T-Tābūr",
+        "en": "I stood in the queue for an hour"
+      }
+    ]
   },
   {
     "ar": "تمشّى",
@@ -998,7 +2121,20 @@
     "ex_ar": "تعال نتمشّوا شوية",
     "ex_tr": "ta3āl nitmashshu shwayya",
     "ex_en": "Come, let's take a little walk",
-    "note": "imperfect: نتمشّى nitmashshā (I take a walk), يتمشّى yitmashshā (he takes a walk)"
+    "note": "imperfect: نتمشّى nitmashshā (I take a walk), يتمشّى yitmashshā (he takes a walk)",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "تمشّينا في الكورنيش",
+        "tr": "tmashshēna fi l-kurnīsh",
+        "en": "We took a walk along the corniche"
+      },
+      {
+        "ar": "نتمشّى كل عشية",
+        "tr": "nitmashshā kull 3shiyya",
+        "en": "I take a walk every evening"
+      }
+    ]
   },
   {
     "ar": "حوّس",
@@ -1011,7 +2147,20 @@
     "ex_ar": "طلعنا نحوّسوا بالكرهبة",
     "ex_tr": "Tla3na n7awwsu bil-karhba",
     "ex_en": "We went out for a drive around town",
-    "note": "imperfect: نحوّس n7awwis (I wander around), يحوّس y7awwis (he wanders around). Typically Libyan: going out to stroll or drive around for fun."
+    "note": "imperfect: نحوّس n7awwis (I wander around), يحوّس y7awwis (he wanders around). Typically Libyan: going out to stroll or drive around for fun.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "باش نحوّسوا الليلة؟",
+        "tr": "bāsh n7awwsu l-lēla?",
+        "en": "Shall we go out for a drive tonight?"
+      },
+      {
+        "ar": "قاعد نحوّس في السوق",
+        "tr": "gā3id n7awwis fi s-sūg",
+        "en": "I'm wandering around the market"
+      }
+    ]
   },
   {
     "ar": "هرب",
@@ -1024,7 +2173,20 @@
     "ex_ar": "القطوس هرب من الحوش",
     "ex_tr": "il-gaTTūs hrab min il-7ōsh",
     "ex_en": "The cat ran away from the house",
-    "note": "imperfect: نهرب nihrab (I run away), يهرب yihrab (he runs away)"
+    "note": "imperfect: نهرب nihrab (I run away), يهرب yihrab (he runs away)",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "هرب الحرامي",
+        "tr": "hrab l-7arāmi",
+        "en": "The thief ran away"
+      },
+      {
+        "ar": "ما تهربش مني",
+        "tr": "ma tihrabsh minni",
+        "en": "Don't run away from me"
+      }
+    ]
   },
   {
     "ar": "لحق",
@@ -1037,7 +2199,20 @@
     "ex_ar": "زرب باش نلحقوا الطيارة",
     "ex_tr": "zrab bash nil7gu iT-Tayyāra",
     "ex_en": "Hurry so we can catch the plane",
-    "note": "imperfect: نلحق nil7ag (I catch up), يلحق yil7ag (he catches up)"
+    "note": "imperfect: نلحق nil7ag (I catch up), يلحق yil7ag (he catches up)",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "ما لحقتش الباص",
+        "tr": "ma l7agtsh l-bāS",
+        "en": "I didn't catch the bus"
+      },
+      {
+        "ar": "الحقني!",
+        "tr": "il7agni!",
+        "en": "Catch up with me! / Help me!"
+      }
+    ]
   },
   {
     "ar": "تبع",
@@ -1050,7 +2225,20 @@
     "ex_ar": "تبعني، نوريك الطريق",
     "ex_tr": "tba3ni, nwarrīk iT-Trīg",
     "ex_en": "Follow me, I'll show you the way",
-    "note": "imperfect: نتبع nitba3 (I follow), يتبع yitba3 (he follows)"
+    "note": "imperfect: نتبع nitba3 (I follow), يتبع yitba3 (he follows)",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "تبع الكرهبة هذي",
+        "tr": "itba3 l-karhba hādhi",
+        "en": "Follow this car"
+      },
+      {
+        "ar": "نتبع الأهلي من صغري",
+        "tr": "nitba3 l-ahli min Sughri",
+        "en": "I've followed Al-Ahly since I was little"
+      }
+    ]
   },
   {
     "ar": "قرّب",
@@ -1063,7 +2251,20 @@
     "ex_ar": "قرّب، ما تخافش",
     "ex_tr": "garrib, ma tkhāfsh",
     "ex_en": "Come closer, don't be afraid",
-    "note": "imperfect: نقرّب ngarrib (I come near), يقرّب ygarrib (he comes near)"
+    "note": "imperfect: نقرّب ngarrib (I come near), يقرّب ygarrib (he comes near)",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "قرّبنا نوصلوا",
+        "tr": "garrabna nūSlu",
+        "en": "We're almost there"
+      },
+      {
+        "ar": "قرّب لهنا",
+        "tr": "garrib l-hna",
+        "en": "Come closer"
+      }
+    ]
   },
   {
     "ar": "بعّد",
@@ -1076,7 +2277,20 @@
     "ex_ar": "بعّد من النار!",
     "ex_tr": "ba33id min in-nār!",
     "ex_en": "Move away from the fire!",
-    "note": "imperfect: نبعّد nba33id (I move away), يبعّد yba33id (he moves away)"
+    "note": "imperfect: نبعّد nba33id (I move away), يبعّد yba33id (he moves away)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "بعّد الكرهبة شوية",
+        "tr": "ba33id l-karhba shwayya",
+        "en": "Move the car back a bit"
+      },
+      {
+        "ar": "بعّدوا من الشط",
+        "tr": "ba33du min sh-shaTT",
+        "en": "They moved away from the shore"
+      }
+    ]
   },
   {
     "ar": "شال",
@@ -1089,7 +2303,20 @@
     "ex_ar": "نشيلك الشنطة؟",
     "ex_tr": "nshīlak ish-shanTa?",
     "ex_en": "Shall I carry the bag for you?",
-    "note": "imperfect: نشيل nshīl (I carry), يشيل yshīl (he carries)"
+    "note": "imperfect: نشيل nshīl (I carry), يشيل yshīl (he carries)",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "شيل الصحن",
+        "tr": "shīl S-Sa7n",
+        "en": "Take the plate away"
+      },
+      {
+        "ar": "شال الشنطة على ظهره",
+        "tr": "shāl sh-shanTa 3ala DHahra",
+        "en": "He carried the bag on his back"
+      }
+    ]
   },
   {
     "ar": "هزّ",
@@ -1102,7 +2329,20 @@
     "ex_ar": "هز الصحون للكوزينة",
     "ex_tr": "hizz iS-S7ūn lil-kūzīna",
     "ex_en": "Take the plates to the kitchen",
-    "note": "imperfect: نهز nhizz (I take), يهز yhizz (he takes). Libyan/Maghrebi 'take (away), carry'."
+    "note": "imperfect: نهز nhizz (I take), يهز yhizz (he takes). Libyan/Maghrebi 'take (away), carry'.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "هز معاك جاكيتة",
+        "tr": "hizz ma3āk jākīta",
+        "en": "Take a jacket with you"
+      },
+      {
+        "ar": "هزّيت الصغار للبحر",
+        "tr": "hazzēt S-Sghār l-l-ba7r",
+        "en": "I took the kids to the beach"
+      }
+    ]
   },
   {
     "ar": "زار",
@@ -1115,7 +2355,20 @@
     "ex_ar": "نزوروا جدّي كل جمعة",
     "ex_tr": "nzūru jaddi kull jum3a",
     "ex_en": "We visit my grandfather every Friday",
-    "note": "imperfect: نزور nzūr (I visit), يزور yzūr (he visits)"
+    "note": "imperfect: نزور nzūr (I visit), يزور yzūr (he visits)",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "زرنا خالتي البارح",
+        "tr": "zurna khālti l-bāre7",
+        "en": "We visited my aunt yesterday"
+      },
+      {
+        "ar": "باش نزورك نهار الجمعة",
+        "tr": "bāsh nzūrak nhār l-jum3a",
+        "en": "I'll visit you on Friday"
+      }
+    ]
   },
   {
     "ar": "طاح",
@@ -1128,7 +2381,20 @@
     "ex_ar": "طاح الكاس وتكسّر",
     "ex_tr": "Tā7 il-kās w tkassar",
     "ex_en": "The glass fell and broke",
-    "note": "imperfect: نطيح nTī7 (I fall), يطيح yTī7 (he falls)"
+    "note": "imperfect: نطيح nTī7 (I fall), يطيح yTī7 (he falls)",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "طحت في الدرج",
+        "tr": "Ti7t fi d-darūj",
+        "en": "I fell on the stairs"
+      },
+      {
+        "ar": "طاح الموبايل من يدي",
+        "tr": "Tā7 l-mōbāyl min yaddi",
+        "en": "The phone fell from my hand"
+      }
+    ]
   },
   {
     "ar": "عام",
@@ -1141,7 +2407,20 @@
     "ex_ar": "في الصيف نعوموا في البحر كل يوم",
     "ex_tr": "fiS-Sēf n3ūmu fil-ba7r kull yōm",
     "ex_en": "In summer we swim in the sea every day",
-    "note": "imperfect: نعوم n3ūm (I swim), يعوم y3ūm (he swims). Libyan/Maghrebi; سبح sba7 is the MSA word."
+    "note": "imperfect: نعوم n3ūm (I swim), يعوم y3ūm (he swims). Libyan/Maghrebi; سبح sba7 is the MSA word.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "تعرف تعوم؟",
+        "tr": "ta3raf t3ūm?",
+        "en": "Can you swim?"
+      },
+      {
+        "ar": "عمنا ساعتين",
+        "tr": "3umna sā3tēn",
+        "en": "We swam for two hours"
+      }
+    ]
   },
   {
     "ar": "نقز",
@@ -1154,7 +2433,20 @@
     "ex_ar": "نقز من فوق الحيط",
     "ex_tr": "ngaz min fōg il-7ēT",
     "ex_en": "He jumped over the wall",
-    "note": "imperfect: ننقز ningiz (I jump), ينقز yingiz (he jumps). ق = g."
+    "note": "imperfect: ننقز ningiz (I jump), ينقز yingiz (he jumps). ق = g.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "الصغار ينقزوا على الفرش",
+        "tr": "S-Sghār yingzu 3ala l-farsh",
+        "en": "The kids are jumping on the mattress"
+      },
+      {
+        "ar": "انقز!",
+        "tr": "ingiz!",
+        "en": "Jump!"
+      }
+    ]
   },
   {
     "ar": "تحرّك",
@@ -1167,7 +2459,20 @@
     "ex_ar": "تحرّك، الناس تستنّى",
     "ex_tr": "t7arrak, in-nās tistannā",
     "ex_en": "Get moving, people are waiting",
-    "note": "imperfect: نتحرّك nit7arrak (I move), يتحرّك yit7arrak (he moves)"
+    "note": "imperfect: نتحرّك nit7arrak (I move), يتحرّك yit7arrak (he moves)",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "ما تتحرّكش",
+        "tr": "ma tit7arrakish",
+        "en": "Don't move"
+      },
+      {
+        "ar": "تحرّكنا الساعة سبعة",
+        "tr": "t7arrakna s-sā3a sab3a",
+        "en": "We set off at seven"
+      }
+    ]
   },
   {
     "ar": "نقل",
@@ -1180,7 +2485,20 @@
     "ex_ar": "نقلنا لحوش جديد في سوق الجمعة",
     "ex_tr": "ngalna l-7ōsh jdīd fi sūg ij-jum3a",
     "ex_en": "We moved to a new house in Souq al-Jumaa",
-    "note": "imperfect: ننقل ningil (I move), ينقل yingil (he moves)"
+    "note": "imperfect: ننقل ningil (I move), ينقل yingil (he moves)",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "نقلوه لخدمة أخرى",
+        "tr": "nglūh l-khidma ukhra",
+        "en": "They transferred him to another job"
+      },
+      {
+        "ar": "باش ننقلوا الشهر الجاي",
+        "tr": "bāsh ningilu sh-shahr l-jāy",
+        "en": "We're moving next month"
+      }
+    ]
   },
   {
     "ar": "مرق",
@@ -1193,7 +2511,20 @@
     "ex_ar": "امرق عليّ وانت مروّح",
     "ex_tr": "imrig 3alayy w inta mrawwa7",
     "ex_en": "Stop by my place on your way home",
-    "note": "imperfect: نمرق nimrig (I pass by), يمرق yimrig (he passes by). Maghrebi; ق = g. مرّ marr also understood."
+    "note": "imperfect: نمرق nimrig (I pass by), يمرق yimrig (he passes by). Maghrebi; ق = g. مرّ marr also understood.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "مرقت من قدّام الحوش",
+        "tr": "mragt min guddām l-7ōsh",
+        "en": "I passed in front of the house"
+      },
+      {
+        "ar": "مرقت الأيام",
+        "tr": "mragat l-iyyām",
+        "en": "The days went by"
+      }
+    ]
   },
   {
     "ar": "زرب",
@@ -1206,7 +2537,20 @@
     "ex_ar": "ازرب، تأخرنا!",
     "ex_tr": "izrab, t'akhkharna!",
     "ex_en": "Hurry up, we're late!",
-    "note": "imperfect: نزرب nizrab (I hurry), يزرب yizrab (he hurries). Very common Libyan/Maghrebi; زربة zarba = hurry."
+    "note": "imperfect: نزرب nizrab (I hurry), يزرب yizrab (he hurries). Very common Libyan/Maghrebi; زربة zarba = hurry.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "زرب شوية",
+        "tr": "zrab shwayya",
+        "en": "Hurry up a bit"
+      },
+      {
+        "ar": "علاش زارب؟",
+        "tr": "3lāsh zārib?",
+        "en": "Why are you in a hurry?"
+      }
+    ]
   },
   {
     "ar": "هدرز",
@@ -1219,7 +2563,20 @@
     "ex_ar": "قعدنا نهدرزوا لنص الليل",
     "ex_tr": "g3adna nhadrzu l-nuSS il-lēl",
     "ex_en": "We sat chatting until midnight",
-    "note": "imperfect: نهدرز nhadriz (I chat), يهدرز yhadriz (he chats). Libyan; هدرزة hadraza = chat, conversation."
+    "note": "imperfect: نهدرز nhadriz (I chat), يهدرز yhadriz (he chats). Libyan; هدرزة hadraza = chat, conversation.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "ما نحبش نهدرز هلبة",
+        "tr": "ma n7ibbish nhadriz hallba",
+        "en": "I don't like to talk much"
+      },
+      {
+        "ar": "هدرزنا في التليفون",
+        "tr": "hadrazna fi t-tilifōn",
+        "en": "We chatted on the phone"
+      }
+    ]
   },
   {
     "ar": "تكلّم",
@@ -1232,7 +2589,20 @@
     "ex_ar": "تتكلّم إنجليزي؟",
     "ex_tr": "titkallam inglīzi?",
     "ex_en": "Do you speak English?",
-    "note": "imperfect: نتكلّم nitkallam (I speak), يتكلّم yitkallam (he speaks)"
+    "note": "imperfect: نتكلّم nitkallam (I speak), يتكلّم yitkallam (he speaks)",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "تكلّم بشوية",
+        "tr": "tkallam b-shwayya",
+        "en": "Speak slowly"
+      },
+      {
+        "ar": "ما تتكلّمش وانت تاكل",
+        "tr": "ma titkallamsh w inta tākil",
+        "en": "Don't talk while you eat"
+      }
+    ]
   },
   {
     "ar": "حكى",
@@ -1245,7 +2615,20 @@
     "ex_ar": "احكيلي شن صار",
     "ex_tr": "i7kīli shin Sār",
     "ex_en": "Tell me what happened",
-    "note": "imperfect: نحكي ni7ki (I tell), يحكي yi7ki (he tells)"
+    "note": "imperfect: نحكي ni7ki (I tell), يحكي yi7ki (he tells)",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "حكالي على السفر",
+        "tr": "7kāli 3ala s-safar",
+        "en": "He told me about the trip"
+      },
+      {
+        "ar": "شن تحكي؟",
+        "tr": "shin ti7ki?",
+        "en": "What are you talking about?"
+      }
+    ]
   },
   {
     "ar": "سأل",
@@ -1258,7 +2641,20 @@
     "ex_ar": "اسأل الراجل هذا على الطريق",
     "ex_tr": "is'al ir-rājil hādha 3ala T-Trīg",
     "ex_en": "Ask this man for directions",
-    "note": "imperfect: نسأل nis'al (I ask), يسأل yis'al (he asks)"
+    "note": "imperfect: نسأل nis'al (I ask), يسأل yis'al (he asks)",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "سألت عليك",
+        "tr": "sa'alt 3lēk",
+        "en": "I asked about you"
+      },
+      {
+        "ar": "نبي نسألك سؤال",
+        "tr": "nibbi nis'alak su'āl",
+        "en": "I want to ask you a question"
+      }
+    ]
   },
   {
     "ar": "جاوب",
@@ -1271,7 +2667,20 @@
     "ex_ar": "كلّمته وما جاوبش",
     "ex_tr": "kallamta w ma jāwibsh",
     "ex_en": "I called him and he didn't answer",
-    "note": "imperfect: نجاوب njāwib (I answer), يجاوب yjāwib (he answers)"
+    "note": "imperfect: نجاوب njāwib (I answer), يجاوب yjāwib (he answers)",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "جاوب على التليفون",
+        "tr": "jāwib 3ala t-tilifōn",
+        "en": "Answer the phone"
+      },
+      {
+        "ar": "جاوبت على كل الأسئلة",
+        "tr": "jāwabt 3ala kull l-as'ila",
+        "en": "I answered all the questions"
+      }
+    ]
   },
   {
     "ar": "ردّ",
@@ -1284,7 +2693,20 @@
     "ex_ar": "ما ردّش على المسج متاعي",
     "ex_tr": "ma raddsh 3ala l-misij mtā3i",
     "ex_en": "He didn't reply to my message",
-    "note": "imperfect: نرد nridd (I reply), يرد yridd (he replies). ردّ بالك radd bālak = be careful."
+    "note": "imperfect: نرد nridd (I reply), يرد yridd (he replies). ردّ بالك radd bālak = be careful.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "ردّ بالك!",
+        "tr": "ridd bālak!",
+        "en": "Watch out!"
+      },
+      {
+        "ar": "ردّلي الكتاب",
+        "tr": "riddli l-ktāb",
+        "en": "Give me back the book"
+      }
+    ]
   },
   {
     "ar": "عيّط",
@@ -1297,7 +2719,20 @@
     "ex_ar": "عيّط على خوك، الغدا جاهز",
     "ex_tr": "3ayyiT 3ala khūk, il-ghda jāhiz",
     "ex_en": "Call your brother, lunch is ready",
-    "note": "imperfect: نعيّط n3ayyiT (I shout), يعيّط y3ayyiT (he shouts). Libyan: calling out to someone (or phoning)."
+    "note": "imperfect: نعيّط n3ayyiT (I shout), يعيّط y3ayyiT (he shouts). Libyan: calling out to someone (or phoning).",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "ما تعيّطش، الصغير راقد",
+        "tr": "ma t3ayyiTsh, S-Sghīr rāgid",
+        "en": "Don't shout, the baby is asleep"
+      },
+      {
+        "ar": "عيّطتلك وما سمعتنيش",
+        "tr": "3ayyaTtlak w ma sma3tnīsh",
+        "en": "I called out to you and you didn't hear me"
+      }
+    ]
   },
   {
     "ar": "كلّم",
@@ -1310,7 +2745,20 @@
     "ex_ar": "نكلّمك بعدين",
     "ex_tr": "nkallmak ba3dēn",
     "ex_en": "I'll call you later",
-    "note": "imperfect: نكلّم nkallim (I call), يكلّم ykallim (he calls)"
+    "note": "imperfect: نكلّم nkallim (I call), يكلّم ykallim (he calls)",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "كلّمني لما توصل",
+        "tr": "kallimni lamma tūSil",
+        "en": "Call me when you arrive"
+      },
+      {
+        "ar": "كلّمت أمي البارح",
+        "tr": "kallamt ummi l-bāre7",
+        "en": "I called my mother yesterday"
+      }
+    ]
   },
   {
     "ar": "كتب",
@@ -1323,7 +2771,20 @@
     "ex_ar": "اكتبلي النمرة متاعك",
     "ex_tr": "iktibli n-nimra mtā3ak",
     "ex_en": "Write down your number for me",
-    "note": "imperfect: نكتب niktib (I write), يكتب yiktib (he writes). نمرة nimra = number (Italian numero)."
+    "note": "imperfect: نكتب niktib (I write), يكتب yiktib (he writes). نمرة nimra = number (Italian numero).",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "كتبت اسمك غالط",
+        "tr": "ktibt ismak ghāliT",
+        "en": "You wrote your name wrong"
+      },
+      {
+        "ar": "قاعد نكتب في مسج",
+        "tr": "gā3id nikteb fi masij",
+        "en": "I'm writing a message"
+      }
+    ]
   },
   {
     "ar": "قرا",
@@ -1336,7 +2797,20 @@
     "ex_ar": "وين تقرا؟ نقرا في الجامعة",
     "ex_tr": "wīn tigrā? nigrā fil-jām3a",
     "ex_en": "Where do you study? I study at the university",
-    "note": "imperfect: نقرا nigrā (I read), يقرا yigrā (he reads). Libyan 'study (at school)' as well as 'read'; ق = g."
+    "note": "imperfect: نقرا nigrā (I read), يقرا yigrā (he reads). Libyan 'study (at school)' as well as 'read'; ق = g.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "شن تقرا في الجامعة؟",
+        "tr": "shin tigra fi l-jām3a?",
+        "en": "What do you study at university?"
+      },
+      {
+        "ar": "قريت الجريدة الصبح",
+        "tr": "grēt l-jarīda S-Sbā7",
+        "en": "I read the newspaper this morning"
+      }
+    ]
   },
   {
     "ar": "عاود",
@@ -1349,7 +2823,20 @@
     "ex_ar": "عاود، ما سمعتكش",
     "ex_tr": "3āwid, ma sma3tiksh",
     "ex_en": "Say it again, I didn't hear you",
-    "note": "imperfect: نعاود n3āwid (I repeat), يعاود y3āwid (he repeats)"
+    "note": "imperfect: نعاود n3āwid (I repeat), يعاود y3āwid (he repeats)",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "عاود الامتحان",
+        "tr": "3āwid l-imti7ān",
+        "en": "He retook the exam"
+      },
+      {
+        "ar": "ما تعاودهاش!",
+        "tr": "ma t3āwidhāsh!",
+        "en": "Don't do it again!"
+      }
+    ]
   },
   {
     "ar": "فسّر",
@@ -1362,7 +2849,20 @@
     "ex_ar": "فسّرلي الكلمة هذي",
     "ex_tr": "fassarli l-kilma hādhi",
     "ex_en": "Explain this word to me",
-    "note": "imperfect: نفسّر nfassir (I explain), يفسّر yfassir (he explains)"
+    "note": "imperfect: نفسّر nfassir (I explain), يفسّر yfassir (he explains)",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "ما نقدرش نفسّرلك",
+        "tr": "ma nagdarsh nfassirlak",
+        "en": "I can't explain it to you"
+      },
+      {
+        "ar": "فسّر روحك",
+        "tr": "fassir rū7ak",
+        "en": "Explain yourself"
+      }
+    ]
   },
   {
     "ar": "شرح",
@@ -1375,7 +2875,20 @@
     "ex_ar": "الأستاذ شرح الدرس مليح",
     "ex_tr": "il-ustādh shra7 id-dars mlī7",
     "ex_en": "The teacher explained the lesson well",
-    "note": "imperfect: نشرح nishra7 (I explain), يشرح yishra7 (he explains)"
+    "note": "imperfect: نشرح nishra7 (I explain), يشرح yishra7 (he explains)",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "اشرحلي كيف نمشي",
+        "tr": "ishra7li kīf nimshi",
+        "en": "Explain to me how to get there"
+      },
+      {
+        "ar": "شرحتله المشكلة",
+        "tr": "shra7tla l-mushkila",
+        "en": "I explained the problem to him"
+      }
+    ]
   },
   {
     "ar": "سمع",
@@ -1388,7 +2901,25 @@
     "ex_ar": "تسمع فيّا؟",
     "ex_tr": "tisma3 fiyya?",
     "ex_en": "Can you hear me?",
-    "note": "imperfect: نسمع nisma3 (I hear), يسمع yisma3 (he hears). Also 'to obey': اسمع الكلام 'do as you're told'."
+    "note": "imperfect: نسمع nisma3 (I hear), يسمع yisma3 (he hears). Also 'to obey': اسمع الكلام 'do as you're told'.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "سمعت الخبر؟",
+        "tr": "smi3t l-khabar?",
+        "en": "Did you hear the news?"
+      },
+      {
+        "ar": "اسمع كلام أمك",
+        "tr": "isma3 klām ummak",
+        "en": "Listen to your mother"
+      },
+      {
+        "ar": "ما نسمعكش مليح",
+        "tr": "ma nisma3aksh mlī7",
+        "en": "I can't hear you well"
+      }
+    ]
   },
   {
     "ar": "عزم",
@@ -1401,7 +2932,20 @@
     "ex_ar": "عزمنا على العشا نهار الجمعة",
     "ex_tr": "3zamna 3ala l-3asha nhār ij-jum3a",
     "ex_en": "He invited us to dinner on Friday",
-    "note": "imperfect: نعزم ni3zim (I invite), يعزم yi3zim (he invites)"
+    "note": "imperfect: نعزم ni3zim (I invite), يعزم yi3zim (he invites)",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "عزمته على قهوة",
+        "tr": "3zamta 3ala gahwa",
+        "en": "I invited him for coffee"
+      },
+      {
+        "ar": "باش نعزموا الجيران",
+        "tr": "bāsh na3zmu l-jirān",
+        "en": "We'll invite the neighbors"
+      }
+    ]
   },
   {
     "ar": "سلّم",
@@ -1414,7 +2958,20 @@
     "ex_ar": "سلّملي على أمك",
     "ex_tr": "sallimli 3ala ummak",
     "ex_en": "Say hello to your mother for me",
-    "note": "imperfect: نسلّم nsallim (I greet), يسلّم ysallim (he greets)"
+    "note": "imperfect: نسلّم nsallim (I greet), يسلّم ysallim (he greets)",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "سلّم على الضيوف",
+        "tr": "sallim 3ala D-Dyūf",
+        "en": "Greet the guests"
+      },
+      {
+        "ar": "ربي يسلّمك",
+        "tr": "rabbi ysallmak",
+        "en": "God keep you safe"
+      }
+    ]
   },
   {
     "ar": "بعث",
@@ -1427,7 +2984,20 @@
     "ex_ar": "ابعثلي اللوكيشن",
     "ex_tr": "ib3athli l-lokēshin",
     "ex_en": "Send me the location",
-    "note": "imperfect: نبعث nib3ath (I send), يبعث yib3ath (he sends)"
+    "note": "imperfect: نبعث nib3ath (I send), يبعث yib3ath (he sends)",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "بعثتلك مسج",
+        "tr": "ba3athtlak masij",
+        "en": "I sent you a message"
+      },
+      {
+        "ar": "ابعثلي التصويرة",
+        "tr": "ib3athli t-taSwīra",
+        "en": "Send me the photo"
+      }
+    ]
   },
   {
     "ar": "غنّى",
@@ -1440,7 +3010,20 @@
     "ex_ar": "يغنّي في العراسات",
     "ex_tr": "yghanni fil-3rāsāt",
     "ex_en": "He sings at weddings",
-    "note": "imperfect: نغنّي nghanni (I sing), يغنّي yghanni (he sings)"
+    "note": "imperfect: نغنّي nghanni (I sing), يغنّي yghanni (he sings)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "غنّيلنا حاجة",
+        "tr": "ghannīlna 7āja",
+        "en": "Sing us something"
+      },
+      {
+        "ar": "ما نعرفش نغنّي",
+        "tr": "ma na3rafsh nghanni",
+        "en": "I don't know how to sing"
+      }
+    ]
   },
   {
     "ar": "ضحك",
@@ -1453,7 +3036,20 @@
     "ex_ar": "ضحّكتني هلبة",
     "ex_tr": "Da77aktni hallba",
     "ex_en": "You made me laugh a lot",
-    "note": "imperfect: نضحك niD7ak (I laugh), يضحك yiD7ak (he laughs). Causative ضحّك Da77ak = make laugh."
+    "note": "imperfect: نضحك niD7ak (I laugh), يضحك yiD7ak (he laughs). Causative ضحّك Da77ak = make laugh.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "علاش تضحك؟",
+        "tr": "3lāsh tiD7ak?",
+        "en": "Why are you laughing?"
+      },
+      {
+        "ar": "ضحكنا هلبة البارح",
+        "tr": "D7akna hallba l-bāre7",
+        "en": "We laughed a lot yesterday"
+      }
+    ]
   },
   {
     "ar": "بكى",
@@ -1466,7 +3062,20 @@
     "ex_ar": "الصغير قاعد يبكي، يبي أمه",
     "ex_tr": "iS-Sghīr gā3id yibki, yibbi umma",
     "ex_en": "The little one is crying, he wants his mum",
-    "note": "imperfect: نبكي nibki (I cry), يبكي yibki (he cries)"
+    "note": "imperfect: نبكي nibki (I cry), يبكي yibki (he cries)",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "ما تبكيش",
+        "tr": "ma tibkīsh",
+        "en": "Don't cry"
+      },
+      {
+        "ar": "بكت لما سافر",
+        "tr": "bkat lamma sāfir",
+        "en": "She cried when he left"
+      }
+    ]
   },
   {
     "ar": "كذب",
@@ -1479,7 +3088,20 @@
     "ex_ar": "ما تكذبش عليّ",
     "ex_tr": "ma tikdhibsh 3alayy",
     "ex_en": "Don't lie to me",
-    "note": "imperfect: نكذب nikdhib (I lie), يكذب yikdhib (he lies)"
+    "note": "imperfect: نكذب nikdhib (I lie), يكذب yikdhib (he lies)",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "قاعد يكذب عليك",
+        "tr": "gā3id yikdhib 3lēk",
+        "en": "He's lying to you"
+      },
+      {
+        "ar": "عمري ما كذبت عليك",
+        "tr": "3umri ma kdhabt 3lēk",
+        "en": "I've never lied to you"
+      }
+    ]
   },
   {
     "ar": "شكر",
@@ -1492,7 +3114,20 @@
     "ex_ar": "نشكرك على كل شي",
     "ex_tr": "nushkurak 3ala kull shay",
     "ex_en": "I thank you for everything",
-    "note": "imperfect: نشكر nushkur (I thank), يشكر yushkur (he thanks). Everyday 'thanks' is يعطيك الصحة / مشكور."
+    "note": "imperfect: نشكر nushkur (I thank), يشكر yushkur (he thanks). Everyday 'thanks' is يعطيك الصحة / مشكور.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "شكرته على الهدية",
+        "tr": "shkarta 3ala l-hadiyya",
+        "en": "I thanked him for the gift"
+      },
+      {
+        "ar": "ما يتشكرش على واجب",
+        "tr": "ma yitshkarsh 3ala wājib",
+        "en": "No need for thanks, it's my duty"
+      }
+    ]
   },
   {
     "ar": "طلب",
@@ -1505,7 +3140,20 @@
     "ex_ar": "طلبنا بيتزا للحوش",
     "ex_tr": "Tlabna pītza lil-7ōsh",
     "ex_en": "We ordered pizza to the house",
-    "note": "imperfect: نطلب nuTlub (I ask for), يطلب yuTlub (he asks for)"
+    "note": "imperfect: نطلب nuTlub (I ask for), يطلب yuTlub (he asks for)",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "شن طلبت؟",
+        "tr": "shin Tlabt?",
+        "en": "What did you order?"
+      },
+      {
+        "ar": "نطلبلك تاكسي؟",
+        "tr": "niTlablak taksi?",
+        "en": "Shall I order you a taxi?"
+      }
+    ]
   },
   {
     "ar": "وعد",
@@ -1518,7 +3166,20 @@
     "ex_ar": "نوعدك باش نجي",
     "ex_tr": "nū3dak bash nji",
     "ex_en": "I promise you I'll come",
-    "note": "imperfect: نوعد nū3id (I promise), يوعد yū3id (he promises)"
+    "note": "imperfect: نوعد nū3id (I promise), يوعد yū3id (he promises)",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "وعدتني باش تجي!",
+        "tr": "w3adtni bāsh tji!",
+        "en": "You promised me you'd come!"
+      },
+      {
+        "ar": "وعد، ما نعاودهاش",
+        "tr": "wa3d, ma n3āwidhāsh",
+        "en": "Promise, I won't do it again"
+      }
+    ]
   },
   {
     "ar": "خبّر",
@@ -1531,7 +3192,20 @@
     "ex_ar": "خبّرني لو صار شي",
     "ex_tr": "khabbirni law Sār shay",
     "ex_en": "Let me know if anything happens",
-    "note": "imperfect: نخبّر nkhabbir (I inform), يخبّر ykhabbir (he informs)"
+    "note": "imperfect: نخبّر nkhabbir (I inform), يخبّر ykhabbir (he informs)",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "خبّرتهم إني جاي",
+        "tr": "khabbart-hum inni jāy",
+        "en": "I told them I'm coming"
+      },
+      {
+        "ar": "ما خبّرنيش حد",
+        "tr": "ma khabbarnīsh 7add",
+        "en": "Nobody told me"
+      }
+    ]
   },
   {
     "ar": "نادى",
@@ -1544,7 +3218,20 @@
     "ex_ar": "نادي على الراجل",
     "ex_tr": "nādi 3ala r-rājil",
     "ex_en": "Call the man over",
-    "note": "imperfect: ننادي nnādi (I call), ينادي ynādi (he calls)"
+    "note": "imperfect: ننادي nnādi (I call), ينادي ynādi (he calls)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "ناديتك وما سمعتش",
+        "tr": "nādētak w ma smi3tsh",
+        "en": "I called you and you didn't hear"
+      },
+      {
+        "ar": "نادي على أختك",
+        "tr": "nādi 3ala ukhtak",
+        "en": "Call your sister over"
+      }
+    ]
   },
   {
     "ar": "سبّ",
@@ -1557,7 +3244,20 @@
     "ex_ar": "ما تسبّش، عيب!",
     "ex_tr": "ma tsibbsh, 3ēb!",
     "ex_en": "Don't swear, it's shameful!",
-    "note": "imperfect: نسب nsibb (I curse), يسب ysibb (he curses)"
+    "note": "imperfect: نسب nsibb (I curse), يسب ysibb (he curses)",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "سبّني قدّام الناس",
+        "tr": "sabbni guddām n-nās",
+        "en": "He insulted me in front of people"
+      },
+      {
+        "ar": "ما تسبّش الدين",
+        "tr": "ma tsubbsh d-dīn",
+        "en": "Don't curse religion"
+      }
+    ]
   },
   {
     "ar": "تعارك",
@@ -1570,7 +3270,20 @@
     "ex_ar": "تعاركوا على البارك",
     "ex_tr": "t3ārku 3ala l-pārk",
     "ex_en": "They fought over the parking spot",
-    "note": "imperfect: نتعارك nit3ārak (I quarrel), يتعارك yit3ārak (he quarrels). عركة 3arka = fight."
+    "note": "imperfect: نتعارك nit3ārak (I quarrel), يتعارك yit3ārak (he quarrels). عركة 3arka = fight.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "تعاركت مع خوي",
+        "tr": "t3ārakt ma3 khūy",
+        "en": "I fought with my brother"
+      },
+      {
+        "ar": "ما تتعاركوش",
+        "tr": "ma tit3arkūsh",
+        "en": "Don't fight"
+      }
+    ]
   },
   {
     "ar": "اعتذر",
@@ -1583,7 +3296,20 @@
     "ex_ar": "نعتذر، ما كانش قصدي",
     "ex_tr": "ni3tadhir, ma kānsh gaSdi",
     "ex_en": "I apologize, I didn't mean it",
-    "note": "imperfect: نعتذر ni3tadhir (I apologize), يعتذر yi3tadhir (he apologizes). سامحني sāma7ni 'forgive me' is more colloquial."
+    "note": "imperfect: نعتذر ni3tadhir (I apologize), يعتذر yi3tadhir (he apologizes). سامحني sāma7ni 'forgive me' is more colloquial.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "اعتذرلها",
+        "tr": "i3tadhirlha",
+        "en": "Apologize to her"
+      },
+      {
+        "ar": "اعتذرت منه",
+        "tr": "i3tadhart minna",
+        "en": "I apologized to him"
+      }
+    ]
   },
   {
     "ar": "نصح",
@@ -1596,7 +3322,20 @@
     "ex_ar": "ننصحك ما تشريهاش",
     "ex_tr": "nunSa7ak ma tishrīhāsh",
     "ex_en": "I advise you not to buy it",
-    "note": "imperfect: ننصح nunSa7 (I advise), ينصح yunSa7 (he advises)"
+    "note": "imperfect: ننصح nunSa7 (I advise), ينصح yunSa7 (he advises)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "نصحني الطبيب نمشي كل يوم",
+        "tr": "naSa7ni T-Tbīb nimshi kull yōm",
+        "en": "The doctor advised me to walk every day"
+      },
+      {
+        "ar": "شن تنصحني؟",
+        "tr": "shin tinSa7ni?",
+        "en": "What do you advise me?"
+      }
+    ]
   },
   {
     "ar": "ورّى",
@@ -1609,7 +3348,20 @@
     "ex_ar": "ورّيني التصاور",
     "ex_tr": "warrīni t-tSāwir",
     "ex_en": "Show me the photos",
-    "note": "imperfect: نورّي nwarri (I show), يورّي ywarri (he shows)"
+    "note": "imperfect: نورّي nwarri (I show), يورّي ywarri (he shows)",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "ورّيني وين",
+        "tr": "warrīni wīn",
+        "en": "Show me where"
+      },
+      {
+        "ar": "وريته الحوش الجديد",
+        "tr": "warrētah l-7ōsh l-jdīd",
+        "en": "I showed him the new house"
+      }
+    ]
   },
   {
     "ar": "علّم",
@@ -1622,7 +3374,20 @@
     "ex_ar": "علّمني نطيّب البازين",
     "ex_tr": "3allamni nTayyib il-bāzīn",
     "ex_en": "He taught me how to cook bazeen",
-    "note": "imperfect: نعلّم n3allim (I teach), يعلّم y3allim (he teaches). Bazeen = classic Libyan dish."
+    "note": "imperfect: نعلّم n3allim (I teach), يعلّم y3allim (he teaches). Bazeen = classic Libyan dish.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "شكون علّمك العربي؟",
+        "tr": "shkūn 3allamak l-3arabi?",
+        "en": "Who taught you Arabic?"
+      },
+      {
+        "ar": "نعلّم في مدرسة",
+        "tr": "n3allim fi madrasa",
+        "en": "I teach at a school"
+      }
+    ]
   },
   {
     "ar": "سكت",
@@ -1635,7 +3400,20 @@
     "ex_ar": "اسكت شوية، نبي نسمع",
     "ex_tr": "iskit shwayya, nibbi nisma3",
     "ex_en": "Be quiet a moment, I want to listen",
-    "note": "imperfect: نسكت niskit (I am quiet), يسكت yiskit (he is quiet)"
+    "note": "imperfect: نسكت niskit (I am quiet), يسكت yiskit (he is quiet)",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "اسكت!",
+        "tr": "uskut!",
+        "en": "Be quiet!"
+      },
+      {
+        "ar": "سكت وما قال شي",
+        "tr": "skit w ma gāl shay",
+        "en": "He fell silent and said nothing"
+      }
+    ]
   },
   {
     "ar": "ترجم",
@@ -1648,7 +3426,20 @@
     "ex_ar": "ترجملي الجواب هذا",
     "ex_tr": "tarjimli j-jwāb hādha",
     "ex_en": "Translate this letter for me",
-    "note": "imperfect: نترجم ntarjim (I translate), يترجم ytarjim (he translates)"
+    "note": "imperfect: نترجم ntarjim (I translate), يترجم ytarjim (he translates)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "تقدر تترجملي؟",
+        "tr": "tagdar ttarjimli?",
+        "en": "Can you translate for me?"
+      },
+      {
+        "ar": "ترجمت الورقة للإنجليزي",
+        "tr": "tarjamt l-wraga l-l-inglīzi",
+        "en": "I translated the paper into English"
+      }
+    ]
   },
   {
     "ar": "دعى",
@@ -1661,7 +3452,20 @@
     "ex_ar": "ادعيلي في الامتحان",
     "ex_tr": "id3īli fil-imti7ān",
     "ex_en": "Pray for me in the exam",
-    "note": "imperfect: ندعي nid3i (I pray for), يدعي yid3i (he prays for)"
+    "note": "imperfect: ندعي nid3i (I pray for), يدعي yid3i (he prays for)",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "دعيتلك بالخير",
+        "tr": "d3ētlak b-l-khēr",
+        "en": "I prayed for good things for you"
+      },
+      {
+        "ar": "أمي ديما تدعيلي",
+        "tr": "ummi dīma tid3īli",
+        "en": "My mother always prays for me"
+      }
+    ]
   },
   {
     "ar": "حلف",
@@ -1674,7 +3478,20 @@
     "ex_ar": "نحلفلك ما قلتلهش",
     "ex_tr": "ni7liflak ma giltilhsh",
     "ex_en": "I swear to you I didn't tell him",
-    "note": "imperfect: نحلف ni7lif (I swear), يحلف yi7lif (he swears)"
+    "note": "imperfect: نحلف ni7lif (I swear), يحلف yi7lif (he swears)",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "والله نحلفلك",
+        "tr": "waḷḷāh n7liflak",
+        "en": "I swear to you by God"
+      },
+      {
+        "ar": "حلف ما يعاودش",
+        "tr": "7laf ma y3āwidsh",
+        "en": "He swore he wouldn't do it again"
+      }
+    ]
   },
   {
     "ar": "اشتكى",
@@ -1687,7 +3504,20 @@
     "ex_ar": "ديما يشتكي من الخدمة",
     "ex_tr": "dīma yishtki min il-khidma",
     "ex_en": "He's always complaining about work",
-    "note": "imperfect: نشتكي nishtki (I complain), يشتكي yishtki (he complains)"
+    "note": "imperfect: نشتكي nishtki (I complain), يشتكي yishtki (he complains)",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "اشتكى للمدير",
+        "tr": "ishtkā l-l-mudīr",
+        "en": "He complained to the manager"
+      },
+      {
+        "ar": "علاش ديما تشتكي؟",
+        "tr": "3lāsh dīma tishtki?",
+        "en": "Why are you always complaining?"
+      }
+    ]
   },
   {
     "ar": "وصّى",
@@ -1700,7 +3530,20 @@
     "ex_ar": "وصّيته يجيب الخبزة",
     "ex_tr": "waSSēta yjīb il-khubza",
     "ex_en": "I asked him to bring the bread",
-    "note": "imperfect: نوصّي nwaSSi (I instruct), يوصّي ywaSSi (he instructs)"
+    "note": "imperfect: نوصّي nwaSSi (I instruct), يوصّي ywaSSi (he instructs)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "وصّاني على الصغار",
+        "tr": "waSSāni 3ala S-Sghār",
+        "en": "He asked me to look after the kids"
+      },
+      {
+        "ar": "شن وصّتك أمك؟",
+        "tr": "shin waSSatak ummak?",
+        "en": "What did your mom ask you to do?"
+      }
+    ]
   },
   {
     "ar": "عرّف",
@@ -1713,7 +3556,20 @@
     "ex_ar": "نعرّفك على صاحبي",
     "ex_tr": "n3arrfak 3ala Sā7bi",
     "ex_en": "Let me introduce you to my friend",
-    "note": "imperfect: نعرّف n3arrif (I introduce), يعرّف y3arrif (he introduces)"
+    "note": "imperfect: نعرّف n3arrif (I introduce), يعرّف y3arrif (he introduces)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "عرّفني على مرته",
+        "tr": "3arrafni 3ala marta",
+        "en": "He introduced me to his wife"
+      },
+      {
+        "ar": "عرّف روحك",
+        "tr": "3arrif rū7ak",
+        "en": "Introduce yourself"
+      }
+    ]
   },
   {
     "ar": "فدلك",
@@ -1726,7 +3582,20 @@
     "ex_ar": "ما تزعلش، قاعد نفدلك",
     "ex_tr": "ma tiz3alsh, gā3id nfadlik",
     "ex_en": "Don't be upset, I'm just joking",
-    "note": "imperfect: نفدلك nfadlik (I joke), يفدلك yfadlik (he jokes). Libyan-specific; فدلكة fadlaka = joke, joking."
+    "note": "imperfect: نفدلك nfadlik (I joke), يفدلك yfadlik (he jokes). Libyan-specific; فدلكة fadlaka = joke, joking.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "تفدلك ولا جد؟",
+        "tr": "tfadlik walla jadd?",
+        "en": "Are you kidding or serious?"
+      },
+      {
+        "ar": "ديما يفدلك مع الصغار",
+        "tr": "dīma yfadlik ma3 S-Sghār",
+        "en": "He's always joking with the kids"
+      }
+    ]
   },
   {
     "ar": "غسل",
@@ -1739,7 +3608,20 @@
     "ex_ar": "اغسل يديك قبل الماكلة",
     "ex_tr": "ughsul yiddēk gbal il-mākla",
     "ex_en": "Wash your hands before eating",
-    "note": "imperfect: نغسل nughsul (I wash), يغسل yughsul (he washes)"
+    "note": "imperfect: نغسل nughsul (I wash), يغسل yughsul (he washes)",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "غسلت الصحون",
+        "tr": "ghsalt S-S7ūn",
+        "en": "I washed the dishes"
+      },
+      {
+        "ar": "باش نغسل الكرهبة",
+        "tr": "bāsh nighsil l-karhba",
+        "en": "I'm going to wash the car"
+      }
+    ]
   },
   {
     "ar": "تحمّم",
@@ -1752,7 +3634,20 @@
     "ex_ar": "نتحمّم وننوض للخدمة",
     "ex_tr": "nit7ammam w nnūD lil-khidma",
     "ex_en": "I shower and head off to work",
-    "note": "imperfect: نتحمّم nit7ammam (I bathe), يتحمّم yit7ammam (he bathes)"
+    "note": "imperfect: نتحمّم nit7ammam (I bathe), يتحمّم yit7ammam (he bathes)",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "تحمّمت وطلعت",
+        "tr": "t7ammamt w Tla3t",
+        "en": "I showered and went out"
+      },
+      {
+        "ar": "الصغار تحمّموا؟",
+        "tr": "S-Sghār t7ammamu?",
+        "en": "Have the kids had their bath?"
+      }
+    ]
   },
   {
     "ar": "طيّب",
@@ -1765,7 +3660,20 @@
     "ex_ar": "أمي قاعدة تطيّب في المبكبكة",
     "ex_tr": "ummi gā3da tTayyib fil-mbakbka",
     "ex_en": "My mum is cooking mbakbka",
-    "note": "imperfect: نطيّب nTayyib (I cook), يطيّب yTayyib (he cooks). Libyan word for 'cook' (طبخ also understood). Mbakbka = Libyan pasta dish."
+    "note": "imperfect: نطيّب nTayyib (I cook), يطيّب yTayyib (he cooks). Libyan word for 'cook' (طبخ also understood). Mbakbka = Libyan pasta dish.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "شن طيّبتي اليوم؟",
+        "tr": "shin Tayyabti l-yōm?",
+        "en": "What did you cook today?"
+      },
+      {
+        "ar": "نعرف نطيّب المبكبكة",
+        "tr": "na3raf nTayyib l-mbakbka",
+        "en": "I know how to cook mbakbka"
+      }
+    ]
   },
   {
     "ar": "كنس",
@@ -1778,7 +3686,20 @@
     "ex_ar": "اكنس الحوش قبل ما يجوا الضيوف",
     "ex_tr": "iknis il-7ōsh gbal ma yju iD-Dyūf",
     "ex_en": "Sweep the house before the guests come",
-    "note": "imperfect: نكنس niknis (I sweep), يكنس yiknis (he sweeps)"
+    "note": "imperfect: نكنس niknis (I sweep), يكنس yiknis (he sweeps)",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "كنست الدار",
+        "tr": "knast d-dār",
+        "en": "I swept the room"
+      },
+      {
+        "ar": "شكون باش يكنس؟",
+        "tr": "shkūn bāsh yuknus?",
+        "en": "Who's going to sweep?"
+      }
+    ]
   },
   {
     "ar": "مسح",
@@ -1791,7 +3712,20 @@
     "ex_ar": "امسح الطاولة بالشيفون",
     "ex_tr": "imsa7 iT-Tāwla bish-shīfūn",
     "ex_en": "Wipe the table with the cloth",
-    "note": "imperfect: نمسح nimsa7 (I wipe), يمسح yimsa7 (he wipes)"
+    "note": "imperfect: نمسح nimsa7 (I wipe), يمسح yimsa7 (he wipes)",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "امسح دموعك",
+        "tr": "imsa7 dmū3ak",
+        "en": "Wipe your tears"
+      },
+      {
+        "ar": "مسحت المسج بالغلط",
+        "tr": "msa7t l-masij b-l-ghalaT",
+        "en": "I deleted the message by mistake"
+      }
+    ]
   },
   {
     "ar": "نظّف",
@@ -1804,7 +3738,20 @@
     "ex_ar": "نهار الجمعة ننظّفوا الحوش",
     "ex_tr": "nhār ij-jum3a nnaDHDHfu l-7ōsh",
     "ex_en": "On Friday we clean the house",
-    "note": "imperfect: ننظّف nnaDHDHif (I clean), ينظّف ynaDHDHif (he cleans)"
+    "note": "imperfect: ننظّف nnaDHDHif (I clean), ينظّف ynaDHDHif (he cleans)",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "نظّفت المطبخ",
+        "tr": "naDHDHaft l-maTbakh",
+        "en": "I cleaned the kitchen"
+      },
+      {
+        "ar": "لازم ننظّف الحوش قبل العيد",
+        "tr": "lāzim nnaDHDHif l-7ōsh gabl l-3īd",
+        "en": "We must clean the house before Eid"
+      }
+    ]
   },
   {
     "ar": "رتّب",
@@ -1817,7 +3764,20 @@
     "ex_ar": "رتّب دارك، مكركبة!",
     "ex_tr": "rattib dārak, mkarkba!",
     "ex_en": "Tidy your room, it's a mess!",
-    "note": "imperfect: نرتّب nrattib (I tidy), يرتّب yrattib (he tidies). دار dār = room in Libyan."
+    "note": "imperfect: نرتّب nrattib (I tidy), يرتّب yrattib (he tidies). دار dār = room in Libyan.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "رتّبت الخزانة",
+        "tr": "rattabt l-khzāna",
+        "en": "I tidied the wardrobe"
+      },
+      {
+        "ar": "رتّب أمورك",
+        "tr": "rattib umūrak",
+        "en": "Get your affairs in order"
+      }
+    ]
   },
   {
     "ar": "نشر",
@@ -1830,7 +3790,20 @@
     "ex_ar": "انشر الحوايج فوق السطح",
     "ex_tr": "inshir il-7wāyij fōg is-saT7",
     "ex_en": "Hang the clothes on the roof",
-    "note": "imperfect: ننشر ninshir (I hang out the laundry), ينشر yinshir (he hangs out the laundry)"
+    "note": "imperfect: ننشر ninshir (I hang out the laundry), ينشر yinshir (he hangs out the laundry)",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "نشرت الحوايج الصبح",
+        "tr": "nshart l-7wāyij S-Sbā7",
+        "en": "I hung the laundry out this morning"
+      },
+      {
+        "ar": "الحوايج منشورة برّا",
+        "tr": "l-7wāyij manshūra barra",
+        "en": "The clothes are hanging outside"
+      }
+    ]
   },
   {
     "ar": "طوى",
@@ -1843,7 +3816,20 @@
     "ex_ar": "اطوي الحوايج وحطهم في الخزانة",
     "ex_tr": "iTwi l-7wāyij w 7uTThum fil-khzāna",
     "ex_en": "Fold the clothes and put them in the wardrobe",
-    "note": "imperfect: نطوي niTwi (I fold), يطوي yiTwi (he folds)"
+    "note": "imperfect: نطوي niTwi (I fold), يطوي yiTwi (he folds)",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "طويت الحوايج",
+        "tr": "Twēt l-7wāyij",
+        "en": "I folded the clothes"
+      },
+      {
+        "ar": "اطوي الورقة في زوز",
+        "tr": "iTwi l-wraga fi zūz",
+        "en": "Fold the paper in two"
+      }
+    ]
   },
   {
     "ar": "كوى",
@@ -1856,7 +3842,20 @@
     "ex_ar": "لازم نكوي القميجة قبل العرس",
     "ex_tr": "lāzim nikwi l-gmīja gbal il-3ars",
     "ex_en": "I have to iron the shirt before the wedding",
-    "note": "imperfect: نكوي nikwi (I iron), يكوي yikwi (he irons)"
+    "note": "imperfect: نكوي nikwi (I iron), يكوي yikwi (he irons)",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "كويت القميجة",
+        "tr": "kwēt l-gmīja",
+        "en": "I ironed the shirt"
+      },
+      {
+        "ar": "شكون يكوي الحوايج عندكم؟",
+        "tr": "shkūn yikwi l-7wāyij 3andkum?",
+        "en": "Who irons the clothes at your place?"
+      }
+    ]
   },
   {
     "ar": "فاق",
@@ -1869,7 +3868,20 @@
     "ex_ar": "فقت الساعة ستة الصبح",
     "ex_tr": "fugt is-sā3a sitta S-SubH",
     "ex_en": "I woke up at six in the morning",
-    "note": "imperfect: نفيق nfīg (I wake up), يفيق yfīg (he wakes up). ق = g; ناض nāD = get up (out of bed)."
+    "note": "imperfect: نفيق nfīg (I wake up), يفيق yfīg (he wakes up). ق = g; ناض nāD = get up (out of bed).",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "فقت؟",
+        "tr": "fugt?",
+        "en": "Are you awake?"
+      },
+      {
+        "ar": "فاق من النوم معصّب",
+        "tr": "fāg min n-nōm m3aSSab",
+        "en": "He woke up grumpy"
+      }
+    ]
   },
   {
     "ar": "فيّق",
@@ -1882,7 +3894,20 @@
     "ex_ar": "فيّقني بكري غدوة",
     "ex_tr": "fayyigni bakri ghudwa",
     "ex_en": "Wake me up early tomorrow",
-    "note": "imperfect: نفيّق nfayyig (I wake someone up), يفيّق yfayyig (he wakes someone up)"
+    "note": "imperfect: نفيّق nfayyig (I wake someone up), يفيّق yfayyig (he wakes someone up)",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "ما تفيّقش الصغير",
+        "tr": "ma tfayyigsh S-Sghīr",
+        "en": "Don't wake the baby"
+      },
+      {
+        "ar": "فيّقتني بكري هلبة",
+        "tr": "fayyagtni bakri hallba",
+        "en": "You woke me up way too early"
+      }
+    ]
   },
   {
     "ar": "لبس",
@@ -1895,7 +3920,20 @@
     "ex_ar": "البس حاجة سخونة، الدنيا برد",
     "ex_tr": "ilbis 7āja skhūna, id-dinya bard",
     "ex_en": "Wear something warm, it's cold",
-    "note": "imperfect: نلبس nilbis (I wear), يلبس yilbis (he wears)"
+    "note": "imperfect: نلبس nilbis (I wear), يلبس yilbis (he wears)",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "شن باش تلبس للعرس؟",
+        "tr": "shin bāsh tilbis l-l-3ars?",
+        "en": "What are you wearing to the wedding?"
+      },
+      {
+        "ar": "لبست الجاكيتة الجديدة",
+        "tr": "libist l-jākīta l-jdīda",
+        "en": "I put on the new jacket"
+      }
+    ]
   },
   {
     "ar": "نحّى",
@@ -1908,7 +3946,20 @@
     "ex_ar": "نحّي سباطك قبل ما تخش",
     "ex_tr": "na77i sabbāTak gbal ma tkhushsh",
     "ex_en": "Take off your shoes before you come in",
-    "note": "imperfect: ننحّي nna77i (I take off), ينحّي yna77i (he takes off). Libyan/Maghrebi; سباط sabbāT = shoes."
+    "note": "imperfect: ننحّي nna77i (I take off), ينحّي yna77i (he takes off). Libyan/Maghrebi; سباط sabbāT = shoes.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "نحّي يدك",
+        "tr": "na77i yaddak",
+        "en": "Move your hand away"
+      },
+      {
+        "ar": "نحّيت الجاكيتة، سخون",
+        "tr": "na77ēt l-jākīta, skhūn",
+        "en": "I took off the jacket, it's hot"
+      }
+    ]
   },
   {
     "ar": "مشّط",
@@ -1921,7 +3972,20 @@
     "ex_ar": "مشّطي شعرك قبل المدرسة",
     "ex_tr": "mashshTi sha3rik gbal il-madrasa",
     "ex_en": "Comb your hair before school (to a girl)",
-    "note": "imperfect: نمشّط nmashshiT (I comb), يمشّط ymashshiT (he combs)"
+    "note": "imperfect: نمشّط nmashshiT (I comb), يمشّط ymashshiT (he combs)",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "مشّطت شعري",
+        "tr": "mashshaTt sha3ri",
+        "en": "I combed my hair"
+      },
+      {
+        "ar": "وين المشط؟ نبي نمشّط",
+        "tr": "wīn l-mushT? nibbi nmashshiT",
+        "en": "Where's the comb? I want to comb my hair"
+      }
+    ]
   },
   {
     "ar": "حلق",
@@ -1934,7 +3998,20 @@
     "ex_ar": "باش نحلق عند الحجّام",
     "ex_tr": "bash ni7lig 3and il-7ajjām",
     "ex_en": "I'm going to get a haircut at the barber's",
-    "note": "imperfect: نحلق ni7lig (I shave), يحلق yi7lig (he shaves). حجّام 7ajjām = barber; ق = g."
+    "note": "imperfect: نحلق ni7lig (I shave), يحلق yi7lig (he shaves). حجّام 7ajjām = barber; ق = g.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "حلقت لحيتي",
+        "tr": "7lagt li7iti",
+        "en": "I shaved my beard"
+      },
+      {
+        "ar": "وين تحلق؟",
+        "tr": "wīn ti7lig?",
+        "en": "Where do you get your hair cut?"
+      }
+    ]
   },
   {
     "ar": "فطر",
@@ -1947,7 +4024,20 @@
     "ex_ar": "في رمضان نفطروا مع المغرب",
     "ex_tr": "fi ramaDān nifTru ma3 il-maghrib",
     "ex_en": "In Ramadan we break the fast at sunset",
-    "note": "imperfect: نفطر nifTar (I have breakfast), يفطر yifTar (he has breakfast)"
+    "note": "imperfect: نفطر nifTar (I have breakfast), يفطر yifTar (he has breakfast)",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "فطرت؟",
+        "tr": "fTart?",
+        "en": "Have you had breakfast?"
+      },
+      {
+        "ar": "ما فطرتش اليوم",
+        "tr": "ma fTartsh l-yōm",
+        "en": "I didn't have breakfast today"
+      }
+    ]
   },
   {
     "ar": "تغدّى",
@@ -1960,7 +4050,20 @@
     "ex_ar": "تعال تغدّى معانا",
     "ex_tr": "ta3āl tghaddā m3āna",
     "ex_en": "Come have lunch with us",
-    "note": "imperfect: نتغدّى nitghaddā (I have lunch), يتغدّى yitghaddā (he has lunch)"
+    "note": "imperfect: نتغدّى nitghaddā (I have lunch), يتغدّى yitghaddā (he has lunch)",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "تغدّيت؟",
+        "tr": "tghaddēt?",
+        "en": "Have you had lunch?"
+      },
+      {
+        "ar": "باش نتغدّوا برّا",
+        "tr": "bāsh nitghaddu barra",
+        "en": "We'll have lunch out"
+      }
+    ]
   },
   {
     "ar": "تعشّى",
@@ -1973,7 +4076,20 @@
     "ex_ar": "ما تعشّيتش، جيعان",
     "ex_tr": "ma t3ashshētsh, jī3ān",
     "ex_en": "I haven't had dinner, I'm hungry",
-    "note": "imperfect: نتعشّى nit3ashshā (I have dinner), يتعشّى yit3ashshā (he has dinner)"
+    "note": "imperfect: نتعشّى nit3ashshā (I have dinner), يتعشّى yit3ashshā (he has dinner)",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "تعشّينا بكري",
+        "tr": "t3ashshēna bakri",
+        "en": "We had dinner early"
+      },
+      {
+        "ar": "شن باش نتعشّوا؟",
+        "tr": "shin bāsh nit3ashshu?",
+        "en": "What are we having for dinner?"
+      }
+    ]
   },
   {
     "ar": "سخّن",
@@ -1986,7 +4102,20 @@
     "ex_ar": "سخّن الماكلة في الميكروويف",
     "ex_tr": "sakhkhin il-mākla fil-mīkrowēv",
     "ex_en": "Heat up the food in the microwave",
-    "note": "imperfect: نسخّن nsakhkhin (I heat up), يسخّن ysakhkhin (he heats up)"
+    "note": "imperfect: نسخّن nsakhkhin (I heat up), يسخّن ysakhkhin (he heats up)",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "نسخّنلك الشاهي؟",
+        "tr": "nsakhkhinlak sh-shāhi?",
+        "en": "Shall I warm up the tea for you?"
+      },
+      {
+        "ar": "الماتور قاعد يسخّن",
+        "tr": "l-mātūr gā3id ysakhkhin",
+        "en": "The engine is overheating"
+      }
+    ]
   },
   {
     "ar": "برّد",
@@ -1999,7 +4128,20 @@
     "ex_ar": "حط المية في الفريجيدير تبرّد",
     "ex_tr": "7uTT il-mayya fil-frījīdēr tbarrid",
     "ex_en": "Put the water in the fridge to chill",
-    "note": "imperfect: نبرّد nbarrid (I cool), يبرّد ybarrid (he cools). فريجيدير frījīdēr = fridge (from Frigidaire)."
+    "note": "imperfect: نبرّد nbarrid (I cool), يبرّد ybarrid (he cools). فريجيدير frījīdēr = fridge (from Frigidaire).",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "برّد روحك",
+        "tr": "barrid rū7ak",
+        "en": "Calm down (cool yourself)"
+      },
+      {
+        "ar": "خلّي الشاهي يبرّد شوية",
+        "tr": "khalli sh-shāhi ybarrid shwayya",
+        "en": "Let the tea cool down a bit"
+      }
+    ]
   },
   {
     "ar": "شعّل",
@@ -2012,7 +4154,20 @@
     "ex_ar": "شعّل الضي، الدنيا ظلمة",
     "ex_tr": "sha33il iD-Dayy, id-dinya DHalma",
     "ex_en": "Turn on the light, it's dark",
-    "note": "imperfect: نشعّل nsha33il (I turn on), يشعّل ysha33il (he turns on). ضي Dayy = light."
+    "note": "imperfect: نشعّل nsha33il (I turn on), يشعّل ysha33il (he turns on). ضي Dayy = light.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "شعّل المكيّف",
+        "tr": "sha33il l-mukayyif",
+        "en": "Turn on the AC"
+      },
+      {
+        "ar": "ما تشعّلش الضي، الصغير راقد",
+        "tr": "ma tsha33ilsh D-Dāw, S-Sghīr rāgid",
+        "en": "Don't turn on the light, the baby's asleep"
+      }
+    ]
   },
   {
     "ar": "طفى",
@@ -2025,7 +4180,20 @@
     "ex_ar": "اطفي التلفزيون وارقد",
     "ex_tr": "iTfi t-tilfizyōn w urgud",
     "ex_en": "Turn off the TV and go to sleep",
-    "note": "imperfect: نطفي niTfi (I turn off), يطفي yiTfi (he turns off)"
+    "note": "imperfect: نطفي niTfi (I turn off), يطفي yiTfi (he turns off)",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "طفيت الكوشة؟",
+        "tr": "Tfēt l-kūsha?",
+        "en": "Did you turn off the oven?"
+      },
+      {
+        "ar": "الضي طافي",
+        "tr": "D-Dāw Tāfi",
+        "en": "The light is off"
+      }
+    ]
   },
   {
     "ar": "صلّى",
@@ -2038,7 +4206,20 @@
     "ex_ar": "مشى يصلّي الجمعة في الجامع",
     "ex_tr": "mshā ySalli l-jum3a fil-jāmi3",
     "ex_en": "He went to pray Friday prayers at the mosque",
-    "note": "imperfect: نصلّي nSalli (I pray), يصلّي ySalli (he prays)"
+    "note": "imperfect: نصلّي nSalli (I pray), يصلّي ySalli (he prays)",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "صلّيت العصر؟",
+        "tr": "Sallēt l-3aSr?",
+        "en": "Have you prayed the afternoon prayer?"
+      },
+      {
+        "ar": "نصلّي ونجي",
+        "tr": "nSalli w nji",
+        "en": "I'll pray and come"
+      }
+    ]
   },
   {
     "ar": "قضى",
@@ -2051,7 +4232,20 @@
     "ex_ar": "مشيت نقضي من السوق",
     "ex_tr": "mshīt nigDi min is-sūg",
     "ex_en": "I went to get groceries at the market",
-    "note": "imperfect: نقضي nigDi (I shop), يقضي yigDi (he shops). Libyan/Maghrebi; قضية gaDya = groceries/errands. ق = g."
+    "note": "imperfect: نقضي nigDi (I shop), يقضي yigDi (he shops). Libyan/Maghrebi; قضية gaDya = groceries/errands. ق = g.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "باش نقضي من السوبرماركت",
+        "tr": "bāsh nugDi min s-supermarket",
+        "en": "I'm going to shop at the supermarket"
+      },
+      {
+        "ar": "قضيت كل شي؟",
+        "tr": "gDēt kull shay?",
+        "en": "Did you get everything?"
+      }
+    ]
   },
   {
     "ar": "ربّى",
@@ -2064,7 +4258,20 @@
     "ex_ar": "ربّت سبعة صغار وحدها",
     "ex_tr": "rabbat sab3a Sghār wa7idha",
     "ex_en": "She raised seven kids on her own",
-    "note": "imperfect: نربّي nrabbi (I raise), يربّي yrabbi (he raises)"
+    "note": "imperfect: نربّي nrabbi (I raise), يربّي yrabbi (he raises)",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "ربّاه جدّه",
+        "tr": "rabbāh jidda",
+        "en": "His grandfather raised him"
+      },
+      {
+        "ar": "نربّي في دجاج",
+        "tr": "nrabbi fi djāj",
+        "en": "I raise chickens"
+      }
+    ]
   },
   {
     "ar": "سقى",
@@ -2077,7 +4284,20 @@
     "ex_ar": "اسقي الشجر في العشية",
     "ex_tr": "isgi sh-shajar fil-3ashiyya",
     "ex_en": "Water the trees in the late afternoon",
-    "note": "imperfect: نسقي nisgi (I water), يسقي yisgi (he waters). ق = g."
+    "note": "imperfect: نسقي nisgi (I water), يسقي yisgi (he waters). ق = g.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "سقيت الورد؟",
+        "tr": "sgēt l-ward?",
+        "en": "Did you water the flowers?"
+      },
+      {
+        "ar": "نسقي الجنان كل يوم",
+        "tr": "nisgi l-jnān kull yōm",
+        "en": "I water the garden every day"
+      }
+    ]
   },
   {
     "ar": "حضّر",
@@ -2090,7 +4310,20 @@
     "ex_ar": "قاعدة تحضّر في الشاهي للضيوف",
     "ex_tr": "gā3da t7aDDir fish-shāhi liD-Dyūf",
     "ex_en": "She's preparing tea for the guests",
-    "note": "imperfect: نحضّر n7aDDir (I prepare), يحضّر y7aDDir (he prepares)"
+    "note": "imperfect: نحضّر n7aDDir (I prepare), يحضّر y7aDDir (he prepares)",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "حضّرت روحك للامتحان؟",
+        "tr": "7aDDart rū7ak l-l-imti7ān?",
+        "en": "Did you prepare for the exam?"
+      },
+      {
+        "ar": "باش نحضّر العشا",
+        "tr": "bāsh n7aDDir l-3sha",
+        "en": "I'll prepare dinner"
+      }
+    ]
   },
   {
     "ar": "جهّز",
@@ -2103,7 +4336,20 @@
     "ex_ar": "جهّز روحك، باش نطلعوا",
     "ex_tr": "jahhiz rū7ak, bash niTla3u",
     "ex_en": "Get yourself ready, we're going out",
-    "note": "imperfect: نجهّز njahhiz (I get ready), يجهّز yjahhiz (he gets ready)"
+    "note": "imperfect: نجهّز njahhiz (I get ready), يجهّز yjahhiz (he gets ready)",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "جهّزت الشنطة؟",
+        "tr": "jahhazt sh-shanTa?",
+        "en": "Have you packed the bag?"
+      },
+      {
+        "ar": "الماكلة جاهزة",
+        "tr": "l-mākla jāhza",
+        "en": "The food is ready"
+      }
+    ]
   },
   {
     "ar": "عجن",
@@ -2116,7 +4362,20 @@
     "ex_ar": "جدتي تعجن الخبزة كل صبح",
     "ex_tr": "jaddti ti3jin il-khubza kull SubH",
     "ex_en": "My grandmother kneads the bread every morning",
-    "note": "imperfect: نعجن ni3jin (I knead), يعجن yi3jin (he kneads)"
+    "note": "imperfect: نعجن ni3jin (I knead), يعجن yi3jin (he kneads)",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "عجنت العجين",
+        "tr": "3jant l-3ajīn",
+        "en": "I kneaded the dough"
+      },
+      {
+        "ar": "تعرف تعجن؟",
+        "tr": "ta3raf ta3jin?",
+        "en": "Do you know how to knead?"
+      }
+    ]
   },
   {
     "ar": "قطّع",
@@ -2129,7 +4388,20 @@
     "ex_ar": "قطّع البصل رقيّق",
     "ex_tr": "gaTTa3 il-baSal rgayyig",
     "ex_en": "Chop the onion finely",
-    "note": "imperfect: نقطّع ngaTTi3 (I cut up), يقطّع ygaTTi3 (he cuts up). ق = g."
+    "note": "imperfect: نقطّع ngaTTi3 (I cut up), يقطّع ygaTTi3 (he cuts up). ق = g.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "قطّعت يدي بالسكينة",
+        "tr": "gaTTa3t yaddi b-s-skīna",
+        "en": "I cut my hand with the knife"
+      },
+      {
+        "ar": "قطّعلي اللحم",
+        "tr": "gaTTa3li l-la7am",
+        "en": "Cut up the meat for me"
+      }
+    ]
   },
   {
     "ar": "قصّ",
@@ -2142,7 +4414,20 @@
     "ex_ar": "قصّيت شعري قصير",
     "ex_tr": "gaSSēt sha3ri gSīr",
     "ex_en": "I cut my hair short",
-    "note": "imperfect: نقص ngiSS (I cut), يقص ygiSS (he cuts)"
+    "note": "imperfect: نقص ngiSS (I cut), يقص ygiSS (he cuts)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "قصّ الضفر متاعك",
+        "tr": "guSS D-Dfur mtā3ak",
+        "en": "Cut your nails"
+      },
+      {
+        "ar": "قصّيت الورقة بالمقص",
+        "tr": "gaSSēt l-wraga b-l-mgaSS",
+        "en": "I cut the paper with scissors"
+      }
+    ]
   },
   {
     "ar": "قشّر",
@@ -2155,7 +4440,20 @@
     "ex_ar": "قشّر البطاطا وقطّعها",
     "ex_tr": "gashshir il-baTāTa w gaTTa3ha",
     "ex_en": "Peel the potatoes and chop them",
-    "note": "imperfect: نقشّر ngashshir (I peel), يقشّر ygashshir (he peels)"
+    "note": "imperfect: نقشّر ngashshir (I peel), يقشّر ygashshir (he peels)",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "نقشّرلك برتقالة؟",
+        "tr": "ngashshirlak burtgāla?",
+        "en": "Shall I peel you an orange?"
+      },
+      {
+        "ar": "قشّرت البطاطا",
+        "tr": "gashshart l-baTāTa",
+        "en": "I peeled the potatoes"
+      }
+    ]
   },
   {
     "ar": "خلط",
@@ -2168,7 +4466,20 @@
     "ex_ar": "اخلط الدقيق مع المية",
     "ex_tr": "ukhluT id-dgīg ma3 il-mayya",
     "ex_en": "Mix the flour with the water",
-    "note": "imperfect: نخلط nukhluT (I mix), يخلط yukhluT (he mixes)"
+    "note": "imperfect: نخلط nukhluT (I mix), يخلط yukhluT (he mixes)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "ما تخلطش الكلام",
+        "tr": "ma tukhluTsh l-klām",
+        "en": "Don't mix things up"
+      },
+      {
+        "ar": "خلطت السكر مع الحليب",
+        "tr": "khlaTt s-sukkar ma3 l-7līb",
+        "en": "I mixed the sugar with the milk"
+      }
+    ]
   },
   {
     "ar": "قلى",
@@ -2181,7 +4492,20 @@
     "ex_ar": "قاعدة تقلي في الحوت",
     "ex_tr": "gā3da tigli fil-7ūt",
     "ex_en": "She's frying fish",
-    "note": "imperfect: نقلي nigli (I fry), يقلي yigli (he fries). ق = g."
+    "note": "imperfect: نقلي nigli (I fry), يقلي yigli (he fries). ق = g.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "نقلوا البطاطا",
+        "tr": "niglu l-baTāTa",
+        "en": "We fry the potatoes"
+      },
+      {
+        "ar": "قليت بيض للفطور",
+        "tr": "glēt bēD l-l-fTūr",
+        "en": "I fried eggs for breakfast"
+      }
+    ]
   },
   {
     "ar": "شوى",
@@ -2194,7 +4518,20 @@
     "ex_ar": "باش نشووا لحم في البحر",
     "ex_tr": "bash nishwu l7am fil-ba7r",
     "ex_en": "We're going to grill meat at the beach",
-    "note": "imperfect: نشوي nishwi (I grill), يشوي yishwi (he grills)"
+    "note": "imperfect: نشوي nishwi (I grill), يشوي yishwi (he grills)",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "شوينا لحم في الجنان",
+        "tr": "shwēna la7am fi l-jnān",
+        "en": "We grilled meat in the garden"
+      },
+      {
+        "ar": "الحوت المشوي بنين",
+        "tr": "l-7ūt l-mashwi bnīn",
+        "en": "Grilled fish is tasty"
+      }
+    ]
   },
   {
     "ar": "غلّى",
@@ -2207,7 +4544,20 @@
     "ex_ar": "غلّي المية للشاهي",
     "ex_tr": "ghalli l-mayya lish-shāhi",
     "ex_en": "Boil the water for the tea",
-    "note": "imperfect: نغلّي nghalli (I boil), يغلّي yghalli (he boils)"
+    "note": "imperfect: نغلّي nghalli (I boil), يغلّي yghalli (he boils)",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "المية غلّت؟",
+        "tr": "l-mayya ghallat?",
+        "en": "Has the water boiled?"
+      },
+      {
+        "ar": "غلّيت الحليب",
+        "tr": "ghallēt l-7līb",
+        "en": "I boiled the milk"
+      }
+    ]
   },
   {
     "ar": "رقّد",
@@ -2220,7 +4570,20 @@
     "ex_ar": "رقّدت الصغير بعد العشا",
     "ex_tr": "raggadt iS-Sghīr ba3d il-3asha",
     "ex_en": "I put the little one to sleep after dinner",
-    "note": "imperfect: نرقّد nraggid (I put to sleep), يرقّد yraggid (he puts to sleep). Causative of رقد."
+    "note": "imperfect: نرقّد nraggid (I put to sleep), يرقّد yraggid (he puts to sleep). Causative of رقد.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "رقّد الصغار بكري",
+        "tr": "raggid S-Sghār bakri",
+        "en": "Put the kids to bed early"
+      },
+      {
+        "ar": "باش نرقّده ونجي",
+        "tr": "bāsh nraggda w nji",
+        "en": "I'll put him to sleep and come"
+      }
+    ]
   },
   {
     "ar": "تعب",
@@ -2233,7 +4596,25 @@
     "ex_ar": "تعبت من الخدمة اليوم",
     "ex_tr": "t3abt min il-khidma il-yōm",
     "ex_en": "I got tired from work today",
-    "note": "imperfect: نتعب nit3ab (I get tired), يتعب yit3ab (he gets tired)"
+    "note": "imperfect: نتعب nit3ab (I get tired), يتعب yit3ab (he gets tired)",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "تعبت؟",
+        "tr": "t3abt?",
+        "en": "Are you tired?"
+      },
+      {
+        "ar": "تعبنا في الطريق",
+        "tr": "t3abna fi T-Trīg",
+        "en": "We got tired on the road"
+      },
+      {
+        "ar": "ما تتعبش روحك",
+        "tr": "ma tit3absh rū7ak",
+        "en": "Don't trouble yourself"
+      }
+    ]
   },
   {
     "ar": "ارتاح",
@@ -2246,7 +4627,20 @@
     "ex_ar": "ارتاح شوية، تو نكمّلوا",
     "ex_tr": "irtā7 shwayya, tawwa nkamlu",
     "ex_en": "Rest a little, we'll finish soon",
-    "note": "imperfect: نرتاح nirtā7 (I rest), يرتاح yirtā7 (he rests)"
+    "note": "imperfect: نرتاح nirtā7 (I rest), يرتاح yirtā7 (he rests)",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "ارتحت شوية؟",
+        "tr": "irta7t shwayya?",
+        "en": "Did you rest a bit?"
+      },
+      {
+        "ar": "باش نرتاح الويكاند",
+        "tr": "bāsh nirtā7 l-wīkand",
+        "en": "I'll relax on the weekend"
+      }
+    ]
   },
   {
     "ar": "غطّى",
@@ -2259,7 +4653,20 @@
     "ex_ar": "غطّي الماكلة من الذبّان",
     "ex_tr": "ghaTTi l-mākla min idh-dhibbān",
     "ex_en": "Cover the food from the flies",
-    "note": "imperfect: نغطّي nghaTTi (I cover), يغطّي yghaTTi (he covers)"
+    "note": "imperfect: نغطّي nghaTTi (I cover), يغطّي yghaTTi (he covers)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "غطّيت الصغير؟",
+        "tr": "ghaTTēt S-Sghīr?",
+        "en": "Did you cover the baby?"
+      },
+      {
+        "ar": "غطّي راسك، برد",
+        "tr": "ghaTTi rāsak, bard",
+        "en": "Cover your head, it's cold"
+      }
+    ]
   },
   {
     "ar": "لعب",
@@ -2272,7 +4679,25 @@
     "ex_ar": "الصغار قاعدين يلعبوا كورة برّا",
     "ex_tr": "iS-Sghār gā3dīn yil3bu kūra barra",
     "ex_en": "The kids are playing football outside",
-    "note": "imperfect: نلعب nil3ab (I play), يلعب yil3ab (he plays)"
+    "note": "imperfect: نلعب nil3ab (I play), يلعب yil3ab (he plays)",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "تلعب كورة؟",
+        "tr": "til3ab kūra?",
+        "en": "Do you play football?"
+      },
+      {
+        "ar": "لعبنا ورق للصبح",
+        "tr": "l3abna wrag l-S-Sbā7",
+        "en": "We played cards till morning"
+      },
+      {
+        "ar": "ما تلعبش في الشارع",
+        "tr": "ma til3absh fi sh-shāri3",
+        "en": "Don't play in the street"
+      }
+    ]
   },
   {
     "ar": "تفرّج",
@@ -2285,7 +4710,20 @@
     "ex_ar": "قاعد نتفرّج في الماتش",
     "ex_tr": "gā3id nitfarraj fil-mātsh",
     "ex_en": "I'm watching the match",
-    "note": "imperfect: نتفرّج nitfarraj (I watch), يتفرّج yitfarraj (he watches)"
+    "note": "imperfect: نتفرّج nitfarraj (I watch), يتفرّج yitfarraj (he watches)",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "تفرّجت في الفيلم؟",
+        "tr": "tfarrajt fi l-film?",
+        "en": "Did you watch the film?"
+      },
+      {
+        "ar": "باش نتفرّجوا في الماتش مع بعض",
+        "tr": "bāsh nitfarrju fi l-mātsh ma3 ba3D",
+        "en": "We'll watch the match together"
+      }
+    ]
   },
   {
     "ar": "سهر",
@@ -2298,7 +4736,20 @@
     "ex_ar": "سهرنا عند خالي لنص الليل",
     "ex_tr": "siharna 3and khāli l-nuSS il-lēl",
     "ex_en": "We spent the evening at my uncle's until midnight",
-    "note": "imperfect: نسهر nis-har (I stay up late), يسهر yis-har (he stays up late)"
+    "note": "imperfect: نسهر nis-har (I stay up late), يسهر yis-har (he stays up late)",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "سهرت البارح؟",
+        "tr": "sihirt l-bāre7?",
+        "en": "Did you stay up late last night?"
+      },
+      {
+        "ar": "ما تسهرش هلبة",
+        "tr": "ma tis'harsh hallba",
+        "en": "Don't stay up too late"
+      }
+    ]
   },
   {
     "ar": "كبّس",
@@ -2311,7 +4762,20 @@
     "ex_ar": "كبّس على الزر هذا",
     "ex_tr": "kabbis 3ala z-zirr hādha",
     "ex_en": "Press this button",
-    "note": "imperfect: نكبّس nkabbis (I press), يكبّس ykabbis (he presses)"
+    "note": "imperfect: نكبّس nkabbis (I press), يكبّس ykabbis (he presses)",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "كبّس على الجرس",
+        "tr": "kabbis 3ala l-jaras",
+        "en": "Ring the doorbell"
+      },
+      {
+        "ar": "كبّست وما صار شي",
+        "tr": "kabbast w ma Sār shay",
+        "en": "I pressed and nothing happened"
+      }
+    ]
   },
   {
     "ar": "غيّر",
@@ -2324,7 +4788,20 @@
     "ex_ar": "غيّر حوايجك، باش نطلعوا",
     "ex_tr": "ghayyir 7wāyjak, bash niTla3u",
     "ex_en": "Change your clothes, we're going out",
-    "note": "imperfect: نغيّر nghayyir (I change), يغيّر yghayyir (he changes)"
+    "note": "imperfect: نغيّر nghayyir (I change), يغيّر yghayyir (he changes)",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "غيّرت رايي",
+        "tr": "ghayyart rāyi",
+        "en": "I changed my mind"
+      },
+      {
+        "ar": "باش نغيّر الموبايل",
+        "tr": "bāsh nghayyir l-mōbāyl",
+        "en": "I'm going to change my phone"
+      }
+    ]
   },
   {
     "ar": "عبّى",
@@ -2337,7 +4814,20 @@
     "ex_ar": "عبّي الكرهبة بنزينة",
     "ex_tr": "3abbi l-karhba binzīna",
     "ex_en": "Fill the car with petrol",
-    "note": "imperfect: نعبّي n3abbi (I fill), يعبّي y3abbi (he fills)"
+    "note": "imperfect: نعبّي n3abbi (I fill), يعبّي y3abbi (he fills)",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "عبّيت البنزينة؟",
+        "tr": "3abbēt l-benzīna?",
+        "en": "Did you fill up with petrol?"
+      },
+      {
+        "ar": "عبّيلي كاس مية",
+        "tr": "3abbīli kās mayya",
+        "en": "Fill me a glass of water"
+      }
+    ]
   },
   {
     "ar": "فرّغ",
@@ -2350,7 +4840,20 @@
     "ex_ar": "فرّغ الزبالة قبل ما تمشي",
     "ex_tr": "farrigh iz-zibāla gbal ma timshi",
     "ex_en": "Empty the bin before you go",
-    "note": "imperfect: نفرّغ nfarrigh (I empty), يفرّغ yfarrigh (he empties)"
+    "note": "imperfect: نفرّغ nfarrigh (I empty), يفرّغ yfarrigh (he empties)",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "فرّغت الشنطة",
+        "tr": "farraght sh-shanTa",
+        "en": "I emptied the bag"
+      },
+      {
+        "ar": "فرّغ جيوبك",
+        "tr": "farrigh jyūbak",
+        "en": "Empty your pockets"
+      }
+    ]
   },
   {
     "ar": "شحن",
@@ -2363,7 +4866,20 @@
     "ex_ar": "نبي نشحن الموبايل، عندك شاحن؟",
     "ex_tr": "nibbi nish7an il-mōbāyl, 3andak shā7in?",
     "ex_en": "I want to charge my phone, do you have a charger?",
-    "note": "imperfect: نشحن nish7an (I charge), يشحن yish7an (he charges)"
+    "note": "imperfect: نشحن nish7an (I charge), يشحن yish7an (he charges)",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "الموبايل قاعد يشحن",
+        "tr": "l-mōbāyl gā3id yish7an",
+        "en": "The phone is charging"
+      },
+      {
+        "ar": "شحنت الرصيد",
+        "tr": "sha7ant r-raSīd",
+        "en": "I topped up my credit"
+      }
+    ]
   },
   {
     "ar": "ربط",
@@ -2376,7 +4892,20 @@
     "ex_ar": "اربط السبّاط متاعك",
     "ex_tr": "urbuT is-sabbāT mtā3ak",
     "ex_en": "Tie your shoes",
-    "note": "imperfect: نربط nurbuT (I tie), يربط yurbuT (he ties)"
+    "note": "imperfect: نربط nurbuT (I tie), يربط yurbuT (he ties)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "اربط الحزام",
+        "tr": "urbuT l-7zām",
+        "en": "Fasten your seatbelt"
+      },
+      {
+        "ar": "ربطت الكلب برّا",
+        "tr": "rbaTt l-kalb barra",
+        "en": "I tied the dog up outside"
+      }
+    ]
   },
   {
     "ar": "فكّ",
@@ -2389,7 +4918,20 @@
     "ex_ar": "فكّهم من بعض، قاعدين يتعاركوا",
     "ex_tr": "fukkhum min ba3D, gā3dīn yit3ārku",
     "ex_en": "Separate them, they're fighting",
-    "note": "imperfect: نفك nfukk (I untie), يفك yfukk (he unties)"
+    "note": "imperfect: نفك nfukk (I untie), يفك yfukk (he unties)",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "فكّني منك!",
+        "tr": "fukkni minnak!",
+        "en": "Leave me alone!"
+      },
+      {
+        "ar": "فكّيت العقدة",
+        "tr": "fakkēt l-3ugda",
+        "en": "I untied the knot"
+      }
+    ]
   },
   {
     "ar": "مرض",
@@ -2402,7 +4944,20 @@
     "ex_ar": "مرض من البرد",
     "ex_tr": "mriD min il-bard",
     "ex_en": "He got sick from the cold",
-    "note": "imperfect: نمرض nimraD (I get sick), يمرض yimraD (he gets sick)"
+    "note": "imperfect: نمرض nimraD (I get sick), يمرض yimraD (he gets sick)",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "مرضت الأسبوع اللي فات",
+        "tr": "mriDt l-usbū3 illi fāt",
+        "en": "I got sick last week"
+      },
+      {
+        "ar": "الصغير مريض",
+        "tr": "S-Sghīr marīD",
+        "en": "The child is sick"
+      }
+    ]
   },
   {
     "ar": "سكن",
@@ -2415,7 +4970,20 @@
     "ex_ar": "وين تسكن؟ نسكن في قرجي",
     "ex_tr": "wīn tiskin? niskin fi gurji",
     "ex_en": "Where do you live? I live in Gurji",
-    "note": "imperfect: نسكن niskin (I live), يسكن yiskin (he lives). Gurji = district of Tripoli."
+    "note": "imperfect: نسكن niskin (I live), يسكن yiskin (he lives). Gurji = district of Tripoli.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "سكنّا في بنغازي عشر سنين",
+        "tr": "skinna fi benghāzi 3ashr snīn",
+        "en": "We lived in Benghazi for ten years"
+      },
+      {
+        "ar": "وين ساكن توا؟",
+        "tr": "wīn sākin tawwa?",
+        "en": "Where do you live now?"
+      }
+    ]
   },
   {
     "ar": "عرّس",
@@ -2428,7 +4996,20 @@
     "ex_ar": "خوي باش يعرّس الصيف الجاي",
     "ex_tr": "khūy bash y3arris iS-Sēf ij-jāy",
     "ex_en": "My brother is getting married next summer",
-    "note": "imperfect: نعرّس n3arris (I get married), يعرّس y3arris (he gets married). Libyan; عرس 3ars = wedding. تزوّج tzawwaj also used."
+    "note": "imperfect: نعرّس n3arris (I get married), يعرّس y3arris (he gets married). Libyan; عرس 3ars = wedding. تزوّج tzawwaj also used.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "امتى باش تعرّس؟",
+        "tr": "imta bāsh t3arris?",
+        "en": "When are you getting married?"
+      },
+      {
+        "ar": "عرّس العام اللي فات",
+        "tr": "3arras l-3ām illi fāt",
+        "en": "He got married last year"
+      }
+    ]
   },
   {
     "ar": "نعس",
@@ -2441,7 +5022,20 @@
     "ex_ar": "نعست، باش نرقد",
     "ex_tr": "n3ast, bash nurgud",
     "ex_en": "I'm sleepy, I'm going to bed",
-    "note": "imperfect: ننعس nin3as (I get sleepy), ينعس yin3as (he gets sleepy)"
+    "note": "imperfect: ننعس nin3as (I get sleepy), ينعس yin3as (he gets sleepy)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "الصغير نعسان",
+        "tr": "S-Sghīr na3sān",
+        "en": "The little one is sleepy"
+      },
+      {
+        "ar": "نعست قدّام التلفزيون",
+        "tr": "n3ast guddām t-telfizyōn",
+        "en": "I dozed off in front of the TV"
+      }
+    ]
   },
   {
     "ar": "طاب",
@@ -2454,7 +5048,20 @@
     "ex_ar": "الرز طاب؟",
     "ex_tr": "ir-ruzz Tāb?",
     "ex_en": "Is the rice cooked?",
-    "note": "imperfect: نطيب nTīb (I get cooked), يطيب yTīb (it gets cooked). 1st person is rare; normally said of food and fruit."
+    "note": "imperfect: نطيب nTīb (I get cooked), يطيب yTīb (it gets cooked). 1st person is rare; normally said of food and fruit.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "الكرموس طاب",
+        "tr": "l-karmūs Tāb",
+        "en": "The figs are ripe"
+      },
+      {
+        "ar": "الماكلة طابت؟",
+        "tr": "l-mākla Tābat?",
+        "en": "Is the food cooked?"
+      }
+    ]
   },
   {
     "ar": "فكّر",
@@ -2467,7 +5074,20 @@
     "ex_ar": "قاعد نفكّر نسافر",
     "ex_tr": "gā3id nfakkir nsāfir",
     "ex_en": "I'm thinking of travelling",
-    "note": "imperfect: نفكّر nfakkir (I think), يفكّر yfakkir (he thinks)"
+    "note": "imperfect: نفكّر nfakkir (I think), يفكّر yfakkir (he thinks)",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "فكّر مليح قبل ما تقرّر",
+        "tr": "fakkir mlī7 gabl ma tgarrir",
+        "en": "Think carefully before you decide"
+      },
+      {
+        "ar": "فكّرت فيك البارح",
+        "tr": "fakkart fīk l-bāre7",
+        "en": "I thought of you yesterday"
+      }
+    ]
   },
   {
     "ar": "فهم",
@@ -2480,7 +5100,20 @@
     "ex_ar": "فهمت؟ لا، ما فهمتش",
     "ex_tr": "fhimt? la, ma fhimtsh",
     "ex_en": "Did you understand? No, I didn't understand",
-    "note": "imperfect: نفهم nifham (I understand), يفهم yifham (he understands)"
+    "note": "imperfect: نفهم nifham (I understand), يفهم yifham (he understands)",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "فهمتني؟",
+        "tr": "fhimtni?",
+        "en": "Do you understand me?"
+      },
+      {
+        "ar": "ما فهمت شي",
+        "tr": "ma fhimt shay",
+        "en": "I didn't understand anything"
+      }
+    ]
   },
   {
     "ar": "نسى",
@@ -2493,7 +5126,20 @@
     "ex_ar": "نسيت الموبايل في الكرهبة",
     "ex_tr": "nsīt il-mōbāyl fil-karhba",
     "ex_en": "I forgot my phone in the car",
-    "note": "imperfect: ننسى ninsā (I forget), ينسى yinsā (he forgets)"
+    "note": "imperfect: ننسى ninsā (I forget), ينسى yinsā (he forgets)",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "ما تنساش",
+        "tr": "ma tinsāsh",
+        "en": "Don't forget"
+      },
+      {
+        "ar": "نسيت اسمه",
+        "tr": "nsēt isma",
+        "en": "I forgot his name"
+      }
+    ]
   },
   {
     "ar": "تفكّر",
@@ -2506,7 +5152,20 @@
     "ex_ar": "تتفكّر اسمه؟ ما نتفكّرش",
     "ex_tr": "titfakkar isma? ma nitfakkarsh",
     "ex_en": "Do you remember his name? I don't",
-    "note": "imperfect: نتفكّر nitfakkar (I remember), يتفكّر yitfakkar (he remembers). Libyan/Maghrebi 'remember' (not 'think')."
+    "note": "imperfect: نتفكّر nitfakkar (I remember), يتفكّر yitfakkar (he remembers). Libyan/Maghrebi 'remember' (not 'think').",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "تفكّرت!",
+        "tr": "tfakkart!",
+        "en": "I remembered!"
+      },
+      {
+        "ar": "تتفكّر لما كنّا صغار؟",
+        "tr": "titfakkar lamma kunna Sghār?",
+        "en": "Do you remember when we were little?"
+      }
+    ]
   },
   {
     "ar": "تذكّر",
@@ -2519,7 +5178,20 @@
     "ex_ar": "نتذكّر أيام المدرسة",
     "ex_tr": "nitdhakkar iyyām il-madrasa",
     "ex_en": "I remember the school days",
-    "note": "imperfect: نتذكّر nitdhakkar (I remember), يتذكّر yitdhakkar (he remembers). More formal than تفكّر tfakkar."
+    "note": "imperfect: نتذكّر nitdhakkar (I remember), يتذكّر yitdhakkar (he remembers). More formal than تفكّر tfakkar.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "ما نتذكّرش وين حطيته",
+        "tr": "ma nitdhakkarsh wīn 7aTTētah",
+        "en": "I don't recall where I put it"
+      },
+      {
+        "ar": "تذكّر الكلام هذا",
+        "tr": "tdhakkar l-klām hādha",
+        "en": "Remember these words"
+      }
+    ]
   },
   {
     "ar": "عجب",
@@ -2532,7 +5204,20 @@
     "ex_ar": "الحوش هذا عجبني هلبة",
     "ex_tr": "il-7ōsh hādha 3jabni hallba",
     "ex_en": "I really liked this house",
-    "note": "imperfect: نعجب n3ajib (I please), يعجب y3ajib (he pleases). Construction: the thing liked is the subject — يعجبني y3ajibni 'I like it', ما عجبنيش ma 3jabnīsh 'I didn't like it'."
+    "note": "imperfect: نعجب n3ajib (I please), يعجب y3ajib (he pleases). Construction: the thing liked is the subject — يعجبني y3ajibni 'I like it', ما عجبنيش ma 3jabnīsh 'I didn't like it'.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "عجبك الفيلم؟",
+        "tr": "3jabak l-film?",
+        "en": "Did you like the film?"
+      },
+      {
+        "ar": "ما عجبنيش الأكل",
+        "tr": "ma 3jabnīsh l-akl",
+        "en": "I didn't like the food"
+      }
+    ]
   },
   {
     "ar": "كره",
@@ -2545,7 +5230,20 @@
     "ex_ar": "نكره نستنّى في الطوابير",
     "ex_tr": "nikrah nistannā fiT-Twābīr",
     "ex_en": "I hate waiting in queues",
-    "note": "imperfect: نكره nikrah (I hate), يكره yikrah (he hates)"
+    "note": "imperfect: نكره nikrah (I hate), يكره yikrah (he hates)",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "نكره البرد",
+        "tr": "nikrah l-bard",
+        "en": "I hate the cold"
+      },
+      {
+        "ar": "ما تكرهش حد",
+        "tr": "ma tikrahsh 7add",
+        "en": "Don't hate anyone"
+      }
+    ]
   },
   {
     "ar": "خاف",
@@ -2558,7 +5256,20 @@
     "ex_ar": "ما تخافش، الكلب ما يعضّش",
     "ex_tr": "ma tkhāfsh, il-kalb ma y3uDDsh",
     "ex_en": "Don't be afraid, the dog doesn't bite",
-    "note": "imperfect: نخاف nkhāf (I fear), يخاف ykhāf (he fears)"
+    "note": "imperfect: نخاف nkhāf (I fear), يخاف ykhāf (he fears)",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "خفت هلبة",
+        "tr": "khuft hallba",
+        "en": "I got really scared"
+      },
+      {
+        "ar": "خايف من الامتحان",
+        "tr": "khāyif min l-imti7ān",
+        "en": "I'm afraid of the exam"
+      }
+    ]
   },
   {
     "ar": "تمنّى",
@@ -2571,7 +5282,20 @@
     "ex_ar": "نتمنّالك التوفيق",
     "ex_tr": "nitmannālak it-tawfīg",
     "ex_en": "I wish you success",
-    "note": "imperfect: نتمنّى nitmannā (I hope), يتمنّى yitmannā (he hopes). Everyday 'hopefully' is إن شاء الله / يا ريت."
+    "note": "imperfect: نتمنّى nitmannā (I hope), يتمنّى yitmannā (he hopes). Everyday 'hopefully' is إن شاء الله / يا ريت.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "نتمنّى نشوفك قريب",
+        "tr": "nitmannā nshūfak grīb",
+        "en": "I hope to see you soon"
+      },
+      {
+        "ar": "تمنّى أمنية",
+        "tr": "tmannā umniya",
+        "en": "Make a wish"
+      }
+    ]
   },
   {
     "ar": "توقّع",
@@ -2584,7 +5308,20 @@
     "ex_ar": "نتوقّع باش يجي متأخر",
     "ex_tr": "nitwagga3 bash yji mit'akhkhir",
     "ex_en": "I expect he'll come late",
-    "note": "imperfect: نتوقّع nitwagga3 (I expect), يتوقّع yitwagga3 (he expects)"
+    "note": "imperfect: نتوقّع nitwagga3 (I expect), يتوقّع yitwagga3 (he expects)",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "ما توقّعتش هكي",
+        "tr": "ma twagga3tsh hakki",
+        "en": "I didn't expect that"
+      },
+      {
+        "ar": "شن تتوقّع؟",
+        "tr": "shin titwagga3?",
+        "en": "What do you expect?"
+      }
+    ]
   },
   {
     "ar": "صدّق",
@@ -2597,7 +5334,20 @@
     "ex_ar": "ما نصدّقكش، تفدلك!",
     "ex_tr": "ma nSaddgiksh, tfadlik!",
     "ex_en": "I don't believe you, you're joking!",
-    "note": "imperfect: نصدّق nSaddig (I believe), يصدّق ySaddig (he believes). ق = g."
+    "note": "imperfect: نصدّق nSaddig (I believe), يصدّق ySaddig (he believes). ق = g.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "صدّقني!",
+        "tr": "Saddigni!",
+        "en": "Believe me!"
+      },
+      {
+        "ar": "ما صدّقتش عيني",
+        "tr": "ma Saddagtsh 3ēni",
+        "en": "I couldn't believe my eyes"
+      }
+    ]
   },
   {
     "ar": "شكّ",
@@ -2610,7 +5360,20 @@
     "ex_ar": "نشك إنه قال الصح",
     "ex_tr": "nshukk inna gāl iS-Sa77",
     "ex_en": "I doubt he told the truth",
-    "note": "imperfect: نشك nshukk (I doubt), يشك yshukk (he doubts)"
+    "note": "imperfect: نشك nshukk (I doubt), يشك yshukk (he doubts)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "نشكّ فيه",
+        "tr": "nshukk fīh",
+        "en": "I suspect him"
+      },
+      {
+        "ar": "ما فيهاش شك",
+        "tr": "ma fīhāsh shakk",
+        "en": "There's no doubt about it"
+      }
+    ]
   },
   {
     "ar": "قرّر",
@@ -2623,7 +5386,20 @@
     "ex_ar": "قرّرت نبطّل الدخان",
     "ex_tr": "garrart nbaTTil id-dukhkhān",
     "ex_en": "I decided to quit smoking",
-    "note": "imperfect: نقرّر ngarrir (I decide), يقرّر ygarrir (he decides). ق = g."
+    "note": "imperfect: نقرّر ngarrir (I decide), يقرّر ygarrir (he decides). ق = g.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "شن قرّرت؟",
+        "tr": "shin garrart?",
+        "en": "What did you decide?"
+      },
+      {
+        "ar": "قرّرنا نسافروا في الصيف",
+        "tr": "garrarna nsāfru fi S-Sēf",
+        "en": "We decided to travel in the summer"
+      }
+    ]
   },
   {
     "ar": "اختار",
@@ -2636,7 +5412,20 @@
     "ex_ar": "اختار اللي يعجبك",
     "ex_tr": "ikhtār illi y3ajbak",
     "ex_en": "Choose whichever you like",
-    "note": "imperfect: نختار nikhtār (I choose), يختار yikhtār (he chooses)"
+    "note": "imperfect: نختار nikhtār (I choose), يختار yikhtār (he chooses)",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "اختار وحدة",
+        "tr": "ikhtār wa7da",
+        "en": "Pick one"
+      },
+      {
+        "ar": "شن اخترت؟",
+        "tr": "shin ikhtart?",
+        "en": "What did you choose?"
+      }
+    ]
   },
   {
     "ar": "فضّل",
@@ -2649,7 +5438,20 @@
     "ex_ar": "نفضّل القهوة على الشاهي",
     "ex_tr": "nfaDDil il-gahwa 3ala sh-shāhi",
     "ex_en": "I prefer coffee to tea",
-    "note": "imperfect: نفضّل nfaDDil (I prefer), يفضّل yfaDDil (he prefers)"
+    "note": "imperfect: نفضّل nfaDDil (I prefer), يفضّل yfaDDil (he prefers)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "شن تفضّل؟",
+        "tr": "shin tfaDDil?",
+        "en": "What do you prefer?"
+      },
+      {
+        "ar": "فضّلت نقعد في الحوش",
+        "tr": "faDDalt nug3ud fi l-7ōsh",
+        "en": "I preferred to stay home"
+      }
+    ]
   },
   {
     "ar": "تعلّم",
@@ -2662,7 +5464,20 @@
     "ex_ar": "قاعد نتعلّم الطليان",
     "ex_tr": "gā3id nit3allam iT-Tilyān",
     "ex_en": "I'm learning Italian",
-    "note": "imperfect: نتعلّم nit3allam (I learn), يتعلّم yit3allam (he learns). الطليان iT-Tilyān = Italian (language), lit. the Italians."
+    "note": "imperfect: نتعلّم nit3allam (I learn), يتعلّم yit3allam (he learns). الطليان iT-Tilyān = Italian (language), lit. the Italians.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "وين تعلّمت العربي؟",
+        "tr": "wīn t3allamt l-3arabi?",
+        "en": "Where did you learn Arabic?"
+      },
+      {
+        "ar": "باش نتعلّم نسوق",
+        "tr": "bāsh nit3allam nsūg",
+        "en": "I'm going to learn to drive"
+      }
+    ]
   },
   {
     "ar": "حفظ",
@@ -2675,7 +5490,20 @@
     "ex_ar": "حفظ القرآن وهو صغير",
     "ex_tr": "7faDH il-qur'ān w huwa Sghīr",
     "ex_en": "He memorized the Quran when he was young",
-    "note": "imperfect: نحفظ ni7faDH (I memorize), يحفظ yi7faDH (he memorizes). القرآن keeps q."
+    "note": "imperfect: نحفظ ni7faDH (I memorize), يحفظ yi7faDH (he memorizes). القرآن keeps q.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "حفظت الدرس؟",
+        "tr": "7faDHt d-dars?",
+        "en": "Did you memorize the lesson?"
+      },
+      {
+        "ar": "ربي يحفظك",
+        "tr": "rabbi yi7faDHak",
+        "en": "God protect you"
+      }
+    ]
   },
   {
     "ar": "ندم",
@@ -2688,7 +5516,20 @@
     "ex_ar": "باش تندم لو ما جيتش",
     "ex_tr": "bash tindam law ma jītsh",
     "ex_en": "You'll regret it if you don't come",
-    "note": "imperfect: نندم nindam (I regret), يندم yindam (he regrets)"
+    "note": "imperfect: نندم nindam (I regret), يندم yindam (he regrets)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "ندمت إني ما مشيتش",
+        "tr": "ndimt inni ma mshētsh",
+        "en": "I regretted not going"
+      },
+      {
+        "ar": "ما ندمتش",
+        "tr": "ma ndimtsh",
+        "en": "I don't regret it"
+      }
+    ]
   },
   {
     "ar": "زعل",
@@ -2701,7 +5542,20 @@
     "ex_ar": "ما تزعلش مني",
     "ex_tr": "ma tiz3alsh minni",
     "ex_en": "Don't be upset with me",
-    "note": "imperfect: نزعل niz3al (I get upset), يزعل yiz3al (he gets upset)"
+    "note": "imperfect: نزعل niz3al (I get upset), يزعل yiz3al (he gets upset)",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "زعلت مني؟",
+        "tr": "z3alt minni?",
+        "en": "Are you upset with me?"
+      },
+      {
+        "ar": "خوك زعلان",
+        "tr": "khūk za3lān",
+        "en": "Your brother is upset"
+      }
+    ]
   },
   {
     "ar": "تقلّق",
@@ -2714,7 +5568,20 @@
     "ex_ar": "تقلّقت من الزحمة",
     "ex_tr": "tgallagt min iz-za7ma",
     "ex_en": "I got fed up with the traffic",
-    "note": "imperfect: نتقلّق nitgallag (I get annoyed), يتقلّق yitgallag (he gets annoyed). Libyan; مقلّق mgallag = annoyed, bored. ق = g."
+    "note": "imperfect: نتقلّق nitgallag (I get annoyed), يتقلّق yitgallag (he gets annoyed). Libyan; مقلّق mgallag = annoyed, bored. ق = g.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "ما تتقلّقش",
+        "tr": "ma titgallagsh",
+        "en": "Don't get annoyed"
+      },
+      {
+        "ar": "تقلّقت من الاستنّاء",
+        "tr": "tgallagt min l-istinnā",
+        "en": "I got fed up with waiting"
+      }
+    ]
   },
   {
     "ar": "تغشّش",
@@ -2727,7 +5594,20 @@
     "ex_ar": "تغشّش عليّ وما كلّمنيش",
     "ex_tr": "tghashshash 3alayy w ma kallamnīsh",
     "ex_en": "He got angry with me and didn't speak to me",
-    "note": "imperfect: نتغشّش nitghashshash (I get angry), يتغشّش yitghashshash (he gets angry). Libyan/Maghrebi; مغشّش mghashshash = angry."
+    "note": "imperfect: نتغشّش nitghashshash (I get angry), يتغشّش yitghashshash (he gets angry). Libyan/Maghrebi; مغشّش mghashshash = angry.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "علاش تغشّشت؟",
+        "tr": "3lāsh tghashshasht?",
+        "en": "Why did you get angry?"
+      },
+      {
+        "ar": "أبوي متغشّش اليوم",
+        "tr": "būy mitghashshish l-yōm",
+        "en": "My dad is angry today"
+      }
+    ]
   },
   {
     "ar": "خلع",
@@ -2740,7 +5620,20 @@
     "ex_ar": "خلعتني! ما سمعتكش جاي",
     "ex_tr": "khla3tni! ma sma3tiksh jāy",
     "ex_en": "You scared me! I didn't hear you coming",
-    "note": "imperfect: نخلع nikhla3 (I get scared), يخلع yikhla3 (he gets scared). Maghrebi; خلعة khal3a = fright."
+    "note": "imperfect: نخلع nikhla3 (I get scared), يخلع yikhla3 (he gets scared). Maghrebi; خلعة khal3a = fright.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "خلعت من الكلب",
+        "tr": "khl3at min l-kalb",
+        "en": "I got scared of the dog"
+      },
+      {
+        "ar": "ما تخلعش الصغير",
+        "tr": "ma tukhlu3sh S-Sghīr",
+        "en": "Don't scare the little one"
+      }
+    ]
   },
   {
     "ar": "فرح",
@@ -2753,7 +5646,20 @@
     "ex_ar": "فرحت هلبة لما شفتك",
     "ex_tr": "fri7t hallba lamma shuftak",
     "ex_en": "I was so happy when I saw you",
-    "note": "imperfect: نفرح nifra7 (I am happy), يفرح yifra7 (he is happy)"
+    "note": "imperfect: نفرح nifra7 (I am happy), يفرح yifra7 (he is happy)",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "فرحنا بيك",
+        "tr": "fri7na bīk",
+        "en": "We were happy to see you"
+      },
+      {
+        "ar": "باش تفرح أمك",
+        "tr": "bāsh tifra7 ummak",
+        "en": "Your mother will be happy"
+      }
+    ]
   },
   {
     "ar": "استغرب",
@@ -2766,7 +5672,20 @@
     "ex_ar": "استغربت إنه ما جاش",
     "ex_tr": "istaghrabt inna ma jāsh",
     "ex_en": "I was surprised he didn't come",
-    "note": "imperfect: نستغرب nistaghrib (I am surprised), يستغرب yistaghrib (he is surprised)"
+    "note": "imperfect: نستغرب nistaghrib (I am surprised), يستغرب yistaghrib (he is surprised)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "ما تستغربش",
+        "tr": "ma tistaghribsh",
+        "en": "Don't be surprised"
+      },
+      {
+        "ar": "استغربت من كلامه",
+        "tr": "istaghrabt min klāma",
+        "en": "I was surprised by what he said"
+      }
+    ]
   },
   {
     "ar": "حلم",
@@ -2779,7 +5698,20 @@
     "ex_ar": "حلمت بيك البارح",
     "ex_tr": "7lamt bīk il-bāre7",
     "ex_en": "I dreamt about you last night",
-    "note": "imperfect: نحلم ni7lam (I dream), يحلم yi7lam (he dreams)"
+    "note": "imperfect: نحلم ni7lam (I dream), يحلم yi7lam (he dreams)",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "شن حلمت؟",
+        "tr": "shin 7lamt?",
+        "en": "What did you dream?"
+      },
+      {
+        "ar": "نحلم نسافر لإيطاليا",
+        "tr": "n7lam nsāfir l-iTālya",
+        "en": "I dream of traveling to Italy"
+      }
+    ]
   },
   {
     "ar": "اهتم",
@@ -2792,7 +5724,20 @@
     "ex_ar": "ما يهتمش بصحته",
     "ex_tr": "ma yihtammsh b-Sa77ta",
     "ex_en": "He doesn't take care of his health",
-    "note": "imperfect: نهتم nihtamm (I care), يهتم yihtamm (he cares)"
+    "note": "imperfect: نهتم nihtamm (I care), يهتم yihtamm (he cares)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "اهتم بروحك",
+        "tr": "ihtamm b-rū7ak",
+        "en": "Take care of yourself"
+      },
+      {
+        "ar": "ما نهتمش بالكورة",
+        "tr": "ma nihtammish b-l-kūra",
+        "en": "I'm not into football"
+      }
+    ]
   },
   {
     "ar": "توحّش",
@@ -2805,7 +5750,20 @@
     "ex_ar": "توحّشتك هلبة يا خوي",
     "ex_tr": "twa77ashtak hallba ya khūy",
     "ex_en": "I missed you so much, brother",
-    "note": "imperfect: نتوحّش nitwa77ash (I miss), يتوحّش yitwa77ash (he misses). Maghrebi; وحشتني wa7ashtni also heard."
+    "note": "imperfect: نتوحّش nitwa77ash (I miss), يتوحّش yitwa77ash (he misses). Maghrebi; وحشتني wa7ashtni also heard.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "توحّشتني؟",
+        "tr": "twa77ashtni?",
+        "en": "Did you miss me?"
+      },
+      {
+        "ar": "باش نتوحّشوك",
+        "tr": "bāsh nitwa77shūk",
+        "en": "We'll miss you"
+      }
+    ]
   },
   {
     "ar": "اشتاق",
@@ -2818,7 +5776,20 @@
     "ex_ar": "اشتقت لماكلة أمي",
     "ex_tr": "ishtagt l-mākla ummi",
     "ex_en": "I miss my mother's cooking",
-    "note": "imperfect: نشتاق nishtāg (I long for), يشتاق yishtāg (he longs for). ق = g."
+    "note": "imperfect: نشتاق nishtāg (I long for), يشتاق yishtāg (he longs for). ق = g.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "اشتقتلك",
+        "tr": "ishtagtlak",
+        "en": "I've missed you"
+      },
+      {
+        "ar": "اشتقنا للبلاد",
+        "tr": "ishtagna l-l-blād",
+        "en": "We miss home"
+      }
+    ]
   },
   {
     "ar": "غار",
@@ -2831,7 +5802,20 @@
     "ex_ar": "يغير على أخته هلبة",
     "ex_tr": "yghīr 3ala ukhta hallba",
     "ex_en": "He's very protective (jealous) of his sister",
-    "note": "imperfect: نغير nghīr (I am jealous), يغير yghīr (he is jealous)"
+    "note": "imperfect: نغير nghīr (I am jealous), يغير yghīr (he is jealous)",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "تغير منها",
+        "tr": "tghīr minha",
+        "en": "She's jealous of her"
+      },
+      {
+        "ar": "ما تغيرش",
+        "tr": "ma tghīrsh",
+        "en": "Don't be jealous"
+      }
+    ]
   },
   {
     "ar": "احتار",
@@ -2844,7 +5828,20 @@
     "ex_ar": "احترت شن نشري",
     "ex_tr": "i7tirt shin nishri",
     "ex_en": "I couldn't decide what to buy",
-    "note": "imperfect: نحتار ni7tār (I am at a loss), يحتار yi7tār (he is at a loss)"
+    "note": "imperfect: نحتار ni7tār (I am at a loss), يحتار yi7tār (he is at a loss)",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "احترت معاه",
+        "tr": "i7tirt ma3āh",
+        "en": "I didn't know what to do with him"
+      },
+      {
+        "ar": "محتار شن ندير",
+        "tr": "m7tār shin ndīr",
+        "en": "I'm unsure what to do"
+      }
+    ]
   },
   {
     "ar": "نوى",
@@ -2857,7 +5854,20 @@
     "ex_ar": "شن ناوي دير بعد الجامعة؟",
     "ex_tr": "shin nāwi dīr ba3d il-jām3a?",
     "ex_en": "What do you intend to do after university?",
-    "note": "imperfect: ننوي ninwi (I intend), ينوي yinwi (he intends). Participle ناوي nāwi 'intending' is very common."
+    "note": "imperfect: ننوي ninwi (I intend), ينوي yinwi (he intends). Participle ناوي nāwi 'intending' is very common.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "ناوي نسافر",
+        "tr": "nāwi nsāfir",
+        "en": "I intend to travel"
+      },
+      {
+        "ar": "نويت الصيام",
+        "tr": "nwēt S-Syām",
+        "en": "I made the intention to fast"
+      }
+    ]
   },
   {
     "ar": "ركّز",
@@ -2870,7 +5880,20 @@
     "ex_ar": "ركّز معايا شوية",
     "ex_tr": "rakkiz m3āya shwayya",
     "ex_en": "Focus with me for a moment",
-    "note": "imperfect: نركّز nrakkiz (I concentrate), يركّز yrakkiz (he concentrates)"
+    "note": "imperfect: نركّز nrakkiz (I concentrate), يركّز yrakkiz (he concentrates)",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "ما نقدرش نركّز",
+        "tr": "ma nagdarsh nrakkiz",
+        "en": "I can't concentrate"
+      },
+      {
+        "ar": "ركّز في الطريق",
+        "tr": "rakkiz fi T-Trīg",
+        "en": "Focus on the road"
+      }
+    ]
   },
   {
     "ar": "لاحظ",
@@ -2883,7 +5906,20 @@
     "ex_ar": "لاحظت إنه تبدّل",
     "ex_tr": "lā7aDHt inna tbaddal",
     "ex_en": "I noticed he has changed",
-    "note": "imperfect: نلاحظ nlā7iDH (I notice), يلاحظ ylā7iDH (he notices)"
+    "note": "imperfect: نلاحظ nlā7iDH (I notice), يلاحظ ylā7iDH (he notices)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "لاحظت حاجة؟",
+        "tr": "lā7aDHt 7āja?",
+        "en": "Did you notice anything?"
+      },
+      {
+        "ar": "ما لاحظش",
+        "tr": "ma lā7aDHsh",
+        "en": "He didn't notice"
+      }
+    ]
   },
   {
     "ar": "استاهل",
@@ -2896,7 +5932,20 @@
     "ex_ar": "يستاهل كل خير",
     "ex_tr": "yistāhil kull khēr",
     "ex_en": "He deserves all the best",
-    "note": "imperfect: نستاهل nistāhil (I deserve), يستاهل yistāhil (he deserves)"
+    "note": "imperfect: نستاهل nistāhil (I deserve), يستاهل yistāhil (he deserves)",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "تستاهل!",
+        "tr": "tistāhil!",
+        "en": "You deserve it! (also: serves you right)"
+      },
+      {
+        "ar": "ما يستاهلش",
+        "tr": "ma yistāhilsh",
+        "en": "He doesn't deserve it"
+      }
+    ]
   },
   {
     "ar": "صبر",
@@ -2909,7 +5958,20 @@
     "ex_ar": "اصبر، كل شي باش يتصلّح",
     "ex_tr": "uSbur, kull shay bash yitSalla7",
     "ex_en": "Be patient, everything will be fixed",
-    "note": "imperfect: نصبر nuSbur (I am patient), يصبر yuSbur (he is patient)"
+    "note": "imperfect: نصبر nuSbur (I am patient), يصبر yuSbur (he is patient)",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "صبرت هلبة",
+        "tr": "Sbart hallba",
+        "en": "I've been very patient"
+      },
+      {
+        "ar": "ربي يصبّرك",
+        "tr": "rabbi ySabbrak",
+        "en": "May God give you patience"
+      }
+    ]
   },
   {
     "ar": "حشم",
@@ -2922,7 +5984,20 @@
     "ex_ar": "ما تحشمش، كول!",
     "ex_tr": "ma ti7shamsh, kūl!",
     "ex_en": "Don't be shy, eat!",
-    "note": "imperfect: نحشم ni7sham (I am shy), يحشم yi7sham (he is shy). Maghrebi; حشمة 7ashma = modesty, shame."
+    "note": "imperfect: نحشم ni7sham (I am shy), يحشم yi7sham (he is shy). Maghrebi; حشمة 7ashma = modesty, shame.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "حشمت نقوله",
+        "tr": "7shamt ngūla",
+        "en": "I was too embarrassed to tell him"
+      },
+      {
+        "ar": "ما يحشمش!",
+        "tr": "ma yi7shamsh!",
+        "en": "He has no shame!"
+      }
+    ]
   },
   {
     "ar": "تعوّد",
@@ -2935,7 +6010,20 @@
     "ex_ar": "تعوّدت على الخدمة الجديدة",
     "ex_tr": "t3awwadt 3ala l-khidma l-jdīda",
     "ex_en": "I got used to the new job",
-    "note": "imperfect: نتعوّد nit3awwad (I get used to), يتعوّد yit3awwad (he gets used to)"
+    "note": "imperfect: نتعوّد nit3awwad (I get used to), يتعوّد yit3awwad (he gets used to)",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "تعوّدت على البرد",
+        "tr": "t3awwadt 3ala l-bard",
+        "en": "I've gotten used to the cold"
+      },
+      {
+        "ar": "باش تتعوّد",
+        "tr": "bāsh tit3awwad",
+        "en": "You'll get used to it"
+      }
+    ]
   },
   {
     "ar": "احترم",
@@ -2948,7 +6036,20 @@
     "ex_ar": "لازم تحترم الكبار",
     "ex_tr": "lāzim ti7tarim il-kbār",
     "ex_en": "You must respect your elders",
-    "note": "imperfect: نحترم ni7tarim (I respect), يحترم yi7tarim (he respects)"
+    "note": "imperfect: نحترم ni7tarim (I respect), يحترم yi7tarim (he respects)",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "احترم روحك",
+        "tr": "i7tarim rū7ak",
+        "en": "Behave yourself (respect yourself)"
+      },
+      {
+        "ar": "نحترمه هلبة",
+        "tr": "ni7tarma hallba",
+        "en": "I respect him a lot"
+      }
+    ]
   },
   {
     "ar": "سامح",
@@ -2961,7 +6062,20 @@
     "ex_ar": "سامحني، ما كانش قصدي",
     "ex_tr": "sām7ni, ma kānsh gaSdi",
     "ex_en": "Forgive me, I didn't mean it",
-    "note": "imperfect: نسامح nsāmi7 (I forgive), يسامح ysāmi7 (he forgives)"
+    "note": "imperfect: نسامح nsāmi7 (I forgive), يسامح ysāmi7 (he forgives)",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "ربي يسامحك",
+        "tr": "rabbi ysām7ak",
+        "en": "May God forgive you"
+      },
+      {
+        "ar": "سامحتك",
+        "tr": "sāma7tak",
+        "en": "I forgave you"
+      }
+    ]
   },
   {
     "ar": "ملّ",
@@ -2974,7 +6088,20 @@
     "ex_ar": "مليت من القعدة في الحوش",
     "ex_tr": "millēt min il-g3ada fil-7ōsh",
     "ex_en": "I'm bored of sitting at home",
-    "note": "imperfect: نمل nmill (I get bored), يمل ymill (he gets bored)"
+    "note": "imperfect: نمل nmill (I get bored), يمل ymill (he gets bored)",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "ملّيت",
+        "tr": "mallēt",
+        "en": "I'm bored / I'm fed up"
+      },
+      {
+        "ar": "ما تملّش؟",
+        "tr": "ma tmillish?",
+        "en": "Don't you get bored?"
+      }
+    ]
   },
   {
     "ar": "ضنّ",
@@ -2987,7 +6114,20 @@
     "ex_ar": "نضن باش تصبّ مطر اليوم",
     "ex_tr": "nDunn bash tSubb maTar il-yōm",
     "ex_en": "I think it's going to rain today",
-    "note": "imperfect: نضن nDunn (I think), يضن yDunn (he thinks). ظ is pronounced like ض in Libyan; spelling ظن also used."
+    "note": "imperfect: نضن nDunn (I think), يضن yDunn (he thinks). ظ is pronounced like ض in Libyan; spelling ظن also used.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "نضنّ هكي",
+        "tr": "nDunn hakki",
+        "en": "I think so"
+      },
+      {
+        "ar": "ما نضنّش باش يجي",
+        "tr": "ma nDunnish bāsh yji",
+        "en": "I don't think he'll come"
+      }
+    ]
   },
   {
     "ar": "حسب",
@@ -3000,7 +6140,20 @@
     "ex_ar": "احسب قدّاش نطلبوك",
     "ex_tr": "i7sib gaddāsh nuTlbūk",
     "ex_en": "Work out how much we owe you",
-    "note": "imperfect: نحسب ni7sib (I count), يحسب yi7sib (he counts)"
+    "note": "imperfect: نحسب ni7sib (I count), يحسب yi7sib (he counts)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "حسبتك خوه",
+        "tr": "7sabtak khūh",
+        "en": "I thought you were his brother"
+      },
+      {
+        "ar": "احسبها مليح",
+        "tr": "i7sibha mlī7",
+        "en": "Calculate it carefully"
+      }
+    ]
   },
   {
     "ar": "خدم",
@@ -3013,7 +6166,20 @@
     "ex_ar": "وين تخدم؟ نخدم في شركة",
     "ex_tr": "wīn tikhdim? nikhdim fi sharika",
     "ex_en": "Where do you work? I work at a company",
-    "note": "imperfect: نخدم nikhdim (I work), يخدم yikhdim (he works). Also 'to function': الكرهبة ما تخدمش 'the car doesn't work'."
+    "note": "imperfect: نخدم nikhdim (I work), يخدم yikhdim (he works). Also 'to function': الكرهبة ما تخدمش 'the car doesn't work'.",
+    "usage": 92,
+    "phrases": [
+      {
+        "ar": "خدمت لين الليل",
+        "tr": "khdimt līn l-lēl",
+        "en": "I worked until night"
+      },
+      {
+        "ar": "الموبايل ما يخدمش",
+        "tr": "l-mōbāyl ma yikhdimsh",
+        "en": "The phone isn't working"
+      }
+    ]
   },
   {
     "ar": "شرى",
@@ -3026,7 +6192,20 @@
     "ex_ar": "شريت حوايج جداد من السوق",
     "ex_tr": "shrēt 7wāyij jdād min is-sūg",
     "ex_en": "I bought new clothes at the market",
-    "note": "imperfect: نشري nishri (I buy), يشري yishri (he buys)"
+    "note": "imperfect: نشري nishri (I buy), يشري yishri (he buys)",
+    "usage": 88,
+    "phrases": [
+      {
+        "ar": "شن شريت؟",
+        "tr": "shin shrēt?",
+        "en": "What did you buy?"
+      },
+      {
+        "ar": "باش نشري كرهبة",
+        "tr": "bāsh nishri karhba",
+        "en": "I'm going to buy a car"
+      }
+    ]
   },
   {
     "ar": "باع",
@@ -3039,7 +6218,20 @@
     "ex_ar": "باع الكرهبة القديمة",
     "ex_tr": "bā3 il-karhba l-gdīma",
     "ex_en": "He sold the old car",
-    "note": "imperfect: نبيع nbī3 (I sell), يبيع ybī3 (he sells)"
+    "note": "imperfect: نبيع nbī3 (I sell), يبيع ybī3 (he sells)",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "بعت الموبايل القديم",
+        "tr": "bi3t l-mōbāyl l-gdīm",
+        "en": "I sold the old phone"
+      },
+      {
+        "ar": "تبيع الحوش؟",
+        "tr": "tbī3 l-7ōsh?",
+        "en": "Are you selling the house?"
+      }
+    ]
   },
   {
     "ar": "دفع",
@@ -3052,7 +6244,20 @@
     "ex_ar": "قدّاش دفعت عليها؟",
     "ex_tr": "gaddāsh dfa3t 3alēha?",
     "ex_en": "How much did you pay for it?",
-    "note": "imperfect: ندفع nidfa3 (I pay), يدفع yidfa3 (he pays)"
+    "note": "imperfect: ندفع nidfa3 (I pay), يدفع yidfa3 (he pays)",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "ما تدفعش!",
+        "tr": "ma tidfa3sh!",
+        "en": "Don't push!"
+      },
+      {
+        "ar": "دفعت الكرا",
+        "tr": "dfa3t l-kra",
+        "en": "I paid the rent"
+      }
+    ]
   },
   {
     "ar": "خلّص",
@@ -3065,7 +6270,20 @@
     "ex_ar": "خلّص الحساب، تو نرجّعلك",
     "ex_tr": "khalliS il-7sāb, tawwa nrajj3ilk",
     "ex_en": "Pay the bill, I'll pay you back soon",
-    "note": "imperfect: نخلّص nkhalliS (I pay), يخلّص ykhalliS (he pays). Very common Libyan/Maghrebi 'pay'. خلاص khlāS = payment, salary."
+    "note": "imperfect: نخلّص nkhalliS (I pay), يخلّص ykhalliS (he pays). Very common Libyan/Maghrebi 'pay'. خلاص khlāS = payment, salary.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "خلّصت؟",
+        "tr": "khallaSt?",
+        "en": "Did you pay?"
+      },
+      {
+        "ar": "أنا نخلّص اليوم",
+        "tr": "āna nkhalliS l-yōm",
+        "en": "I'm paying today"
+      }
+    ]
   },
   {
     "ar": "حلّ",
@@ -3078,7 +6296,20 @@
     "ex_ar": "حل الباب، فيه حد يدق",
     "ex_tr": "7ill il-bāb, fīh 7add ydugg",
     "ex_en": "Open the door, someone's knocking",
-    "note": "imperfect: نحل n7ill (I open), يحل y7ill (he opens). Typical Libyan 'open' (also 'to solve'). محلول ma7lūl = open."
+    "note": "imperfect: نحل n7ill (I open), يحل y7ill (he opens). Typical Libyan 'open' (also 'to solve'). محلول ma7lūl = open.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "حلّ الشباك",
+        "tr": "7ill sh-shubbāk",
+        "en": "Open the window"
+      },
+      {
+        "ar": "الحانوت محلول؟",
+        "tr": "l-7ānūt ma7lūl?",
+        "en": "Is the shop open?"
+      }
+    ]
   },
   {
     "ar": "فتح",
@@ -3091,7 +6322,20 @@
     "ex_ar": "الحانوت يفتح الساعة ثمانية",
     "ex_tr": "il-7ānūt yifta7 is-sā3a thmanya",
     "ex_en": "The shop opens at eight",
-    "note": "imperfect: نفتح nifta7 (I open), يفتح yifta7 (he opens). حل 7all is the more colloquial 'open'."
+    "note": "imperfect: نفتح nifta7 (I open), يفتح yifta7 (he opens). حل 7all is the more colloquial 'open'.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "فتحوا مطعم جديد",
+        "tr": "fat7u maT3am jdīd",
+        "en": "They opened a new restaurant"
+      },
+      {
+        "ar": "افتح عينيك",
+        "tr": "ifta7 3ēnīk",
+        "en": "Open your eyes"
+      }
+    ]
   },
   {
     "ar": "سكّر",
@@ -3104,7 +6348,20 @@
     "ex_ar": "سكّر الشباك، فيه ريح",
     "ex_tr": "sakkir ish-shubbāk, fīh rī7",
     "ex_en": "Close the window, it's windy",
-    "note": "imperfect: نسكّر nsakkir (I close), يسكّر ysakkir (he closes)"
+    "note": "imperfect: نسكّر nsakkir (I close), يسكّر ysakkir (he closes)",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "سكّر الباب وراك",
+        "tr": "sakkir l-bāb warāk",
+        "en": "Close the door behind you"
+      },
+      {
+        "ar": "الحانوت مسكّر",
+        "tr": "l-7ānūt msakkar",
+        "en": "The shop is closed"
+      }
+    ]
   },
   {
     "ar": "صلّح",
@@ -3117,7 +6374,20 @@
     "ex_ar": "لازم نصلّح الكرهبة",
     "ex_tr": "lāzim nSalli7 il-karhba",
     "ex_en": "I have to fix the car",
-    "note": "imperfect: نصلّح nSalli7 (I fix), يصلّح ySalli7 (he fixes)"
+    "note": "imperfect: نصلّح nSalli7 (I fix), يصلّح ySalli7 (he fixes)",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "صلّحت الكليماتيزور",
+        "tr": "Salla7t l-klimatizūr",
+        "en": "I fixed the AC"
+      },
+      {
+        "ar": "ربي يصلّحك",
+        "tr": "rabbi ySalla7ak",
+        "en": "May God set you right"
+      }
+    ]
   },
   {
     "ar": "سڨّم",
@@ -3130,7 +6400,20 @@
     "ex_ar": "سڨّمتلك الموبايل، توا يخدم",
     "ex_tr": "saggamtlak il-mōbāyl, tawwa yikhdim",
     "ex_en": "I fixed your phone, it works now",
-    "note": "imperfect: نسڨّم nsaggim (I fix), يسڨّم ysaggim (he fixes). Libyan/Tunisian; also spelled سقّم or سگّم. Also 'to arrange, set straight'."
+    "note": "imperfect: نسڨّم nsaggim (I fix), يسڨّم ysaggim (he fixes). Libyan/Tunisian; also spelled سقّم or سگّم. Also 'to arrange, set straight'.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "سڨّم روحك",
+        "tr": "saggim rū7ak",
+        "en": "Get yourself together"
+      },
+      {
+        "ar": "باش نسڨّملك الموضوع",
+        "tr": "bāsh nsaggimlak l-mawDū3",
+        "en": "I'll sort the matter out for you"
+      }
+    ]
   },
   {
     "ar": "بنى",
@@ -3143,7 +6426,20 @@
     "ex_ar": "قاعد يبني في حوش جديد",
     "ex_tr": "gā3id yibni fi 7ōsh jdīd",
     "ex_en": "He's building a new house",
-    "note": "imperfect: نبني nibni (I build), يبني yibni (he builds)"
+    "note": "imperfect: نبني nibni (I build), يبني yibni (he builds)",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "بنى حوش لولده",
+        "tr": "bnā 7ōsh l-wilda",
+        "en": "He built a house for his son"
+      },
+      {
+        "ar": "باش نبنوا دور ثاني",
+        "tr": "bāsh nibnu dōr thāni",
+        "en": "We'll build a second floor"
+      }
+    ]
   },
   {
     "ar": "سلّف",
@@ -3156,7 +6452,20 @@
     "ex_ar": "سلّفني ميتين دينار",
     "ex_tr": "sallifni mītēn dīnār",
     "ex_en": "Lend me two hundred dinars",
-    "note": "imperfect: نسلّف nsallif (I lend), يسلّف ysallif (he lends)"
+    "note": "imperfect: نسلّف nsallif (I lend), يسلّف ysallif (he lends)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "تسلّفني شوية فلوس؟",
+        "tr": "tsallifni shwayya flūs?",
+        "en": "Can you lend me some money?"
+      },
+      {
+        "ar": "سلّفته الكرهبة",
+        "tr": "sallafta l-karhba",
+        "en": "I lent him the car"
+      }
+    ]
   },
   {
     "ar": "تسلّف",
@@ -3169,7 +6478,20 @@
     "ex_ar": "تسلّفت فلوس من خوي",
     "ex_tr": "tsallaft flūs min khūy",
     "ex_en": "I borrowed money from my brother",
-    "note": "imperfect: نتسلّف nitsallaf (I borrow), يتسلّف yitsallaf (he borrows)"
+    "note": "imperfect: نتسلّف nitsallaf (I borrow), يتسلّف yitsallaf (he borrows)",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "باش نتسلّف من صاحبي",
+        "tr": "bāsh nitsallaf min Sā7bi",
+        "en": "I'll borrow from my friend"
+      },
+      {
+        "ar": "تسلّفت الكتاب من المكتبة",
+        "tr": "tsallaft l-ktāb min l-maktaba",
+        "en": "I borrowed the book from the library"
+      }
+    ]
   },
   {
     "ar": "كرى",
@@ -3182,7 +6504,20 @@
     "ex_ar": "كرينا شقة قريب من البحر",
     "ex_tr": "krēna shigga grīb min il-ba7r",
     "ex_en": "We rented a flat near the sea",
-    "note": "imperfect: نكري nikri (I rent), يكري yikri (he rents). Means both 'rent (from)' and 'rent out'."
+    "note": "imperfect: نكري nikri (I rent), يكري yikri (he rents). Means both 'rent (from)' and 'rent out'.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "كريت كرهبة في المطار",
+        "tr": "krēt karhba fi l-maTār",
+        "en": "I rented a car at the airport"
+      },
+      {
+        "ar": "الحوش للكرا",
+        "tr": "l-7ōsh l-l-kra",
+        "en": "The house is for rent"
+      }
+    ]
   },
   {
     "ar": "وفّر",
@@ -3195,7 +6530,20 @@
     "ex_ar": "قاعد نوفّر باش نعرّس",
     "ex_tr": "gā3id nwaffir bash n3arris",
     "ex_en": "I'm saving up to get married",
-    "note": "imperfect: نوفّر nwaffir (I save), يوفّر ywaffir (he saves)"
+    "note": "imperfect: نوفّر nwaffir (I save), يوفّر ywaffir (he saves)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "وفّرت شوية فلوس",
+        "tr": "waffart shwayya flūs",
+        "en": "I saved some money"
+      },
+      {
+        "ar": "وفّر على روحك",
+        "tr": "waffir 3ala rū7ak",
+        "en": "Save yourself the trouble"
+      }
+    ]
   },
   {
     "ar": "صرف",
@@ -3208,7 +6556,20 @@
     "ex_ar": "صرفت الشهرية كلها",
     "ex_tr": "Sraft ish-shahriyya kullha",
     "ex_en": "I spent the whole salary",
-    "note": "imperfect: نصرف nuSruf (I spend), يصرف yuSruf (he spends). شهرية shahriyya = monthly salary."
+    "note": "imperfect: نصرف nuSruf (I spend), يصرف yuSruf (he spends). شهرية shahriyya = monthly salary.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "قدّاش صرفت؟",
+        "tr": "gaddāsh Sraft?",
+        "en": "How much did you spend?"
+      },
+      {
+        "ar": "ما تصرفش هلبة",
+        "tr": "ma tuSrufsh hallba",
+        "en": "Don't spend too much"
+      }
+    ]
   },
   {
     "ar": "ربح",
@@ -3221,7 +6582,20 @@
     "ex_ar": "الاتحاد ربح الماتش",
     "ex_tr": "il-itti7ād rba7 il-mātsh",
     "ex_en": "Al-Ittihad won the match",
-    "note": "imperfect: نربح nurba7 (I win), يربح yurba7 (he wins). Al-Ittihad = Tripoli football club."
+    "note": "imperfect: نربح nurba7 (I win), يربح yurba7 (he wins). Al-Ittihad = Tripoli football club.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "شكون ربح؟",
+        "tr": "shkūn rba7?",
+        "en": "Who won?"
+      },
+      {
+        "ar": "ربحت في التجارة",
+        "tr": "rba7t fi t-tijāra",
+        "en": "I made a profit in trade"
+      }
+    ]
   },
   {
     "ar": "خسر",
@@ -3234,7 +6608,20 @@
     "ex_ar": "خسرنا فلوس هلبة في التجارة هذي",
     "ex_tr": "khsarna flūs hallba fit-tijāra hādhi",
     "ex_en": "We lost a lot of money in this business",
-    "note": "imperfect: نخسر nikhsar (I lose), يخسر yikhsar (he loses). Also 'to spoil (food)': خاسر khāsir = spoiled, broken."
+    "note": "imperfect: نخسر nikhsar (I lose), يخسر yikhsar (he loses). Also 'to spoil (food)': خاسر khāsir = spoiled, broken.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "خسرنا الماتش",
+        "tr": "khsarna l-mātsh",
+        "en": "We lost the match"
+      },
+      {
+        "ar": "ما تخسرش فلوسك",
+        "tr": "ma tukhsursh flūsak",
+        "en": "Don't lose your money"
+      }
+    ]
   },
   {
     "ar": "ضيّع",
@@ -3247,7 +6634,20 @@
     "ex_ar": "ما تضيّعش وقتك",
     "ex_tr": "ma tDayya3sh waqtak",
     "ex_en": "Don't waste your time",
-    "note": "imperfect: نضيّع nDayyi3 (I lose), يضيّع yDayyi3 (he loses)"
+    "note": "imperfect: نضيّع nDayyi3 (I lose), يضيّع yDayyi3 (he loses)",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "ضيّعت المفاتيح",
+        "tr": "Dayya3t l-mfātī7",
+        "en": "I lost the keys"
+      },
+      {
+        "ar": "ضيّعنا الطريق",
+        "tr": "Dayya3na T-Trīg",
+        "en": "We lost our way"
+      }
+    ]
   },
   {
     "ar": "درس",
@@ -3260,7 +6660,20 @@
     "ex_ar": "قاعد ندرس للامتحان",
     "ex_tr": "gā3id nidris lil-imti7ān",
     "ex_en": "I'm studying for the exam",
-    "note": "imperfect: ندرس nidris (I study), يدرس yidris (he studies). قرا grā is the everyday word for studying at school."
+    "note": "imperfect: ندرس nidris (I study), يدرس yidris (he studies). قرا grā is the everyday word for studying at school.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "درست في طرابلس",
+        "tr": "drast fi Trāblus",
+        "en": "I studied in Tripoli"
+      },
+      {
+        "ar": "شن تدرس؟",
+        "tr": "shin tudrus?",
+        "en": "What are you studying?"
+      }
+    ]
   },
   {
     "ar": "نجح",
@@ -3273,7 +6686,20 @@
     "ex_ar": "نجحت في الامتحان، الحمد لله",
     "ex_tr": "nja7t fil-imti7ān, il-7amdu lillah",
     "ex_en": "I passed the exam, thank God",
-    "note": "imperfect: ننجح ninja7 (I pass), ينجح yinja7 (he passes)"
+    "note": "imperfect: ننجح ninja7 (I pass), ينجح yinja7 (he passes)",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "ولدي نجح في الشهادة",
+        "tr": "wildi nja7 fi sh-shahāda",
+        "en": "My son passed his school-leaving exam"
+      },
+      {
+        "ar": "ربي ينجّحك",
+        "tr": "rabbi ynajj7ak",
+        "en": "May God make you succeed"
+      }
+    ]
   },
   {
     "ar": "سقط",
@@ -3286,7 +6712,20 @@
     "ex_ar": "سقط في الرياضيات",
     "ex_tr": "sgaT fir-riyāDiyyāt",
     "ex_en": "He failed maths",
-    "note": "imperfect: نسقط nusguT (I fail), يسقط yusguT (he fails). ق = g."
+    "note": "imperfect: نسقط nusguT (I fail), يسقط yusguT (he fails). ق = g.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "خايف نسقط",
+        "tr": "khāyif nusguT",
+        "en": "I'm afraid I'll fail"
+      },
+      {
+        "ar": "سقطت في الامتحان",
+        "tr": "sgaTt fi l-imti7ān",
+        "en": "I failed the exam"
+      }
+    ]
   },
   {
     "ar": "قرّا",
@@ -3299,7 +6738,20 @@
     "ex_ar": "يقرّي في مدرسة ابتدائية",
     "ex_tr": "ygarri fi madrasa ibtidā'iyya",
     "ex_en": "He teaches at a primary school",
-    "note": "imperfect: نقرّي ngarri (I teach), يقرّي ygarri (he teaches). Causative of قرا grā; ق = g."
+    "note": "imperfect: نقرّي ngarri (I teach), يقرّي ygarri (he teaches). Causative of قرا grā; ق = g.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "شكون يقرّيك؟",
+        "tr": "shkūn ygarrīk?",
+        "en": "Who teaches you?"
+      },
+      {
+        "ar": "قرّيت عشر سنين",
+        "tr": "garrēt 3ashr snīn",
+        "en": "I taught for ten years"
+      }
+    ]
   },
   {
     "ar": "عاون",
@@ -3312,7 +6764,20 @@
     "ex_ar": "تبي نعاونك؟",
     "ex_tr": "tibbi n3āwnak?",
     "ex_en": "Do you want me to help you?",
-    "note": "imperfect: نعاون n3āwin (I help), يعاون y3āwin (he helps). Everyday Libyan 'help'."
+    "note": "imperfect: نعاون n3āwin (I help), يعاون y3āwin (he helps). Everyday Libyan 'help'.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "عاوني شوية",
+        "tr": "3āwinni shwayya",
+        "en": "Help me a bit"
+      },
+      {
+        "ar": "ربي يعاونك",
+        "tr": "rabbi y3āwnak",
+        "en": "May God help you"
+      }
+    ]
   },
   {
     "ar": "ساعد",
@@ -3325,7 +6790,20 @@
     "ex_ar": "ساعدني نشيل الصندوق",
     "ex_tr": "sā3idni nshīl iS-Sandūg",
     "ex_en": "Help me carry the box",
-    "note": "imperfect: نساعد nsā3id (I help), يساعد ysā3id (he helps)"
+    "note": "imperfect: نساعد nsā3id (I help), يساعد ysā3id (he helps)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "ساعدني في الخدمة",
+        "tr": "sā3idni fi l-khidma",
+        "en": "Help me with the work"
+      },
+      {
+        "ar": "نساعدك؟",
+        "tr": "nsā3dak?",
+        "en": "Shall I help you?"
+      }
+    ]
   },
   {
     "ar": "استعمل",
@@ -3338,7 +6816,20 @@
     "ex_ar": "نستعمل الموبايل في كل شي",
     "ex_tr": "nista3mil il-mōbāyl fi kull shay",
     "ex_en": "I use my phone for everything",
-    "note": "imperfect: نستعمل nista3mil (I use), يستعمل yista3mil (he uses)"
+    "note": "imperfect: نستعمل nista3mil (I use), يستعمل yista3mil (he uses)",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "كيف نستعمل هذا؟",
+        "tr": "kīf nista3mil hādha?",
+        "en": "How do I use this?"
+      },
+      {
+        "ar": "استعملت الماكينة متاعه",
+        "tr": "ista3malt l-mākīna mtā3a",
+        "en": "I used his machine"
+      }
+    ]
   },
   {
     "ar": "جرّب",
@@ -3351,7 +6842,20 @@
     "ex_ar": "جرّب القميجة قبل ما تشريها",
     "ex_tr": "jarrib il-gmīja gbal ma tishrīha",
     "ex_en": "Try on the shirt before you buy it",
-    "note": "imperfect: نجرّب njarrib (I try), يجرّب yjarrib (he tries)"
+    "note": "imperfect: نجرّب njarrib (I try), يجرّب yjarrib (he tries)",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "جرّب الماكلة هذي",
+        "tr": "jarrib l-mākla hādhi",
+        "en": "Try this food"
+      },
+      {
+        "ar": "جرّبت وما نفعش",
+        "tr": "jarrabt w ma nfa3sh",
+        "en": "I tried and it didn't work"
+      }
+    ]
   },
   {
     "ar": "حاول",
@@ -3364,7 +6868,20 @@
     "ex_ar": "باش نحاول نجي بكري",
     "ex_tr": "bash n7āwil nji bakri",
     "ex_en": "I'll try to come early",
-    "note": "imperfect: نحاول n7āwil (I try), يحاول y7āwil (he tries)"
+    "note": "imperfect: نحاول n7āwil (I try), يحاول y7āwil (he tries)",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "حاولت نكلّمك",
+        "tr": "7āwalt nkallmak",
+        "en": "I tried to call you"
+      },
+      {
+        "ar": "حاول مرة أخرى",
+        "tr": "7āwil marra ukhra",
+        "en": "Try again"
+      }
+    ]
   },
   {
     "ar": "كسر",
@@ -3377,7 +6894,20 @@
     "ex_ar": "كسر الكاس وهو يغسل",
     "ex_tr": "ksar il-kās w huwa yughsul",
     "ex_en": "He broke the glass while washing up",
-    "note": "imperfect: نكسر niksir (I break), يكسر yiksir (he breaks). Intransitive تكسّر tkassar 'got broken'."
+    "note": "imperfect: نكسر niksir (I break), يكسر yiksir (he breaks). Intransitive تكسّر tkassar 'got broken'.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "شكون كسر الشباك؟",
+        "tr": "shkūn ksar sh-shubbāk?",
+        "en": "Who broke the window?"
+      },
+      {
+        "ar": "كسرت يده في الماتش",
+        "tr": "kisrat yadda fi l-mātsh",
+        "en": "He broke his hand in the match"
+      }
+    ]
   },
   {
     "ar": "خرّب",
@@ -3390,7 +6920,20 @@
     "ex_ar": "خرّب الموبايل متاعي",
     "ex_tr": "kharrab il-mōbāyl mtā3i",
     "ex_en": "He broke my phone",
-    "note": "imperfect: نخرّب nkharrib (I ruin), يخرّب ykharrib (he ruins)"
+    "note": "imperfect: نخرّب nkharrib (I ruin), يخرّب ykharrib (he ruins)",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "ما تخرّبش اللعبة",
+        "tr": "ma tkharribsh l-li3ba",
+        "en": "Don't break the toy"
+      },
+      {
+        "ar": "الكرهبة خاربة",
+        "tr": "l-karhba khārba",
+        "en": "The car is broken down"
+      }
+    ]
   },
   {
     "ar": "رسم",
@@ -3403,7 +6946,20 @@
     "ex_ar": "يحب يرسم في الكراسة",
     "ex_tr": "y7ibb yirsim fil-karrāsa",
     "ex_en": "He loves drawing in his notebook",
-    "note": "imperfect: نرسم nirsim (I draw), يرسم yirsim (he draws)"
+    "note": "imperfect: نرسم nirsim (I draw), يرسم yirsim (he draws)",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "ارسملي حوش",
+        "tr": "ursumli 7ōsh",
+        "en": "Draw me a house"
+      },
+      {
+        "ar": "رسمت خريطة",
+        "tr": "rsamt khrīTa",
+        "en": "I drew a map"
+      }
+    ]
   },
   {
     "ar": "طبع",
@@ -3416,7 +6972,20 @@
     "ex_ar": "اطبعلي الورقة هذي",
     "ex_tr": "iTba3li l-warga hādhi",
     "ex_en": "Print this paper for me",
-    "note": "imperfect: نطبع niTba3 (I print), يطبع yiTba3 (he prints)"
+    "note": "imperfect: نطبع niTba3 (I print), يطبع yiTba3 (he prints)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "طبعت الورقة؟",
+        "tr": "Tba3t l-wraga?",
+        "en": "Did you print the document?"
+      },
+      {
+        "ar": "الطابعة ما تطبعش",
+        "tr": "T-Tāb3a ma tiTba3sh",
+        "en": "The printer isn't printing"
+      }
+    ]
   },
   {
     "ar": "مضى",
@@ -3429,7 +6998,20 @@
     "ex_ar": "امضي هني لو سمحت",
     "ex_tr": "imDi hni law sama7t",
     "ex_en": "Sign here please",
-    "note": "imperfect: نمضي nimDi (I sign), يمضي yimDi (he signs). Maghrebi; مضاء mDā = signature."
+    "note": "imperfect: نمضي nimDi (I sign), يمضي yimDi (he signs). Maghrebi; مضاء mDā = signature.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "مضيت العقد",
+        "tr": "mDēt l-3agd",
+        "en": "I signed the contract"
+      },
+      {
+        "ar": "وين نمضي؟",
+        "tr": "wīn numDi?",
+        "en": "Where do I sign?"
+      }
+    ]
   },
   {
     "ar": "حجز",
@@ -3442,7 +7024,20 @@
     "ex_ar": "حجزت تذكرة لإسطنبول",
     "ex_tr": "7jazt tadhkara l-isTanbūl",
     "ex_en": "I booked a ticket to Istanbul",
-    "note": "imperfect: نحجز ni7jiz (I book), يحجز yi7jiz (he books)"
+    "note": "imperfect: نحجز ni7jiz (I book), يحجز yi7jiz (he books)",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "حجزت الطاولة؟",
+        "tr": "7jazt T-Tāwla?",
+        "en": "Did you book the table?"
+      },
+      {
+        "ar": "باش نحجز في الأوتيل",
+        "tr": "bāsh n7jiz fi l-ūtēl",
+        "en": "I'll book at the hotel"
+      }
+    ]
   },
   {
     "ar": "استلم",
@@ -3455,7 +7050,20 @@
     "ex_ar": "استلمت الشهرية اليوم",
     "ex_tr": "istlamt ish-shahriyya il-yōm",
     "ex_en": "I got my salary today",
-    "note": "imperfect: نستلم nistlim (I receive), يستلم yistlim (he receives)"
+    "note": "imperfect: نستلم nistlim (I receive), يستلم yistlim (he receives)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "استلمت الطرد؟",
+        "tr": "istlamt T-Tard?",
+        "en": "Did you receive the parcel?"
+      },
+      {
+        "ar": "باش نستلم الكرهبة غدوة",
+        "tr": "bāsh nistlim l-karhba ghudwa",
+        "en": "I'll collect the car tomorrow"
+      }
+    ]
   },
   {
     "ar": "قبض",
@@ -3468,7 +7076,20 @@
     "ex_ar": "امتى تقبضوا؟ آخر الشهر",
     "ex_tr": "imta tugbDu? ākhir ish-shahr",
     "ex_en": "When do you get paid? At the end of the month",
-    "note": "imperfect: نقبض nugbuD (I get paid), يقبض yugbuD (he gets paid). ق = g. Also 'to arrest': قبضوا عليه."
+    "note": "imperfect: نقبض nugbuD (I get paid), يقبض yugbuD (he gets paid). ق = g. Also 'to arrest': قبضوا عليه.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "قبضت المرتب؟",
+        "tr": "gbaDt l-murattab?",
+        "en": "Did you get paid?"
+      },
+      {
+        "ar": "البوليس قبض عليه",
+        "tr": "l-bōlīs gbaD 3lēh",
+        "en": "The police arrested him"
+      }
+    ]
   },
   {
     "ar": "رفع",
@@ -3481,7 +7102,20 @@
     "ex_ar": "ارفع الصندوق معايا",
     "ex_tr": "irfa3 iS-Sandūg m3āya",
     "ex_en": "Lift the box with me",
-    "note": "imperfect: نرفع nirfa3 (I lift), يرفع yirfa3 (he lifts)"
+    "note": "imperfect: نرفع nirfa3 (I lift), يرفع yirfa3 (he lifts)",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "ارفع صوتك شوية",
+        "tr": "irfa3 Sōtak shwayya",
+        "en": "Raise your voice a bit"
+      },
+      {
+        "ar": "رفعوا الأسعار",
+        "tr": "rf3u l-as3ār",
+        "en": "They raised the prices"
+      }
+    ]
   },
   {
     "ar": "جمع",
@@ -3494,7 +7128,20 @@
     "ex_ar": "جمّعنا فلوس للعرس",
     "ex_tr": "jamma3na flūs lil-3ars",
     "ex_en": "We gathered money for the wedding",
-    "note": "imperfect: نجمع nijma3 (I collect), يجمع yijma3 (he collects). Intensive جمّع jamma3 also common."
+    "note": "imperfect: نجمع nijma3 (I collect), يجمع yijma3 (he collects). Intensive جمّع jamma3 also common.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "جمع حوايجه ومشى",
+        "tr": "jma3 7wāyja w mshā",
+        "en": "He gathered his things and left"
+      },
+      {
+        "ar": "جمعت الصحون",
+        "tr": "jma3t S-S7ūn",
+        "en": "I gathered up the dishes"
+      }
+    ]
   },
   {
     "ar": "فرّق",
@@ -3507,7 +7154,20 @@
     "ex_ar": "فرّق الحلوى على الصغار",
     "ex_tr": "farrig il-7alwa 3ala S-Sghār",
     "ex_en": "Hand out the sweets to the kids",
-    "note": "imperfect: نفرّق nfarrig (I distribute), يفرّق yfarrig (he distributes). ق = g."
+    "note": "imperfect: نفرّق nfarrig (I distribute), يفرّق yfarrig (he distributes). ق = g.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "فرّقوا بيناتهم",
+        "tr": "farrgu binēt-hum",
+        "en": "They separated them"
+      },
+      {
+        "ar": "ما تفرّقش بين الصغار",
+        "tr": "ma tfarrigsh bīn S-Sghār",
+        "en": "Don't treat the kids differently"
+      }
+    ]
   },
   {
     "ar": "عدّ",
@@ -3520,7 +7180,20 @@
     "ex_ar": "عدّ الفلوس قبل ما تمشي",
     "ex_tr": "3idd il-flūs gbal ma timshi",
     "ex_en": "Count the money before you leave",
-    "note": "imperfect: نعد n3idd (I count), يعد y3idd (he counts)"
+    "note": "imperfect: نعد n3idd (I count), يعد y3idd (he counts)",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "عدّيتهم؟",
+        "tr": "3addēt-hum?",
+        "en": "Did you count them?"
+      },
+      {
+        "ar": "عدّ لعشرة",
+        "tr": "3idd l-3ashra",
+        "en": "Count to ten"
+      }
+    ]
   },
   {
     "ar": "حفر",
@@ -3533,7 +7206,20 @@
     "ex_ar": "حفروا بير في المزرعة",
     "ex_tr": "7afru bīr fil-mazra3a",
     "ex_en": "They dug a well on the farm",
-    "note": "imperfect: نحفر ni7fir (I dig), يحفر yi7fir (he digs)"
+    "note": "imperfect: نحفر ni7fir (I dig), يحفر yi7fir (he digs)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "حفر حفرة في الرملة",
+        "tr": "7far 7ufra fi r-rimla",
+        "en": "He dug a hole in the sand"
+      },
+      {
+        "ar": "الصغير يحفر في الجنان",
+        "tr": "S-Sghīr yi7fir fi l-jnān",
+        "en": "The kid is digging in the garden"
+      }
+    ]
   },
   {
     "ar": "زرع",
@@ -3546,7 +7232,20 @@
     "ex_ar": "زرعنا زيتون في الجنان",
     "ex_tr": "zra3na zētūn fil-jnān",
     "ex_en": "We planted olives in the garden",
-    "note": "imperfect: نزرع nizra3 (I plant), يزرع yizra3 (he plants). جنان jnān = garden/orchard."
+    "note": "imperfect: نزرع nizra3 (I plant), يزرع yizra3 (he plants). جنان jnān = garden/orchard.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "زرعت طماطم",
+        "tr": "zra3t TmāTim",
+        "en": "I planted tomatoes"
+      },
+      {
+        "ar": "باش نزرعوا شجرة",
+        "tr": "bāsh nizr3u shajra",
+        "en": "We'll plant a tree"
+      }
+    ]
   },
   {
     "ar": "دهن",
@@ -3559,7 +7258,20 @@
     "ex_ar": "دهنّا الحوش أبيض",
     "ex_tr": "dhanna l-7ōsh abyaD",
     "ex_en": "We painted the house white",
-    "note": "imperfect: ندهن nidhan (I paint), يدهن yidhan (he paints)"
+    "note": "imperfect: ندهن nidhan (I paint), يدهن yidhan (he paints)",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "دهنت الدار",
+        "tr": "dhant d-dār",
+        "en": "I painted the room"
+      },
+      {
+        "ar": "باش ندهنوا الحوش",
+        "tr": "bāsh nidhnu l-7ōsh",
+        "en": "We'll paint the house"
+      }
+    ]
   },
   {
     "ar": "لصق",
@@ -3572,7 +7284,20 @@
     "ex_ar": "الصق الورقة على الباب",
     "ex_tr": "ilSag il-warga 3ala l-bāb",
     "ex_en": "Stick the paper on the door",
-    "note": "imperfect: نلصق nilSag (I stick), يلصق yilSag (he sticks). ق = g."
+    "note": "imperfect: نلصق nilSag (I stick), يلصق yilSag (he sticks). ق = g.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "لصقت الصورة على الحيط",
+        "tr": "lSagt S-Sūra 3ala l-7ēT",
+        "en": "I stuck the picture on the wall"
+      },
+      {
+        "ar": "الورقة ما تلصقش",
+        "tr": "l-wraga ma tilSagsh",
+        "en": "The paper won't stick"
+      }
+    ]
   },
   {
     "ar": "قاس",
@@ -3585,7 +7310,20 @@
     "ex_ar": "قيس الطاولة قبل ما تشريها",
     "ex_tr": "gīs iT-Tāwla gbal ma tishrīha",
     "ex_en": "Measure the table before buying it",
-    "note": "imperfect: نقيس ngīs (I measure), يقيس ygīs (he measures). Also 'to try on': قيس القميجة."
+    "note": "imperfect: نقيس ngīs (I measure), يقيس ygīs (he measures). Also 'to try on': قيس القميجة.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "قست الحوايج؟",
+        "tr": "gist l-7wāyij?",
+        "en": "Did you try the clothes on?"
+      },
+      {
+        "ar": "قاس الحرارة متاعه",
+        "tr": "gās l-7arāra mtā3a",
+        "en": "He took his temperature"
+      }
+    ]
   },
   {
     "ar": "سجّل",
@@ -3598,7 +7336,20 @@
     "ex_ar": "سجّلت في الجامعة",
     "ex_tr": "sajjalt fil-jām3a",
     "ex_en": "I registered at the university",
-    "note": "imperfect: نسجّل nsajjil (I register), يسجّل ysajjil (he registers)"
+    "note": "imperfect: نسجّل nsajjil (I register), يسجّل ysajjil (he registers)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "سجّلت الصغير في المدرسة",
+        "tr": "sajjalt S-Sghīr fi l-madrasa",
+        "en": "I enrolled the boy in school"
+      },
+      {
+        "ar": "سجّل النمرة متاعي",
+        "tr": "sajjil n-nimra mtā3i",
+        "en": "Save my number"
+      }
+    ]
   },
   {
     "ar": "شغّل",
@@ -3611,7 +7362,20 @@
     "ex_ar": "شغّل الكليماتيزور، سخانة",
     "ex_tr": "shaghghil il-klīmātīzūr, skhāna",
     "ex_en": "Turn on the AC, it's hot",
-    "note": "imperfect: نشغّل nshaghghil (I turn on), يشغّل yshaghghil (he turns on). كليماتيزور = air conditioner (French climatiseur)."
+    "note": "imperfect: نشغّل nshaghghil (I turn on), يشغّل yshaghghil (he turns on). كليماتيزور = air conditioner (French climatiseur).",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "شغّل الكرهبة",
+        "tr": "shaghghil l-karhba",
+        "en": "Start the car"
+      },
+      {
+        "ar": "شغّلوه في شركة",
+        "tr": "shaghghlūh fi sharika",
+        "en": "They hired him at a company"
+      }
+    ]
   },
   {
     "ar": "خيّط",
@@ -3624,7 +7388,20 @@
     "ex_ar": "خيّطت فستان لبنتها",
     "ex_tr": "khayyTat fustān l-bintha",
     "ex_en": "She sewed a dress for her daughter",
-    "note": "imperfect: نخيّط nkhayyiT (I sew), يخيّط ykhayyiT (he sews)"
+    "note": "imperfect: نخيّط nkhayyiT (I sew), يخيّط ykhayyiT (he sews)",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "خيّطلي السروال",
+        "tr": "khayyiTli s-sirwāl",
+        "en": "Sew my trousers for me"
+      },
+      {
+        "ar": "تعرف تخيّط؟",
+        "tr": "ta3raf tkhayyiT?",
+        "en": "Do you know how to sew?"
+      }
+    ]
   },
   {
     "ar": "كسب",
@@ -3637,7 +7414,20 @@
     "ex_ar": "يكسب فلوس باهية من التجارة",
     "ex_tr": "yiksib flūs bāhya min it-tijāra",
     "ex_en": "He earns good money from trade",
-    "note": "imperfect: نكسب niksib (I earn), يكسب yiksib (he earns)"
+    "note": "imperfect: نكسب niksib (I earn), يكسب yiksib (he earns)",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "كسبت هلبة من الخدمة هذي",
+        "tr": "ksabt hallba min l-khidma hādhi",
+        "en": "I earned a lot from this job"
+      },
+      {
+        "ar": "يكسب في الشهر ألفين",
+        "tr": "yiksib fi sh-shahr alfēn",
+        "en": "He earns two thousand a month"
+      }
+    ]
   },
   {
     "ar": "تأخّر",
@@ -3650,7 +7440,20 @@
     "ex_ar": "ما تتأخّرش على الخدمة",
     "ex_tr": "ma tit'akhkharsh 3ala l-khidma",
     "ex_en": "Don't be late for work",
-    "note": "imperfect: نتأخّر nit'akhkhar (I am late), يتأخّر yit'akhkhar (he is late)"
+    "note": "imperfect: نتأخّر nit'akhkhar (I am late), يتأخّر yit'akhkhar (he is late)",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "تأخّرت عليك؟",
+        "tr": "t'akhkhart 3lēk?",
+        "en": "Am I late for you?"
+      },
+      {
+        "ar": "الطيارة متأخّرة",
+        "tr": "T-Tayyāra mit'akhkhra",
+        "en": "The plane is delayed"
+      }
+    ]
   },
   {
     "ar": "بطّل",
@@ -3663,7 +7466,20 @@
     "ex_ar": "بطّل الدخان من عامين",
     "ex_tr": "baTTal id-dukhkhān min 3āmēn",
     "ex_en": "He quit smoking two years ago",
-    "note": "imperfect: نبطّل nbaTTil (I stop), يبطّل ybaTTil (he stops)"
+    "note": "imperfect: نبطّل nbaTTil (I stop), يبطّل ybaTTil (he stops)",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "بطّل!",
+        "tr": "baTTil!",
+        "en": "Stop it!"
+      },
+      {
+        "ar": "بطّلت القهوة",
+        "tr": "baTTalt l-gahwa",
+        "en": "I quit coffee"
+      }
+    ]
   },
   {
     "ar": "ساوم",
@@ -3676,7 +7492,20 @@
     "ex_ar": "في سوق الترك لازم تساوم",
     "ex_tr": "fi sūg it-turk lāzim tsāwim",
     "ex_en": "In Souq al-Turk you have to haggle",
-    "note": "imperfect: نساوم nsāwim (I bargain), يساوم ysāwim (he bargains). Souq al-Turk = old market in Tripoli."
+    "note": "imperfect: نساوم nsāwim (I bargain), يساوم ysāwim (he bargains). Souq al-Turk = old market in Tripoli.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "ساومته شوية",
+        "tr": "sāwamta shwayya",
+        "en": "I haggled with him a bit"
+      },
+      {
+        "ar": "ما يساومش",
+        "tr": "ma ysāwimsh",
+        "en": "He doesn't bargain"
+      }
+    ]
   },
   {
     "ar": "سحب",
@@ -3689,7 +7518,20 @@
     "ex_ar": "مشيت للمصرف نسحب فلوس",
     "ex_tr": "mshīt lil-maSrif nis7ab flūs",
     "ex_en": "I went to the bank to withdraw money",
-    "note": "imperfect: نسحب nis7ab (I withdraw), يسحب yis7ab (he withdraws)"
+    "note": "imperfect: نسحب nis7ab (I withdraw), يسحب yis7ab (he withdraws)",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "سحبت فلوس من الماكينة",
+        "tr": "s7abt flūs min l-mākīna",
+        "en": "I withdrew money from the ATM"
+      },
+      {
+        "ar": "ما قدرتش نسحب",
+        "tr": "ma gdartsh nis7ab",
+        "en": "I couldn't withdraw"
+      }
+    ]
   },
   {
     "ar": "حمّل",
@@ -3702,7 +7544,20 @@
     "ex_ar": "حمّلت التطبيق على الموبايل",
     "ex_tr": "7ammalt it-taTbīg 3ala l-mōbāyl",
     "ex_en": "I downloaded the app on my phone",
-    "note": "imperfect: نحمّل n7ammil (I load), يحمّل y7ammil (he loads)"
+    "note": "imperfect: نحمّل n7ammil (I load), يحمّل y7ammil (he loads)",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "حمّل الكرهبة",
+        "tr": "7ammil l-karhba",
+        "en": "Load the car"
+      },
+      {
+        "ar": "قاعد يحمّل في فيلم",
+        "tr": "gā3id y7ammil fi film",
+        "en": "He's downloading a film"
+      }
+    ]
   },
   {
     "ar": "دقّ",
@@ -3715,6 +7570,19 @@
     "ex_ar": "دق الباب قبل ما تخش",
     "ex_tr": "dugg il-bāb gbal ma tkhushsh",
     "ex_en": "Knock on the door before you go in",
-    "note": "imperfect: ندق ndugg (I knock), يدق ydugg (he knocks). Also 'to call (phone)': دقّلي duggli. ق = g."
+    "note": "imperfect: ندق ndugg (I knock), يدق ydugg (he knocks). Also 'to call (phone)': دقّلي duggli. ق = g.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "شكون يدق؟",
+        "tr": "shkūn ydugg?",
+        "en": "Who's knocking?"
+      },
+      {
+        "ar": "دقّيتلك وما رديتش",
+        "tr": "daggētlak w ma raddētsh",
+        "en": "I rang you and you didn't answer"
+      }
+    ]
   }
 ]

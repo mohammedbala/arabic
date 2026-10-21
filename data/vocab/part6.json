@@ -10,7 +10,20 @@
     "ex_ar": "الحوش في الشارع هذا.",
     "ex_tr": "il-7ōsh fi sh-shāri3 hādha.",
     "ex_en": "The house is on this street.",
-    "note": "pl. شوارع shwāri3"
+    "note": "pl. شوارع shwāri3",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "في آخر الشارع",
+        "tr": "fi ākhir ish-shāri3",
+        "en": "at the end of the street"
+      },
+      {
+        "ar": "الشارع الرئيسي مسكّر",
+        "tr": "ish-shāri3 ir-ra'īsi msakkar",
+        "en": "The main street is closed"
+      }
+    ]
   },
   {
     "ar": "طريق",
@@ -23,7 +36,25 @@
     "ex_ar": "الطريق زحمة اليوم.",
     "ex_tr": "iT-Trīg za7ma il-yōm.",
     "ex_en": "The road is jammed today.",
-    "note": "pl. طرقات Turgāt"
+    "note": "pl. طرقات Turgāt",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "الطريق طويلة هلبة",
+        "tr": "iT-Trīg Tawīla hallba",
+        "en": "The road is very long"
+      },
+      {
+        "ar": "خوذ الطريق الساحلي",
+        "tr": "khūdh iT-Trīg is-sā7ili",
+        "en": "Take the coastal road"
+      },
+      {
+        "ar": "ربي يسهّل طريقك",
+        "tr": "rabbi ysahhil Trīgik",
+        "en": "May God make your way easy"
+      }
+    ]
   },
   {
     "ar": "جامع",
@@ -36,7 +67,20 @@
     "ex_ar": "نمشي للجامع نصلي الجمعة.",
     "ex_tr": "nimshi lil-jāmi3 inSalli ij-jum3a.",
     "ex_en": "I go to the mosque to pray the Friday prayer.",
-    "note": "pl. جوامع jwāmi3. جامع is the everyday word; مسجد is more formal."
+    "note": "pl. جوامع jwāmi3. جامع is the everyday word; مسجد is more formal.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "الجامع قريب من الحوش",
+        "tr": "ij-jāmi3 grīb min il-7ōsh",
+        "en": "The mosque is near the house"
+      },
+      {
+        "ar": "صلّيت العشا في الجامع",
+        "tr": "Sallēt il-3sha fi j-jāmi3",
+        "en": "I prayed the evening prayer at the mosque"
+      }
+    ]
   },
   {
     "ar": "مصرف",
@@ -49,7 +93,20 @@
     "ex_ar": "مشيت للمصرف نجبد فلوس.",
     "ex_tr": "mshēt lil-maSraf nijbid flūs.",
     "ex_en": "I went to the bank to withdraw money.",
-    "note": "pl. مصارف maSārif. Libyan banks are officially called مصرف; بنك bank is also understood."
+    "note": "pl. مصارف maSārif. Libyan banks are officially called مصرف; بنك bank is also understood.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "المصرف ما فيهش سيولة",
+        "tr": "il-maSraf ma fīhsh suyūla",
+        "en": "The bank has no cash"
+      },
+      {
+        "ar": "الطابور طويل قدام المصرف",
+        "tr": "iT-Tābūr Tawīl guddām il-maSraf",
+        "en": "The queue in front of the bank is long"
+      }
+    ]
   },
   {
     "ar": "بريد",
@@ -61,7 +118,20 @@
     "freq": 3,
     "ex_ar": "البريد مسكّر اليوم.",
     "ex_tr": "il-barīd msakkar il-yōm.",
-    "ex_en": "The post office is closed today."
+    "ex_en": "The post office is closed today.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "بعتها بالبريد",
+        "tr": "ba3atha bil-barīd",
+        "en": "I sent it by mail"
+      },
+      {
+        "ar": "وين البريد يا خوي؟",
+        "tr": "wīn il-barīd ya khūy?",
+        "en": "Where's the post office, brother?"
+      }
+    ]
   },
   {
     "ar": "شرطة",
@@ -73,7 +143,20 @@
     "freq": 2,
     "ex_ar": "اتصل بالشرطة توا!",
     "ex_tr": "ittaSil bish-shurTa tawwa!",
-    "ex_en": "Call the police now!"
+    "ex_en": "Call the police now!",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "الشرطة جت بالزربة",
+        "tr": "ish-shurTa jat biz-zarba",
+        "en": "The police came quickly"
+      },
+      {
+        "ar": "الشرطة وقّفوا الطريق",
+        "tr": "ish-shurTa waggfu iT-Trīg",
+        "en": "The police blocked the road"
+      }
+    ]
   },
   {
     "ar": "مركز شرطة",
@@ -85,7 +168,20 @@
     "freq": 3,
     "ex_ar": "مشينا لمركز الشرطة نبلّغوا.",
     "ex_tr": "mshēna l-markaz ish-shurTa nballghu.",
-    "ex_en": "We went to the police station to report it."
+    "ex_en": "We went to the police station to report it.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "وين مركز الشرطة؟",
+        "tr": "wīn markaz ish-shurTa?",
+        "en": "Where's the police station?"
+      },
+      {
+        "ar": "خذوه لمركز الشرطة",
+        "tr": "khadhūh il-markaz ish-shurTa",
+        "en": "They took him to the police station"
+      }
+    ]
   },
   {
     "ar": "ميدان",
@@ -98,7 +194,20 @@
     "ex_ar": "ميدان الشهداء في وسط طرابلس.",
     "ex_tr": "mīdān ish-shuhada fi wusT Trābles.",
     "ex_en": "Martyrs' Square is in the center of Tripoli.",
-    "note": "pl. ميادين myādīn"
+    "note": "pl. ميادين myādīn",
+    "usage": 55,
+    "phrases": [
+      {
+        "ar": "نتلاقوا في الميدان",
+        "tr": "nitlāgu fil-mīdān",
+        "en": "Let's meet in the square"
+      },
+      {
+        "ar": "الميدان مليان ناس",
+        "tr": "il-mīdān malyān nās",
+        "en": "The square is full of people"
+      }
+    ]
   },
   {
     "ar": "طرابلس",
@@ -111,7 +220,20 @@
     "ex_ar": "نسكن في طرابلس.",
     "ex_tr": "niskin fi Trābles.",
     "ex_en": "I live in Tripoli.",
-    "note": "Capital of Libya. Locals pronounce it Trābles (also Trāblus)."
+    "note": "Capital of Libya. Locals pronounce it Trābles (also Trāblus).",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "بنمشي لطرابلس بكرة",
+        "tr": "bnimshi l-Trābles bukra",
+        "en": "I'll go to Tripoli tomorrow"
+      },
+      {
+        "ar": "أنا من طرابلس",
+        "tr": "āna min Trābles",
+        "en": "I'm from Tripoli"
+      }
+    ]
   },
   {
     "ar": "بنغازي",
@@ -124,7 +246,20 @@
     "ex_ar": "خوي يخدم في بنغازي.",
     "ex_tr": "khūy yikhdim fi bin-ghāzi.",
     "ex_en": "My brother works in Benghazi.",
-    "note": "Libya's second city, capital of the east (Barga)."
+    "note": "Libya's second city, capital of the east (Barga).",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "بنغازي بعيدة على طرابلس",
+        "tr": "bin-ghāzi b3īda 3la Trābles",
+        "en": "Benghazi is far from Tripoli"
+      },
+      {
+        "ar": "ناس بنغازي طيبين",
+        "tr": "nās bin-ghāzi Tayybīn",
+        "en": "Benghazi people are kind"
+      }
+    ]
   },
   {
     "ar": "مصراتة",
@@ -137,7 +272,20 @@
     "ex_ar": "مصراتة مشهورة بالتجارة.",
     "ex_tr": "maSrāta mash-hūra bit-tijāra.",
     "ex_en": "Misrata is famous for trade.",
-    "note": "Port city east of Tripoli."
+    "note": "Port city east of Tripoli.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "نسافروا لمصراتة بالمكينة",
+        "tr": "nsāfru l-maSrāta bil-makīna",
+        "en": "We'll travel to Misrata by car"
+      },
+      {
+        "ar": "صاحبي من مصراتة",
+        "tr": "Sā7bi min maSrāta",
+        "en": "My friend is from Misrata"
+      }
+    ]
   },
   {
     "ar": "سبها",
@@ -150,7 +298,20 @@
     "ex_ar": "سبها في الجنوب.",
     "ex_tr": "sabha fij-janūb.",
     "ex_en": "Sabha is in the south.",
-    "note": "Main city of the Fezzan region."
+    "note": "Main city of the Fezzan region.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "الطيارة لسبها كل يوم؟",
+        "tr": "iT-Tayyāra l-sabha kull yōm?",
+        "en": "Is there a plane to Sabha every day?"
+      },
+      {
+        "ar": "سبها سخونة في الصيف",
+        "tr": "sabha skhūna fiS-Sēf",
+        "en": "Sabha is hot in summer"
+      }
+    ]
   },
   {
     "ar": "الزاوية",
@@ -163,7 +324,20 @@
     "ex_ar": "الزاوية قريبة من طرابلس.",
     "ex_tr": "iz-zāwya grība min Trābles.",
     "ex_en": "Zawiya is close to Tripoli.",
-    "note": "Coastal city west of Tripoli."
+    "note": "Coastal city west of Tripoli.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "ساكن في الزاوية",
+        "tr": "sākin fiz-zāwya",
+        "en": "I live in Zawiya"
+      },
+      {
+        "ar": "الطريق للزاوية زحمة",
+        "tr": "iT-Trīg liz-zāwya za7ma",
+        "en": "The road to Zawiya is jammed"
+      }
+    ]
   },
   {
     "ar": "حومة",
@@ -176,7 +350,20 @@
     "ex_ar": "ناس الحومة كلهم يعرفوني.",
     "ex_tr": "nās il-7ōma kullhum ya3rfūni.",
     "ex_en": "The people of the neighborhood all know me.",
-    "note": "pl. حوم 7wam. Very Libyan/Maghrebi; ولد حومة = a local guy from the area."
+    "note": "pl. حوم 7wam. Very Libyan/Maghrebi; ولد حومة = a local guy from the area.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "ولد الحومة",
+        "tr": "wild il-7ōma",
+        "en": "a neighborhood guy"
+      },
+      {
+        "ar": "حومتنا هادية",
+        "tr": "7ōmitna hādya",
+        "en": "Our neighborhood is quiet"
+      }
+    ]
   },
   {
     "ar": "مدينة",
@@ -189,7 +376,20 @@
     "ex_ar": "المدينة القديمة حلوة هلبة.",
     "ex_tr": "il-mdīna il-gdīma 7elwa hallba.",
     "ex_en": "The old city is very beautiful.",
-    "note": "pl. مدن mudun. المدينة القديمة = Tripoli's old walled medina."
+    "note": "pl. مدن mudun. المدينة القديمة = Tripoli's old walled medina.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "المدينة زحمة اليوم",
+        "tr": "il-mdīna za7ma il-yōm",
+        "en": "The city is crowded today"
+      },
+      {
+        "ar": "نمشوا للمدينة القديمة",
+        "tr": "nimshu lil-mdīna il-gdīma",
+        "en": "Let's go to the old city"
+      }
+    ]
   },
   {
     "ar": "قرية",
@@ -202,7 +402,20 @@
     "ex_ar": "جدي ساكن في قرية صغيرة.",
     "ex_tr": "jeddi sākin fi garya Sghīra.",
     "ex_en": "My grandfather lives in a small village.",
-    "note": "pl. قرى gura"
+    "note": "pl. قرى gura",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "حوشنا في القرية",
+        "tr": "7ōshna fil-garya",
+        "en": "Our house is in the village"
+      },
+      {
+        "ar": "القرية هادية وباهية",
+        "tr": "il-garya hādya w-bāhya",
+        "en": "The village is quiet and nice"
+      }
+    ]
   },
   {
     "ar": "عمارة",
@@ -215,7 +428,20 @@
     "ex_ar": "ساكنين في عمارة جديدة.",
     "ex_tr": "sāknīn fi 3mara jdīda.",
     "ex_en": "We live in a new apartment building.",
-    "note": "pl. عمارات 3marāt"
+    "note": "pl. عمارات 3marāt",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "العمارة ما فيهاش مصعد",
+        "tr": "il-3mara ma fīhāsh maS3ad",
+        "en": "The building has no elevator"
+      },
+      {
+        "ar": "ساكن في الدور التالت في العمارة",
+        "tr": "sākin fid-dōr it-tālit fil-3mara",
+        "en": "I live on the third floor of the block"
+      }
+    ]
   },
   {
     "ar": "كوبري",
@@ -228,7 +454,20 @@
     "ex_ar": "عدّي من فوق الكوبري.",
     "ex_tr": "3addi min fōg il-kubri.",
     "ex_en": "Go over the bridge.",
-    "note": "From Turkish köprü. pl. كباري kbāri. جسر jisr is also used."
+    "note": "From Turkish köprü. pl. كباري kbāri. جسر jisr is also used.",
+    "usage": 45,
+    "phrases": [
+      {
+        "ar": "الكوبري زحمة",
+        "tr": "il-kubri za7ma",
+        "en": "The overpass is jammed"
+      },
+      {
+        "ar": "وقّف تحت الكوبري",
+        "tr": "waggif ta7t il-kubri",
+        "en": "Stop under the bridge"
+      }
+    ]
   },
   {
     "ar": "إشارة",
@@ -241,7 +480,20 @@
     "ex_ar": "وقّف عند الإشارة.",
     "ex_tr": "wagguf 3and il-ishāra.",
     "ex_en": "Stop at the traffic light.",
-    "note": "Lit. \"signal\"."
+    "note": "Lit. \"signal\".",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "الإشارة حمرا",
+        "tr": "il-ishāra 7amra",
+        "en": "The light is red"
+      },
+      {
+        "ar": "بعد تاني إشارة لف يسار",
+        "tr": "ba3d tāni ishāra liff yisār",
+        "en": "After the second light turn left"
+      }
+    ]
   },
   {
     "ar": "دوران",
@@ -254,7 +506,20 @@
     "ex_ar": "لف يمين عند الدوران.",
     "ex_tr": "liff yimīn 3and id-dawarān.",
     "ex_en": "Turn right at the roundabout.",
-    "note": "Roundabouts are key landmarks when giving directions in Libyan cities."
+    "note": "Roundabouts are key landmarks when giving directions in Libyan cities.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "خش من الدوران",
+        "tr": "khushsh min id-dawarān",
+        "en": "Go in at the roundabout"
+      },
+      {
+        "ar": "الدوران التاني على اليمين",
+        "tr": "id-dawarān it-tāni 3al-yimīn",
+        "en": "The second roundabout, on the right"
+      }
+    ]
   },
   {
     "ar": "كورنيش",
@@ -267,7 +532,20 @@
     "ex_ar": "نتمشوا على الكورنيش في الليل.",
     "ex_tr": "nitmashshu 3ala l-kurnīsh fil-lēl.",
     "ex_en": "We stroll along the corniche at night.",
-    "note": "From French corniche."
+    "note": "From French corniche.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الكورنيش زحمة في الصيف",
+        "tr": "il-kurnīsh za7ma fiS-Sēf",
+        "en": "The corniche is crowded in summer"
+      },
+      {
+        "ar": "نشربوا قهوة على الكورنيش",
+        "tr": "nishrbu gahwa 3al-kurnīsh",
+        "en": "Let's have coffee on the corniche"
+      }
+    ]
   },
   {
     "ar": "بلدية",
@@ -279,7 +557,20 @@
     "freq": 3,
     "ex_ar": "لازم تمشي للبلدية تطلّع الورقة.",
     "ex_tr": "lāzim timshi lil-baladiyya tTalla3 il-wurga.",
-    "ex_en": "You have to go to the municipality to get the document."
+    "ex_en": "You have to go to the municipality to get the document.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "البلدية ما دارتش شي",
+        "tr": "il-baladiyya ma dārtsh shay",
+        "en": "The municipality did nothing"
+      },
+      {
+        "ar": "الورقة تبي ختم البلدية",
+        "tr": "il-wurga tibbi khatm il-baladiyya",
+        "en": "The paper needs the municipality's stamp"
+      }
+    ]
   },
   {
     "ar": "سفارة",
@@ -292,7 +583,20 @@
     "ex_ar": "لازم نمشي للسفارة نطلّع فيزا.",
     "ex_tr": "lāzim nimshi lis-sifāra nTalla3 vīza.",
     "ex_en": "I have to go to the embassy to get a visa.",
-    "note": "pl. سفارات"
+    "note": "pl. سفارات",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "السفارة مسكّرة اليوم",
+        "tr": "is-sifāra msakkra il-yōm",
+        "en": "The embassy is closed today"
+      },
+      {
+        "ar": "عندي موعد في السفارة",
+        "tr": "3andi maw3id fis-sifāra",
+        "en": "I have an appointment at the embassy"
+      }
+    ]
   },
   {
     "ar": "محطة",
@@ -305,7 +609,20 @@
     "ex_ar": "نعبّي بنزينة من المحطة.",
     "ex_tr": "ni3abbi banzīna min il-ma7aTTa.",
     "ex_en": "I'll fill up with petrol at the station.",
-    "note": "On its own it usually means a petrol station."
+    "note": "On its own it usually means a petrol station.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "وقّف في المحطة الجاية",
+        "tr": "waggif fil-ma7aTTa ij-jāya",
+        "en": "Stop at the next station"
+      },
+      {
+        "ar": "المحطة ما فيهاش بنزينة",
+        "tr": "il-ma7aTTa ma fīhāsh banzīna",
+        "en": "The petrol station has no fuel"
+      }
+    ]
   },
   {
     "ar": "زنقة",
@@ -318,7 +635,20 @@
     "ex_ar": "الحوش في الزنقة اللي ورا الجامع.",
     "ex_tr": "il-7ōsh fiz-zanga illi wara l-jāmi3.",
     "ex_en": "The house is in the alley behind the mosque.",
-    "note": "pl. زنقات zangāt"
+    "note": "pl. زنقات zangāt",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "الزنقة ضيقة",
+        "tr": "iz-zanga Dayga",
+        "en": "The alley is narrow"
+      },
+      {
+        "ar": "خش في الزنقة على يمينك",
+        "tr": "khushsh fiz-zanga 3la yimīnik",
+        "en": "Turn into the alley on your right"
+      }
+    ]
   },
   {
     "ar": "وسط البلاد",
@@ -331,7 +661,20 @@
     "ex_ar": "نمشوا لوسط البلاد نتسوّقوا.",
     "ex_tr": "nimshu l-wusT il-blād nitsawwgu.",
     "ex_en": "Let's go downtown to shop.",
-    "note": "Libyans often say just البلاد il-blād for \"town center\"."
+    "note": "Libyans often say just البلاد il-blād for \"town center\".",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "وسط البلاد زحمة توا",
+        "tr": "wusT il-blād za7ma tawwa",
+        "en": "Downtown is jammed now"
+      },
+      {
+        "ar": "نخدم في وسط البلاد",
+        "tr": "nikhdim fi wusT il-blād",
+        "en": "I work downtown"
+      }
+    ]
   },
   {
     "ar": "حديقة",
@@ -344,7 +687,20 @@
     "ex_ar": "الصغار يلعبوا في الحديقة.",
     "ex_tr": "iS-Sghār yil3bu fil-7adīga.",
     "ex_en": "The kids are playing in the park.",
-    "note": "pl. حدائق 7adāyig"
+    "note": "pl. حدائق 7adāyig",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "نتمشوا في الحديقة",
+        "tr": "nitmashshu fil-7adīga",
+        "en": "Let's walk in the park"
+      },
+      {
+        "ar": "الحديقة قريبة من الحوش",
+        "tr": "il-7adīga grība min il-7ōsh",
+        "en": "The park is close to the house"
+      }
+    ]
   },
   {
     "ar": "رصيف",
@@ -357,7 +713,20 @@
     "ex_ar": "امشي على الرصيف مش في الطريق.",
     "ex_tr": "imshi 3ala r-rSīf mush fiT-Trīg.",
     "ex_en": "Walk on the sidewalk, not in the road.",
-    "note": "pl. أرصفة"
+    "note": "pl. أرصفة",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "وقّف على الرصيف",
+        "tr": "waggif 3ar-rSīf",
+        "en": "Stop by the curb"
+      },
+      {
+        "ar": "الرصيف مكسّر",
+        "tr": "ir-rSīf mkassar",
+        "en": "The sidewalk is broken"
+      }
+    ]
   },
   {
     "ar": "مبنى",
@@ -370,7 +739,20 @@
     "ex_ar": "المبنى هذا فيه عشر طوابق.",
     "ex_tr": "il-mabna hādha fīh 3ashar Twābig.",
     "ex_en": "This building has ten floors.",
-    "note": "pl. مباني mabāni"
+    "note": "pl. مباني mabāni",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "المبنى الجديد متاع الشركة",
+        "tr": "il-mabna ij-jdīd mtā3 ish-sharika",
+        "en": "the company's new building"
+      },
+      {
+        "ar": "المبنى قدام المصرف",
+        "tr": "il-mabna guddām il-maSraf",
+        "en": "The building is in front of the bank"
+      }
+    ]
   },
   {
     "ar": "نادي",
@@ -383,7 +765,20 @@
     "ex_ar": "نمشي للنادي كل يوم.",
     "ex_tr": "nimshi lin-nādi kull yōm.",
     "ex_en": "I go to the club every day.",
-    "note": "pl. نوادي nawādi. Tripoli clubs Al-Ahly and Al-Ittihad are football rivals."
+    "note": "pl. نوادي nawādi. Tripoli clubs Al-Ahly and Al-Ittihad are football rivals.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "مشترك في النادي",
+        "tr": "mushtarik fin-nādi",
+        "en": "I'm a member of the club"
+      },
+      {
+        "ar": "النادي فيه مسبح",
+        "tr": "in-nādi fīh masba7",
+        "en": "The club has a swimming pool"
+      }
+    ]
   },
   {
     "ar": "مقبرة",
@@ -396,7 +791,20 @@
     "ex_ar": "المقبرة ورا الجامع.",
     "ex_tr": "il-magbra wara l-jāmi3.",
     "ex_en": "The cemetery is behind the mosque.",
-    "note": "pl. مقابر magābir"
+    "note": "pl. مقابر magābir",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "دفنوه في المقبرة",
+        "tr": "dafnūh fil-magbra",
+        "en": "They buried him in the cemetery"
+      },
+      {
+        "ar": "زرنا المقبرة يوم العيد",
+        "tr": "zurna l-magbra yōm il-3īd",
+        "en": "We visited the cemetery on Eid day"
+      }
+    ]
   },
   {
     "ar": "سوق الجمعة",
@@ -409,7 +817,20 @@
     "ex_ar": "المطار قريب من سوق الجمعة.",
     "ex_tr": "il-maTār grīb min sūg ij-jum3a.",
     "ex_en": "The airport is near Souq al-Juma.",
-    "note": "Large district of eastern Tripoli; Mitiga airport is there."
+    "note": "Large district of eastern Tripoli; Mitiga airport is there.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "ساكن في سوق الجمعة",
+        "tr": "sākin fi sūg ij-jum3a",
+        "en": "I live in Souq al-Juma"
+      },
+      {
+        "ar": "نسكن في سوق الجمعة من زمان",
+        "tr": "nuskun fi sūg ij-jum3a min zamān",
+        "en": "I've lived in Souq al-Juma for a long time"
+      }
+    ]
   },
   {
     "ar": "الجبل الأخضر",
@@ -422,7 +843,20 @@
     "ex_ar": "الجبل الأخضر بارد في الشتا.",
     "ex_tr": "ij-jbal il-akhDar bārid fish-shta.",
     "ex_en": "The Green Mountain is cold in winter.",
-    "note": "Forested highland region in eastern Libya, around al-Bayda."
+    "note": "Forested highland region in eastern Libya, around al-Bayda.",
+    "usage": 33,
+    "phrases": [
+      {
+        "ar": "الجبل الأخضر فيه غابات",
+        "tr": "ij-jbal il-akhDar fīh ghābāt",
+        "en": "The Green Mountain has forests"
+      },
+      {
+        "ar": "مشينا للجبل الأخضر في الربيع",
+        "tr": "mshēna lij-jbal il-akhDar fir-rbī3",
+        "en": "We went to the Green Mountain in spring"
+      }
+    ]
   },
   {
     "ar": "مكينة",
@@ -435,7 +869,25 @@
     "ex_ar": "مكينتي عند الميكانيكي.",
     "ex_tr": "makīnti 3and il-mēkanīki.",
     "ex_en": "My car is at the mechanic's.",
-    "note": "From Italian macchina. pl. مكاين mkāyin. Very common Libyan word for car."
+    "note": "From Italian macchina. pl. مكاين mkāyin. Very common Libyan word for car.",
+    "usage": 87,
+    "phrases": [
+      {
+        "ar": "مكينتي خربت",
+        "tr": "makīnti khirbat",
+        "en": "My car broke down"
+      },
+      {
+        "ar": "بنمشي بالمكينة",
+        "tr": "bnimshi bil-makīna",
+        "en": "I'll go by car"
+      },
+      {
+        "ar": "وين حطّيت المكينة؟",
+        "tr": "wīn 7aTTēt il-makīna?",
+        "en": "Where did you park the car?"
+      }
+    ]
   },
   {
     "ar": "سيارة",
@@ -448,7 +900,20 @@
     "ex_ar": "شريت سيارة جديدة.",
     "ex_tr": "shrēt sayyāra jdīda.",
     "ex_en": "I bought a new car.",
-    "note": "pl. سيارات. More formal than مكينة makīna but widely used."
+    "note": "pl. سيارات. More formal than مكينة makīna but widely used.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "السيارة جديدة ولا مستعملة؟",
+        "tr": "is-sayyāra jdīda walla musta3mala?",
+        "en": "Is the car new or used?"
+      },
+      {
+        "ar": "سيارة الإسعاف جت",
+        "tr": "sayyārat il-is3āf jat",
+        "en": "The ambulance came"
+      }
+    ]
   },
   {
     "ar": "كرّوسة",
@@ -461,7 +926,20 @@
     "ex_ar": "زمان الناس يركبوا الكرّوسة.",
     "ex_tr": "zamān in-nās yirkbu l-karrōsa.",
     "ex_en": "In the old days people rode in horse carriages.",
-    "note": "From Italian carrozza."
+    "note": "From Italian carrozza.",
+    "usage": 18,
+    "phrases": [
+      {
+        "ar": "جدي كان عنده كرّوسة",
+        "tr": "jiddi kān 3andah karrōsa",
+        "en": "My grandfather had a horse cart"
+      },
+      {
+        "ar": "ركبنا الكرّوسة في المدينة القديمة",
+        "tr": "rkibna l-karrōsa fil-mdīna il-gdīma",
+        "en": "We rode the carriage in the old city"
+      }
+    ]
   },
   {
     "ar": "تاكسي",
@@ -473,7 +951,20 @@
     "freq": 2,
     "ex_ar": "خوذ تاكسي للمطار.",
     "ex_tr": "khūdh tāksi lil-maTār.",
-    "ex_en": "Take a taxi to the airport."
+    "ex_en": "Take a taxi to the airport.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "نجيبلك تاكسي؟",
+        "tr": "njiblik tāksi?",
+        "en": "Shall I get you a taxi?"
+      },
+      {
+        "ar": "التاكسي بقداش للمطار؟",
+        "tr": "it-tāksi bgaddāsh lil-maTār?",
+        "en": "How much is a taxi to the airport?"
+      }
+    ]
   },
   {
     "ar": "باص",
@@ -486,7 +977,20 @@
     "ex_ar": "الباص يوقف قدام المدرسة.",
     "ex_tr": "il-bāS yūguf guddām il-madrasa.",
     "ex_en": "The bus stops in front of the school.",
-    "note": "From English. Formal: حافلة 7āfla."
+    "note": "From English. Formal: حافلة 7āfla.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "الباص فاتني",
+        "tr": "il-bāS fātni",
+        "en": "I missed the bus"
+      },
+      {
+        "ar": "نركب الباص للجامعة",
+        "tr": "nirkib il-bāS lij-jām3a",
+        "en": "I take the bus to university"
+      }
+    ]
   },
   {
     "ar": "طيارة",
@@ -499,7 +1003,20 @@
     "ex_ar": "الطيارة تطلع الساعة تسعة.",
     "ex_tr": "iT-Tayyāra tiTla3 is-sā3a tis3a.",
     "ex_en": "The plane takes off at nine o'clock.",
-    "note": "pl. طيارات"
+    "note": "pl. طيارات",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "الطيارة اتأخرت",
+        "tr": "iT-Tayyāra t'akhkhrat",
+        "en": "The plane is delayed"
+      },
+      {
+        "ar": "أول مرة نركب طيارة",
+        "tr": "awwil marra nirkib Tayyāra",
+        "en": "It's my first time on a plane"
+      }
+    ]
   },
   {
     "ar": "مطار",
@@ -512,7 +1029,20 @@
     "ex_ar": "نوصّلك للمطار.",
     "ex_tr": "nwaSSlak lil-maTār.",
     "ex_en": "I'll drive you to the airport.",
-    "note": "Tripoli's main airport is Mitiga (معيتيقة)."
+    "note": "Tripoli's main airport is Mitiga (معيتيقة).",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "نستنّاك في المطار",
+        "tr": "nistannāk fil-maTār",
+        "en": "I'll wait for you at the airport"
+      },
+      {
+        "ar": "المطار سكّر اليوم",
+        "tr": "il-maTār sakkar il-yōm",
+        "en": "The airport closed today"
+      }
+    ]
   },
   {
     "ar": "جواز",
@@ -525,7 +1055,20 @@
     "ex_ar": "ما تنساش الجواز!",
     "ex_tr": "ma tinsāsh il-jawāz!",
     "ex_en": "Don't forget your passport!",
-    "note": "Short for جواز سفر jawāz safar."
+    "note": "Short for جواز سفر jawāz safar.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "الجواز متاعي انتهى",
+        "tr": "ij-jawāz mtā3i intaha",
+        "en": "My passport has expired"
+      },
+      {
+        "ar": "نبي نجدّد الجواز",
+        "tr": "nibbi njaddid ij-jawāz",
+        "en": "I want to renew my passport"
+      }
+    ]
   },
   {
     "ar": "تذكرة",
@@ -538,7 +1081,20 @@
     "ex_ar": "حجزت تذكرة لتونس.",
     "ex_tr": "7jazt tadhkra l-tūnis.",
     "ex_en": "I booked a ticket to Tunis.",
-    "note": "pl. تذاكر tadhākir"
+    "note": "pl. تذاكر tadhākir",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "التذكرة غالية هلبة",
+        "tr": "it-tadhkra ghālya hallba",
+        "en": "The ticket is very expensive"
+      },
+      {
+        "ar": "بقداش التذكرة؟",
+        "tr": "bgaddāsh it-tadhkra?",
+        "en": "How much is the ticket?"
+      }
+    ]
   },
   {
     "ar": "فندق",
@@ -551,7 +1107,20 @@
     "ex_ar": "نزلنا في فندق قريب من البحر.",
     "ex_tr": "nzilna fi fundug grīb min il-ba7ar.",
     "ex_en": "We stayed at a hotel near the sea.",
-    "note": "pl. فنادق fanādig"
+    "note": "pl. فنادق fanādig",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "الفندق غالي",
+        "tr": "il-fundug ghāli",
+        "en": "The hotel is expensive"
+      },
+      {
+        "ar": "حجزنا فندق في تونس",
+        "tr": "7ajazna fundug fi tūnis",
+        "en": "We booked a hotel in Tunis"
+      }
+    ]
   },
   {
     "ar": "سفرة",
@@ -564,7 +1133,20 @@
     "ex_ar": "كيف كانت السفرة؟",
     "ex_tr": "kīf kānat is-safra?",
     "ex_en": "How was the trip?",
-    "note": "pl. سفرات safrāt"
+    "note": "pl. سفرات safrāt",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "سفرة سعيدة!",
+        "tr": "safra sa3īda!",
+        "en": "Have a nice trip!"
+      },
+      {
+        "ar": "السفرة كانت تعب",
+        "tr": "is-safra kānat ta3ab",
+        "en": "The trip was exhausting"
+      }
+    ]
   },
   {
     "ar": "سفر",
@@ -576,7 +1158,20 @@
     "freq": 2,
     "ex_ar": "نحب السفر هلبة.",
     "ex_tr": "n7ibb is-safar hallba.",
-    "ex_en": "I love travelling a lot."
+    "ex_en": "I love travelling a lot.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "بنمشي سفر الأسبوع الجاي",
+        "tr": "bnimshi safar il-usbū3 ij-jāy",
+        "en": "I'm going travelling next week"
+      },
+      {
+        "ar": "السفر يبي فلوس",
+        "tr": "is-safar yibbi flūs",
+        "en": "Travel needs money"
+      }
+    ]
   },
   {
     "ar": "رحلة",
@@ -589,7 +1184,20 @@
     "ex_ar": "الرحلة اتأخرت ساعتين.",
     "ex_tr": "ir-ri7la it'akhkhrat sā3tēn.",
     "ex_en": "The flight was delayed two hours.",
-    "note": "pl. رحلات. Also used for school or family outings."
+    "note": "pl. رحلات. Also used for school or family outings.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "الرحلة لإسطنبول ملغية",
+        "tr": "ir-ri7la l-isTanbūl malghiyya",
+        "en": "The flight to Istanbul is cancelled"
+      },
+      {
+        "ar": "عملنا رحلة للصحرا",
+        "tr": "3milna ri7la liS-Sa7ra",
+        "en": "We went on a trip to the desert"
+      }
+    ]
   },
   {
     "ar": "شنطة",
@@ -602,7 +1210,20 @@
     "ex_ar": "الشنطة تقيلة هلبة.",
     "ex_tr": "ish-shanTa tgīla hallba.",
     "ex_en": "The suitcase is very heavy.",
-    "note": "pl. شنط shunaT"
+    "note": "pl. شنط shunaT",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "حط الشنطة في المكينة",
+        "tr": "7uTT ish-shanTa fil-makīna",
+        "en": "Put the bag in the car"
+      },
+      {
+        "ar": "شنطتي ضاعت في المطار",
+        "tr": "shanTti Dā3at fil-maTār",
+        "en": "My suitcase got lost at the airport"
+      }
+    ]
   },
   {
     "ar": "يمين",
@@ -614,7 +1235,20 @@
     "freq": 1,
     "ex_ar": "لف على اليمين.",
     "ex_tr": "liff 3ala l-yimīn.",
-    "ex_en": "Turn to the right."
+    "ex_en": "Turn to the right.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "على يمينك",
+        "tr": "3la yimīnik",
+        "en": "on your right"
+      },
+      {
+        "ar": "خش يمين بعد الجامع",
+        "tr": "khushsh yimīn ba3d ij-jāmi3",
+        "en": "Turn right after the mosque"
+      }
+    ]
   },
   {
     "ar": "يسار",
@@ -626,7 +1260,20 @@
     "freq": 1,
     "ex_ar": "المصرف على اليسار.",
     "ex_tr": "il-maSraf 3ala l-yisār.",
-    "ex_en": "The bank is on the left."
+    "ex_en": "The bank is on the left.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "على يسارك",
+        "tr": "3la yisārik",
+        "en": "on your left"
+      },
+      {
+        "ar": "لف يسار عند الإشارة",
+        "tr": "liff yisār 3and il-ishāra",
+        "en": "Turn left at the light"
+      }
+    ]
   },
   {
     "ar": "خريطة",
@@ -639,7 +1286,20 @@
     "ex_ar": "وريني الخريطة في التلفون.",
     "ex_tr": "warrīni l-kharīTa fit-tilifōn.",
     "ex_en": "Show me the map on the phone.",
-    "note": "pl. خرائط kharāyiT"
+    "note": "pl. خرائط kharāyiT",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "نشوفوا الخريطة",
+        "tr": "nshūfu l-kharīTa",
+        "en": "Let's look at the map"
+      },
+      {
+        "ar": "حطّيت الموقع على الخريطة",
+        "tr": "7aTTēt il-mawqi3 3al-kharīTa",
+        "en": "I put the location on the map"
+      }
+    ]
   },
   {
     "ar": "فيزا",
@@ -652,7 +1312,20 @@
     "ex_ar": "الفيزا تاخذ شهر.",
     "ex_tr": "il-vīza tākhudh shahar.",
     "ex_en": "The visa takes a month.",
-    "note": "Formal: تأشيرة ta'shīra."
+    "note": "Formal: تأشيرة ta'shīra.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "طلّعت الفيزا",
+        "tr": "Talla3t il-vīza",
+        "en": "I got the visa"
+      },
+      {
+        "ar": "الفيزا ترفضت",
+        "tr": "il-vīza tirfaDat",
+        "en": "The visa was refused"
+      }
+    ]
   },
   {
     "ar": "مينا",
@@ -664,7 +1337,20 @@
     "freq": 3,
     "ex_ar": "البابور وصل للمينا.",
     "ex_tr": "il-bābūr waSal lil-mīna.",
-    "ex_en": "The ship arrived at the port."
+    "ex_en": "The ship arrived at the port.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "نخدم في المينا",
+        "tr": "nikhdim fil-mīna",
+        "en": "I work at the port"
+      },
+      {
+        "ar": "البضاعة في المينا",
+        "tr": "il-biDā3a fil-mīna",
+        "en": "The goods are at the port"
+      }
+    ]
   },
   {
     "ar": "بابور",
@@ -677,7 +1363,20 @@
     "ex_ar": "سافرنا في البابور لمالطا.",
     "ex_tr": "sāfarna fil-bābūr l-mālTa.",
     "ex_en": "We travelled by ship to Malta.",
-    "note": "From Italian vapore \"steam(er)\". pl. بوابير bwābīr"
+    "note": "From Italian vapore \"steam(er)\". pl. بوابير bwābīr",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "البابور طلع من المينا",
+        "tr": "il-bābūr Tla3 min il-mīna",
+        "en": "The ship left the port"
+      },
+      {
+        "ar": "نسافروا بالبابور",
+        "tr": "nsāfru bil-bābūr",
+        "en": "We'll travel by ship"
+      }
+    ]
   },
   {
     "ar": "فلوكة",
@@ -690,7 +1389,20 @@
     "ex_ar": "الصيادة طلعوا في الفلوكة.",
     "ex_tr": "iS-Sayyāda Tal3u fil-flūka.",
     "ex_en": "The fishermen went out in the boat.",
-    "note": "From Italian feluca. pl. فلايك flāyik"
+    "note": "From Italian feluca. pl. فلايك flāyik",
+    "usage": 24,
+    "phrases": [
+      {
+        "ar": "طلعنا بالفلوكة للبحر",
+        "tr": "Tla3na bil-flūka lil-ba7ar",
+        "en": "We went out to sea in the boat"
+      },
+      {
+        "ar": "الفلوكة متاع بوي",
+        "tr": "il-flūka mtā3 būy",
+        "en": "The boat is my dad's"
+      }
+    ]
   },
   {
     "ar": "موتو",
@@ -703,7 +1415,20 @@
     "ex_ar": "خوي يسوق موتو.",
     "ex_tr": "khūy ysūg mōtō.",
     "ex_en": "My brother rides a motorbike.",
-    "note": "From Italian moto."
+    "note": "From Italian moto.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "الموتو أسرع في الزحمة",
+        "tr": "il-mōtō asra3 fiz-za7ma",
+        "en": "A motorbike is faster in traffic"
+      },
+      {
+        "ar": "ركّبني على الموتو",
+        "tr": "rakkibni 3al-mōtō",
+        "en": "Give me a ride on the motorbike"
+      }
+    ]
   },
   {
     "ar": "بشكليطة",
@@ -716,7 +1441,20 @@
     "ex_ar": "الصغير يبي بشكليطة.",
     "ex_tr": "iS-Sghīr yibbi bishklēTa.",
     "ex_en": "The little one wants a bicycle.",
-    "note": "From Italian bicicletta via Maghrebi usage."
+    "note": "From Italian bicicletta via Maghrebi usage.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "نتعلم نسوق البشكليطة",
+        "tr": "nit3allam nsūg il-bishklēTa",
+        "en": "I'm learning to ride the bike"
+      },
+      {
+        "ar": "البشكليطة مفشوشة",
+        "tr": "il-bishklēTa mafshūsha",
+        "en": "The bike has a flat"
+      }
+    ]
   },
   {
     "ar": "بنزينة",
@@ -729,7 +1467,20 @@
     "ex_ar": "البنزينة رخيصة في ليبيا.",
     "ex_tr": "il-banzīna rkhīSa fi lībya.",
     "ex_en": "Petrol is cheap in Libya.",
-    "note": "From Italian benzina."
+    "note": "From Italian benzina.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "المكينة ما فيهاش بنزينة",
+        "tr": "il-makīna ma fīhāsh banzīna",
+        "en": "The car has no petrol"
+      },
+      {
+        "ar": "طابور البنزينة طويل",
+        "tr": "Tābūr il-banzīna Tawīl",
+        "en": "The petrol queue is long"
+      }
+    ]
   },
   {
     "ar": "رخصة",
@@ -742,7 +1493,20 @@
     "ex_ar": "طلّعت الرخصة الشهر اللي فات.",
     "ex_tr": "Talla3t ir-rukhSa ish-shahar illi fāt.",
     "ex_en": "I got my driving license last month.",
-    "note": "pl. رخص rukhaS"
+    "note": "pl. رخص rukhaS",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "وين الرخصة متاعك؟",
+        "tr": "wīn ir-rukhSa mtā3ik?",
+        "en": "Where's your license?"
+      },
+      {
+        "ar": "الرخصة منتهية",
+        "tr": "ir-rukhSa mintahya",
+        "en": "The license is expired"
+      }
+    ]
   },
   {
     "ar": "عجلة",
@@ -755,7 +1519,20 @@
     "ex_ar": "العجلة مفشوشة.",
     "ex_tr": "il-3ajla mafshūsha.",
     "ex_en": "The tire is flat.",
-    "note": "pl. عجلات. مفشوشة = deflated."
+    "note": "pl. عجلات. مفشوشة = deflated.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "بدّل العجلة",
+        "tr": "baddil il-3ajla",
+        "en": "Change the tire"
+      },
+      {
+        "ar": "عندك عجلة احتياط؟",
+        "tr": "3andik 3ajla i7tiyāT?",
+        "en": "Do you have a spare tire?"
+      }
+    ]
   },
   {
     "ar": "مطب",
@@ -767,7 +1544,20 @@
     "freq": 4,
     "ex_ar": "شوية شوية، فيه مطب.",
     "ex_tr": "shwayya shwayya, fīh maTabb.",
-    "ex_en": "Slowly, there's a speed bump."
+    "ex_en": "Slowly, there's a speed bump.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "المطبات هلبة في الطريق",
+        "tr": "il-maTabbāt hallba fiT-Trīg",
+        "en": "There are lots of speed bumps on the road"
+      },
+      {
+        "ar": "ما شفتش المطب",
+        "tr": "ma shuftsh il-maTabb",
+        "en": "I didn't see the speed bump"
+      }
+    ]
   },
   {
     "ar": "زحمة",
@@ -779,7 +1569,20 @@
     "freq": 1,
     "ex_ar": "علقنا في الزحمة ساعة.",
     "ex_tr": "3lagna fiz-za7ma sā3a.",
-    "ex_en": "We were stuck in traffic for an hour."
+    "ex_en": "We were stuck in traffic for an hour.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "الزحمة خانقة اليوم",
+        "tr": "iz-za7ma khānga il-yōm",
+        "en": "Traffic is terrible today"
+      },
+      {
+        "ar": "فيه زحمة في الطريق؟",
+        "tr": "fīh za7ma fiT-Trīg?",
+        "en": "Is there traffic on the road?"
+      }
+    ]
   },
   {
     "ar": "سواق",
@@ -792,7 +1595,20 @@
     "ex_ar": "السواق وصّلنا للحوش.",
     "ex_tr": "is-sawwāg waSSalna lil-7ōsh.",
     "ex_en": "The driver took us home.",
-    "note": "pl. سواقة sawwāga"
+    "note": "pl. سواقة sawwāga",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "السواق ساق بالزربة",
+        "tr": "is-sawwāg sāg biz-zarba",
+        "en": "The driver drove fast"
+      },
+      {
+        "ar": "يخدم سواق تاكسي",
+        "tr": "yikhdim sawwāg tāksi",
+        "en": "He works as a taxi driver"
+      }
+    ]
   },
   {
     "ar": "مسافر",
@@ -805,7 +1621,20 @@
     "ex_ar": "المسافرين يستنّوا في المطار.",
     "ex_tr": "il-msāfrīn yistannu fil-maTār.",
     "ex_en": "The passengers are waiting at the airport.",
-    "note": "Also adj \"travelling, away\": هو مسافر = he's away."
+    "note": "Also adj \"travelling, away\": هو مسافر = he's away.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "أنا مسافر بكرة",
+        "tr": "āna msāfir bukra",
+        "en": "I'm travelling tomorrow"
+      },
+      {
+        "ar": "خوي مسافر لمصر",
+        "tr": "khūy msāfir l-maSr",
+        "en": "My brother is travelling to Egypt"
+      }
+    ]
   },
   {
     "ar": "حجز",
@@ -817,7 +1646,20 @@
     "freq": 3,
     "ex_ar": "عندي حجز في الفندق.",
     "ex_tr": "3andi 7ajz fil-fundug.",
-    "ex_en": "I have a reservation at the hotel."
+    "ex_en": "I have a reservation at the hotel.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "ألغيت الحجز",
+        "tr": "algēt il-7ajz",
+        "en": "I cancelled the booking"
+      },
+      {
+        "ar": "الحجز باسم منو؟",
+        "tr": "il-7ajz b-ism minu?",
+        "en": "Whose name is the booking under?"
+      }
+    ]
   },
   {
     "ar": "جمرك",
@@ -830,7 +1672,20 @@
     "ex_ar": "فتّشوا الشنطة في الجمرك.",
     "ex_tr": "fattshu sh-shanTa fil-jumruk.",
     "ex_en": "They searched the suitcase at customs.",
-    "note": "From Turkish gümrük."
+    "note": "From Turkish gümrük.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "الجمرك خذا وقت هلبة",
+        "tr": "ij-jumruk khdha wagt hallba",
+        "en": "Customs took a long time"
+      },
+      {
+        "ar": "دفعنا جمرك على المكينة",
+        "tr": "dfa3na jumruk 3al-makīna",
+        "en": "We paid customs duty on the car"
+      }
+    ]
   },
   {
     "ar": "حدود",
@@ -843,7 +1698,20 @@
     "ex_ar": "الحدود مع تونس زحمة.",
     "ex_tr": "il-7udūd ma3 tūnis za7ma.",
     "ex_en": "The border with Tunisia is crowded.",
-    "note": "Ras Ajdir (راس جدير) is the main crossing to Tunisia."
+    "note": "Ras Ajdir (راس جدير) is the main crossing to Tunisia.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "الحدود مسكّرة",
+        "tr": "il-7udūd msakkra",
+        "en": "The border is closed"
+      },
+      {
+        "ar": "علقنا على الحدود",
+        "tr": "3ligna 3al-7udūd",
+        "en": "We got stuck at the border"
+      }
+    ]
   },
   {
     "ar": "شرق",
@@ -855,7 +1723,20 @@
     "freq": 3,
     "ex_ar": "بنغازي في الشرق.",
     "ex_tr": "bin-ghāzi fish-sharg.",
-    "ex_en": "Benghazi is in the east."
+    "ex_en": "Benghazi is in the east.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "ناس الشرق",
+        "tr": "nās ish-sharg",
+        "en": "people from the east"
+      },
+      {
+        "ar": "الشمس تطلع من الشرق",
+        "tr": "ish-shams tiTla3 min ish-sharg",
+        "en": "The sun rises in the east"
+      }
+    ]
   },
   {
     "ar": "غرب",
@@ -867,7 +1748,20 @@
     "freq": 3,
     "ex_ar": "طرابلس في الغرب.",
     "ex_tr": "Trābles fil-gharb.",
-    "ex_en": "Tripoli is in the west."
+    "ex_en": "Tripoli is in the west.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "ناس الغرب",
+        "tr": "nās il-gharb",
+        "en": "people from the west"
+      },
+      {
+        "ar": "الجبل الغربي في الغرب",
+        "tr": "ij-jbal il-gharbi fil-gharb",
+        "en": "The Western Mountain is in the west"
+      }
+    ]
   },
   {
     "ar": "شمال",
@@ -879,7 +1773,20 @@
     "freq": 3,
     "ex_ar": "البحر في الشمال.",
     "ex_tr": "il-ba7ar fish-shimāl.",
-    "ex_en": "The sea is to the north."
+    "ex_en": "The sea is to the north.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "حوشنا شمال المدينة",
+        "tr": "7ōshna shimāl il-mdīna",
+        "en": "Our house is north of the city"
+      },
+      {
+        "ar": "الريح جاية من الشمال",
+        "tr": "ir-rī7 jāya min ish-shimāl",
+        "en": "The wind is coming from the north"
+      }
+    ]
   },
   {
     "ar": "جنوب",
@@ -891,7 +1798,20 @@
     "freq": 3,
     "ex_ar": "الصحرا في الجنوب.",
     "ex_tr": "iS-Sa7ra fij-janūb.",
-    "ex_en": "The desert is in the south."
+    "ex_en": "The desert is in the south.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "ناس الجنوب كرام",
+        "tr": "nās ij-janūb krām",
+        "en": "Southern people are generous"
+      },
+      {
+        "ar": "سافر للجنوب",
+        "tr": "sāfir lij-janūb",
+        "en": "He travelled to the south"
+      }
+    ]
   },
   {
     "ar": "عنوان",
@@ -904,7 +1824,20 @@
     "ex_ar": "شنو العنوان متاعك؟",
     "ex_tr": "shinu l-3unwān mtā3ak?",
     "ex_en": "What is your address?",
-    "note": "pl. عناوين 3anāwīn"
+    "note": "pl. عناوين 3anāwīn",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "اكتبلي العنوان",
+        "tr": "iktibli l-3unwān",
+        "en": "Write the address for me"
+      },
+      {
+        "ar": "العنوان غالط",
+        "tr": "il-3unwān ghālaT",
+        "en": "The address is wrong"
+      }
+    ]
   },
   {
     "ar": "بحر",
@@ -917,7 +1850,20 @@
     "ex_ar": "نمشوا للبحر الجمعة.",
     "ex_tr": "nimshu lil-ba7ar ij-jum3a.",
     "ex_en": "We're going to the sea on Friday.",
-    "note": "pl. بحور b7ūr. Libyans say \"the sea\" for going to the beach."
+    "note": "pl. بحور b7ūr. Libyans say \"the sea\" for going to the beach.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "البحر هادي اليوم",
+        "tr": "il-ba7ar hādi il-yōm",
+        "en": "The sea is calm today"
+      },
+      {
+        "ar": "نعوموا في البحر",
+        "tr": "n3ūmu fil-ba7ar",
+        "en": "Let's swim in the sea"
+      }
+    ]
   },
   {
     "ar": "شط",
@@ -930,7 +1876,20 @@
     "ex_ar": "الشط مليان ناس في الصيف.",
     "ex_tr": "ish-shaTT malyān nās fiS-Sēf.",
     "ex_en": "The beach is full of people in summer.",
-    "note": "pl. شطوط shTūT"
+    "note": "pl. شطوط shTūT",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "نقعدوا على الشط",
+        "tr": "nug3du 3ash-shaTT",
+        "en": "Let's sit on the beach"
+      },
+      {
+        "ar": "الشط نظيف هنا",
+        "tr": "ish-shaTT nDHīf hni",
+        "en": "The beach is clean here"
+      }
+    ]
   },
   {
     "ar": "صحرا",
@@ -942,7 +1901,20 @@
     "freq": 2,
     "ex_ar": "الصحرا الليبية كبيرة هلبة.",
     "ex_tr": "iS-Sa7ra l-lībiyya kbīra hallba.",
-    "ex_en": "The Libyan desert is huge."
+    "ex_en": "The Libyan desert is huge.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "تهنا في الصحرا",
+        "tr": "tihna fiS-Sa7ra",
+        "en": "We got lost in the desert"
+      },
+      {
+        "ar": "الليل في الصحرا بارد",
+        "tr": "il-lēl fiS-Sa7ra bārid",
+        "en": "Nights in the desert are cold"
+      }
+    ]
   },
   {
     "ar": "رملة",
@@ -955,7 +1927,20 @@
     "ex_ar": "الرملة سخونة في القايلة.",
     "ex_tr": "ir-rmla sukhūna fil-gāyla.",
     "ex_en": "The sand is hot at midday.",
-    "note": "القايلة il-gāyla = the hot midday hours."
+    "note": "القايلة il-gāyla = the hot midday hours.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "الرملة دخلت في حوايجي",
+        "tr": "ir-rmla dakhlat fi 7wāyji",
+        "en": "Sand got into my clothes"
+      },
+      {
+        "ar": "الصغار يلعبوا في الرملة",
+        "tr": "iS-Sghār yil3bu fir-rmla",
+        "en": "The kids play in the sand"
+      }
+    ]
   },
   {
     "ar": "جبل",
@@ -968,7 +1953,20 @@
     "ex_ar": "طلعنا للجبل في الربيع.",
     "ex_tr": "Tla3na lij-jbal fir-rbī3.",
     "ex_en": "We went up to the mountain in spring.",
-    "note": "pl. جبال jbāl. الجبل often means the Nafusa Mountains (جبل نفوسة) in the west."
+    "note": "pl. جبال jbāl. الجبل often means the Nafusa Mountains (جبل نفوسة) in the west.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "الجبل بارد في الشتا",
+        "tr": "ij-jbal bārid fish-shta",
+        "en": "The mountain is cold in winter"
+      },
+      {
+        "ar": "ناس الجبل",
+        "tr": "nās ij-jbal",
+        "en": "people from the mountain"
+      }
+    ]
   },
   {
     "ar": "شجرة",
@@ -981,7 +1979,20 @@
     "ex_ar": "اقعد تحت الشجرة في الظل.",
     "ex_tr": "ag3ud ta7t ish-shajra fiDH-DHull.",
     "ex_en": "Sit under the tree in the shade.",
-    "note": "pl. شجر shjar (collective)"
+    "note": "pl. شجر shjar (collective)",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "زرعنا شجرة في الحوش",
+        "tr": "zra3na shajra fil-7ōsh",
+        "en": "We planted a tree at the house"
+      },
+      {
+        "ar": "الشجرة هذي فيها ظل",
+        "tr": "ish-shajra hādhi fīha DHull",
+        "en": "This tree gives shade"
+      }
+    ]
   },
   {
     "ar": "شمس",
@@ -993,7 +2004,20 @@
     "freq": 1,
     "ex_ar": "الشمس حامية اليوم.",
     "ex_tr": "ish-shams 7āmya il-yōm.",
-    "ex_en": "The sun is scorching today."
+    "ex_en": "The sun is scorching today.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "الشمس سخونة اليوم",
+        "tr": "ish-shams skhūna il-yōm",
+        "en": "The sun is hot today"
+      },
+      {
+        "ar": "ما تقعدش في الشمس",
+        "tr": "ma tug3udsh fish-shams",
+        "en": "Don't sit in the sun"
+      }
+    ]
   },
   {
     "ar": "قمرة",
@@ -1006,7 +2030,20 @@
     "ex_ar": "القمرة كاملة الليلة.",
     "ex_tr": "il-gamra kāmla il-lēla.",
     "ex_en": "The moon is full tonight.",
-    "note": "Libyan/Maghrebi feminine form; قمر gamar also heard."
+    "note": "Libyan/Maghrebi feminine form; قمر gamar also heard.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "القمرة طالعة",
+        "tr": "il-gamra Tal3a",
+        "en": "The moon is out"
+      },
+      {
+        "ar": "شوف القمرة الليلة",
+        "tr": "shūf il-gamra il-lēla",
+        "en": "Look at the moon tonight"
+      }
+    ]
   },
   {
     "ar": "نجمة",
@@ -1019,7 +2056,20 @@
     "ex_ar": "السما مليانة نجوم.",
     "ex_tr": "is-sma malyāna njūm.",
     "ex_en": "The sky is full of stars.",
-    "note": "pl. نجوم njūm"
+    "note": "pl. نجوم njūm",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "شوف النجوم في الصحرا",
+        "tr": "shūf in-njūm fiS-Sa7ra",
+        "en": "Look at the stars in the desert"
+      },
+      {
+        "ar": "نجمة صغيرة تلمع",
+        "tr": "nijma Sghīra tilma3",
+        "en": "A small star is twinkling"
+      }
+    ]
   },
   {
     "ar": "سما",
@@ -1031,7 +2081,20 @@
     "freq": 2,
     "ex_ar": "السما صافية اليوم.",
     "ex_tr": "is-sma Sāfya il-yōm.",
-    "ex_en": "The sky is clear today."
+    "ex_en": "The sky is clear today.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "السما مغيّمة",
+        "tr": "is-sma mghayyma",
+        "en": "The sky is cloudy"
+      },
+      {
+        "ar": "السما زرقا",
+        "tr": "is-sma zarga",
+        "en": "The sky is blue"
+      }
+    ]
   },
   {
     "ar": "مطر",
@@ -1044,7 +2107,20 @@
     "ex_ar": "المطر قليل في ليبيا.",
     "ex_tr": "il-maTar glīl fi lībya.",
     "ex_en": "Rain is scarce in Libya.",
-    "note": "See also شتا shta, the everyday Libyan word for rain."
+    "note": "See also شتا shta, the everyday Libyan word for rain.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "جا المطر أخيرًا",
+        "tr": "ja l-maTar akhīran",
+        "en": "The rain came at last"
+      },
+      {
+        "ar": "المطر غرّق الشوارع",
+        "tr": "il-maTar gharrag ish-shwāri3",
+        "en": "The rain flooded the streets"
+      }
+    ]
   },
   {
     "ar": "شتا",
@@ -1057,7 +2133,20 @@
     "ex_ar": "الشتا تصب برّا!",
     "ex_tr": "ish-shta tSubb barra!",
     "ex_en": "It's pouring rain outside!",
-    "note": "Maghrebi double meaning: both \"winter\" and \"rain\"."
+    "note": "Maghrebi double meaning: both \"winter\" and \"rain\".",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "الشتا بدت تصب",
+        "tr": "ish-shta bdat tSubb",
+        "en": "It started raining"
+      },
+      {
+        "ar": "خوذ معاك مظلة، بتصب الشتا",
+        "tr": "khūdh ma3āk mDHalla, btSubb ish-shta",
+        "en": "Take an umbrella, it's going to rain"
+      }
+    ]
   },
   {
     "ar": "ريح",
@@ -1070,7 +2159,20 @@
     "ex_ar": "الريح قوية اليوم.",
     "ex_tr": "ir-rī7 gwiyya il-yōm.",
     "ex_en": "The wind is strong today.",
-    "note": "pl. رياح"
+    "note": "pl. رياح",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "الريح طيّحت الشجرة",
+        "tr": "ir-rī7 Tayy7at ish-shajra",
+        "en": "The wind knocked the tree down"
+      },
+      {
+        "ar": "سكّر الباب، فيه ريح",
+        "tr": "sakkir il-bāb, fīh rī7",
+        "en": "Close the door, it's windy"
+      }
+    ]
   },
   {
     "ar": "جو",
@@ -1082,7 +2184,20 @@
     "freq": 1,
     "ex_ar": "الجو باهي اليوم.",
     "ex_tr": "ij-jaww bāhi il-yōm.",
-    "ex_en": "The weather is nice today."
+    "ex_en": "The weather is nice today.",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "كيف الجو عندكم؟",
+        "tr": "kīf ij-jaww 3andkum?",
+        "en": "How's the weather where you are?"
+      },
+      {
+        "ar": "الجو سخون اليوم",
+        "tr": "ij-jaww skhūn il-yōm",
+        "en": "The weather is hot today"
+      }
+    ]
   },
   {
     "ar": "سخانة",
@@ -1095,7 +2210,20 @@
     "ex_ar": "السخانة ما تنطاقش في أغسطس.",
     "ex_tr": "is-skhāna ma tinTāgsh fi aghusTus.",
     "ex_en": "The heat is unbearable in August.",
-    "note": "Also means \"fever\" colloquially."
+    "note": "Also means \"fever\" colloquially.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "السخانة هلبة اليوم",
+        "tr": "is-skhāna hallba il-yōm",
+        "en": "It's really hot today"
+      },
+      {
+        "ar": "ما نقدرش على السخانة",
+        "tr": "ma nigdarsh 3as-skhāna",
+        "en": "I can't stand the heat"
+      }
+    ]
   },
   {
     "ar": "برد",
@@ -1108,7 +2236,20 @@
     "ex_ar": "البرد في الليل يقص.",
     "ex_tr": "il-bard fil-lēl yguSS.",
     "ex_en": "The cold at night is biting.",
-    "note": "Also \"a cold\" (illness)."
+    "note": "Also \"a cold\" (illness).",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "البرد قوي الليلة",
+        "tr": "il-bard gwi il-lēla",
+        "en": "It's very cold tonight"
+      },
+      {
+        "ar": "البس، البرد برّا",
+        "tr": "ilbis, il-bard barra",
+        "en": "Get dressed, it's cold outside"
+      }
+    ]
   },
   {
     "ar": "قبلي",
@@ -1121,7 +2262,20 @@
     "ex_ar": "جا القبلي والدنيا عجاج.",
     "ex_tr": "ja l-gibli wid-dinya 3jāj.",
     "ex_en": "The ghibli came and everything is dusty.",
-    "note": "Hot, dry, dusty southerly wind; lit. \"from the qibla/south\". English \"ghibli\" comes from this."
+    "note": "Hot, dry, dusty southerly wind; lit. \"from the qibla/south\". English \"ghibli\" comes from this.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "القبلي بدا",
+        "tr": "il-gibli bda",
+        "en": "The ghibli has started"
+      },
+      {
+        "ar": "في القبلي ما نطلعوش",
+        "tr": "fil-gibli ma niTla3ūsh",
+        "en": "We don't go out during the ghibli"
+      }
+    ]
   },
   {
     "ar": "عجاج",
@@ -1133,7 +2287,20 @@
     "freq": 3,
     "ex_ar": "سكّر الشباك، فيه عجاج.",
     "ex_tr": "sakkir ish-shubbāk, fīh 3jāj.",
-    "ex_en": "Close the window, there's dust blowing."
+    "ex_en": "Close the window, there's dust blowing.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "العجاج غطّى المدينة",
+        "tr": "il-3jāj ghaTTa l-mdīna",
+        "en": "The dust covered the city"
+      },
+      {
+        "ar": "اليوم عجاج، ما تطلعش",
+        "tr": "il-yōm 3jāj, ma tiTla3sh",
+        "en": "It's dusty today, don't go out"
+      }
+    ]
   },
   {
     "ar": "صيف",
@@ -1145,7 +2312,20 @@
     "freq": 1,
     "ex_ar": "في الصيف نمشوا للبحر كل يوم.",
     "ex_tr": "fiS-Sēf nimshu lil-ba7ar kull yōm.",
-    "ex_en": "In summer we go to the sea every day."
+    "ex_en": "In summer we go to the sea every day.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "الصيف الجاي بنسافر",
+        "tr": "iS-Sēf ij-jāy bnsāfir",
+        "en": "Next summer I'll travel"
+      },
+      {
+        "ar": "الصيف في طرابلس رطب",
+        "tr": "iS-Sēf fi Trābles raTib",
+        "en": "Summer in Tripoli is humid"
+      }
+    ]
   },
   {
     "ar": "خريف",
@@ -1157,7 +2337,20 @@
     "freq": 3,
     "ex_ar": "الخريف في ليبيا قصير.",
     "ex_tr": "il-kharīf fi lībya gSīr.",
-    "ex_en": "Autumn in Libya is short."
+    "ex_en": "Autumn in Libya is short.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "في الخريف يبدا الجو يبرد",
+        "tr": "fil-kharīf yibda ij-jaww yibrid",
+        "en": "In autumn the weather starts to cool"
+      },
+      {
+        "ar": "الخريف جا بدري",
+        "tr": "il-kharīf ja badri",
+        "en": "Autumn came early"
+      }
+    ]
   },
   {
     "ar": "ربيع",
@@ -1169,7 +2362,20 @@
     "freq": 2,
     "ex_ar": "الربيع أحلى فصل.",
     "ex_tr": "ir-rbī3 a7la faSl.",
-    "ex_en": "Spring is the nicest season."
+    "ex_en": "Spring is the nicest season.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "في الربيع نطلعوا للجبل",
+        "tr": "fir-rbī3 niTla3u lij-jbal",
+        "en": "In spring we go up to the mountain"
+      },
+      {
+        "ar": "الربيع جا والدنيا خضرا",
+        "tr": "ir-rbī3 ja w-id-dinya khaDra",
+        "en": "Spring is here and everything is green"
+      }
+    ]
   },
   {
     "ar": "فصل",
@@ -1182,7 +2388,20 @@
     "ex_ar": "شنو أحسن فصل عندك؟",
     "ex_tr": "shinu a7san faSl 3andak?",
     "ex_en": "What's your favorite season?",
-    "note": "pl. فصول fSūl. Also \"classroom\" in school context."
+    "note": "pl. فصول fSūl. Also \"classroom\" in school context.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "الفصل هذا بارد",
+        "tr": "il-faSl hādha bārid",
+        "en": "This season is cold"
+      },
+      {
+        "ar": "في ليبيا أربع فصول",
+        "tr": "fi lībya arba3 fSūl",
+        "en": "Libya has four seasons"
+      }
+    ]
   },
   {
     "ar": "سحاب",
@@ -1195,7 +2414,20 @@
     "ex_ar": "السحاب غطّى الشمس.",
     "ex_tr": "is-s7āb ghaTTa sh-shams.",
     "ex_en": "The clouds covered the sun.",
-    "note": "Collective; one cloud = سحابة s7āba."
+    "note": "Collective; one cloud = سحابة s7āba.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "السحاب كثير اليوم",
+        "tr": "is-s7āb kthīr il-yōm",
+        "en": "It's very cloudy today"
+      },
+      {
+        "ar": "السحاب جايب شتا",
+        "tr": "is-s7āb jāyib shta",
+        "en": "The clouds are bringing rain"
+      }
+    ]
   },
   {
     "ar": "ثلج",
@@ -1207,7 +2439,20 @@
     "freq": 4,
     "ex_ar": "نزل الثلج في الجبل.",
     "ex_tr": "nzal ith-thalj fij-jbal.",
-    "ex_en": "Snow fell in the mountains."
+    "ex_en": "Snow fell in the mountains.",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "الثلج نادر في ليبيا",
+        "tr": "ith-thalj nādir fi lībya",
+        "en": "Snow is rare in Libya"
+      },
+      {
+        "ar": "حط ثلج في الكاس",
+        "tr": "7uTT thalj fil-kās",
+        "en": "Put ice in the glass"
+      }
+    ]
   },
   {
     "ar": "ضباب",
@@ -1219,7 +2464,20 @@
     "freq": 4,
     "ex_ar": "فيه ضباب الصبح على الطريق.",
     "ex_tr": "fīh Dbāb iS-Sub7 3ala T-Trīg.",
-    "ex_en": "There's fog on the road in the morning."
+    "ex_en": "There's fog on the road in the morning.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "الضباب كثيف الصبح",
+        "tr": "iD-Dbāb kthīf iS-Sbā7",
+        "en": "The fog is thick this morning"
+      },
+      {
+        "ar": "سوق شوية شوية، فيه ضباب",
+        "tr": "sūg shwayya shwayya, fīh Dbāb",
+        "en": "Drive slowly, there's fog"
+      }
+    ]
   },
   {
     "ar": "واد",
@@ -1232,7 +2490,20 @@
     "ex_ar": "الواد امتلا بعد الشتا.",
     "ex_tr": "il-wād imtla ba3d ish-shta.",
     "ex_en": "The wadi filled up after the rain.",
-    "note": "pl. وديان widyān"
+    "note": "pl. وديان widyān",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "الواد فاض",
+        "tr": "il-wād fāD",
+        "en": "The wadi flooded"
+      },
+      {
+        "ar": "خيّمنا في الواد",
+        "tr": "khayyamna fil-wād",
+        "en": "We camped in the wadi"
+      }
+    ]
   },
   {
     "ar": "عين",
@@ -1245,7 +2516,20 @@
     "ex_ar": "فيه عين مية في الجبل.",
     "ex_tr": "fīh 3ēn mayya fij-jbal.",
     "ex_en": "There's a water spring in the mountain.",
-    "note": "Same word as \"eye\". pl. عيون 3yūn"
+    "note": "Same word as \"eye\". pl. عيون 3yūn",
+    "usage": 26,
+    "phrases": [
+      {
+        "ar": "نشربوا من العين",
+        "tr": "nishrbu min il-3ēn",
+        "en": "We drink from the spring"
+      },
+      {
+        "ar": "مية العين باردة",
+        "tr": "myat il-3ēn bārda",
+        "en": "The spring water is cold"
+      }
+    ]
   },
   {
     "ar": "بير",
@@ -1258,7 +2542,20 @@
     "ex_ar": "المية من البير.",
     "ex_tr": "il-mayya min il-bīr.",
     "ex_en": "The water is from the well.",
-    "note": "pl. بيار byār"
+    "note": "pl. بيار byār",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "البير ناشف",
+        "tr": "il-bīr nāshif",
+        "en": "The well is dry"
+      },
+      {
+        "ar": "حفروا بير في الجنان",
+        "tr": "7afru bīr fil-jnān",
+        "en": "They dug a well in the farm"
+      }
+    ]
   },
   {
     "ar": "نخلة",
@@ -1271,7 +2568,20 @@
     "ex_ar": "النخلة هذي فيها تمر هلبة.",
     "ex_tr": "in-nakhla hādhi fīha tmar hallba.",
     "ex_en": "This palm tree has lots of dates.",
-    "note": "pl. نخل nkhal (collective)"
+    "note": "pl. نخل nkhal (collective)",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "النخلة طويلة هلبة",
+        "tr": "in-nakhla Twīla hallba",
+        "en": "The palm tree is very tall"
+      },
+      {
+        "ar": "طلع فوق النخلة",
+        "tr": "Tla3 fōg in-nakhla",
+        "en": "He climbed up the palm tree"
+      }
+    ]
   },
   {
     "ar": "زيتونة",
@@ -1284,7 +2594,20 @@
     "ex_ar": "جدي زرع الزيتونة هذي.",
     "ex_tr": "jeddi zra3 iz-zītūna hādhi.",
     "ex_en": "My grandfather planted this olive tree.",
-    "note": "Also a single olive."
+    "note": "Also a single olive.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "جنان فيه زيتون",
+        "tr": "jnān fīh zītūn",
+        "en": "a farm with olive trees"
+      },
+      {
+        "ar": "الزيتونة هذي عمرها مية سنة",
+        "tr": "iz-zītūna hādhi 3umurha mya sna",
+        "en": "This olive tree is a hundred years old"
+      }
+    ]
   },
   {
     "ar": "وردة",
@@ -1297,7 +2620,20 @@
     "ex_ar": "جبتلها وردة.",
     "ex_tr": "jibtilha warda.",
     "ex_en": "I brought her a flower.",
-    "note": "pl. ورد ward (collective)"
+    "note": "pl. ورد ward (collective)",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "الوردة ريحتها حلوة",
+        "tr": "il-warda rī7tha 7ilwa",
+        "en": "The rose smells nice"
+      },
+      {
+        "ar": "جبتلك وردة",
+        "tr": "jibtlik warda",
+        "en": "I brought you a flower"
+      }
+    ]
   },
   {
     "ar": "حشيش",
@@ -1309,7 +2645,20 @@
     "freq": 3,
     "ex_ar": "الحشيش طال في الجنان.",
     "ex_tr": "il-7shīsh Tāl fil-jnān.",
-    "ex_en": "The grass has grown tall in the garden."
+    "ex_en": "The grass has grown tall in the garden.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "قص الحشيش",
+        "tr": "guSS il-7shīsh",
+        "en": "Cut the grass"
+      },
+      {
+        "ar": "الحشيش أخضر بعد الشتا",
+        "tr": "il-7shīsh akhDar ba3d ish-shta",
+        "en": "The grass is green after the rain"
+      }
+    ]
   },
   {
     "ar": "حجرة",
@@ -1322,7 +2671,20 @@
     "ex_ar": "فيه حجرة كبيرة في الطريق.",
     "ex_tr": "fīh 7ajra kbīra fiT-Trīg.",
     "ex_en": "There's a big rock in the road.",
-    "note": "pl./collective حجر 7jar"
+    "note": "pl./collective حجر 7jar",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "ما ترميش الحجر",
+        "tr": "ma trmīsh il-7jar",
+        "en": "Don't throw stones"
+      },
+      {
+        "ar": "قعدنا على حجرة",
+        "tr": "ga3adna 3la 7ajra",
+        "en": "We sat on a rock"
+      }
+    ]
   },
   {
     "ar": "تراب",
@@ -1334,7 +2696,20 @@
     "freq": 3,
     "ex_ar": "الصغار يلعبوا في التراب.",
     "ex_tr": "iS-Sghār yil3bu fit-trāb.",
-    "ex_en": "The kids are playing in the dirt."
+    "ex_en": "The kids are playing in the dirt.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "هدومك كلها تراب",
+        "tr": "hdūmik kullha trāb",
+        "en": "Your clothes are all dirt"
+      },
+      {
+        "ar": "نظّف التراب من الحوش",
+        "tr": "naDHDHif it-trāb min il-7ōsh",
+        "en": "Clean the dust out of the house"
+      }
+    ]
   },
   {
     "ar": "موج",
@@ -1347,7 +2722,20 @@
     "ex_ar": "البحر فيه موج اليوم.",
     "ex_tr": "il-ba7ar fīh mūj il-yōm.",
     "ex_en": "The sea is wavy today.",
-    "note": "One wave = موجة mūja."
+    "note": "One wave = موجة mūja.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "الموج عالي اليوم",
+        "tr": "il-mūj 3āli il-yōm",
+        "en": "The waves are high today"
+      },
+      {
+        "ar": "ما تعومش، الموج قوي",
+        "tr": "ma t3ūmsh, il-mūj gwi",
+        "en": "Don't swim, the waves are strong"
+      }
+    ]
   },
   {
     "ar": "جزيرة",
@@ -1360,7 +2748,20 @@
     "ex_ar": "جربة جزيرة في تونس.",
     "ex_tr": "jarba jzīra fi tūnis.",
     "ex_en": "Djerba is an island in Tunisia.",
-    "note": "pl. جزر juzur"
+    "note": "pl. جزر juzur",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "مشينا لجزيرة فروة",
+        "tr": "mshēna l-jzīrat farwa",
+        "en": "We went to Farwa Island"
+      },
+      {
+        "ar": "جزيرة صغيرة في البحر",
+        "tr": "jzīra Sghīra fil-ba7ar",
+        "en": "a small island in the sea"
+      }
+    ]
   },
   {
     "ar": "واحة",
@@ -1372,7 +2773,20 @@
     "freq": 4,
     "ex_ar": "غدامس واحة في الصحرا.",
     "ex_tr": "ghdāmis wā7a fiS-Sa7ra.",
-    "ex_en": "Ghadames is an oasis in the desert."
+    "ex_en": "Ghadames is an oasis in the desert.",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "الواحة فيها نخل هلبة",
+        "tr": "il-wā7a fīha nakhal hallba",
+        "en": "The oasis has lots of palms"
+      },
+      {
+        "ar": "زرنا واحة غدامس",
+        "tr": "zurna wā7at ghdāmis",
+        "en": "We visited the Ghadames oasis"
+      }
+    ]
   },
   {
     "ar": "غابة",
@@ -1385,7 +2799,20 @@
     "ex_ar": "فيه غابة في الجبل الأخضر.",
     "ex_tr": "fīh ghāba fij-jbal il-akhDar.",
     "ex_en": "There's a forest in the Green Mountain.",
-    "note": "pl. غابات"
+    "note": "pl. غابات",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "الغابة كبيرة",
+        "tr": "il-ghāba kbīra",
+        "en": "The forest is big"
+      },
+      {
+        "ar": "نتمشوا في الغابة",
+        "tr": "nitmashshu fil-ghāba",
+        "en": "Let's walk in the woods"
+      }
+    ]
   },
   {
     "ar": "برق",
@@ -1397,7 +2824,20 @@
     "freq": 4,
     "ex_ar": "شفت البرق البارح.",
     "ex_tr": "shuft il-barg il-bāre7.",
-    "ex_en": "I saw the lightning yesterday."
+    "ex_en": "I saw the lightning yesterday.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "البرق ضوّى السما",
+        "tr": "il-barg Dawwa s-sma",
+        "en": "The lightning lit up the sky"
+      },
+      {
+        "ar": "برق ورعد طول الليل",
+        "tr": "barg w-ra3d Tūl il-lēl",
+        "en": "Thunder and lightning all night"
+      }
+    ]
   },
   {
     "ar": "رعد",
@@ -1409,7 +2849,20 @@
     "freq": 4,
     "ex_ar": "الرعد خوّف الصغار.",
     "ex_tr": "ir-ra3d khawwaf iS-Sghār.",
-    "ex_en": "The thunder scared the kids."
+    "ex_en": "The thunder scared the kids.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "سمعت الرعد؟",
+        "tr": "sma3t ir-ra3d?",
+        "en": "Did you hear the thunder?"
+      },
+      {
+        "ar": "الرعد قوي الليلة",
+        "tr": "ir-ra3d gwi il-lēla",
+        "en": "The thunder is loud tonight"
+      }
+    ]
   },
   {
     "ar": "ظل",
@@ -1421,7 +2874,20 @@
     "freq": 3,
     "ex_ar": "اقعد في الظل، الشمس حامية.",
     "ex_tr": "ag3ud fiDH-DHull, ish-shams 7āmya.",
-    "ex_en": "Sit in the shade, the sun is hot."
+    "ex_en": "Sit in the shade, the sun is hot.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "حط المكينة في الظل",
+        "tr": "7uTT il-makīna fiDH-DHull",
+        "en": "Park the car in the shade"
+      },
+      {
+        "ar": "ما فيش ظل هنا",
+        "tr": "ma fīsh DHull hni",
+        "en": "There's no shade here"
+      }
+    ]
   },
   {
     "ar": "طبيعة",
@@ -1433,7 +2899,20 @@
     "freq": 4,
     "ex_ar": "نحب الطبيعة والهدوء.",
     "ex_tr": "n7ibb iT-Tabī3a wil-hdū'.",
-    "ex_en": "I love nature and quiet."
+    "ex_en": "I love nature and quiet.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "الطبيعة في الجبل حلوة",
+        "tr": "iT-Tabī3a fij-jbal 7ilwa",
+        "en": "Nature in the mountains is beautiful"
+      },
+      {
+        "ar": "نبي نطلع للطبيعة",
+        "tr": "nibbi niTla3 liT-Tabī3a",
+        "en": "I want to get out into nature"
+      }
+    ]
   },
   {
     "ar": "درجة الحرارة",
@@ -1445,7 +2924,20 @@
     "freq": 3,
     "ex_ar": "درجة الحرارة اليوم أربعين.",
     "ex_tr": "darajat il-7arāra il-yōm arb3īn.",
-    "ex_en": "The temperature today is forty."
+    "ex_en": "The temperature today is forty.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "درجة الحرارة طالعة",
+        "tr": "darajat il-7arāra Tal3a",
+        "en": "The temperature is rising"
+      },
+      {
+        "ar": "قداش درجة الحرارة اليوم؟",
+        "tr": "gaddāsh darajat il-7arāra il-yōm?",
+        "en": "What's the temperature today?"
+      }
+    ]
   },
   {
     "ar": "سبخة",
@@ -1458,7 +2950,20 @@
     "ex_ar": "الطريق يعدّي جنب السبخة.",
     "ex_tr": "iT-Trīg y3addi jamb is-sabkha.",
     "ex_en": "The road passes beside the salt flat.",
-    "note": "Common landscape feature on the Libyan coast."
+    "note": "Common landscape feature on the Libyan coast.",
+    "usage": 14,
+    "phrases": [
+      {
+        "ar": "السبخة مليانة ملح",
+        "tr": "is-sabkha malyāna mil7",
+        "en": "The salt flat is full of salt"
+      },
+      {
+        "ar": "فيه طيور في السبخة",
+        "tr": "fīh Tyūr fis-sabkha",
+        "en": "There are birds at the salt marsh"
+      }
+    ]
   },
   {
     "ar": "حيوان",
@@ -1471,7 +2976,20 @@
     "ex_ar": "عندك حيوان في الحوش؟",
     "ex_tr": "3andak 7aywān fil-7ōsh?",
     "ex_en": "Do you have a pet at home?",
-    "note": "pl. حيوانات 7aywānāt"
+    "note": "pl. حيوانات 7aywānāt",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "ما نحبش الحيوانات في الحوش",
+        "tr": "ma n7ibbish il-7aywānāt fil-7ōsh",
+        "en": "I don't like animals in the house"
+      },
+      {
+        "ar": "حديقة الحيوانات",
+        "tr": "7adīgat il-7aywānāt",
+        "en": "the zoo"
+      }
+    ]
   },
   {
     "ar": "جمل",
@@ -1484,7 +3002,20 @@
     "ex_ar": "الجمل يصبر على العطش.",
     "ex_tr": "ij-jmal yuSbur 3ala l-3aTash.",
     "ex_en": "The camel can endure thirst.",
-    "note": "pl. جمال jmāl. Camel meat is eaten in Libya, especially in the south."
+    "note": "pl. جمال jmāl. Camel meat is eaten in Libya, especially in the south.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "ركبت على الجمل",
+        "tr": "rkibt 3al-jmal",
+        "en": "I rode the camel"
+      },
+      {
+        "ar": "لحم الجمل باهي",
+        "tr": "la7m ij-jmal bāhi",
+        "en": "Camel meat is good"
+      }
+    ]
   },
   {
     "ar": "ناقة",
@@ -1497,7 +3028,20 @@
     "ex_ar": "حليب الناقة مفيد.",
     "ex_tr": "7līb in-nāga mufīd.",
     "ex_en": "She-camel's milk is healthy.",
-    "note": "pl. نوق nūg"
+    "note": "pl. نوق nūg",
+    "usage": 22,
+    "phrases": [
+      {
+        "ar": "الناقة ولدت",
+        "tr": "in-nāga wildat",
+        "en": "The she-camel gave birth"
+      },
+      {
+        "ar": "نشربوا حليب ناقة",
+        "tr": "nishrbu 7līb nāga",
+        "en": "We drink camel's milk"
+      }
+    ]
   },
   {
     "ar": "حوار",
@@ -1509,7 +3053,20 @@
     "freq": 5,
     "ex_ar": "الحوار يمشي ورا أمه.",
     "ex_tr": "il-7wār yimshi wara ummah.",
-    "ex_en": "The camel calf walks behind its mother."
+    "ex_en": "The camel calf walks behind its mother.",
+    "usage": 12,
+    "phrases": [
+      {
+        "ar": "الحوار صغير توا",
+        "tr": "il-7wār Sghīr tawwa",
+        "en": "The camel calf is small now"
+      },
+      {
+        "ar": "لحم الحوار طري",
+        "tr": "la7m il-7wār Tri",
+        "en": "Young camel meat is tender"
+      }
+    ]
   },
   {
     "ar": "حصان",
@@ -1522,7 +3079,20 @@
     "ex_ar": "الحصان هذا يجري بالزربة.",
     "ex_tr": "il-7Sān hādha yijri biz-zarba.",
     "ex_en": "This horse runs fast.",
-    "note": "pl. خيل khēl. Horses are central to Libyan festivals and fantasia shows."
+    "note": "pl. خيل khēl. Horses are central to Libyan festivals and fantasia shows.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "تعرف تركب حصان؟",
+        "tr": "ta3rif tirkib 7Sān?",
+        "en": "Can you ride a horse?"
+      },
+      {
+        "ar": "الحصان الأبيض متاعه",
+        "tr": "il-7Sān il-abyaD mtā3ah",
+        "en": "The white horse is his"
+      }
+    ]
   },
   {
     "ar": "فرس",
@@ -1534,7 +3104,20 @@
     "freq": 4,
     "ex_ar": "الفرس هذي عربية أصيلة.",
     "ex_tr": "il-faras hādhi 3arabiyya aSīla.",
-    "ex_en": "This mare is a purebred Arabian."
+    "ex_en": "This mare is a purebred Arabian.",
+    "usage": 26,
+    "phrases": [
+      {
+        "ar": "ركب الفرس في الفانتازيا",
+        "tr": "rikib il-faras fil-fantāzya",
+        "en": "He rode the mare in the fantasia show"
+      },
+      {
+        "ar": "فرس عربية",
+        "tr": "faras 3arabiyya",
+        "en": "an Arabian mare"
+      }
+    ]
   },
   {
     "ar": "حمار",
@@ -1547,7 +3130,20 @@
     "ex_ar": "الفلاح يركب الحمار.",
     "ex_tr": "il-fallā7 yirkib il-7mār.",
     "ex_en": "The farmer rides the donkey.",
-    "note": "pl. حمير 7mīr. Also a common insult (\"idiot\")."
+    "note": "pl. حمير 7mīr. Also a common insult (\"idiot\").",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "الحمار يشيل الحطب",
+        "tr": "il-7mār yshīl il-7aTab",
+        "en": "The donkey carries the firewood"
+      },
+      {
+        "ar": "ما تكونش حمار!",
+        "tr": "ma tkūnsh 7mār!",
+        "en": "Don't be a donkey (fool)!"
+      }
+    ]
   },
   {
     "ar": "بغل",
@@ -1560,7 +3156,20 @@
     "ex_ar": "البغل يشيل الحمل التقيل.",
     "ex_tr": "il-baghl yshīl il-7iml it-tgīl.",
     "ex_en": "The mule carries the heavy load.",
-    "note": "pl. بغال bghāl"
+    "note": "pl. بغال bghāl",
+    "usage": 14,
+    "phrases": [
+      {
+        "ar": "البغل قوي",
+        "tr": "il-baghl gwi",
+        "en": "The mule is strong"
+      },
+      {
+        "ar": "راس كيف البغل",
+        "tr": "rās kīf il-baghl",
+        "en": "stubborn as a mule"
+      }
+    ]
   },
   {
     "ar": "كلب",
@@ -1573,7 +3182,20 @@
     "ex_ar": "الكلب ينبح في الليل.",
     "ex_tr": "il-kalb yinba7 fil-lēl.",
     "ex_en": "The dog barks at night.",
-    "note": "pl. كلاب klāb"
+    "note": "pl. كلاب klāb",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "الكلب يعض؟",
+        "tr": "il-kalb y3uDD?",
+        "en": "Does the dog bite?"
+      },
+      {
+        "ar": "عنده كلب في الحوش",
+        "tr": "3andah kalb fil-7ōsh",
+        "en": "He has a dog at home"
+      }
+    ]
   },
   {
     "ar": "جرو",
@@ -1585,7 +3207,20 @@
     "freq": 4,
     "ex_ar": "لقينا جرو صغير في الشارع.",
     "ex_tr": "lgēna jirw Sghīr fish-shāri3.",
-    "ex_en": "We found a little puppy in the street."
+    "ex_en": "We found a little puppy in the street.",
+    "usage": 22,
+    "phrases": [
+      {
+        "ar": "الجرو يلعب مع الصغار",
+        "tr": "ij-jirw yil3ab ma3 iS-Sghār",
+        "en": "The puppy plays with the kids"
+      },
+      {
+        "ar": "نبي نربّي جرو",
+        "tr": "nibbi nrabbi jirw",
+        "en": "I want to raise a puppy"
+      }
+    ]
   },
   {
     "ar": "قطوس",
@@ -1598,7 +3233,20 @@
     "ex_ar": "القطوس راقد على الكرسي.",
     "ex_tr": "il-gaTTūs rāgid 3ala l-kursi.",
     "ex_en": "The cat is sleeping on the chair.",
-    "note": "Libyan word; female قطوسة gaTTūsa. pl. قطاطيس gTāTīs"
+    "note": "Libyan word; female قطوسة gaTTūsa. pl. قطاطيس gTāTīs",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "القطوس كلا الحوت",
+        "tr": "il-gaTTūs kla l-7ūt",
+        "en": "The cat ate the fish"
+      },
+      {
+        "ar": "عندنا قطوس في الحوش",
+        "tr": "3andna gaTTūs fil-7ōsh",
+        "en": "We have a cat at home"
+      }
+    ]
   },
   {
     "ar": "علوش",
@@ -1611,7 +3259,20 @@
     "ex_ar": "شرينا علوش للعيد.",
     "ex_tr": "shrēna 3allūsh lil-3īd.",
     "ex_en": "We bought a sheep for Eid.",
-    "note": "Very Libyan word. pl. علاليش 3lālīsh. The Eid al-Adha sheep is the علوش العيد."
+    "note": "Very Libyan word. pl. علاليش 3lālīsh. The Eid al-Adha sheep is the علوش العيد.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "العلوش غالي السنة هذي",
+        "tr": "il-3allūsh ghāli is-sna hādhi",
+        "en": "Sheep are expensive this year"
+      },
+      {
+        "ar": "بقداش العلوش؟",
+        "tr": "bgaddāsh il-3allūsh?",
+        "en": "How much is the sheep?"
+      }
+    ]
   },
   {
     "ar": "كبش",
@@ -1624,7 +3285,20 @@
     "ex_ar": "الكبش هذا قرونه كبار.",
     "ex_tr": "il-kebsh hādha grūnah kbār.",
     "ex_en": "This ram has big horns.",
-    "note": "pl. كباش kbāsh"
+    "note": "pl. كباش kbāsh",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "شرينا كبش للعيد",
+        "tr": "shrēna kebsh lil-3īd",
+        "en": "We bought a ram for Eid"
+      },
+      {
+        "ar": "الكبش ينطح",
+        "tr": "il-kebsh yinTa7",
+        "en": "The ram butts"
+      }
+    ]
   },
   {
     "ar": "نعجة",
@@ -1637,7 +3311,20 @@
     "ex_ar": "النعجة ولدت توا.",
     "ex_tr": "in-na3ja wildat tawwa.",
     "ex_en": "The ewe just gave birth.",
-    "note": "pl. نعاج n3āj"
+    "note": "pl. نعاج n3āj",
+    "usage": 18,
+    "phrases": [
+      {
+        "ar": "عنده عشر نعاج",
+        "tr": "3andah 3ashr n3āj",
+        "en": "He has ten ewes"
+      },
+      {
+        "ar": "حليب النعجة",
+        "tr": "7līb in-na3ja",
+        "en": "ewe's milk"
+      }
+    ]
   },
   {
     "ar": "غنم",
@@ -1650,7 +3337,20 @@
     "ex_ar": "الراعي يسرح بالغنم.",
     "ex_tr": "ir-rā3i yasra7 bil-ghnam.",
     "ex_en": "The shepherd takes the flock out to graze.",
-    "note": "Collective noun."
+    "note": "Collective noun.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "عنده غنم هلبة",
+        "tr": "3andah ghnam hallba",
+        "en": "He has lots of sheep"
+      },
+      {
+        "ar": "لحم الغنم",
+        "tr": "la7m il-ghnam",
+        "en": "mutton"
+      }
+    ]
   },
   {
     "ar": "معزة",
@@ -1663,7 +3363,20 @@
     "ex_ar": "المعزة تاكل كل شي.",
     "ex_tr": "il-ma3za tākil kull shi.",
     "ex_en": "The goat eats everything.",
-    "note": "pl./collective معيز m3īz"
+    "note": "pl./collective معيز m3īz",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "حليب المعزة",
+        "tr": "7līb il-ma3za",
+        "en": "goat's milk"
+      },
+      {
+        "ar": "المعزة هربت",
+        "tr": "il-ma3za harbat",
+        "en": "The goat ran away"
+      }
+    ]
   },
   {
     "ar": "بقرة",
@@ -1676,7 +3389,20 @@
     "ex_ar": "البقرة تعطي حليب.",
     "ex_tr": "il-bagra ta3Ti 7līb.",
     "ex_en": "The cow gives milk.",
-    "note": "pl./collective بقر bgar"
+    "note": "pl./collective بقر bgar",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "حليب البقرة",
+        "tr": "7līb il-bagra",
+        "en": "cow's milk"
+      },
+      {
+        "ar": "عنده بقرتين",
+        "tr": "3andah bagartēn",
+        "en": "He has two cows"
+      }
+    ]
   },
   {
     "ar": "جاجة",
@@ -1689,7 +3415,20 @@
     "ex_ar": "الجاجة باضت.",
     "ex_tr": "ij-jāja bāDat.",
     "ex_en": "The hen laid an egg.",
-    "note": "pl./collective جاج jāj"
+    "note": "pl./collective جاج jāj",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "نطيّبوا جاجة للعشا",
+        "tr": "nTayybu jāja lil-3sha",
+        "en": "Let's cook a chicken for dinner"
+      },
+      {
+        "ar": "لحم الجاج أرخص",
+        "tr": "la7m ij-jāj arkhaS",
+        "en": "Chicken is cheaper"
+      }
+    ]
   },
   {
     "ar": "ديك",
@@ -1702,7 +3441,20 @@
     "ex_ar": "الديك يصيح الصبح بكري.",
     "ex_tr": "id-dīk ySī7 iS-Sub7 bakri.",
     "ex_en": "The rooster crows early in the morning.",
-    "note": "pl. ديوك dyūk"
+    "note": "pl. ديوك dyūk",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "الديك صحّاني",
+        "tr": "id-dīk Sa77āni",
+        "en": "The rooster woke me up"
+      },
+      {
+        "ar": "ديك عربي",
+        "tr": "dīk 3arbi",
+        "en": "a local rooster"
+      }
+    ]
   },
   {
     "ar": "طير",
@@ -1715,7 +3467,20 @@
     "ex_ar": "الطيور تغني في الجنان.",
     "ex_tr": "iT-Tyūr tghanni fil-jnān.",
     "ex_en": "The birds sing in the garden.",
-    "note": "pl. طيور Tyūr"
+    "note": "pl. طيور Tyūr",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "الطير طار",
+        "tr": "iT-Tēr Tār",
+        "en": "The bird flew away"
+      },
+      {
+        "ar": "يربّي في الطيور",
+        "tr": "yrabbi fiT-Tyūr",
+        "en": "He raises birds"
+      }
+    ]
   },
   {
     "ar": "حمامة",
@@ -1728,7 +3493,20 @@
     "ex_ar": "عنده حمام فوق السطح.",
     "ex_tr": "3andah 7mām fōg is-sTa7.",
     "ex_en": "He keeps pigeons on the roof.",
-    "note": "Collective حمام 7mām. Pigeon keeping is a popular hobby."
+    "note": "Collective حمام 7mām. Pigeon keeping is a popular hobby.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "الحمام يطير فوق الجامع",
+        "tr": "il-7mām yTīr fōg ij-jāmi3",
+        "en": "The pigeons fly over the mosque"
+      },
+      {
+        "ar": "يربّي في الحمام",
+        "tr": "yrabbi fil-7mām",
+        "en": "He keeps pigeons"
+      }
+    ]
   },
   {
     "ar": "فار",
@@ -1741,7 +3519,20 @@
     "ex_ar": "فيه فار في الكوجينة!",
     "ex_tr": "fīh fār fil-kūjīna!",
     "ex_en": "There's a mouse in the kitchen!",
-    "note": "pl. فيران fīrān"
+    "note": "pl. فيران fīrān",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "الفار كلا الخبزة",
+        "tr": "il-fār kla l-khubza",
+        "en": "The mouse ate the bread"
+      },
+      {
+        "ar": "نبي سم الفيران",
+        "tr": "nibbi summ il-firān",
+        "en": "I need rat poison"
+      }
+    ]
   },
   {
     "ar": "حنش",
@@ -1754,7 +3545,20 @@
     "ex_ar": "رد بالك، فيه حنش!",
     "ex_tr": "rudd bālak, fīh 7nash!",
     "ex_en": "Watch out, there's a snake!",
-    "note": "pl. حناش 7nāsh"
+    "note": "pl. حناش 7nāsh",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "الحنش لدغه",
+        "tr": "il-7nash ldaghah",
+        "en": "The snake bit him"
+      },
+      {
+        "ar": "شفت حنش في الجنان",
+        "tr": "shuft 7nash fil-jnān",
+        "en": "I saw a snake in the farm"
+      }
+    ]
   },
   {
     "ar": "عقرب",
@@ -1767,7 +3571,20 @@
     "ex_ar": "العقارب هلبة في الجنوب.",
     "ex_tr": "il-3agārib hallba fij-janūb.",
     "ex_en": "There are lots of scorpions in the south.",
-    "note": "pl. عقارب 3agārib"
+    "note": "pl. عقارب 3agārib",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "العقرب لدغته",
+        "tr": "il-3agrab ldghatah",
+        "en": "The scorpion stung him"
+      },
+      {
+        "ar": "رد بالك من العقرب",
+        "tr": "rudd bālik min il-3agrab",
+        "en": "Watch out for the scorpion"
+      }
+    ]
   },
   {
     "ar": "ذبانة",
@@ -1780,7 +3597,20 @@
     "ex_ar": "الذبان هلبة في الصيف.",
     "ex_tr": "idh-dhubbān hallba fiS-Sēf.",
     "ex_en": "There are lots of flies in summer.",
-    "note": "Collective ذبان dhubbān"
+    "note": "Collective ذبان dhubbān",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "الذبان جا على الماكلة",
+        "tr": "idh-dhubbān ja 3al-mākla",
+        "en": "Flies landed on the food"
+      },
+      {
+        "ar": "سكّر الشباك، فيه ذبان",
+        "tr": "sakkir ish-shubbāk, fīh dhubbān",
+        "en": "Close the window, there are flies"
+      }
+    ]
   },
   {
     "ar": "ناموسة",
@@ -1793,7 +3623,20 @@
     "ex_ar": "الناموس ما خلّانيش نرقد.",
     "ex_tr": "in-nāmūs ma khallānīsh nurgud.",
     "ex_en": "The mosquitoes didn't let me sleep.",
-    "note": "Collective ناموس nāmūs"
+    "note": "Collective ناموس nāmūs",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الناموسة قرصتني",
+        "tr": "in-nāmūsa garSatni",
+        "en": "The mosquito bit me"
+      },
+      {
+        "ar": "شغّل المروحة على خاطر الناموس",
+        "tr": "shaghghil il-marwa7a 3la khāTir in-nāmūs",
+        "en": "Turn on the fan because of the mosquitoes"
+      }
+    ]
   },
   {
     "ar": "نملة",
@@ -1806,7 +3649,20 @@
     "ex_ar": "النمل جا على السكر.",
     "ex_tr": "in-naml ja 3ala s-sukkar.",
     "ex_en": "The ants came to the sugar.",
-    "note": "Collective نمل naml"
+    "note": "Collective نمل naml",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "النمل في الكوجينة",
+        "tr": "in-namal fil-kūjīna",
+        "en": "There are ants in the kitchen"
+      },
+      {
+        "ar": "نملة صغيرة",
+        "tr": "namla Sghīra",
+        "en": "a little ant"
+      }
+    ]
   },
   {
     "ar": "صرصور",
@@ -1819,7 +3675,20 @@
     "ex_ar": "شفت صرصور في الحمام.",
     "ex_tr": "shuft SarSūr fil-7ammām.",
     "ex_en": "I saw a cockroach in the bathroom.",
-    "note": "pl. صراصير SarāSīr"
+    "note": "pl. صراصير SarāSīr",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "الصراصير في الكوجينة",
+        "tr": "iS-SrāSīr fil-kūjīna",
+        "en": "There are cockroaches in the kitchen"
+      },
+      {
+        "ar": "اقتل الصرصور",
+        "tr": "ugtul iS-SarSūr",
+        "en": "Kill the cockroach"
+      }
+    ]
   },
   {
     "ar": "فكرون",
@@ -1832,7 +3701,20 @@
     "ex_ar": "الفكرون يمشي شوية شوية.",
     "ex_tr": "il-fakrūn yimshi shwayya shwayya.",
     "ex_en": "The tortoise walks very slowly.",
-    "note": "Maghrebi word (Amazigh origin). pl. فكارين fkārīn"
+    "note": "Maghrebi word (Amazigh origin). pl. فكارين fkārīn",
+    "usage": 20,
+    "phrases": [
+      {
+        "ar": "عندنا فكرون في الجنان",
+        "tr": "3andna fakrūn fil-jnān",
+        "en": "We have a tortoise in the garden"
+      },
+      {
+        "ar": "شوية شوية كيف الفكرون",
+        "tr": "shwayya shwayya kīf il-fakrūn",
+        "en": "slow as a tortoise"
+      }
+    ]
   },
   {
     "ar": "ذيب",
@@ -1845,7 +3727,20 @@
     "ex_ar": "الذيب كلا العلوش.",
     "ex_tr": "idh-dhīb kla l-3allūsh.",
     "ex_en": "The wolf ate the sheep.",
-    "note": "pl. ذياب dhyāb. In Libya often refers to the golden jackal/African wolf."
+    "note": "pl. ذياب dhyāb. In Libya often refers to the golden jackal/African wolf.",
+    "usage": 24,
+    "phrases": [
+      {
+        "ar": "سمعنا الذيب في الليل",
+        "tr": "sma3na dh-dhīb fil-lēl",
+        "en": "We heard the jackal at night"
+      },
+      {
+        "ar": "الذيب ما يخافش",
+        "tr": "idh-dhīb ma ykhāfsh",
+        "en": "The wolf isn't afraid"
+      }
+    ]
   },
   {
     "ar": "غزال",
@@ -1858,7 +3753,20 @@
     "ex_ar": "الغزال يجري بالزربة.",
     "ex_tr": "il-ghzāl yijri biz-zarba.",
     "ex_en": "The gazelle runs fast.",
-    "note": "pl. غزلان ghizlān. Also a compliment for a beautiful woman."
+    "note": "pl. غزلان ghizlān. Also a compliment for a beautiful woman.",
+    "usage": 26,
+    "phrases": [
+      {
+        "ar": "عيونها كيف الغزال",
+        "tr": "3yūnha kīf il-ghzāl",
+        "en": "Her eyes are like a gazelle's"
+      },
+      {
+        "ar": "الغزال نادر توا",
+        "tr": "il-ghzāl nādir tawwa",
+        "en": "Gazelles are rare now"
+      }
+    ]
   },
   {
     "ar": "أرنب",
@@ -1871,7 +3779,20 @@
     "ex_ar": "الصغار يحبوا الأرنب.",
     "ex_tr": "iS-Sghār y7ibbu l-arnab.",
     "ex_en": "The kids love the rabbit.",
-    "note": "pl. أرانب arānib"
+    "note": "pl. أرانب arānib",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "لحم الأرنب",
+        "tr": "la7m il-arnab",
+        "en": "rabbit meat"
+      },
+      {
+        "ar": "الأرنب هرب من القفص",
+        "tr": "il-arnab harab min il-gafaS",
+        "en": "The rabbit escaped from the cage"
+      }
+    ]
   },
   {
     "ar": "فنك",
@@ -1884,7 +3805,20 @@
     "ex_ar": "الفنك عايش في الصحرا.",
     "ex_tr": "il-fanak 3āyish fiS-Sa7ra.",
     "ex_en": "The fennec fox lives in the desert.",
-    "note": "Small desert fox with big ears."
+    "note": "Small desert fox with big ears.",
+    "usage": 12,
+    "phrases": [
+      {
+        "ar": "الفنك وذناته كبار",
+        "tr": "il-fanak widhnātah kbār",
+        "en": "The fennec has big ears"
+      },
+      {
+        "ar": "شفت فنك في الصحرا",
+        "tr": "shuft fanak fiS-Sa7ra",
+        "en": "I saw a fennec in the desert"
+      }
+    ]
   },
   {
     "ar": "نحلة",
@@ -1897,7 +3831,20 @@
     "ex_ar": "النحل يعمل العسل.",
     "ex_tr": "in-na7l ya3mil il-3asal.",
     "ex_en": "Bees make honey.",
-    "note": "Collective نحل na7l"
+    "note": "Collective نحل na7l",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "النحلة قرصتني",
+        "tr": "in-na7la garSatni",
+        "en": "The bee stung me"
+      },
+      {
+        "ar": "عسل النحل الليبي",
+        "tr": "3sal in-na7al il-lībi",
+        "en": "Libyan honey"
+      }
+    ]
   },
   {
     "ar": "أسد",
@@ -1910,7 +3857,20 @@
     "ex_ar": "شفنا الأسد في حديقة الحيوان.",
     "ex_tr": "shufna l-asad fi 7adīgat il-7aywān.",
     "ex_en": "We saw the lion at the zoo.",
-    "note": "pl. أسود usūd. Also used as a nickname for a brave man."
+    "note": "pl. أسود usūd. Also used as a nickname for a brave man.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "قلبه قلب أسد",
+        "tr": "galbah galb asad",
+        "en": "He has a lion's heart"
+      },
+      {
+        "ar": "الأسد ملك الغابة",
+        "tr": "il-asad malik il-ghāba",
+        "en": "The lion is king of the jungle"
+      }
+    ]
   },
   {
     "ar": "خدمة",
@@ -1923,7 +3883,25 @@
     "ex_ar": "ماشي للخدمة.",
     "ex_tr": "māshi lil-khidma.",
     "ex_en": "I'm off to work.",
-    "note": "The everyday Libyan word for work. pl. خدمات"
+    "note": "The everyday Libyan word for work. pl. خدمات",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "الخدمة تعب",
+        "tr": "il-khidma ta3ab",
+        "en": "Work is tiring"
+      },
+      {
+        "ar": "عندي خدمة بكرة الصبح",
+        "tr": "3andi khidma bukra iS-Sbā7",
+        "en": "I have work tomorrow morning"
+      },
+      {
+        "ar": "يعطيك الصحة على الخدمة",
+        "tr": "ya3Tīk iS-Sa77a 3al-khidma",
+        "en": "Thanks for the hard work"
+      }
+    ]
   },
   {
     "ar": "وظيفة",
@@ -1936,7 +3914,20 @@
     "ex_ar": "لقيت وظيفة في شركة نفط.",
     "ex_tr": "lgēt wDHīfa fi sharikat nafT.",
     "ex_en": "I found a job at an oil company.",
-    "note": "pl. وظايف wDHāyif"
+    "note": "pl. وظايف wDHāyif",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "نبي وظيفة في الحكومة",
+        "tr": "nibbi wDHīfa fil-7ukūma",
+        "en": "I want a government job"
+      },
+      {
+        "ar": "الوظيفة هذي مرتبها باهي",
+        "tr": "il-wDHīfa hādhi murattabha bāhi",
+        "en": "This job has a good salary"
+      }
+    ]
   },
   {
     "ar": "خدّام",
@@ -1949,7 +3940,20 @@
     "ex_ar": "الخدامة بدوا الخدمة الصبح بكري.",
     "ex_tr": "il-khaddāma bdu l-khidma iS-Sub7 bakri.",
     "ex_en": "The workers started work early in the morning.",
-    "note": "pl. خدّامة khaddāma"
+    "note": "pl. خدّامة khaddāma",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "جبنا خدامة للحوش",
+        "tr": "jibna khaddāma lil-7ōsh",
+        "en": "We brought workers for the house"
+      },
+      {
+        "ar": "الخدام ما جاش اليوم",
+        "tr": "il-khaddām ma jāsh il-yōm",
+        "en": "The worker didn't come today"
+      }
+    ]
   },
   {
     "ar": "موظف",
@@ -1962,7 +3966,20 @@
     "ex_ar": "بوي موظف في الحكومة.",
     "ex_tr": "būy mwaDHDHaf fil-7ukūma.",
     "ex_en": "My father is a government employee.",
-    "note": "pl. موظفين mwaDHDHfīn. Most Libyans work in the public sector."
+    "note": "pl. موظفين mwaDHDHfīn. Most Libyans work in the public sector.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "كل الموظفين في إجازة",
+        "tr": "kull il-mwaDHDHafīn fi ijāza",
+        "en": "All the employees are on leave"
+      },
+      {
+        "ar": "الموظف قالّي ارجع بكرة",
+        "tr": "il-mwaDHDHaf gālli irja3 bukra",
+        "en": "The clerk told me to come back tomorrow"
+      }
+    ]
   },
   {
     "ar": "مكتب",
@@ -1975,7 +3992,20 @@
     "ex_ar": "المدير في المكتب متاعه.",
     "ex_tr": "il-mudīr fil-maktab mtā3ah.",
     "ex_en": "The manager is in his office.",
-    "note": "pl. مكاتب makātib"
+    "note": "pl. مكاتب makātib",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "نستناك في المكتب",
+        "tr": "nistannāk fil-maktab",
+        "en": "I'll wait for you at the office"
+      },
+      {
+        "ar": "المكتب مسكّر الجمعة",
+        "tr": "il-maktab msakkar ij-jum3a",
+        "en": "The office is closed on Friday"
+      }
+    ]
   },
   {
     "ar": "مدير",
@@ -1988,7 +4018,20 @@
     "ex_ar": "المدير ما جاش اليوم.",
     "ex_tr": "il-mudīr ma jāsh il-yōm.",
     "ex_en": "The boss didn't come in today.",
-    "note": "pl. مدراء mudarā"
+    "note": "pl. مدراء mudarā",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "نبي نكلّم المدير",
+        "tr": "nibbi nkallim il-mudīr",
+        "en": "I want to speak to the manager"
+      },
+      {
+        "ar": "المدير في اجتماع",
+        "tr": "il-mudīr fi ijtimā3",
+        "en": "The manager is in a meeting"
+      }
+    ]
   },
   {
     "ar": "مهندس",
@@ -2001,7 +4044,20 @@
     "ex_ar": "ولدي مهندس في شركة النفط.",
     "ex_tr": "wildi mhandis fi sharikat in-nafT.",
     "ex_en": "My son is an engineer at the oil company.",
-    "note": "pl. مهندسين mhandsīn"
+    "note": "pl. مهندسين mhandsīn",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "يقرا باش يولّي مهندس",
+        "tr": "yigra bāsh ywalli mhandis",
+        "en": "He's studying to become an engineer"
+      },
+      {
+        "ar": "مهندس كهربا",
+        "tr": "mhandis kahraba",
+        "en": "electrical engineer"
+      }
+    ]
   },
   {
     "ar": "أستاذ",
@@ -2014,7 +4070,20 @@
     "ex_ar": "الأستاذ شرح الدرس باهي.",
     "ex_tr": "il-ustādh shara7 id-dars bāhi.",
     "ex_en": "The teacher explained the lesson well.",
-    "note": "Fem. أستاذة ustādha. Also a respectful title for educated men."
+    "note": "Fem. أستاذة ustādha. Also a respectful title for educated men.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "صباح الخير يا أستاذ",
+        "tr": "Sbā7 il-khēr ya ustādh",
+        "en": "Good morning, sir"
+      },
+      {
+        "ar": "الأستاذ متاع العربي",
+        "tr": "il-ustādh mtā3 il-3arbi",
+        "en": "the Arabic teacher"
+      }
+    ]
   },
   {
     "ar": "معلم",
@@ -2027,7 +4096,20 @@
     "ex_ar": "المعلم متاع الحدادة شاطر.",
     "ex_tr": "il-m3allim mtā3 il-7addāda shāTir.",
     "ex_en": "The master blacksmith is skilled.",
-    "note": "pl. معلمين m3allmīn"
+    "note": "pl. معلمين m3allmīn",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "المعلم قال الخدمة تكمل بكرة",
+        "tr": "il-m3allim gāl il-khidma tkammil bukra",
+        "en": "The master said the job will be done tomorrow"
+      },
+      {
+        "ar": "هو معلم في الكهربا",
+        "tr": "huwwa m3allim fil-kahraba",
+        "en": "He's a master electrician"
+      }
+    ]
   },
   {
     "ar": "شرطي",
@@ -2039,7 +4121,20 @@
     "freq": 3,
     "ex_ar": "الشرطي وقّفني عند الإشارة.",
     "ex_tr": "ish-shurTi waggafni 3and il-ishāra.",
-    "ex_en": "The policeman stopped me at the traffic light."
+    "ex_en": "The policeman stopped me at the traffic light.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "الشرطي طلب الرخصة",
+        "tr": "ish-shurTi Talab ir-rukhSa",
+        "en": "The officer asked for the license"
+      },
+      {
+        "ar": "اسأل الشرطي على الطريق",
+        "tr": "is'al ish-shurTi 3aT-Trīg",
+        "en": "Ask the policeman for directions"
+      }
+    ]
   },
   {
     "ar": "مرتب",
@@ -2052,7 +4147,20 @@
     "ex_ar": "المرتب ما نزلش الشهر هذا.",
     "ex_tr": "il-murattab ma nzalsh ish-shahar hādha.",
     "ex_en": "The salary hasn't been paid this month.",
-    "note": "Libyan usage; pl. مرتبات murattabāt. \"نزل المرتب\" = the salary came in."
+    "note": "Libyan usage; pl. مرتبات murattabāt. \"نزل المرتب\" = the salary came in.",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "المرتب نزل؟",
+        "tr": "il-murattab nzal?",
+        "en": "Has the salary come in?"
+      },
+      {
+        "ar": "المرتب ما يكفّيش",
+        "tr": "il-murattab ma ykaffīsh",
+        "en": "The salary isn't enough"
+      }
+    ]
   },
   {
     "ar": "شركة",
@@ -2065,7 +4173,20 @@
     "ex_ar": "نخدم في شركة خاصة.",
     "ex_tr": "nikhdim fi sharika khāSSa.",
     "ex_en": "I work at a private company.",
-    "note": "pl. شركات sharikāt"
+    "note": "pl. شركات sharikāt",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "الشركة عطتني عقد",
+        "tr": "ish-sharika 3aTatni 3agd",
+        "en": "The company gave me a contract"
+      },
+      {
+        "ar": "شركة نفط",
+        "tr": "sharikat nafT",
+        "en": "an oil company"
+      }
+    ]
   },
   {
     "ar": "اجتماع",
@@ -2077,7 +4198,20 @@
     "freq": 3,
     "ex_ar": "عندنا اجتماع الساعة عشرة.",
     "ex_tr": "3andna ijtimā3 is-sā3a 3ashra.",
-    "ex_en": "We have a meeting at ten."
+    "ex_en": "We have a meeting at ten.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "الاجتماع تأجّل",
+        "tr": "il-ijtimā3 t'ajjal",
+        "en": "The meeting was postponed"
+      },
+      {
+        "ar": "بعد الاجتماع نكلّمك",
+        "tr": "ba3d il-ijtimā3 nkallmik",
+        "en": "I'll call you after the meeting"
+      }
+    ]
   },
   {
     "ar": "محامي",
@@ -2090,7 +4224,20 @@
     "ex_ar": "لازم تكلّم محامي.",
     "ex_tr": "lāzim tkallim m7āmi.",
     "ex_en": "You need to talk to a lawyer.",
-    "note": "pl. محامين m7āmīn"
+    "note": "pl. محامين m7āmīn",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "جبنا محامي للقضية",
+        "tr": "jibna m7āmi lil-gaDiyya",
+        "en": "We got a lawyer for the case"
+      },
+      {
+        "ar": "خوي يقرا باش يولّي محامي",
+        "tr": "khūy yigra bāsh ywalli m7āmi",
+        "en": "My brother is studying to be a lawyer"
+      }
+    ]
   },
   {
     "ar": "نجّار",
@@ -2102,7 +4249,20 @@
     "freq": 4,
     "ex_ar": "النجار صلّح الباب.",
     "ex_tr": "in-najjār Salla7 il-bāb.",
-    "ex_en": "The carpenter fixed the door."
+    "ex_en": "The carpenter fixed the door.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "النجار يصنع في الدولاب",
+        "tr": "in-najjār yiSna3 fid-dūlāb",
+        "en": "The carpenter is making the wardrobe"
+      },
+      {
+        "ar": "نعرف نجار باهي",
+        "tr": "na3rif najjār bāhi",
+        "en": "I know a good carpenter"
+      }
+    ]
   },
   {
     "ar": "ميكانيكي",
@@ -2114,7 +4274,20 @@
     "freq": 2,
     "ex_ar": "المكينة عند الميكانيكي.",
     "ex_tr": "il-makīna 3and il-mēkanīki.",
-    "ex_en": "The car is at the mechanic's."
+    "ex_en": "The car is at the mechanic's.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "الميكانيكي قال المكينة تبي يومين",
+        "tr": "il-mēkanīki gāl il-makīna tibbi yōmēn",
+        "en": "The mechanic said the car needs two days"
+      },
+      {
+        "ar": "نعرف ميكانيكي شاطر",
+        "tr": "na3rif mēkanīki shāTir",
+        "en": "I know a skilled mechanic"
+      }
+    ]
   },
   {
     "ar": "تاجر",
@@ -2127,7 +4300,20 @@
     "ex_ar": "خاله تاجر في سوق الذهب.",
     "ex_tr": "khālah tājir fi sūg idh-dhahab.",
     "ex_en": "His uncle is a merchant in the gold market.",
-    "note": "pl. تجار tujjār"
+    "note": "pl. تجار tujjār",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "التاجر يبيع بالجملة",
+        "tr": "it-tājir ybī3 bij-jumla",
+        "en": "The trader sells wholesale"
+      },
+      {
+        "ar": "بوه تاجر قماش",
+        "tr": "būh tājir gmāsh",
+        "en": "His father is a cloth merchant"
+      }
+    ]
   },
   {
     "ar": "فلاح",
@@ -2140,7 +4326,20 @@
     "ex_ar": "الفلاح يزرع في الشعير.",
     "ex_tr": "il-fallā7 yizra3 fish-sh3īr.",
     "ex_en": "The farmer is planting barley.",
-    "note": "pl. فلاحين fallā7īn"
+    "note": "pl. فلاحين fallā7īn",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "الفلاحين يستنّوا في الشتا",
+        "tr": "il-fallā7īn yistannu fish-shta",
+        "en": "The farmers are waiting for rain"
+      },
+      {
+        "ar": "جدي كان فلاح",
+        "tr": "jiddi kān fallā7",
+        "en": "My grandfather was a farmer"
+      }
+    ]
   },
   {
     "ar": "بنّاي",
@@ -2152,7 +4351,20 @@
     "freq": 4,
     "ex_ar": "البنّاي يبني في الحوش.",
     "ex_tr": "il-bannāy yibni fil-7ōsh.",
-    "ex_en": "The builder is building the house."
+    "ex_en": "The builder is building the house.",
+    "usage": 24,
+    "phrases": [
+      {
+        "ar": "البنّاي ما كمّلش الحيط",
+        "tr": "il-bannāy ma kammalsh il-7ēT",
+        "en": "The builder hasn't finished the wall"
+      },
+      {
+        "ar": "نبي بنّاي يبني دار",
+        "tr": "nibbi bannāy yibni dār",
+        "en": "I need a builder to build a room"
+      }
+    ]
   },
   {
     "ar": "كهربائي",
@@ -2164,7 +4376,20 @@
     "freq": 3,
     "ex_ar": "جيب كهربائي يصلّح الضي.",
     "ex_tr": "jīb kahrabāy ySalla7 iD-Dayy.",
-    "ex_en": "Get an electrician to fix the electricity."
+    "ex_en": "Get an electrician to fix the electricity.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "الكهربائي ما جاش",
+        "tr": "il-kahrabāy ma jāsh",
+        "en": "The electrician didn't come"
+      },
+      {
+        "ar": "خوي كهربائي",
+        "tr": "khūy kahrabāy",
+        "en": "My brother is an electrician"
+      }
+    ]
   },
   {
     "ar": "حلاق",
@@ -2176,7 +4401,20 @@
     "freq": 3,
     "ex_ar": "نمشي للحلاق كل جمعة.",
     "ex_tr": "nimshi lil-7allāg kull jum3a.",
-    "ex_en": "I go to the barber every Friday."
+    "ex_en": "I go to the barber every Friday.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الحلاق زحمة اليوم",
+        "tr": "il-7allāg za7ma il-yōm",
+        "en": "The barber is busy today"
+      },
+      {
+        "ar": "مشيت للحلاق نحسّن",
+        "tr": "mshēt lil-7allāg n7assin",
+        "en": "I went to the barber for a haircut"
+      }
+    ]
   },
   {
     "ar": "دوام",
@@ -2188,7 +4426,20 @@
     "freq": 2,
     "ex_ar": "الدوام يبدا الساعة تمنية.",
     "ex_tr": "id-dawām yibda s-sā3a tmanya.",
-    "ex_en": "Work starts at eight o'clock."
+    "ex_en": "Work starts at eight o'clock.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "الدوام يكمّل الساعة تنين",
+        "tr": "id-dawām ykammil is-sā3a tnēn",
+        "en": "Work hours end at two"
+      },
+      {
+        "ar": "عندي دوام الليلة",
+        "tr": "3andi dawām il-lēla",
+        "en": "I have a shift tonight"
+      }
+    ]
   },
   {
     "ar": "إجازة",
@@ -2200,7 +4451,20 @@
     "freq": 2,
     "ex_ar": "خديت إجازة أسبوع.",
     "ex_tr": "khdēt ijāza usbū3.",
-    "ex_en": "I took a week's leave."
+    "ex_en": "I took a week's leave.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "أني في إجازة",
+        "tr": "āni fi ijāza",
+        "en": "I'm on leave"
+      },
+      {
+        "ar": "بناخذ إجازة في الصيف",
+        "tr": "bnākhudh ijāza fiS-Sēf",
+        "en": "I'll take a vacation in summer"
+      }
+    ]
   },
   {
     "ar": "عقد",
@@ -2213,7 +4477,20 @@
     "ex_ar": "مضيت العقد اليوم.",
     "ex_tr": "maDDēt il-3agd il-yōm.",
     "ex_en": "I signed the contract today.",
-    "note": "pl. عقود 3gūd. مضّى = to sign (Libyan)."
+    "note": "pl. عقود 3gūd. مضّى = to sign (Libyan).",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "العقد ينتهي الشهر الجاي",
+        "tr": "il-3agd yintihi ish-shahr ij-jāy",
+        "en": "The contract ends next month"
+      },
+      {
+        "ar": "قرا العقد قبل ما تمضي",
+        "tr": "igra l-3agd gabl ma tumDi",
+        "en": "Read the contract before you sign"
+      }
+    ]
   },
   {
     "ar": "مشروع",
@@ -2226,7 +4503,20 @@
     "ex_ar": "يبي يفتح مشروع صغير.",
     "ex_tr": "yibbi yifta7 mashrū3 Sghīr.",
     "ex_en": "He wants to open a small business.",
-    "note": "pl. مشاريع mashārī3"
+    "note": "pl. مشاريع mashārī3",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "المشروع نجح",
+        "tr": "il-mashrū3 nja7",
+        "en": "The project succeeded"
+      },
+      {
+        "ar": "عنده مشروع قهوة",
+        "tr": "3andah mashrū3 gahwa",
+        "en": "He has a café business"
+      }
+    ]
   },
   {
     "ar": "مصنع",
@@ -2239,7 +4529,20 @@
     "ex_ar": "خدم سنين في المصنع.",
     "ex_tr": "khdim snīn fil-maSna3.",
     "ex_en": "He worked for years in the factory.",
-    "note": "pl. مصانع maSāni3"
+    "note": "pl. مصانع maSāni3",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "المصنع سكّر",
+        "tr": "il-maSna3 sakkar",
+        "en": "The factory closed"
+      },
+      {
+        "ar": "مصنع الإسمنت",
+        "tr": "maSna3 il-ismant",
+        "en": "the cement factory"
+      }
+    ]
   },
   {
     "ar": "عسكري",
@@ -2252,7 +4555,20 @@
     "ex_ar": "خوه عسكري.",
     "ex_tr": "khūh 3askari.",
     "ex_en": "His brother is a soldier.",
-    "note": "pl. عساكر 3asākir"
+    "note": "pl. عساكر 3asākir",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "ولد عمي عسكري",
+        "tr": "wild 3ammi 3askari",
+        "en": "My cousin is a soldier"
+      },
+      {
+        "ar": "لابس لبس عسكري",
+        "tr": "lābis libs 3askari",
+        "en": "He's wearing military clothes"
+      }
+    ]
   },
   {
     "ar": "صحفي",
@@ -2264,7 +4580,20 @@
     "freq": 4,
     "ex_ar": "الصحفي سأل المدير.",
     "ex_tr": "iS-Sa7afi sa'al il-mudīr.",
-    "ex_en": "The journalist questioned the director."
+    "ex_en": "The journalist questioned the director.",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "الصحفي كتب على الموضوع",
+        "tr": "iS-Sa7afi kitab 3al-mawDū3",
+        "en": "The journalist wrote about the subject"
+      },
+      {
+        "ar": "يخدم صحفي في الجريدة",
+        "tr": "yikhdim Sa7afi fij-jarīda",
+        "en": "He works as a journalist at the newspaper"
+      }
+    ]
   },
   {
     "ar": "توقيع",
@@ -2276,7 +4605,20 @@
     "freq": 3,
     "ex_ar": "نبي توقيعك هنا.",
     "ex_tr": "nibbi tawgī3ak hni.",
-    "ex_en": "I need your signature here."
+    "ex_en": "I need your signature here.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "التوقيع مش واضح",
+        "tr": "it-tawgī3 mush wāDi7",
+        "en": "The signature isn't clear"
+      },
+      {
+        "ar": "حط توقيعك تحت",
+        "tr": "7uTT tawgī3ik ta7t",
+        "en": "Put your signature at the bottom"
+      }
+    ]
   },
   {
     "ar": "ختم",
@@ -2289,7 +4631,20 @@
     "ex_ar": "الورقة تبي ختم.",
     "ex_tr": "il-wurga tibbi khatm.",
     "ex_en": "The paper needs a stamp.",
-    "note": "pl. أختام. Libyan bureaucracy runs on stamps."
+    "note": "pl. أختام. Libyan bureaucracy runs on stamps.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "ناقص ختم",
+        "tr": "nāgiS khatm",
+        "en": "A stamp is missing"
+      },
+      {
+        "ar": "حطّلي ختم هنا",
+        "tr": "7uTTli khatm hni",
+        "en": "Stamp it here for me"
+      }
+    ]
   },
   {
     "ar": "معاش",
@@ -2301,7 +4656,20 @@
     "freq": 4,
     "ex_ar": "جدي عايش على المعاش.",
     "ex_tr": "jeddi 3āyish 3ala l-ma3āsh.",
-    "ex_en": "My grandfather lives on his pension."
+    "ex_en": "My grandfather lives on his pension.",
+    "usage": 32,
+    "phrases": [
+      {
+        "ar": "المعاش ما يكفّيش",
+        "tr": "il-ma3āsh ma ykaffīsh",
+        "en": "The pension isn't enough"
+      },
+      {
+        "ar": "طلع على المعاش",
+        "tr": "Tla3 3al-ma3āsh",
+        "en": "He retired (went on pension)"
+      }
+    ]
   },
   {
     "ar": "بطّال",
@@ -2313,7 +4681,20 @@
     "freq": 3,
     "ex_ar": "من عام وهو بطّال.",
     "ex_tr": "min 3ām u-huwwa baTTāl.",
-    "ex_en": "He's been unemployed for a year."
+    "ex_en": "He's been unemployed for a year.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "قاعد بطّال في الحوش",
+        "tr": "gā3id baTTāl fil-7ōsh",
+        "en": "He's sitting at home unemployed"
+      },
+      {
+        "ar": "الشباب البطّالين هلبة",
+        "tr": "ish-shabāb il-baTTālīn hallba",
+        "en": "Many young people are unemployed"
+      }
+    ]
   },
   {
     "ar": "مدرسة",
@@ -2326,7 +4707,20 @@
     "ex_ar": "الصغار في المدرسة توا.",
     "ex_tr": "iS-Sghār fil-madrasa tawwa.",
     "ex_en": "The kids are at school now.",
-    "note": "pl. مدارس madāris"
+    "note": "pl. مدارس madāris",
+    "usage": 84,
+    "phrases": [
+      {
+        "ar": "المدرسة قريبة من الحوش",
+        "tr": "il-madrasa grība min il-7ōsh",
+        "en": "The school is near the house"
+      },
+      {
+        "ar": "بنوصّل الصغار للمدرسة",
+        "tr": "bnwaSSil iS-Sghār lil-madrasa",
+        "en": "I'll drop the kids at school"
+      }
+    ]
   },
   {
     "ar": "جامعة",
@@ -2339,7 +4733,20 @@
     "ex_ar": "نقرا في جامعة طرابلس.",
     "ex_tr": "nagra fi jām3at Trābles.",
     "ex_en": "I study at the University of Tripoli.",
-    "note": "pl. جامعات"
+    "note": "pl. جامعات",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "يقرا في الجامعة",
+        "tr": "yigra fij-jām3a",
+        "en": "He studies at university"
+      },
+      {
+        "ar": "كمّلت الجامعة العام اللي فات",
+        "tr": "kammalt ij-jām3a il-3ām illi fāt",
+        "en": "I finished university last year"
+      }
+    ]
   },
   {
     "ar": "كلية",
@@ -2352,7 +4759,20 @@
     "ex_ar": "هو في كلية الطب.",
     "ex_tr": "huwwa fi kulliyyat iT-Tibb.",
     "ex_en": "He's in the faculty of medicine.",
-    "note": "pl. كليات"
+    "note": "pl. كليات",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "كلية الهندسة",
+        "tr": "kulliyyat il-handasa",
+        "en": "the faculty of engineering"
+      },
+      {
+        "ar": "الكلية بعيدة على الحوش",
+        "tr": "il-kulliyya b3īda 3al-7ōsh",
+        "en": "The college is far from the house"
+      }
+    ]
   },
   {
     "ar": "طالب",
@@ -2365,7 +4785,20 @@
     "ex_ar": "أنا طالب في سنة تالتة.",
     "ex_tr": "āna Tālib fi sana tālta.",
     "ex_en": "I'm a third-year student.",
-    "note": "pl. طلبة Talba"
+    "note": "pl. طلبة Talba",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "الطلبة في امتحانات",
+        "tr": "iT-Talaba fi mti7ānāt",
+        "en": "The students are in exams"
+      },
+      {
+        "ar": "هو طالب في الطب",
+        "tr": "huwwa Tālib fiT-Tibb",
+        "en": "He's a medical student"
+      }
+    ]
   },
   {
     "ar": "تلميذ",
@@ -2378,7 +4811,20 @@
     "ex_ar": "التلاميذ طلعوا من المدرسة.",
     "ex_tr": "it-tlāmīdh Tal3u min il-madrasa.",
     "ex_en": "The pupils came out of school.",
-    "note": "pl. تلاميذ tlāmīdh"
+    "note": "pl. تلاميذ tlāmīdh",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "التلميذ هذا شاطر",
+        "tr": "it-tilmīdh hādha shāTir",
+        "en": "This pupil is clever"
+      },
+      {
+        "ar": "التلاميذ في الفسحة",
+        "tr": "it-talāmīdh fil-fus7a",
+        "en": "The pupils are on break"
+      }
+    ]
   },
   {
     "ar": "قراية",
@@ -2391,7 +4837,20 @@
     "ex_ar": "القراية تبدا في سبتمبر.",
     "ex_tr": "il-grāya tibda fi sibtambar.",
     "ex_en": "School starts in September.",
-    "note": "Libyan: from قرا gra \"to read/study\". \"يقرا\" = he studies."
+    "note": "Libyan: from قرا gra \"to read/study\". \"يقرا\" = he studies.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "كيف القراية؟",
+        "tr": "kīf il-grāya?",
+        "en": "How's school going?"
+      },
+      {
+        "ar": "مشى للقراية برا",
+        "tr": "mshe lil-grāya barra",
+        "en": "He went to study abroad"
+      }
+    ]
   },
   {
     "ar": "درس",
@@ -2404,7 +4863,20 @@
     "ex_ar": "الدرس اليوم صعيب.",
     "ex_tr": "id-dars il-yōm S3īb.",
     "ex_en": "Today's lesson is hard.",
-    "note": "pl. دروس drūs"
+    "note": "pl. دروس drūs",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "ما فهمتش الدرس",
+        "tr": "ma fhimtsh id-dars",
+        "en": "I didn't understand the lesson"
+      },
+      {
+        "ar": "الدرس الجاي على الحساب",
+        "tr": "id-dars ij-jāy 3al-7sāb",
+        "en": "The next lesson is on math"
+      }
+    ]
   },
   {
     "ar": "كتاب",
@@ -2417,7 +4889,20 @@
     "ex_ar": "نسيت الكتاب في الحوش.",
     "ex_tr": "nsīt il-ktāb fil-7ōsh.",
     "ex_en": "I forgot the book at home.",
-    "note": "pl. كتب ktub"
+    "note": "pl. كتب ktub",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "قريت الكتاب كامل",
+        "tr": "grēt il-ktāb kāmil",
+        "en": "I read the whole book"
+      },
+      {
+        "ar": "سلّفني الكتاب متاعك",
+        "tr": "sallifni l-ktāb mtā3ik",
+        "en": "Lend me your book"
+      }
+    ]
   },
   {
     "ar": "قلم",
@@ -2430,7 +4915,20 @@
     "ex_ar": "عندك قلم نسلفه؟",
     "ex_tr": "3andak galam nsallfah?",
     "ex_en": "Do you have a pen I can borrow?",
-    "note": "pl. أقلام aglām"
+    "note": "pl. أقلام aglām",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "القلم ما يكتبش",
+        "tr": "il-galam ma yiktibsh",
+        "en": "The pen doesn't write"
+      },
+      {
+        "ar": "عطيني قلم أزرق",
+        "tr": "3Tīni galam azrag",
+        "en": "Give me a blue pen"
+      }
+    ]
   },
   {
     "ar": "كراسة",
@@ -2443,7 +4941,20 @@
     "ex_ar": "اكتب في الكراسة.",
     "ex_tr": "iktib fil-karrāsa.",
     "ex_en": "Write in the notebook.",
-    "note": "pl. كراريس karārīs"
+    "note": "pl. كراريس karārīs",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "نسيت الكراسة في المدرسة",
+        "tr": "nsīt il-karrāsa fil-madrasa",
+        "en": "I forgot the notebook at school"
+      },
+      {
+        "ar": "كراسة الحساب",
+        "tr": "karrāsat il-7sāb",
+        "en": "the math notebook"
+      }
+    ]
   },
   {
     "ar": "امتحان",
@@ -2456,7 +4967,20 @@
     "ex_ar": "عندي امتحان بكرة.",
     "ex_tr": "3andi imti7ān bukra.",
     "ex_en": "I have an exam tomorrow.",
-    "note": "pl. امتحانات"
+    "note": "pl. امتحانات",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "الامتحان كان ساهل",
+        "tr": "il-imti7ān kān sāhil",
+        "en": "The exam was easy"
+      },
+      {
+        "ar": "نجحت في الامتحان",
+        "tr": "nja7t fil-imti7ān",
+        "en": "I passed the exam"
+      }
+    ]
   },
   {
     "ar": "واجب",
@@ -2468,7 +4992,20 @@
     "freq": 2,
     "ex_ar": "كمّلت الواجب؟",
     "ex_tr": "kammalt il-wājib?",
-    "ex_en": "Did you finish your homework?"
+    "ex_en": "Did you finish your homework?",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "الواجب صعيب",
+        "tr": "il-wājib Sa3īb",
+        "en": "The homework is hard"
+      },
+      {
+        "ar": "ما درتش الواجب",
+        "tr": "ma dirtsh il-wājib",
+        "en": "I didn't do the homework"
+      }
+    ]
   },
   {
     "ar": "لغة",
@@ -2481,7 +5018,20 @@
     "ex_ar": "تعرف كم لغة؟",
     "ex_tr": "ta3rif kam lugha?",
     "ex_en": "How many languages do you know?",
-    "note": "pl. لغات"
+    "note": "pl. لغات",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "اللغة العربية صعيبة؟",
+        "tr": "il-lugha il-3arabiyya Sa3ība?",
+        "en": "Is Arabic hard?"
+      },
+      {
+        "ar": "نبي نتعلم لغة جديدة",
+        "tr": "nibbi nit3allam lugha jdīda",
+        "en": "I want to learn a new language"
+      }
+    ]
   },
   {
     "ar": "عربي",
@@ -2494,7 +5044,20 @@
     "ex_ar": "نتكلم عربي ليبي.",
     "ex_tr": "nitkallim 3arbi lībi.",
     "ex_en": "I speak Libyan Arabic.",
-    "note": "Also adj \"Arab\"."
+    "note": "Also adj \"Arab\".",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "تفهم عربي؟",
+        "tr": "tifham 3arbi?",
+        "en": "Do you understand Arabic?"
+      },
+      {
+        "ar": "نتعلم في العربي الليبي",
+        "tr": "nit3allam fil-3arbi il-lībi",
+        "en": "I'm learning Libyan Arabic"
+      }
+    ]
   },
   {
     "ar": "إنجليزي",
@@ -2507,7 +5070,20 @@
     "ex_ar": "تتكلم إنجليزي؟",
     "ex_tr": "titkallim inglīzi?",
     "ex_en": "Do you speak English?",
-    "note": "Also adj \"English, British\"."
+    "note": "Also adj \"English, British\".",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "نتعلم في الإنجليزي",
+        "tr": "nit3allam fil-inglīzi",
+        "en": "I'm learning English"
+      },
+      {
+        "ar": "الإنجليزي متاعه باهي",
+        "tr": "il-inglīzi mtā3ah bāhi",
+        "en": "His English is good"
+      }
+    ]
   },
   {
     "ar": "طلياني",
@@ -2520,7 +5096,20 @@
     "ex_ar": "جدي يعرف طلياني.",
     "ex_tr": "jeddi ya3rif Talyāni.",
     "ex_en": "My grandfather knows Italian.",
-    "note": "Libya was an Italian colony (1911–1943); many Libyan words come from Italian."
+    "note": "Libya was an Italian colony (1911–1943); many Libyan words come from Italian.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "كلمة طلياني",
+        "tr": "kilma Talyāni",
+        "en": "an Italian word"
+      },
+      {
+        "ar": "الطليان كانوا في ليبيا",
+        "tr": "iT-Tilyān kānu fi lībya",
+        "en": "The Italians were in Libya"
+      }
+    ]
   },
   {
     "ar": "سبورة",
@@ -2532,7 +5121,20 @@
     "freq": 3,
     "ex_ar": "الأستاذ كتب على السبورة.",
     "ex_tr": "il-ustādh ktab 3ala s-sabbūra.",
-    "ex_en": "The teacher wrote on the board."
+    "ex_en": "The teacher wrote on the board.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "امسح السبورة",
+        "tr": "imsa7 is-sabbūra",
+        "en": "Wipe the board"
+      },
+      {
+        "ar": "اطلع للسبورة",
+        "tr": "iTla3 lis-sabbūra",
+        "en": "Come up to the board"
+      }
+    ]
   },
   {
     "ar": "مسطرة",
@@ -2544,7 +5146,20 @@
     "freq": 4,
     "ex_ar": "جيب المسطرة والقلم.",
     "ex_tr": "jīb il-masTra wil-galam.",
-    "ex_en": "Bring the ruler and the pen."
+    "ex_en": "Bring the ruler and the pen.",
+    "usage": 20,
+    "phrases": [
+      {
+        "ar": "سلّفني المسطرة",
+        "tr": "sallifni l-masTra",
+        "en": "Lend me the ruler"
+      },
+      {
+        "ar": "ارسم خط بالمسطرة",
+        "tr": "irsim khaTT bil-masTra",
+        "en": "Draw a line with the ruler"
+      }
+    ]
   },
   {
     "ar": "نتيجة",
@@ -2557,7 +5172,20 @@
     "ex_ar": "النتيجة طلعت، نجحت!",
     "ex_tr": "in-natīja Tal3at, nja7t!",
     "ex_en": "The results are out, I passed!",
-    "note": "pl. نتايج natāyij"
+    "note": "pl. نتايج natāyij",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "النتيجة متاعك كيف؟",
+        "tr": "in-natīja mtā3ik kīf?",
+        "en": "How was your result?"
+      },
+      {
+        "ar": "النتيجة كانت تعادل",
+        "tr": "in-natīja kānat ta3ādul",
+        "en": "The result was a draw"
+      }
+    ]
   },
   {
     "ar": "شهادة",
@@ -2570,7 +5198,20 @@
     "ex_ar": "خذا الشهادة الثانوية.",
     "ex_tr": "khdha sh-shahāda th-thānawiyya.",
     "ex_en": "He got his secondary school certificate.",
-    "note": "pl. شهايد shahāyid"
+    "note": "pl. شهايد shahāyid",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "خذا شهادة الماجستير",
+        "tr": "khdha shahādat il-mājistēr",
+        "en": "He got a master's degree"
+      },
+      {
+        "ar": "الشهادة ما تأكّلش عيش",
+        "tr": "ish-shahāda ma t'akkilsh 3ēsh",
+        "en": "A degree doesn't put bread on the table"
+      }
+    ]
   },
   {
     "ar": "مكتبة",
@@ -2582,7 +5223,20 @@
     "freq": 3,
     "ex_ar": "نقرا في المكتبة.",
     "ex_tr": "nagra fil-maktaba.",
-    "ex_en": "I study in the library."
+    "ex_en": "I study in the library.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "المكتبة فيها كتب هلبة",
+        "tr": "il-maktaba fīha ktub hallba",
+        "en": "The library has lots of books"
+      },
+      {
+        "ar": "شريت الكراسات من المكتبة",
+        "tr": "shrēt il-karrāsāt min il-maktaba",
+        "en": "I bought the notebooks at the bookshop"
+      }
+    ]
   },
   {
     "ar": "صفحة",
@@ -2595,7 +5249,20 @@
     "ex_ar": "افتحوا الكتاب صفحة عشرين.",
     "ex_tr": "ifta7u l-ktāb Saf7a 3ishrīn.",
     "ex_en": "Open the book to page twenty.",
-    "note": "pl. صفحات"
+    "note": "pl. صفحات",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "قلّب الصفحة",
+        "tr": "gallib iS-Saf7a",
+        "en": "Turn the page"
+      },
+      {
+        "ar": "الصفحة متاعنا على الفيسبوك",
+        "tr": "iS-Saf7a mtā3na 3al-fēsbūk",
+        "en": "our Facebook page"
+      }
+    ]
   },
   {
     "ar": "سؤال",
@@ -2608,7 +5275,20 @@
     "ex_ar": "عندي سؤال يا أستاذ.",
     "ex_tr": "3andi su'āl ya ustādh.",
     "ex_en": "I have a question, teacher.",
-    "note": "pl. أسئلة as'ila"
+    "note": "pl. أسئلة as'ila",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "نسألك سؤال؟",
+        "tr": "nas'alik su'āl?",
+        "en": "Can I ask you a question?"
+      },
+      {
+        "ar": "السؤال هذا صعيب",
+        "tr": "is-su'āl hādha Sa3īb",
+        "en": "This question is hard"
+      }
+    ]
   },
   {
     "ar": "جواب",
@@ -2621,7 +5301,20 @@
     "ex_ar": "الجواب غالط.",
     "ex_tr": "ij-jwāb ghāliT.",
     "ex_en": "The answer is wrong.",
-    "note": "pl. أجوبة"
+    "note": "pl. أجوبة",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "ما عنديش جواب",
+        "tr": "ma 3andīsh jwāb",
+        "en": "I don't have an answer"
+      },
+      {
+        "ar": "استنّى الجواب متاعه",
+        "tr": "stanna j-jwāb mtā3ah",
+        "en": "Wait for his reply"
+      }
+    ]
   },
   {
     "ar": "حساب",
@@ -2634,7 +5327,20 @@
     "ex_ar": "ولدي شاطر في الحساب.",
     "ex_tr": "wildi shāTir fil-7sāb.",
     "ex_en": "My son is good at math.",
-    "note": "Also \"bill\" and \"account\" in other contexts."
+    "note": "Also \"bill\" and \"account\" in other contexts.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "ما نحبش الحساب",
+        "tr": "ma n7ibbish il-7sāb",
+        "en": "I don't like math"
+      },
+      {
+        "ar": "الحساب غالط",
+        "tr": "il-7sāb ghālaT",
+        "en": "The calculation is wrong"
+      }
+    ]
   },
   {
     "ar": "تاريخ",
@@ -2647,7 +5353,20 @@
     "ex_ar": "نحب درس التاريخ.",
     "ex_tr": "n7ibb dars it-tārīkh.",
     "ex_en": "I like history class.",
-    "note": "Also \"date\"."
+    "note": "Also \"date\".",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "تاريخ ليبيا",
+        "tr": "tārīkh lībya",
+        "en": "the history of Libya"
+      },
+      {
+        "ar": "شنو تاريخ اليوم؟",
+        "tr": "shinu tārīkh il-yōm?",
+        "en": "What's today's date?"
+      }
+    ]
   },
   {
     "ar": "كلمة",
@@ -2660,7 +5379,20 @@
     "ex_ar": "شنو معنى الكلمة هذي؟",
     "ex_tr": "shinu ma3na l-kilma hādhi?",
     "ex_en": "What does this word mean?",
-    "note": "pl. كلمات"
+    "note": "pl. كلمات",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "في كلمة وحدة",
+        "tr": "fi kilma wa7da",
+        "en": "in one word"
+      },
+      {
+        "ar": "شنو الكلمة هذي بالإنجليزي؟",
+        "tr": "shinu l-kilma hādhi bil-inglīzi?",
+        "en": "What's this word in English?"
+      }
+    ]
   },
   {
     "ar": "حرف",
@@ -2673,7 +5405,20 @@
     "ex_ar": "العربي فيه تمانية وعشرين حرف.",
     "ex_tr": "il-3arbi fīh tmanya w-3ishrīn 7arf.",
     "ex_en": "Arabic has twenty-eight letters.",
-    "note": "pl. حروف 7rūf"
+    "note": "pl. حروف 7rūf",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "اكتب الحروف",
+        "tr": "iktib il-7rūf",
+        "en": "Write the letters"
+      },
+      {
+        "ar": "اسمه يبدا بحرف الميم",
+        "tr": "ismah yibda b-7arf il-mīm",
+        "en": "His name starts with the letter M"
+      }
+    ]
   },
   {
     "ar": "قاموس",
@@ -2685,7 +5430,20 @@
     "freq": 4,
     "ex_ar": "دوّر الكلمة في القاموس.",
     "ex_tr": "dawwir il-kilma fil-gāmūs.",
-    "ex_en": "Look the word up in the dictionary."
+    "ex_en": "Look the word up in the dictionary.",
+    "usage": 22,
+    "phrases": [
+      {
+        "ar": "القاموس في التلفون",
+        "tr": "il-gāmūs fit-tilifōn",
+        "en": "The dictionary is on the phone"
+      },
+      {
+        "ar": "نبي قاموس عربي إنجليزي",
+        "tr": "nibbi gāmūs 3arbi inglīzi",
+        "en": "I want an Arabic–English dictionary"
+      }
+    ]
   },
   {
     "ar": "روضة",
@@ -2697,7 +5455,20 @@
     "freq": 3,
     "ex_ar": "بنتي في الروضة.",
     "ex_tr": "binti fir-rawDa.",
-    "ex_en": "My daughter is in kindergarten."
+    "ex_en": "My daughter is in kindergarten.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "نوصّل الصغير للروضة",
+        "tr": "nwaSSil iS-Sghīr lir-rawDa",
+        "en": "I take the little one to kindergarten"
+      },
+      {
+        "ar": "الروضة تبدا الساعة تمنية",
+        "tr": "ir-rawDa tibda is-sā3a tmanya",
+        "en": "Kindergarten starts at eight"
+      }
+    ]
   },
   {
     "ar": "فسحة",
@@ -2710,7 +5481,20 @@
     "ex_ar": "في الفسحة نلعبوا كورة.",
     "ex_tr": "fil-fus7a nil3bu kōra.",
     "ex_en": "At break we play football.",
-    "note": "Also \"outing, stroll\"."
+    "note": "Also \"outing, stroll\".",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "الفسحة ربع ساعة",
+        "tr": "il-fus7a rub3 sā3a",
+        "en": "Break is a quarter of an hour"
+      },
+      {
+        "ar": "ناكلوا الساندويتش في الفسحة",
+        "tr": "nāklu s-sandwitsh fil-fus7a",
+        "en": "We eat a sandwich at break"
+      }
+    ]
   },
   {
     "ar": "تلفون",
@@ -2722,7 +5506,25 @@
     "freq": 1,
     "ex_ar": "التلفون متاعي طافي.",
     "ex_tr": "it-tilifōn mtā3i Tāfi.",
-    "ex_en": "My phone is switched off."
+    "ex_en": "My phone is switched off.",
+    "usage": 90,
+    "phrases": [
+      {
+        "ar": "التلفون يرن",
+        "tr": "it-tilifōn yrinn",
+        "en": "The phone is ringing"
+      },
+      {
+        "ar": "كلّمني في التلفون",
+        "tr": "kallimni fit-tilifōn",
+        "en": "Call me on the phone"
+      },
+      {
+        "ar": "وين التلفون متاعي؟",
+        "tr": "wīn it-tilifōn mtā3i?",
+        "en": "Where's my phone?"
+      }
+    ]
   },
   {
     "ar": "نقّال",
@@ -2735,7 +5537,20 @@
     "ex_ar": "عطيني نمرة النقّال متاعك.",
     "ex_tr": "3Tīni nimrat in-naggāl mtā3ak.",
     "ex_en": "Give me your mobile number.",
-    "note": "Libyan word for cell phone; موبايل mōbāyl also used."
+    "note": "Libyan word for cell phone; موبايل mōbāyl also used.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "النقّال متاعي طافي",
+        "tr": "in-naggāl mtā3i Tāfi",
+        "en": "My mobile is switched off"
+      },
+      {
+        "ar": "اتصلت بيك على النقّال",
+        "tr": "ittaSalt bīk 3an-naggāl",
+        "en": "I called you on your mobile"
+      }
+    ]
   },
   {
     "ar": "موبايل",
@@ -2748,7 +5563,20 @@
     "ex_ar": "الموبايل طاح وتكسّر.",
     "ex_tr": "il-mōbāyl Tā7 u-tkassar.",
     "ex_en": "The mobile fell and broke.",
-    "note": "From English."
+    "note": "From English.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "الموبايل الجديد غالي",
+        "tr": "il-mōbāyl ij-jdīd ghāli",
+        "en": "The new mobile is expensive"
+      },
+      {
+        "ar": "شاحن الموبايل",
+        "tr": "shā7in il-mōbāyl",
+        "en": "the mobile charger"
+      }
+    ]
   },
   {
     "ar": "نت",
@@ -2761,7 +5589,20 @@
     "ex_ar": "النت طايح اليوم.",
     "ex_tr": "in-nett Tāye7 il-yōm.",
     "ex_en": "The internet is down today.",
-    "note": "Also إنترنت intarnet."
+    "note": "Also إنترنت intarnet.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "النت ثقيل اليوم",
+        "tr": "in-nett thgīl il-yōm",
+        "en": "The internet is slow today"
+      },
+      {
+        "ar": "عندك نت؟",
+        "tr": "3andik nett?",
+        "en": "Do you have internet?"
+      }
+    ]
   },
   {
     "ar": "شاحن",
@@ -2773,7 +5614,20 @@
     "freq": 2,
     "ex_ar": "عندك شاحن آيفون؟",
     "ex_tr": "3andak shā7in āyfōn?",
-    "ex_en": "Do you have an iPhone charger?"
+    "ex_en": "Do you have an iPhone charger?",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "نسيت الشاحن في الحوش",
+        "tr": "nsīt ish-shā7in fil-7ōsh",
+        "en": "I forgot the charger at home"
+      },
+      {
+        "ar": "سلّفني الشاحن شوية",
+        "tr": "sallifni sh-shā7in shwayya",
+        "en": "Lend me the charger for a bit"
+      }
+    ]
   },
   {
     "ar": "شحن",
@@ -2785,7 +5639,20 @@
     "freq": 2,
     "ex_ar": "التلفون ما فيه شحن.",
     "ex_tr": "it-tilifōn ma fīh sha7n.",
-    "ex_en": "The phone has no charge."
+    "ex_en": "The phone has no charge.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "حط التلفون في الشحن",
+        "tr": "7uTT it-tilifōn fish-sha7n",
+        "en": "Put the phone on charge"
+      },
+      {
+        "ar": "الشحن قاعد يخلص",
+        "tr": "ish-sha7n gā3id yikhlaS",
+        "en": "The battery is running out"
+      }
+    ]
   },
   {
     "ar": "بطارية",
@@ -2797,7 +5664,20 @@
     "freq": 3,
     "ex_ar": "البطارية خلصت.",
     "ex_tr": "il-baTTāriyya khilSat.",
-    "ex_en": "The battery is dead."
+    "ex_en": "The battery is dead.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "بدّل البطارية",
+        "tr": "baddil il-baTTāriyya",
+        "en": "Change the battery"
+      },
+      {
+        "ar": "بطارية المكينة ماتت",
+        "tr": "baTTāriyyat il-makīna mātat",
+        "en": "The car battery is dead"
+      }
+    ]
   },
   {
     "ar": "كمبيوتر",
@@ -2809,7 +5689,20 @@
     "freq": 2,
     "ex_ar": "نخدم على الكمبيوتر طول اليوم.",
     "ex_tr": "nikhdim 3ala l-kombyūtar Tūl il-yōm.",
-    "ex_en": "I work on the computer all day."
+    "ex_en": "I work on the computer all day.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "الكمبيوتر علّق",
+        "tr": "il-kombyūtar 3allag",
+        "en": "The computer froze"
+      },
+      {
+        "ar": "نصلّح كمبيوترات",
+        "tr": "nSalla7 kombyūtarāt",
+        "en": "I repair computers"
+      }
+    ]
   },
   {
     "ar": "لابتوب",
@@ -2821,7 +5714,20 @@
     "freq": 3,
     "ex_ar": "جبت اللابتوب معاي.",
     "ex_tr": "jibt il-lābtōb ma3āy.",
-    "ex_en": "I brought the laptop with me."
+    "ex_en": "I brought the laptop with me.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "اللابتوب متاعي خربان",
+        "tr": "il-lābtōb mtā3i kharbān",
+        "en": "My laptop is broken"
+      },
+      {
+        "ar": "نخدم على اللابتوب من الحوش",
+        "tr": "nikhdim 3al-lābtōb min il-7ōsh",
+        "en": "I work on the laptop from home"
+      }
+    ]
   },
   {
     "ar": "رسالة",
@@ -2834,7 +5740,20 @@
     "ex_ar": "بعتلي رسالة على الواتساب.",
     "ex_tr": "ba3atli risāla 3al-wātsāb.",
     "ex_en": "He sent me a message on WhatsApp.",
-    "note": "pl. رسايل rsāyil. مسج masaj is also used."
+    "note": "pl. رسايل rsāyil. مسج masaj is also used.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "بعتلي رسالة لما توصل",
+        "tr": "ib3atli risāla lamma tūSal",
+        "en": "Send me a message when you arrive"
+      },
+      {
+        "ar": "ما وصلتنيش الرسالة",
+        "tr": "ma waSlatnīsh ir-risāla",
+        "en": "I didn't get the message"
+      }
+    ]
   },
   {
     "ar": "مكالمة",
@@ -2846,7 +5765,20 @@
     "freq": 2,
     "ex_ar": "عندي مكالمة مهمة.",
     "ex_tr": "3andi mkālma muhimma.",
-    "ex_en": "I have an important call."
+    "ex_en": "I have an important call.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "المكالمة تقطّعت",
+        "tr": "il-mkālma tgaTTa3at",
+        "en": "The call got cut off"
+      },
+      {
+        "ar": "عندك مكالمة فايتة",
+        "tr": "3andik mkālma fāyta",
+        "en": "You have a missed call"
+      }
+    ]
   },
   {
     "ar": "رنّة",
@@ -2858,7 +5790,20 @@
     "freq": 3,
     "ex_ar": "اعطيني رنّة لما توصل.",
     "ex_tr": "a3Tīni ranna lamma tūSil.",
-    "ex_en": "Give me a ring (missed call) when you arrive."
+    "ex_en": "Give me a ring (missed call) when you arrive.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "اعطاني رنّة",
+        "tr": "3Tāni ranna",
+        "en": "He gave me a missed call"
+      },
+      {
+        "ar": "الرنّة متاع تلفونك حلوة",
+        "tr": "ir-ranna mtā3 tilifōnik 7ilwa",
+        "en": "Your ringtone is nice"
+      }
+    ]
   },
   {
     "ar": "صورة",
@@ -2871,7 +5816,20 @@
     "ex_ar": "خوذلنا صورة.",
     "ex_tr": "khūdhilna Sūra.",
     "ex_en": "Take a picture of us.",
-    "note": "pl. صور Suwar"
+    "note": "pl. صور Suwar",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "الصورة طالعة حلوة",
+        "tr": "iS-Sūra Tal3a 7ilwa",
+        "en": "The photo came out nice"
+      },
+      {
+        "ar": "بعتلي الصور",
+        "tr": "ib3atli iS-Suwar",
+        "en": "Send me the photos"
+      }
+    ]
   },
   {
     "ar": "فيديو",
@@ -2883,7 +5841,20 @@
     "freq": 2,
     "ex_ar": "شفت الفيديو اللي بعتته؟",
     "ex_tr": "shuft il-vīdyu illi ba3atta?",
-    "ex_en": "Did you see the video I sent?"
+    "ex_en": "Did you see the video I sent?",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "نزّلت فيديو على التيك توك",
+        "tr": "nazzalt vīdyu 3at-tīk tōk",
+        "en": "I posted a video on TikTok"
+      },
+      {
+        "ar": "الفيديو هذا مضحك",
+        "tr": "il-vīdyu hādha muD7ik",
+        "en": "This video is funny"
+      }
+    ]
   },
   {
     "ar": "كاميرا",
@@ -2895,7 +5866,20 @@
     "freq": 3,
     "ex_ar": "الكاميرا متاع التلفون باهية.",
     "ex_tr": "il-kāmira mtā3 it-tilifōn bāhya.",
-    "ex_en": "The phone's camera is good."
+    "ex_en": "The phone's camera is good.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "شغّل الكاميرا",
+        "tr": "shaghghil il-kāmira",
+        "en": "Turn on the camera"
+      },
+      {
+        "ar": "فيه كاميرات في الشارع",
+        "tr": "fīh kāmirāt fish-shāri3",
+        "en": "There are cameras on the street"
+      }
+    ]
   },
   {
     "ar": "كلمة السر",
@@ -2908,7 +5892,20 @@
     "ex_ar": "نسيت كلمة السر.",
     "ex_tr": "nsīt kilmat is-sirr.",
     "ex_en": "I forgot the password.",
-    "note": "باسورد bāsword is also common."
+    "note": "باسورد bāsword is also common.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "كلمة السر متاع الواي فاي شنو؟",
+        "tr": "kilmat is-sirr mtā3 il-wāy fāy shinu?",
+        "en": "What's the Wi-Fi password?"
+      },
+      {
+        "ar": "بدّل كلمة السر",
+        "tr": "baddil kilmat is-sirr",
+        "en": "Change the password"
+      }
+    ]
   },
   {
     "ar": "تطبيق",
@@ -2921,7 +5918,20 @@
     "ex_ar": "نزّل التطبيق هذا.",
     "ex_tr": "nazzil it-taTbīg hādha.",
     "ex_en": "Download this app.",
-    "note": "pl. تطبيقات"
+    "note": "pl. تطبيقات",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "التطبيق ما يخدمش",
+        "tr": "it-taTbīg ma yikhdimsh",
+        "en": "The app doesn't work"
+      },
+      {
+        "ar": "حمّل التطبيق من الستور",
+        "tr": "7ammil it-taTbīg min is-stōr",
+        "en": "Download the app from the store"
+      }
+    ]
   },
   {
     "ar": "رصيد",
@@ -2934,7 +5944,20 @@
     "ex_ar": "ما عنديش رصيد.",
     "ex_tr": "ma 3andīsh raSīd.",
     "ex_en": "I don't have any credit.",
-    "note": "Prepaid phone credit; also bank balance."
+    "note": "Prepaid phone credit; also bank balance.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "الرصيد خلص",
+        "tr": "ir-raSīd khlaS",
+        "en": "The credit has run out"
+      },
+      {
+        "ar": "عبّيلي رصيد",
+        "tr": "3abbīli raSīd",
+        "en": "Top up my credit for me"
+      }
+    ]
   },
   {
     "ar": "كرت",
@@ -2947,7 +5970,20 @@
     "ex_ar": "شريت كرت ليبيانا.",
     "ex_tr": "shrēt kart lībyāna.",
     "ex_en": "I bought a Libyana top-up card.",
-    "note": "Libyana and Al-Madar are the main Libyan mobile networks."
+    "note": "Libyana and Al-Madar are the main Libyan mobile networks.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "عبّي الكرت",
+        "tr": "3abbi l-kart",
+        "en": "Load the top-up card"
+      },
+      {
+        "ar": "نبي كرت بعشرة دينار",
+        "tr": "nibbi kart b-3ashra dīnār",
+        "en": "I want a ten-dinar card"
+      }
+    ]
   },
   {
     "ar": "شريحة",
@@ -2959,7 +5995,20 @@
     "freq": 3,
     "ex_ar": "نبي شريحة جديدة.",
     "ex_tr": "nibbi shrī7a jdīda.",
-    "ex_en": "I need a new SIM card."
+    "ex_en": "I need a new SIM card.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الشريحة ما تخدمش",
+        "tr": "ish-shrī7a ma tikhdimsh",
+        "en": "The SIM doesn't work"
+      },
+      {
+        "ar": "شريحة المدار",
+        "tr": "shrī7at il-madār",
+        "en": "an Al-Madar SIM"
+      }
+    ]
   },
   {
     "ar": "شبكة",
@@ -2971,7 +6020,20 @@
     "freq": 2,
     "ex_ar": "ما فيش شبكة هنا.",
     "ex_tr": "ma fīsh shabka hni.",
-    "ex_en": "There's no signal here."
+    "ex_en": "There's no signal here.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "الشبكة ضعيفة",
+        "tr": "ish-shabka Da3īfa",
+        "en": "The signal is weak"
+      },
+      {
+        "ar": "طاحت الشبكة",
+        "tr": "Tā7at ish-shabka",
+        "en": "The network went down"
+      }
+    ]
   },
   {
     "ar": "شاشة",
@@ -2983,7 +6045,20 @@
     "freq": 2,
     "ex_ar": "الشاشة تكسرت.",
     "ex_tr": "ish-shāsha tkassrat.",
-    "ex_en": "The screen cracked."
+    "ex_en": "The screen cracked.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "نظّف الشاشة",
+        "tr": "naDHDHif ish-shāsha",
+        "en": "Clean the screen"
+      },
+      {
+        "ar": "شاشة التلفزيون كبيرة",
+        "tr": "shāshat it-tilfizyōn kbīra",
+        "en": "The TV screen is big"
+      }
+    ]
   },
   {
     "ar": "سماعة",
@@ -2995,7 +6070,20 @@
     "freq": 3,
     "ex_ar": "حط السماعة، الصوت عالي.",
     "ex_tr": "7uTT is-sammā3a, iS-Sōt 3āli.",
-    "ex_en": "Put on headphones, it's loud."
+    "ex_en": "Put on headphones, it's loud.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "نسيت السماعات",
+        "tr": "nsīt is-sammā3āt",
+        "en": "I forgot the earphones"
+      },
+      {
+        "ar": "حط السماعة في ودنك",
+        "tr": "7uTT is-sammā3a fi widnik",
+        "en": "Put the earphone in your ear"
+      }
+    ]
   },
   {
     "ar": "ضي",
@@ -3008,7 +6096,25 @@
     "ex_ar": "الضي مشى من الصبح.",
     "ex_tr": "iD-Dayy msha min iS-Sub7.",
     "ex_en": "The power has been out since morning.",
-    "note": "Very Libyan: ضو/ضي = electricity. Power cuts (طفي الضي) are a daily topic."
+    "note": "Very Libyan: ضو/ضي = electricity. Power cuts (طفي الضي) are a daily topic.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "الضي رجع",
+        "tr": "iD-Dayy rja3",
+        "en": "The power is back"
+      },
+      {
+        "ar": "طفّي الضي",
+        "tr": "Taffi iD-Dayy",
+        "en": "Turn off the light"
+      },
+      {
+        "ar": "الضي يمشي ست ساعات",
+        "tr": "iD-Dayy yimshi sitt sā3āt",
+        "en": "The power goes out for six hours"
+      }
+    ]
   },
   {
     "ar": "موَلِّد",
@@ -3021,7 +6127,20 @@
     "ex_ar": "شغّل الموَلِّد، الضي طفى.",
     "ex_tr": "shaghghil il-mwallid, iD-Dayy Tfa.",
     "ex_en": "Turn on the generator, the power's out.",
-    "note": "Many Libyan homes have one because of power cuts."
+    "note": "Many Libyan homes have one because of power cuts.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "الموَلِّد يحرق في البنزينة",
+        "tr": "il-mwallid ya7rig fil-banzīna",
+        "en": "The generator burns petrol"
+      },
+      {
+        "ar": "شرينا مولد جديد",
+        "tr": "shrēna mwallid jdīd",
+        "en": "We bought a new generator"
+      }
+    ]
   },
   {
     "ar": "فلاشة",
@@ -3033,7 +6152,20 @@
     "freq": 4,
     "ex_ar": "حط الملفات في الفلاشة.",
     "ex_tr": "7uTT il-milaffāt fil-flāsha.",
-    "ex_en": "Put the files on the flash drive."
+    "ex_en": "Put the files on the flash drive.",
+    "usage": 24,
+    "phrases": [
+      {
+        "ar": "الفلاشة فيها فيروس",
+        "tr": "il-flāsha fīha vayrūs",
+        "en": "The flash drive has a virus"
+      },
+      {
+        "ar": "عطيني الفلاشة متاعك",
+        "tr": "3Tīni l-flāsha mtā3ik",
+        "en": "Give me your flash drive"
+      }
+    ]
   },
   {
     "ar": "طابعة",
@@ -3045,7 +6177,20 @@
     "freq": 4,
     "ex_ar": "الطابعة ما فيهاش حبر.",
     "ex_tr": "iT-Tāb3a ma fīhāsh 7ibr.",
-    "ex_en": "The printer is out of ink."
+    "ex_en": "The printer is out of ink.",
+    "usage": 26,
+    "phrases": [
+      {
+        "ar": "الطابعة ما تخدمش",
+        "tr": "iT-Tāb3a ma tikhdimsh",
+        "en": "The printer doesn't work"
+      },
+      {
+        "ar": "اطبعها في الطابعة متاع المكتب",
+        "tr": "iTba3ha fiT-Tāb3a mtā3 il-maktab",
+        "en": "Print it on the office printer"
+      }
+    ]
   },
   {
     "ar": "إيميل",
@@ -3057,7 +6202,20 @@
     "freq": 3,
     "ex_ar": "بعتلك إيميل.",
     "ex_tr": "ba3atlak īmēl.",
-    "ex_en": "I sent you an email."
+    "ex_en": "I sent you an email.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "شنو الإيميل متاعك؟",
+        "tr": "shinu l-īmēl mtā3ik?",
+        "en": "What's your email?"
+      },
+      {
+        "ar": "ما وصلنيش الإيميل",
+        "tr": "ma waSlnīsh il-īmēl",
+        "en": "I didn't get the email"
+      }
+    ]
   },
   {
     "ar": "حساب فيسبوك",
@@ -3070,7 +6228,20 @@
     "ex_ar": "عندك حساب فيسبوك؟",
     "ex_tr": "3andak 7sāb fēsbūk?",
     "ex_en": "Do you have a Facebook account?",
-    "note": "Facebook is the dominant social network in Libya."
+    "note": "Facebook is the dominant social network in Libya.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "حسابي على الفيسبوك تهكّر",
+        "tr": "7sābi 3al-fēsbūk thakkar",
+        "en": "My Facebook account got hacked"
+      },
+      {
+        "ar": "سكّرت حساب الفيسبوك",
+        "tr": "sakkart 7sāb il-fēsbūk",
+        "en": "I closed my Facebook account"
+      }
+    ]
   },
   {
     "ar": "تحميل",
@@ -3082,7 +6253,20 @@
     "freq": 4,
     "ex_ar": "التحميل بطيء هلبة.",
     "ex_tr": "it-ta7mīl baTī' hallba.",
-    "ex_en": "The download is very slow."
+    "ex_en": "The download is very slow.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "التحميل كمل",
+        "tr": "it-ta7mīl kmal",
+        "en": "The download finished"
+      },
+      {
+        "ar": "التحميل وقف في النص",
+        "tr": "it-ta7mīl wgaf fin-nuSS",
+        "en": "The download stopped halfway"
+      }
+    ]
   },
   {
     "ar": "برنامج",
@@ -3095,7 +6279,20 @@
     "ex_ar": "البرنامج هذا يضحّك.",
     "ex_tr": "il-barnāmij hādha yDa77ik.",
     "ex_en": "This show is funny.",
-    "note": "pl. برامج barāmij"
+    "note": "pl. برامج barāmij",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "البرنامج هذا يجي كل خميس",
+        "tr": "il-barnāmij hādha yji kull khmīs",
+        "en": "This show is on every Thursday"
+      },
+      {
+        "ar": "نزّل البرنامج على الكمبيوتر",
+        "tr": "nazzil il-barnāmij 3al-kombyūtar",
+        "en": "Install the program on the computer"
+      }
+    ]
   },
   {
     "ar": "عيد",
@@ -3108,7 +6305,20 @@
     "ex_ar": "عيدكم مبروك!",
     "ex_tr": "3īdkum mabrūk!",
     "ex_en": "Happy Eid!",
-    "note": "pl. أعياد a3yād. Greeting: عيدكم مبروك / كل عام وانتو بخير."
+    "note": "pl. أعياد a3yād. Greeting: عيدكم مبروك / كل عام وانتو بخير.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "كل عام وانتم بخير",
+        "tr": "kull 3ām w-intum bkhēr",
+        "en": "Happy holidays (every year may you be well)"
+      },
+      {
+        "ar": "العيد قرّب",
+        "tr": "il-3īd garrab",
+        "en": "Eid is coming soon"
+      }
+    ]
   },
   {
     "ar": "العيد الكبير",
@@ -3121,7 +6331,20 @@
     "ex_ar": "في العيد الكبير نذبحوا العلوش.",
     "ex_tr": "fil-3īd il-kbīr nidhb7u l-3allūsh.",
     "ex_en": "On the Big Eid we slaughter the sheep.",
-    "note": "Lit. \"the big Eid\"."
+    "note": "Lit. \"the big Eid\".",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "العيد الكبير قرّب",
+        "tr": "il-3īd il-kbīr garrab",
+        "en": "Eid al-Adha is near"
+      },
+      {
+        "ar": "بنمشي للبلاد في العيد الكبير",
+        "tr": "bnimshi lil-blād fil-3īd il-kbīr",
+        "en": "I'll go to my hometown for Eid al-Adha"
+      }
+    ]
   },
   {
     "ar": "العيد الصغير",
@@ -3134,7 +6357,20 @@
     "ex_ar": "العيد الصغير بعد رمضان.",
     "ex_tr": "il-3īd iS-Sghīr ba3d rumDān.",
     "ex_en": "The Small Eid comes after Ramadan.",
-    "note": "Lit. \"the small Eid\"."
+    "note": "Lit. \"the small Eid\".",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "في العيد الصغير نلبسوا جديد",
+        "tr": "fil-3īd iS-Sghīr nilbsu jdīd",
+        "en": "For Eid al-Fitr we wear new clothes"
+      },
+      {
+        "ar": "حلويات العيد الصغير",
+        "tr": "7alawiyyāt il-3īd iS-Sghīr",
+        "en": "Eid al-Fitr sweets"
+      }
+    ]
   },
   {
     "ar": "رمضان",
@@ -3146,7 +6382,20 @@
     "freq": 1,
     "ex_ar": "رمضان كريم!",
     "ex_tr": "rumDān karīm!",
-    "ex_en": "Ramadan Kareem!"
+    "ex_en": "Ramadan Kareem!",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "رمضان مبروك عليكم",
+        "tr": "rumDān mabrūk 3alēkum",
+        "en": "Blessed Ramadan to you"
+      },
+      {
+        "ar": "في رمضان نسهروا للفجر",
+        "tr": "fi rumDān nsahru lil-fajr",
+        "en": "In Ramadan we stay up till dawn"
+      }
+    ]
   },
   {
     "ar": "صوم",
@@ -3158,7 +6407,20 @@
     "freq": 2,
     "ex_ar": "الصوم في الصيف صعيب.",
     "ex_tr": "iS-Sōm fiS-Sēf S3īb.",
-    "ex_en": "Fasting in summer is hard."
+    "ex_en": "Fasting in summer is hard.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "صوم مقبول",
+        "tr": "Sōm magbūl",
+        "en": "May your fast be accepted"
+      },
+      {
+        "ar": "أني صايم اليوم",
+        "tr": "āni Sāyim il-yōm",
+        "en": "I'm fasting today"
+      }
+    ]
   },
   {
     "ar": "عرس",
@@ -3171,7 +6433,20 @@
     "ex_ar": "عرس بنت عمي الخميس.",
     "ex_tr": "3ers bint 3ammi l-khmīs.",
     "ex_en": "My cousin's wedding is on Thursday.",
-    "note": "pl. أعراس a3rās. Libyan weddings last several days."
+    "note": "pl. أعراس a3rās. Libyan weddings last several days.",
+    "usage": 72,
+    "phrases": [
+      {
+        "ar": "معزوم على عرس",
+        "tr": "ma3zūm 3la 3ers",
+        "en": "I'm invited to a wedding"
+      },
+      {
+        "ar": "العرس متاعه في الصيف",
+        "tr": "il-3ers mtā3ah fiS-Sēf",
+        "en": "His wedding is in the summer"
+      }
+    ]
   },
   {
     "ar": "ليلة الحنة",
@@ -3183,7 +6458,20 @@
     "freq": 3,
     "ex_ar": "ليلة الحنة قبل العرس بيوم.",
     "ex_tr": "lēlat il-7enna gabl il-3ers b-yōm.",
-    "ex_en": "The henna night is a day before the wedding."
+    "ex_en": "The henna night is a day before the wedding.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "البنات يغنّوا في ليلة الحنة",
+        "tr": "il-banāt yghannu fi lēlat il-7enna",
+        "en": "The girls sing on the henna night"
+      },
+      {
+        "ar": "ليلة الحنة الليلة",
+        "tr": "lēlat il-7enna il-lēla",
+        "en": "The henna night is tonight"
+      }
+    ]
   },
   {
     "ar": "زمزامة",
@@ -3196,7 +6484,20 @@
     "ex_ar": "الزمزامات غنّوا طول الليل.",
     "ex_tr": "iz-zamzāmāt ghannu Tūl il-lēl.",
     "ex_en": "The wedding singers sang all night.",
-    "note": "Libyan tradition: women's troupes with drums at weddings. pl. زمزامات"
+    "note": "Libyan tradition: women's troupes with drums at weddings. pl. زمزامات",
+    "usage": 10,
+    "phrases": [
+      {
+        "ar": "جبنا زمزامة للعرس",
+        "tr": "jibna zamzāma lil-3ers",
+        "en": "We hired a wedding singer"
+      },
+      {
+        "ar": "صوت الزمزامة عالي",
+        "tr": "Sōt iz-zamzāma 3āli",
+        "en": "The singer's voice is loud"
+      }
+    ]
   },
   {
     "ar": "صلاة",
@@ -3209,7 +6510,20 @@
     "ex_ar": "حان وقت الصلاة.",
     "ex_tr": "7ān wagt iS-Salā.",
     "ex_en": "It's time for prayer.",
-    "note": "pl. صلوات"
+    "note": "pl. صلوات",
+    "usage": 82,
+    "phrases": [
+      {
+        "ar": "وقت الصلاة",
+        "tr": "wagt iS-Salā",
+        "en": "prayer time"
+      },
+      {
+        "ar": "صلّيت الصبح؟",
+        "tr": "Sallēt iS-Sub7?",
+        "en": "Did you pray the dawn prayer?"
+      }
+    ]
   },
   {
     "ar": "أذان",
@@ -3221,7 +6535,20 @@
     "freq": 2,
     "ex_ar": "سمعت الأذان؟",
     "ex_tr": "smi3t il-adhān?",
-    "ex_en": "Did you hear the call to prayer?"
+    "ex_en": "Did you hear the call to prayer?",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "أذان المغرب",
+        "tr": "adhān il-maghrib",
+        "en": "the sunset call to prayer"
+      },
+      {
+        "ar": "نفطروا مع الأذان",
+        "tr": "nifTru ma3 il-adhān",
+        "en": "We break the fast with the call to prayer"
+      }
+    ]
   },
   {
     "ar": "الله",
@@ -3234,7 +6561,25 @@
     "ex_ar": "الله يحفظك.",
     "ex_tr": "allāh yi7fiDHak.",
     "ex_en": "God protect you.",
-    "note": "Appears in countless everyday phrases: إن شاء الله, الحمد لله, ما شاء الله."
+    "note": "Appears in countless everyday phrases: إن شاء الله, الحمد لله, ما شاء الله.",
+    "usage": 98,
+    "phrases": [
+      {
+        "ar": "إن شاء الله",
+        "tr": "in shā' allāh",
+        "en": "God willing"
+      },
+      {
+        "ar": "الحمد لله",
+        "tr": "il-7amdu lillāh",
+        "en": "Thank God"
+      },
+      {
+        "ar": "الله يبارك فيك",
+        "tr": "allāh ybārik fīk",
+        "en": "God bless you"
+      }
+    ]
   },
   {
     "ar": "دعاء",
@@ -3246,7 +6591,20 @@
     "freq": 3,
     "ex_ar": "ما تنساناش من الدعاء.",
     "ex_tr": "ma tinsānāsh min id-du3a.",
-    "ex_en": "Don't forget us in your prayers."
+    "ex_en": "Don't forget us in your prayers.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "الدعاء متاع الوالدين",
+        "tr": "id-du3a mtā3 il-wāldīn",
+        "en": "parents' prayers"
+      },
+      {
+        "ar": "ادعيلي بالتوفيق",
+        "tr": "id3īli bit-tawfīg",
+        "en": "Pray for my success"
+      }
+    ]
   },
   {
     "ar": "قرآن",
@@ -3259,7 +6617,20 @@
     "ex_ar": "يحفظ القرآن كامل.",
     "ex_tr": "yi7faDH il-qur'ān kāmil.",
     "ex_en": "He has memorized the whole Quran.",
-    "note": "Pronounced with q, as a religious word."
+    "note": "Pronounced with q, as a religious word.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "نقرا في القرآن",
+        "tr": "nigra fil-qur'ān",
+        "en": "I read the Quran"
+      },
+      {
+        "ar": "إذاعة القرآن",
+        "tr": "idhā3at il-qur'ān",
+        "en": "the Quran radio station"
+      }
+    ]
   },
   {
     "ar": "حج",
@@ -3272,7 +6643,20 @@
     "ex_ar": "أمي مشت للحج العام اللي فات.",
     "ex_tr": "ummi mshat lil-7ajj il-3ām illi fāt.",
     "ex_en": "My mother went on Hajj last year.",
-    "note": "A returning pilgrim is called الحاج il-7ājj / الحاجة il-7ājja."
+    "note": "A returning pilgrim is called الحاج il-7ājj / الحاجة il-7ājja.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "حج مبرور",
+        "tr": "7ajj mabrūr",
+        "en": "May your Hajj be accepted"
+      },
+      {
+        "ar": "بوي بيمشي للحج السنة هذي",
+        "tr": "būy bimshi lil-7ajj is-sna hādhi",
+        "en": "My father is going on Hajj this year"
+      }
+    ]
   },
   {
     "ar": "مولد",
@@ -3285,7 +6669,20 @@
     "ex_ar": "في المولد ناكلوا العصيدة.",
     "ex_tr": "fil-mūlid nāklu l-3aSīda.",
     "ex_en": "On the Mawlid we eat asida.",
-    "note": "Widely celebrated in Libya with asida and children's lanterns (قناديل)."
+    "note": "Widely celebrated in Libya with asida and children's lanterns (قناديل).",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "المولد النبوي",
+        "tr": "il-mūlid in-nabawi",
+        "en": "the Prophet's birthday"
+      },
+      {
+        "ar": "في المولد الصغار يشعلوا القناديل",
+        "tr": "fil-mūlid iS-Sghār yish3lu l-gnādīl",
+        "en": "On the Mawlid the kids light lanterns"
+      }
+    ]
   },
   {
     "ar": "عيدية",
@@ -3297,7 +6694,20 @@
     "freq": 3,
     "ex_ar": "الصغار يستنّوا العيدية.",
     "ex_tr": "iS-Sghār yistannu l-3īdiyya.",
-    "ex_en": "The kids are waiting for their Eid money."
+    "ex_en": "The kids are waiting for their Eid money.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "جدي عطاني عيدية",
+        "tr": "jiddi 3Tāni 3īdiyya",
+        "en": "Grandpa gave me Eid money"
+      },
+      {
+        "ar": "شنو درت بالعيدية؟",
+        "tr": "shinu dirt bil-3īdiyya?",
+        "en": "What did you do with the Eid money?"
+      }
+    ]
   },
   {
     "ar": "موسيقى",
@@ -3309,7 +6719,20 @@
     "freq": 2,
     "ex_ar": "تحب الموسيقى الليبية؟",
     "ex_tr": "t7ibb il-mūsīga l-lībiyya?",
-    "ex_en": "Do you like Libyan music?"
+    "ex_en": "Do you like Libyan music?",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "طفّي الموسيقى",
+        "tr": "Taffi l-mūsīga",
+        "en": "Turn off the music"
+      },
+      {
+        "ar": "نسمع موسيقى في المكينة",
+        "tr": "nisma3 mūsīga fil-makīna",
+        "en": "I listen to music in the car"
+      }
+    ]
   },
   {
     "ar": "مالوف",
@@ -3322,7 +6745,20 @@
     "ex_ar": "فرقة المالوف غنّت في العرس.",
     "ex_tr": "firgat il-mālūf ghannat fil-3ers.",
     "ex_en": "The malouf group sang at the wedding.",
-    "note": "Traditional urban music of Tripoli, of Andalusian origin."
+    "note": "Traditional urban music of Tripoli, of Andalusian origin.",
+    "usage": 22,
+    "phrases": [
+      {
+        "ar": "نحب نسمع المالوف",
+        "tr": "n7ibb nisma3 il-mālūf",
+        "en": "I like listening to malouf"
+      },
+      {
+        "ar": "المالوف في الأعراس",
+        "tr": "il-mālūf fil-a3rās",
+        "en": "malouf at weddings"
+      }
+    ]
   },
   {
     "ar": "زكرة",
@@ -3335,7 +6771,20 @@
     "ex_ar": "صوت الزكرة يفرّح.",
     "ex_tr": "Sōt iz-zukra yfarra7.",
     "ex_en": "The sound of the zukra is joyful.",
-    "note": "Traditional bagpipe played at weddings and celebrations."
+    "note": "Traditional bagpipe played at weddings and celebrations.",
+    "usage": 14,
+    "phrases": [
+      {
+        "ar": "الزكرة في العرس",
+        "tr": "iz-zukra fil-3ers",
+        "en": "the bagpipe at the wedding"
+      },
+      {
+        "ar": "يعرف يزمّر بالزكرة",
+        "tr": "ya3rif yzammir biz-zukra",
+        "en": "He can play the zukra"
+      }
+    ]
   },
   {
     "ar": "أغنية",
@@ -3348,7 +6797,20 @@
     "ex_ar": "الأغنية هذي حلوة.",
     "ex_tr": "il-ughniya hādhi 7elwa.",
     "ex_en": "This song is lovely.",
-    "note": "pl. أغاني aghāni"
+    "note": "pl. أغاني aghāni",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "شغّل الأغنية هذي",
+        "tr": "shaghghil il-ughniya hādhi",
+        "en": "Play this song"
+      },
+      {
+        "ar": "أغنية ليبية قديمة",
+        "tr": "ughniya lībiyya gdīma",
+        "en": "an old Libyan song"
+      }
+    ]
   },
   {
     "ar": "كورة",
@@ -3361,7 +6823,20 @@
     "ex_ar": "نلعبوا كورة في الحومة.",
     "ex_tr": "nil3bu kōra fil-7ōma.",
     "ex_en": "We play football in the neighborhood.",
-    "note": "The national passion."
+    "note": "The national passion.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "نتفرجوا في الكورة",
+        "tr": "nitfarrju fil-kōra",
+        "en": "We watch football"
+      },
+      {
+        "ar": "جيب الكورة",
+        "tr": "jīb il-kōra",
+        "en": "Bring the ball"
+      }
+    ]
   },
   {
     "ar": "ماتش",
@@ -3374,7 +6849,20 @@
     "ex_ar": "الماتش الليلة الساعة تسعة.",
     "ex_tr": "il-mātsh il-lēla s-sā3a tis3a.",
     "ex_en": "The match is tonight at nine.",
-    "note": "From English \"match\"."
+    "note": "From English \"match\".",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "شفت الماتش البارح؟",
+        "tr": "shuft il-mātsh il-bāra7?",
+        "en": "Did you see the match yesterday?"
+      },
+      {
+        "ar": "الماتش تعادل",
+        "tr": "il-mātsh ta3ādul",
+        "en": "The match was a draw"
+      }
+    ]
   },
   {
     "ar": "فريق",
@@ -3387,7 +6875,20 @@
     "ex_ar": "شنو فريقك، الأهلي ولا الاتحاد؟",
     "ex_tr": "shinu frīgak, il-ahli walla l-itti7ād?",
     "ex_en": "What's your team, Al-Ahly or Al-Ittihad?",
-    "note": "pl. فرق firag"
+    "note": "pl. فرق firag",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "الفريق متاعنا ربح",
+        "tr": "il-frīg mtā3na rba7",
+        "en": "Our team won"
+      },
+      {
+        "ar": "فريق الحومة",
+        "tr": "frīg il-7ōma",
+        "en": "the neighborhood team"
+      }
+    ]
   },
   {
     "ar": "قول",
@@ -3400,7 +6901,20 @@
     "ex_ar": "قول! ربحنا!",
     "ex_tr": "gōl! rba7na!",
     "ex_en": "Goal! We won!",
-    "note": "From English \"goal\"."
+    "note": "From English \"goal\".",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "جاب قول",
+        "tr": "jāb gōl",
+        "en": "He scored a goal"
+      },
+      {
+        "ar": "القول الأول في الدقيقة عشرة",
+        "tr": "il-gōl il-awwil fid-dgīga 3ashra",
+        "en": "The first goal was in the tenth minute"
+      }
+    ]
   },
   {
     "ar": "ملعب",
@@ -3413,7 +6927,20 @@
     "ex_ar": "الملعب مليان مشجعين.",
     "ex_tr": "il-mal3ab malyān mshajj3īn.",
     "ex_en": "The stadium is full of fans.",
-    "note": "pl. ملاعب malā3ib"
+    "note": "pl. ملاعب malā3ib",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "نمشوا للملعب الليلة",
+        "tr": "nimshu lil-mal3ab il-lēla",
+        "en": "Let's go to the stadium tonight"
+      },
+      {
+        "ar": "الملعب قريب من الحوش",
+        "tr": "il-mal3ab grīb min il-7ōsh",
+        "en": "The pitch is near the house"
+      }
+    ]
   },
   {
     "ar": "علم",
@@ -3426,7 +6953,20 @@
     "ex_ar": "العلم الليبي أحمر وأسود وأخضر.",
     "ex_tr": "il-3alam il-lībi a7mar u-aswad u-akhDar.",
     "ex_en": "The Libyan flag is red, black and green.",
-    "note": "pl. أعلام a3lām. Also the name of a Bedouin poetry genre (غناوة العلم)."
+    "note": "pl. أعلام a3lām. Also the name of a Bedouin poetry genre (غناوة العلم).",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "علّق العلم على الحوش",
+        "tr": "3allig il-3alam 3al-7ōsh",
+        "en": "Hang the flag on the house"
+      },
+      {
+        "ar": "رفعوا العلم في الميدان",
+        "tr": "rif3u l-3alam fil-mīdān",
+        "en": "They raised the flag in the square"
+      }
+    ]
   },
   {
     "ar": "بلاد",
@@ -3439,7 +6979,20 @@
     "ex_ar": "نحب بلادي.",
     "ex_tr": "n7ibb blādi.",
     "ex_en": "I love my country.",
-    "note": "pl. بلدان buldān. Also \"town\"."
+    "note": "pl. بلدان buldān. Also \"town\".",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "بلادنا حلوة",
+        "tr": "blādna 7ilwa",
+        "en": "Our country is beautiful"
+      },
+      {
+        "ar": "رجعت للبلاد",
+        "tr": "rja3t lil-blād",
+        "en": "I went back home (to my hometown)"
+      }
+    ]
   },
   {
     "ar": "ليبيا",
@@ -3451,7 +7004,20 @@
     "freq": 1,
     "ex_ar": "ليبيا في شمال أفريقيا.",
     "ex_tr": "lībya fi shimāl afrīgya.",
-    "ex_en": "Libya is in North Africa."
+    "ex_en": "Libya is in North Africa.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "أهلًا بيك في ليبيا",
+        "tr": "ahlan bīk fi lībya",
+        "en": "Welcome to Libya"
+      },
+      {
+        "ar": "نحب ليبيا هلبة",
+        "tr": "n7ibb lībya hallba",
+        "en": "I love Libya very much"
+      }
+    ]
   },
   {
     "ar": "عطلة",
@@ -3463,7 +7029,20 @@
     "freq": 2,
     "ex_ar": "بكرة عطلة رسمية.",
     "ex_tr": "bukra 3uTla rasmiyya.",
-    "ex_en": "Tomorrow is a public holiday."
+    "ex_en": "Tomorrow is a public holiday.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "نبي عطلة",
+        "tr": "nibbi 3uTla",
+        "en": "I need a holiday"
+      },
+      {
+        "ar": "العطلة الصيفية",
+        "tr": "il-3uTla iS-Sēfiyya",
+        "en": "the summer holidays"
+      }
+    ]
   },
   {
     "ar": "حفلة",
@@ -3476,7 +7055,20 @@
     "ex_ar": "عملنا حفلة لنجاحه.",
     "ex_tr": "3milna 7afla l-najā7ah.",
     "ex_en": "We threw a party for his success.",
-    "note": "pl. حفلات"
+    "note": "pl. حفلات",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "معزوم على حفلة",
+        "tr": "ma3zūm 3la 7afla",
+        "en": "I'm invited to a party"
+      },
+      {
+        "ar": "الحفلة الليلة الساعة تسعة",
+        "tr": "il-7afla il-lēla is-sā3a tis3a",
+        "en": "The party is tonight at nine"
+      }
+    ]
   },
   {
     "ar": "عزا",
@@ -3489,7 +7081,20 @@
     "ex_ar": "مشينا للعزا في الحومة.",
     "ex_tr": "mshēna lil-3za fil-7ōma.",
     "ex_en": "We went to the condolence gathering in the neighborhood.",
-    "note": "Usually held for three days in a tent or the family home."
+    "note": "Usually held for three days in a tent or the family home.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "العزا في حوش جدهم",
+        "tr": "il-3za fi 7ōsh jiddhum",
+        "en": "The condolence gathering is at their grandfather's house"
+      },
+      {
+        "ar": "عظّم الله أجركم",
+        "tr": "3aDHDHam allāh ajrakum",
+        "en": "May God increase your reward (condolence)"
+      }
+    ]
   },
   {
     "ar": "عادات",
@@ -3502,7 +7107,20 @@
     "ex_ar": "عاداتنا في العرس هلبة.",
     "ex_tr": "3ādātna fil-3ers hallba.",
     "ex_en": "We have many wedding customs.",
-    "note": "Singular عادة 3āda; often paired: العادات والتقاليد."
+    "note": "Singular عادة 3āda; often paired: العادات والتقاليد.",
+    "usage": 38,
+    "phrases": [
+      {
+        "ar": "هذي عاداتنا",
+        "tr": "hādhi 3ādātna",
+        "en": "These are our customs"
+      },
+      {
+        "ar": "العادات تبدّلت",
+        "tr": "il-3ādāt tbaddlat",
+        "en": "Customs have changed"
+      }
+    ]
   },
   {
     "ar": "دين",
@@ -3514,7 +7132,20 @@
     "freq": 3,
     "ex_ar": "الإسلام دين أغلب الليبيين.",
     "ex_tr": "il-islām dīn aghlab il-lībiyyīn.",
-    "ex_en": "Islam is the religion of most Libyans."
+    "ex_en": "Islam is the religion of most Libyans.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "الدين معاملة",
+        "tr": "id-dīn mu3āmala",
+        "en": "Religion is how you treat people"
+      },
+      {
+        "ar": "ما نتكلموش في الدين",
+        "tr": "ma nitkallmūsh fid-dīn",
+        "en": "We don't talk about religion"
+      }
+    ]
   },
   {
     "ar": "حلال",
@@ -3527,7 +7158,20 @@
     "ex_ar": "اللحم هذا حلال.",
     "ex_tr": "il-la7am hādha 7lāl.",
     "ex_en": "This meat is halal.",
-    "note": "Opposite: حرام 7rām."
+    "note": "Opposite: حرام 7rām.",
+    "usage": 60,
+    "phrases": [
+      {
+        "ar": "حلال عليك",
+        "tr": "7lāl 3alēk",
+        "en": "You deserve it (it's yours)"
+      },
+      {
+        "ar": "الفلوس هذي حلال",
+        "tr": "il-flūs hādhi 7lāl",
+        "en": "This money is honestly earned"
+      }
+    ]
   },
   {
     "ar": "صدقة",
@@ -3539,7 +7183,20 @@
     "freq": 3,
     "ex_ar": "عطيه صدقة.",
     "ex_tr": "3Tīh Sadga.",
-    "ex_en": "Give him some charity."
+    "ex_en": "Give him some charity.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "طلّع صدقة",
+        "tr": "Talla3 Sadga",
+        "en": "Give some charity"
+      },
+      {
+        "ar": "الصدقة تدفع البلا",
+        "tr": "iS-Sadga tidfa3 il-bla",
+        "en": "Charity wards off misfortune"
+      }
+    ]
   },
   {
     "ar": "حكومة",
@@ -3551,7 +7208,20 @@
     "freq": 3,
     "ex_ar": "الحكومة عطت المرتبات.",
     "ex_tr": "il-7ukūma 3Tat il-murattabāt.",
-    "ex_en": "The government paid out the salaries."
+    "ex_en": "The government paid out the salaries.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "الحكومة الجديدة",
+        "tr": "il-7ukūma ij-jdīda",
+        "en": "the new government"
+      },
+      {
+        "ar": "الحكومة ما دارتش شي",
+        "tr": "il-7ukūma ma dārtsh shay",
+        "en": "The government did nothing"
+      }
+    ]
   },
   {
     "ar": "مسلسل",
@@ -3564,6 +7234,19 @@
     "ex_ar": "في رمضان نتفرجوا في المسلسلات.",
     "ex_tr": "fi rumDān nitfarrju fil-msalsalāt.",
     "ex_en": "In Ramadan we watch TV series.",
-    "note": "Ramadan is the peak season for series."
+    "note": "Ramadan is the peak season for series.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "المسلسل هذا حلو",
+        "tr": "il-msalsal hādha 7ilu",
+        "en": "This series is good"
+      },
+      {
+        "ar": "نتفرجوا في مسلسل تركي",
+        "tr": "nitfarrju fi msalsal turki",
+        "en": "We're watching a Turkish series"
+      }
+    ]
   }
 ]
