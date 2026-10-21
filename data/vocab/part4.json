@@ -3837,7 +3837,7 @@
     "phrases": [
       {
         "ar": "الضغط طالع عليه",
-        "tr": "iD-DaghT TāliI3 3alēh",
+        "tr": "iD-DaghT Tāli3 3alēh",
         "en": "His blood pressure is high."
       },
       {
@@ -5258,7 +5258,20 @@
     "ex_ar": "العروسة لابسة قلادة ليبية تقليدية.",
     "ex_tr": "il-3arūsa lābsa glāda lībiyya taglīdiyya.",
     "ex_en": "The bride is wearing a traditional Libyan necklace.",
-    "note": "pl. قلايد glāyid."
+    "note": "pl. قلايد glāyid.",
+    "usage": 24,
+    "phrases": [
+      {
+        "ar": "قلادة ذهب قديمة",
+        "tr": "glāda dhahab gdīma",
+        "en": "an old gold necklace"
+      },
+      {
+        "ar": "القلادة هذي من جدتي",
+        "tr": "il-glāda hādhi min jiddti",
+        "en": "This necklace is from my grandmother."
+      }
+    ]
   },
   {
     "ar": "حوش",
@@ -5271,7 +5284,20 @@
     "ex_ar": "تعال نتغدوا في الحوش.",
     "ex_tr": "ta3āl nitghaddu fi l-7ōsh.",
     "ex_en": "Come, let's have lunch at home.",
-    "note": "pl. حيشان 7ēshān. In Libya حوش = the whole house (originally a courtyard house), while بيت = a room."
+    "note": "pl. حيشان 7ēshān. In Libya حوش = the whole house (originally a courtyard house), while بيت = a room.",
+    "usage": 94,
+    "phrases": [
+      {
+        "ar": "أنا في الحوش",
+        "tr": "āna fi l-7ōsh",
+        "en": "I'm at home."
+      },
+      {
+        "ar": "بنروّح للحوش توا",
+        "tr": "bnirawwa7 lil-7ōsh tawwa",
+        "en": "I'm going home now."
+      }
+    ]
   },
   {
     "ar": "بيت",
@@ -5284,7 +5310,20 @@
     "ex_ar": "الحوش فيه أربع بيوت.",
     "ex_tr": "il-7ōsh fīh arba3 byūt.",
     "ex_en": "The house has four rooms.",
-    "note": "pl. بيوت byūt. Libyan: بيت = room (MSA 'house'). بيت النوم = bedroom."
+    "note": "pl. بيوت byūt. Libyan: بيت = room (MSA 'house'). بيت النوم = bedroom.",
+    "usage": 80,
+    "phrases": [
+      {
+        "ar": "خش لبيتك",
+        "tr": "khushsh l-bētik",
+        "en": "Go to your room."
+      },
+      {
+        "ar": "البيت هذا للصغار",
+        "tr": "il-bēt hādha liS-Sghār",
+        "en": "This room is the kids'."
+      }
+    ]
   },
   {
     "ar": "دار",
@@ -5297,7 +5336,20 @@
     "ex_ar": "الدار القديمة في المدينة القديمة.",
     "ex_tr": "id-dār il-gdīma fi l-mdīna l-gdīma.",
     "ex_en": "The old house is in the old city.",
-    "note": "pl. ديار dyār. Less common than حوش in Tripoli speech."
+    "note": "pl. ديار dyār. Less common than حوش in Tripoli speech.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "دار عربية قديمة",
+        "tr": "dār 3arabiyya gdīma",
+        "en": "an old traditional house"
+      },
+      {
+        "ar": "الدار دار بوك",
+        "tr": "id-dār dār būk",
+        "en": "Make yourself at home (lit. the house is your father's)."
+      }
+    ]
   },
   {
     "ar": "شقة",
@@ -5310,7 +5362,20 @@
     "ex_ar": "ساكنين في شقة في الدور التالت.",
     "ex_tr": "sāknīn fi shigga fi d-dōr it-tālit.",
     "ex_en": "We live in an apartment on the third floor.",
-    "note": "pl. شقق shigag. ق pronounced g."
+    "note": "pl. شقق shigag. ق pronounced g.",
+    "usage": 62,
+    "phrases": [
+      {
+        "ar": "نبي نكري شقة",
+        "tr": "nibbi nikri shigga",
+        "en": "I want to rent a flat."
+      },
+      {
+        "ar": "الشقة فيها زوز بيوت",
+        "tr": "ish-shigga fīha zūz byūt",
+        "en": "The flat has two rooms."
+      }
+    ]
   },
   {
     "ar": "كوزينة",
@@ -5323,7 +5388,20 @@
     "ex_ar": "أمي في الكوزينة تطيب.",
     "ex_tr": "ummi fi l-kūzīna tTayyib.",
     "ex_en": "My mother is in the kitchen cooking.",
-    "note": "From Italian cucina. pl. كوزينات."
+    "note": "From Italian cucina. pl. كوزينات.",
+    "usage": 70,
+    "phrases": [
+      {
+        "ar": "الكوزينة صغيرة",
+        "tr": "il-kūzīna Sghīra",
+        "en": "The kitchen is small."
+      },
+      {
+        "ar": "نظّف الكوزينة بعد الماكلة",
+        "tr": "naDHDHif il-kūzīna ba3d il-mākla",
+        "en": "Clean the kitchen after eating."
+      }
+    ]
   },
   {
     "ar": "حمّام",
@@ -5336,7 +5414,20 @@
     "ex_ar": "الحمّام في آخر الممر.",
     "ex_tr": "il-7ammām fi ākhir il-mamarr.",
     "ex_en": "The bathroom is at the end of the hallway.",
-    "note": "pl. حمامات 7ammāmāt."
+    "note": "pl. حمامات 7ammāmāt.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "الحمّام مشغول",
+        "tr": "il-7ammām mashghūl",
+        "en": "The bathroom is occupied."
+      },
+      {
+        "ar": "نبي نمشي للحمّام",
+        "tr": "nibbi nimshi lil-7ammām",
+        "en": "I need to go to the bathroom."
+      }
+    ]
   },
   {
     "ar": "تواليت",
@@ -5349,7 +5440,20 @@
     "ex_ar": "وين التواليت لو سمحت؟",
     "ex_tr": "wīn it-twālēt law sama7t?",
     "ex_en": "Where's the toilet, please?",
-    "note": "From French/Italian. Also بيت الما bēt il-ma."
+    "note": "From French/Italian. Also بيت الما bēt il-ma.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "التواليت ما فيهاش ما",
+        "tr": "it-twālēt ma fīhāsh ma",
+        "en": "There's no water in the toilet."
+      },
+      {
+        "ar": "التواليت برا",
+        "tr": "it-twālēt barra",
+        "en": "The toilet is outside."
+      }
+    ]
   },
   {
     "ar": "مربوعة",
@@ -5362,7 +5466,20 @@
     "ex_ar": "خش الضيوف للمربوعة.",
     "ex_tr": "khushsh iD-Dyūf li l-marbū3a.",
     "ex_en": "Show the guests into the sitting room.",
-    "note": "Distinctly Libyan: a (usually square) reception room near the entrance where men receive guests. pl. مرابيع mrābī3."
+    "note": "Distinctly Libyan: a (usually square) reception room near the entrance where men receive guests. pl. مرابيع mrābī3.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "قعدنا في المربوعة للعشية",
+        "tr": "ga3adna fil-marbū3a lil-3ashiyya",
+        "en": "We sat in the guest room till the evening."
+      },
+      {
+        "ar": "المربوعة فيها ضيوف",
+        "tr": "il-marbū3a fīha Dyūf",
+        "en": "There are guests in the sitting room."
+      }
+    ]
   },
   {
     "ar": "صالة",
@@ -5375,7 +5492,20 @@
     "ex_ar": "قاعدين نتفرجوا التلفزيون في الصالة.",
     "ex_tr": "gā3dīn nitfarrju t-tilifizyōn fi S-Sāla.",
     "ex_en": "We're watching TV in the living room.",
-    "note": "pl. صالات Sālāt."
+    "note": "pl. صالات Sālāt.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "الصالة واسعة",
+        "tr": "iS-Sāla wās3a",
+        "en": "The living room is spacious."
+      },
+      {
+        "ar": "الصغار راقدين في الصالة",
+        "tr": "iS-Sghār rāgdīn fiS-Sāla",
+        "en": "The kids are asleep in the living room."
+      }
+    ]
   },
   {
     "ar": "بيت النوم",
@@ -5388,7 +5518,20 @@
     "ex_ar": "بيت النوم فيه شباك كبير.",
     "ex_tr": "bēt in-nōm fīh shubbāk kbīr.",
     "ex_en": "The bedroom has a big window.",
-    "note": "pl. بيوت النوم."
+    "note": "pl. بيوت النوم.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "بيت النوم الكبير",
+        "tr": "bēt in-nōm il-kbīr",
+        "en": "the main bedroom"
+      },
+      {
+        "ar": "شرينا بيت نوم جديد",
+        "tr": "shrēna bēt nōm jdīd",
+        "en": "We bought a new bedroom set."
+      }
+    ]
   },
   {
     "ar": "باب",
@@ -5401,7 +5544,20 @@
     "ex_ar": "سكّر الباب وراك.",
     "ex_tr": "sakkir il-bāb wrāk.",
     "ex_en": "Close the door behind you.",
-    "note": "pl. بيبان bībān / أبواب abwāb."
+    "note": "pl. بيبان bībān / أبواب abwāb.",
+    "usage": 86,
+    "phrases": [
+      {
+        "ar": "حل الباب",
+        "tr": "7ill il-bāb",
+        "en": "Open the door."
+      },
+      {
+        "ar": "فيه حد يدق في الباب",
+        "tr": "fīh 7add yidugg fi l-bāb",
+        "en": "Someone's knocking at the door."
+      }
+    ]
   },
   {
     "ar": "شباك",
@@ -5414,7 +5570,20 @@
     "ex_ar": "حل الشباك، فيه سخانة.",
     "ex_tr": "7ill ish-shubbāk, fīh skhāna.",
     "ex_en": "Open the window, it's hot.",
-    "note": "pl. شبابيك shbābīk. حلّ 7all = to open (Libyan)."
+    "note": "pl. شبابيك shbābīk. حلّ 7all = to open (Libyan).",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "سكّر الشباك، فيه ريح",
+        "tr": "sakkir ish-shubbāk, fīh rī7",
+        "en": "Close the window, it's windy."
+      },
+      {
+        "ar": "قاعد حدا الشباك",
+        "tr": "gā3id 7da sh-shubbāk",
+        "en": "He's sitting by the window."
+      }
+    ]
   },
   {
     "ar": "طاقة",
@@ -5427,7 +5596,20 @@
     "ex_ar": "الضو داخل من الطاقة.",
     "ex_tr": "iD-Daw dākhil min iT-Tāga.",
     "ex_en": "The light is coming in through the small window.",
-    "note": "pl. طاقات Tāgāt / طيقان. Traditional houses have small طاقات."
+    "note": "pl. طاقات Tāgāt / طيقان. Traditional houses have small طاقات.",
+    "usage": 28,
+    "phrases": [
+      {
+        "ar": "طاقة في الحيط",
+        "tr": "Tāga fi l-7ēT",
+        "en": "an opening in the wall"
+      },
+      {
+        "ar": "حل الطاقة يدخل الهوا",
+        "tr": "7ill iT-Tāga yidkhul il-hwa",
+        "en": "Open the little window to let air in."
+      }
+    ]
   },
   {
     "ar": "سقف",
@@ -5440,7 +5622,20 @@
     "ex_ar": "السقف فيه تقطير من المطر.",
     "ex_tr": "is-sagf fīh tagTīr min il-maTar.",
     "ex_en": "The ceiling is leaking from the rain.",
-    "note": "pl. سقوف sgūf. ق pronounced g."
+    "note": "pl. سقوف sgūf. ق pronounced g.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "السقف عالي",
+        "tr": "is-sagf 3āli",
+        "en": "The ceiling is high."
+      },
+      {
+        "ar": "علّق اللمبة في السقف",
+        "tr": "3allig il-lamba fis-sagf",
+        "en": "Hang the bulb from the ceiling."
+      }
+    ]
   },
   {
     "ar": "سطح",
@@ -5453,7 +5648,20 @@
     "ex_ar": "نشرت الحوايج على السطح.",
     "ex_tr": "nshart il-7wāyij 3ala s-sTa7.",
     "ex_en": "I hung the clothes out on the roof.",
-    "note": "pl. سطوح sTū7. Flat roofs are used for drying laundry."
+    "note": "pl. سطوح sTū7. Flat roofs are used for drying laundry.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "طلعنا للسطح نتفرجوا",
+        "tr": "Tla3na lis-sTa7 nitfarraju",
+        "en": "We went up on the roof to watch."
+      },
+      {
+        "ar": "رقدنا على السطح في الصيف",
+        "tr": "ragadna 3ala s-sTa7 fiS-Sēf",
+        "en": "We slept on the roof in summer."
+      }
+    ]
   },
   {
     "ar": "دروج",
@@ -5466,7 +5674,20 @@
     "ex_ar": "طلع الدروج بشوية.",
     "ex_tr": "iTla3 id-drūj bi shwayya.",
     "ex_en": "Go up the stairs slowly.",
-    "note": "sg. درجة daraja (one step). Also درج daraj."
+    "note": "sg. درجة daraja (one step). Also درج daraj.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "الدروج عالية",
+        "tr": "id-drūj 3ālya",
+        "en": "The stairs are steep."
+      },
+      {
+        "ar": "طاح من الدروج",
+        "tr": "Ta7 min id-drūj",
+        "en": "He fell down the stairs."
+      }
+    ]
   },
   {
     "ar": "مفتاح",
@@ -5479,7 +5700,20 @@
     "ex_ar": "نسيت المفتاح داخل الحوش.",
     "ex_tr": "nsīt il-mufta7 dākhil il-7ōsh.",
     "ex_en": "I left the key inside the house.",
-    "note": "pl. مفاتيح mfātī7."
+    "note": "pl. مفاتيح mfātī7.",
+    "usage": 74,
+    "phrases": [
+      {
+        "ar": "وين مفتاح السيارة؟",
+        "tr": "wīn mufta7 is-sayyāra?",
+        "en": "Where's the car key?"
+      },
+      {
+        "ar": "عطيني المفتاح",
+        "tr": "3Tīni l-mufta7",
+        "en": "Give me the key."
+      }
+    ]
   },
   {
     "ar": "حيط",
@@ -5492,7 +5726,20 @@
     "ex_ar": "علّق التصويرة على الحيط.",
     "ex_tr": "3allig it-taSwīra 3ala l-7ēT.",
     "ex_en": "Hang the picture on the wall.",
-    "note": "pl. حيوط 7yūT."
+    "note": "pl. حيوط 7yūT.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "الحيط فيه رطوبة",
+        "tr": "il-7ēT fīh rTūba",
+        "en": "The wall is damp."
+      },
+      {
+        "ar": "لزق في الحيط",
+        "tr": "lzag fi l-7ēT",
+        "en": "He leaned against the wall."
+      }
+    ]
   },
   {
     "ar": "أرضية",
@@ -5505,7 +5752,20 @@
     "ex_ar": "الأرضية مبلولة، رد بالك.",
     "ex_tr": "il-arDiyya mablūla, rudd bālak.",
     "ex_en": "The floor is wet, watch out.",
-    "note": "Also القاع il-gā3 'the ground'."
+    "note": "Also القاع il-gā3 'the ground'.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "امسح الأرضية",
+        "tr": "imsa7 il-arDiyya",
+        "en": "Mop the floor."
+      },
+      {
+        "ar": "قعدنا على الأرضية",
+        "tr": "ga3adna 3ala l-arDiyya",
+        "en": "We sat on the floor."
+      }
+    ]
   },
   {
     "ar": "دور",
@@ -5518,7 +5778,20 @@
     "ex_ar": "ساكن في الدور الثاني.",
     "ex_tr": "sākin fi d-dōr ith-thāni.",
     "ex_en": "I live on the second floor.",
-    "note": "pl. أدوار adwār. Also 'turn': دورك dōrak = your turn."
+    "note": "pl. أدوار adwār. Also 'turn': دورك dōrak = your turn.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "الحوش فيه زوز أدوار",
+        "tr": "il-7ōsh fīh zūz adwār",
+        "en": "The house has two storeys."
+      },
+      {
+        "ar": "الدور الأرضي",
+        "tr": "id-dōr il-arDi",
+        "en": "the ground floor"
+      }
+    ]
   },
   {
     "ar": "بلكونة",
@@ -5531,7 +5804,20 @@
     "ex_ar": "نشربوا الشاهي في البلكونة.",
     "ex_tr": "nishirbu sh-shāhi fi l-balkōna.",
     "ex_en": "We drink tea on the balcony.",
-    "note": "From Italian balcone. pl. بلكونات."
+    "note": "From Italian balcone. pl. بلكونات.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "البلكونة تطل على البحر",
+        "tr": "il-balkōna tTill 3ala l-ba7r",
+        "en": "The balcony overlooks the sea."
+      },
+      {
+        "ar": "نشرت الحوايج في البلكونة",
+        "tr": "nshart il-7wāyij fil-balkōna",
+        "en": "I hung the washing on the balcony."
+      }
+    ]
   },
   {
     "ar": "قاراج",
@@ -5544,7 +5830,20 @@
     "ex_ar": "حط السيارة في القاراج.",
     "ex_tr": "7uTT is-sayyāra fi l-garāj.",
     "ex_en": "Put the car in the garage.",
-    "note": "From French/Italian garage."
+    "note": "From French/Italian garage.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "القاراج مليان قراكيش",
+        "tr": "il-garāj malyān grākīsh",
+        "en": "The garage is full of junk."
+      },
+      {
+        "ar": "حل باب القاراج",
+        "tr": "7ill bāb il-garāj",
+        "en": "Open the garage door."
+      }
+    ]
   },
   {
     "ar": "عفش",
@@ -5557,7 +5856,20 @@
     "ex_ar": "شرينا عفش جديد للحوش.",
     "ex_tr": "shrēna 3afsh jdīd li l-7ōsh.",
     "ex_en": "We bought new furniture for the house.",
-    "note": "Collective noun. أثاث athāth is the formal word."
+    "note": "Collective noun. أثاث athāth is the formal word.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "نقلنا العفش للحوش الجديد",
+        "tr": "naggalna l-3afsh lil-7ōsh ij-jdīd",
+        "en": "We moved the furniture to the new house."
+      },
+      {
+        "ar": "العفش غالي توا",
+        "tr": "il-3afsh ghāli tawwa",
+        "en": "Furniture is expensive now."
+      }
+    ]
   },
   {
     "ar": "سرير",
@@ -5570,7 +5882,20 @@
     "ex_ar": "السرير هذا مريح ياسر.",
     "ex_tr": "is-srīr hādha mrī7 yāsir.",
     "ex_en": "This bed is very comfortable.",
-    "note": "pl. سرارير srārīr / أسرّة."
+    "note": "pl. سرارير srārīr / أسرّة.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "رقد في سريرك",
+        "tr": "urgud fi srīrik",
+        "en": "Sleep in your bed."
+      },
+      {
+        "ar": "سرير الصغار",
+        "tr": "srīr iS-Sghār",
+        "en": "the children's bed"
+      }
+    ]
   },
   {
     "ar": "مطرح",
@@ -5583,7 +5908,20 @@
     "ex_ar": "المطرح هذا قاسي.",
     "ex_tr": "il-maTra7 hādha gāsi.",
     "ex_en": "This mattress is hard.",
-    "note": "pl. مطارح mTāri7. Also floor mattresses for seating guests."
+    "note": "pl. مطارح mTāri7. Also floor mattresses for seating guests.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "حط مطرح في الأرض للضيف",
+        "tr": "7uTT maTra7 fil-arD liD-Dēf",
+        "en": "Put a mattress on the floor for the guest."
+      },
+      {
+        "ar": "مطرح جديد مريح",
+        "tr": "maTra7 jdīd mrī7",
+        "en": "a comfortable new mattress"
+      }
+    ]
   },
   {
     "ar": "مخدة",
@@ -5596,7 +5934,20 @@
     "ex_ar": "عطيني مخدة ثانية.",
     "ex_tr": "3Tīni mkhadda thānya.",
     "ex_en": "Give me another pillow.",
-    "note": "pl. مخاد mkhādd."
+    "note": "pl. مخاد mkhādd.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "المخدة هذي عالية",
+        "tr": "il-mkhadda hādhi 3ālya",
+        "en": "This pillow is too high."
+      },
+      {
+        "ar": "حط راسك على المخدة",
+        "tr": "7uTT rāsik 3ala l-mkhadda",
+        "en": "Put your head on the pillow."
+      }
+    ]
   },
   {
     "ar": "بطانية",
@@ -5609,7 +5960,20 @@
     "ex_ar": "الليلة باردة، جيب بطانية.",
     "ex_tr": "il-lēla bārda, jīb baTTāniyya.",
     "ex_en": "It's a cold night, bring a blanket.",
-    "note": "pl. بطاطين bTāTīn."
+    "note": "pl. بطاطين bTāTīn.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "بطانية صوف",
+        "tr": "baTTāniyya Sūf",
+        "en": "a wool blanket"
+      },
+      {
+        "ar": "غطّي الصغير بالبطانية",
+        "tr": "ghaTTi S-Sghīr bil-baTTāniyya",
+        "en": "Cover the child with the blanket."
+      }
+    ]
   },
   {
     "ar": "طاولة",
@@ -5622,7 +5986,20 @@
     "ex_ar": "حط الصحون على الطاولة.",
     "ex_tr": "7uTT iS-S7ūn 3ala T-Tāwla.",
     "ex_en": "Put the plates on the table.",
-    "note": "From Italian tavola. pl. طاولات Tāwlāt."
+    "note": "From Italian tavola. pl. طاولات Tāwlāt.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "قعدنا على الطاولة",
+        "tr": "ga3adna 3ala T-Tāwla",
+        "en": "We sat at the table."
+      },
+      {
+        "ar": "طاولة الماكلة",
+        "tr": "Tāwlat il-mākla",
+        "en": "the dining table"
+      }
+    ]
   },
   {
     "ar": "كرسي",
@@ -5635,7 +6012,20 @@
     "ex_ar": "اقعد على الكرسي.",
     "ex_tr": "ug3ud 3ala l-kursi.",
     "ex_en": "Sit on the chair.",
-    "note": "pl. كراسي krāsi."
+    "note": "pl. كراسي krāsi.",
+    "usage": 66,
+    "phrases": [
+      {
+        "ar": "جيب كرسي للضيف",
+        "tr": "jīb kursi liD-Dēf",
+        "en": "Bring a chair for the guest."
+      },
+      {
+        "ar": "الكرسي هذا مكسور",
+        "tr": "il-kursi hādha maksūr",
+        "en": "This chair is broken."
+      }
+    ]
   },
   {
     "ar": "كنبة",
@@ -5648,7 +6038,20 @@
     "ex_ar": "رقد على الكنبة في الصالة.",
     "ex_tr": "rgad 3ala l-kanaba fi S-Sāla.",
     "ex_en": "He fell asleep on the sofa in the living room.",
-    "note": "pl. كنبات."
+    "note": "pl. كنبات.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "كنبة جديدة للصالة",
+        "tr": "kanaba jdīda liS-Sāla",
+        "en": "a new sofa for the living room"
+      },
+      {
+        "ar": "قعد على الكنبة يتفرج",
+        "tr": "ga3ad 3ala l-kanaba yitfarraj",
+        "en": "He sat on the sofa watching TV."
+      }
+    ]
   },
   {
     "ar": "دولاب",
@@ -5661,7 +6064,20 @@
     "ex_ar": "الحوايج في الدولاب.",
     "ex_tr": "il-7wāyij fi d-dūlāb.",
     "ex_en": "The clothes are in the wardrobe.",
-    "note": "pl. دواليب dwālīb."
+    "note": "pl. دواليب dwālīb.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "الدولاب مليان",
+        "tr": "id-dūlāb malyān",
+        "en": "The wardrobe is full."
+      },
+      {
+        "ar": "رتّب حوايجك في الدولاب",
+        "tr": "rattib 7wāyjik fid-dūlāb",
+        "en": "Put your clothes away in the wardrobe."
+      }
+    ]
   },
   {
     "ar": "رف",
@@ -5674,7 +6090,20 @@
     "ex_ar": "الكتب على الرف.",
     "ex_tr": "il-ktub 3ala r-raff.",
     "ex_en": "The books are on the shelf.",
-    "note": "pl. رفوف rfūf."
+    "note": "pl. رفوف rfūf.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "حطه على الرف الفوقاني",
+        "tr": "7uTTa 3ala r-raff il-fōgāni",
+        "en": "Put it on the top shelf."
+      },
+      {
+        "ar": "الرف طاح",
+        "tr": "ir-raff Ta7",
+        "en": "The shelf fell down."
+      }
+    ]
   },
   {
     "ar": "مراية",
@@ -5687,7 +6116,20 @@
     "ex_ar": "شاف روحه في المراية.",
     "ex_tr": "shāf rū7ah fi l-mrāya.",
     "ex_en": "He looked at himself in the mirror.",
-    "note": "pl. مرايات mrāyāt."
+    "note": "pl. مرايات mrāyāt.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "مراية السيارة",
+        "tr": "mrāyat is-sayyāra",
+        "en": "the car mirror"
+      },
+      {
+        "ar": "المراية تكسرت",
+        "tr": "il-mrāya tkassrat",
+        "en": "The mirror broke."
+      }
+    ]
   },
   {
     "ar": "ستارة",
@@ -5700,7 +6142,20 @@
     "ex_ar": "سكّر الستارة، الشمس قوية.",
     "ex_tr": "sakkir is-stāra, ish-shams gawiyya.",
     "ex_en": "Close the curtain, the sun is strong.",
-    "note": "pl. ستاير stāyir."
+    "note": "pl. ستاير stāyir.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "حل الستارة",
+        "tr": "7ill is-stāra",
+        "en": "Open the curtain."
+      },
+      {
+        "ar": "ستارة جديدة للصالة",
+        "tr": "stāra jdīda liS-Sāla",
+        "en": "a new curtain for the living room"
+      }
+    ]
   },
   {
     "ar": "ثلاجة",
@@ -5713,7 +6168,20 @@
     "ex_ar": "الما البارد في الثلاجة.",
     "ex_tr": "il-ma l-bārid fi th-thallāja.",
     "ex_en": "The cold water is in the fridge.",
-    "note": "pl. ثلاجات."
+    "note": "pl. ثلاجات.",
+    "usage": 64,
+    "phrases": [
+      {
+        "ar": "الثلاجة فاضية",
+        "tr": "ith-thallāja fāDya",
+        "en": "The fridge is empty."
+      },
+      {
+        "ar": "حط الحليب في الثلاجة",
+        "tr": "7uTT il-7līb fith-thallāja",
+        "en": "Put the milk in the fridge."
+      }
+    ]
   },
   {
     "ar": "تلفزيون",
@@ -5726,7 +6194,20 @@
     "ex_ar": "حل التلفزيون، فيه ماتش.",
     "ex_tr": "7ill it-tilifizyōn, fīh mātsh.",
     "ex_en": "Turn on the TV, there's a match.",
-    "note": "pl. تلفزيونات."
+    "note": "pl. تلفزيونات.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "سكّر التلفزيون وارقد",
+        "tr": "sakkir it-tilifizyōn w urgud",
+        "en": "Turn off the TV and go to sleep."
+      },
+      {
+        "ar": "شن فيه في التلفزيون؟",
+        "tr": "shin fīh fit-tilifizyōn?",
+        "en": "What's on TV?"
+      }
+    ]
   },
   {
     "ar": "غسالة",
@@ -5739,7 +6220,20 @@
     "ex_ar": "حط الحوايج في الغسالة.",
     "ex_tr": "7uTT il-7wāyij fi l-ghassāla.",
     "ex_en": "Put the clothes in the washing machine.",
-    "note": "pl. غسالات."
+    "note": "pl. غسالات.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "الغسالة خربانة",
+        "tr": "il-ghassāla kharbāna",
+        "en": "The washing machine is broken."
+      },
+      {
+        "ar": "طلّع الحوايج من الغسالة",
+        "tr": "Talla3 il-7wāyij min il-ghassāla",
+        "en": "Take the clothes out of the washing machine."
+      }
+    ]
   },
   {
     "ar": "مكيف",
@@ -5752,7 +6246,20 @@
     "ex_ar": "المكيف خربان والدنيا سخونة.",
     "ex_tr": "il-mkayyif kharbān w id-dinya skhūna.",
     "ex_en": "The AC is broken and it's hot.",
-    "note": "pl. مكيفات. A wall unit is often called سبليت splīt."
+    "note": "pl. مكيفات. A wall unit is often called سبليت splīt.",
+    "usage": 58,
+    "phrases": [
+      {
+        "ar": "شعّل المكيف",
+        "tr": "sha33il il-mkayyif",
+        "en": "Turn on the air conditioner."
+      },
+      {
+        "ar": "المكيف يبرّد بالباهي",
+        "tr": "il-mkayyif ybarrid bil-bāhi",
+        "en": "The AC cools really well."
+      }
+    ]
   },
   {
     "ar": "دفاية",
@@ -5765,7 +6272,20 @@
     "ex_ar": "شعّل الدفاية، البرد ياسر.",
     "ex_tr": "sha33il id-daffāya, il-bard yāsir.",
     "ex_en": "Turn on the heater, it's very cold.",
-    "note": "pl. دفايات."
+    "note": "pl. دفايات.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "طفّي الدفاية قبل ما ترقد",
+        "tr": "Taffi d-daffāya gabl ma tirgud",
+        "en": "Turn off the heater before you sleep."
+      },
+      {
+        "ar": "دفاية غاز",
+        "tr": "daffāyat gāz",
+        "en": "a gas heater"
+      }
+    ]
   },
   {
     "ar": "مروحة",
@@ -5778,7 +6298,20 @@
     "ex_ar": "المروحة ما تكفيش في الصيف.",
     "ex_tr": "il-marwa7a ma tkaffīsh fi S-Sēf.",
     "ex_en": "A fan isn't enough in summer.",
-    "note": "pl. مراوح mrāwi7."
+    "note": "pl. مراوح mrāwi7.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "شعّل المروحة",
+        "tr": "sha33il il-marwa7a",
+        "en": "Turn on the fan."
+      },
+      {
+        "ar": "المروحة تهدر",
+        "tr": "il-marwa7a tahdir",
+        "en": "The fan is noisy."
+      }
+    ]
   },
   {
     "ar": "فرن",
@@ -5791,7 +6324,20 @@
     "ex_ar": "حط الكيكة في الفرن.",
     "ex_tr": "7uTT il-kēka fi l-furn.",
     "ex_en": "Put the cake in the oven.",
-    "note": "pl. أفران afrān."
+    "note": "pl. أفران afrān.",
+    "usage": 46,
+    "phrases": [
+      {
+        "ar": "خبزة من الفرن",
+        "tr": "khubza min il-furn",
+        "en": "bread from the oven"
+      },
+      {
+        "ar": "الفرن سخون، رد بالك",
+        "tr": "il-furn skhūn, rudd bālik",
+        "en": "The oven is hot, be careful."
+      }
+    ]
   },
   {
     "ar": "ضو",
@@ -5804,7 +6350,20 @@
     "ex_ar": "الضو مقطوع من الصبح.",
     "ex_tr": "iD-Daw magTū3 min iS-Sbā7.",
     "ex_en": "The power has been out since morning.",
-    "note": "Libyan: الضو = the electricity supply as well as light. pl. أضواء aDwā'."
+    "note": "Libyan: الضو = the electricity supply as well as light. pl. أضواء aDwā'.",
+    "usage": 78,
+    "phrases": [
+      {
+        "ar": "شعّل الضو",
+        "tr": "sha33il iD-Daw",
+        "en": "Turn on the light."
+      },
+      {
+        "ar": "الضو رجع",
+        "tr": "iD-Daw rja3",
+        "en": "The power is back."
+      }
+    ]
   },
   {
     "ar": "لمبة",
@@ -5817,7 +6376,20 @@
     "ex_ar": "اللمبة تحرقت، بدّلها.",
     "ex_tr": "il-lamba t7argat, baddilha.",
     "ex_en": "The bulb has burnt out, change it.",
-    "note": "From Italian lampada. pl. لمبات."
+    "note": "From Italian lampada. pl. لمبات.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "لمبة جديدة",
+        "tr": "lamba jdīda",
+        "en": "a new light bulb"
+      },
+      {
+        "ar": "طفّي اللمبة",
+        "tr": "Taffi l-lamba",
+        "en": "Turn off the lamp."
+      }
+    ]
   },
   {
     "ar": "بريزة",
@@ -5830,7 +6402,20 @@
     "ex_ar": "الشاحن في البريزة.",
     "ex_tr": "ish-shāHin fi l-brīza.",
     "ex_en": "The charger is in the socket.",
-    "note": "From Italian presa. pl. بريزات."
+    "note": "From Italian presa. pl. بريزات.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "البريزة هذي خربانة",
+        "tr": "il-brīza hādhi kharbāna",
+        "en": "This socket is broken."
+      },
+      {
+        "ar": "حط الشاحن في البريزة",
+        "tr": "7uTT ish-shā7in fil-brīza",
+        "en": "Plug the charger into the socket."
+      }
+    ]
   },
   {
     "ar": "سجادة",
@@ -5843,7 +6428,20 @@
     "ex_ar": "السجادة هذي من صنع يدوي.",
     "ex_tr": "is-sajjāda hādhi min Sun3 yadawi.",
     "ex_en": "This carpet is handmade.",
-    "note": "pl. سجاجيد sjājīd. Also 'prayer rug'."
+    "note": "pl. سجاجيد sjājīd. Also 'prayer rug'.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "سجادة الصلاة",
+        "tr": "sajjādat iS-Salā",
+        "en": "the prayer mat"
+      },
+      {
+        "ar": "نفّض السجادة",
+        "tr": "naffiD is-sajjāda",
+        "en": "Shake out the rug."
+      }
+    ]
   },
   {
     "ar": "كليم",
@@ -5856,7 +6454,20 @@
     "ex_ar": "الكليم هذا جابته جدتي من الجبل.",
     "ex_tr": "il-klīm hādha jābitah jiddti min ij-jbal.",
     "ex_en": "My grandmother brought this kilim from the mountains.",
-    "note": "pl. كلايم klāyim. Traditional Libyan woven rug."
+    "note": "pl. كلايم klāyim. Traditional Libyan woven rug.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "كليم ملوّن",
+        "tr": "klīm mlawwan",
+        "en": "a colourful kilim"
+      },
+      {
+        "ar": "فرشنا الكليم في المربوعة",
+        "tr": "farashna l-klīm fil-marbū3a",
+        "en": "We spread the kilim in the guest room."
+      }
+    ]
   },
   {
     "ar": "موكيت",
@@ -5869,7 +6480,20 @@
     "ex_ar": "نحّينا الموكيت وحطينا رخام.",
     "ex_tr": "na77ēna l-mūkēt u 7aTTēna rkhām.",
     "ex_en": "We removed the carpet and put down marble.",
-    "note": "From French moquette."
+    "note": "From French moquette.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "الموكيت فيه غبرة",
+        "tr": "il-mūkēt fīh ghabra",
+        "en": "The carpet is dusty."
+      },
+      {
+        "ar": "موكيت جديد للبيت",
+        "tr": "mūkēt jdīd lil-bēt",
+        "en": "new carpeting for the room"
+      }
+    ]
   },
   {
     "ar": "حنفية",
@@ -5882,7 +6506,20 @@
     "ex_ar": "الحنفية تقطّر طول الليل.",
     "ex_tr": "il-7anafiyya tgaTTir Tūl il-lēl.",
     "ex_en": "The tap drips all night.",
-    "note": "pl. حنفيات."
+    "note": "pl. حنفيات.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "سكّر الحنفية",
+        "tr": "sakkir il-7anafiyya",
+        "en": "Turn off the tap."
+      },
+      {
+        "ar": "الحنفية ما فيهاش ما",
+        "tr": "il-7anafiyya ma fīhāsh ma",
+        "en": "There's no water in the tap."
+      }
+    ]
   },
   {
     "ar": "دوش",
@@ -5895,7 +6532,20 @@
     "ex_ar": "نبي ناخذ دوش.",
     "ex_tr": "nibbi nākhudh dūsh.",
     "ex_en": "I want to take a shower.",
-    "note": "From French douche."
+    "note": "From French douche.",
+    "usage": 50,
+    "phrases": [
+      {
+        "ar": "الدوش سخون؟",
+        "tr": "id-dūsh skhūn?",
+        "en": "Is the shower hot?"
+      },
+      {
+        "ar": "خذيت دوش وطلعت",
+        "tr": "khdhēt dūsh w Tla3t",
+        "en": "I had a shower and went out."
+      }
+    ]
   },
   {
     "ar": "فوطة",
@@ -5908,7 +6558,20 @@
     "ex_ar": "عطيني فوطة نشف بيها.",
     "ex_tr": "3Tīni fūTa nnashshif bīha.",
     "ex_en": "Give me a towel to dry off with.",
-    "note": "pl. فوط fuwaT."
+    "note": "pl. فوط fuwaT.",
+    "usage": 48,
+    "phrases": [
+      {
+        "ar": "فوطة نظيفة",
+        "tr": "fūTa nDHīfa",
+        "en": "a clean towel"
+      },
+      {
+        "ar": "الفوطة مبلولة",
+        "tr": "il-fūTa mablūla",
+        "en": "The towel is wet."
+      }
+    ]
   },
   {
     "ar": "صابون",
@@ -5921,7 +6584,20 @@
     "ex_ar": "اغسل يديك بالصابون.",
     "ex_tr": "ighsil yiddēk bi S-Sābūn.",
     "ex_en": "Wash your hands with soap.",
-    "note": "A bar = صابونة Sābūna."
+    "note": "A bar = صابونة Sābūna.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "صابون الحوايج",
+        "tr": "Sābūn il-7wāyij",
+        "en": "laundry soap"
+      },
+      {
+        "ar": "الصابون خلص",
+        "tr": "iS-Sābūn khlaS",
+        "en": "The soap has run out."
+      }
+    ]
   },
   {
     "ar": "مكنسة",
@@ -5934,7 +6610,20 @@
     "ex_ar": "جيب المكنسة ننظفوا الحوش.",
     "ex_tr": "jīb il-mukunsa nnaDHDHfu l-7ōsh.",
     "ex_en": "Bring the broom, let's clean the house.",
-    "note": "pl. مكانس mkānis."
+    "note": "pl. مكانس mkānis.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "مكنسة كهربا",
+        "tr": "mukunsat kahraba",
+        "en": "a vacuum cleaner"
+      },
+      {
+        "ar": "المكنسة ورا الباب",
+        "tr": "il-mukunsa wra l-bāb",
+        "en": "The broom is behind the door."
+      }
+    ]
   },
   {
     "ar": "سطل",
@@ -5947,7 +6636,20 @@
     "ex_ar": "عبّي السطل بالما.",
     "ex_tr": "3abbi s-saTl bi l-ma.",
     "ex_en": "Fill the bucket with water.",
-    "note": "pl. سطول sTūl."
+    "note": "pl. سطول sTūl.",
+    "usage": 36,
+    "phrases": [
+      {
+        "ar": "سطل ما",
+        "tr": "saTl ma",
+        "en": "a bucket of water"
+      },
+      {
+        "ar": "السطل مليان",
+        "tr": "is-saTl malyān",
+        "en": "The bucket is full."
+      }
+    ]
   },
   {
     "ar": "زبلة",
@@ -5960,7 +6662,20 @@
     "ex_ar": "طلّع الزبلة برا.",
     "ex_tr": "Talla3 iz-zibla barra.",
     "ex_en": "Take the rubbish out.",
-    "note": "Libyan/Maghrebi word. Bin = صندوق الزبلة."
+    "note": "Libyan/Maghrebi word. Bin = صندوق الزبلة.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "كيس الزبلة",
+        "tr": "kīs iz-zibla",
+        "en": "the rubbish bag"
+      },
+      {
+        "ar": "ما ترميش الزبلة في الشارع",
+        "tr": "ma tirmīsh iz-zibla fish-shāri3",
+        "en": "Don't throw rubbish in the street."
+      }
+    ]
   },
   {
     "ar": "مكواة",
@@ -5973,7 +6688,20 @@
     "ex_ar": "المكواة سخونة، رد بالك.",
     "ex_tr": "il-makwa skhūna, rudd bālak.",
     "ex_en": "The iron is hot, be careful.",
-    "note": "pl. مكاوي mkāwi."
+    "note": "pl. مكاوي mkāwi.",
+    "usage": 34,
+    "phrases": [
+      {
+        "ar": "كوّي القميجة بالمكواة",
+        "tr": "kawwi l-gmīja bil-makwa",
+        "en": "Iron the shirt with the iron."
+      },
+      {
+        "ar": "طفّي المكواة",
+        "tr": "Taffi l-makwa",
+        "en": "Switch off the iron."
+      }
+    ]
   },
   {
     "ar": "خزان",
@@ -5986,7 +6714,20 @@
     "ex_ar": "الخزان اللي على السطح فاضي.",
     "ex_tr": "il-khazzān illi 3ala s-sTa7 fāDi.",
     "ex_en": "The tank on the roof is empty.",
-    "note": "pl. خزانات. Many Libyan homes store water in roof tanks."
+    "note": "pl. خزانات. Many Libyan homes store water in roof tanks.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "الخزان مليان ما",
+        "tr": "il-khazzān malyān ma",
+        "en": "The tank is full of water."
+      },
+      {
+        "ar": "عبّي الخزان",
+        "tr": "3abbi l-khazzān",
+        "en": "Fill the tank."
+      }
+    ]
   },
   {
     "ar": "جرس",
@@ -5999,7 +6740,20 @@
     "ex_ar": "حد ضرب الجرس.",
     "ex_tr": "7add Darab ij-jaras.",
     "ex_en": "Someone rang the doorbell.",
-    "note": "pl. أجراس ajrās."
+    "note": "pl. أجراس ajrās.",
+    "usage": 44,
+    "phrases": [
+      {
+        "ar": "الجرس يضرب",
+        "tr": "ij-jaras yiDrab",
+        "en": "The bell is ringing."
+      },
+      {
+        "ar": "اضرب الجرس",
+        "tr": "iDrab ij-jaras",
+        "en": "Ring the bell."
+      }
+    ]
   },
   {
     "ar": "بوابة",
@@ -6012,7 +6766,20 @@
     "ex_ar": "البوابة الحديد تبي دهان.",
     "ex_tr": "il-bawwāba l-7dīd tibbi dhān.",
     "ex_en": "The iron gate needs painting.",
-    "note": "pl. بوابات."
+    "note": "pl. بوابات.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "حل البوابة للسيارة",
+        "tr": "7ill il-bawwāba lis-sayyāra",
+        "en": "Open the gate for the car."
+      },
+      {
+        "ar": "البوابة مسكّرة",
+        "tr": "il-bawwāba msakkra",
+        "en": "The gate is shut."
+      }
+    ]
   },
   {
     "ar": "شمعة",
@@ -6025,7 +6792,20 @@
     "ex_ar": "شعّل شمعة، الضو مقطوع.",
     "ex_tr": "sha33il sham3a, iD-Daw magTū3.",
     "ex_en": "Light a candle, the power's out.",
-    "note": "pl. شموع shmū3."
+    "note": "pl. شموع shmū3.",
+    "usage": 40,
+    "phrases": [
+      {
+        "ar": "شمعة عيد الميلاد",
+        "tr": "sham3at 3īd il-mīlād",
+        "en": "a birthday candle"
+      },
+      {
+        "ar": "طفّي الشمعة",
+        "tr": "Taffi sh-sham3a",
+        "en": "Blow out the candle."
+      }
+    ]
   },
   {
     "ar": "براد",
@@ -6038,7 +6818,20 @@
     "ex_ar": "حط البراد على النار.",
     "ex_tr": "7uTT il-barrād 3ala n-nār.",
     "ex_en": "Put the teapot on the fire.",
-    "note": "pl. برارد brārid / برادات. Central to Libyan tea (شاهي) culture."
+    "note": "pl. برارد brārid / برادات. Central to Libyan tea (شاهي) culture.",
+    "usage": 54,
+    "phrases": [
+      {
+        "ar": "براد شاهي أحمر",
+        "tr": "barrād shāhi a7mar",
+        "en": "a pot of red tea"
+      },
+      {
+        "ar": "البراد فاضي، دير غيره",
+        "tr": "il-barrād fāDi, dīr ghēra",
+        "en": "The teapot is empty, make another."
+      }
+    ]
   },
   {
     "ar": "كاس",
@@ -6051,7 +6844,20 @@
     "ex_ar": "عطيني كاس ما.",
     "ex_tr": "3Tīni kās ma.",
     "ex_en": "Give me a glass of water.",
-    "note": "pl. كيسان kīsān / كاسات."
+    "note": "pl. كيسان kīsān / كاسات.",
+    "usage": 76,
+    "phrases": [
+      {
+        "ar": "كاس شاهي",
+        "tr": "kās shāhi",
+        "en": "a glass of tea"
+      },
+      {
+        "ar": "الكاس تكسر",
+        "tr": "il-kās tkassar",
+        "en": "The glass broke."
+      }
+    ]
   },
   {
     "ar": "صحن",
@@ -6064,7 +6870,20 @@
     "ex_ar": "غسلت الصحون بعد الغدا.",
     "ex_tr": "ghsalt iS-S7ūn ba3d il-ghda.",
     "ex_en": "I washed the dishes after lunch.",
-    "note": "pl. صحون S7ūn."
+    "note": "pl. صحون S7ūn.",
+    "usage": 68,
+    "phrases": [
+      {
+        "ar": "صحن كسكسي",
+        "tr": "Sa7n kuskusi",
+        "en": "a plate of couscous"
+      },
+      {
+        "ar": "جيب صحن ثاني",
+        "tr": "jīb Sa7n thāni",
+        "en": "Bring another plate."
+      }
+    ]
   },
   {
     "ar": "طنجرة",
@@ -6077,7 +6896,20 @@
     "ex_ar": "الطنجرة الكبيرة للعزايم.",
     "ex_tr": "iT-Tanjra l-kbīra li l-3zāyim.",
     "ex_en": "The big pot is for feasts.",
-    "note": "pl. طناجر Tnājir. Maghrebi word."
+    "note": "pl. طناجر Tnājir. Maghrebi word.",
+    "usage": 42,
+    "phrases": [
+      {
+        "ar": "طنجرة الضغط",
+        "tr": "Tanjrat iD-DaghT",
+        "en": "the pressure cooker"
+      },
+      {
+        "ar": "الطنجرة على النار",
+        "tr": "iT-Tanjra 3ala n-nār",
+        "en": "The pot is on the stove."
+      }
+    ]
   },
   {
     "ar": "سكينة",
@@ -6090,7 +6922,20 @@
     "ex_ar": "رد بالك، السكينة حادة.",
     "ex_tr": "rudd bālak, is-sikkīna 7ādda.",
     "ex_en": "Careful, the knife is sharp.",
-    "note": "pl. سكاكين skākīn."
+    "note": "pl. سكاكين skākīn.",
+    "usage": 56,
+    "phrases": [
+      {
+        "ar": "عطيني السكينة",
+        "tr": "3Tīni s-sikkīna",
+        "en": "Give me the knife."
+      },
+      {
+        "ar": "السكينة ما تقصش",
+        "tr": "is-sikkīna ma tguSSsh",
+        "en": "The knife doesn't cut."
+      }
+    ]
   },
   {
     "ar": "كرا",
@@ -6103,7 +6948,20 @@
     "ex_ar": "كرا الشقة غالي في طرابلس.",
     "ex_tr": "kra sh-shigga ghāli fi Trāblus.",
     "ex_en": "Apartment rent is expensive in Tripoli.",
-    "note": "Verb: كرى kra 'to rent'."
+    "note": "Verb: كرى kra 'to rent'.",
+    "usage": 52,
+    "phrases": [
+      {
+        "ar": "قداش الكرا في الشهر؟",
+        "tr": "gaddāsh il-kra fish-shahar?",
+        "en": "How much is the rent a month?"
+      },
+      {
+        "ar": "حوش بالكرا",
+        "tr": "7ōsh bil-kra",
+        "en": "a rented house"
+      }
+    ]
   },
   {
     "ar": "رخام",
@@ -6116,6 +6974,19 @@
     "ex_ar": "أرضية الحوش كلها رخام.",
     "ex_tr": "arDiyyit il-7ōsh kullha rkhām.",
     "ex_en": "The whole house floor is marble.",
-    "note": "Collective noun; one slab = رخامة."
+    "note": "Collective noun; one slab = رخامة.",
+    "usage": 30,
+    "phrases": [
+      {
+        "ar": "رخام إيطالي",
+        "tr": "rkhām iTāli",
+        "en": "Italian marble"
+      },
+      {
+        "ar": "الرخام بارد في الشتا",
+        "tr": "ir-rkhām bārid fish-shta",
+        "en": "Marble is cold in winter."
+      }
+    ]
   }
 ]
