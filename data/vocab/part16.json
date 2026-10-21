@@ -3467,32 +3467,6 @@
     ]
   },
   {
-    "ar": "جمّار",
-    "tr": "jummār",
-    "en": "palm heart",
-    "msa": "جمّار",
-    "pos": "noun",
-    "cat": "agriculture",
-    "freq": 5,
-    "usage": 18,
-    "ex_ar": "كلينا جمّار من النخلة اللي قطعوها.",
-    "ex_tr": "klēna jummār min in-nakhla illi gaT3ūha.",
-    "ex_en": "We ate palm heart from the palm they cut down.",
-    "note": "The edible white core of a palm, eaten when a palm is cut.",
-    "phrases": [
-      {
-        "ar": "جمار أبيض",
-        "tr": "jummār abyaD",
-        "en": "white palm heart"
-      },
-      {
-        "ar": "طعم الجمار حلو",
-        "tr": "Ta3m ij-jummār 7lu",
-        "en": "palm heart tastes sweet"
-      }
-    ]
-  },
-  {
     "ar": "ليف",
     "tr": "līf",
     "en": "palm fibre; loofah",
@@ -6297,7 +6271,7 @@
   {
     "ar": "خرطوم",
     "tr": "khurTūm",
-    "en": "trunk (of an elephant); hose",
+    "en": "trunk (of an elephant)",
     "msa": "خرطوم",
     "pos": "noun",
     "cat": "animals",
@@ -6306,7 +6280,7 @@
     "ex_ar": "الفيل يشرب بخرطومه.",
     "ex_tr": "il-fīl yishrab b-khurTūmah.",
     "ex_en": "The elephant drinks with its trunk.",
-    "note": "pl. خراطيم khrāTīm. Also a garden/water hose.",
+    "note": "pl. خراطيم khrāTīm. The same word is used for a water hose.",
     "phrases": [
       {
         "ar": "خرطوم الفيل",
@@ -6314,9 +6288,9 @@
         "en": "the elephant's trunk"
       },
       {
-        "ar": "خرطوم مية",
-        "tr": "khurTūm mayya",
-        "en": "a water hose"
+        "ar": "رفع خرطومه",
+        "tr": "rfa3 khurTūmah",
+        "en": "it raised its trunk"
       }
     ]
   },
@@ -6658,6 +6632,1007 @@
         "ar": "هذا الشبل من ذاك الأسد",
         "tr": "hādha sh-shibl min dhāk il-asad",
         "en": "like father, like son"
+      }
+    ]
+  },
+  {
+    "ar": "ورقة",
+    "tr": "warga",
+    "en": "leaf",
+    "msa": "ورقة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 48,
+    "ex_ar": "أوراق الشجر طاحت في الخريف.",
+    "ex_tr": "awrāg ish-shajar Ta7at fil-kharīf.",
+    "ex_en": "The leaves fell in autumn.",
+    "note": "pl. ورق warg (collective) / أوراق awrāg. Same word as \"sheet of paper\".",
+    "phrases": [
+      {
+        "ar": "ورق الزيتون",
+        "tr": "warg iz-zītūn",
+        "en": "olive leaves"
+      },
+      {
+        "ar": "ورقة خضرا",
+        "tr": "warga khaDra",
+        "en": "a green leaf"
+      }
+    ]
+  },
+  {
+    "ar": "غصن",
+    "tr": "ghuSn",
+    "en": "branch; twig",
+    "msa": "غصن",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "الريح كسّرت غصن من الشجرة.",
+    "ex_tr": "ir-rī7 kassrat ghuSn min ish-shajra.",
+    "ex_en": "The wind broke a branch off the tree.",
+    "note": "pl. أغصان aghSān. Also فرع far3.",
+    "phrases": [
+      {
+        "ar": "غصن زيتون",
+        "tr": "ghuSn zītūn",
+        "en": "an olive branch"
+      },
+      {
+        "ar": "أغصان يابسة",
+        "tr": "aghSān yābsa",
+        "en": "dry branches"
+      }
+    ]
+  },
+  {
+    "ar": "جذر",
+    "tr": "jidhr",
+    "en": "root",
+    "msa": "جذر",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "جذور الشجرة كسّرت الحيط.",
+    "ex_tr": "jdhūr ish-shajra kassrat il-7ēT.",
+    "ex_en": "The tree's roots cracked the wall.",
+    "note": "pl. جذور jdhūr. Libyans also say عروق 3rūg for roots.",
+    "phrases": [
+      {
+        "ar": "من الجذور",
+        "tr": "min ij-jdhūr",
+        "en": "from the roots"
+      },
+      {
+        "ar": "جذور عميقة",
+        "tr": "jdhūr 3amīga",
+        "en": "deep roots"
+      }
+    ]
+  },
+  {
+    "ar": "جذع",
+    "tr": "jidh3",
+    "en": "tree trunk",
+    "msa": "جذع",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 22,
+    "ex_ar": "جذع الزيتونة هذي عمره مية عام.",
+    "ex_tr": "jidh3 iz-zītūna hādhi 3umrah miyyat 3ām.",
+    "ex_en": "This olive trunk is a hundred years old.",
+    "note": "pl. جذوع jdhū3.",
+    "phrases": [
+      {
+        "ar": "جذع النخلة",
+        "tr": "jidh3 in-nakhla",
+        "en": "the palm trunk"
+      },
+      {
+        "ar": "جذع غليظ",
+        "tr": "jidh3 ghlīDH",
+        "en": "a thick trunk"
+      }
+    ]
+  },
+  {
+    "ar": "شوك",
+    "tr": "shōk",
+    "en": "thorns; prickles; fish bones",
+    "msa": "شوك",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 38,
+    "ex_ar": "الهندي فيه شوك، ردّ بالك.",
+    "ex_tr": "il-hindi fīh shōk, rudd bālik.",
+    "ex_en": "Prickly pears have thorns, be careful.",
+    "note": "One = شوكة shōka (also a fork). Fish bones are also شوك.",
+    "phrases": [
+      {
+        "ar": "شوكة في رجلي",
+        "tr": "shōka fi rijli",
+        "en": "a thorn in my foot"
+      },
+      {
+        "ar": "شوك الحوت",
+        "tr": "shōk il-7ūt",
+        "en": "fish bones"
+      },
+      {
+        "ar": "ورد بلا شوك",
+        "tr": "ward bla shōk",
+        "en": "roses without thorns"
+      }
+    ]
+  },
+  {
+    "ar": "نوّار",
+    "tr": "nuwwār",
+    "en": "blossoms; flowers",
+    "msa": "نوار",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "الربيع جا والنوّار طالع في البر.",
+    "ex_tr": "ir-rbī3 ja w-in-nuwwār Tāli3 fil-barr.",
+    "ex_en": "Spring has come and flowers are out in the countryside.",
+    "note": "Maghrebi collective for flowers/blossom; one = نوّارة nuwwāra.",
+    "phrases": [
+      {
+        "ar": "نوّار اللوز",
+        "tr": "nuwwār il-lūz",
+        "en": "almond blossom"
+      },
+      {
+        "ar": "نوّار ملون",
+        "tr": "nuwwār mlawwan",
+        "en": "colourful flowers"
+      }
+    ]
+  },
+  {
+    "ar": "ياسمين",
+    "tr": "yāsmīn",
+    "en": "jasmine",
+    "msa": "ياسمين",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "ريحة الياسمين مالية الحوش.",
+    "ex_tr": "rī7at il-yāsmīn mālya l-7ōsh.",
+    "ex_en": "The scent of jasmine fills the house.",
+    "note": "Also a girl's name.",
+    "phrases": [
+      {
+        "ar": "شجرة ياسمين",
+        "tr": "shajrat yāsmīn",
+        "en": "a jasmine bush"
+      },
+      {
+        "ar": "عطر ياسمين",
+        "tr": "3iTr yāsmīn",
+        "en": "jasmine perfume"
+      }
+    ]
+  },
+  {
+    "ar": "فل",
+    "tr": "full",
+    "en": "Arabian jasmine (white scented flowers)",
+    "msa": "فل",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "شرى مشموم فل من البياع.",
+    "ex_tr": "shra mashmūm full min il-biyyā3.",
+    "ex_en": "He bought a bunch of jasmine from the vendor.",
+    "note": "Much loved in Libya: men wear a sprig of فل behind the ear, and it is sold in small bunches (مشموم) in summer.",
+    "phrases": [
+      {
+        "ar": "مشموم فل",
+        "tr": "mashmūm full",
+        "en": "a posy of jasmine"
+      },
+      {
+        "ar": "ريحة الفل",
+        "tr": "rī7at il-full",
+        "en": "the scent of jasmine"
+      },
+      {
+        "ar": "فل على وذنه",
+        "tr": "full 3la wdhnah",
+        "en": "jasmine behind his ear"
+      }
+    ]
+  },
+  {
+    "ar": "مسك الليل",
+    "tr": "misk il-lēl",
+    "en": "night-blooming jasmine",
+    "msa": "مسك الليل",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 22,
+    "ex_ar": "مسك الليل يفوح بعد المغرب.",
+    "ex_tr": "misk il-lēl yfū7 ba3d il-maghrib.",
+    "ex_en": "The night jasmine releases its scent after sunset.",
+    "note": "Courtyard shrub whose scent fills summer nights.",
+    "phrases": [
+      {
+        "ar": "شجرة مسك الليل",
+        "tr": "shajrat misk il-lēl",
+        "en": "a night jasmine shrub"
+      },
+      {
+        "ar": "ريحة مسك الليل",
+        "tr": "rī7at misk il-lēl",
+        "en": "the scent of night jasmine"
+      }
+    ]
+  },
+  {
+    "ar": "نرجس",
+    "tr": "narjis",
+    "en": "narcissus; daffodil",
+    "msa": "نرجس",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "النرجس يطلع في آخر الشتا.",
+    "ex_tr": "in-narjis yiTla3 fi ākhir ish-shta.",
+    "ex_en": "Narcissus blooms at the end of winter.",
+    "note": "Also a girl's name.",
+    "phrases": [
+      {
+        "ar": "وردة نرجس",
+        "tr": "wardat narjis",
+        "en": "a narcissus flower"
+      },
+      {
+        "ar": "عيون النرجس",
+        "tr": "3yūn in-narjis",
+        "en": "narcissus eyes (poetic)"
+      }
+    ]
+  },
+  {
+    "ar": "عبّاد الشمس",
+    "tr": "3abbād ish-shams",
+    "en": "sunflower",
+    "msa": "عبّاد الشمس",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "زرعنا عباد الشمس جنب السور.",
+    "ex_tr": "zra3na 3abbād ish-shams jamb is-sūr.",
+    "ex_en": "We planted sunflowers by the wall.",
+    "note": "The roasted seeds are sold as قلوب.",
+    "phrases": [
+      {
+        "ar": "زيت عباد الشمس",
+        "tr": "zēt 3abbād ish-shams",
+        "en": "sunflower oil"
+      },
+      {
+        "ar": "زريعة عباد الشمس",
+        "tr": "zrī3at 3abbād ish-shams",
+        "en": "sunflower seeds"
+      }
+    ]
+  },
+  {
+    "ar": "حرمل",
+    "tr": "7armal",
+    "en": "harmal; wild rue",
+    "msa": "حرمل",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 22,
+    "ex_ar": "أمي تبخّر الحوش بالحرمل.",
+    "ex_tr": "ummi tbakhkhir il-7ōsh bil-7armal.",
+    "ex_en": "My mother fumigates the house with harmal.",
+    "note": "Desert plant whose seeds are burned as incense against the evil eye.",
+    "phrases": [
+      {
+        "ar": "بخور الحرمل",
+        "tr": "bkhūr il-7armal",
+        "en": "harmal incense"
+      },
+      {
+        "ar": "حرمل للعين",
+        "tr": "7armal lil-3ēn",
+        "en": "harmal against the evil eye"
+      }
+    ]
+  },
+  {
+    "ar": "شيح",
+    "tr": "shī7",
+    "en": "wormwood; white artemisia",
+    "msa": "شيح",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "حط شوية شيح في الشاهي للكرشة.",
+    "ex_tr": "7uTT shwayya shī7 fish-shāhi lil-karsha.",
+    "ex_en": "Put a little wormwood in the tea for your stomach.",
+    "note": "Bitter desert herb; added to tea and used as a folk remedy.",
+    "phrases": [
+      {
+        "ar": "شاهي بالشيح",
+        "tr": "shāhi bish-shī7",
+        "en": "tea with wormwood"
+      },
+      {
+        "ar": "مر زي الشيح",
+        "tr": "murr zayy ish-shī7",
+        "en": "bitter as wormwood"
+      }
+    ]
+  },
+  {
+    "ar": "حلفا",
+    "tr": "7alfa",
+    "en": "esparto grass",
+    "msa": "حلفاء",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 20,
+    "ex_ar": "جدتي تنسج القفف من الحلفا.",
+    "ex_tr": "jaddti tinsij il-gufaf min il-7alfa.",
+    "ex_en": "My grandmother weaves baskets from esparto.",
+    "note": "Tough grass used to weave mats, baskets and ropes; once a major Libyan export.",
+    "phrases": [
+      {
+        "ar": "حصيرة حلفا",
+        "tr": "7aSīrat 7alfa",
+        "en": "an esparto mat"
+      },
+      {
+        "ar": "حبل حلفا",
+        "tr": "7abl 7alfa",
+        "en": "an esparto rope"
+      }
+    ]
+  },
+  {
+    "ar": "رتم",
+    "tr": "rtam",
+    "en": "white broom (desert shrub)",
+    "msa": "رتم",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 16,
+    "ex_ar": "الوادي مليان رتم.",
+    "ex_tr": "il-wādi malyān rtam.",
+    "ex_en": "The wadi is full of broom bushes.",
+    "note": "Common shrub of Libyan wadis; used as firewood and fodder.",
+    "phrases": [
+      {
+        "ar": "حطب الرتم",
+        "tr": "7aTab ir-rtam",
+        "en": "broom firewood"
+      },
+      {
+        "ar": "ورد الرتم",
+        "tr": "ward ir-rtam",
+        "en": "broom blossoms"
+      }
+    ]
+  },
+  {
+    "ar": "طلح",
+    "tr": "Tal7",
+    "en": "acacia (desert tree)",
+    "msa": "طلح",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "قعدنا في ظل طلحة في الصحرا.",
+    "ex_tr": "ga3adna fi Dhill Tal7a fiS-Sa7ra.",
+    "ex_en": "We sat in the shade of an acacia in the desert.",
+    "note": "Thorny acacia of the southern desert; one = طلحة Tal7a.",
+    "phrases": [
+      {
+        "ar": "شجر الطلح",
+        "tr": "shajar iT-Tal7",
+        "en": "acacia trees"
+      },
+      {
+        "ar": "شوك الطلح",
+        "tr": "shōk iT-Tal7",
+        "en": "acacia thorns"
+      }
+    ]
+  },
+  {
+    "ar": "سدر",
+    "tr": "sidr",
+    "en": "lote tree; Christ's thorn jujube",
+    "msa": "سدر",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 22,
+    "ex_ar": "عسل السدر غالي هلبة.",
+    "ex_tr": "3asal is-sidr ghāli hallba.",
+    "ex_en": "Sidr honey is very expensive.",
+    "note": "Its leaves are traditionally used to wash the dead and as a hair rinse; its honey (عسل السدر) is prized.",
+    "phrases": [
+      {
+        "ar": "عسل السدر",
+        "tr": "3asal is-sidr",
+        "en": "sidr honey"
+      },
+      {
+        "ar": "ورق السدر",
+        "tr": "warg is-sidr",
+        "en": "lote-tree leaves"
+      }
+    ]
+  },
+  {
+    "ar": "أثل",
+    "tr": "athl",
+    "en": "tamarisk",
+    "msa": "أثل",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "زرعوا الأثل حول السانية يصد الريح.",
+    "ex_tr": "zra3u l-athl 7ōl is-sānya yuSidd ir-rī7.",
+    "ex_en": "They planted tamarisk round the farm to block the wind.",
+    "note": "Hardy tree planted as windbreaks in oases and along roads.",
+    "phrases": [
+      {
+        "ar": "شجرة أثل",
+        "tr": "shajrat athl",
+        "en": "a tamarisk tree"
+      },
+      {
+        "ar": "ظل الأثل",
+        "tr": "Dhill il-athl",
+        "en": "the shade of the tamarisk"
+      }
+    ]
+  },
+  {
+    "ar": "عرعار",
+    "tr": "3ar3ār",
+    "en": "juniper",
+    "msa": "عرعر",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "العرعار يكثر في الجبل الأخضر.",
+    "ex_tr": "il-3ar3ār yikthar fij-jbal il-akhDar.",
+    "ex_en": "Juniper is common in the Green Mountain.",
+    "note": "Grows in the Green Mountain (الجبل الأخضر).",
+    "phrases": [
+      {
+        "ar": "خشب العرعار",
+        "tr": "khashab il-3ar3ār",
+        "en": "juniper wood"
+      },
+      {
+        "ar": "ريحة العرعار",
+        "tr": "rī7at il-3ar3ār",
+        "en": "the smell of juniper"
+      }
+    ]
+  },
+  {
+    "ar": "خرّوب",
+    "tr": "kharrūb",
+    "en": "carob",
+    "msa": "خرّوب",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "رب الخروب بنين مع العصيدة.",
+    "ex_tr": "rubb il-kharrūb bnīn ma3 il-3aSīda.",
+    "ex_en": "Carob syrup is tasty with 3aSīda.",
+    "note": "The tree and its pods; carob syrup (رب الخروب) is a Libyan favourite.",
+    "phrases": [
+      {
+        "ar": "رب الخروب",
+        "tr": "rubb il-kharrūb",
+        "en": "carob syrup"
+      },
+      {
+        "ar": "شجرة خروب",
+        "tr": "shajrat kharrūb",
+        "en": "a carob tree"
+      }
+    ]
+  },
+  {
+    "ar": "بطّوم",
+    "tr": "baTTūm",
+    "en": "terebinth; wild pistachio",
+    "msa": "بطم",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 16,
+    "ex_ar": "فيه شجر بطوم قديم في الجبل.",
+    "ex_tr": "fīh shajar baTTūm gdīm fij-jbal.",
+    "ex_en": "There are old terebinth trees in the mountains.",
+    "note": "Tree of the Libyan hills; its small fruits were eaten and pressed for oil.",
+    "phrases": [
+      {
+        "ar": "حب البطوم",
+        "tr": "7abb il-baTTūm",
+        "en": "terebinth berries"
+      },
+      {
+        "ar": "شجرة بطوم",
+        "tr": "shajrat baTTūm",
+        "en": "a terebinth tree"
+      }
+    ]
+  },
+  {
+    "ar": "بلّوط",
+    "tr": "ballūT",
+    "en": "oak; acorns",
+    "msa": "بلّوط",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 16,
+    "ex_ar": "شجر البلوط عايش مية عام.",
+    "ex_tr": "shajar il-ballūT 3āyish miyyat 3ām.",
+    "ex_en": "Oak trees live a hundred years.",
+    "phrases": [
+      {
+        "ar": "خشب البلوط",
+        "tr": "khashab il-ballūT",
+        "en": "oak wood"
+      },
+      {
+        "ar": "حب البلوط",
+        "tr": "7abb il-ballūT",
+        "en": "acorns"
+      }
+    ]
+  },
+  {
+    "ar": "صنوبر",
+    "tr": "Sanawbar",
+    "en": "pine; pine nuts",
+    "msa": "صنوبر",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "غابة الصنوبر قريب البحر.",
+    "ex_tr": "ghābat iS-Sanawbar grīb il-ba7ar.",
+    "ex_en": "The pine forest is near the sea.",
+    "note": "Also the pine nuts used in sweets.",
+    "phrases": [
+      {
+        "ar": "شجرة صنوبر",
+        "tr": "shajrat Sanawbar",
+        "en": "a pine tree"
+      },
+      {
+        "ar": "حب الصنوبر",
+        "tr": "7abb iS-Sanawbar",
+        "en": "pine nuts"
+      }
+    ]
+  },
+  {
+    "ar": "سرو",
+    "tr": "sarw",
+    "en": "cypress",
+    "msa": "سرو",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 16,
+    "ex_ar": "شجر السرو طويل ورقيق.",
+    "ex_tr": "shajar is-sarw Twīl w-rgīg.",
+    "ex_en": "Cypress trees are tall and slender.",
+    "phrases": [
+      {
+        "ar": "شجرة سرو",
+        "tr": "shajrat sarw",
+        "en": "a cypress tree"
+      },
+      {
+        "ar": "طويلة زي السرو",
+        "tr": "Twīla zayy is-sarw",
+        "en": "tall and slim as a cypress"
+      }
+    ]
+  },
+  {
+    "ar": "كاليتوس",
+    "tr": "kalītūs",
+    "en": "eucalyptus",
+    "msa": "أوكالبتوس",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 22,
+    "ex_ar": "الطريق كلها شجر كاليتوس.",
+    "ex_tr": "iT-Trīg kullha shajar kalītūs.",
+    "ex_en": "The road is lined with eucalyptus trees.",
+    "note": "Planted along Libyan roads in the Italian era; leaves boiled for colds.",
+    "phrases": [
+      {
+        "ar": "ورق الكاليتوس",
+        "tr": "warg il-kalītūs",
+        "en": "eucalyptus leaves"
+      },
+      {
+        "ar": "بخار الكاليتوس للزكام",
+        "tr": "bkhār il-kalītūs liz-zukām",
+        "en": "eucalyptus steam for a cold"
+      }
+    ]
+  },
+  {
+    "ar": "صبّار",
+    "tr": "Sabbār",
+    "en": "cactus; aloe",
+    "msa": "صبّار",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 24,
+    "ex_ar": "السانية محاوطة بالصبار.",
+    "ex_tr": "is-sānya m7āwTa biS-Sabbār.",
+    "ex_en": "The farm is fenced with cactus.",
+    "note": "Prickly-pear hedges are a familiar sight around farms.",
+    "phrases": [
+      {
+        "ar": "صبار في طاسة",
+        "tr": "Sabbār fi Tāsa",
+        "en": "a cactus in a pot"
+      },
+      {
+        "ar": "جل الصبار",
+        "tr": "jēl iS-Sabbār",
+        "en": "aloe gel"
+      }
+    ]
+  },
+  {
+    "ar": "حبق",
+    "tr": "7bag",
+    "en": "basil",
+    "msa": "ريحان",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "أمي عندها طاسة حبق في الحوش.",
+    "ex_tr": "ummi 3indha Tāsat 7bag fil-7ōsh.",
+    "ex_en": "My mother has a pot of basil in the courtyard.",
+    "note": "Maghrebi word for sweet basil, often grown in a pot by the door.",
+    "phrases": [
+      {
+        "ar": "ريحة الحبق",
+        "tr": "rī7at il-7bag",
+        "en": "the smell of basil"
+      },
+      {
+        "ar": "ورق حبق",
+        "tr": "warg 7bag",
+        "en": "basil leaves"
+      }
+    ]
+  },
+  {
+    "ar": "دفلة",
+    "tr": "difla",
+    "en": "oleander",
+    "msa": "دفلى",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 18,
+    "ex_ar": "الدفلة حلوة بس سامة.",
+    "ex_tr": "id-difla 7lwa bass sāmma.",
+    "ex_en": "Oleander is pretty but poisonous.",
+    "note": "Common ornamental shrub in Libyan streets and wadis; poisonous.",
+    "phrases": [
+      {
+        "ar": "شجرة دفلة",
+        "tr": "shajrat difla",
+        "en": "an oleander bush"
+      },
+      {
+        "ar": "مر زي الدفلة",
+        "tr": "murr zayy id-difla",
+        "en": "bitter as oleander"
+      }
+    ]
+  },
+  {
+    "ar": "نبات",
+    "tr": "nabāt",
+    "en": "plant; vegetation",
+    "msa": "نبات",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "النباتات تحتاج شمس ومية.",
+    "ex_tr": "in-nabātāt ti7tāj shams w-mayya.",
+    "ex_en": "Plants need sun and water.",
+    "note": "pl. نباتات nabātāt. One plant: نبتة nabta.",
+    "phrases": [
+      {
+        "ar": "نباتات زينة",
+        "tr": "nabātāt zīna",
+        "en": "ornamental plants"
+      },
+      {
+        "ar": "نبتة صغيرة",
+        "tr": "nabta Sghayra",
+        "en": "a little plant"
+      }
+    ]
+  },
+  {
+    "ar": "ثمرة",
+    "tr": "thamra",
+    "en": "fruit (of a tree); result",
+    "msa": "ثمرة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "الشجرة هذي ما عطتش ثمار العام هذا.",
+    "ex_tr": "ish-shajra hādhi ma 3aTatsh thmār il-3ām hādha.",
+    "ex_en": "This tree didn't bear fruit this year.",
+    "note": "pl. ثمار thmār. Also figurative: ثمرة التعب = the fruit of hard work.",
+    "phrases": [
+      {
+        "ar": "ثمرة تعبه",
+        "tr": "thamrat ta3bah",
+        "en": "the fruit of his labour"
+      },
+      {
+        "ar": "ثمار الزيتون",
+        "tr": "thmār iz-zītūn",
+        "en": "the olive fruit"
+      }
+    ]
+  },
+  {
+    "ar": "أعشاب",
+    "tr": "a3shāb",
+    "en": "herbs; wild plants",
+    "msa": "أعشاب",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "جدتي تداوي بالأعشاب.",
+    "ex_tr": "jaddti tdāwi bil-a3shāb.",
+    "ex_en": "My grandmother treats people with herbs.",
+    "note": "Singular عشبة. Also herbal remedies sold by the 3aTTār.",
+    "phrases": [
+      {
+        "ar": "أعشاب طبية",
+        "tr": "a3shāb Tibbiyya",
+        "en": "medicinal herbs"
+      },
+      {
+        "ar": "شاهي أعشاب",
+        "tr": "shāhi a3shāb",
+        "en": "herbal tea"
+      }
+    ]
+  },
+  {
+    "ar": "قش",
+    "tr": "gashsh",
+    "en": "straw; hay; dry grass",
+    "msa": "قش",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 26,
+    "ex_ar": "الجمل ياكل في القش.",
+    "ex_tr": "ij-jmal yākil fil-gashsh.",
+    "ex_en": "The camel is eating hay.",
+    "note": "One straw: قشة gashsha. القشة اللي قصمت ظهر البعير = the last straw.",
+    "phrases": [
+      {
+        "ar": "قبعة قش",
+        "tr": "gubba3at gashsh",
+        "en": "a straw hat"
+      },
+      {
+        "ar": "القشة اللي قصمت ظهر البعير",
+        "tr": "il-gashsha illi gaSmat Dhahr il-ba3īr",
+        "en": "the straw that broke the camel's back"
+      }
+    ]
+  },
+  {
+    "ar": "عود",
+    "tr": "3ūd",
+    "en": "stick; twig; aloeswood",
+    "msa": "عود",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 34,
+    "ex_ar": "خذ عود ونكش النار.",
+    "ex_tr": "khudh 3ūd w-nakkish in-nār.",
+    "ex_en": "Take a stick and poke the fire.",
+    "note": "pl. أعواد a3wād / عيدان 3īdān. Also oud (incense wood) and the lute.",
+    "phrases": [
+      {
+        "ar": "عود كبريت",
+        "tr": "3ūd kibrīt",
+        "en": "a matchstick"
+      },
+      {
+        "ar": "بخور عود",
+        "tr": "bkhūr 3ūd",
+        "en": "oud incense"
+      }
+    ]
+  },
+  {
+    "ar": "بستان",
+    "tr": "bustān",
+    "en": "orchard; garden",
+    "msa": "بستان",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 22,
+    "ex_ar": "عنده بستان برتقان في الساحل.",
+    "ex_tr": "3indah bustān burtgān fis-sā7il.",
+    "ex_en": "He has an orange orchard on the coast.",
+    "note": "pl. بساتين basātīn. In Libya سانية is more common.",
+    "phrases": [
+      {
+        "ar": "بستان فواكه",
+        "tr": "bustān fwākih",
+        "en": "a fruit orchard"
+      },
+      {
+        "ar": "بساتين النخيل",
+        "tr": "basātīn in-nakhīl",
+        "en": "palm groves"
+      }
+    ]
+  },
+  {
+    "ar": "زهرة",
+    "tr": "zahra",
+    "en": "flower; blossom",
+    "msa": "زهرة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 3,
+    "usage": 36,
+    "ex_ar": "جبتلها باقة زهور.",
+    "ex_tr": "jibtilha bāgat zhūr.",
+    "ex_en": "I brought her a bouquet of flowers.",
+    "note": "pl. زهور zhūr. More formal than وردة / نوّار; also a girl's name and the planet Venus.",
+    "phrases": [
+      {
+        "ar": "باقة زهور",
+        "tr": "bāgat zhūr",
+        "en": "a bouquet of flowers"
+      },
+      {
+        "ar": "زهرة الليمون",
+        "tr": "zahrat il-līmūn",
+        "en": "lemon blossom"
+      }
+    ]
+  },
+  {
+    "ar": "بنفسج",
+    "tr": "banafsaj",
+    "en": "violet (flower)",
+    "msa": "بنفسج",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 5,
+    "usage": 16,
+    "ex_ar": "البنفسج ريحته خفيفة.",
+    "ex_tr": "il-banafsaj rī7tah khfīfa.",
+    "ex_en": "Violets have a delicate scent.",
+    "note": "The colour is بنفسجي.",
+    "phrases": [
+      {
+        "ar": "وردة بنفسج",
+        "tr": "wardat banafsaj",
+        "en": "a violet"
+      },
+      {
+        "ar": "لون البنفسج",
+        "tr": "lōn il-banafsaj",
+        "en": "violet colour"
+      }
+    ]
+  },
+  {
+    "ar": "شجيرة",
+    "tr": "shjēra",
+    "en": "shrub; bush",
+    "msa": "شجيرة",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 4,
+    "usage": 22,
+    "ex_ar": "زرعنا شجيرات صغار قدام الحوش.",
+    "ex_tr": "zra3na shjērāt Sghār giddām il-7ōsh.",
+    "ex_en": "We planted small bushes in front of the house.",
+    "note": "Diminutive of شجرة. pl. شجيرات.",
+    "phrases": [
+      {
+        "ar": "شجيرة ورد",
+        "tr": "shjērat ward",
+        "en": "a rose bush"
+      },
+      {
+        "ar": "شجيرات خضرا",
+        "tr": "shjērāt khaDra",
+        "en": "green shrubs"
+      }
+    ]
+  },
+  {
+    "ar": "شجر",
+    "tr": "shajar",
+    "en": "trees (collective)",
+    "msa": "شجر",
+    "pos": "noun",
+    "cat": "nature",
+    "freq": 2,
+    "usage": 48,
+    "ex_ar": "الشجر في الشارع هذا قديم.",
+    "ex_tr": "ish-shajar fish-shāri3 hādha gdīm.",
+    "ex_en": "The trees on this street are old.",
+    "note": "Collective of شجرة; pl. أشجار ashjār.",
+    "phrases": [
+      {
+        "ar": "تحت الشجر",
+        "tr": "ta7t ish-shajar",
+        "en": "under the trees"
+      },
+      {
+        "ar": "شجر الزيتون",
+        "tr": "shajar iz-zītūn",
+        "en": "olive trees"
+      },
+      {
+        "ar": "قطعوا الشجر",
+        "tr": "gaT3u sh-shajar",
+        "en": "they cut down the trees"
       }
     ]
   }
