@@ -36,6 +36,12 @@ if (!index.includes('data-static="1"') || !index.includes(`<base href="${base}" 
 writeFileSync(join(out, 'index.html'), index);
 // GitHub Pages serves 404.html for unknown paths: reuse the SPA so deep links work.
 writeFileSync(join(out, '404.html'), index);
+// Shared game links (/games, /games/<id>) get real pages so they load with HTTP 200.
+const { GAMES } = await import(join(root, 'public', 'games', 'registry.js'));
+for (const dir of ['games', ...GAMES.map((g) => `games/${g.id}`)]) {
+  mkdirSync(join(out, dir), { recursive: true });
+  writeFileSync(join(out, dir, 'index.html'), index);
+}
 writeFileSync(join(out, '.nojekyll'), '');
 
 console.log(`Built static site in dist/ (base ${base})`);

@@ -2,7 +2,7 @@
 // 404.html), for checking the static build locally:
 //   npm run build:pages && node scripts/serve-dist.js   → http://localhost:4000/arabic/
 import { createServer } from 'node:http';
-import { readFile } from 'node:fs/promises';
+import { readFile, stat } from 'node:fs/promises';
 import { join, dirname, extname, normalize } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -25,6 +25,16 @@ createServer(async (req, res) => {
   const file = rel == null ? null : normalize(join(dist, decodeURIComponent(rel)));
   try {
     if (!file || !file.startsWith(dist)) throw new Error('outside');
+    // Like GitHub Pages: a directory with index.html redirects to its trailing-slash URL and serves it.
+    if ((await stat(file)).isDirectory()) {
+      await stat(join(file, 'index.html'));
+      if (!url.pathname.endsWith('/')) {
+        res.writeHead(301, { Location: url.pathname + '/' + url.search });
+        return res.end();
+      }
+      res.writeHead(200, { 'Content-Type': TYPES['.html'] });
+      return res.end(await readFile(join(file, 'index.html')));
+    }
     const body = await readFile(file);
     res.writeHead(200, { 'Content-Type': TYPES[extname(file)] ?? 'application/octet-stream' });
     res.end(body);
