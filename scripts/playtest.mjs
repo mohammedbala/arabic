@@ -49,6 +49,7 @@ try {
   await page.waitForSelector('.arcade-panel [data-act="play"]', { timeout: 15000 });
   await page.waitForTimeout(400);
   await shot('1-start');
+  if (DAILY && !(await page.$('[data-act="daily"]'))) throw new Error(`--daily: ${id} has no daily mode (daily: false in registry.js)`);
   await page.click(DAILY ? '[data-act="daily"]' : '[data-act="play"]');
   await page.waitForTimeout(800);
   if (!(await page.evaluate(() => !!window.__gameDebug))) throw new Error('window.__gameDebug missing after start');

@@ -100,36 +100,96 @@ export function buildPool(words, { level = 'top300', learnedIds = new Set(), fil
   return pool.length >= min ? pool : byRank.slice(0, Math.max(min, pool.length));
 }
 
+// Everyday synonym sets the deck glosses differently (mother / mum …).
+const SYNONYMS = [
+  ['mother', 'mum', 'mom', 'mama', 'mummy'],
+  ['father', 'dad', 'papa', 'daddy'],
+  ['hello', 'hi', 'hey', 'welcome'],
+  ['yes', 'yeah', 'yep'],
+  ['ok', 'okay', 'alright', 'all right', 'fine', 'good'],
+  ['goodbye', 'bye', 'see you'],
+  ['thanks', 'thank you'],
+  ['a lot', 'very', 'much', 'many', 'lots'],
+  ['house', 'home'],
+  ['car', 'vehicle', 'automobile'],
+  ['child', 'kid'],
+  ['big', 'large'],
+  ['small', 'little'],
+  ['now', 'right now'],
+  ['money', 'cash'],
+];
+const SYN = new Map();
+SYNONYMS.forEach((set, i) => set.forEach((x) => SYN.set(x, `syn${i}`)));
+/** Every English sense of a word as comparable keys ("to wake (someone) up" → "wake up"). */
+function senseKeys(w) {
+  const keys = new Set();
+  for (const raw of String(w.en).toLowerCase().split(/[;,/]/)) {
+    const k = raw
+      .replace(/\([^)]*\)/g, ' ')
+      .replace(/^\s*(to|a|an|the)\s+/, '')
+      .replace(/[^a-z0-9' ]+/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (!k) continue;
+    keys.add(k);
+    if (SYN.has(k)) keys.add(SYN.get(k));
+  }
+  return keys;
+}
+// Arabic identity for distractors keeps shadda (خلّص "to pay" ≠ خلص "to end").
+const arKey = (s) =>
+  String(s ?? '')
+    .replace(/[\u064B-\u0650\u0652\u0670\u0640]/g, '')
+    .replace(/[أإآٱ]/g, 'ا')
+    .replace(/ى/g, 'ي')
+    .trim();
+const keyCache = new WeakMap();
+function keysOf(w) {
+  let k = keyCache.get(w);
+  if (!k) keyCache.set(w, (k = { ar: arKey(w.ar), senses: senseKeys(w) }));
+  return k;
+}
+const overlaps = (a, b) => {
+  for (const x of a) if (b.has(x)) return true;
+  return false;
+};
+
 /**
- * n wrong answers for `word` drawn from `pool`: different meaning and
- * different Arabic, preferring the same part of speech and category so the
- * choice takes real discrimination.
+ * n wrong answers for `word` drawn from `pool`: no shared English sense (or
+ * common synonym) and different Arabic, preferring the same part of speech
+ * and category so the choice takes real discrimination.
  */
 export function distractors(word, pool, n, rng = Math.random) {
-  const ar = normAr(word.ar);
-  const en = word.en.toLowerCase();
-  const ok = pool.filter((w) => w.id !== word.id && normAr(w.ar) !== ar && w.en.toLowerCase() !== en);
-  const tiers = [ok.filter((w) => w.pos === word.pos && w.cat === word.cat), ok.filter((w) => w.pos === word.pos), ok];
+  const target = keysOf(word);
   const out = [];
-  const seen = new Set([ar]);
-  const seenEn = new Set([en]);
-  for (const tier of tiers) {
-    for (const w of shuffle(tier, rng)) {
-      if (out.length >= n) return out;
-      const k = normAr(w.ar);
-      const e = w.en.toLowerCase();
-      if (seen.has(k) || seenEn.has(e)) continue;
-      seen.add(k);
-      seenEn.add(e);
-      out.push(w);
-    }
+  const usedAr = new Set([target.ar]);
+  const usedSenses = new Set(target.senses);
+  const take = (w) => {
+    if (out.length >= n || w.id === word.id) return;
+    const k = keysOf(w);
+    if (usedAr.has(k.ar) || overlaps(k.senses, usedSenses)) return;
+    usedAr.add(k.ar);
+    k.senses.forEach((x) => usedSenses.add(x));
+    out.push(w);
+  };
+  // Sample instead of shuffling whole tiers: cheap even on the 5000-word pool.
+  const sameCat = [];
+  const samePos = [];
+  for (const w of pool) {
+    if (w.pos !== word.pos) continue;
+    (w.cat === word.cat ? sameCat : samePos).push(w);
   }
+  for (const tier of [sameCat, samePos]) for (const w of shuffle(tier, rng)) if (out.length < n) take(w);
+  for (let tries = 0; out.length < n && tries < pool.length * 3; tries++) take(pool[Math.floor(rng() * pool.length)]);
   return out;
 }
 
-/** Short English gloss for a game label: first sense, no parentheses. */
+// Parentheticals worth keeping in a label: they tell words apart (هذا "this (m.)" vs هذي "this (f.)").
+const KEEP_PAREN = /^\((m|f|pl|sg|du|m\.\s*sg|f\.\s*sg|m\.\s*pl|f\.\s*pl|masc|fem|plural|formal|polite)\.?\)$/i;
+/** Short English gloss for a game label: first sense, minor notes removed. */
 export function shortEn(w, max = 22) {
-  let s = String(w.en).split(';')[0].replace(/\s*\([^)]*\)/g, '').trim();
+  const noNotes = String(w.en).replace(/\s*\([^)]*\)/g, (m) => (KEEP_PAREN.test(m.trim()) ? m : ''));
+  let s = noNotes.split(';')[0].trim() || String(w.en).split(';')[0].trim();
   if (s.length > max) s = s.slice(0, max - 1).trimEnd() + '…';
   return s;
 }
@@ -235,11 +295,17 @@ export function setupCanvas(container, { onResize } = {}) {
   let w = 1;
   let h = 1;
   let dpr = 1;
+  let sized = false;
   const resize = () => {
     const r = container.getBoundingClientRect();
-    dpr = Math.min(window.devicePixelRatio || 1, 2.5);
-    w = Math.max(1, Math.round(r.width));
-    h = Math.max(1, Math.round(r.height));
+    const nd = Math.min(window.devicePixelRatio || 1, 2.5);
+    const nw = Math.max(1, Math.round(r.width));
+    const nh = Math.max(1, Math.round(r.height));
+    if (sized && nw === w && nh === h && nd === dpr) return; // resizing the bitmap would clear it
+    sized = true;
+    dpr = nd;
+    w = nw;
+    h = nh;
     canvas.width = Math.round(w * dpr);
     canvas.height = Math.round(h * dpr);
     canvas.style.width = `${w}px`;
@@ -469,7 +535,7 @@ export function runGame(root, entry, mod, deps) {
       <div class="arcade-frame">
         <header class="arcade-hud">
           <button class="hud-btn" data-act="back" aria-label="Back to arcade">‹</button>
-          <div class="hud-title"><span aria-hidden="true">${entry.emoji}</span> ${esc(entry.title)}</div>
+          <div class="hud-title"><span aria-hidden="true">${entry.emoji}</span> <span class="hud-name">${esc(entry.title)}</span></div>
           <div class="hud-stats"><span class="hud-extra" hidden></span><span class="hud-lives" hidden></span><span class="hud-score" aria-live="polite">0</span></div>
           <button class="hud-btn" data-act="sound" aria-label="Toggle sound">${sfx.muted ? '🔇' : '🔊'}</button>
           <button class="hud-btn" data-act="pause" aria-label="Pause" hidden>❚❚</button>
@@ -490,7 +556,11 @@ export function runGame(root, entry, mod, deps) {
   const minWords = mod.minWords ?? 12;
   const filter = mod.wordFilter ?? (() => true);
   const learnedCount = deps.words.filter((w) => deps.learnedIds.has(w.id) && filter(w)).length;
+  // A challenge / ?seed link replays that exact round once (same words); later rounds are fresh.
+  let linkSeed = Number(query.get('seed')) > 0 ? Number(query.get('seed')) : null;
+  const linkLevel = LEVELS.some((l) => l.id === query.get('level') && l.id !== 'mine') ? query.get('level') : null;
   let level = store.get(`arcade-level-${entry.id}`, learnedCount >= Math.max(minWords, 30) ? 'mine' : 'top300');
+  if (linkLevel) level = linkLevel;
   if (level === 'mine' && learnedCount < minWords) level = 'top300';
   const day = dayNumber();
   const dailyKey = `arcade-daily-${entry.id}-${day}`;
@@ -499,6 +569,7 @@ export function runGame(root, entry, mod, deps) {
   let paused = false;
   let current = null; // { daily, level, seed, t0, pausedMs, pauseAt }
   let destroyed = false;
+  let round = 0;
   const challenge = Number(query.get('challenge')) > 0 ? { score: Number(query.get('challenge')), from: query.get('from') || 'A friend' } : null;
 
   const hud = {
@@ -524,7 +595,11 @@ export function runGame(root, entry, mod, deps) {
     user,
     sfx,
     haptic,
-    speak: (t) => deps.speak?.(t, true),
+    speak: (t) => !sfx.muted && deps.speak?.(t, true),
+    /** Best score known for this game (server for logged-in users, else this browser). */
+    get best() {
+      return Math.max(localBest(entry.id), deps.best ?? 0);
+    },
     hud,
     isTouch: matchMedia('(pointer: coarse)').matches,
     reducedMotion: reducedMotion(),
@@ -555,8 +630,14 @@ export function runGame(root, entry, mod, deps) {
   function show(html) {
     panel.innerHTML = html;
     overlay.hidden = false;
+    overlay.scrollTop = 0;
     $pause.hidden = true;
-    panel.querySelector('.btn.primary, button')?.focus({ preventScroll: true });
+    (panel.querySelector('.btn.primary[data-act]') ?? panel.querySelector('button[data-act]:not(:disabled)'))?.focus({ preventScroll: true });
+  }
+  function resetHud() {
+    hud.score(0);
+    hud.extra('');
+    $lives.hidden = true;
   }
   function hide() {
     overlay.hidden = true;
@@ -598,11 +679,11 @@ export function runGame(root, entry, mod, deps) {
     if (!instance || destroyed) return;
     const lv = daily ? 'top1000' : level;
     const pool = buildPool(deps.words, { level: lv, learnedIds: deps.learnedIds, filter, min: minWords });
-    const qSeed = Number(query.get('seed'));
-    const seed = daily ? hashString(`${entry.id}:${day}`) : Number.isFinite(qSeed) && qSeed > 0 ? qSeed : (Math.random() * 2 ** 32) >>> 0;
+    const seed = daily ? hashString(`${entry.id}:${day}`) : linkSeed ?? (Math.random() * 2 ** 32) >>> 0;
+    if (!daily) linkSeed = null;
     current = { daily, level: lv, seed, t0: performance.now(), pausedMs: 0, pauseAt: 0 };
-    hud.score(0);
-    hud.extra('');
+    round++;
+    resetHud();
     hide();
     playing = true;
     paused = false;
@@ -621,7 +702,7 @@ export function runGame(root, entry, mod, deps) {
     paused = true;
     current.pauseAt = performance.now();
     instance.pause();
-    pausePanel();
+    if (playing && paused) pausePanel(); // the game may have ended the round inside pause()
   }
   function resume() {
     if (!paused) return;
@@ -638,6 +719,7 @@ export function runGame(root, entry, mod, deps) {
    */
   async function end(result = {}) {
     if (!playing || destroyed) return;
+    const myRound = round;
     playing = false;
     paused = false;
     const ms = Math.round(performance.now() - current.t0 - current.pausedMs);
@@ -671,16 +753,19 @@ export function runGame(root, entry, mod, deps) {
         console.warn('score not saved', err);
       }
     }
-    if (destroyed) return;
+    if (destroyed || myRound !== round) return; // left or restarted while saving
     const best = Math.max(score, prevLocal, server?.best ?? 0);
     const isBest = server ? server.isBest : score > prevLocal && score > 0;
     const beatChallenge = challenge && score > challenge.score;
     const missed = [];
     const seenIds = new Set();
     for (const w of result.missed ?? []) if (w && !seenIds.has(w.id)) (seenIds.add(w.id), missed.push(w));
-    const mood = result.won || isBest || beatChallenge ? 'cheer' : score > 0 ? 'happy' : 'sad';
-    (result.won || isBest ? sfx.win : sfx.lose)();
-    const shareUrl = daily ? deps.gamesUrl(entry.id) : deps.gamesUrl(entry.id, { challenge: score, from: user?.displayName ?? user?.username });
+    const lost = result.won === false;
+    const mood = result.won || ((isBest || beatChallenge) && !lost) ? 'cheer' : score > 0 ? 'happy' : 'sad';
+    (result.won || (isBest && !lost) ? sfx.win : sfx.lose)();
+    const shareUrl = daily
+      ? deps.gamesUrl(entry.id)
+      : deps.gamesUrl(entry.id, { challenge: score, from: user?.displayName ?? user?.username, seed: current.seed, level: current.level === 'mine' ? null : current.level });
     show(`
       <div class="over-head">${dubbiSVG(mood, 'over-dubbi')}<div>
         <div class="over-title">${esc(result.title ?? (result.won ? 'برافو! Well done!' : 'Game over'))}</div>
@@ -690,8 +775,8 @@ export function runGame(root, entry, mod, deps) {
         ${beatChallenge ? `<div class="over-xp">🏆 You beat ${esc(challenge.from)}!</div>` : ''}
       </div></div>
       ${result.detail ?? ''}
-      ${missed.length ? `<div class="missed"><div class="missed-h">Words to review</div>${missed
-        .slice(0, 10)
+      ${missed.length ? `<div class="missed"><div class="missed-h">Words to review (${missed.length})</div>${missed
+        .slice(0, 24)
         .map((w) => `<button class="missed-w" data-say="${esc(w.ar)}"><span class="ar">${esc(w.ar)}</span><span class="tr">${esc(w.tr)}</span><span>${esc(shortEn(w, 40))}</span><span aria-hidden="true">🔊</span></button>`)
         .join('')}</div>` : ''}
       <button class="btn primary lg block" data-act="share">📤 Share${daily ? ' result' : ' & challenge'}</button>
@@ -731,7 +816,7 @@ export function runGame(root, entry, mod, deps) {
     if (act === 'play' || act === 'again') return begin(false);
     if (act === 'daily') return begin(true);
     if (act === 'restart') return (instance?.stop?.(), (playing = false), (paused = false), begin(current?.daily));
-    if (act === 'quit' || act === 'menu') return (instance?.stop?.(), (playing = false), (paused = false), startPanel());
+    if (act === 'quit' || act === 'menu') return (instance?.stop?.(), (playing = false), (paused = false), resetHud(), startPanel());
     if (act === 'share') return share(JSON.parse(panel.dataset.share || '{}'));
     if (act === 'daily-share') return share({ text: dailyDone?.share ?? '', url: deps.gamesUrl(entry.id) });
   };
@@ -747,6 +832,10 @@ export function runGame(root, entry, mod, deps) {
     if (e.target.closest('.arcade-stage') && e.cancelable) e.preventDefault();
   };
   root.addEventListener('touchmove', noScroll, { passive: false });
+  // Create/resume the AudioContext inside a real user gesture (iOS needs this),
+  // so the first sound of a swipe-driven game is not delayed or blocked.
+  const unlockAudio = () => audio();
+  root.addEventListener('pointerdown', unlockAudio, { once: true });
 
   if (instance) startPanel();
 
@@ -761,6 +850,12 @@ export function runGame(root, entry, mod, deps) {
     if (window.__gameDebug) delete window.__gameDebug;
     root.removeEventListener('click', onClick);
     root.removeEventListener('touchmove', noScroll);
+    root.removeEventListener('pointerdown', unlockAudio);
+    try {
+      speechSynthesis?.cancel();
+    } catch {
+      /* ignore */
+    }
     document.removeEventListener('visibilitychange', onVis);
     document.removeEventListener('keydown', onKey);
     document.body.classList.remove('in-arcade');

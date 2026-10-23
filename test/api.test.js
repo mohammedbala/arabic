@@ -200,6 +200,11 @@ test('arcade games: results, bests, daily status, leaderboard, feed', async () =
   assert.ok(r.body.achievements.some((x) => x.code === 'arcade-daily'));
   await b('/api/games/flappy/result', { method: 'POST', body: { score: 30, correct: 30, total: 31 } });
 
+  const again = await a('/api/games/kalima/result', { method: 'POST', body: { score: 4, correct: 1, total: 1, daily: true, won: true } });
+  assert.equal(again.body.xp, 0, 'daily XP is awarded once per day');
+  assert.equal(again.body.dailyRepeat, true);
+  const big = await a('/api/games/arba3a/result', { method: 'POST', body: { score: 1, daily: true, meta: { blob: 'x'.repeat(5000) } } });
+  assert.equal(big.status, 200);
   const me = await a('/api/games/me');
   assert.deepEqual(me.body.games.flappy, { best: 12, plays: 2 });
   assert.equal(me.body.dailyDone.kalima.won, true);
@@ -217,6 +222,8 @@ test('arcade games: results, bests, daily status, leaderboard, feed', async () =
 });
 
 test('SPA routes serve index.html; unknown API is JSON 404', async () => {
+  const g = await fetch(base + '/games', { redirect: 'manual' });
+  assert.equal(g.status, 200, '/games must not redirect to /games/');
   const r = await fetch(base + '/u/alpha');
   assert.equal(r.status, 200);
   assert.match(await r.text(), /Darija Libya/);

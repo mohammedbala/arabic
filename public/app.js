@@ -43,7 +43,12 @@ async function api(path, { method = 'GET', body } = {}) {
     body: body !== undefined ? JSON.stringify(body) : undefined,
     credentials: 'same-origin',
   });
-  const data = await res.json().catch(() => ({}));
+  const data = await res.json().catch(() => null);
+  if (data === null) {
+    const err = new Error(res.ok ? 'Network error — please try again' : `Request failed (${res.status})`);
+    err.status = res.ok ? 0 : res.status;
+    throw err;
+  }
   if (!res.ok) {
     const err = new Error(data.error || `Request failed (${res.status})`);
     err.status = res.status;
@@ -1278,7 +1283,7 @@ async function learnedWordIds() {
   return new Set(cards.filter((c) => c.direction === 'r').map((c) => c.word_id));
 }
 
-route(/^\/games$/, async () => {
+route(/^\/games\/?$/, async () => {
   const me = state.user ? await api('/api/games/me').catch(() => null) : null;
   const day = dayNumber();
   const dailyLocal = (id) => {
@@ -1335,7 +1340,7 @@ route(/^\/games$/, async () => {
   dubbi.say(`Pick a game! Every round trains the words you're learning. 🎮`, { mood: 'cheer', ms: 4500 });
 });
 
-route(/^\/games\/([a-z0-9-]+)$/, async (id) => {
+route(/^\/games\/([a-z0-9-]+)\/?$/, async (id) => {
   const entry = gameById.get(id);
   if (!entry) {
     $app.innerHTML = '<div class="card empty"><h2>Game not found</h2><a href="/games" data-link class="btn">Arcade</a></div>';

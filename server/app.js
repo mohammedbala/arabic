@@ -47,7 +47,7 @@ export function createApp({ db, vocab, secureCookies = false }) {
   });
 
   // ------------------------------------------------------------ static SPA
-  app.use(express.static(publicDir, { index: false, maxAge: '1h' }));
+  app.use(express.static(publicDir, { index: false, redirect: false, maxAge: '1h' }));
   app.get(/^\/(?!api\/).*/, (_req, res) => res.sendFile(join(publicDir, 'index.html')));
 
   // eslint-disable-next-line no-unused-vars

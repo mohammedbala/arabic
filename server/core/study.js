@@ -195,14 +195,17 @@ export function recordGame(db, vocab, user, { game, score, correct, total, msTak
   const ms = Math.max(0, Math.min(Number(msTaken) || 0, 30 * 60_000));
   daily = daily ? 1 : 0;
   won = won ? 1 : 0;
-  const metaJson = JSON.stringify(meta && typeof meta === 'object' ? meta : {}).slice(0, 2000);
+  let metaJson = JSON.stringify(meta && typeof meta === 'object' && !Array.isArray(meta) ? meta : {});
+  if (metaJson.length > 2000) metaJson = '{"truncated":true}'; // never store cut-off (invalid) JSON
   return tx(db, () => {
     const prevBest = db.prepare('SELECT MAX(score) b FROM game_scores WHERE user_id = ? AND game = ?').get(user.id, game).b;
     const day = localDay(user, now);
+    // A daily puzzle earns XP once per day, however many times it is resubmitted.
+    const dailyRepeat = daily && !!db.prepare('SELECT 1 FROM game_scores WHERE user_id = ? AND game = ? AND daily = 1 AND day = ?').get(user.id, game, day);
     db.prepare(
       'INSERT INTO game_scores (user_id, game, score, correct, total, daily, won, day, meta, ts) VALUES (?,?,?,?,?,?,?,?,?,?)',
     ).run(user.id, game, score, correct, total, daily, won, day, metaJson, now);
-    const xp = correct * XP.gameCorrect + (won ? XP.gameWin : 0);
+    const xp = dailyRepeat ? 0 : correct * XP.gameCorrect + (won ? XP.gameWin : 0);
     bumpActivity(db, user, { drills: total, xp, ms_spent: ms }, now);
     const isBest = score > 0 && (prevBest == null || score > prevBest);
     const best = Math.max(score, prevBest ?? 0);
@@ -211,7 +214,7 @@ export function recordGame(db, vocab, user, { game, score, correct, total, msTak
       db
         .prepare('SELECT COUNT(*) n FROM (SELECT user_id, MAX(score) s FROM game_scores WHERE game = ? GROUP BY user_id) WHERE s > ?')
         .get(game, best).n + 1;
-    return { xp, best, isBest, prevBest: prevBest ?? null, rank, achievements: checkAchievements(db, vocab, user, now) };
+    return { xp, best, isBest, prevBest: prevBest ?? null, rank, dailyRepeat, achievements: checkAchievements(db, vocab, user, now) };
   });
 }
 

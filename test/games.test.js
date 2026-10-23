@@ -61,6 +61,23 @@ test('word pools follow usage rank and distractors are never the answer', () => 
   }
   assert.equal(shortEn({ en: 'to go out; to go up' }), 'to go out');
   assert.equal(shortEn({ en: 'thing (something); need' }), 'thing');
+  assert.equal(shortEn({ en: 'this (m.)' }), 'this (m.)');
+  assert.equal(shortEn({ en: 'you (m. sg.)' }), 'you (m. sg.)');
+  assert.equal(shortEn({ en: 'sfinz (Libyan fried dough; doughnut)' }), 'sfinz');
+});
+
+test('distractors skip synonyms, shared senses and shadda look-alikes', () => {
+  const W = (id, ar, en, pos = 'noun', cat = 'family') => ({ id, ar, en, pos, cat, rank: id });
+  const mother = W(1, 'أم', 'mother');
+  const pool = [mother, W(2, 'ماما', 'mum; mom'), W(3, 'بو', 'father'), W(4, 'خو', 'brother'), W(5, 'خت', 'sister'), W(6, 'ولد', 'boy; son'), W(7, 'أمّ', 'parent; mother (formal)')];
+  for (let seed = 1; seed < 40; seed++) {
+    const ds = distractors(mother, pool, 3, mulberry32(seed)).map((d) => d.id);
+    assert.ok(!ds.includes(2) && !ds.includes(7), `seed ${seed}: ${ds}`);
+    assert.equal(ds.length, 3);
+  }
+  const pay = W(10, 'خلّص', 'to pay', 'verb', 'verbs-work');
+  const end = W(11, 'خلص', 'to end; to finish', 'verb', 'verbs-work');
+  assert.deepEqual(distractors(pay, [pay, end], 1, mulberry32(3)).map((d) => d.id), [11]);
 });
 
 test('every arcade game module follows the contract and has enough words', async () => {
