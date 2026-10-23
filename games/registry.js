@@ -1,0 +1,61 @@
+// Arcade game registry. Metadata here drives the hub; each game's code is
+// loaded on demand from its own module (see README.md for the contract).
+export const GAMES = [
+  {
+    id: 'kalima',
+    title: 'Kalima',
+    titleAr: 'كلمة',
+    emoji: '🟩',
+    inspiredBy: 'Wordle',
+    tagline: 'Guess the Libyan word in six tries.',
+    accent: '#538d4e',
+    daily: true,
+    load: () => import('./kalima.js'),
+  },
+  {
+    id: 'ninja',
+    title: 'Word Ninja',
+    titleAr: 'نينجا الكلمات',
+    emoji: '🍉',
+    inspiredBy: 'Fruit Ninja',
+    tagline: 'Slice the word that matches. Spare the rest.',
+    accent: '#e8590c',
+    daily: false,
+    load: () => import('./ninja.js'),
+  },
+  {
+    id: 'flappy',
+    title: 'Flappy Dubbi',
+    titleAr: 'دبّي الطاير',
+    emoji: '🐻',
+    inspiredBy: 'Flappy Bird',
+    tagline: 'Tap to fly Dubbi through the right gap.',
+    accent: '#1c7ed6',
+    daily: false,
+    load: () => import('./flappy.js'),
+  },
+  {
+    id: 'rush',
+    title: 'Souq Rush',
+    titleAr: 'جري السوق',
+    emoji: '🏃',
+    inspiredBy: 'Subway Surfers',
+    tagline: 'Swipe into the lane with the right word.',
+    accent: '#d6336c',
+    daily: false,
+    load: () => import('./rush.js'),
+  },
+  {
+    id: 'arba3a',
+    title: 'Arba3a',
+    titleAr: 'أربعة',
+    emoji: '🟪',
+    inspiredBy: 'NYT Connections',
+    tagline: 'Sixteen words, four hidden groups.',
+    accent: '#7048e8',
+    daily: true,
+    load: () => import('./arba3a.js'),
+  },
+];
+
+export const gameById = new Map(GAMES.map((g) => [g.id, g]));
