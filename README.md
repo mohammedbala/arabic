@@ -32,6 +32,25 @@ Requires Node ≥ 22.13. It uses the built-in `node:sqlite`, so there are no nat
 | `DB_FILE`        | `data/app.db`   | SQLite database path                     |
 | `SECURE_COOKIES` | unset           | set to `1` when served over HTTPS        |
 
+## Arcade (mobile word games)
+
+`/games` has quick phone-first games that train the deck. They're playable without an account; with one,
+scores, XP, streak activity and leaderboards are saved.
+
+| Game | Inspired by | How it trains you |
+|---|---|---|
+| 🟩 **Kalima** (كلمة) | Wordle | Spell a Libyan word letter by letter from its meaning: daily puzzle + practice runs, shareable emoji grid |
+| 🍉 **Word Ninja** | Fruit Ninja | Swipe-slice the fruit carrying the Arabic word for the English prompt; avoid the wrong ones and bombs |
+| 🐻 **Flappy Dubbi** | Flappy Bird | Fly Dubbi through the column gap labelled with the right word |
+| 🏃 **Souq Rush** | Subway Surfers | Swipe into the lane whose arch shows the right word while dodging carts and camels |
+| 🟪 **Arba3a** (أربعة) | NYT Connections | Sort 16 Arabic words into 4 hidden categories: daily puzzle + practice |
+
+Every round picks words from a level (your studied words or the top 100/300/1000/5000 by usage),
+reveals the right answer after each mistake, and ends with a "words to review" list. Daily puzzles
+are seeded by date, so everyone gets the same puzzle; share links carry a friend challenge.
+Games are ES modules in `public/games/` built on a shared engine (`common.js`); see
+`public/games/README.md` for the module contract and `scripts/playtest.mjs` for the mobile smoke test.
+
 ## GitHub Pages (static version)
 
 The app also runs with **no server**. `npm run build:pages` builds `dist/`, in which the same API

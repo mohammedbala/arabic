@@ -483,11 +483,12 @@ route(/^\/signup$/, async () => authForm('signup'), { guest: true });
 route(
   /^\/dashboard$/,
   async () => {
-    const [s, q, lessons, profile] = await Promise.all([
+    const [s, q, lessons, profile, arcade] = await Promise.all([
       api('/api/stats'),
       api('/api/study/queue?limit=1'),
       api('/api/lessons'),
       api(`/api/users/${encodeURIComponent(state.user.username)}`),
+      api('/api/games/me').catch(() => null),
     ]);
     const plan = q.plan;
     const week = plan.weeks[plan.currentWeek - 1];
@@ -524,6 +525,20 @@ route(
           <div class="small muted">Word target by end of week: <strong>${week.wordTarget}</strong></div>
           <div class="progress" style="margin:8px 0 12px"><span style="width:${Math.min(100, (100 * s.introduced) / week.wordTarget)}%"></span></div>
           ${weekLessons.map((l) => `<div class="small"><a href="/lesson/${l.id}" data-link>${l.done ? '✅' : '⬜'} ${esc(l.title)}</a></div>`).join('')}
+        </div>
+      </div>
+      <div class="card daily-games" style="margin-top:16px">
+        <div class="spread"><h2 style="margin:0">🎮 Daily games</h2><a href="/games" data-link class="small">All games →</a></div>
+        <div class="row" style="margin-top:10px">
+          ${GAMES.filter((g) => g.daily)
+            .map((g) => {
+              const done = arcade?.dailyDone?.[g.id];
+              return `<a class="btn ${done ? '' : 'primary'}" href="/games/${g.id}" data-link>${g.emoji} ${esc(g.title)} #${dayNumber()} ${done ? (done.won ? '✅' : '❌') : ''}</a>`;
+            })
+            .join('')}
+          ${GAMES.filter((g) => !g.daily)
+            .map((g) => `<a class="btn" href="/games/${g.id}" data-link title="Inspired by ${esc(g.inspiredBy)}">${g.emoji} ${esc(g.title)}${arcade?.games?.[g.id]?.best ? ` · 🏆 ${arcade.games[g.id].best}` : ''}</a>`)
+            .join('')}
         </div>
       </div>
       <div class="grid cols-4" style="margin-top:16px">
@@ -1070,6 +1085,10 @@ function eventText(e) {
     case 'milestone': return `📈 Reached <strong>${fmtNum(d.words)}</strong> word${d.words === 1 ? '' : 's'}`;
     case 'achievement': return `${esc(d.icon)} Unlocked <strong>${esc(d.title)}</strong>`;
     case 'lesson': return `📖 Completed lesson <strong>${esc(d.title)}</strong> (${d.score}/${d.of})`;
+    case 'game-best': {
+      const g = gameById.get(d.game);
+      return `${g?.emoji ?? '🎮'} New best <strong>${fmtNum(d.score)}</strong> in <a href="/games/${esc(d.game)}" data-link>${esc(g?.title ?? d.game)}</a>`;
+    }
     default: return esc(e.kind);
   }
 }
