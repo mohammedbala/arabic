@@ -1,5 +1,7 @@
 // Darija Libya — single-page frontend. No build step; plain ES modules.
 import { createMascot, dubbiSVG } from './mascot.js';
+import { GAMES, gameById } from './games/registry.js';
+import { runGame, dayNumber, localBest, shareText } from './games/common.js';
 
 const $app = document.getElementById('app');
 const $nav = document.getElementById('nav');
@@ -353,6 +355,7 @@ function renderNav() {
       link('/dashboard', 'Today'),
       link('/study', 'Study'),
       link('/practice', 'Practice'),
+      link('/games', '🎮 Games'),
       link('/path', 'Path'),
       link('/words', 'Words'),
       link('/leaderboard', 'Community'),
@@ -360,7 +363,7 @@ function renderNav() {
       link('/settings', '⚙'),
     ].join('');
   } else {
-    $nav.innerHTML = [link('/science', 'How it works'), link('/leaderboard', 'Community'), link('/login', 'Log in'), `<a href="/signup" data-link class="btn primary" style="color:#fff">Sign up</a>`].join('');
+    $nav.innerHTML = [link('/games', '🎮 Games'), link('/science', 'How it works'), link('/leaderboard', 'Community'), link('/login', 'Log in'), `<a href="/signup" data-link class="btn primary" style="color:#fff">Sign up</a>`].join('');
   }
 }
 
@@ -1243,6 +1246,103 @@ route(
   },
   { auth: true },
 );
+
+// ------------------------------------------------------------------ arcade
+const gamesUrl = (id, params) => {
+  const q = params ? new URLSearchParams(Object.entries(params).filter(([, v]) => v != null && v !== '')).toString() : '';
+  return `${location.origin}${BASE}/games${id ? `/${id}` : ''}${q ? `?${q}` : ''}`;
+};
+
+async function learnedWordIds() {
+  if (!state.user) return new Set();
+  const { cards } = await api('/api/words/status');
+  return new Set(cards.filter((c) => c.direction === 'r').map((c) => c.word_id));
+}
+
+route(/^\/games$/, async () => {
+  const me = state.user ? await api('/api/games/me').catch(() => null) : null;
+  const day = dayNumber();
+  const dailyLocal = (id) => {
+    try {
+      return JSON.parse(localStorage.getItem(`arcade-daily-${id}-${day}`) || 'null');
+    } catch {
+      return null;
+    }
+  };
+  $app.innerHTML = `
+    <div class="arcade-hub">
+      <div class="dubbi-intro">${dubbiSVG('cheer')}<div><h1 style="margin:0">Arcade</h1>
+        <div class="muted">Quick games built on the most-used Libyan words. Every round is retrieval practice, and your scores, XP and streak all count.</div></div></div>
+      <div class="hub-grid">
+        ${GAMES.map((g) => {
+          const best = Math.max(me?.games?.[g.id]?.best ?? 0, localBest(g.id));
+          const done = g.daily && (me?.dailyDone?.[g.id] || dailyLocal(g.id));
+          return `<a class="hub-card" href="/games/${g.id}" data-link style="--accent:${g.accent}">
+            <div class="hub-art"><span class="hub-emoji" aria-hidden="true">${g.emoji}</span><span class="hub-ar ar">${esc(g.titleAr)}</span></div>
+            <div class="hub-body">
+              <div class="spread"><h3 style="margin:0">${esc(g.title)}</h3>${g.daily ? `<span class="badge ${done ? 'green' : 'orange'}">${done ? '✓ Daily done' : `Daily #${day}`}</span>` : ''}</div>
+              <div class="small muted">Inspired by ${esc(g.inspiredBy)}</div>
+              <p class="small" style="margin:6px 0 0">${esc(g.tagline)}</p>
+              <div class="small muted" style="margin-top:6px">${best ? `🏆 Best: <strong>${best}</strong>` : 'Not played yet'}</div>
+            </div></a>`;
+        }).join('')}
+      </div>
+      <div class="card" style="margin-top:16px">
+        <div class="spread"><h2 style="margin:0">Leaderboards</h2>
+          <div class="row"><select id="lbGame" aria-label="Game">${GAMES.map((g) => `<option value="${g.id}">${g.emoji} ${esc(g.title)}</option>`).join('')}</select>
+          <select id="lbPeriod" aria-label="Period"><option value="week">This week</option><option value="all">All time</option></select></div></div>
+        <div id="lbRows" style="margin-top:10px"></div>
+      </div>
+      <div class="center" style="margin-top:16px"><button class="btn" id="shareArcade">📤 Invite friends to play</button></div>
+    </div>`;
+  const loadLb = async () => {
+    const id = document.getElementById('lbGame').value;
+    const period = document.getElementById('lbPeriod').value;
+    const box = document.getElementById('lbRows');
+    const lb = await api(`/api/games/${id}/leaderboard?period=${period}`).catch(() => ({ rows: [] }));
+    box.innerHTML = lb.rows.length
+      ? `<table class="table"><tbody>${lb.rows
+          .map((r, i) => `<tr><td style="width:2.5em">${i < 3 ? ['🥇', '🥈', '🥉'][i] : i + 1}</td><td><a href="/u/${esc(r.username)}" data-link class="row" style="gap:8px">${identicon(r.username, 'avatar sm')} ${esc(r.display_name)}</a></td><td style="text-align:right"><strong>${fmtNum(r.score)}</strong></td></tr>`)
+          .join('')}</tbody></table>${lb.me != null ? `<p class="small muted">Your best: <strong>${lb.me}</strong></p>` : ''}`
+      : '<div class="empty">No scores yet — be the first!</div>';
+  };
+  document.getElementById('lbGame').addEventListener('change', loadLb);
+  document.getElementById('lbPeriod').addEventListener('change', loadLb);
+  document.getElementById('shareArcade').addEventListener('click', async () => {
+    const r = await shareText({ title: 'Darija Libya Arcade', text: '🎮 Learning Libyan Arabic with Wordle, Flappy Bird & Fruit Ninja-style word games. Come play!', url: gamesUrl() });
+    if (r === 'copied') toast('Link copied!');
+  });
+  loadLb();
+  dubbi.say(`Pick a game! Every round trains the words you're learning. 🎮`, { mood: 'cheer', ms: 4500 });
+});
+
+route(/^\/games\/([a-z0-9-]+)$/, async (id) => {
+  const entry = gameById.get(id);
+  if (!entry) {
+    $app.innerHTML = '<div class="card empty"><h2>Game not found</h2><a href="/games" data-link class="btn">Arcade</a></div>';
+    return;
+  }
+  const [mod, words, learnedIds, me] = await Promise.all([
+    entry.load().then((m) => m.default),
+    loadWords(),
+    learnedWordIds().catch(() => new Set()),
+    state.user ? api('/api/games/me').catch(() => null) : null,
+  ]);
+  dubbi.hide();
+  return runGame($app, entry, mod, {
+    words,
+    learnedIds,
+    user: state.user,
+    best: me?.games?.[id]?.best ?? 0,
+    api,
+    speak,
+    toast,
+    navigate,
+    gamesUrl,
+    query: new URLSearchParams(location.search),
+    onExit: () => navigate('/games'),
+  });
+});
 
 // ------------------------------------------------------------------ boot
 function applyTheme() {

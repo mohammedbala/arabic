@@ -178,6 +178,44 @@ test('password change invalidates other sessions; reset progress', async () => {
   assert.equal((await a1('/api/stats')).body.introduced, 0);
 });
 
+test('arcade games: results, bests, daily status, leaderboard, feed', async () => {
+  const a = client();
+  const b = client();
+  await a('/api/auth/signup', { method: 'POST', body: { username: 'gamer1', password: 'secret-pass' } });
+  await b('/api/auth/signup', { method: 'POST', body: { username: 'gamer2', password: 'secret-pass' } });
+  assert.equal((await client()('/api/games/flappy/result', { method: 'POST', body: { score: 5 } })).status, 401);
+  assert.equal((await a('/api/games/Bad_Name!/result', { method: 'POST', body: { score: 5 } })).status, 404);
+
+  let r = await a('/api/games/flappy/result', { method: 'POST', body: { score: 12, correct: 12, total: 13, msTaken: 40000 } });
+  assert.equal(r.status, 200);
+  assert.equal(r.body.isBest, true);
+  assert.equal(r.body.best, 12);
+  assert.equal(r.body.xp, 24);
+  assert.ok(r.body.achievements.some((x) => x.code === 'arcade-first'));
+  r = await a('/api/games/flappy/result', { method: 'POST', body: { score: 7, correct: 7, total: 8 } });
+  assert.equal(r.body.isBest, false);
+  assert.equal(r.body.best, 12);
+  r = await a('/api/games/kalima/result', { method: 'POST', body: { score: 4, correct: 1, total: 1, daily: true, won: true, meta: { guesses: 4 } } });
+  assert.equal(r.body.xp, 2 + 20);
+  assert.ok(r.body.achievements.some((x) => x.code === 'arcade-daily'));
+  await b('/api/games/flappy/result', { method: 'POST', body: { score: 30, correct: 30, total: 31 } });
+
+  const me = await a('/api/games/me');
+  assert.deepEqual(me.body.games.flappy, { best: 12, plays: 2 });
+  assert.equal(me.body.dailyDone.kalima.won, true);
+  assert.equal(me.body.dailyDone.kalima.meta.guesses, 4);
+  assert.equal(me.body.dailyDone.flappy, undefined);
+
+  const lb = await client()('/api/games/flappy/leaderboard');
+  assert.deepEqual(lb.body.rows.map((x) => [x.username, x.score]), [['gamer2', 30], ['gamer1', 12]]);
+  assert.equal((await a('/api/games/flappy/leaderboard?period=week')).body.me, 12);
+
+  const stats = await a('/api/stats');
+  assert.ok(stats.body.today.xp >= 24 + 14 + 22);
+  const prof = await client()('/api/users/gamer1');
+  assert.ok(prof.body.events.some((e) => e.kind === 'game-best' && e.data.game === 'flappy' && e.data.score === 12));
+});
+
 test('SPA routes serve index.html; unknown API is JSON 404', async () => {
   const r = await fetch(base + '/u/alpha');
   assert.equal(r.status, 200);

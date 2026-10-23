@@ -15,6 +15,8 @@ import {
   getQueue,
   answerCard,
   recordDrill,
+  recordGame,
+  GAME_ID_RE,
   completeLesson,
   stats,
   contributions,
@@ -163,7 +165,7 @@ export function createApi({ db, vocab, crypto }) {
     /^\/api\/me\/reset-progress$/,
     (ctx) => {
       if (ctx.body.confirm !== ctx.user.username) throw httpError(400, 'Type your username to confirm');
-      for (const t of ['cards', 'review_log', 'activity', 'lesson_progress', 'achievements', 'events']) {
+      for (const t of ['cards', 'review_log', 'activity', 'lesson_progress', 'achievements', 'events', 'game_scores']) {
         db.prepare(`DELETE FROM ${t} WHERE user_id = ?`).run(ctx.user.id);
       }
       db.prepare('UPDATE users SET started_at = ? WHERE id = ?').run(Date.now(), ctx.user.id);
@@ -373,6 +375,53 @@ export function createApi({ db, vocab, crypto }) {
       )
       .all(`%${q}%`, `%${q}%`);
     return { json: { users: rows } };
+  });
+
+  // ------------------------------------------------------------ arcade games
+  on(
+    'POST',
+    /^\/api\/games\/([a-z0-9-]{2,24})\/result$/,
+    (ctx) => ({ json: recordGame(db, vocab, ctx.user, { ...ctx.body, game: ctx.params[0] }) }),
+    { auth: true },
+  );
+
+  on(
+    'GET',
+    /^\/api\/games\/me$/,
+    (ctx) => {
+      const rows = db
+        .prepare('SELECT game, MAX(score) best, COUNT(*) plays FROM game_scores WHERE user_id = ? GROUP BY game')
+        .all(ctx.user.id);
+      const today = localDay(ctx.user);
+      const daily = db
+        .prepare('SELECT game, MAX(won) won, meta FROM game_scores WHERE user_id = ? AND daily = 1 AND day = ? GROUP BY game')
+        .all(ctx.user.id, today);
+      return {
+        json: {
+          today,
+          games: Object.fromEntries(rows.map((r) => [r.game, { best: r.best, plays: r.plays }])),
+          dailyDone: Object.fromEntries(daily.map((r) => [r.game, { won: !!r.won, meta: JSON.parse(r.meta) }])),
+        },
+      };
+    },
+    { auth: true },
+  );
+
+  on('GET', /^\/api\/games\/([a-z0-9-]{2,24})\/leaderboard$/, (ctx) => {
+    const game = ctx.params[0];
+    if (!GAME_ID_RE.test(game)) throw httpError(400, 'Unknown game');
+    const period = ctx.query.period === 'week' ? 'week' : 'all';
+    const since = period === 'week' ? Date.now() - 7 * 86_400_000 : 0;
+    const rows = db
+      .prepare(
+        `SELECT u.username, u.display_name, MAX(g.score) score, COUNT(*) plays
+         FROM game_scores g JOIN users u ON u.id = g.user_id
+         WHERE g.game = ? AND g.ts >= ? AND u.is_public = 1 AND g.score > 0
+         GROUP BY u.id ORDER BY score DESC, MIN(g.ts) ASC LIMIT 20`,
+      )
+      .all(game, since);
+    const me = ctx.user ? db.prepare('SELECT MAX(score) best FROM game_scores WHERE user_id = ? AND game = ? AND ts >= ?').get(ctx.user.id, game, since).best : null;
+    return { json: { game, period, rows, me } };
   });
 
   on('GET', /^\/api\/health$/, () => ({ json: { ok: true, words: vocab.words.length } }));

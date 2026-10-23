@@ -106,6 +106,23 @@ CREATE TABLE IF NOT EXISTS events (
   ts      INTEGER NOT NULL
 );
 CREATE INDEX IF NOT EXISTS events_user_ts ON events(user_id, ts);
+
+-- One row per finished round of an arcade word game.
+CREATE TABLE IF NOT EXISTS game_scores (
+  id       INTEGER PRIMARY KEY,
+  user_id  INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+  game     TEXT NOT NULL,
+  score    INTEGER NOT NULL,
+  correct  INTEGER NOT NULL DEFAULT 0,
+  total    INTEGER NOT NULL DEFAULT 0,
+  daily    INTEGER NOT NULL DEFAULT 0,
+  won      INTEGER NOT NULL DEFAULT 0,
+  day      TEXT NOT NULL,
+  meta     TEXT NOT NULL DEFAULT '{}',
+  ts       INTEGER NOT NULL
+);
+CREATE INDEX IF NOT EXISTS game_scores_game ON game_scores(game, score);
+CREATE INDEX IF NOT EXISTS game_scores_user ON game_scores(user_id, game);
 `;
 
 /** Runs fn inside a transaction, rolling back on error. */

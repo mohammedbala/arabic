@@ -8,7 +8,7 @@ const DAY = 86_400_000;
 // the learner wait out a 1–10 minute step (Anki's "learn ahead limit").
 export const LEARN_AHEAD_MS = 20 * 60_000;
 
-export const XP = { newWord: 15, reviewCorrect: 10, reviewAgain: 2, drillCorrect: 3, lessonBase: 40, lessonPerPoint: 5 };
+export const XP = { newWord: 15, reviewCorrect: 10, reviewAgain: 2, drillCorrect: 3, gameCorrect: 2, gameWin: 20, lessonBase: 40, lessonPerPoint: 5 };
 
 /** 'YYYY-MM-DD' in the user's local time zone. */
 export function localDay(user, ts = Date.now()) {
@@ -180,6 +180,41 @@ export function recordDrill(db, vocab, user, { correct, total, msTaken = 0, now 
   return { xp, achievements: checkAchievements(db, vocab, user, now) };
 }
 
+export const GAME_ID_RE = /^[a-z0-9-]{2,24}$/;
+
+/**
+ * Records one finished arcade-game round: XP and activity for the
+ * contribution graph, the score for leaderboards, and a feed event when it
+ * is a new personal best.
+ */
+export function recordGame(db, vocab, user, { game, score, correct, total, msTaken = 0, daily = false, won = false, meta = {}, now = Date.now() }) {
+  if (!GAME_ID_RE.test(String(game ?? ''))) throw httpError(400, 'Unknown game');
+  score = Math.max(0, Math.min(1_000_000, Math.round(Number(score) || 0)));
+  correct = Math.max(0, Math.min(300, Math.round(Number(correct) || 0)));
+  total = Math.max(correct, Math.min(300, Math.round(Number(total) || 0)));
+  const ms = Math.max(0, Math.min(Number(msTaken) || 0, 30 * 60_000));
+  daily = daily ? 1 : 0;
+  won = won ? 1 : 0;
+  const metaJson = JSON.stringify(meta && typeof meta === 'object' ? meta : {}).slice(0, 2000);
+  return tx(db, () => {
+    const prevBest = db.prepare('SELECT MAX(score) b FROM game_scores WHERE user_id = ? AND game = ?').get(user.id, game).b;
+    const day = localDay(user, now);
+    db.prepare(
+      'INSERT INTO game_scores (user_id, game, score, correct, total, daily, won, day, meta, ts) VALUES (?,?,?,?,?,?,?,?,?,?)',
+    ).run(user.id, game, score, correct, total, daily, won, day, metaJson, now);
+    const xp = correct * XP.gameCorrect + (won ? XP.gameWin : 0);
+    bumpActivity(db, user, { drills: total, xp, ms_spent: ms }, now);
+    const isBest = score > 0 && (prevBest == null || score > prevBest);
+    const best = Math.max(score, prevBest ?? 0);
+    if (isBest) logEvent(db, user.id, 'game-best', { game, score }, now);
+    const rank =
+      db
+        .prepare('SELECT COUNT(*) n FROM (SELECT user_id, MAX(score) s FROM game_scores WHERE game = ? GROUP BY user_id) WHERE s > ?')
+        .get(game, best).n + 1;
+    return { xp, best, isBest, prevBest: prevBest ?? null, rank, achievements: checkAchievements(db, vocab, user, now) };
+  });
+}
+
 export function completeLesson(db, vocab, user, { lessonId, score, now = Date.now() }) {
   const lesson = lessonById.get(lessonId);
   if (!lesson) throw httpError(404, 'Unknown lesson');
@@ -335,12 +370,16 @@ export const ACHIEVEMENTS = [
   { code: 'goal-day', icon: '🎯', title: 'On target', desc: 'Hit your daily XP goal.' },
   { code: 'lessons-week1', icon: '🗺️', title: 'Survival kit', desc: 'Finish all week-1 lessons.' },
   { code: 'lessons-all', icon: '🎓', title: 'Grammar graduate', desc: 'Finish every lesson.' },
+  { code: 'arcade-first', icon: '🎮', title: 'Arcade debut', desc: 'Finish a round of any word game.' },
+  { code: 'arcade-daily', icon: '📅', title: 'Daily puzzler', desc: 'Solve a daily puzzle.' },
+  { code: 'arcade-50', icon: '🕹️', title: 'Arcade regular', desc: 'Play 50 rounds of word games.' },
 ];
 
 function checkAchievements(db, vocab, user, now) {
   const have = new Set(db.prepare('SELECT code FROM achievements WHERE user_id = ?').all(user.id).map((r) => r.code));
   const s = stats(db, vocab, user, now);
   const done = new Set(db.prepare('SELECT lesson_id FROM lesson_progress WHERE user_id = ?').all(user.id).map((r) => r.lesson_id));
+  const games = db.prepare('SELECT COUNT(*) plays, COALESCE(SUM(daily AND won), 0) dailyWins FROM game_scores WHERE user_id = ?').get(user.id);
   const checks = {
     'first-word': s.introduced >= 1,
     'words-50': s.introduced >= 50,
@@ -359,6 +398,9 @@ function checkAchievements(db, vocab, user, now) {
     'goal-day': s.today.xp >= user.daily_goal_xp,
     'lessons-week1': LESSONS.filter((l) => l.week === 1).every((l) => done.has(l.id)),
     'lessons-all': LESSONS.every((l) => done.has(l.id)),
+    'arcade-first': games.plays >= 1,
+    'arcade-daily': games.dailyWins >= 1,
+    'arcade-50': games.plays >= 50,
   };
   const unlocked = [];
   for (const a of ACHIEVEMENTS) {
